@@ -10,4 +10,4 @@ All of the roll call data comes from [VoteView](http://voteview.com/). If you us
 # Getting Started
 If you'd like to start using this code as a basis for your own work, you'll need to have R installed along with the ProjectTemplate, pscl, ggplot2 and rjags packages available on CRAN. In addition, you will need to have JAGS installed, as the ideal point model itself is currently implemented as a JAGS model.
 
-For details on the underlying mathematics, both [Simon Jackman](http://www.amazon.com/Bayesian-Analysis-Sciences-Probability-Statistics/dp/0470011548) and [Andrew Gelman])(http://www.amazon.com/Analysis-Regression-Multilevel-Hierarchical-Models/dp/052168689X) have written books that contain very clear descriptions of ideal point models.
+For details on the underlying mathematics, both [Simon Jackman](http://www.amazon.com/Bayesian-Analysis-Sciences-Probability-Statistics/dp/0470011548) and [Andrew Gelman](http://www.amazon.com/Analysis-Regression-Multilevel-Hierarchical-Models/dp/052168689X) have written books that contain very clear descriptions of ideal point models.
