@@ -1,0 +1,1134 @@
+   1   15 1 S. J.   5                    SRE1      JAN. 03, 1947              
+   1   15 2 S801001       Y=38 N=20                OVERTON, LA.               
+   1   15 3 S RES 1.  RESOLUTION TO REFER TO RULES COMMITTEE BILBO'S          
+   1   15 4 CLAIM TO A SENATE SEAT.  OVERTON AMEND. TO PERMIT OATH TO BE      
+   1   15 5 ADMINISTERED TO BILBO.  TAFT MOTION TO TABLE BOTH RESOLUTION      
+   1   15 6 AND AMEND.                                                        
+   2   16 1 S. J.   5                    SRE1      JAN. 03, 1947              
+   2   16 2 S801002       Y=39 N=19                WHITE, ME.                 
+   2   16 3 S RES 1.  WHITE MOTION THAT THE OATH OF OFFICE BE ADMINIS-        
+   2   16 4 TERED TO BREWSTER.  TAFT MOTION TO TABLE OVERTON MOTION TO        
+   2   16 5 SUBSTITUTE THE NAME OF BILBO.                                     
+   3   17 1 S. J.   6                    PROC      JAN. 03, 1947              
+   3   17 2 S801003       Y=32 N=18                BARKLEY, KY.               
+   3   17 3 S RES 1.  BARKLEY MOTION THAT THE SENATE RECESS TILL NOON         
+   3   17 4 FOLLOWING DAY.                                                    
+   4   18 1 S. J.  67                    SRE46     JAN. 22, 1947              
+   4   18 2 S801004       Y=45 N=47                TYDINGS, MD.               
+   4   18 3 S RES 46.  RESOLUTION CONTINUING THE AUTHORITY FOR THE IN-        
+   4   18 4 VESTIGATION OF THE NATIONAL DEFENSE PROGRAM.  TYDINGS AMEND.      
+   4   18 5 TO PROVIDE FOR INVESTIGATION TO BE MADE BY THE COMMITTEE ON       
+   4   18 6 EXPENDITURES IN THE EX. DEPTS.                                    
+   5   19 1 S. J.  67                    SRE46     JAN. 22, 1947              
+   5   19 2 S801005       Y=49 N=43                                           
+   5   19 3 S RES 46.  AGREEING TO.                                           
+   6   20 1 S. J.  71                    SRE20     JAN. 24, 1947              
+   6   20 2 S801006       Y=41 N=47                TOBEY, N.H.                
+   6   20 3 S RES 20.  RESOLUTION APPOINTING SPECIAL COMMITTEE TO STUDY       
+   6   20 4 THE PROBLEMS OF SMALL BUSINESS.  TOBEY AMEND. TO SUBSTITUTE       
+   6   20 5 COMMITTEE ON BANKING CURRENCY.                                    
+   7   21 1 S. J.  71                    SRE20     JAN. 24, 1947              
+   7   21 2 S801007       Y=46 N=42                                           
+   7   21 3 S RES 20.  AGREEING TO.                                           
+   8   22 1 S. J. 114                    SCRE7     FEB. 26, 1947              
+   8   22 2 S801008       Y=51 N=33                MILLIKIN, COLO.            
+   8   22 3 S CON RES 7.  CONCURRENT RESOLUTION ESTABLISHING THE CEILING      
+   8   22 4 FOR EXPENDITURES.  MILLIKIN AMEND. TO STRIKE OUT "31.5" AND       
+   8   22 5 INSERT "33"; LINE 7, STRIKE OUT "24" AND INSERT "25.1".           
+   9   23 1 S. J. 118                    SCRE7     FEB. 28, 1947              
+   9   23 2 S801009       Y=33 N=49                GREEN, R.I.                
+   9   23 3 S CON RES 7.  GREEN SUBSTITUTE AMEND. THAT IT IS THE JUDG-        
+   9   23 4 MENT OF THE CONGRESS THAT ANY EXCESS OF REVENUES OVER EX-         
+   9   23 5 PENDITURES BE APPLIED TOWARD REDUCTION OF THE PUBLIC DEBT.        
+  10   24 1 S. J. 118                    SCRE7     FEB. 28, 1947              
+  10   24 2 S801010       Y=82 N=00                KNOWLAND, CALIF.           
+  10   24 3 S CON RES 7.  KNOWLAND AMEND. THAT NOT LESS THAN                  
+  10   24 4 $2,600,000,000 OF THE EXCESS OF REVENUES OVER EXPENDITURES        
+  10   24 5 BE APPLIED TOWARD REDUCTION OF THE PUBLIC DEBT.                   
+  11   25 1 S. J. 119                    SCRE7     FEB. 28, 1947              
+  11   25 2 S801011       Y=39 N=38                TYDINGS, MD.               
+  11   25 3 S CON RES 7.  TYDINGS AMEND. TO STRIKE: "BUT ANY SUCH RE-         
+  11   25 4 DUCTION IN THE FISCAL YEAR 1948 MAY BE COUNTED AS PART OF         
+  11   25 5 THE $2,600,000,000."                                              
+  12   26 1 S. J. 119                    SCRE7     FEB. 28, 1947              
+  12   26 2 S801012       Y=40 N=38                RUSSELL, GA.               
+  12   26 3 S CON RES 7.  RUSSELL MOTION TO TABLE TYDINGS MOTION TO RE-       
+  12   26 4 CONSIDER ABOVE VOTE.                                              
+  13   27 1 S. J. 123                    HCRE20    MAR. 03, 1947              
+  13   27 2 S801013       Y=64 N=20                                           
+  13   27 3 H CON RES 20 (SAME AS S CON RES 7).  PASSAGE.                     
+  14   28 1 S. J. 128                    HR1968    MAR. 05, 1947              
+  14   28 2 S801014       Y=29 N=58                TAYLOR, IDA.               
+  14   28 3 HR 1968.  URGENT DEFICIENCY APPROPRIATIONS.  TAYLOR AMEND.        
+  14   28 4 TO PROVIDE FOR EXPENSES OF LIQUIDATING THE OFFICE OF PRICE        
+  14   28 5 ADMINISTRATOR AND OFFICE OF TEMPORARY CONTROL.                    
+  15   29 1 S. J. 134                    HJRE27    MAR. 10, 1947              
+  15   29 2 S801015       Y=20 N=63                                           
+  15   29 3 H J RES 27.  JOINT RESOLUTION PROPOSING AMENDMENT TO THE          
+  15   29 4 CONSTITUTION RELATING TO THE TERMS OF OFFICE OF THE PRESI-        
+  15   29 5 DENT.  MOTION TO SUBSTITUTE, "CONVENTIONS OF THE SEVERAL          
+  15   29 6 STATES AS PROVIDED IN THE CONSTITUTION," FOR THE LANGUAGE OF      
+  15   29 7 THE AMEND. PROVIDING FOR "THE LEGISLATURES OF 3/4'S OF THE        
+  15   29 8 SEVERAL STATES.                                                   
+  16   30 1 S. J. 139                    HJRE27    MAR. 12, 1947              
+  16   30 2 S801016       Y=34 N=50                MAGNUSON, WASH.            
+  16   30 3 H J RES 27.  MAGNUSON AMEND. LIMITING THE OFFICE OF PRES. TO      
+  16   30 4 NO MORE THAN TWO SUCCESSIVE TERMS.                                
+  17   31 1 S. J. 141                    HJRE27    MAR. 12, 1947              
+  17   31 2 S801017       Y=14 N=66                LANGER, N.D.               
+  17   31 3 H J RES 27.  LANGER SUBSTITUTE AMEND.                             
+  18   32 1 S. J. 141                    HJRE27    MAR. 12, 1947              
+  18   32 2 S801018       Y=01 N=82                O'DANIEL, TEX.             
+  18   32 3 H J RES 27.  O'DANIEL AMEND. TO LIMIT THE PRES. TO ONE TERM       
+  18   32 4 OF 6 YEARS.                                                       
+  19   33 1 S. J. 142                    HJRE27    MAR. 12, 1947              
+  19   33 2 S801019       Y=59 N=23                                           
+  19   33 3 H J RES 27.  PASSAGE.                                             
+  20   34 1 S. J. 151                    HR2157    MAR. 19, 1947              
+  20   34 2 S801020       Y=23 N=40                HOLLAND, FLA.              
+  20   34 3 HR 2157.  DEFINE AND LIMIT THE JURISDICTION OF THE COURTS,        
+  20   34 4 REGULATES ACTING ARISING UNDER CERTAIN LAWS OF THE U.S.--         
+  20   34 5 PORTAL-TO-PORTAL PAY.  HOLLAND AMEND.--STATUTE OF LIMITA-         
+  20   34 6 TIONS.                                                            
+  21   35 1 S. J. 157                    HR2157    MAR. 21, 1947              
+  21   35 2 S801021       Y=35 N=53                MCCARRAN, NEV.             
+  21   35 3 HR 2157.  MC CARRAN AMEND., SUBSTITUTE FOR COMMITTEE AMEND.,      
+  21   35 4 RELATING TO EXISTING AND FUTURE CLAIMS.                           
+  22   36 1 S. J. 158                    HR2157    MAR. 21, 1947              
+  22   36 2 S801022       Y=39 N=50                HOLLAND, FLA.              
+  22   36 3 HR 2157.  HOLLAND AMEND. TO STRIKE ALL PROVISIONS RELATING        
+  22   36 4 TO THE WALSH-HEALEY AND BACON-DAVIS ACTS.                         
+  23   37 1 S. J. 158                    HR2157    MAR. 21, 1947              
+  23   37 2 S801023       Y=39 N=50                KILGORE, W.VA.             
+  23   37 3 HR 2157.  KILGORE AMEND. TO PROVIDE AGAINST CERTAIN CLAIMS        
+  23   37 4 BEING FOR ACTIVITIES WHICH ARE NORMALLY ENGAGED IN DURING         
+  23   37 5 THE WORKING DAY.                                                  
+  24   38 1 S. J. 158                    HR2157    MAR. 21, 1947              
+  24   38 2 S801024       Y=28 N=61                MAGNUSON, WASH.            
+  24   38 3 HR 2157.  MAGNUSON AMEND. TO CHANGE LIMITATION OF TIME WITH-      
+  24   38 4 IN WHICH CLAIMS MAY BE PROSECUTED.                                
+  25   39 1 S. J. 158                    HR2157    MAR. 21, 1947              
+  25   39 2 S801025       Y=57 N=32                TAFT, OHIO                 
+  25   39 3 HR 2157.  TAFT MOTION TO TABLE MYERS AMEND. TO INCREASE           
+  25   39 4 MINIMUM WAGE FROM 40 PER HOUR TO 60 PER HOUR UNDER THE            
+  25   39 5 FAIR LABOR STANDARDS ACT.                                         
+  26   40 1 S. J. 159                    HR2157    MAR. 21, 1947              
+  26   40 2 S801026       Y=64 N=24                                           
+  26   40 3 HR 2157.  PASSAGE.                                                
+  27   41 1 S. J. 162                    S736      MAR. 24, 1947              
+  27   41 2 S801027       Y=56 N=17                                           
+  27   41 3 S 736.  AUTHORIZE THE COMMISSIONERS OF DC TO ESTABLISH DAY-       
+  27   41 4 LIGHT SAVING TIME.  PASSAGE.                                      
+  28   42 1 S. J. 167                    SJRE58    MAR. 26, 1947              
+  28   42 2 S801028       Y=26 N=48                MCCARTHY, WISC.            
+  28   42 3 S J RES 58.  JOINT RESOLUTION TO EXTEND THE POWERS AND            
+  28   42 4 AUTHORITIES UNDER CERTAIN STATUTES W/RESPECT TO THE DISTRI-       
+  28   42 5 BUTION AND PRICING OF SUGAR.  MC CARTHY MOTION TO TABLE           
+  28   42 6 TOBEY AMEND. TO ALLOW FOR THE ALLOCATION OF 50 POUNDS PER         
+  28   42 7 CAPITA FOR HOME CONSUMPTION.                                      
+  29   43 1 S. J. 169                    SJRE58    MAR. 27, 1947              
+  29   43 2 S801029       Y=49 N=32                TOBEY, N.H.                
+  29   43 3 S J RES 58.  TOBEY AMEND. PROVIDING FOR ALLOCATION OF SUGAR.      
+  30   44 1 S. J. 169                    SJRE58    MAR. 27, 1947              
+  30   44 2 S801030       Y=45 N=35                MCCARTHY, WISC.            
+  30   44 3 S J RES 58.  MC CARTHY AMEND. TO CONTINUE SUGAR CONTROL           
+  30   44 4 UNTIL OCT. 31, 1947, INSTEAD OF MARCH 31, 1948.                   
+  31   45 1 S. J. 170                    SJRE58    MAR. 27, 1947              
+  31   45 2 S801031       Y=32 N=47                MCCARTHY, WISC.            
+  31   45 3 S J RES 58.  MC CARTHY AMEND. TO INCREASE ALLOCATION OF RE-       
+  31   45 4 FINED SUGAR FOR HOME CONSUMPTION TO 40 POUNDS.                    
+  32   46 1 S. J/ 170                    SJRE58    MAR. 27, 1947              
+  32   46 2 S801032       Y=34 N=44                WHERRY, NEB.               
+  32   46 3 S J RES 58.  WHERRY AMEND. TO INCREASE ALLOCATION OF REFINED      
+  32   46 4 SUGAR FOR HOME CONSUMPTION TO 40 POUNDS W/LIMITATION FOR THE      
+  32   46 5 THIRD QUARTER OF 1947.                                            
+  33   47 1 S. J. 170                    SJRE58    MAR. 27, 1947              
+  33   47 2 S801033       Y=44 N=36                TAFT, OHIO                 
+  33   47 3 S J RES 58.  TAFT MOTION TO TABLE O'MAHONEY MOTION TO REFER       
+  33   47 4 W/INSTRUCTIONS TO REPORT BACK TOMORROW.                           
+  34   48 1 S. J. 170                    SJRE58    MAR. 27, 1947              
+  34   48 2 S801034       Y=46 N=34                                           
+  34   48 3 S J RES 58.  PASSAGE.                                             
+  35    1 1 S. J. 385                    NOM       APR. 03, 1947              
+  35    1 2 E801001       Y=38 N=52                                           
+  35    1 3 NOMINATION OF DAVID LILIENTHAL TO BE A MEMBER OF THE AEC.         
+  35    1 4 BRICKER MOTION TO RECOMMIT.                                       
+  36   49 1 S. J. 184                    S814      APR. 07, 1947              
+  36   49 2 S801035       Y=53 N=10                ROBERTSON, WYO.            
+  36   49 3 S 814.  PROVIDE SUPPORT FOR WOOL, CONTINUE COMMODITY CREDIT       
+  36   49 4 CORP.  ROBERTSON (WYO.) MOTION TO PROCEED TO CONSIDERATION        
+  36   49 5 OF.                                                               
+  37    2 1 S. J. 399                    NOM       APR. 09, 1947              
+  37    2 2 E801002       Y=50 N=31                                           
+  37    2 3 AGREEING TO NOMINATION OF DAVID LILIENTHAL.                       
+  38   50 1 S. J. 205                    S938      APR. 22, 1947              
+  38   50 2 S801036       Y=22 N=68                JOHNSON, COLO.             
+  38   50 3 S 938.  PROVIDE ASSISTANCE TO GREECE AND TURKEY.  JOHNSON         
+  38   50 4 (COLO.) AMEND. TO PROVIDE NONMILITARY ASSISTANCE.                 
+  39   51 1 S. J. 205                    S938      APR. 22, 1947              
+  39   51 2 S801037       Y=23 N=67                ROBERTSON, WYO.            
+  39   51 3 S 938.  ROBERTSON (WYO.) MOTION TO TABLE THE BILL.                
+  40   52 1 S. J. 206                    S938      APR. 22, 1947              
+  40   52 2 S801038       Y=67 N=23                                           
+  40   52 3 S 938.  PASSAGE.                                                  
+  41    3 1 S. J. 425                    NOM       APR. 24, 1947              
+  41    3 2 E801003       Y=36 N=31                                           
+  41    3 3 NOMINATION OF GORDON CLAPP TO BE A MEMBER OF THE TVA.             
+  41    3 4 AGREEING TO NOMINATION.                                           
+  42    4 1 S. J. 427                    NOM       APR. 24, 1947              
+  42    4 2 E801004       Y=35 N=30                TOBEY, N.H.                
+  42    4 3 TOBEY MOTION TO TABLE HILL MOTION TO RECONSIDER VOTE ON THE       
+  42    4 4 NOMINATION OF GORDON CLAPP.                                       
+  43   53 1 S. J. 221                    S1126     APR. 30, 1947              
+  43   53 2 S801039       Y=35 N=59                MORSE, ORE.                
+  43   53 3 S 1126.  AMEND THE NLRA, PROVIDE ADDITIONAL FACILITIES FOR        
+  43   53 4 THE MEDIATION OF LABOR DISPUTES AFFECTING COMMERCE, EQUALIZE      
+  43   53 5 LEGAL RESPONSIBILITIES OF LABOR ORGANIZATIONS AND EMPLOYERS.      
+  43   53 6 MORSE MOTION TO RECOMMIT W/INSTRUCTIONS TO REPORT BACK ON OR      
+  43   53 7 BEFORE MAY 2, FOUR SEPARATE BILLS.                                
+  44   54 1 S. J. 230                    S1126     MAY 02, 1947               
+  44   54 2 S801040       Y=60 N=28                BALL, MINN.                
+  44   54 3 S 1126.  BALL AMEND. TO INCLUDE AS AN UNFAIR LABOR PRACTICE       
+  44   54 4 COERCION OF EMPLOYEES BY A LABOR ORGANIZATION OR ITS AGENTS.      
+  45   55 1 S. J. 233                    HR2700    MAY 05, 1947               
+  45   55 2 S801041       Y=23 N=57                MCCARRAN, NEV.             
+  45   55 3 HR 2700.  APPROPRIATIONS FOR THE DEPT. OF LABOR, THE FED.         
+  45   55 4 SECURITY AGENCY, AND RELATED INDEPENDENT AGENCIES.                
+  45   55 5 MC CARRAN AMEND; TO INCREASE TO THE AMOUNT OF THE BUDGET          
+  45   55 6 ESTIMATE THE APPROPRIATION FOR SALARIES IN THE OFFICE OF THE      
+  45   55 7 SEC. OF LABOR.                                                    
+  46   56 1 S. J. 233                    HR2700    MAY 05, 1947               
+  46   56 2 S801042       Y=30 N=40                MCCARRAN, NEV.             
+  46   56 3 HR 2700.  MC CARRAN AMEND. TO INCREASE THE AMOUNT PROPOSED        
+  46   56 4 BY THE COMMITTEE FOR THE BUREAU OF LABOR STATISTICS.              
+  47   57 1 S. J. 233                    HR2700    MAY 05, 1947               
+  47   57 2 S801043       Y=34 N=24                                           
+  47   57 3 HR 2700.  COMMITTEE AMEND. TO REDUCE THE APPROPRIATION FOR        
+  47   57 4 THE NATIONAL CANCER INSTITUTE.                                    
+  48   58 1 S. J. 237                    S1126     MAY 06, 1947               
+  48   58 2 S801044       Y=59 N=17                TAFT, OHIO                 
+  48   58 3 S 1126.  AMEND. THE NLRA.  TAFT MOTION TO TABLE KILGORE           
+  48   58 4 MOTION TO POSTPONE CONSIDERATION OF THE BILL UNTIL MAY 15.        
+  49   59 1 S. J. 239                    S1126     MAY 07, 1947               
+  49   59 2 S801045       Y=43 N=44                BALL, MINN.                
+  49   59 3 S 1126.  BALL AMEND. TO RESTRICT INDUSTRY-WIDE COLLECTIVE         
+  49   59 4 BARGAINING.                                                       
+  50   60 1 S. J. 242                    S1126     MAY 08, 1947               
+  50   60 2 S801046       Y=48 N=40                BALL, MINN.                
+  50   60 3 S 1126.  BALL AMEND. TO RESTRICT PAYMENTS TO UNIONS FOR WEL-      
+  50   60 4 FARE PURPOSES AND TO PROVIDE FOR JOINT ADMINISTRATION OF          
+  50   60 5 WELFARE FUNDS BY UNIONS AND EMPLOYEES.                            
+  51   61 1 S. J. 245                    S1126     MAY 09, 1947               
+  51   61 2 S801047       Y=28 N=62                BALL, MINN.                
+  51   61 3 S 1126.  BALL AMEND. TO OUTLAW SECONDARY BOYCOTTS AND JURIS-      
+  51   61 4 DICTIONAL STRIKES AND TO PROVIDE INJUNCTIVE AND OTHER RELIEF      
+  51   61 5 THROUGH COURTS.                                                   
+  52   62 1 S. J. 246                    S1126     MAY 09, 1947               
+  52   62 2 S801048       Y=36 N=54                AIKEN, VT.                 
+  52   62 3 S 1126.  AIKEN AMEND. TO PROVIDE INJUNCTIVE RELIEF AGAINST        
+  52   62 4 LABOR ORGANIZATIONS WHERE DAMAGES TO AGRICULTURAL COMMODI-        
+  52   62 5 TIES ARE SUFFERED THROUGH SECONDARY BOYCOTTS OR JURISDIC-         
+  52   62 6 TIONAL STRIKES.                                                   
+  53   63 1 S. J. 247                    S1126     MAY 09, 1947               
+  53   63 2 S801049       Y=65 N=26                TAFT, OHIO                 
+  53   63 3 S 1126.  TAFT AMEND. TO OUTLAW SECONDARY BOYCOTTS AND JURIS-      
+  53   63 4 DICTIONAL STRIKES AND TO PROVIDE FOR SUITS FOR DAMAGES            
+  53   63 5 AGAINST LABOR ORGANIZATIONS ENGAGED THEREIN.                      
+  54   64 1 S. J. 247                    S1126     MAY 09, 1947               
+  54   64 2 S801050       Y=21 N=57                BALL, MINN.                
+  54   64 3 S 1126.  BALL AMEND. TO STRIKE PROVISIONS LEGALIZING CON-         
+  54   64 4 TRACTS BETWEEN EMPLOYERS AND LABOR ORGANIZATIONS MAKING           
+  54   64 5 MEMBERSHIPS IN UNIONS A CONDITION OF EMPLOYMENT.                  
+  55   65 1 S. J. 258                    S1126     MAY 13, 1947               
+  55   65 2 S801051       Y=19 N=73                MURRAY, MONT.              
+  55   65 3 S 1126.  MURRAY AMEND.--MEDIATION OF LABOR DISPUTES AFFECT-       
+  55   65 4 ING COMMERCE.                                                     
+  56   66 1 S. J. 258                    S1126     MAY 13, 1947               
+  56   66 2 S801052       Y=68 N=24                                           
+  56   66 3 S 1126.  PASSAGE.                                                 
+  57   67 1 S. J. 262                    HJRE153   MAY 14, 1947               
+  57   67 2 S801053       Y=19 N=64                KEM, MO.                   
+  57   67 3 H J RES 153.  JOINT RESOLUTION PROVIDING FOR RELIEF ASSIS-        
+  57   67 4 TANCE TO THE PEOPLE OF COUNTRIES DEVASTATED BY WAR.  KEM          
+  57   67 5 AMEND. TO STRIKE $350,000,000 AND INSERT $200,000,000.            
+  58   68 1 S. J. 263                    HJRE153   MAY 14, 1947               
+  58   68 2 S801054       Y=79 N=04                                           
+  58   68 3 H J RES 153.  COMMITTEE AMEND.                                    
+  59   69 1 S. J. 269                    S526      MAY 16, 1947               
+  59   69 2 S801055       Y=30 N=49                KILGORE, W.VA.             
+  59   69 3 S 526.  NATIONAL FOUNDATION ACT.  KILGORE AMEND. PROVIDING        
+  59   69 4 THAT OF THE FUNDS APPROPRIATED FOR RESEARCH AND DEVELOPMENT,      
+  59   69 5 NOT LESS THAN 25% SHALL BE APPROPRIATED AMONG THE STATES.         
+  60   70 1 S. J. 274                    S526      MAY 19, 1947               
+  60   70 2 S801056       Y=42 N=40                MORSE, ORE.                
+  60   70 3 S 526.  MORSE AMEND. TO PROVIDE FOR THE APPORTIONMENT OF          
+  60   70 4 FUNDS APPROPRIATED TO THE FOUNDATION.                             
+  61   71 1 S. J. 276                    S526      MAY 19, 1947               
+  61   71 2 S801057       Y=28 N=50                KILGORE, W.VA.             
+  61   71 3 S 526.  KILGORE AMEND. AS A SUBSTITUTE FOR SECTION RELATING       
+  61   71 4 TO PATENT RIGHTS.                                                 
+  62   72 1 S. J. 279                    S526      MAY 20, 1947               
+  62   72 2 S801058       Y=23 N=52                KILGORE, W.VA.             
+  62   72 3 S 526.  KILGORE SUBSTITUTE AMENDMENTS.                            
+  63   73 1 S. J. 279                    S526      MAY 20, 1947               
+  63   73 2 S801059       Y=40 N=39                LUCAS, ILL.                
+  63   73 3 S 526.  LUCAS MOTION TO RECONSIDER VOTE ON ABOVE.                 
+  64   74 1 S. J. 279                    S526      MAY 20, 1947               
+  64   74 2 S801060       Y=42 N=41                MAGNUSON, WASH.            
+  64   74 3 S 526.  MAGNUSON AMEND. SO THAT CONTROL OF APPOINTMENTS           
+  64   74 4 SHALL REST IN THE PRES.                                           
+  65   75 1 S. J. 279                    S526      MAY 20, 1947               
+  65   75 2 S801061       Y=23 N=63                FULBRIGHT, ARK.            
+  65   75 3 S 526.  FULBRIGHT AMEND. TO PROVIDE FOR A DIVISION OF SOCIAL      
+  65   75 4 SCIENCE IN THE FOUNDATION.                                        
+  66   76 1 S. J. 280                    S526      MAY 20, 1947               
+  66   76 2 S801062       Y=79 N=08                                           
+  66   76 3 S 526.  PASSAGE.                                                  
+  67   77 1 S. J. 292                    HR1       MAY 26, 1947               
+  67   77 2 S801063       Y=44 N=48                GEORGE, GA.                
+  67   77 3 H R 1.  REDUCE INDIVIDUAL INCOME TAX PAYMENTS.  GEORGE            
+  67   77 4 MOTION TO POSTPONE FURTHER CONSIDERATION UNTIL JUNE 10.           
+  68   78 1 S. J. 296                    HR1       MAY 27, 1947               
+  68   78 2 S801064       Y=29 N=51                MCCLELLAN, ARK.            
+  68   78 3 HR 1.  MC CLELLAN AMEND. TO PROVIDE FOR SPLITTING INCOME          
+  68   78 4 TAX IN RETURN BY HUSBAND AND WIFE.                                
+  69   79 1 S. J. 298                    HR1       MAY 28, 1947               
+  69   79 2 S801065       Y=24 N=54                MCCLELLAN, ARK.            
+  69   79 3 HR 1.  MC CLELLAN AMEND. TO PERMIT PARTNERSHIP RETURN OF IN-      
+  69   79 4 COME OF HUSBAND AND WIFE.                                         
+  70   80 1 S. J. 298                    HR1       MAY 28, 1947               
+  70   80 2 S801066       Y=27 N=44                MCCLELLAN, ARK.            
+  70   80 3 HR 1.  MC CLELLAN AMEND. TO INCREASE PERSONAL EXEMPTION.          
+  71   81 1 S. J. 299                    HR1       MAY 28, 1947               
+  71   81 2 S801067       Y=16 N=60                MCCARRAN, NEV.             
+  71   81 3 HR 1.  MC CARRAN AMEND. TO PERMIT REDUCTION FROM GROSS IN-        
+  71   81 4 COME OF CAPITAL EXPENDITURES FOR TRADE OR SMALL BUSINESS UP       
+  71   81 5 TO $125,000.                                                      
+  72   82 1 S. J. 300                    HR1       MAY 28, 1947               
+  72   82 2 S821068       Y=28 N=58                LUCAS, ILL.                
+  72   82 3 HR 1.  LUCAS SUBSTITUTE AMEND. TO PROVIDE FOR AN INCREASE IN      
+  72   82 4 PERSONAL EXEMPTION AND REDUCTION IN SURTAX ON INDIVIDUALS.        
+  73   83 1 S. J. 300                    HR1       MAY 28, 1947               
+  73   83 2 S801069       Y=37 N=47                PEPPER, FLA.               
+  73   83 3 HR 1.  PEPPER AMEND. TO EXEMPT FROM INCOME TAX TUITION AND        
+  73   83 4 INCIDENTAL EXPENSES INCURRED BY TEACHERS.                         
+  74   84 1 S. J. 300                    HR1       MAY 28, 1947               
+  74   84 2 S801070       Y=52 N=34                                           
+  74   84 3 HR 1.  PASSAGE.                                                   
+  75   85 1 S. J. 303                    S1017     MAY 29, 1947               
+  75   85 2 S801071       Y=48 N=26                HAWKES, N.J.               
+  75   85 3 S 1017.  PROVIDING FOR THE TEMPORARY CONTINUATION OF RENT         
+  75   85 4 CONTROL, TRANSFERRING RENT CONTROL TO THE HOUSING EXPEDITER,      
+  75   85 5 PROVIDING FOR THE CREATION OF LOCAL ADVISORY BOARDS ON RENT       
+  75   85 6 CONTROL.  HAWKES AMEND. TO PERMIT INCREASE IN MAXIMUM RENT        
+  75   85 7 BY 15% WHERE LEASE IS EXECUTED EXPIRING DEC. 31, 1948.            
+  76   86 1 S. J. 306                    HR3203    JUNE 02, 1947              
+  76   86 2 S801072       Y=16 N=58                TAYLOR, IDA.               
+  76   86 3 HR 3203.  RELATIVE TO MAXIMUM RENTS ON HOUSING ACCOMMODA-         
+  76   86 4 TIONS, REPEAL CERTAIN PROVISIONS OF PUBLIC LAW 388, 79TH          
+  76   86 5 CONG.  TAYLOR AMEND. TO PROVIDE FOR THE CONTINUATION OF RENT      
+  76   86 6 CONTROL UNTIL JUNE 30, 1948.                                      
+  77   87 1 S. J. 310                    HR1       JUNE 03, 1947              
+  77   87 2 S801073       Y=48 N=28                                           
+  77   87 3 HR 1.  REDUCE INDIVIDUAL INCOME TAX PAYMENTS.  ADOPTION OF        
+  77   87 4 CONFERENCE REPORT.                                                
+  78    5 1 S. J. 676                    SRE       JUNE 05, 1947              
+  78    5 2 E801005       Y=22 N=67                FULBRIGHT, ARK.            
+  78    5 3 EXECUTIVE F, THE TREATY OF PEACE WITH ITALY.  FULBRIGHT           
+  78    5 4 MOTION TO POSTPONE UNTIL JAN. 25, 1948 THE FURTHER CONSIDE-       
+  78    5 5 RATION OF THE TREATY.                                             
+  79    6 1 S. J. 677                    SRE       JUNE 05, 1947              
+  79    6 2 E801006       Y=79 N=10                                           
+  79    6 3 EXEC. F.  RATIFICATION.                                           
+  80   88 1 S. J. 327                    HR3020    JUNE 06, 1947              
+  80   88 2 S801074       Y=54 N=17                                           
+  80   88 3 HR 3020.  AMEND THE NLRB.  ADOPTION OF CONFERENCE REPORT.         
+  81   89 1 S. J. 345                    SRE81     JUNE 17, 1947              
+  81   89 2 S801075       Y=44 N=35                                           
+  81   89 3 S RES 81.  RESOLUTION AUTHORIZING THE COMMITTEE ON CIVIL          
+  81   89 4 SERVICE TO INVESTIGATE THE APPOINTMENT OF POSTMASTERS.            
+  81   89 5 PASSAGE.                                                          
+  82   90 1 S. J. 348                    S110      JUNE 18, 1947              
+  82   90 2 S801076       Y=60 N=27                                           
+  82   90 3 S 110.  AMEND THE INTERSTATE COMMERCE ACT W/RESPECT TO CER-       
+  82   90 4 TAIN CARRIERS.                                                    
+  83   91 1 S. J. 352                    S814      JUNE 19, 1947              
+  83   91 2 S801077       Y=48 N=38                                           
+  83   91 3 S 814.  PROVIDE SUPPORT FOR WOOL.  ADOPTION OF CONFERENCE         
+  83   91 4 REPORT.                                                           
+  84   92 1 S. J. 375                    HR3020    JUNE 20, 1947              
+  84   92 2 S801078       Y=16 N=52                MCGRATH, R.I.              
+  84   92 3 HR 3020.  AMEND THE NLRA.  MC GRATH MOTION TO RECESS UNTIL        
+  84   92 4 NOON TOMORROW.                                                    
+  85   93 1 S. J. 376                    HR3020    JUNE 20, 1947              
+  85   93 2 S801079       Y=50 N=14                TAFT, OHIO                 
+  85   93 3 HR 3020.  TAFT MOTION TO TABLE PEPPER MOTION THAT THE FUR-        
+  85   93 4 THER CONSIDERATION OF PASSAGE OVER THE PRES.'S VETO BE POST-      
+  85   93 5 PONED.                                                            
+  86   94 1 S. J. 378                    HR3020    JUNE 23, 1947              
+  86   94 2 S801080       Y=68 N=25                                           
+  86   94 3 HR 3020.  PASSAGE OVER THE PRESIDENT'S VETO.                      
+  87   95 1 S. J. 394                    S564      JUNE 27, 1947              
+  87   95 2 S801081       Y=31 N=55                RUSSELL, GA.               
+  87   95 3 S 564.  PROVIDE FOR THE PERFORMANCE OF THE DUTIES OF THE          
+  87   95 4 OFFICE OF THE PRESI. IN CASE OF THE REMOVAL, RESIGNATION, OR      
+  87   95 5 INABILITY, BOTH OF THE PRES. AND VICE-PRES.  RUSSELL AMEND.       
+  87   95 6 TO PROVIDE FOR SUCCESSION OF PRES.'S PRO TEMPORE OF THE           
+  87   95 7 SENATE AHEAD OF THE SPEAKER OF THE HOUSE.                         
+  88   96 1 S. J. 394                    S564      JUNE 27, 1947              
+  88   96 2 S801082       Y=36 N=50                MCCLELLAN, ARK.            
+  88   96 3 S 564.  MC CLELLAN AMEND. TO MAKE THE ACT EFFECTIVE ON            
+  88   96 4 JAN. 20, 1949.                                                    
+  89   97 1 S. J. 394                    S564      JUNE 27, 1947              
+  89   97 2 S801083       Y=50 N=35                                           
+  89   97 3 S 564.  PASSAGE.                                                  
+  90   98 1 S. J. 396                    HR2436    JUNE 27, 1947              
+  90   98 2 S801084       Y=51 N=26                                           
+  90   98 3 HR 2436.  APPROPRIATIONS FOR THE TREASURY AND POST OFFICE         
+  90   98 4 DEPTS.  ADOPTION OF CONFERENCE REPORT.                            
+  91   99 1 S. J. 405                    HCRE49    JUNE 30, 1947              
+  91   99 2 S801085       Y=42 N=40                                           
+  91   99 3 H CON RES 49.  CONCURRENT RESOLUTION AGAINST ADOPTION OF          
+  91   99 4 REORGANIZATION PLAN. NO. 2.                                       
+  92  100 1 S. J. 409                    HR3311    JULY 01, 1947              
+  92  100 2 S801086       Y=38 N=39                LUCAS, ILL.                
+  92  100 3 HR 3311.  APPROPRIATIONS FOR THE DEPTS OF STATE, JUSTICE,         
+  92  100 4 COMMERCE, AND THE JUDICIARY.  LUCAS AMEND. TO INCREASE            
+  92  100 5 APPROPRIATION FOR FED. AID TO THE AIRPORT PROGRAM FROM            
+  92  100 6 $32,500,000 TO $65,000,000.                                       
+  93  101 1 S. J. 410                    HR3311    JULY 01, 1947              
+  93  101 2 S801087       Y=39 N=43                LUCAS, ILL.                
+  93  101 3 HR 3311.  LUCAS AMEND. TO INCREASE THE APPROPRIATION FOR          
+  93  101 4 FED. AID TO THE AIRPORT PROGRAM FROM $32,500,000 TO               
+  93  101 5 $50,000,000.                                                      
+  94    7 1 S. J.                        NOM       JULY 08, 1947              
+  94    7 2 S801007       Y=39 N=46                O'DANIEL, TEX.             
+  94    7 3 NOMINATION OF JOE DOOLEY TO BE U.S. JUDGE FOR THE NORTHERN        
+  94    7 4 DISTRICT OF TEXAS.  O'DANIEL MOTION TO RECOMMIT.                  
+  95    8 1 S. J.                        NOM       JULY 08, 1947              
+  95    8 2 S801008       Y=48 N=36                                           
+  95    8 3 CONFIRMATION OF NOMINATION.                                       
+  96  102 1 S. J. 431                    SJRE145   JULY 08, 1947              
+  96  102 2 S801088       Y=35 N=41                                           
+  96  102 3 S J RES 145.  JOINT RESOLUTION AUTHORIZING COMMENCEMENT OF        
+  96  102 4 ACTION BY THE U.S. TO DETERMINE INTERSTATE WATER RIGHTS ON        
+  96  102 5 THE COLORADO RIVER.  APPEAL FROM DECISION OF THE CHAIR IN         
+  96  102 6 REFERRING RESOLUTION TO THE JUDICIARY COMMITTEE.                  
+  97  103 1 S. J. 434                    S758      JULY 09, 1947              
+  97  103 2 S801089       Y=19 N=52                MCCARTHY, WISC.            
+  97  103 3 S 758.  ESTABLISHMENT OF SINGLE DEPT. OF NATIONAL DEFENSE.        
+  97  103 4 MC CARTHY AMEND. PROVIDING THAT THE MARINE CORPS SHALL NOT        
+  97  103 5 BE ALTERED OR DIMINISHED OR EXISTING FUNCTIONS TRANSFERRED        
+  97  103 6 TO OTHER SERVICES.                                                
+  98  104 1 S. J. 444                    HR3950    JULY 12, 1947              
+  98  104 2 S801090       Y=22 N=60                MORSE, ORE.                
+  98  104 3 HR 3950.  REDUCE INDIVIDUAL INCOME TAX PAYMENTS.  MORSE           
+  98  104 4 AMEND. TO PROVIDE FOR TAX PLANNING DURING PROSPEROUS TIMES        
+  98  104 5 AND DURING PERIODS OF DECLINES IN EMPLOYMENT AND PRODUCTION.      
+  99  105 1 S. J. 445                    HR3950    JULY 12, 1947              
+  99  105 2 S801091       Y=18 N=62                MORSE, ORE.                
+  99  105 3 HR 3950.  MORSE AMEND. TO CHANGE THE TAXABILITY OF INTEREST       
+  99  105 4 ON FEDERAL, STATE, AND LOCAL OBLIGATIONS ISSUED AFTER             
+  99  105 5 JAN. 1, 1948.                                                     
+ 100  106 1 S. J. 448                    HR3950    JULY 14, 1947              
+ 100  106 2 S801092       Y=40 N=52                MCCLELLAN, ARK.            
+ 100  106 3 HR 3950.  MC CLELLAN AMEND. TO PERMIT SPLITTING OF INCOME OF      
+ 100  106 4 HUSBAND AND WIFE IN MAKING RETURNS.                               
+ 101  107 1 S. J. 449                    HR3950    JULY 14, 1947              
+ 101  107 2 S801093       Y=25 N=61                MCCLELLAN, ARK.            
+ 101  107 3 HR 3950.  MC CLELLAN AMEND. TO PERMIT INCOME TAX RETURN OF        
+ 101  107 4 FAMILY PARTNERSHIPS IN CERTAIN CASES.                             
+ 102  108 1 S. J. 449                    HR3950    JULY 14, 1947              
+ 102  108 2 S801094       Y=43 N=47                MCCLELLAN, ARK.            
+ 102  108 3 HR 3950.  MC CLELLAN AMEND. TO INCREASE PERSONAL EXEMPTION.       
+ 103  109 1 S. J. 449                    HR3950    JULY 14, 1947              
+ 103  109 2 S801095       Y=60 N=32                                           
+ 103  109 3 HR 3950.  PASSAGE.                                                
+ 104    9 1 S. J.                        SRE52     JULY 15, 1947              
+ 104    9 2 S801009       Y=66 N=19                                           
+ 104    9 3 SENATE EX. RES. 52.  DISCHARGING COMMITTEE ON PUBLIC WORKS        
+ 104    9 4 FROM THE FURTHER CONSIDERATION OF THE NOMINATION OF               
+ 104    9 5 BURTON BEHLING TO BE A MEMBER OF THE FPC AND REFERRING IT TO      
+ 104    9 6 THE COMMITTEE ON INTERSTATE AND FOREIGN COMMERCE.  PASSAGE.       
+ 105  110 1 S. J. 455                    HR3839    JULY 15, 1947              
+ 105  110 2 S801096       Y=35 N=47                FULBRIGHT, ARK.            
+ 105  110 3 HR 3839.  APPROPRIATIONS FOR THE EXECUTIVE OFFICE AND INDE-       
+ 105  110 4 PENDENT OFFICES.  FULBRIGHT AMEND. TO INCREASE THE APPRO-         
+ 105  110 5 PRIATION FOR THE FTC.                                             
+ 106  111 1 S. J. 456                    HR1394    JULY 15, 1947              
+ 106  111 2 S801097       Y=35 N=29                BREWSTER, ME.              
+ 106  111 3 HR 1394.  PROVIDE INCREASED SUBSISTENCE ALLOWANCE TO VETE-        
+ 106  111 4 RANS PURSUING CERTAIN COURSES UNDER SERVICEMEN'S READJUST-        
+ 106  111 5 MENT ACT OF 1944.  BREWSTER MOTION TO ADJOURN.                    
+ 107  112 1 S. J. 462                    HR3756    JULY 16, 1947              
+ 107  112 2 S801098       Y=33 N=49                SPARKMAN, ALA.             
+ 107  112 3 HR 3756.  APPROPRIATIONS FOR GOV'T CORPORATIONS AND INDEPEN-      
+ 107  112 4 DENT EXECUTIVE AGENCIES.  SPARKMAN AMEND. TO STRIKE PROVI-        
+ 107  112 5 SION PROHIBITING THE PAYMENT OF LOCAL TAXES ON HOUSING PRO-       
+ 107  112 6 JECTS IN EXCESS OF THE AMOUNTS SPECIFIED IN THE ORIGINAL          
+ 107  112 7 CONTRACT W/THE FED. PUBLIC HOUSING AUTHORITY.                     
+ 108  113 1 S. J. 482                    HR3950    JULY 18, 1947              
+ 108  113 2 S801099       Y=57 N=36                                           
+ 108  113 3 HR 3950.  (SAME AS HR 1) REDUCE INDIVIDUAL INCOME TAX PAY-        
+ 108  113 4 MENTS.  ON PASSAGE OVER PRES.'S VETO.                             
+ 109  114 1 S. J. 484                    HR4017    JULY 19, 1947              
+ 109  114 2 S801100       Y=85 N=00                                           
+ 109  114 3 HR 4017.  AMEND THE ARMED FORCES LEAVE ACT OF 1946 TO PERMIT      
+ 109  114 4 SETTLEMENT AND COMPENSATION TO BE MADE IN CASH.  PASSAGE.         
+ 110  115 1 S. J. 485                    S1293     JULY 19, 1947              
+ 110  115 2 S801101       Y=40 N=37                TAFT, OHIO                 
+ 110  115 3 S 1293.  ENABLE THE VA TO PROVIDE HOUSING UNITS FOR CERTAIN       
+ 110  115 4 DISABLED VETERANS OF WW II.  TAFT MOTION TO RECOMMIT W/IN-        
+ 110  115 5 STRUCTIONS TO STUDY FURTHER, TOGETHER W/OTHER METHODS OF          
+ 110  115 6 DEALING ADEQUATELY W/CASES OF EXTREME DISABILITY.                 
+ 111  116 1 S. J. 485                    HR3961    JULY 19, 1947              
+ 111  116 2 S801102       Y=71 N=00                                           
+ 111  116 3 HR 3961.  PROVIDE INCREASES IN THE RATES OF PENSION PAYABLE       
+ 111  116 4 TO SPANISH-AMERICAN WAR AND CIVIL WAR VETERANS AND THEIR          
+ 111  116 5 DEPENDENTS.  PASSAGE.                                             
+ 112  117 1 S. J. 490                    HR3601    JULY 21, 1947              
+ 112  117 2 S801103       Y=81 N=00                BROOKS, ILL.               
+ 112  117 3 HR 3601.  APPROPRIATIONS FOR THE DEPT. OF AGRICULTURE.            
+ 112  117 4 BROOKS MOTION THAT THE SENATE DISAGREE TO THE AMENDMENTS OF       
+ 112  117 5 THE HOUSE TO SENATE AMEND. NO. 42.                                
+ 113  118 1 S. J. 491                    HR3601    JULY 21, 1947              
+ 113  118 2 S801104       Y=81 N=00                BROOKS, ILL.               
+ 113  118 3 HR 3601.  BROOKS MOTION THAT THE SENATE FURTHER INSIST UPON       
+ 113  118 4 ITS AMENDS. NOS. 43 AND 59.                                       
+ 114  119 1 S. J. 491                    HR3601    JULY 21, 1947              
+ 114  119 2 S801105       Y=84 N=00                BROOKS, ILL.               
+ 114  119 3 HR 3601.  BROOKS MOTION THAT THE SENATE FURTHER INSIST UPON       
+ 114  119 4 ITS AMEND. NO. 50.                                                
+ 115  120 1 S. J. 500                    HCRE51    JULY 22, 1947              
+ 115  120 2 S801106       Y=38 N=47                                           
+ 115  120 3 H CON RES 51.  CONCURRENT RESOLUTION AGAINST THE ADOPTION OF      
+ 115  120 4 REORGANIZATION PLAN NO. 3.                                        
+ 116  121 1 S. J. 505                    S526      JULY 22, 1947              
+ 116  121 2 S801107       Y=38 N=46                MORSE, ORE.                
+ 116  121 3 S 526.  NATIONAL SCIENCE FOUNDATION ACT.  MORSE MOTION THAT       
+ 116  121 4 FURTHER CONSIDERATION OF THE CONFERENCE REPORT BE POSTPONED       
+ 116  121 5 UNTIL JAN. 8, 1948.                                               
+ 117  122 1 S. J. 531                    HR4002    JULY 24, 1947              
+ 117  122 2 S801108       Y=42 N=34                IVES, N.Y.                 
+ 117  122 3 HR 4002.  APPROPRIATIONS FOR THE CIVIL FUNCTIONS ADMINIS-         
+ 117  122 4 TERED BY THE WAR DEPT.  IVES MOTION TO SUSPEND PARAGRAPH 4        
+ 117  122 5 OF RULE XVI.                                                      
+ 118  123 1 S. J. 531                    HR4002    JULY 24, 1947              
+ 118  123 2 S801109       Y=15 N=67                DWORSHAK, IDA.             
+ 118  123 3 HR 4002.  DWORSHAK MOTION TO RECOMMIT WITH INSTRUCTIONS TO        
+ 118  123 4 DEDUCT $100,000,000.                                              
+ 119  124 1 S. J. 531                    HR4002    JULY 24, 1947              
+ 119  124 2 S801110       Y=78 N=05                                           
+ 119  124 3 HR 4002.  PASSAGE.                                                
+ 120  125 1 S. J. 532                    SRE150    JULY 24, 1947              
+ 120  125 2 S801111       Y=46 N=25                MCCARRAN, NEV.             
+ 120  125 3 S RES 150.  RESOLUTION TO DISCHARGE THE JUDICIARY COMMITTEE       
+ 120  125 4 FROM FURTHER CONSIDERATION OF S RES 116--KANSAS CITY VOTE         
+ 120  125 5 FRAUDS.  MC CARRAN'S APPEAL FROM THE DECISION OF THE CHAIR,       
+ 120  125 6 TAFT MOTION TO TABLE.                                             
+ 121  126 1 S. J. 532                    SRE150    JULY 24, 1947              
+ 121  126 2 S801112       Y=45 N=30                FERGUSON, MICH.            
+ 121  126 3 S RES 150.  FERGUSON MOTION TO TABLE GEORGE MOTION TO POST-       
+ 121  126 4 PONE TILL JAN. 3, THE FURTHER CONSIDERATION OF WHERRY MOTION      
+ 121  126 5 TO PROCEED TO THE CONSIDERATION OF THE RESOLUTION.                
+ 122  127 1 S. J. 532                    SRE150    JULY 24, 1947              
+ 122  127 2 S801113       Y=30 N=41                                           
+ 122  127 3 S RES 150.  ON REQUEST THAT A CERTAIN STATEMENT IN THE HEAR-      
+ 122  127 4 INGS BE READ.                                                     
+ 123  128 1 S. J. 541                    HR3756    JULY 25, 1947              
+ 123  128 2 S801114       Y=01 N=83                                           
+ 123  128 3 HR 3756.  APPROPRIATIONS FOR GOV'T CORPORATIONS AND INDEPEN-      
+ 123  128 4 DENT EXECUTIVE AGENCIES.  ADOPTION OF CONFERENCE REPORT.          
+ 124  129 1 S. J. 543                    HR2181    JULY 25, 1947              
+ 124  129 2 S801115       Y=31 N=45                TAFT, OHIO                 
+ 124  129 3 HR 2181.  INSTITUTIONAL ON-FARM TRAINING FOR VETERANS.  TAFT      
+ 124  129 4 MOTION TO RECOMMIT.                                               
+ 125  130 1 S. J. 545                    S1393     JULY 25, 1947              
+ 125  130 2 S801116       Y=20 N=57                TAFT, OHIO                 
+ 125  130 3 S 1393.  INCREASE THE PERMITTED RATE OF ALLOWANCE AND COM-        
+ 125  130 4 PENSATION FOR TRAINING ON THE JOB UNDER VETERANS REGULATION       
+ 125  130 5 NO. 1.  TAFT MOTION TO RECOMMIT.                                  
+ 126  131 1 S. J. 547                    HR4075    JULY 25, 1947              
+ 126  131 2 S801117       Y=40 N=42                CHAVEZ, N.M.               
+ 126  131 3 HR 4075.  REGULATE COMMERCE AMONG THE STATES, W/THE TERRI-        
+ 126  131 4 TORIES AND POSSESSIONS OF THE U.S., AND W/FOREIGN COUNTRIES;      
+ 126  131 5 PROTECT THE WELFARE OF CONSUMERS OF SUGARS AND THOSE ENGAGED      
+ 126  131 6 IN THE DOMESTIC SUGAR-PRODUCING INDUSTRY; PROMOTE THE EXPORT      
+ 126  131 7 TRADE OF THE US.  CHAVEZ AMEND. ON TREATMENT OF U.S.              
+ 126  131 8 NATIONALS.                                                        
+ 127   10 1 S. J. 900                    PROC      JULY 26, 1947              
+ 127   10 2 E801010       Y=38 N=41                BREWSTER, ME.              
+ 127   10 3 NOMINATION OF PHILIP PERLMAN TO BE SOLICITOR GENERAL OF THE       
+ 127   10 4 US.  BREWSTER MOTION TO ADJOURN.                                  
+ 128   11 1 S. J. 901                    PROC      JULY 26, 1947              
+ 128   11 2 E801011       Y=41 N=38                BREWSTER, ME.              
+ 128   11 3 PERLMAN NOMINATION.  BREWSTER REQUEST THAT THE CLERK BE           
+ 128   11 4 DIRECTED TO READ A CERTAIN EXTRACT FROM THE CONG. RECORD.         
+ 129   12 1 S. J. 902                    PROC      JULY 26, 1947              
+ 129   12 2 E801012       Y=44 N=35                MCCLELLAN, ARK.            
+ 129   12 3 PERLMAN NOMINATION.  MC CLELLAN MOTION THAT THE READING OF        
+ 129   12 4 THE EXCERPT FROM THE CONG. RECORD BE DISCONTINUED.                
+ 130   13 1 S. J. 903                    NOM       JULY 26, 1947              
+ 130   13 2 E801013       Y=58 N=21                                           
+ 130   13 3 AGREEING TO NOMINATION OF PHILLIP PERLMAN TO BE SOLICITOR         
+ 130   13 4 GENERAL OF THE U.S..                                              
+ 131  132 1 S. J. 596                    S1774     NOV. 26, 1947              
+ 131  132 2 S801118       Y=30 N=56                MALONE, NEV.               
+ 131  132 3 S 1774.  PROVIDE SUPPLIES TO CERTAIN EUROPEAN COUNTRIES ON        
+ 131  132 4 AN EMERGENCY BASIS.  MALONE AMEND. TO SUBSTITUTE                  
+ 131  132 5 $400,000,000 FOR THE AMOUNT REPORTED BY THE COMMITTEE.            
+ 131  132 6 (A DECREASE)                                                      
+ 132  133 1 S. J. 599                    S1774     DEC. 01, 1947              
+ 132  133 2 S801119       Y=83 N=06                                           
+ 132  133 3 S 1774.  PASSAGE.                                                 
+ 133   14 1 S. J.                        SRE       DEC. 08, 1947              
+ 133   14 2 E801014       Y=72 N=01                                           
+ 133   14 3 EXECUTIVE II, THE INTER-AMERICAN TREATY OF RECIPROCAL ASSIS-      
+ 133   14 4 TANCE.  RATIFICATION.                                             
+ 134  134 1 S. J. 610                    HR4469    DEC. 16, 1947              
+ 134  134 2 S801120       Y=51 N=26                                           
+ 134  134 3 HR 4469.  COMMISSION ON ORGANIZATION OF THE EXECUTIVE             
+ 134  134 4 BRANCH.  ADOPTION OF CONFERENCE REPORT.                           
+ 135  135 1 S. J. 614                    SJRE167   DEC. 18, 1947              
+ 135  135 2 S801121       Y=32 N=47                                           
+ 135  135 3 S J RES 167.  JOINT RESOLUTION TO AID IN THE STABILIZATION        
+ 135  135 4 OF COMMODITY PRICES; AID IN FURTHER STABILIZING THE ECONOMY.      
+ 135  135 5 BARKLEY AMEND. TO AUTHORIZE THE PRES. TO ISSUE REGULATIONS        
+ 135  135 6 AND ORDERS IN CONNECTION W/VOLUNTARY AGREEMENTS.                  
+ 136  136 1 S. J. 615                    SJRE167   DEC. 18, 1947              
+ 136  136 2 S801122       Y=35 N=48                BARKLEY, KY.               
+ 136  136 3 S J RES 167.  BARKLEY AMENDS. TO PROVIDE FOR PRIORITY ALLO-       
+ 136  136 4 CATION AND INVENTORY CONTROL IN LIEU OF VOLUNTARY AGREEMENTS      
+ 136  136 5 AND APPROVAL BY ATTY. GEN. OF PLAN OF VOLUNTARY ACTION W/OUT      
+ 136  136 6 PROSECUTION UNDER ANTITRUST LAWS.                                 
+ 137  137 1 S. J. 616                    SJRE167   DEC. 18, 1947              
+ 137  137 2 S801123       Y=42 N=44                BARKLEY, KY.               
+ 137  137 3 S J RES 167.  BARKLEY AMEND. TO STRIKE SECTION RELATING TO        
+ 137  137 4 VOLUNTARY AGREEMENTS AND FREEDOM FROM PROSECUTION UNDER           
+ 137  137 5 ANTITRUST LAWS.                                                   
+ 138  138 1 S. J. 616                    SJRE167   DEC. 18, 1947              
+ 138  138 2 S801124       Y=77 N=10                                           
+ 138  138 3 S J RES 167.  PASSAGE.                                            
+ 139  139 1 S. J.  92                    S2182     FEB. 24, 1948              
+ 139  139 2 S802001       Y=24 N=45                CAIN, WASH.                
+ 139  139 3 S 2182.  EXTEND CERTAIN PROVISIONS OF THE HOUSING AND RENT        
+ 139  139 4 ACT OF 1947 TO PROVIDE FOR THE TERMINATION OF CONTROLS ON         
+ 139  139 5 MAXIMUM RENTS IN AREAS AND ON HOUSING ACCOMMODATIONS WHERE        
+ 139  139 6 CONDITIONS JUSTIFYING SUCH CONTROLS NO LONGER EXIST.  CAIN        
+ 139  139 7 AMEND. TO PERMIT INCREASE IN MAXIMUM RENT BY 15% OR AT THE        
+ 139  139 8 RENT IN EFFECT, AS OF FEB. 24, 1948, WHICHEVER IS HIGHEST.        
+ 140  140 1 S. J.  93                    S2182     FEB. 24, 1948              
+ 140  140 2 S802002       Y=25 N=43                MCCLELLAN, ARK.            
+ 140  140 3 S 2182.  MC CLELLAN AMEND. PROPOSING REMOVAL OF MAXIMUM RENT      
+ 140  140 4 CONTROL IN CERTAIN AREAS.                                         
+ 141  141 1 S. J.  93                    S2182     FEB. 24, 1948              
+ 141  141 2 S802003       Y=35 N=29                MILLIKIN, COLO.            
+ 141  141 3 S 2182.  MILLIKIN AMEND. PROVIDING FOR ELIMINATION FROM THE       
+ 141  141 4 BILL OF THE CRIMINAL PENALTY PROVISION.                           
+ 142  142 1 S. J.  93                    S2182     FEB. 24, 1948              
+ 142  142 2 S802004       Y=29 N=37                SPARKMAN, ALA.             
+ 142  142 3 S 2182.  SPARKMAN AMEND. AUTHORIZING THE FILING OF SUITS FOR      
+ 142  142 4 TRIPLE DAMAGES AGAINST VIOLATORS OF THE ACT.                      
+ 143  143 1 S. J. 105                    SJRE186   FEB. 26, 1948              
+ 143  143 2 S802005       Y=54 N=16                COOPER, KY.                
+ 143  143 3 S J RES 186.  JOINT RESOLUTION AUTHORIZING THE ALLOCATION         
+ 143  143 4 AND INVENTORY CONTROL OF GRAIN FOR THE PRODUCTION OF ETHYL        
+ 143  143 5 ALCOHOL, CONSERVE GRAIN IN AID OF THE NATIONAL DEFENSE AND        
+ 143  143 6 IN FURTHERANCE OF STABILIZATION OF THE NATIONAL ECONOMY.          
+ 143  143 7 COOPER AMEND. PROVIDING CONDITIONS OF ALLOTMENT OF GRAIN TO       
+ 143  143 8 DISTILLERS AND THE DISTILLING INDUSTRY.                           
+ 144  144 1 S. J. 107                    SJRE111   FEB. 27, 1948              
+ 144  144 2 S802006       Y=57 N=30                SMITH, N.J.                
+ 144  144 3 S J RES 111.  JOINT RESOLUTION AS AN AGREEMENT BETWEEN THE        
+ 144  144 4 U.S. AND CANADA RELATING TO ST. LAWRENCE-GREAT LAKES BASIN.       
+ 144  144 5 SMITH MOTION TO RECOMMIT.                                         
+ 145  145 1 S. J. 126                    S2202     MAR. 08, 1948              
+ 145  145 2 S802007       Y=19 N=53                BALL, MINN.                
+ 145  145 3 S 2202.  PROMOTE THE GENERAL WELFARE, NATIONAL INTEREST, AND      
+ 145  145 4 FOREIGN POLICY OF THE U.S. THROUGH NECESSARY ECONOMIC AND         
+ 145  145 5 FINANCIAL ASSISTANCE TO FOREIGN COUNTRIES WHICH UNDERTAKE TO      
+ 145  145 6 COOPERATE W/EACH OTHER IN THE ESTABLISHMENT AND MAINTENANCE       
+ 145  145 7 OF ECONOMIC CONDITIONS ESSENTIAL TO A PEACEFUL AND PROSPE-        
+ 145  145 8 ROUS WORLD.  BALL AMEND. PROVIDING THAT RECIPIENT COUNTRIES       
+ 145  145 9 SHALL MAINTAIN A RATE OF EXCHANGE REFLECTING W/REASONABLE         
+ 145  14510 ACCURACY THE RELATIVE PURCHASING POWER OF SUCH CURRENCY.          
+ 146  146 1 S. J. 130                    S2202     MAR. 10, 1948              
+ 146  146 2 S802008       Y=03 N=74                TAYLOR, IDA.               
+ 146  146 3 S 2202.  TAYLOR AMEND. TO PROVIDE FOR ESTABLISHMENT OF A          
+ 146  146 4 EUROPEAN RECONSTRUCTION AND ECONOMIC DEVELOPMENT ADMIN. W/IN      
+ 146  146 5 THE UN TO AID RECIPIENT NATIONS W/OUT REGARD TO POLITICAL         
+ 146  146 6 AND SOCIAL INSTITUTIONS. AND PROVIDING FOR A DISARMAMENT          
+ 146  146 7 CONFERENCE.                                                       
+ 147  147 1 S. J. 133                    S2202     MAR. 11, 1948              
+ 147  147 2 S802009       Y=25 N=52                BROOKS, ILL.               
+ 147  147 3 S 2202.  BROOKS AMEND. TO PROVIDE A SPECIAL REPRESENTATIVE        
+ 147  147 4 IN EUROPE HAVING THE TITLE OF AGENT GENERAL OF ECONOMIC           
+ 147  147 5 COOPERATION RATHER THAN AMBASSADOR EXTRAORDINARY AND PLENI-       
+ 147  147 6 POTENTIARY.                                                       
+ 148  148 1 S. J. 134                    S2202     MAR. 12, 1948              
+ 148  148 2 S802010       Y=34 N=38                BROOKS, ILL.               
+ 148  148 3 S 2202.  BROOKS AMEND. TO AUTHORIZE PER CENTAGE OF FUNDS          
+ 148  148 4 APPROPRIATED TO PAY OCEAN FREIGHT CHARGES ON RELIEF PACKAGES      
+ 148  148 5 UNDER CERTAIN CONDITIONS.                                         
+ 149  149 1 S. J. 136                    S2202     MAR. 12, 1948              
+ 149  149 2 S802011       Y=31 N=56                TAFT, OHIO                 
+ 149  149 3 S 2202.  TAFT AMEND. TO REDUCE THE FIRST YEAR AUTHORIZATION       
+ 149  149 4 OF FUNDS.                                                         
+ 150  150 1 S. J. 138                    S2202     MAR. 13, 1948              
+ 150  150 2 S802012       Y=13 N=73                O'DANIEL, TEX.             
+ 150  150 3 S 2202.  O'DANIEL AMEND. TO AUTHORIZE THE APPROPRIATION OF        
+ 150  150 4 FUNDS FOR A CERTAIN PERIOD FOR ADDITIONAL PAYMENT THROUGH         
+ 150  150 5 STATE AGENCIES TO EACH INDIVIDUAL RECEIVING OLD-AGE ASSIS-        
+ 150  150 6 TANCE.                                                            
+ 151  151 1 S. J. 138                    S2202     MAR. 13, 1948              
+ 151  151 2 S802013       Y=08 N=78                PEPPER, FLA.               
+ 151  151 3 S 2202.  PEPPER AMEND. TO AUTHORIZE ADDITIONAL FUNDS TO AID       
+ 151  151 4 AND ENCOURAGE THE PROGRAM OF THE INTERNATIONAL CHILDREN'S         
+ 151  151 5 EMERGENCY FUND.                                                   
+ 152  152 1 S. J. 146                    S2202     MAR. 13, 1948              
+ 152  152 2 S802014       Y=22 N=68                CAPEHART, IND.             
+ 152  152 3 S 2202.  CAPEHART AMEND. TO PROVIDE FOR THE ESTABLISHMENT OF      
+ 152  152 4 AN INTERNATIONAL RELIEF ADMIN. TO PROMOTE EUROPEAN RECOVERY       
+ 152  152 5 THROUGH THE INTERNATIONAL DIVISION OF THE RECONSTRUCTION          
+ 152  152 6 FINANCE CORP.                                                     
+ 153  153 1 S. J. 146                    S2202     MAR. 13, 1948              
+ 153  153 2 S802015       Y=69 N=17                                           
+ 153  153 3 S 2202.  PASSAGE.                                                 
+ 154  154 1 S. J. 154                    HCRE131   MAR. 16, 1948              
+ 154  154 2 S802016       Y=58 N=25                                           
+ 154  154 3 H CON RES 131.  CONCURRENT RESOLUTION AGAINST ADOPTION OF         
+ 154  154 4 REORGANIZATION PLAN NO. 1.                                        
+ 155  155 1 S. J. 161                    HR4790    MAR. 18, 1948              
+ 155  155 2 S802017       Y=33 N=45                FULBRIGHT, ARK.            
+ 155  155 3 HR 4790.  REDUCE INDIVIDUAL INCOME TAX PAYMENTS.  FULBRIGHT       
+ 155  155 4 AMEND. PROVIDING FOR THE REPEAL OF THE OCCUPATIONAL TAX ON        
+ 155  155 5 MANUFACTURERS AND DEALERS OF OLEOMARGARINE AND TO ASSESS A        
+ 155  155 6 TAX ON DEALERS WHO VEND ONLY OLEO.  UPON WHICH A TAX OF 1/4       
+ 155  155 7 OF 1 CENT PER POUND WOULD HAVE BEEN IMPOSED.                      
+ 156  156 1 S. J. 161                    HR4790    MAR. 18, 1948              
+ 156  156 2 S802018       Y=33 N=45                MAYBANK, S.C.              
+ 156  156 3 HR 4790.  MAYBANK AMEND. PROVIDING FOR THE REPEAL OF EXIST-       
+ 156  156 4 ING TAXES ON MANUFACTURERS, WHOLESALERS, AND RETAILERS OF         
+ 156  156 5 OLEOMARGARINE AND TO ASSESS AND COLLECT A TAX OF 1/4 OF 1    S    
+ 156  156 6 PER POUND ON COLORED OLEO. MANUFACTURED AND SOLD, OR REMOVED      
+ 156  156 7 FOR CONSUMPTION OR USE.                                           
+ 157  157 1 S. J. 163                    HR4790    MAR. 19, 1948              
+ 157  157 2 S802019       Y=13 N=67                MCCARRAN, NEV.             
+ 157  157 3 HR 4790.  MC CARRAN AMEND. TO ELIMINATE SEATING OR SLEEPING       
+ 157  157 4 ACCOMMODATIONS TAXES ON VEHICULAR TRANSPORTATION.                 
+ 158  158 1 S. J. 164                    HR4790    MAR. 19, 1948              
+ 158  158 2 S802020       Y=33 N=46                CONNALLY, TEX.             
+ 158  158 3 HR 4790.  CONNALLY AMEND. PROVIDING FOR REPEAL OF COMMUNITY       
+ 158  158 4 PROPERTY ESTATE TAX AMENDMENTS, RETROACTIVE TO 1942.              
+ 159  159 1 S. J. 170                    HR4790    MAR. 19, 1948              
+ 159  159 2 S802021       Y=67 N=15                                           
+ 159  159 3 HR 4790.  COMMITTEE AMEND., AMENDING AND DEFINING THE COMMU-      
+ 159  159 4 NITY-PROPERTY PROVISIONS OF THE BILL.                             
+ 160  160 1 S. J. 171                    HR4790    MAR. 19, 1948              
+ 160  160 2 S802022       Y=26 N=58                O'MAHONEY, WYO.            
+ 160  160 3 HR 4790.  O'MAHONEY AMEND. TO RESTORE EXCESS-PROFITS TAX,         
+ 160  160 4 EFFECTIVE BEGINNING JAN. 1, 1948, ALLOWING CERTAIN EXEMP-         
+ 160  160 5 TIONS FOR LARGE AND SMALL CROPS.                                  
+ 161  161 1 S. J. 172                    HR4790    MAR. 19, 1948              
+ 161  161 2 S802023       Y=21 N=46                FULBRIGHT, ARK.            
+ 161  161 3 HR 4790.  FULBRIGHT AMEND. TO PERMIT CORPORATIONS A SPECIFIC      
+ 161  161 4 EXEMPTION OF $15,000 FROM THEIR ADJUSTED NET INCOMES FOR TAX      
+ 161  161 5 PURPOSES.                                                         
+ 162  162 1 S. J. 174                    HR4790    MAR. 22, 1948              
+ 162  162 2 S802024       Y=22 N=68                MORSE, ORE.                
+ 162  162 3 HR 4790.  MORSE AMEND. TO AMEND SECTION 122 INTERNAL REVENUE      
+ 162  162 4 CODE CONCERNING CARRY-BACKS AND CARRY OVERS OF NET OPERATING      
+ 162  162 5 LOSS IN BUSINESS.                                                 
+ 163  163 1 S. J. 175                    HR4790    MAR. 22, 1948              
+ 163  163 2 S802025       Y=31 N=59                MORSE, ORE.                
+ 163  163 3 HR 4790.  MORSE AMEND. TO AMEND INTERNAL REVENUE CODE BY          
+ 163  163 4 ADDING NEW PROVISIONS CONCERNING OPTIONAL TAX IN CASE OF          
+ 163  163 5 SMALL CORPORATIONS AND THEIR SHAREHOLDERS.                        
+ 164  164 1 S. J. 175                    HR4790    MAR. 22, 1948              
+ 164  164 2 S802026       Y=78 N=11                                           
+ 164  164 3 HR 4790.  PASSAGE.                                                
+ 165  165 1 S. J. 178                    S472      MAR. 23, 1948              
+ 165  165 2 S802027       Y=53 N=21                WHERRY, NEB.               
+ 165  165 3 S 472.  FEDERAL AID TO EDUCATION.  WHERRY MOTION TO PROCEED       
+ 165  165 4 TO CONSIDERATION OF BILL.                                         
+ 166  166 1 S. J. 196                    S472      MAR. 31, 1948              
+ 166  166 2 S802028       Y=05 N=80                DONNELL, MO.               
+ 166  166 3 S 472.  DONNELL AMEND. ADDING THE PROVISION THAT NO FUNDS         
+ 166  166 4 SHALL BE DISBURSED IN ANY STATE FOR THE SUPPORT OF ANY SEC-       
+ 166  166 5 TARIAN OR PRIVATE SCHOOL.                                         
+ 167  167 1 S. J. 200                    S472      APR. 01, 1948              
+ 167  167 2 S802029       Y=14 N=66                MCMAHON, CT.               
+ 167  167 3 S 472.  MC MAHON AMEND. OUTLINING THE METHOD OF DETERMINING       
+ 167  167 4 THE AMOUNT OF ASSISTANCE EACH RESPECTIVE STATE SHALL RECEIVE      
+ 167  167 5 AND AUTHORIZING PAYMENT TO NONPUBLIC TAX-EXEMPT SCHOOLS           
+ 167  167 6 UNDER CERTAIN CONDITIONS.                                         
+ 168  168 1 S. J. 200                    S472      APR. 01, 1948              
+ 168  168 2 S802030       Y=14 N=62                HAWKES, N.J.               
+ 168  168 3 S 472.  HAWKES AMEND. PROVIDING FOR THE TEACHING OF THE CON-      
+ 168  168 4 STITUTION IN PUBLIC ELEMENTARY AND SECONDARY SCHOOLS W/IN         
+ 168  168 5 RESPECTIVE STATES IN ORDER TO QUALIFY FOR BENEFITS UNDER THE      
+ 168  168 6 BILL.                                                             
+ 169  169 1 S. J. 201                    S472      APR. 01, 1948              
+ 169  169 2 S802031       Y=58 N=22                                           
+ 169  169 3 S 472.  PASSAGE.                                                  
+ 170  170 1 S. J. 222                    HR4790    APR. 02, 1948              
+ 170  170 2 S802032       Y=77 N=10                                           
+ 170  170 3 HR 4790.  REDUCE INDIVIDUAL INCOME TAX PAYMENTS.  PASSAGE         
+ 170  170 4 OVER PRES.'S VETO.                                                
+ 171  171 1 S. J. 237                    S1481     APR. 06, 1948              
+ 171  171 2 S802033       Y=16 N=47                OVERTON, LA.               
+ 171  171 3 S 1481.  AUTHORIZE THE BOARD OF COMMISSIONERS OF D.C. TO          
+ 171  171 4 ESTABLISH DAY-LIGHT SAVING TIME.  OVERTON AMEND. PROVIDING        
+ 171  171 5 FOR A REFERENDUM.                                                 
+ 172  172 1 S. J. 237                    S1481     APR. 06, 1948              
+ 172  172 2 S802034       Y=46 N=17                                           
+ 172  172 3 S 1481.  PASSAGE.                                                 
+ 173  173 1 S. J. 240                    S1557     APR. 07, 1948              
+ 173  173 2 S802035       Y=33 N=27                WHERRY, NEB.               
+ 173  173 3 S 1557.  INCORPORATE THE CATHOLIC WAR VETERANS.  WHERRY           
+ 173  173 4 MOTION TO PROCEED TO THE CONSIDERATION OF.                        
+ 174  174 1 S. J. 241                    S1557     APR. 07, 1948              
+ 174  174 2 S802036       Y=44 N=15                CORDON, ORE.               
+ 174  174 3 S 1557.  CORDON MOTION TO RECOMMIT.                               
+ 175  175 1 S. J. 244                    HR3484    APR. 08, 1948              
+ 175  175 2 S802037       Y=23 N=44                                           
+ 175  175 3 HR 3484.  TRANSFER THE REMOUNT SERVICE FROM THE WAR DEPT. TO      
+ 175  175 4 THE DEPT. OF AGRICULTURE.  THOMAS (OKA.) MOTION TO REFER TO       
+ 175  175 5 THE AGRICULTURE AND FORESTRY COMMITTEE.                           
+ 176  176 1 S. J. 244                    HR3484    APR. 08, 1948              
+ 176  176 2 S802038       Y=15 N=43                                           
+ 176  176 3 HR 3484.  THOMAS AMEND. PROVIDING FOR THE TRANSFER OF CER-        
+ 176  176 4 TAIN REMOUNT STATIONS FROM THE WAR DEPT. TO THE AGRICULTURE       
+ 176  176 5 DEPT. AND JUSTICE DEPT.                                           
+ 177  177 1 S. J. 263                    HR5052    APR. 20, 1948              
+ 177  177 2 S802039       Y=77 N=07                                           
+ 177  177 3 HR 5052.  EXCLUDE CERTAIN VENDORS OF NEWSPAPERS OR MAGAZINES      
+ 177  177 4 FROM CERTAIN PROVISIONS OF THE SOCIAL SECURITY ACT AND IN-        
+ 177  177 5 TERNAL REVENUE CODE.  PASSAGE OVER THE PRES.' VETO.               
+ 178  178 1 S. J. 268                    S866      APR. 21, 1948              
+ 178  178 2 S802040       Y=35 N=49                CAIN, WASH.                
+ 178  178 3 S 866.  ESTABLISH A NATIONAL HOUSING OBJECTIVE.  CAIN AMEND.      
+ 178  178 4 AS SUBSTITUTE PROVIDING FOR FINANCING 500,000 HOUSING UNITS       
+ 178  178 5 FOR LOW-INCOME FAMILIES.                                          
+ 179  179 1 S. J. 283                    PROC      APR. 30, 1948              
+ 179  179 2 S802041       Y=44 N=17                WHERRY, NEB.               
+ 179  179 3 S 2565.  PROVIDE FOR A TEMPORARY EXTENSION OF TITLE VI OF         
+ 179  179 4 THE NATIONAL HOUSING ACT.  WHERRY MOTION TO ADJOURN (1:11)        
+ 179  179 5 TILL 1:12.                                                        
+ 180  180 1 S. J. 292                    HR2245    MAY 04, 1948               
+ 180  180 2 S802042       Y=15 N=56                FULBRIGHT, ARK.            
+ 180  180 3 HR 2245.  REPEAL THE TAX ON OLEOMARGARINE.  FULBRIGHT POINT       
+ 180  180 4 OF ORDER, SUBMITTED TO THE SENATE, THAT THE BILL HAVING BEEN      
+ 180  180 5 READ TWICE SHOULD BE PLACED ON THE CALENDAR.                      
+ 181  181 1 S. J. 296                    HR2245    MAY 05, 1948               
+ 181  181 2 S802043       Y=30 N=47                                           
+ 181  181 3 HR 2245.  ON APPEAL FROM THE DECISION OF THE CHAIR REFERRING      
+ 181  181 4 THE BILL TO THE AGRICULTURE AND FORESTRY COMMITTEE.               
+ 182  182 1 S. J. 300                    S2565     MAY 05, 1948               
+ 182  182 2 S802044       Y=28 N=43                CAIN, WASH.                
+ 182  182 3 S 2565.  PROVIDE FOR A TEMPORARY EXTENSION OF TITLE VI OF         
+ 182  182 4 THE NATIONAL HOUSING ACT.  CAIN AMEND. AS A SUBSTITUTE TO         
+ 182  182 5 PROVIDE FOR EXTENSION OF GOV'T HOME-LOAN INSURANCE GUARANTEE      
+ 182  182 6 TO MARCH 31, 1949, AND TO INCREASE THE AUTHORIZATION FOR THE      
+ 182  182 7 PURPOSES DEFINED THEREIN.                                         
+ 183  183 1 S. J. 302                    HR6226    MAY 06, 1948               
+ 183  183 2 S802045       Y=74 N=02                                           
+ 183  183 3 HR 6226.  SUPPLEMENTAL APPROPRIATIONS FOR THE NATIONAL            
+ 183  183 4 DEFENSE.  PASSAGE.                                                
+ 184  184 1 S. J. 318                    HJRE334   MAY 13, 1948               
+ 184  184 2 S802046       Y=38 N=37                MORSE, ORE.                
+ 184  184 3 H J RES 334.  RESOLUTION GIVING THE CONSENT OF CONGRESS TO        
+ 184  184 4 THE COMPACT ON REGIONAL EDUCATION ENTERED INTO BETWEEN THE        
+ 184  184 5 SOUTHERN STATES.  MORSE MOTION TO RECOMMIT.                       
+ 185  185 1 S. J. 333                    HR5524    MAY 19, 1948               
+ 185  185 2 S802047       Y=18 N=55                REED, KAN.                 
+ 185  185 3 HR 5524.  APPROPRIATIONS FOR THE CIVIL FUNCTIONS ADMINISTER-      
+ 185  185 4 ED BY THE DEPT. OF THE ARMY.  REED MOTION TO RECOMMIT WITH        
+ 185  185 5 INSTRUCTIONS.                                                     
+ 186  186 1 S. J. 336                    SRE232    MAY 20, 1948               
+ 186  186 2 S802048       Y=20 N=51                                           
+ 186  186 3 S RES 232.  RESOLUTION TO DISCHARGE THE COMMITTEE ON IN-          
+ 186  186 4 TERIOR AND INSULAR AFFAIRS FROM THE FURTHER CONSIDERATION OF      
+ 186  186 5 HR 49, THE HAWAIIAN STATEHOOD BILL.                               
+ 187  187 1 S. J. 340                    S1004     MAY 21, 1948               
+ 187  187 2 S802049       Y=47 N=29                                           
+ 187  187 3 S 1004.  AMEND THE ATOMIC ENERGY ACT OF 1949.  ON PASSAGE         
+ 187  187 4 OVER PRES.' VETO.                                                 
+ 188  188 1 S. J. 343                    HR5883    MAY 21, 1948               
+ 188  188 2 S802050       Y=28 N=34                UMSTEAD, N.C.              
+ 188  188 3 HR 5883.  APPROPRIATIONS FOR THE DEPT. OF AGRICULTURE.            
+ 188  188 4 UMSTEAD AMEND. TO INCREASE THE AUTHORIZATION FOR EXPENDI-         
+ 188  188 5 TURES ON SOIL CONSERVATION PROGRAMS BY $100,000,000.              
+ 189  189 1 S. J. 351                    HR5883    MAY 24, 1948               
+ 189  189 2 S802051       Y=41 N=38                RUSSELL, GA.               
+ 189  189 3 HR 5883.  RUSSELL AMEND. TO INCREASE THE AUTHORIZATION FOR        
+ 189  189 4 EXPENDITURES ON SOIL CONSERVATION, INCLUDING SALARIES AND         
+ 189  189 5 OTHER ADMINISTRATIVE EXPENSES, BY $50,000,000.                    
+ 190  190 1 S. J. 354                    HR5883    MAY 25, 1948               
+ 190  190 2 S802052       Y=44 N=39                WILEY, WISC.               
+ 190  190 3 HR 5883.  WILEY AMEND. TO INCREASE FUNDS AUTHORIZED FOR EX-       
+ 190  190 4 PENDITURE ON FOREST PRODUCTS EXPERIMENTS, INVESTIGATIONS,         
+ 190  190 5 AND TESTS BY $125,000.                                            
+ 191  191 1 S. J. 354                    HR5883    MAY 25, 1948               
+ 191  191 2 S802053       Y=38 N=42                YOUNG, N.D.                
+ 191  191 3 HR 5883.  YOUNG AMEND. PROVIDING FOR DISTRIBUTION OF AAA          
+ 191  191 4 FUNDS ON BASIS OF 1947 PROGRAMS RATHER THAN CONSERVATION          
+ 191  191 5 NEEDS OF THE STATES.                                              
+ 192  192 1 S. J. 370                    SRE245    MAY 27, 1948               
+ 192  192 2 S802054       Y=34 N=39                                           
+ 192  192 3 S RES 245.  RESOLUTION PROVIDING FOR INVESTIGATION OF VOICE       
+ 192  192 4 OF AMERICA.  APPEAL FROM DECISION OF THE CHAIR REFERRING          
+ 192  192 5 RESOLUTION TO COMMITTEE ON EXPENDITURES IN THE EX. DEPTS.         
+ 193  193 1 S. J. 371                    S2242     MAY 27, 1948               
+ 193  193 2 S802055       Y=40 N=33                FERGUSON, MICH.            
+ 193  193 3 S 2242.  AUTHORIZE FOR A LIMITED PERIOD OF TIME THE ADMIS-        
+ 193  193 4 SION INTO THE U.S. OF CERTAIN DISPLACED PERSONS FOR PERMA-        
+ 193  193 5 NENT RESIDENCE.  FERGUSON AMEND. PROVIDING ADMITTANCE DURING      
+ 193  193 6 THE FISCAL YEARS ENDING JUNE 30, 1949, AND JUNE 30, 1950, OF      
+ 193  193 7 200,000 RATHER THAN 100,000 DISPLACED PERSONS, OF WHICH NOT       
+ 193  193 8 MORE THAN 100,000 MAY BE ADMITTED DURING THE FISCAL YEAR          
+ 193  193 9 ENDING JUNE 30, 1949.                                             
+ 194  194 1 S. J. 382                    S2242     JUNE 01, 1948              
+ 194  194 2 S802056       Y=31 N=40                FERGUSON, MICH.            
+ 194  194 3 S 2242.  FERGUSON AMEND. PROVIDING METHOD OF ISSUANCE OF          
+ 194  194 4 VISAS IN ORDER TO AVOID DISCRIMINATION AGAINST DISPLACED          
+ 194  194 5 PERSONS.                                                          
+ 195  195 1 S. J. 387                    S2242     JUNE 02, 1948              
+ 195  195 2 S802058       Y=29 N=49                FERGUSON, MICH.            
+ 195  195 3 S 2242.  FERGUSON AMEND. GIVING JURISDICTION OVER FUNCTIONS       
+ 195  195 4 OF ADMINISTRATION AND COORDINATION NECESSARY FOR SELECTION,       
+ 195  195 5 TRANSPORTATION, AND SETTLEMENT TO THE DISPLACED PERSONS           
+ 195  195 6 COMMISSION, LEAVING DETERMINATION OF ELIGIBILITY TO OFFI-         
+ 195  195 7 CIALS WHO ADMINISTER OTHER IMMIGRATION LAWS.                      
+ 196  196 1 S. J. 387                    S2242     JUNE 02, 1948              
+ 196  196 2 S802057       Y=35 N=50                FERGUSON, MICH.            
+ 196  196 3 S 2242.  FERGUSON AMEND. EXTENDING THE DATE DURING WHICH THE      
+ 196  196 4 DISPLACED PERSONS WHO ENTERED GERMANY, AUSTRIA, OR ITALY MAY      
+ 196  196 5 BE DECLARED AS "ELIGIBLE DISPLACED PERSONS."                      
+ 197  197 1 S. J. 390                    S2242     JUNE 02, 1948              
+ 197  197 2 S802059       Y=27 N=50                KEM, MO.                   
+ 197  197 3 S 2242.  KEM AMEND. IN THE NATURE OF A SUBSTITUTE BILL.           
+ 198  198 1 S. J. 390                    S2242     JUNE 02, 1948              
+ 198  198 2 S802060       Y=63 N=13                                           
+ 198  198 3 S 2242.  PASSAGE.                                                 
+ 199  199 1 S. J. 398                    HJRE296   JUNE 04, 1948              
+ 199  199 2 S802061       Y=77 N=02                MCFARLAND, ARIZ.           
+ 199  199 3 H J RES 296.  JOINT RESOLUTION TO MAINTAIN THE STATUS QUOTA       
+ 199  199 4 IN RESPECT OF CERTAIN EMPLOYMENT TAXES AND SOCIAL-SECURITY        
+ 199  199 5 BENEFITS PENDING ACTION BY CONGRESS ON EXTENDED SOCIAL-           
+ 199  199 6 SECURITY COVERAGE.  MC FARLAND AMEND. PROVIDING INCREASED         
+ 199  199 7 ASSISTANCE TO STATES UNDER CERTAIN CIRCUMSTANCES.                 
+ 200  200 1 S. J. 399                    HJRE296   JUNE 04, 1948              
+ 200  200 2 S802062       Y=74 N=06                                           
+ 200  200 3 H J RES 296.  PASSAGE.                                            
+ 201  201 1 S. J. 402                    S2655     JUNE 07, 1948              
+ 201  201 2 S802063       Y=67 N=07                GURNEY, S.D.               
+ 201  201 3 S 2655.  PROVIDE FOR THE COMMON DEFENSE BY INCREASING THE         
+ 201  201 4 STRENGTH OF THE ARMED FORCES, INCLUDING RESERVE COMPONENTS.       
+ 201  201 5 GURNEY MOTION TO TABLE LANGER AMEND. PROHIBITING SEGREGATION      
+ 201  201 6 AND DISCRIMINATION AGAINST SERVICEMEN.                            
+ 202  202 1 S. J. 403                    S2655     JUNE 07, 1948              
+ 202  202 2 S802064       Y=61 N=07                GURNEY, S.D.               
+ 202  202 3 S 2655.  GURNEY MOTION TO TABLE LANGER AMEND. STIPULATING         
+ 202  202 4 THAT VIOLENCE TO ANY SERVICEMAN FOR ANY PERSON BY A               
+ 202  202 5 "LYNCH MOB" SHALL BE CONSIDERED A FED. OFFENSE.                   
+ 203  203 1 S. J. 404                    S2655     JUNE 07, 1948              
+ 203  203 2 S802065       Y=37 N=35                LANGER, N.D.               
+ 203  203 3 S 2655.  LANGER AMEND. TO EXEMPT SERVICEMEN FROM PAYMENT OF       
+ 203  203 4 POLL TAX OR ANY OTHER TAX OR PAYMENT AS A VOTING REQUIRE-         
+ 203  203 5 MENT.                                                             
+ 204  204 1 S. J. 404                    S2655     JUNE 07, 1948              
+ 204  204 2 S802066       Y=35 N=35                LANGER, N.D.               
+ 204  204 3 S 2655.  LANGER MOTION TO TABLE TAFT MOTION TO RECONSIDER         
+ 204  204 4 ABOVE VOTE.                                                       
+ 205  205 1 S. J. 404                    S2655     JUNE 07, 1948              
+ 205  205 2 S802067       Y=35 N=35                TAFT, OHIO                 
+ 205  205 3 S 2655.  TAFT MOTION TO RECONSIDER.                               
+ 206  206 1 S. J. 406                    S2655     JUNE 08, 1948              
+ 206  206 2 S802068       Y=43 N=33                WHERRY, NEB.               
+ 206  206 3 S 2655.  WHERRY AMEND. PERMITTING ENLISTMENT FOR A CERTAIN        
+ 206  206 4 PERIOD OF 50,000 QUALIFIED ALIENS FOR NOT LESS THAN 5 YEARS       
+ 206  206 5 AFTER WHICH THEY SHALL BE ELIGIBLE FOR AMER. CITIZENSHIP.         
+ 207  207 1 S. J. 407                    S2655     JUNE 08, 1948              
+ 207  207 2 S802069       Y=22 N=48                MORSE, ORE.                
+ 207  207 3 S 2655.  MORSE AMEND. PROVIDING FOR THE CREATION OF A NATIO-      
+ 207  207 4 NAL COMMISSION ON CONSCIENTIOUS OBJECTORS.                        
+ 208  208 1 S. J. 408                    S2655     JUNE 08, 1948              
+ 208  208 2 S802070       Y=47 N=33                MORSE, ORE.                
+ 208  208 3 S 2655.  MORSE AMEND. LIMITING PROVISIONS OF THE BILL TO 2        
+ 208  208 4 YEARS FROM DATE OF ENACTMENT.                                     
+ 209  209 1 S. J. 423                    S2655     JUNE 09, 1948              
+ 209  209 2 S802071       Y=44 N=39                KEM, MO.                   
+ 209  209 3 S 2655.  KEM AMEND. REVISING THE ARTICLES OF WAR W/REGARD TO      
+ 209  209 4 COURTS MARTIAL.                                                   
+ 210  210 1 S. J. 425                    S2655     JUNE 09, 1948              
+ 210  210 2 S802072       Y=24 N=57                CAPEHART, IND.             
+ 210  210 3 S 2655.  CAPEHART AMEND. PROHIBITING INVOLUNTARY INDUCTION        
+ 210  210 4 INTO THE ARMED SERVICES EXCEPT UNDER CERTAIN CONDITIONS.          
+ 211  211 1 S. J. 430                    S2655     JUNE 09, 1948              
+ 211  211 2 S802073       Y=08 N=81                O'DANIEL, TEX.             
+ 211  211 3 S 2655.  O'DANIEL AMEND. PROVIDING FOR A DRAFT OF WAR PRO-        
+ 211  211 4 FITS.                                                             
+ 212  212 1 S. J. 430                    S2655     JUNE 09, 1948              
+ 212  212 2 S802074       Y=22 N=66                MORSE, ORE.                
+ 212  212 3 S 2655.  MORSE AMEND. DECREASING THE INVOLUNTARY INDUCTION        
+ 212  212 4 TERM OF SERVICEMEN FROM 24 TO 18 MONTHE.                          
+ 213  213 1 S. J. 430                    S2655     JUNE 09, 1948              
+ 213  213 2 S802074       Y=39 N=50                MYERS, PA.                 
+ 213  213 3 S 2655.  MYERS MOTION TO RECONSIDER VOTE REVISING ARTICLES        
+ 213  213 4 OF WAR W/REGARD TO COURTS MARTIAL.                                
+ 214  214 1 S. J. 430                    S2655     JUNE 09, 1948              
+ 214  214 2 S802076       Y=65 N=23                WHERRY, NEB.               
+ 214  214 3 S 2655.  WHERRY AMEND. AFFIRMING VALID CLAIMS OF SMALL            
+ 214  214 4 BUSINESS TO PARTICIPATE IN WAR CONTRACTS.                         
+ 215  215 1 S. J. 430                    S2655     JUNE 09, 1948              
+ 215  215 2 S802078       Y=20 N=69                REVERCOMB, W.VA.           
+ 215  215 3 S 2655.  REVARCOMB AMEND. PROHIBITING INVOLUNTARY INDUCTION       
+ 215  215 4 INTO THE ARMED SERVICES EXCEPT UNDER CERTAIN CONDITIONS.          
+ 216  216 1 S. J. 431                    S2655     JUNE 09, 1948              
+ 216  216 2 S802078       Y=78 N=10                                           
+ 216  216 3 S 2655.  PASSAGE.                                                 
+ 217  217 1 S. J. 441                    SRE239    JUNE 11, 1948              
+ 217  217 2 S802079       Y=06 N=61                PEPPER, FLA.               
+ 217  217 3 S RES 239.  RESOLUTION REAFFIRMING THE POLICY OF THE U.S. TO      
+ 217  217 4 ACHIEVE INTERNATIONAL PEACE AND SECURITY THROUGH THE UN.          
+ 217  217 5 PEPPER AMEND. TO STRIKE PROVISIONS RELATING TO DEVELPOMENT        
+ 217  217 6 OF REGIONAL AND OTHER COLLECTIVE ARRANGEMENTS FOR SELF-           
+ 217  217 7 DEFENSE.                                                          
+ 218  218 1 S. J. 441                    SRE239    JUNE 11, 1948              
+ 218  218 2 S802080       Y=64 N=04                                           
+ 218  218 3 S RES 239.  PASSAGE.                                              
+ 219  219 1 S. J. 454                    HR6556    JUNE 14, 1948              
+ 219  219 2 S802081       Y=41 N=48                BARKLEY, KY.               
+ 219  219 3 HR 6556.  EXTEND THE AUTHORITY OF THE PRES. OVER SECTION 350      
+ 219  219 4 OF THE TARILL ACT OF 1930.  BARKLEY AMEND. TO EXTEND PROVI-       
+ 219  219 5 SIONS FOR 3 YEARS RATHER THAN 1.                                  
+ 220  220 1 S. J. 454                    HR6556    JUNE 14, 1948              
+ 220  220 2 S802082       Y=42 N=47                BARKLEY, KY.               
+ 220  220 3 HR 6556.  BARKLEY AMEND. TO EXTEND PROVISIONS FOR 2 YEARS         
+ 220  220 4 RATHER THAN 1.                                                    
+ 221  221 1 S. J. 455                    HR6556    JUNE 14, 1948              
+ 221  221 2 S802083       Y=43 N=46                BARKLEY, KY.               
+ 221  221 3 HR 6556.  BARKLEY AMEND. TO MAINTAIN STATUS QUO OF PROVI-         
+ 221  221 4 SIONS OF TARIFF ACT, AND EXTENDING IT 1 YEAR.                     
+ 222  222 1 S. J. 455                    HR6556    JUNE 14, 1948              
+ 222  222 2 S802084       Y=70 N=18                                           
+ 222  222 3 HR 6556.  PASSAGE.                                                
+ 223  223 1 S. J. 461                    HJRE296   JUNE 14, 1948              
+ 223  223 2 S802085       Y=65 N=12                                           
+ 223  223 3 H J RES 296.  JOINT RESOLUTION TO MAINTAIN THE STATUS QUO IN      
+ 223  223 4 RESPECT OF CERTAIN EMPLOYMENT TAXES AND SOCIAL-SECURITY           
+ 223  223 5 BENEFITS PENDING ACTION BY CONGRESS.  PASSAGE OVER PRES.'         
+ 223  223 6 VETO.                                                             
+ 224  224 1 S. J. 465                    HR2245    JUNE 15, 1948              
+ 224  224 2 S802086       Y=57 N=26                FULBRIGHT, ARK.            
+ 224  224 3 HR 2245.  REPEAL THE TAX ON OLEOMARGARINE.  FULBRIGHT MOTION      
+ 224  224 4 TO PROCEED TO CONSIDERATION OF BILL.                              
+ 225  225 1 S. J. 468                    HR6481    JUNE 15, 1948              
+ 225  225 2 S802087       Y=45 N=37                                           
+ 225  225 3 HR 6481.  APPROPRIATIONS FOR GOV'T CORPORATIONS AND INDEPEN-      
+ 225  225 4 DENT EXECUTIVE AGENCIES.  AMENDS. TO INCREASE APPRORPIA-          
+ 225  225 5 TIONS.                                                            
+ 226  226 1 S. J. 471                    HR6481    JUNE 15, 1948              
+ 226  226 2 S802088       Y=42 N=33                LUCAS, ILL.                
+ 226  226 3 HR 6481.  LUCAS AMEND. INCREASING ANNUAL CONTRIBUTIONS TO         
+ 226  226 4 PUBLIC HOUSING AGENCIES UNDER CERTAIN CIRCUMSTANCES.              
+ 227  227 1 S. J. 472                    HR6081    JUNE 15, 1948              
+ 227  227 2 S802089       Y=64 N=15                                           
+ 227  227 3 HR 6081.  APPROPRIATIONS FOR FOREIGN AID.  AMEND. PROVIDING       
+ 227  227 4 THAT FUNDS SHALL COVER A 12-MONTH RATHER THAN A 15-MONTH          
+ 227  227 5 PERIOD.                                                           
+ 228  228 1 S. J. 473                    HR6081    JUNE 15, 1948              
+ 228  228 2 S802090       Y=60 N=09                                           
+ 228  228 3 HR 6081.  PASSAGE.                                                
+ 229  229 1 S. J. 477                    S110      JUNE 16, 1948              
+ 229  229 2 S802091       Y=63 N=25                                           
+ 229  229 3 S 110.  AMEND THE INTERSTATE COMMERCE ACT W/RESPECT TO CER-       
+ 229  229 4 TAIN AGREEMENTS BETWEEN CARRIERS.  PASSAGE OVER PRES.' VETO.      
+ 230  230 1 S. J. 481                    HR6355    JUNE 16, 1948              
+ 230  230 2 S802092       Y=72 N=17                                           
+ 230  230 3 HR 6355.  SUPPLEMENTAL APPROPRIATIONS FOR THE FED. SECURITY       
+ 230  230 4 AGENCY.  PASSAGE OVER PRES.' VETO.                                
+ 231  231 1 S. J. 487                    S2318     JUNE 17, 1948              
+ 231  231 2 S802093       Y=41 N=40                COOPER, KY.                
+ 231  231 3 S 2318.  PROVIDE FOR A COORDINATED AGRICULTURAL PROGRAM.          
+ 231  231 4 COOPER AMEND. PROPOSING LEVEL OF PRICE SUPPORT AT 90% OF ITS      
+ 231  231 5 PARITY PRICE AS OF BEGINNING OF MARKETING YEAR TO COOPERA-        
+ 231  231 6 TORS FOR ANY CROP OF TOBACCO FOR WHICH MARKETING QUOTAS ARE       
+ 231  231 7 IN EFFECT.                                                        
+ 232  232 1 S. J. 487                    S2318     JUNE 17, 1948              
+ 232  232 2 S802094       Y=42 N=38                TYDINGS, MD.               
+ 232  232 3 S 2318.  TYDINGS MOTION TO TABLE BARKLEY MOTION TO RECONSI-       
+ 232  232 4 DER ABOVE VOTE.                                                   
+ 233  233 1 S. J. 501                    S2318     JUNE 17, 1948              
+ 233  233 2 S802095       Y=27 N=55                RUSSELL, GA.               
+ 233  233 3 S 2318.  RUSSELL AMEND. AS A SUBSTITUTE BILL.                     
+ 234  234 1 S. J. 501                    S2318     JUNE 17, 1948              
+ 234  234 2 S802096       Y=23 N=59                RUSSELL, GA.               
+ 234  234 3 S 2318.  RUSSELL AMEND. PROVIDING FOR AN ALTERNATIVE PARITY-      
+ 234  234 4 PRICE FORMULA.                                                    
+ 235  235 1 S. J. 502                    S2318     JUNE 17, 1948              
+ 235  235 2 S802097       Y=28 N=51                RUSSELL, GA.               
+ 235  235 3 S 2318.  RUSSELL AMEND. PROVIDING BASIS UNDER WHICH FARM LA-      
+ 235  235 4 BOR PARITY INDEX ADJUSTMENTS SHALL INCLUDE WAGES PAID HIRED       
+ 235  235 5 FARM LABOR.                                                       
+ 236  236 1 S. J. 502                    S2318     JUNE 17, 1948              
+ 236  236 2 S802098       Y=29 N=53                RUSSELL, GA.               
+ 236  236 3 S 2318.  RUSSELL AMEND. PROVIDING THAT FARM LABOR PARITY IN-      
+ 236  236 4 DEX SHALL BE BASED ON THE NATIONAL AVERAGE OF COSTS OF ALL        
+ 236  236 5 FARM LABOR.                                                       
+ 237  237 1 S. J. 502                    S2318     JUNE 17, 1948              
+ 237  237 2 S802099       Y=79 N=03                                           
+ 237  237 3 S 2318.  PASSAGE.                                                 
+ 238  238 1 S. J. 511                    HR6829    JUNE 18, 1948              
+ 238  238 2 S802100       Y=61 N=19                                           
+ 238  238 3 HR 6829.  SUPPLEMENTAL APPROPRIATIONS FOR INDEPENDENT AND         
+ 238  238 4 EXECUTIVE OFFICES.  AMEND. REDUCING THE APPROPRIATIONS FOR        
+ 238  238 5 MARITIME TRAINING.                                                
+ 239  239 1 S. J. 544                    HR6481    JUNE 18, 1948              
+ 239  239 2 S802101       Y=37 N=47                FERGUSON, MICH.            
+ 239  239 3 HR 6481.  APPROPRIATIONS FOR GOV'T CORPORATIONS AND INDEPEN-      
+ 239  239 4 DENT AGENCIES.  FERGUSON MOTION THAT THE SENATE RECEDE FROM       
+ 239  239 5 ITS AMENDS. NOS. 1,2, AND 3, INCREASING APPROPRIATIONS FOR        
+ 239  239 6 THE TVA.                                                          
+ 240  240 1 S. J. 571                    S2758     JUNE 19, 1948              
+ 240  240 2 S802102       Y=40 N=28                WHERRY, NEB.               
+ 240  240 3 S 2758.  STIMULATE THE PRODUCTION AND CONSERVATION OF STRA-       
+ 240  240 4 TEGIC AND CRITICAL ORES, METALS, AND MINERALS.  WHERRY            
+ 240  240 5 MOTION TO PROCEED TO CONSIDERATION OF.                            
+ 241  241 1 S. J. 605                    SCRE60    AUG. 02, 1948              
+ 241  241 2 S802103       Y=13 N=58                                           
+ 241  241 3 S CON RES 60.  CONCURRENT RESOLUTION PROPOSING ADJOURNMENT        
+ 241  241 4 OF CONGRESS.                                                      
+ 242  242 1 S. J. 607                    HR29      AUG. 04, 1948              
+ 242  242 2 S802104       Y=69 N=16                WHERRY, NEB.               
+ 242  242 3 HR 29.  MAKING UNLAWFUL THE REQUIREMENT OF THE PAYMENT OF A       
+ 242  242 4 POLL TAX AS A PREREQUISITE TO VOTING IN A PRIMARY OR OTHER        
+ 242  242 5 ELECTION FOR NATIONAL OFFICERS.  WHERRY MOTION TO ADJOURN.        
+ 243  243 1 S. J. 633                    HR6959    AUG. 06, 1948              
+ 243  243 2 S802105       Y=48 N=36                MCCARTHY, WISC.            
+ 243  243 3 HR 6959.  AMEND THE NATIONAL HOUSING ACT.  MC CARTHY SUBSTI-      
+ 243  243 4 TUTE AMEND. IN THE NATURE OF A SUBSTITUTE BILL.                   
+ 244  244 1 S. J. 641                    SJRE157   AUG. 07, 1948              
+ 244  244 2 S802106       Y=33 N=53                BARKLEY, KY.               
+ 244  244 3 S J RES 157.  JOINT RESOLUTION TO PROVIDE FOR THE TEMPORARY       
+ 244  244 4 REGULATION OF CONSUMER INSTALLMENT CREDIT.  BARKLEY AMEND.        
+ 244  244 5 IN THE NATURE OF A SUBSTITUTE BILL.                               
+ 245  245 1 S. J. 642                    HJRE445   AUG. 07, 1948              
+ 245  245 2 S802107       Y=32 N=49                MAGNUSON, WASH.            
+ 245  245 3 H J RES 445.  JOINT RESOLUTION FOR APPROPRIATIONS FOR THE         
+ 245  245 4 HOUSING AND HOME FINANCE AGENCY AND THE V.A.  MAGNUSON            
+ 245  245 5 AMEND. PROVIDING FOR AUTHORIZATION OF FUNDS FOR THE COLUMBIA      
+ 245  245 6 RIVER BASIN PROJECT.                                              
+ 246  246 1 S. J. 642                    HJRE445   AUG. 07, 1948              
+ 246  246 2 S802108       Y=31 N=50                MCGRATH, R.I.              
+ 246  246 3 H J RES 445.  MC GRATH AMEND. AUTHORIZING FUNDS FOR EXPENSES      
+ 246  246 4 NECESSARY TO ADMINISTER THE MOTOR CARRIER CLAIMS COMMISSION.      
+ 247  247 1 S. J. 643                    SCRE63    AUG. 07, 1948              
+ 247  247 2 S802109       Y=54 N=18                                           
+ 247  247 3 S CON RES 63.  CONCURRENT RESOLUTION TO ADJOURN THE TWO           
+ 247  247 4 HOUSES OF CONGRESS.                                               
+ 248  248 1 S. J. 644                    HCRE222   AUG. 07, 1948              
+ 248  248 2 S802110       Y=39 N=29                WHERRY, NEB.               
+ 248  248 3 H CON RES 222.  CONCURRENT RESOLUTION TO ADJOURN THE TWO          
+ 248  248 4 HOUSES OF CONGRESS.  WHERRY MOTION TO ADJOURN.                    

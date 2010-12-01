@@ -1,0 +1,1561 @@
+   1   14 1 CR   -1-159A  J 68-1-41A     ELEC      DEC. 10, 1923              
+   1   14 2 S681000A      C=41 S=39                LODGE, MASS.               
+   1   14 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE       
+   1   14 4 FOR THE 68TH CONGRESS. VOTES FOR ALBERT B. CUMMINS ARE            
+   1   14 5 CODED AS 1; FOR ELLISON D. SMITH AS 2; FOR OTHERS                 
+   1   14 6 AS 8.  (P. 156)                                                   
+   2   15 1 CR   -1-159B  J 68-1-41B     ELEC      DEC. 10, 1923              
+   2   15 2 S681000B      C=39 S=38                LODGE, MASS.               
+   2   15 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE       
+   2   15 4 FOR THE 68TH CONGRESS.  (P. 159-2)                                
+   3   16 1 CR 65-1-159C  J 68-1-42      ELEC      DEC. 10, 1923              
+   3   16 2 S681000C      C=41 S=39                LODGE, MASS.               
+   3   16 3 TO ELECT A CHAIRMAN OF THE INTERSTATE COMMERCE COMMITTEE.         
+   3   16 4 (P. 159-2, 160-1)                                                 
+   4    1 1 CR 65-1-235   EX J 62-1-161            DEC. 11, 1923              
+   4    1 2 E681001       Y=75 N=9                 NORRIS, NEB.               
+   4    1 3 CONFIRMATION OF THE NOMINATION OF FRANK B. KELLOGG, OF            
+   4    1 4 MINNESOTA, TO BE AMBASSADOR EXTRAORDINARY AND MINISTER            
+   4    1 5 PLENIPOTENTIARY OF THE UNITED STATES OF AMERICA TO                
+   4    1 6 GREAT BRITAIN.                                                    
+   5   17 1 CR 65-1-234A  J 68-1-46      ELEC      DEC. 11, 1923              
+   5   17 2 S681000D      C=41 S=39                LODGE, MASS.               
+   5   17 3 TO ELECT A CHAIRMAN OF THE INTERSTATE COMMERCE COMMITTEE.         
+   5   17 4 (P. 234-1)                                                        
+   6   18 1 CR 65-1-234B  J 68-1-47A     ELEC      DEC. 11, 1923              
+   6   18 2 S681000E      C=41 S=39                LODGE, MASS.               
+   6   18 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+   6   18 4 (P. 234-2)                                                        
+   7   19 1 CR 65-1-234C  J 68-1-47B     ELEC      DEC. 11, 1923              
+   7   19 2 S681000F      C=41 S=39                LODGE, MASS.               
+   7   19 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+   7   19 4 (P. 234-2)                                                        
+   8   20 1 CR 65-1-250A  J 68-1-51A     ELEC      DEC. 12, 1923              
+   8   20 2 S681000G      C=40 S=40                LODGE, MASS.               
+   8   20 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+   8   20 4 (P. 250-1)                                                        
+   9   21 1 CR 65-1-250B  J 68-1-51B     ELEC      DEC. 12, 1923              
+   9   21 2 S681000H      C=39 S=41                LODGE, MASS.               
+   9   21 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+   9   21 4 (P. 250-2)                                                        
+  10   22 1 CR 65-1-250C  J 68-1-51C     ELEC      DEC. 12, 1923              
+  10   22 2 S681000I      C=40 S=41                LODGE, MASS.               
+  10   22 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+  10   22 4 (P. 250-2)                                                        
+  11    2 1 CR 65-1-328D  EX J 62-1-20   PROC      DEC. 17, 1923              
+  11    2 2 E681002A      Y=45 N=42                LODGE, MASS.               
+  11    2 3 TO ADJOURN UNTIL TUESDAY, DEC. 18, 1923 AT 12 O'CLOCK             
+  11    2 4 MERIDIAN, A MOTION MADE IN OPEN EXECUTIVE SESSION.                
+  11    2 5 (P. 328-2)                                                        
+  12   23 1 CR 65-1-326A  J 68-1-61      SRE80     DEC. 17, 1923              
+  12   23 2 S681001       Y=41 N=50                ROBINSON, ARK.             
+  12   23 3 TO AMEND S. RES. 80, PROVIDING THAT GEORGE A. SANDERSON OF        
+  12   23 4 ILLINOIS BE ELECTED AS SECRETARY OF THE SENATE, BY                
+  12   23 5 SUBSTITUTING THE NAME OF EDWIN A. HALSEY OF VIRGINIA.             
+  12   23 6 (P. 326-1)                                                        
+  13   24 1 CR 65-1-326B  J 68-1-62A     SRE81     DEC. 17, 1923              
+  13   24 2 S681002       Y=41 N=50                ROBINSON, ARK.             
+  13   24 3 TO AMEND S. RES. 81, PROVIDING THAT DAVID S. BARRY OF             
+  13   24 4 RHODE ISLAND BE ELECTED AS SERGEANT-AT- ARMS AND DOORKEEPER       
+  13   24 5 OF THE SENATE, BY SUBSTITUTING THE NAME OF JOHN J. BURNS OF       
+  13   24 6 NEW YORK.  (P. 326-2)                                             
+  14   25 1 CR 65-1-327A  J 68-1-62B     ELEC      DEC. 17, 1923              
+  14   25 2 S681003       C=43 S=39                LODGE, MASS.               
+  14   25 3 TO ELECT THE CHAIRMAN OF THE COMMITTEE ON INTERSTATE              
+  14   25 4 COMMERCE.  VOTES FOR A. CUMMINS ARE CODED AS 1, FOR               
+  14   25 5 E.D. SMITH, AS 2.  (P. 327-1)                                     
+  15   26 1 CR 65-1-327B  J 68-1-62C     ELEC      DEC. 17, 1923              
+  15   26 2 S681004       C=41 S=39                LODGE, MASS.               
+  15   26 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+  15   26 4 (P. 327-2)                                                        
+  16   27 1 CR 65-1-328A  J 68-1-62D     ELEC      DEC. 17, 1923              
+  16   27 2 S681005       C=39 S=38                LODGE, MASS.               
+  16   27 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+  16   27 4 (P. 328-1)                                                        
+  17   28 1 CR 65-1-328B  J 68-1-62E     ELEC      DEC. 17, 1923              
+  17   28 2 S681006       C=39 S=39                LODGE, MASS.               
+  17   28 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+  17   28 4 (P. 328-1)                                                        
+  18   29 1 CR 65-1-328C  J 68-1-62F     ELEC      DEC. 17, 1923              
+  18   29 2 S681007       C=38 S=38                LODGE, MASS.               
+  18   29 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+  18   29 4 (P. 328-2)                                                        
+  19   30 1 CR 65-1-400A  J 68-1-65A     ELEC      DEC. 18, 1923              
+  19   30 2 S681009       C=37 S=39                LODGE, MASS.               
+  19   30 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+  19   30 4 (P. 400-1)                                                        
+  20   31 1 CR 65-1-400B  J 68-1-65B     ELEC      DEC. 18, 1923              
+  20   31 2 S681010       C=37 S=39                LODGE, MASS.               
+  20   31 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+  20   31 4 (P. 400-1)                                                        
+  21   32 1 CR 65-1-400C  J 68-1-65C     ELEC      DEC. 18, 1923              
+  21   32 2 S681011       C=37 N=39                LODGE, MASS.               
+  21   32 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+  21   32 4 (P. 400-2)                                                        
+  22   33 1 CR 65-1-400D  J 68-1-65D     ELEC      DEC. 18, 1923              
+  22   33 2 S681012       C=37 S=39                LODGE, MASS.               
+  22   33 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+  22   33 4 (P. 400-2)                                                        
+  23   34 1 CR 65-1-400E  J 68-1-65E     ELEC      DEC. 18, 1923              
+  23   34 2 S681013       C=35 S=39                LODGE, MASS.               
+  23   34 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+  23   34 4 (P. 400-2, 401-1)                                                 
+  24   35 1 CR 65-1-401A  J 68-1-65F     ELEC      DEC. 18, 1923              
+  24   35 2 S681014       C=36 S=39                LODGE, MASS.               
+  24   35 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+  24   35 4 (P. 401-1)                                                        
+  25   36 1 CR 65-1-401B  J 68-1-65G     ELEC      DEC. 18, 1923              
+  25   36 2 S681015       C=35 S=40                LODGE, MASS.               
+  25   36 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+  25   36 4 (P. 401-1)                                                        
+  26   37 1 CR 65-1-401C  J 68-1-66A     ELEC      DEC. 18, 1923              
+  26   37 2 S681016       C=36 S=42                LODGE, MASS.               
+  26   37 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+  26   37 4 (P. 401-2)                                                        
+  27   38 1 CR 65-1-401D  J 68-1-66B     ELEC      DEC. 18, 1923              
+  27   38 2 S681017       C=37 S=42                LODGE, MASS.               
+  27   38 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+  27   38 4 (P. 401-2)                                                        
+  28   39 1 CR 65-1-427A  J 68-1-70A     ELEC      DEC. 19, 1923              
+  28   39 2 S681018       C=32 S=36                LODGE, MASS.               
+  28   39 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+  28   39 4 (P. 427-2)                                                        
+  29   40 1 CR 65-1-427B  J 68-1-70B     ELEC      DEC. 19, 1923              
+  29   40 2 S681019       C=34 S=36                LODGE, MASS.               
+  29   40 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+  29   40 4 (P. 427-2, 428-1)                                                 
+  30   41 1 CR 65-1-508   J 68-1-80A     ELEC      JAN. 3, 1924               
+  30   41 2 S681020       C=28 S=31                LODGE, MASS.               
+  30   41 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+  30   41 4 (P. 508-2)                                                        
+  31   42 1 CR 65-1-509   J 68-1-80B     ELEC      JAN. 3, 1924               
+  31   42 2 S681021A      C=29 S=31                LODGE, MASS.               
+  31   42 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+  31   42 4 (P. 509)                                                          
+  32   43 1 CR 6K-1-626A  J 68-1-84A     ELEC      JAN. 7, 1924               
+  32   43 2 S681021B      C=27 S=32                LODGE, MASS.               
+  32   43 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+  32   43 4 (P. 626-2)                                                        
+  33   44 1 CR 65-1-626B  J 68-1-84B     ELEC      JAN. 7, 1924               
+  33   44 2 S681021C      C=30 S=34                LODGE, MASS.               
+  33   44 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+  33   44 4 (P. 626-2)                                                        
+  34   45 1 CR 65-1-737A  J 68-1-88A     ELEC      JAN. 9, 1924               
+  34   45 2 S681021D      C=29 S=35                LODGE, MASS.               
+  34   45 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+  34   45 4 (P. 737-1)                                                        
+  35   46 1 CR 65-1-737B  J 68-1-88B     ELEC      JAN. 9, 1924               
+  35   46 2 S681021E      C=29 S=35                LODGE, MASS.               
+  35   46 3 TO ELECT A CHAIRMAN OF THE COMMITTEE OF INTERSTATE COMMERCE.      
+  35   46 4 (P. 737-2)                                                        
+  36   47 1 CR 65-1-747   J 68-1-89      ELEC      JAN. 9, 1924               
+  36   47 2 S681022       C=29 S=39                LODGE, MASS.               
+  36   47 3 TO ELECT A CHAIRMAN OF THE COMMITTEE ON INTERSTATE COMMERCE.      
+  36   47 4 (P. 747-2)                                                        
+  37   48 1 CR 65-2-1685A J 68-1-126A    SJR54     JAN. 30, 1924              
+  37   48 2 S681023       Y=38 N=46                LENROOT, WIS.              
+  37   48 3 TO AMEND AN AMENDMENT TO S.J. RES. 54 (APP. 2/8/1924)             
+  37   48 4 CANCELING LEASE EXECUTED APR. 7, 1922 BY THE SECRETARY OF         
+  37   48 5 THE INTERIOR, ALBERT B. FALL, AND THE HON. EDWIN DENBY,           
+  37   48 6 SECRETARY OF THE NAVY, ACTING FOR THE UNITED STATES AND THE       
+  37   48 7 MAMMOTH OIL COMPANY, REPRESENTED BY HARRY SINCLAIR, AND FOR       
+  37   48 8 OTHER PURPOSES, BY MODIFYING THE WORDING OF THE FIRST             
+  37   48 9 PARAGRAPH OF THE AMENDMENT BY INSERTING "THE OIL LEASES           
+  37   4810 WERE EXECUTED UNDER CIRCUMSTANCES GIVING RISE TO SERIOUS          
+  37   4811 QUESTIONS OF LEGALITY".  (P. 1607-1, 1684-2)                      
+  38   49 1 CR 65-2-1685B J 68-1-126B    SJR54     JAN. 30, 1924              
+  38   49 2 S681024       Y=37 N=47                STERLING, S.D.             
+  38   49 3 TO AMEND S.J. RES. 54, BY STATING THAT THE LEASES WERE MADE       
+  38   49 4 WITHOUT "APPARENT" AUTHORITY INSTEAD OF "WITHOUT AUTHORITY".      
+  38   49 5 (P. 1607-1, 1685-1)                                               
+  39   50 1 CR 65-2-1686  J 68-1-126C    SJR54     JAN. 30, 1924              
+  39   50 2 S681025       Y=37 N=48                STERLING, S.D.             
+  39   50 3 TO AMEND S.J. RES. 54, BY STATING THAT THE LEASES WERE MADE       
+  39   50 4 BY THE THEN SECRETARY OF INTERIOR, ALBERT B. FALL, AND            
+  39   50 5 HON. EDWIN DENBY, SECRETARY OF THE NAVY, IN CONTRAVENTION OF      
+  39   50 6 THE POLICY OF THE GOVERNMENT INSTEAD OF IN DEFIANCE OF THAT       
+  39   50 7 POLICY.  (P. 1607-1, 1685-2)                                      
+  40   51 1 CR 65-2-1728A J 68-1-128A    SJR54     JAN. 31, 1924              
+  40   51 2 S681026       Y=90 N=0                 WALSH, MONT.               
+  40   51 3 TO AGREE TO A MODIFIED AMENDMENT TO S.J. RES. 54, WHICH           
+  40   51 4 AMENDMENT AUTHORIZES THE PRESIDENT TO TAKE THE NECESSARY          
+  40   51 5 LEGAL STEPS TO CANCEL LEASES MENTIONED IN ORIGINAL RES.,          
+  40   51 6 TOGATHER WITH THE LEASES OF THE AMERICAN PETROLEUM AND            
+  40   51 7 TRANSPORT CO. AND THE PAN AMERICAN PETROLEUM CO., AND TO          
+  40   51 8 PROSECUTE CIVILLY AND CRIMINALLY AN TO TAKE                       
+  40   51 9 SUCH OTHER ACTIONS, AS MAY BE WARRENTED BY THE FACTS              
+  40   5110 REGARDING THE MAKING OF THE LEASES BY THE THEN SECRETARY OF       
+  40   5111 THE INTERIOR, ALBERT B. FALL, HON. EDWIN DENBY, SECRETARY OF      
+  40   5112 THE NAVY AND H.F. SINCLAIR, REPRESENTING THE OIL INTERESTS.       
+  40   5113 (P. 1728-1, 1607-1)                                               
+  41   52 1 CR 65-2-1728B J 68-1-128B    SJR54     JAN. 31, 1924              
+  41   52 2 S681027       Y=89 N=0                                            
+  41   52 3 TO PASS S.J. RES. 54.  (P. 1728-2)                                
+  42   53 1 CR 65-3-2237  J 68-1-143     SRE134    FEB. 11, 1924              
+  42   53 2 S681028       Y=16 N=64                MCKELLAR, TENN.            
+  42   53 3 TO SUSTAIN THE DECISION OF THE CHAIR, APPEALED FROM BY            
+  42   53 4 KENNETH D. MCKELLER (D. TENN.) A MOTION MADE DURING               
+  42   53 5 CONSIDERATION OF S. RES. 134, PROVIDING THAT THE PRESIDENT        
+  42   53 6 IMMEDIATELY REQUEST THE RESIGNATION OF EDWIN DENBY AND ALL        
+  42   53 7 OTHER OFFICIALS AND OFFICERS IN THE NAVY DEPARTMENT WHOSE         
+  42   53 8 CONNECTION WITH THE LEASING OF THE OIL RESERVES OF THE            
+  42   53 9 GOVERNMENT INDICATES MISFEASANCE OR MALFEASANCE IN OFFICE,        
+  42   5310 WHICH DECISION HELD THAT THE UNANIMOUS CONSENT AGREEMENT          
+  42   5311 ALLOWED A SENATOR TO TALK FOR 10 MINUTES ON EACH AMENDMENT        
+  42   5312 TO SAID RESOLUTION INSTEAD OF LIMITING SUCH TIME TO 10            
+  42   5313 MINUTES IN ALL.  (P. 2237-1)                                      
+  43   54 1 CR 65-3-2244A J 68-1-144A    SRE134    FEB. 11, 1924              
+  43   54 2 S681029       Y=11 N=70                HOWELL, NEB.               
+  43   54 3 TO AMEND S. RES. 134, BY ADDING A CLAUSE THAT SUCH REQUEST        
+  43   54 4 BE MADE ONLY IF HE BE QUILTY OF MALFEASANCE OR MISFEASANCE        
+  43   54 5 IN OFFICE.  (P. 2244-1)                                           
+  44   55 1 CR 65-3-2244B J 68-1-144B    SRE134    FEB. 11, 1924              
+  44   55 2 S681030       Y=6 N=75                 JONES, WASH.               
+  44   55 3 TO AMEND S. RES. 134, BY ADDING THAT IN VIEW OF THE               
+  44   55 4 DISCLOSURES MADE AND FACTS ASCERTAINED IN CONNECTION WITH         
+  44   55 5 THE OIL LEASE INVESTIGATION NOW IN PROGRESS, IT IS THE            
+  44   55 6 SENSE OF THE SENATE THAT THE PUBLIC INTERESTS WOULD BE            
+  44   55 7 SERVED BY THE SAID RESIGNATIONS.  (&9 2244-2)                     
+  45   56 1 CR 65-3-2245A J 68-1-144C    SRE134    FEB. 11, 1924              
+  45   56 2 S681031       Y=47 N=34                ROBINSON, ARK.             
+  45   56 3 TO PASS S. RES. 134.  (P. 1547-2)                                 
+  46   57 1 CR 65-3-2245B J 68-1-144D    SRE134    FEB. 11, 1924              
+  46   57 2 S681032       Y=51 N=25                ROBINSON, ARK.             
+  46   57 3 TO TRANSMIT A COPY OF S. RES. 134 TO THE PRESIDENT OF THE         
+  46   57 4 UNITED STATES.                                                    
+  47    3 1 CR 65-3-2476  EX J 62-1-47   SRE       FEB. 15, 1924              
+  47    3 2 E681002B      Y=43 N=24                                           
+  47    3 3 CONFIRMATION OF THE NOMINATION OF LIENT. COL.                     
+  47    3 4 DUNCAN K. MAJOR, JR. TO BE COLONEL OF INFANTRY IN THE             
+  47    3 5 REGULAR ARMY.  (P. 2476)                                          
+  48    4 1 CR 65-3-2547  EX J 62-1-48   SRE       FEB. 16, 1924              
+  48    4 2 E681003       Y=69 N=2                 DILL, WASH.                
+  48    4 3 TO CONSIDER THE NOMINATION, IN OPEN SESSION, OF                   
+  48    4 4 ATLEE POMERENE (OHIO) AND OWEN J. ROBERTS (PENN.) TO BE           
+  48    4 5 SPECIAL CONSUEL TO HAVE CHARGE AND CONTROL OF THE                 
+  48    4 6 PROSECUTION OF LITIGATION IN CONNECTION WITH CERTAIN LEASES       
+  48    4 7 OF IOL LANDS AND INCIDENTAL CONTRACTS, AS PROVIDED IN             
+  48    4 8 S.J. RES. 54, (APP. 2/8/1924).  (P. 2547-1)                       
+  49    5 1 CR 65-3-2565  EX J 62-1-48   SRE       FEB. 16, 1924              
+  49    5 2 E681004       Y=59 N=13                DILL, WASH.                
+  49    5 3 TO ADVISE AND CONSENT TO THE APPOINTMENT OF ATLEE POMERENE.       
+  49    5 4 (P. 2547-1)                                                       
+  50    6 1 CR 65-3-2640  EX J 62-1-48   SRE       FEB. 18, 1924              
+  50    6 2 E681005       Y=68 N=8                 DILL, WASH.                
+  50    6 3 TO ADVISE AND CONSENT TO THE APPOINTMENT OF OWEN J. ROBERTS.      
+  50    6 4 (P. 2547-1)                                                       
+  51   58 1 CR 65-3-2879  J 68-1-162     HR5078    FEB. 21, 1924              
+  51   58 2 S681036       Y=40 N=35                OVERMAN, N.C.              
+  51   58 3 TO DECIDE THE POINT OF ORDER RAISED IN COMMITTEE OF THE           
+  51   58 4 WHOLE BY LEE S. OVERMAN (D. N.C.) WHILE CONSIDERING               
+  51   58 5 H.R. 5078 (APP. 6/5/1924), A BILL MAKING APPROPRIATIONS FOR       
+  51   58 6 THE DEPARTMENT OF THE INTERIOR FOR THE FISCAL YEAR ENDING         
+  51   58 7 JUNE 30, 1925, WHICH POINT BEING THAT APPROPRIATIONS FOR          
+  51   58 8 HOWARD UNIVERSITY EMBRACE ITEMS THAT HAVE NEVER BEEN              
+  51   58 9 AUTHORIZED BY CONGRESS, AND THEREFORE, CONSTITUTE NEW             
+  51   5810 LEFISLATION WHICH THE COMMITTEE ON APPROPRIATIONS HAD NO          
+  51   5811 AUTHORITY TO REPORT.  (P. 2831-1)                                 
+  52   59 1 CR 65-3-2990  J 68-1-166     HR5078    FEB. 23, 1924              
+  52   59 2 S681037       Y=9 N=46                 WARREN, WYO.               
+  52   59 3 TO AGREE TO AN AMENDMENT AS AMENDED IN COMMITTEE OF THE           
+  52   59 4 WHOLE, TO H.R. 5078, WHICH PROVIDES FOR THE APPROPRIATION OF      
+  52   59 5 $515,000 FOR CONTINUATION OF CONSTRUCTION, OPERATION AND          
+  52   59 6 MAINTENANCE OF A HYDRO-ELECTRIC PLANT AT YUMA, ARIZ.-CALIF,       
+  52   59 7 THE CHARGE FOR CONSTRUCTION TO BE BORNE BY THE PROJECT AND        
+  52   59 8 NOT BY THE CONSUMER.  (P. 2885-1, 2990-1)                         
+  53   60 1 CR 65-4-3153  J 68-1-172A    HR5078    FEB. 26, 1924              
+  53   60 2 S681038       Y=54 N=19                ROBINSON, ARK.             
+  53   60 3 TO DECIDE WHETHER THE AMENDMENT OF IRVIN L. LENROOT IS            
+  53   60 4 GERMANE OR RELEVANT TO H.R. 5078, WHICH AMENDMENT PROVIDES        
+  53   60 5 AN APPROPRIATION OF $370,000 FOR HOWARD UNIVERSITY.               
+  53   60 6 (P. 3093-2, 3153-1)                                               
+  54   61 1 CR 65-4-3156  J 68-1-172B    HR5078    FEB. 26, 1924              
+  54   61 2 S681039       Y=49 N=18                HARRISON, MISS.            
+  54   61 3 TO SUSTAIN THE DECISION OF THE CHAIR, A MOTION MADE DURING        
+  54   61 4 CONSIDERATION OF H.R. 5078, WHICH DECISION HELD THAT THE          
+  54   61 5 AMENDMENT APPROPRIATING MONEY TO HOWARD UNIVERSITY WAS            
+  54   61 6 RELEVANT.  (P. 3154-1, 3156-2)                                    
+  55   62 1 CR 65-4-3410  J 68-1-182     SRE157    MAR. 1, 1924               
+  55   62 2 S681040       Y=66 N=1                 WHEELER, MONT.             
+  55   62 3 TO PASS S. RES. 157, DIRECTING THE COMMITTEE ON THE               
+  55   62 4 JUDICIARY TO INVESTIGATE THE FAILURE OF ATTORNEY GENERAL          
+  55   62 5 HARRY M. DOUGHERTY TO PROSECUTE OR DEFEND CERTAIN CRIMINAL        
+  55   62 6 AND CIVIL ACTIONS WHEREIN THE GOVERNMENT IS INTERESTED.           
+  55   62 7 (P. 3409-2)                                                       
+  56   63 1 CR 65-4-3759  J 68-1-193     HR6349    MAR. 7, 1924               
+  56   63 2 S681041       Y=51 N=15                WARREN, WYO.               
+  56   63 3 TO AGREE TO THE AMENDMENT TO H.R. 6349 (APP. 4/4/1924), A         
+  56   63 4 BILL MAKING APPROPRIATIONS FOR THE TREASURY AND POST OFFICE       
+  56   63 5 DEPARTMENTS FOR THE FISCAL YEAR ENDING JUNE 30, 1925, WHICH       
+  56   63 6 AMENDMENT INCREASES THE AMOUNT APPROPRIATED FOR HIRE OF           
+  56   63 7 MOTOR PROPELLED, PASSENGER CARRYING VEHICLES FROM $3,680,140      
+  56   63 8 TO $16,180,140.  (P. 3759-1)                                      
+  57   64 1 CR 65-4-3898  J 68-1-198     S2250     MAR. 10, 1924              
+  57   64 2 S681042       Y=28 N=34                HARRIS, GA.                
+  57   64 3 TO AGREE TO THE MODIFIED AMENDMENT TO S. 2250, A BILL TO          
+  57   64 4 PROMOTE A PERMANENT SYSTEM OF SELF-SUPPORTING AGRICULTURE IN      
+  57   64 5 REGIONS ADVERSELY AFFECTED BY THE STIMULATION OF WHEAT            
+  57   64 6 PRODUCTION DURING THE WAR AND AGGRAVATED BY MANY YEARS OF         
+  57   64 7 SMALL YIELDS AND HIGH PRODUCTION COSTS OF WHEAT, WHICH            
+  57   64 8 AMENDMENT PROVIDES THAT THE PRESIDENT BE AUTHORIZED AND           
+  57   64 9 DIRECTED TO PROCURE SUCH STOCKS OF NITRATE OF SODA AND            
+  57   6410 CALCIUM ARSENATE AS HE MAY DETERMINE TO BE NECESSARY FOR          
+  57   6411 INCREASING AGRICULTURAL PRODUCTION.  (P. 3898-1,2)                
+  58   65 1 CR 65-4-3950  J 68-1-200     SJR60     MAR. 11, 1924              
+  58   65 2 S681043       Y=34 N=31                HARRIS, GA.                
+  58   65 3 TO PROCEED TO THE CONSIDERATION OF S.J. RES. 60,                  
+  58   65 4 STIMULATING CROP PRODUCTION IN THE UNITED STATES.                 
+  59   66 1 CR 65-4-3961  J 68-1-201A    S2250     MAR. 11, 1924              
+  59   66 2 S681044       Y=15 N=49                HARRISON, MISS.            
+  59   66 3 TO AMEND S. 2250, BY AUTHORIZING THE SECRETARY OF                 
+  59   66 4 AGRICULTURE TO SET UP A SYSTEM FOR SINGLE CROP PRODUCERS, TO      
+  59   66 5 APPLY PARTICULARLY IN WHEAT AREAS AND AREAS NOT WHOLLY            
+  59   66 6 RESTRICTED TO SINGLE CROPS, BUT THOSE WHICH WOULD INCLUDE         
+  59   66 7 THE RAISING OF LIVESTOCK, SUCH AS SAIRY AND BEEF CATTLE,          
+  59   66 8 HOGS, SHEEP, POULTRY AND THE PRODUCTS THEREOF.                    
+  59   66 9 (P. 3956-1, 3961-1)                                               
+  60   67 1 CR 65-4-3962  J 68-1-201B    S2250     MAR. 11, 1924              
+  60   67 2 S681045       Y=22 N=38                REED, MO.                  
+  60   67 3 TO AMEND S. 2250, BY ELIMINATING THE PROVISION LIMITING THE       
+  60   67 4 AMOUNT OF THE APPROPRIATION THAT CAN BE EXPENDED DURING           
+  60   67 5 1924, 1925 AND 1926.  (P. 3962-2)                                 
+  61   68 1 CR 65-4-3963  J 68-1-201C    S2250     MAR. 11, 1924              
+  61   68 2 S681046       Y=27 N=33                HARRISON, MISS.            
+  61   68 3 TO RECOMMIT S. 2250 TO THE COMMITTEE ON AGRICULTURE AND           
+  61   68 4 FORESTRY.  (P. 3963-1,2)                                          
+  62   69 1 CR 65-4-3965  J 68-1-201D    S2250     MAR. 11, 1924              
+  62   69 2 S681047       Y=12 N=52                NORRIS, NEB.               
+  62   69 3 TO AGREE TO THE AMENDMENT TO S. 2250, WHICH AMENDMENT ADDS        
+  62   69 4 TO THE APPROPRIATION IN THE BILL OF $50,000,000 FOR WHEAT         
+  62   69 5 AREAS, AN APPROPRIATION OF $25,000,000 TO CARRY OUT THE           
+  62   69 6 PROVISIONS OF THE BILL IN OTHER AREAS.  (P. 1776-1, 3962-1)       
+  63   70 1 CR 65-4-4026  J 68-1-204     S2250     MAR. 12, 1924              
+  63   70 2 S681048       Y=32 N=32                WALSH, MONT.               
+  63   70 3 TO AMEND S. 2250, BY PROVIDING THAT THE SECRETARY OF              
+  63   70 4 AGRICULTURE, IN EXECUTING THE FUNCTIONS VESTED IN HIM BY          
+  63   70 5 THIS ACT, SHALL, SO FAR AS PRACTICABLE, UTILIZE THE FEDERAL       
+  63   70 6 INTERMEDIATE CREDIT BANK SYSTEM, AND THAT THE DIRECTORS AND       
+  63   70 7 OFFICERS OF SAID BANKS, AND THE FEDERAL FARM LOAN BOARD,          
+  63   70 8 SHALL COOPERATE WITH THE SECRETARY FOR SUCH PURPOSE.              
+  63   70 9 (P. 4025-2, 4026-1)                                               
+  64    7 1 CR 65-4-4084C EX J 62-1-555  SRE       MAR. 13, 1924              
+  64    7 2 E681006       Y=61 N=7                                            
+  64    7 3 TO CONSENT TO THE RATIFICATION OF THE TREATY BETWEEN THE          
+  64    7 4 UNITED STATES AND GREAT BRITAIN TO AID IN THE PREVENTION OF       
+  64    7 5 THE SMUGGLING OF INTOXICATING LIQUORS INTO THE U.S.               
+  64    7 6 (P. 4084-2, 4085-1)                                               
+  65   71 1 CR 65-4-4084A J 68-1-205A    S2250     MAR. 13, 1924              
+  65   71 2 S681049       Y=34 N=36                WALSH, MONT.               
+  65   71 3 TO AMEND S. 2250, BY PROVIDING THAT THE DIRECTIONS TO THE         
+  65   71 4 SECRETARY OF AGRICULTURE TO UTILIZE, SO FAR AS PRACTICABLE,       
+  65   71 5 THE FEDERAL INTERMEDIATE BANKS SYSTEM, BE MADE MANDATORY          
+  65   71 6 INSTEAD OF PERMISSIVE.  (P. 4083-2, 4084-1)                       
+  66   72 1 CR 65-4-4084B J 68-1-205B    S2250     MAR. 13, 1924              
+  66   72 2 S681050       Y=32 N=41                LADD, N.D.                 
+  66   72 3 TO PASS S. 2250.  (P. 4074-2, 4075-1)                             
+  67   73 1 CR 65-5-4317  J 68-1-214A    SJR22     MAR. 17, 1924              
+  67   73 2 S681052       Y=4 N=70                 WILLIS, OHIO               
+  67   73 3 TO AMEND AN AMENDMENT TO S.J. RES. 22, PROPOSING AN               
+  67   73 4 AMENDMENT TO THE CONSTITUTION OF THE UNITED STATES FIXING         
+  67   73 5 THE COMMENCEMENT OF THE TERMS OF PRESIDENT AND                    
+  67   73 6 VICE-PRESIDENT AND MEMBERS OF CONGRESS AND FIXING THE TIME        
+  67   73 7 OF THE ASSEMBLY OF CONGRESS, BY PROVIDING THAT THE TERM OF        
+  67   73 8 OFFICE OF THE PRESIDENT SHALL BE FOUR YEARS, IN LIEU OF SIX       
+  67   73 9 YEARS, AND NO PERSON HEREAFTER ELECTED SHALL BE ELIGIBLE          
+  67   7310 TO RE-ELECTION.  (P. 4317-2)                                      
+  68   74 1 CR 65-5-4326  J 68-1-214B    SJR22     MAR. 17, 1924              
+  68   74 2 S681053       Y=10 N=45                HARRIS, GA.                
+  68   74 3 TO AMEND S.J. RES. 22, BY ADDING A PROVISION THAT THE             
+  68   74 4 EXECUTIVE POWER SHALL BE VESTED IN THE PRESIDENT, WHO SHALL       
+  68   74 5 HOLD OFFICE FOR SIX YEARS, AND NO PERSON HEREAFTER ELECTED        
+  68   74 6 SHALL BE ELIGIBLE TO RE-ELECTION.  (P. 4326-1,2, 4327-1)          
+  69   75 1 CR 65-5-4418  J 68-1-216A    SJR22     MAR. 18, 1924              
+  69   75 2 S681054       Y=63 N=7                 NORRIS, NEB.               
+  69   75 3 TO PASS S.J. RES. 22.  (P. 4418-2)                                
+  70   76 1 CR 65-5-4433  J 68-1-216B    SJR4      MAR. 18, 1924              
+  70   76 2 S681055       Y=35 N=23                WADSWORTH, N.Y.            
+  70   76 3 TO CONSIDER S.J. RES. 4, PROPOSING AN AMENDMENT TO THE            
+  70   76 4 CONSTITUTION OF THE UNITED STATES RELATIVE TO THE ADOPTION        
+  70   76 5 OF AMENDMENTS THERETO.  (P. 4420-1)                               
+  71   77 1 CR 65-5-4486A J 68-1-219A    HR5078    MAR. 19, 1924              
+  71   77 2 S681056       Y=44 N=27                JONES, N.M.                
+  71   77 3 TO AGREE TO THE AMENDMENT AS AMENDED, TO H.R. 5078, MAKING        
+  71   77 4 APPROPRIATIONS FOR THE DEPARTMENT OF THE INTERIOR FOR THE         
+  71   77 5 FISCAL YEAR ENDING JUNE 30, 1925, WHICH AMENDMENT PROVIDES        
+  71   77 6 FOR AN APPROPRIATION OF $100,000 FOR THE PURCHASE OF              
+  71   77 7 BRIGHT ANGEL TOLL ROAD, WITHIN THE GRAND CANYON NATIONAL          
+  71   77 8 PARK, TO BE IMMEDIATELY AVAILABLE AND REMAIN AVAILABLE            
+  71   77 9 UNTIL EXPENDED, PROVIDED NO PURCHASE SHALL BE MADE OF SAID        
+  71   7710 TRAIL UNTIL THE PEOPLE OF COCONINO COUNTY, ARIZONA, SHALL         
+  71   7711 HAVE RATIFIED SAID PURCHASE BY VOTE AT AN ELECTION.               
+  71   7712 (P. 4486-1,2)                                                     
+  72   78 1 CR 65-5-4486B J 68-1-219B    HR5078    MAR. 19, 1924              
+  72   78 2 S681057       Y=43 N=24                SMOOT, UTAH                
+  72   78 3 TO AGREE TO THE AMENDMENT AS AMENDED TO H.R. 5078, WHICH          
+  72   78 4 AMENDMENT APPROPRIATES $100,000 FOR THE CONSTRUCTION OF           
+  72   78 5 TRAILS WITHIN THE GRAND CANYON NATIONAL PARK, TO BE               
+  72   78 6 IMMEDIATELY AVAILABLE AND TO REMAIN AVAILABLE UNTIL               
+  72   78 7 EXPENDED, PROVIDED SAID SUM MAY BE USED BY THE SECRETARY OF       
+  72   78 8 THE INTERIOR FOR THE PURCHASE FROM THE COUNTY OF COCONINO,        
+  72   78 9 ARIZONA, OF THE BRIGHT ANGEL TOLL ROAD AND TRAIL WITHIN THE       
+  72   7810 SAID PARK, ON SUCH TERMS AND CONDITIONS AS HE MAY DEEM            
+  72   7811 PROPER, AND THAT HE IS AUTHORIZED TO CONSTRUCT AN APPROACH        
+  72   7812 ROAD FROM THE NATIONAL OLD TRAIL HIGHWAY, TO THE SOUTH            
+  72   7813 BOUNDARY OF SAID PARK.  (P. 4478-1, 4486-2, 4487-1)               
+  73   79 1 CR 65-5-4791  J 68-1-229     SRE147    MAR. 24, 1924              
+  73   79 2 S681058       Y=72 N=1                 WALSH, MONT.               
+  73   79 3 TO ADOPT THE REPORT OF THE COMMITTEE ON PUBLIC LANDS AND          
+  73   79 4 SURVEYS, AND DIRECT THE PRESIDENT OF THE SENATE TO CERTIFY        
+  73   79 5 TO THE DISTRICT ATTORNEY OF THE DISTRICT OF COLUMBIA THE          
+  73   79 6 FACTS REPORTED THEREIN, A MOTION MADE DURING CONSIDERATION        
+  73   79 7 OF S. RES. 147, PROVIDING FOR INVESTIGATION OF NAVAL OIL          
+  73   79 8 RESERVES LAND LEASES.  (P. 4788-1,2, 4791-1)                      
+  74   80 1 CR 65-5-4920  J 68-1-231     SRE195    MAR. 25, 1924              
+  74   80 2 S681059       Y=71 N=0                 WALSH, MONT.               
+  74   80 3 TO AGREE TO S. RES. 195, PROVIDING THAT A COPY OF THE             
+  74   80 4 TESTIMONY ADDUCED AND THE PROCEEDINGS HAD BEFORE THE              
+  74   80 5 COMMITTEE ON PUBLIC LANDS AND SURVEYS UNDER SENATE RES. 147,      
+  74   80 6 WITH A COPY OF THIS RESOLUTION, BE TRANSMITTED TO THE             
+  74   80 7 HOUSE OF REPRESENTATIVES FOR SUCH PROCEEDINGS AGAINST             
+  74   80 8 CLARENCE C. CHASE AS MAY BE APPROPRIATE.                          
+  74   80 9 (P. 4915-1,2, 4920-1, 4921-1)                                     
+  75   81 1 CR 65-5-4940  J 68-1-232A    SJR4      MAR. 25, 1924              
+  75   81 2 S681060       Y=34 N=29                JONES, WASH.               
+  75   81 3 TO AMEND S.J. RES. 4, PROPOSING AN AMENDMENT TO THE               
+  75   81 4 CONSTITUTION OF THE UNITED STATES RELATIVE TO THE ADOPTION        
+  75   81 5 OF AMENDMENTS THEREOF, BY PROPOSING THAT CONGRESS, WHENEVER       
+  75   81 6 TWO-THIRDS OF BOTH HOUSES SHALL DEEM IT NECESSARY, SHALL          
+  75   81 7 PROPOSE AMENDMENTS TO THIS CONSTITUTION, OR UPON THE              
+  75   81 8 APPLICATION OF TWO-THIRDS OF THE LEGISLATURES OF THE              
+  75   81 9 SEVERAL STATES, SHALL CALL A CONVENTION FOR PROPOSING             
+  75   8110 AMENDMENTS, WHICH SHALL BE VALID AND TO ALL                       
+  75   8111 INTENTS AND PURPOSES BE PART OF THIS CONSTITUTION WHEN            
+  75   8112 RATIFIED BY A VOTE OF THE QUALIFIED ELECTORS IN                   
+  75   8113 THREE-FOURTHS OF THE SEVERAL STATES; AND THAT UNTIL THREE-        
+  75   8114 FOURTHS OF THE STATES SHALL HAVE RATIFIED, OR MORE THAN ONE-      
+  75   8115 FOURTH OF THE STATES SHALL HAVE REJECTED, A PROPOSED              
+  75   8116 AMENDMENT, ANY STATE MAY CHANGE ITS VOTE; PROVIDED THAT IF        
+  75   8117 AT ANY TIME MORE THAN ONE-FOURTH OF THE STATES HAVE REJECTED      
+  75   8118 THE PROPOSED AMENDMENT, SAID REJECTION SHALL BE FINAL, AND        
+  75   8119 FURTHER CONSIDERATION THEREOF    THE STATES SHALL CEASE;          
+  75   8120 PROVIDED FURTHER, THAT ANY AMENDMENT PROPOSED HEREUNDER           
+  75   8121 SHALL BE INOPERATIVE UNLESS IF SHALL HAVE BEEN RATIFIED AS        
+  75   8122 AN AMENDMENT TO THE CONSTITUTION, AS PROVIDED IN THE              
+  75   8123 CONSTITUTION, WITHIN SIX YEARS FROM THE DATE OF SUBMISSION        
+  75   8124 THEREOF TO THE STATES BY THE CONGRESS: PROVIDED FURTHER,          
+  75   8125 THAT NO STATE, WITHOUT ITS CONSENT, SHALL BE DEPRIVED OF          
+  75   8126 ITS EQUAL SUFFRAGE IN THE SENATE.  (P. 4940-1, 4941-1)            
+  76   82 1 CR 65-5-4943  J 68-1-232B    SJR4      MAR. 25, 1924              
+  76   82 2 S681061       Y=51 N=12                BRANDEGEE, CONN.           
+  76   82 3 TO AGREE TO THE AMENDED AMENDMENT TO S.J. RES. 4, WHICH           
+  76   82 4 AMENDED AMENDMENT PROVIDES THAT CONGRESS, WHENEVER                
+  76   82 5 TWO-THIRDS OF EACH HOUSE SHALL DEEM IT NECESSARY, SHALL           
+  76   82 6 PROPOSE AMENDMENTS TO THIS CONSTITUTION, OR UPON THE              
+  76   82 7 APPLICATION OF TWO-THIRDS OF THE LEGISLATURES OF THE              
+  76   82 8 SEVERAL STATES, SHALL CALL A CONVENTION FOR PROPOSING             
+  76   82 9 AMENDMENTS, WHICH SHALL BE VALID AND TO ALL                       
+  76   8210 INTENTS AND PURPOSES BE PART OF THIS CONSTITUTION WHEN            
+  76   8211 RATIFIED BY A VOTE OF THE QUALIFIED ELECTORS IN                   
+  76   8212 THREE-FOURTHS OF THE SEVERAL STATES THROUGH THEIR                 
+  76   8213 LEGISLATURES OR CONVENTIONS.  (P. 4940-1, 4943-2)                 
+  77   83 1 CR 65-5-5003  J 68-1-234A    SJR4      MAR. 26, 1924              
+  77   83 2 S681062       Y=39 N=35                DIAL, S.C.                 
+  77   83 3 TO AMEND S.J. RES. 4, BY STRIKING OUT ON P. 3 LINE 1,             
+  77   83 4 AFTER THE WORD "CASE," THE WORDS "SHALL BE SUBMITTED TO THE       
+  77   83 5 LEGISLATURES OF THE SEVERAL STATES AND," AND AFTER THE WORD       
+  77   83 6 "STATES" IN LINE 4, THE WORDS "AFTER AFFIRMATIVE OR               
+  77   83 7 NEGATIVE ACTION BY RESPECTIVE LEGISLATURES," AND STRIKING         
+  77   83 8 OUT THE JONES AMENDMENT.  (P. 4995-1, 5003-2)                     
+  78   84 1 CR 65-5-5009  J 68-1-234B    SJR4      MAR. 26, 1924              
+  78   84 2 S681063       Y=41 N=28                SWANSON, VA.               
+  78   84 3 TO RECOMMIT S.J. RES. 4 TO THE JUDICIARY COMMITTEE.               
+  78   84 4 (P. 5007-2, 5009-1)                                               
+  79   85 1 CR 65-6-5330  J 68-1-246A    S5        APR. 1, 1924               
+  79   85 2 S681064       Y=16 N=47                REED, PA.                  
+  79   85 3 TO AMEND S. 5, A BILL TO GRANT PENSIONS AND INCREASE OF           
+  79   85 4 PENSIONS TO CERTAIN SOLDIERS AND SAILORS OF THE CIVIL AND         
+  79   85 5 MEXICAN WARS AND TO CERTAIN WIDOWS, FORMER WIDOWS, MINOR          
+  79   85 6 CHILDREN, AND HELPLESS CHILDREN OF SAID SOLDIERS AND              
+  79   85 7 SAILORS, AND TO WIDOWS OF THE WAR OF 1812, AND TO CERTAIN         
+  79   85 8 INDIAN WAR VETERANS AND WIDOWS, AND TO CERTAIN SPANISH WAR        
+  79   85 9 SOLDIERS, AND CERTAIN MAIMED SOLDIERS, BY PROVIDING THAT          
+  79   8510 THE EFFECTIVE DATE OF THE ACT BE JULY 1, 1925.                    
+  79   8511 (P. 5330-2, 5331-1)                                               
+  80   86 1 CR 65-6-5333  J 68-1-246B    S5        APR. 1, 1924               
+  80   86 2 S681065       Y=51 N=10                BURSUM, N.M.               
+  80   86 3 TO PASS S. 5, A BILL GRANTING PENSIONS AND INCREASE OF            
+  80   86 4 PENSIONS TO CERTAIN SOLDIERS AND SAILORS OF THE CIVIL AND         
+  80   86 5 MEXICAN WARS, AND TO CERTAIN WIDOWS, FORMER WIDOWS, MINOR         
+  80   86 6 CHILDREN, AND HELPLESS CHILDREN OF SAID SOLDIERS AND              
+  80   86 7 SAILORS, AND TO WIDOWS OF THE WAR OF 1812, AND TO CERTAIN         
+  80   86 8 INDIAN WAR VETERANS AND WIDOWS, AND TO CERTAIN SPANISH WAR        
+  80   86 9 VETERANS, AND CERTAIN MAIMED SOLDIERS.  (P. 5333-2)               
+  81   87 1 CR 65-6-6185  J 68-1-270     HR8233    APR. 12, 1924              
+  81   87 2 S681066A      Y=30 N=45                WARREN, WYO.               
+  81   87 3 TO AGREE TO THE AMENDMENT TO H.R. 8233 (APP. 6/7/1924), A         
+  81   87 4 BILL MAKING APPROPRIATIONS FOR THE EXECUTIVE OFFICE AND           
+  81   87 5 SUNDRY INDEPENDENT EXECUTIVE BUREAUS, BOARDS, COMMISSIONS,        
+  81   87 6 AND OFFICES FOR THE FISCAL YEAR ENDING JUNE 30, 1925, WHICH       
+  81   87 7 AMENDMENT ELIMINATES THE PROVISION THAT NO PART OF THE            
+  81   87 8 APPROPRIATION BE USED TO PAY THE SALARY OF ANY MEMBER OF THE      
+  81   87 9 UNITED STATES TARIFF COMMISSION HEREAFTER PARTICIPATING IN        
+  81   8710 ANY PROCEEDINGS UNDER CERTAIN SECTIONS OF THE ACT, APPROVED       
+  81   8711 SEPT. 21, 1922, WHEREIN HE OR ANY MEMBER OF HIS FAMILY HAS        
+  81   8712 ANY SPECIAL, DIRECT, AND PECUNIARY INTEREST, OR IN RESPECT        
+  81   8713 TO THE SUBJECT MATTER OF WHICH HE HAS ACTED AS ATTORNEY,          
+  81   8714 LEGISLATIVE AGENT OR SPECIAL REPRESENTATIVE.  (P. 6185-2)         
+  82   88 1 CR 65-6-6315  J 68-1-272     S2576     APR. 14, 1924              
+  82   88 2 S681066B      Y=2 N=76                 COLT, R.I.                 
+  82   88 3 TO AGREE TO THE AMENDMENT TO S. 2576, A BILL LIMITING THE         
+  82   88 4 IMMIGRATION OF ALIENS INTO THE UNITED STATES, WHICH               
+  82   88 5 AMENDMENT CHANGES LINE 7, PAGE 5 IN THE BILL, THUS ALLOWING       
+  82   88 6 ENTRY OF AN ALIEN UNDER THE PROVISIONS OF AN AGREEMENT            
+  82   88 7 RELATING SOLELY TO IMMIGRATION, AS WELL AS BY TREATY.             
+  82   88 8 (P. 6315-2)                                                       
+  83   89 1 CR 65-7-6460  J 68-1-276A    S2576     APR. 16, 1924              
+  83   89 2 S681067       Y=71 N=4                 REED, PA.                  
+  83   89 3 TO AGREE TO THE AMENDMENT TO S. 2576, WHICH AMENDMENT             
+  83   89 4 PROVIDES THAT NO ALIEN INELIGIBLE FOR CITIZENSHIP BE              
+  83   89 5 ADMITTED UNDER THE NON-IMMIGRANT PROVISIONS UNLESS                
+  83   89 6 QUALIFIED FOR AT LEAST TWO YEARS PREVIOUS IN A VOCATION OF        
+  83   89 7 A RELIGIOUS OR AN EDUCATIONAL NATURE, OR A STUDENT OVER           
+  83   89 8 18 YEARS OF AGE, EACH ENTERING SOLELY TO CARRY ON IN CHURCH       
+  83   89 9 OR SCHOOL; UNLESS SUCH ALIEN IS THE WIFE OR THE UNMARRIED         
+  83   8910 CHILD UNDER 18 YEARS OF AGE OF AN ADMISSIBLE IMMIGRANT AND        
+  83   8911 IS ACCOMPANYING OR FOLLOWING TO JOIN HIM.  (P. 6460-2)            
+  84   90 1 CR 65-7-6473  J 68-1-276B    S2576     APR. 16, 1924              
+  84   90 2 S681068       Y=16 N=46                HARRIS, GA.                
+  84   90 3 TO AMEND S. 2576, BY PROVIDING THAT FOR A PERIOD OF FIVE          
+  84   90 4 YEARS, BEGINNING SIXTY DAYS AFTER THE PASSAGE OF THIS ACT,        
+  84   90 5 THE IMMIGRATION OF ALIENS INTO THE UNITED STATES BE               
+  84   90 6 PROHIBITED.  (P. 6472-2, 6473-2)                                  
+  85   91 1 CR 65-7-6538  J 68-1-278A    S2576     APR. 17, 1924              
+  85   91 2 S681069       Y=8 N=72                 COPELAND, N.Y.             
+  85   91 3 TO AMEND S. 2576, BY PROVIDING THAT THE IMMIGRATION QUOTA         
+  85   91 4 COMPUTED ON CENSUS OF 1910 BE INCREASED FROM 2 PER CENTUM         
+  85   91 5 TO 3 PER CENTUM.  (P. 6474-2, 6538-1)                             
+  86   92 1 CR 65-7-6539  J 68-1-278B    S2576     APR. 17, 1924              
+  86   92 2 S681070       Y=55 N=25                WILLIS, OHIO               
+  86   92 3 TO AMEND S. 2576, BY REDUCING THE IMMIGRATION QUOTA OF THE        
+  86   92 4 1910 CENSUS FROM 2 PER CENTUM TO 1 PER CENTUM.                    
+  86   92 5 (P. 6538-1, 6539-1)                                               
+  87   93 1 CR 65-7-6546  J 68-1-278C    S2576     APR. 17, 1924              
+  87   93 2 S681071       Y=47 N=32                HARRISON, MISS.            
+  87   93 3 TO AMEND S. 2576, SO AS TO STRIKE OUT "1910" ON LINE 13 PAGE      
+  87   93 4 12 AND TO INSERT "1890" AND ADOPT THE PRESIDENTS REQUEST.         
+  87   93 5 (P. 6540-2, 6546-2, 6547-1)                                       
+  88   94 1 CR 65-7-6548  J 68-1-278D    S2576     APR. 17, 1924              
+  88   94 2 S681072       Y=60 N=16                WADSWORTH, N.Y.            
+  88   94 3 TO RECONSIDER THE VOTE AMENDING THE AMENDMENT OF THE              
+  88   94 4 COMMITTEE ON IMMIGRATION TO S. 2576, WHICH AMENDMENT              
+  88   94 5 PROVIDES THAT THE QUOTA WAS FIXED AT 1 PER CENTUM OF THE          
+  88   94 6 1910 CENSUS INSTEAD OF 2 PER CENTUM OF THE 1910 CENSUS.           
+  88   94 7 (P. 6547-2, 6548-2)                                               
+  89   95 1 CR 65-7-6549  J 68-1-278E    S2576     APR. 17, 1924              
+  89   95 2 S681073       Y=23 N=56                WILLIS, OHIO               
+  89   95 3 TO AMEND AN AMENDMENT TO S. 2576, BY PROVIDING THAT THE           
+  89   95 4 IMMIGRATION QUOTA OF THE 1910 CENSUS BE REDUCED FROM 2 PER        
+  89   95 5 CENTUM, TO 1 PER CENTUM.  (P. 6548-2, 6549-1)                     
+  90   96 1 CR 65-7-6620A J 68-1-280A    S2576     APR. 18, 1924              
+  90   96 2 S681074       Y=50 N=29                PITTMAN, NEV.              
+  90   96 3 TO AMEND S. 2576, BY PROVIDING THAT PREFERENCE BE GIVEN TO        
+  90   96 4 SKILLED FARMERS AND FARM LABORERS BY CONSULS AFTER APPROVAL       
+  90   96 5 BY THE SECRETARY OF LABOR WITH THE SECRETARY OF AGRICULTURE       
+  90   96 6 UPON THE REQUEST FOR SUCH WORKERS BY THE LEGISLATURE OR           
+  90   96 7 GOVERNOR OF A STATE TO FILL A SPECIFIED NEED.                     
+  90   96 8 (P. 6620-1, 6621-1)                                               
+  91   97 1 CR 65-7-6620B J 68-1-280B    S2576     PAR. 18, 1924              
+  91   97 2 S681075       Y=46 N=30                SIMMONS, N.C.              
+  91   97 3 TO AGREE TO THE AMENDMENT TO S. 2576, WHICH AMENDMENT             
+  91   97 4 PROVIDES THAT PREFERENCE BE GIVEN TO SKILLED FARMERS AND          
+  91   97 5 EXPERIENCED FARM LABORERS IN THE ISSUANCE OF VISA                 
+  91   97 6 CERTIFICATES.                                                     
+  92   98 1 CR 65-7-6634  J 68-1-280C    S2576     APR. 18, 1924              
+  92   98 2 S681076       Y=12 N=60                WILLIS, OHIO               
+  92   98 3 TO AMEND S. 2576, BY PROVIDING THAT AN ALIEN MUST HAVE            
+  92   98 4 RESIDED CONTINUOUSLY FOR AT LEAST FIVE YEARS IMMEDIATELY          
+  92   98 5 PRECEDING THE TIME OF HIS VERIFIED APPLICATION FOR                
+  92   98 6 ADMISSION TO THE UNITED STATES IN A FOREIGN CONTIGUOUS            
+  92   98 7 TERRITORY AND MUST BE AUTHORIZED BY THE SECRETARY OF LABOR        
+  92   98 8 UPON SUCH APPLICATION, TO BE ADMITTED FOR THE PURPOSE OF          
+  92   98 9 LABORING AT A SPECIAL OCCUPATION FOR A DEFINITE TIME AT A         
+  92   9810 DESIGNATED PLACE; PROVIDED NOT MORE THAN 5,000 SUCH ALIENS        
+  92   9811 SHALL BE WITHIN THE UNITED STATES AT ANY ONE TIME.                
+  92   9812 (P. 6620-2, 6634-2)                                               
+  93   99 1 CR 65-7-6649  J 68-1-281     S2576     APR. 18, 1924              
+  93   99 2 S681077       Y=62 N=6                 REED, PA.                  
+  93   99 3 TO PASS S. 2576.  (P. 6645-49)                                    
+  94  100 1 CR 65-7-6948  J 68-1-290     HR7959    APR. 23, 1924              
+  94  100 2 S681078       Y=38 N=41                SMITH, S.C.                
+  94  100 3 TO AMEND H.R. 7959 (43 ST. 121, 5/19/1924), A BILL                
+  94  100 4 PROVIDING ADJUSTED COMPENSATION FOR VETERANS OF THE WORLD         
+  94  100 5 WAR, BY STIPULATING THAT THE RATE OF DISCOUNT BY THE              
+  94  100 6 FEDERAL RESERVE BANK ON THE PROMISSORY NOTES SECURED BY           
+  94  100 7 ADJUSTED-SERVICE CERTIFICATES, AS PROVIDED IN SECTION 502,        
+  94  100 8 SHALL NOT EXCEED A RATE OF 2 PER CENTUM PER ANNUM.                
+  94  100 9 (P. 6948-1, 6942-2)                                               
+  95  101 1 CR 65-7-6955  J 68-1-291A    HR7959    APR. 23, 1924              
+  95  101 2 S681079       Y=35 N=43                BROOKHART, IOWA            
+  95  101 3 TO AMEND H.R. 7959, BY ALLOWING LOANS ON SERVICE                  
+  95  101 4 CERTIFICATES AT AN INTEREST NOT TO EXCEED 4 1/2%.                 
+  95  101 5 (P. 6954-2, 6955-1)                                               
+  96  102 1 CR 65-7-6956  J 68-1-291B    HR7959    APR. 23, 1924              
+  96  102 2 S681080       Y=42 N=38                HARRISON, MISS.            
+  96  102 3 TO AMEND H.R. 7959, BY STIPULATING THAT THE INTEREST RATE BE      
+  96  102 4 KEPT AT A FLAT 6 PER CENT PER ANNUM, WHEN A SOLDIER BORROWS       
+  96  102 5 ON HIS CERTIFICATE.  (P. 6955-2, 6956-1)                          
+  97  103 1 CR 65-7-6959  J 68-1-291C    HR7959    APR. 23, 1924              
+  97  103 2 S681081       Y=41 N=37                JONES, N.M.                
+  97  103 3 TO AMEND H.R. 7959, BY PROVIDING THAT IF THE VETERAN HAS          
+  97  103 4 DIED BEFORE MAKING APPLICATION UNDER SECTION 302, OR, IF          
+  97  103 5 ENTITLED TO RECEIVE ADJUSTED SERVICE PAY, HAS DIED AFTER          
+  97  103 6 MAKING APPLICATION BEFORE HE HAS RECEIVED PAYMENT UNDER           
+  97  103 7 TITLE IV, THEN THE AMOUNT OF HIS ADJUSTED SERVICE CREDIT          
+  97  103 8 SHALL BE PAID TO HIS DEPENDENTS.  (P. 6956-2, 6959-2)             
+  98  104 1 CR 65-7-6962  J 68-1-295A    HR7959    APR. 23, 1924              
+  98  104 2 S681082       Y=37 N=48                COPELAND, N.Y.             
+  98  104 3 TO AMEND, IN THE NATURE OF A SUBSTITUTE, H.R. 7959, BY            
+  98  104 4 PERMITTING AN OPTION SO THAT THE EX-SERVICE MEN MAY ELECT         
+  98  104 5 TO RECEIVE IN CASH, THE AMOUNT OF MONEY TO WHICH THEY ARE         
+  98  104 6 ENTITLED.  (P. 6783-2)                                            
+  99  105 1 CR 65-7-6969  J 68-1-295B    HR7959    APR. 23, 1924              
+  99  105 2 S681083       Y=33 N=44                MCKELLAR, TENN.            
+  99  105 3 TO AMEND H.R. 7959, BY PROVIDING THAT EACH OVERSEAS VETERAN       
+  99  105 4 MAY, AT HIS OPTION, RECEIVE $50.00 IN CASH AS PAYMENT TO BE       
+  99  105 5 DEDUCTED FROM HIS ADJUSTED-SERVICE CERTIFICATE.                   
+  99  105 6 (P. 6969-1,2)                                                     
+ 100  106 1 CR 65-7-6972  J 68-1-295C    HR7959    APR. 23, 1924              
+ 100  106 2 S681084       Y=67 N=17                SMOOT, UTAH                
+ 100  106 3 TO PASS H.R. 7959.                                                
+ 101  107 1 CR 65-8-7673  J 68-1-311A    HR6715    MAY 2, 1924                
+ 101  107 2 S681085       Y=37 N=36                SMOOT, UTAH                
+ 101  107 3 TO AGREE TO THE AMENDMENT, AS AMENDED, TO H.R. 6715               
+ 101  107 4 (APP. 6/2/1924, 43 STAT. L. 253), A BILL TO REDUCE AND            
+ 101  107 5 EQUALIZE TAXES, AND TO PROVIDE REVENUES, WHICH AMENDMENT          
+ 101  107 6 PROPOSES CERTAIN LIMITS ON DEDUCTIONS IN THE PAYMENT OF           
+ 101  107 7 INCOME TAXES IN RESPECT TO THE AMOUNT OF LOSSES AND AMOUNT        
+ 101  107 8 OF INTEREST TO BE DEDUCTED.  (P. 7123-2, 7673-2, 7674-1)          
+ 102  108 1 CR 65-8-7692  J 68-1-311B    HR6715    MAY 2, 1924                
+ 102  108 2 S681086       Y=48 N=27                NORRIS, NEB.               
+ 102  108 3 TO AMEND H.R. 6715, BY PROVIDING THAT THE INCOME TAX              
+ 102  108 4 RETURNS FILED WITH THE INTERNAL REVENUE BUREAU OF THE             
+ 102  108 5 GOVERNMENT BE MADE OPEN TO EXAMINATION AND INSPECTION.            
+ 102  108 6 (P. 7676-1, 7692-1)                                               
+ 103  109 1 CR 65-8-7693  J 68-1-312A    HR6715    MAY 2, 1924                
+ 103  109 2 S681087       Y=47 N=26                MCKELLAR, TENN.            
+ 103  109 3 TO AMEND H.R. 6715, BY PROVIDING THAT ALL CLAIMS FOR              
+ 103  109 4 ABATEMENT OR REFUNDS OF TAXES, INCLUDING THE DECISIONS,           
+ 103  109 5 SHALL BE SUBJECT TO INSPECTION BY THE PUBLIC.                     
+ 103  109 6 (P. 7692-1, 7693-1)                                               
+ 104  110 1 CR 65-8-7695  J 68-1-312B    HR6715    MAY 2, 1924                
+ 104  110 2 S681088       Y=41 N=26                NORRIS, NEB.               
+ 104  110 3 TO AMEND H.R. 6715, BY PROVIDING THAT THE SALARY OF A MEMBER      
+ 104  110 4 OF THE BOARD OF TAX APPEALS SHALL BE $7,500 INSTEAD OF            
+ 104  110 5 $10,000.  (P. 7695-2)                                             
+ 105  111 1 CR 65-8-7700  J 68-1-312C    HR6715    MAY 2, 1924                
+ 105  111 2 S681089       Y=13 N=40                SMOOT, UTAH                
+ 105  111 3 TO AGREE TO THE AMENDMENT TO H.R. 6715, WHICH AMENDMENT           
+ 105  111 4 PROVIDES AN ASSESSMENT OF 10 PER CENT TAX ON RADIO                
+ 105  111 5 RECEIVING SETS, AND PARTS AND ACCESSORIES FOR SAME, SOLD OR       
+ 105  111 6 LEASED TO ANY PERSON OTHER THAN A MANUFACTURER OR PRODUCER        
+ 105  111 7 OF SUCH SETS.  (P. 7697-2)                                        
+ 106  112 1 CR 65-8-7849A J 68-1-321A    HR6715    MAY 5, 1924                
+ 106  112 2 S681090       Y=43 N=40                SIMMONS, N.C.              
+ 106  112 3 TO AMEND, IN THE NATURE OF A SUBSTITUTE, H.R. 6715, BY            
+ 106  112 4 PROVIDING THAT IN ADDITION TO THE NORMAL TAX THERE SHALL BE       
+ 106  112 5 LEVIED, COLLECTED AND PAID UPON THE NET INCOME OF EVERY           
+ 106  112 6 INDIVIDUAL, A GRADUATED SURTAX UPON NET INCOMES RANGING           
+ 106  112 7 FROM $10,000 TO $500,000, 1 PER CENT TO 40 PER CENT OF SUCH       
+ 106  112 8 EXCESS.  (P. 7873-2, 7839-1)                                      
+ 107  113 1 CR 65-8-7849B J 68-1-321B    HR6715    MAY 5, 1924                
+ 107  113 2 S681091       Y=43 N=40                SMOOT, UTAH                
+ 107  113 3 TO AGREE TO THE AMENDMENT TO H.R. 6715, WHICH AMENDMENT           
+ 107  113 4 PROVIDES THAT IN LIEU OF THE TAX IMPOSED BY SECTION 211 OF        
+ 107  113 5 THE REVENUE ACT OF 1921, BUT IN ADDITION TO THE NORMAL TAX        
+ 107  113 6 IMPOSED BY SECTION 210 OF THIS ACT, THERE SHALL BE LEVIED,        
+ 107  113 7 COLLECTED, AND PAID FOR EACH TAXABLE YEAR UPON THE NET            
+ 107  113 8 INCOME OF EVERY INDIVIDUAL, A GRADUATED SURTAX UPON NET           
+ 107  113 9 INCOMES RANGING FROM $10,000 TO $500,000, 1 PER CENT TO 40        
+ 107  11310 PER CENT OF SUCH EXCESS.  (P. 7838-2, 7839-1)                     
+ 108  114 1 CR 65-8-7852  J 68-1-322A    HR6715    MAY 5, 1924                
+ 108  114 2 S681092       Y=44 N=37                SIMMONS, N.C.              
+ 108  114 3 TO AMEND, IN THE NATURE OF A SUBSTITUTE, H.R. 6715, BY            
+ 108  114 4 PROVIDING A GRADUATED TAX ON INDIVIDUAL NORMAL INCOME TAXES.      
+ 108  114 5 (P. 7850-2)                                                       
+ 109  115 1 CR 65-8-7854  J 68-1-322B    S2257     MAY 5, 1924                
+ 109  115 2 S681093       Y=49 N=23                SMOOT, UTAH                
+ 109  115 3 TO AGREE TO THE AMENDMENT TO S. 2257,                             
+ 109  115 4 (APP. 6/7/1924, 43 STAT. L. 607), A BILL TO CONSOLIDATE,          
+ 109  115 5 CODIFY, REVISE AND REENACT THE LAWS AFFECTING THE                 
+ 109  115 6 ESTABLISHMENT OF THE UNITED STATES VETERANS BUREAU AND THE        
+ 109  115 7 ADMINISTRATION OF THE WAR RISK INSURANCE ACT, AS AMENDED,         
+ 109  115 8 AND THE VOCATIONAL REHABILITATION ACT, AS AMENDED, WHICH          
+ 109  115 9 AMENDMENT PROPOSES TO FIX THE SALARY OF THE DIRECTOR OF THE       
+ 109  11510 VETERANS BUREAU AT $10,000 INSTEAD OF $12,000.  (P. 7555-2)       
+ 110  116 1 CR 65-8-7855  J 68-1-322C    S2257     MAY 5, 1924                
+ 110  116 2 S681094       Y=40 N=31                DILL, WASH.                
+ 110  116 3 TO AMEND S. 2257 (APP. 6/7/1924, 43 STAT. L. 607), A BILL         
+ 110  116 4 TO CONSOLIDATE, CODIFY, REVISE AND REENACT THE LAWS               
+ 110  116 5 AFFECTING THE ESTABLISHMENT OF THE UNITED STATES VETERANS         
+ 110  116 6 BUREAU AND THE ADMINISTRATION OF THE WAR RISK INSURANCE ACT,      
+ 110  116 7 AS AMENDED, AND THE VOCATIONAL REHABILITATION, AS AMENDED,        
+ 110  116 8 BY PROVIDING "THAT AN EX-SERVICE MAN WHO IS SHOWN TO HAVE         
+ 110  116 9 OR IF DECEASED, TO HAVE HAD, WITHIN FIVE YEARS AFTER              
+ 110  11610 SEPARATION FROM THE ACTIVE MILITARY OR NAVAL SERVICE OF THE       
+ 110  11611 UNITED STATES," INSTEAD OF "3 YEARS FROM JAN. 1, 1924".           
+ 110  11612 (P. 7855-1)                                                       
+ 111  117 1 CR 65-8-7935  J 68-1-323     HR6715    MAY 6, 1924                
+ 111  117 2 S681095       Y=28 N=38                ROBINSON, ARK.             
+ 111  117 3 TO ADJOURN, IN ORDER TO POSTPONE CONSIDERATION OF H.R. 6715.      
+ 112  118 1 CR 65-8-8033  J 68-1-326     HR6715    MAY 7, 1924                
+ 112  118 2 S681096       Y=43 N=32                JONES, N.M.                
+ 112  118 3 TO AMEND H.R. 6715, BY PROVIDING THAT THE INCOME TAX ON           
+ 112  118 4 CORPORATIONS BE CHANGED FROM A FLAT RATE TO A GRADUATED           
+ 112  118 5 SCALE.  (P. 8032-2, 8033-1)                                       
+ 113  119 1 CR 65-8-8103  J 68-1-328A    HR6715    MAY 8, 1924                
+ 113  119 2 S681097       Y=55 N=18                MCKINLEY, ILL.             
+ 113  119 3 TO AMEND H.R. 6715, BY SETTING THE RATES PER POUND ON             
+ 113  119 4 PUBLICATIONS DEVOTED TO ADVERTISEMENTS, BACK TO WHAT THEY         
+ 113  119 5 WERE UNDER THE ACT OF 1919.  (P. 8099-2)                          
+ 114  120 1 CR 65-8-8125  J 68-1-328B    HR6715    MAY 8, 1924                
+ 114  120 2 S681098       Y=31 N=44                WALSH, MASS.               
+ 114  120 3 TO AMEND H.R. 6715, BY DOING AWAY WITH TAX ON CERTAIN             
+ 114  120 4 AUTOMOBILE PARTS AND ACCESSORIES.  (P. 8122-2, 8123-1,2)          
+ 115  121 1 CR 65-8-8134  J 68-1-329     HR6715    MAY 8, 1924                
+ 115  121 2 S681099       Y=35 N=28                JONES, N.M.                
+ 115  121 3 TO AMEND H.R. 6715, BY PROVIDING FOR HEARING BEFORE THE TAX       
+ 115  121 4 APPEAL BOARD, AND DIVISIONS THEREOF, OPEN TO THE PUBLIC,          
+ 115  121 5 SAID BOARDS TO REPORT IN WRITING, AND THEIR FINDINGS TO BE        
+ 115  121 6 PUBLISHED, AND SUCH AUTHORIZED PUBLICATIONS SHALL BE              
+ 115  121 7 CONSIDERED COMPETENT EVIDENCE IN COURTS OF THE U.S.; THE          
+ 115  121 8 PRINCIPAL OFFICE OF SAID BOARD TO BE LOCATED IN DISTRICT OF       
+ 115  121 9 COLUMBIA, BUT THE BOARD OF ANY DIVISION MAY SIT AT ANY            
+ 115  12110 PLACE WITHIN THE UNITED STATES.  (P. 8132-1,2)                    
+ 116  122 1 CR 65-8-8184  J 68-1-331A    HR6715    MAY 9, 1924                
+ 116  122 2 S681110       Y=23 N=61                SMOOT, UTAH                
+ 116  122 3 TO CONCUR IN AMENDMENT TO H.R. 6715, WHICH AMENDMENT              
+ 116  122 4 PROPOSES A TAX ON TELEGRAPH AND TELEPHONE MESSAGES.               
+ 117  123 1 CR 65-8-8195  J 68-1-331B    HR6715    MAY 9, 1924                
+ 117  123 2 S681101       Y=36 N=47                SMOOT, UTAH                
+ 117  123 3 TO AMEND, IN THE NATURE OF A SUBSTITUTE, H.R. 6715, BY            
+ 117  123 4 MAKING THE MAXIMUM SURTAX RATE 32 PER CENT.                       
+ 118  124 1 CR 65-8-8196  J 68-1-332A    HR6715    MAY 9, 1924                
+ 118  124 2 S681102       Y=46 N=39                SIMMONS, N.C.              
+ 118  124 3 TO AGREE TO THE AMENDMENT TO H.R. 6715, WHICH AMENDMENT           
+ 118  124 4 PROVIDES THAT THE MAXIMUM RATE ON INCOMES BE 40 PER CENT          
+ 118  124 5 INSTEAD OF 37 1/2 PER CENT.  (P. 8195-2)                          
+ 119  125 1 CR 65-8-8197  J 68-1-332B    HR6715    MAY 9, 1924                
+ 119  125 2 S681103       Y=40 N=45                SMOOT, UTAH                
+ 119  125 3 TO CONCUR IN THE AMENDMENT AS MADE IN THE COMMITTEE OF THE        
+ 119  125 4 WHOLE, TO H.R. 6715, WHICH AMENDMENT PROVIDES THAT CERTAIN        
+ 119  125 5 DEDUCTIONS SHALL BE ALLOWED IN THE CALCULATION OF SURTAX          
+ 119  125 6 ONLY TO THE EXTENT THAT SAID DEDUCTIONS EXCEED AMOUNT OF          
+ 119  125 7 TAX-FREE INTEREST EARNED ON OBLIGATIONS OR SECURITIES.            
+ 119  125 8 (P. 8197-1)                                                       
+ 120  126 1 CR 65-8-8198  J 68-1-333A    HR6715    MAY 9, 1924                
+ 120  126 2 S681104       Y=43 N=38                WALSH, MASS.               
+ 120  126 3 TO AMEND H.R. 6715, BY STRIKING OUT AFTER THE WORD "TIRES"        
+ 120  126 4 THE FOLLOWING; "INNER TUBES, PARTS, OR ACCESSORIES FOR ANY        
+ 120  126 5 OF THE ARTICLES ENUMERATED IN SUBDIVISION (1) OR (2)" AND         
+ 120  126 6 INSERTING IN LIEU THEREOF THE WORDS "AND INNER TUBES".            
+ 120  126 7 (P. 8122-2, 8123-1,2)                                             
+ 121  127 1 CR 65-8-8200  J 68-1-333B    HR6715    MAY 9, 1924                
+ 121  127 2 S681105       Y=31 N=47                SMOOT, UTAH                
+ 121  127 3 TO CONCUR IN THE AMENDMENT, AS MADE IN COMMITTEE OF THE           
+ 121  127 4 WHOLE, TO H.R. 6715, WHICH AMENDMENT PROPOSES A 2 CENTS TAX       
+ 121  127 5 ON DRAFTS, CHECKS AND NOTES NOT EXCEEDING $100; AND 2 CENTS       
+ 121  127 6 FOR EACH ADDITIONAL $100 OR FRACTIONAL PART THEREOF.              
+ 121  127 7 (P. 8199-1)                                                       
+ 122  128 1 CR 65-8-8216  J 68-1-333C    HR6715    MAY 9, 1924                
+ 122  128 2 S681106       Y=14 N=59                REED, PA.                  
+ 122  128 3 TO AMEND H.R. 6715, BY PROVIDING THAT THE INTEREST UPON           
+ 122  128 4 GOVERNMENT, STATE, AND MUNICIPAL SECURITIES BE INCLUDED BY        
+ 122  128 5 TAXPAYERS IN COMPUTING GROSS INCOMES.  (P. 8200-2)                
+ 123  129 1 CR 65-8-8263  J 68-1-335A    HR6715    MAY 10, 1924               
+ 123  129 2 S681107       Y=45 N=37                ADAMS, COL.                
+ 123  129 3 TO CONCUR IN THE AMENDMENT, AS MADE IN COMMITTEE OF THE           
+ 123  129 4 WHOLE, TO H.R. 6715, WHICH AMENDMENT PROVIDES THAT CERTAIN        
+ 123  129 5 DEDUCTIONS SHALL BE ALLOWED IN THE CALCULATION OF SURTAXES        
+ 123  129 6 ONLY TO THE EXTENT THAT SAID DEDUCTIONS EXCEED AMOUNT OF          
+ 123  129 7 TAX-FREE INTERESTEARNED ON OBLIGATIONS OR SECURITIES.             
+ 123  129 8 (P. 8197-1)                                                       
+ 124  130 1 CR 65-8-8268  J 68-1-335B    HR6715    MAY 10, 1924               
+ 124  130 2 S681108       Y=69 N=15                SMOOT, UTAH                
+ 124  130 3 TO PASS H.R. 6715.  (P. 5997-2)                                   
+ 125  131 1 CR 65-8-8422  J 68-1-341     S5        MAY 13, 1924               
+ 125  131 2 S681109       Y=53 N=28                BURSUM, N.M.               
+ 125  131 3 TO PASS S. 5, OVER VETO OF THE PRESIDENT, GRANTING PENSIONS       
+ 125  131 4 AND INCREASE OF PENSIONS TO CERTAIN SOLDIERS AND SAILORS OF       
+ 125  131 5 THE CIVIL AND MEXICAN WARS AND TO CERTAIN WIDOWS, FORMER          
+ 125  131 6 WIDOWS, MINOR CHILDREN AND HELPLESS CHILDREN OF SAID              
+ 125  131 7 SOLDIERS AND SAILORS, AND TO WIDOWS OF THE WAR OF 1812, AND       
+ 125  131 8 TO CERTAIN INDIAN WAR VETERANS AND WIDOWS, AND TO CERTAIN         
+ 125  131 9 SPANISH WAR SOLDIERS AND CERTAIN MAIMED SOLDIERS.                 
+ 125  13110 (P. 8415-1)                                                       
+ 126  132 1 CR 65-9-8589  J 68-1-352     HR7995    MAY 15, 1924               
+ 126  132 2 S681110       Y=69 N=9                 REED, PA.                  
+ 126  132 3 TO AGREE TO REPORT OF CONFERENCE COMMITTEE ON H.R. 7995,          
+ 126  132 4 (APP. 5/26/1924, 43 STAT. L. 153), A BILL TO LIMIT THE            
+ 126  132 5 IMMIGRATION OF ALIENS INTO THE UNITED STATES.  (P. 8568-2)        
+ 127  133 1 CR 65-9-8783  J 68-1-359     HR7877    MAY 17, 1924               
+ 127  133 2 S681112       Y=49 N=25                PITTMAN, NEV.              
+ 127  133 3 TO SUSTAIN THE DECISION OF THE CHAIR, A MOTION MADE DURING        
+ 127  133 4 CONSIDERATION OF H.R. 7877, (APP. 6/7/1924), A BILL MAKING        
+ 127  133 5 APPROPRIATIONS FOR THE MILITARY AND NON-MILITARY ACTIVITIES       
+ 127  133 6 OF THE WAR DEPARTMENT FOR THE FISCAL YEAR ENDING                  
+ 127  133 7 JUNE 30, 1925, WHICH DECISION HELD THAT AN AMENDMENT THAT         
+ 127  133 8 WAS OFFERED PROPOSED GENERAL LEGISLATION TO A GENERAL             
+ 127  133 9 APPROPRIATION BILL, AND THEREFORE WAS NOT IN ORDER UNDER          
+ 127  13310 RULE XVI, PARAGRAPH 3.  (P. 8780-1,2)                             
+ 128  134 1 CR 65-9-8871  J 68-1-364     HR7959    MAY 19, 1924               
+ 128  134 2 S681113       Y=59 N=26                                           
+ 128  134 3 TO PASS, OVER VETO OF THE PRESIDENT, H.R. 7959,                   
+ 128  134 4 (APP. 5/19/1924, 43 STAT. L. 121), A BILL TO PROVIDE              
+ 128  134 5 ADJUSTED COMPENSATION FOR VETERANS OF THE WORLD WAR.              
+ 129  135 1 CR 65-9-8888  J 68-1-365     S2327     MAY 19, 1924               
+ 129  135 2 S681114       Y=54 N=23                GOODING, IDAHO             
+ 129  135 3 TO PASS S. 2327, A BILL TO AMEND SECTION 4 OF THE INTERSTATE      
+ 129  135 4 COMMERCE ACT.  (P. 8804-2, 8873-2)                                
+ 130  136 1 CR 65-9-9277A J 68-1-383A    SRE235    MAY 23, 1924               
+ 130  136 2 S681115       Y=5 N=58                 STERLING, S.D.             
+ 130  136 3 TO AMEND, IN THE NATURE OF A SUBSTITUTE, S. RES. 235,             
+ 130  136 4 ADOPTING AND APPROVING THE REPORT OF THE SPECIAL COMMITTEE        
+ 130  136 5 APPOINTED TO INVESTIGATE THE CHARGES AGAINST                      
+ 130  136 6 BURTON K. WHEELER; THE SUBSTITUTE PROVIDING THAT THE SENATE       
+ 130  136 7 TAKE NO ACTION ON THE MAJORITY OR MINORITY REPORTS IN             
+ 130  136 8 REFERENCE TO SEN. WHEELER'S INDICTMENT IN THE U.S. DISTRICT       
+ 130  136 9 COURT OF THE STATE OF MONT., AND THAT PENDING THE TRIAL ON        
+ 130  13610 SUCH CHARGES, NO QUESTION BE RAISED AS TO HIS QUALIFICATIONS      
+ 130  13611 FOR THE U.S. SENATE.  (P. 9270-1)                                 
+ 131  137 1 CR 65-9-9277B J 68-1-383B    SRE235    MAY 23, 1924               
+ 131  137 2 S681116       Y=8 N=56                 SPENCER, MO.               
+ 131  137 3 TO AMEND, IN THE NATURE OF A SUBSTITUTE, S. RES. 235, BY          
+ 131  137 4 DECLARING THAT NO REASON HAS BEEN PRESENTED TO THE SENATE         
+ 131  137 5 TO QUESTION THE RIGHT OF SENATOR WHEELER TO MEMBERSHIP            
+ 131  137 6 IN THE SENATE, AND TO DISCHARGE THE COMMITTEE FROM FURTHER        
+ 131  137 7 CONSIDERATION OF THE MATTER.                                      
+ 132  138 1 CR 65-9-9279  J 68-1-383C    SRE235    MAY 23, 1924               
+ 132  138 2 S681117       Y=56 N=5                 BORAH, IDAHO               
+ 132  138 3 TO PASS S. RES. 235.  (P. 9278-1,2)                               
+ 133  139 1 CR 65-9-9421  J 68-1-386     HR6715    MAY 24, 1924               
+ 133  139 2 S681118       Y=60 N=6                 SMOOT, UTAH                
+ 133  139 3 TO AGREE TO THE REPORT OF THE CONFERENCE COMMITTEE ON             
+ 133  139 4 H.R. 6715, (APP. 6/2/1924, 43 STAT. 7, 253), A BILL TO            
+ 133  139 5 REDUCE AND EQUALIZE TAXATION, TO PROVIDE REVENUE.                 
+ 133  139 6 (P. 9243-47)                                                      
+ 134  140 1 CR 65-9-9491  J 68-1-389A    SRE124    MAY 26, 1924               
+ 134  140 2 S681119       Y=41 N=19                GOODING, IDAHO             
+ 134  140 3 TO PROCEED TO THE CONSIDERATION OF S. RES. 124, DIRECTING         
+ 134  140 4 THE INTERSTATE COMMERCE COMMISSION TO SECURE INFORMATION          
+ 134  140 5 RELATIVE TO THE AMOUNT OF MONEY EXPENDED FOR THE PURPOSE OF       
+ 134  140 6 CREATING PUBLIC INTEREST FAVORABLE TO RAILROAD SENTIMENT.         
+ 134  140 7 (P. 9490-1)                                                       
+ 135  141 1 CR 65-9-9516  J 68-1-389B    S1898     MAY 26, 1924               
+ 135  141 2 S681120       Y=55 N=0                 BORAH, IDAHO               
+ 135  141 3 TO AMEND S. 1898, A BILL TO READJUST THE COMPENSATION OF          
+ 135  141 4 POSTMASTERS AND RECLASSIFY AND READJUST THE SALARIES AND          
+ 135  141 5 COMPENSATIONS OF EMPLOYEES IN THE POSTAL SERVICE, BY              
+ 135  141 6 REQUIRING ALL LOCAL, STATE OR NATIONAL COMMITTEES, AND ALL        
+ 135  141 7 PERSONS HAVING ANY PART IN THE ELECTION OR CAMPAIGN FOR           
+ 135  141 8 ELECTION OF MEMBERS OF CONGRESS, OR OTHER OFFICERS OF THE         
+ 135  141 9 GOVERNMENT, TO PUBLISH, EVERY 10 DAYS, A FINANCIAL REPORT OF      
+ 135  14110 CONTRIBUTIONS RECEIVED.  (P. 9516-1)                              
+ 136  142 1 CR 65-10-9596 J 68-1-393A    S1898     MAY 27, 1924               
+ 136  142 2 S681121       Y=54 N=23                FRAZIER, N.D.              
+ 136  142 3 TO AMEND S. 1898, BY PROVIDING THAT IN LIEU OF 3 CENTS            
+ 136  142 4 EACH CARRIER IN RURAL MAIL DELIVERY SERVICE BE PAID 4 CENTS       
+ 136  142 5 PER MILE PER DAY FOR EQUIPMENT MAINTENANCE.  (P. 9596-2)          
+ 137  143 1 CR 65-10-9597 J 68-1-393B    S1898     MAY 27, 1924               
+ 137  143 2 S681122       Y=73 N=3                 EDGE, N.J.                 
+ 137  143 3 TO PASS S. 1898, AS AMENDED.  (P. 9584-2)                         
+ 138  144 1 CR 65-10-9600 J 68-1-393C    HR6941    MAY 27, 1924               
+ 138  144 2 S681123       Y=45 N=22                BURSUM, N.M.               
+ 138  144 3 TO MAKE A SPECIAL ORDER FOR THURSDAY, MAY 29, 1924, AT THE        
+ 138  144 4 HOUR OF 3 O'CLOCK P.M. FOR CONSIDERATION OF H.R. 6941,            
+ 138  144 5 (APP. 12/8/1924), A BILL GRANTING PENSIONS AND INCREASE OF        
+ 138  144 6 PENSIONS TO CERTAIN SOLDIERS AND SAILORS OF THE CIVIL WAR         
+ 138  144 7 AND CERTAIN WIDOWS AND DEPENDENT CHILDREN OF SOLDIERS AND         
+ 138  144 8 SAILORS, AND FOR H.R. 6426, (10/23/1924), A BILL GRANTING         
+ 138  144 9 PENSIONS AND INCREASES OF PENSIONS TO CERTAIN SOLDIERS AND        
+ 138  14410 SAILORS OF THE REGULAR ARMY AND NAVY, AND CERTAIN SOLDIERS        
+ 138  14411 AND SAILORS OF WARS OTHER THAN CIVIL WAR, AND TO WIDOWS OF        
+ 138  14412 SUCH SOLDIERS AND SAILORS.  (P. 9598-2)                           
+ 139  145 1 CR 65-10-9738 J 68-1-398A    HR8839    MAY 28, 1924               
+ 139  145 2 S681124       Y=31 N=24                PHIPPS, COL.               
+ 139  145 3 TO AGREE TO THE AMENDMENT TO H.R. 8839, (6/7/1924), A BILL        
+ 139  145 4 MAKING APPROPRIATIONS FOR THE GOVERNMENT OF THE DISTRICT OF       
+ 139  145 5 COLUMBIA AND OTHER ACTIVITIES CHARGEABLE IN WHOLE OR IN           
+ 139  145 6 PART AGAINST THE REVENUES OF SUCH DISTRICT, FOR THE FISCAL        
+ 139  145 7 YEAR ENDING JUNE 30, 1925, WHICH AMENDMENT PROVIDES THAT IN       
+ 139  145 8 ORDER TO DEFRAY EXPENSES THE DISTRICT OF COLUMBIA, FOR THE        
+ 139  145 9 FISCAL YEAR ENDING JUNE 30, 1925, $14,000,000, OR IN LIEU         
+ 139  14510 THEREOF, 40 PER CENT OF EXPENSES OF THE DISTRICT OF COL.          
+ 139  14511 EXCEPT THOSE HEREIN DIRECTED TO BE PAID OTHERWISE, SHALL          
+ 139  14512 BE PAID BY THE GOVERNMENT OF THE UNITED STATES.  (P. 9604-1)      
+ 140  146 1 CR 65-10-9819 J 68-1-398B    HR8839    MAY 29, 1924               
+ 140  146 2 S681125       Y=44 N=21                MCKELLAR, TENN.            
+ 140  146 3 TO SUSTAIN THE DECISION OF THE CHAIR APPEALED FROM BY             
+ 140  146 4 KENNETH D. MCKELLER (D TENN.), MADE IN COMMITTEE OF THE           
+ 140  146 5 WHOLE, DURING CONSIDERATION OF H.R. 8839, (APP. 6/7/1924),        
+ 140  146 6 A BILL MAKING APPROPRIATIONS FOR THE GOVERNMENT OF THE            
+ 140  146 7 DISTRICT OF COLUMBIA AND OTHER ACTIVITIES CHARGEABLE IN           
+ 140  146 8 WHOLE OR IN PART AGAINST THE REVENUES OF SUCH DISTRICT FOR        
+ 140  146 9 THE FISCAL YEAR ENDING JUNE 30, 1925, WHICH DECISION HELD         
+ 140  14610 THAT CERTAIN LANGUAGE IN THE APPROPRIATION BILL IS                
+ 140  14611 LEGISLATION.  (P. 9819-1)                                         
+ 141  147 1 CR 65-10-10129J 68-1-410     HJR184    JUNE 2, 1924               
+ 141  147 2 S681126       Y=38 N=42                REED, MO.                  
+ 141  147 3 TO AMEND H.J. RES. 184, PROPOSING AN AMENDMENT TO THE             
+ 141  147 4 CONSTITUTION OF THE UNITED STATES (RELATIVE TO CHILD LABOR),      
+ 141  147 5 BY PROVIDING THAT CONGRESS SHALL HAVE THE POWER TO LIMIT,         
+ 141  147 6 REGULATE AND PROHIBIT THE LABOR OF PERSONS UNDER 18 YEARS OF      
+ 141  147 7 AGE WHO ARE ENGAGED IN OCCUPATIONS OTHER THAN AGRICULTURE         
+ 141  147 8 AND HORTICULTURE.  (P. 9598-2, 10106-2)                           
+ 142  148 1 CR65-10-10140AJ 68-1-41      HJR184    JUNE 2, 1924               
+ 142  148 2 S681127       Y=25 N=57                REED, MO.                  
+ 142  148 3 TO AMEND H.J. RES. 184, BY PROVIDING THAT IN LIEU OF THE AGE      
+ 142  148 4 LIMIT OF EIGHTEEN YEARS IN THE REGULATION OF CHILD LABOR,         
+ 142  148 5 THE CONGRESS SHALL HAVE THE POWER TO LIMIT, REGULATE AND          
+ 142  148 6 PROHIBIT THE LABOR OF PERSONS UNDER FOURTEEN YEARS OF AGE.        
+ 142  148 7 (P. 10139-1, 10012-1)                                             
+ 143  149 1 CR65-10-10140BJ 68-1-41      HJR184    JUNE 2, 1924               
+ 143  149 2 S681128       Y=40 N=43                REED, MO.                  
+ 143  149 3 TO AMEND H.J. RES. 184, BY PROVIDING THAT INSTEAD OF 18           
+ 143  149 4 YEARS AS THE AGE LIMIT FOR CHILD LABOR REGULATIONS, THE           
+ 143  149 5 CONGRESS HAVE POWER TO LIMIT, REGULATE AND PROHIBIT THE           
+ 143  149 6 LABOR OF PERSONS UNDER 16 YEARS OF AGE.                           
+ 143  149 7 (P. 10140-2, 10141-1)                                             
+ 144  150 1 CR65-10-10141AJ 68-1-41      HJR184    JUNE 2, 1924               
+ 144  150 2 S681129       Y=25 N=58                REED, MO.                  
+ 144  150 3 TO AMEND H.J. RES. 184, BY PROVIDING THAT CONGRESS SHALL          
+ 144  150 4 HAVE POWER REASONABLY TO LIMIT AND REGULATE THE LABOR OF          
+ 144  150 5 PERSONS UNDER EIGHTEEN YEARS OF AGE, AND TO PROHIBIT SUCH         
+ 144  150 6 LABOR IN PURSUITS INVOLVING SPECIAL HAZARD TO HEALTH, LIFE,       
+ 144  150 7 OR LIMB.  (P. 10141-1)                                            
+ 145  151 1 CR65-10-10141BJ 68-1-41      HJR184    JUNE 2, 1924               
+ 145  151 2 S681130       Y=22 N=58                BAYARD, DEL.               
+ 145  151 3 TO AMEND H.J. RES. 184, BY PROVIDING THAT THE PROPOSED            
+ 145  151 4 CONSTITUTIONAL AMENDMENT BE SUBMITTED TO CONVENTIONS AND NOT      
+ 145  151 5 TO LEGISLATURES OF THE STATES.  (P. 10141-1)                      
+ 146  152 1 CR65-10-10141CJ 68-1-41      HJR184    JUNE 2, 1924               
+ 146  152 2 S681131       Y=28 N=55                FLETCHER, FLA.             
+ 146  152 3 TO AMEND H.J. RES. 184, BY PROVIDING THAT, "THIS ARTICLE          
+ 146  152 4 SHALL BE INOPERATIVE UNLESS IT SHALL HAVE BEEN RATIFIED AS        
+ 146  152 5 AN AMENDMENT TO THE CONSTITUTION BY THE LEGISLATURES OF THE       
+ 146  152 6 SEVERAL STATES, AS PROVIDED IN THE CONSTITUTION, WITHIN FIVE      
+ 146  152 7 YEARS FROM THE DATE OF THE SUBMISSION THEREOF TO THE STATES       
+ 146  152 8 BY THE CONGRESS.  (P. 10141-2)                                    
+ 147  153 1 CR65-10-10141DJ 68-1-41      HJR184    JUNE 2, 1924               
+ 147  153 2 S681132       Y=23 N=57                REED, MO.                  
+ 147  153 3 TO AMEND H.J. RES. 184, BY ELIMINATING THE WORDS "AND             
+ 147  153 4 PROHIBIT" MAKING THE CLAUSE READ, =THE CONGRESS SHALL HAVE        
+ 147  153 5 POWER TO LIMIT AND REGULATE THE LABOR OF PERSONS UNDER 18         
+ 147  153 6 YEARS OF AGE."  (P. 10141-2)                                      
+ 148  154 1 CR65-10-10142 J 68-1-411     HJR184    JUNE 2, 1924               
+ 148  154 2 S681133       Y=62 N=23                SHORTRIDGE, CALIF.         
+ 148  154 3 TO PASS H.J. RES. 184.  (P. 9598-2)                               
+ 149  155 1 CR65-10-10289 J 68-1-417     HCR27     JUNE 3, 1924               
+ 149  155 2 S681134       Y=36 N=52                LAFOLLETTE, WIS.           
+ 149  155 3 TO AMEND H. CON. RES. 27, PROVIDING THAT THE PRESIDENT OF         
+ 149  155 4 THE SENATE, AND THE SPEAKER OF THE HOUSE OF REPRESENTATIVES,      
+ 149  155 5 BE AUTHORIZED TO CLOSE THE PRESENT SESSION BY ADJOURNING          
+ 149  155 6 THEIR RESPECTIVE HOUSES ON THE 7TH DAY OF JUNE, 1924, AT          
+ 149  155 7 7 O'CLOCK, P.M., BY SUBSTITUTING A PERIOD OF ADJOURNMENT          
+ 149  155 8 FROM JUNE 7 TO JULY 7, 1924 AND PROVIDING FOR CERTAIN             
+ 149  155 9 MEASURES TO BE VOTED ON IN THE ORDER NAMED IN THE RESOLUTION      
+ 149  15510 INCLUDING SETTLEMENT OF THE MUSCLE SHOALS CONTROVERSY, WHEN       
+ 149  15511 CONGRESS RECONVENES ON JULY 7, 1924.  (P. 10288-2)                
+ 150  156 1 CR65-10-10290AJ 68-1-41      HCR27     JUNE 3, 1924               
+ 150  156 2 S681135       Y=35 N=53                FRAZIER, N.D.              
+ 150  156 3 TO AMEND H. CON. RES. 27, BY STRIKING OUT 7TH AND INSERTING       
+ 150  156 4 21ST.  (P. 10289-2)                                               
+ 151  157 1 CR65-10-10290BJ 68-1-41      HCR27     JUNE 3, 1924               
+ 151  157 2 S681136A      Y=53 N=36                LODGE, MASS.               
+ 151  157 3 TO AGREE TO H. CON. RES. 27.  (P. 10288-1)                        
+ 152  158 1 CR65-10-10475 J 68-1-423     HR8233    JUNE 4, 1924               
+ 152  158 2 S681136B      Y=32 N=44                NORRIS, NEB.               
+ 152  158 3 TO RECEDE FROM THE SENATE AMENDMENT TO H.R. 8233,                 
+ 152  158 4 (APP. 6/7/1924), A BILL MAKING APPROPRIATIONS FOR THE             
+ 152  158 5 EXECUTIVE OFFICE AND SUNDRY INDEPENDENT EXECUTIVE BUREAUS,        
+ 152  158 6 BOARDS, COMMISSIONS AND OFFICES, FOR THE FISCAL YEAR ENDING       
+ 152  158 7 JUNE 30, 1925, WHICH AMENDMENT RELATES TO THE REPAIRING OF        
+ 152  158 8 SHIPS AT THE NAVY YARDS.  (P. 10474-2)                            
+ 153  159 1 CR65-11-10647 J 68-1-437     SRE247    JUNE 5, 1924               
+ 153  159 2 S681137       Y=70 N=2                 BROOKHART, IOWA            
+ 153  159 3 TO AGREE TO S. RES. 247, AS AMENDED, REQUESTING THE               
+ 153  159 4 ATTORNEY GENERAL TO HAVE THE PROPER OFFICIALS OF HIS DEPT.        
+ 153  159 5 TAKE THE NECESSARY STEPS FOR PROMPT REVIEW AND DETERMINATION      
+ 153  159 6 OF THE PROCEEDING ENTITLED "IN THE MATTER OF THE APPLICATION      
+ 153  159 7 OF HARRY S. DOUGHERTY FOR A WRIT OF HABEAS CORPUS BY THE          
+ 153  159 8 SUPREME COURT.  (P. 10642-1, 10644-1)                             
+ 154  160 1 CR65-11-10649 J 68-1-438     SRE247    JUNE 5, 1924               
+ 154  160 2 S681138       Y=29 N=44                WILLIS, OHIO               
+ 154  160 3 TO AMEND THE PREAMBLE TO S. RES. 247, REQUESTING THE              
+ 154  160 4 ATTORNEY GENERAL TO HAVE THE PROPER OFFICIALS OF HIS DEPT.        
+ 154  160 5 YAKE THE NECESSARY STEPS FOR A PROMPT REVIEW AND                  
+ 154  160 6 DETERMINATION OF THE PROCEEDING ENTITLED "IN THE MATTER OF        
+ 154  160 7 THE APPLICATION OF HARRY S. DAUGHERTY FOR WRIT OF HABEAS          
+ 154  160 8 CORPUS," BY THE SUPREME COURT, WHICH AMENDMENT CHANGES THE        
+ 154  160 9 RESOLUTION SO AS TO READ, "WHEREAS IT IS BELIEVED THAT IT IS      
+ 154  16010 HIGHLY DESIREABLE TO HAVE THE LAW IN THE MATTER SETTLED BY        
+ 154  16011 THE SUPREME COURT".  (P. 10648-1)                                 
+ 155  161 1 CR65-11-10687 J 68-1-440     HR9559    JUNE 5, 1924               
+ 155  161 2 S681139       Y=18 N=35                HARRIS, GA.                
+ 155  161 3 TO AMEND H.R. 9559, (APP. 12/5/1924), A BILL MAKING               
+ 155  161 4 APPROPRIATIONS TO SUPPLY DEFICIENCIES IN CERTAIN                  
+ 155  161 5 APPROPRIATIONS FOR THE FISCAL YEAR ENDING JUNE 30, 1924, AND      
+ 155  161 6 PRIOR FISCAL YEARS, TO PROVIDE SUPPLEMENTAL APPROPRIATIONS        
+ 155  161 7 FOR THE FISCAL YEAR ENDING JUNE 30, 1925, BY ELIMINATING          
+ 155  161 8 "FOR CONSTRUCTION AND DEVELOPEMENT WORK IN POTOMAC PARK ON        
+ 155  161 9 THE WEST SHORE OF THE TIDAL BASIN TO PROVIDE PUBLIC BATHING       
+ 155  16110 FACILITIES, AND FOR THE MAINTENANCE THEREOF $50,000, TO           
+ 155  16111 REMAIN AVAILABLE UNTIL JUNE 30, 1925: PROVIDED, THAT THE          
+ 155  16112 UNEXPENDED BALANCE OF THE APPROPRIATION OF $25,000,               
+ 155  16113 CONTAINED IN THE DISTRICT OF COLUMBIA APPROPRIATION ACT FOR       
+ 155  16114 THE FISCAL YEAR 1923 FOR THE CONSTRUCTION OF A BATHING            
+ 155  16115 BEACH AND BATHHOUSE FOR THE COLORED POPULATION OF THE CITY,       
+ 155  16116 CONTAINED AND MADE AVAILABLE DURING THE FISCAL YEAR 1924 BY       
+ 155  16117 THE DISTRICT OF COLUMBIA APPROPRIATION ACT FOR THE FISCAL         
+ 155  16118 YEAR 1924, IS FURTHER CONTINUED AND MADE AVAILABLE DURING         
+ 155  16119 THE FISCAL YEAR 1925 FOR THE CONSTRUCTION AND MAINTENANCE         
+ 155  16120 OF SAID BATHING BEACH AND BATHHOUSE.  (P. 10686-1)                
+ 156  162 1 CR65-11-10929 J 68-1-452     S2257     JUNE 6, 1924               
+ 156  162 2 S681140       Y=74 N=0                 REED, PA.                  
+ 156  162 3 TO CONSIDER THE REPORT OF THE CONFERENCE COMMITTEE ON THE         
+ 156  162 4 DISAGREEING VOTES OF THE TWO HOUSES ON THE AMENDMENT OF THE       
+ 156  162 5 HOUSE TO S. 2257, (APP. 6/7/1924, 43 STAT. L. 607), A BILL        
+ 156  162 6 TO CONSOLIDATE, CODIFY, REVISE AND REENACT THE LAWS               
+ 156  162 7 AFFECTING THE ESTABLISHMENT OF THE UNITED STATES VETERANS         
+ 156  162 8 BUREAU AND THE ADMINISTRATION OF THE WAR RISK INSURANCE ACT,      
+ 156  162 9 AS AMENDED, AND THE VOCATIONAL REHABILITATION ACT, AS             
+ 156  16210 AMENDED.  (P. 10928-2)                                            
+ 157  163 1 CR65-11-10994 J 68-1-459     HJR180    JUNE 6, 1924               
+ 157  163 2 S681141       Y=23 N=53                LAFOLLETTE, WIS.           
+ 157  163 3 TO DISCHARGE THE COMMITTEE ON FOREIGN RELATIONS FROM              
+ 157  163 4 FURTHER CONSIDERATION OF H.J. RES. 180, PROVIDING FOR THE         
+ 157  163 5 RELIEF OF THE DISTRESSED AND STARVING WOMEN AND CHILDREN OF       
+ 157  163 6 GERMANY.  (P. 10287)                                              
+ 158  164 1 CR65-11-11137 J 68-1-471     HJR283    JUNE 7, 1924               
+ 158  164 2 S681142       Y=66 N=15                REED, PA.                  
+ 158  164 3 TO PASS H.J. RES. 283, (6/7/1924), PERMITTING TO REMAIN           
+ 158  164 4 WITHIN THE UNITED STATES CERTAIN ALIENS IN EXCESS OF THE          
+ 158  164 5 QUOTA FIXED UNDER THE AUTHORITY OF THE IMMIGRATION ACT OF         
+ 158  164 6 MAY 19, 1921, ALSO THOSE ALIENS ON THEIR WAY TO THE U.S.          
+ 158  164 7 BELIEVING IN GOOD FAITH THAT THEY WOULD BE ADMITTED UNDER         
+ 158  164 8 THE ACT OF MAY 19, 1921, AND ALIENS TEMPORARILY ADMITTED          
+ 158  164 9 UNDER BOND, TO RELIEVE CASES OF EXTREME HARDSHIP.                 
+ 158  16410 (P. 11136-1)                                                      
+ 159  165 1 CR 66-1-301   J 68-2-28A     HR518     DEC. 9, 1924               
+ 159  165 2 S682001       Y=6 N=65                 BRUCE, MD.                 
+ 159  165 3 TO AMEND, IN THE NATURE OF A SUBSTITUTE, H.R. 518, A BILL         
+ 159  165 4 TO AUTHORIZE THE SECRETARY OF WAR, IN TIME OF WAR FOR             
+ 159  165 5 NATIONAL DEFENCE, AND IN TIME OF PEACE FOR PRODUCTION OF          
+ 159  165 6 FERTILIZER AND OTHER USEFUL PRODUCTS, TO SELL TO HENRY FORD       
+ 159  165 7 OR A CORPORATION FORMED BY HIM, NITRATE PLANTS NO. 1 AND          
+ 159  165 8 NO. 2, AND TO LEASE TO HENRY FORD AS A CORPORATION, DAMS          
+ 159  165 9 NUMBER 2 AND 3 AT MUSCLE SHOALS, ALABAMA, AS DESIGNATED IN        
+ 159  16510 H. DEC. 1262, 64TH CONGRESS, 1ST SESSION, INCLUDING POWER         
+ 159  16511 STATIONS WHEN CONSTRUCTED, BY INCLUDING EMPLOYEES FOR THE         
+ 159  16512 FEDERAL POWER CORPORATION UNDER THE FEDERAL CIVIL SERVICE         
+ 159  16513 STATUTES, PROVIDING THAT SUCH EMPLOYEES SHALL BE SUBJECT TO       
+ 159  16514 DISMISSAL BY THE BOARD OF DIRECTORS AT ITS PLEASURE.              
+ 159  16515 (P. 296-1, 65-1)                                                  
+ 160  166 1 CR 66-1-305   J 68-2-28B     HR518     DEC. 9, 1924               
+ 160  166 2 S682002       Y=29 N=37                HARRIS, GA.                
+ 160  166 3 TO AMEND, IN THE NATURE OF A SUBSTITUTE, H.R. 518, BY             
+ 160  166 4 PROVIDING THAT NO LEASEE SHALL HAVE ANY RIGHT TO SELL OR          
+ 160  166 5 TRANSFER ANY LEASE OR ANY INTEREST IN WHICH MAY BE OBTAINED       
+ 160  166 6 OR PROCURRED UNDER THIS ACT WITHOUT THE CONSENT OF THE            
+ 160  166 7 SECRETARY OF WAR.  (P. 304-2)                                     
+ 161  167 1 CR 66-1-306   J 68-2-28C     HR518     DEC. 9, 1924               
+ 161  167 2 S682003       Y=18  N=47               HARRIS, GA.                
+ 161  167 3 TO AMEND SENATOR UNDERWOODS SUBSTITUTE FOR COMMITTEE              
+ 161  167 4 AMENDMENT TO H.R. 518, BY PREVENTING A PROFIT IN EXCESS OF        
+ 161  167 5 8 PER CENT BEING CHARGED ON FERTILIZER BY LEASEE OR               
+ 161  167 6 CORPORATION, AND TO PREVENT FROM SELLING ALL FERTILIZER           
+ 161  167 7 MANUFACTURED TO ANY ONE SECTION OR STATE, AND GIVING              
+ 161  167 8 PREFERENCE TO FARMERS.  (P. 305-2)                                
+ 162  168 1 CR 66-1-314   J 68-2-29      HR518     DEC. 9, 1924               
+ 162  168 2 S682004       Y=29 N=34                MCNARY, ORE.               
+ 162  168 3 TO AMEND SENATOR UNDERWOODS SUBSTITUTE FOR COMMITTEE              
+ 162  168 4 AMENDMENT TO H.R. 518, BY PROVIDING THE LEASE, AS RELATING        
+ 162  168 5 TO DAM NUMBER 2 ITS POWER HOUSE, MACHINERY, AND EQUIPMENT,        
+ 162  168 6 THE STEAM PLANT AT SHEFFIELD AND ALL LANDS CONNECTED              
+ 162  168 7 THEREWITH, SHALL BE MADE SUBJECT TO AND IN ACCORDANCE WITH        
+ 162  168 8 THE PROVISIONS OF THE FEDERAL WATER POWER ACT, ALSO               
+ 162  168 9 PROVIDING RENTAL SHALL BE PAID FOR ALL PROPERTY LEASED AT         
+ 162  16810 MUSCLE SHOALS.  (P. 307-1)                                        
+ 163  169 1 CR 66-1-516   J 68-2-33      HR518     DEC. 12, 1924              
+ 163  169 2 S682005       Y=23 N=39                HARRISON, MISS.            
+ 163  169 3 TO AMEND SENATOR UNDERWOODS SUBSTITUTE FOR COMMITTEE              
+ 163  169 4 AMENDMENT TO H.R. 518, BY CHANGING ALL PHRASEOLOGY AND TO         
+ 163  169 5 CHANGE TO DAMS NUMBER 2 AND 3.                                    
+ 164  170 1 CR 66-1-656   J 68-2-39      HR518     DEC. 16, 1924              
+ 164  170 2 S682006       Y=32 N=49                SMITH, S.C.                
+ 164  170 3 TO AMEND SENATOR UNDERWOODS SUBSTITUTE FOR COMMITTEE              
+ 164  170 4 AMENDMENT TO H.R. 518, BY SUBSTITUTING A NEW SECTION 3,           
+ 164  170 5 MAKING IT THE DUTY OF THE SECRETARY OF WAR TO SEE THAT ALL        
+ 164  170 6 PROPORTIES ARE DEVELOPED AND UTILIZED TO THEIR FULLEST            
+ 164  170 7 CAPACITY AND THAT DAM NUMBER 3, WHEN FINISHED, SHALL              
+ 164  170 8 OPERATE IN CONJUNCTION WITH DAM NUMBER 2, AND THAT THE            
+ 164  170 9 SURPLUS POWER WHEN SOLD OR USED SHALL BE SUBJECT TO THE           
+ 164  17010 LAWS AND RULES AND REGULATIONS OF THE STATES WHERE SUCH           
+ 164  17011 POWER IS USED.  (P. 261-1,2, 655-2)                               
+ 165  171 1 CR 66-1-645   J 68-2-38      S1898     DEC. 16, 1924              
+ 165  171 2 S682007       Y=51 N=30                ASHURST, ARIZ.             
+ 165  171 3 TO PROCEED TO CONSIDERATION OF S. 1898, VETOED BY THE             
+ 165  171 4 PRESIDENT, A BILL RECLASSIFYING SALARIES OF POSTMASTERS AND       
+ 165  171 5 EMPLOYEES OF THE POSTAL SERVICE, ON AN EQUITABLE VASIS.           
+ 165  171 6 (P. 644-1)                                                        
+ 166  172 1 CR 66-1-823   J 68-2-45      HR518     DEC. 19, 1924              
+ 166  172 2 S682008       Y=41 N=29                WALSH, MONT.               
+ 166  172 3 TO AMEND SENATOR UNDERWOODS SUBSTITUTE FOR THE COMMITTEE          
+ 166  172 4 AMENDMENT TO H.R. 518, BY SUBSTITUTING NEW SECTIONS 10 AND        
+ 166  172 5 11 PROPOSING THAT WHERE STATES HAVE NO AGENCY FOR REGULATING      
+ 166  172 6 SERVICE AND RATES FOR CHARGES OF POWER PURCHASED AND WHEN         
+ 166  172 7 POWER SHALL ENTER INTO INTERSTATE OR FOREIGN COMMERCE OR          
+ 166  172 8 WHERE STATES CANNOT AGREE ON REGULATIONS AND CONTROL AND          
+ 166  172 9 CHARACTER OF SECURETIES, JURISDICTION SHALL BE CONFERRED          
+ 166  17210 UPON THE FEDERAL WATER POWER COMMISSION UNTIL THE STATE           
+ 166  17211 PROVIDES A COMMISSION OR OTHER AUTHORITY.  (P. 822-2, 823-1)      
+ 167  173 1 CR 66-2-1227  J 68-2-61      S1898     JAN. 5, 1925               
+ 167  173 2 S682009       Y=30 N=52                STERLING, S.D.             
+ 167  173 3 TO REFER TO COMMITTEE ON POST OFFICE AND POST ROADS, VETO         
+ 167  173 4 MESSAGE OF THE PRESIDENT AND THE BILL S. 1898.  (P. 644-1,2)      
+ 168  174 1 CR 66-2-1285  J 68-2-62      S1898     JAN. 6, 1925               
+ 168  174 2 S682010       Y=55 N=29                EDGE, N.J.                 
+ 168  174 3 TO PASS S. 1898, OVER VETO OF THE PRESIDENT.  (P. 1284-2)         
+ 169  175 1 CR 66-2-1454  J 68-2-72      HR518     JAN. 8, 1925               
+ 169  175 2 S682011       Y=48 N=37                UNDERWOOD, ALA.            
+ 169  175 3 TO AMEND, IN THE NATURE OF A SUBSTITUTE, H.R. 518, BY             
+ 169  175 4 CHANGING THE METHOD OF OPERATION OF THE MUSCLE SHOALS PLANT       
+ 169  175 5 BY PROVIDING FOR SUCH OPERATION BY A GOVERNMENT CORPORATION,      
+ 169  175 6 BY LEASE UNDER SUPERVISION OF THE SECRETARY OF WAR, INSTEAD       
+ 169  175 7 OF OUTRIGHT OPERATION BY THE GOVERNMENT AS PROVIDED IN THE        
+ 169  175 8 BILL.  (P. 1452-1,2)                                              
+ 170  176 1 CR 66-2-1613  J 68-2-77      HR518     JAN. 10, 1925              
+ 170  176 2 S682012       Y=5 N=65                 WADSWORTH, N.Y.            
+ 170  176 3 TO AMEND THE SUBSTITUTE FOR H.R. 518, BY GIVING THE               
+ 170  176 4 PRESIDENT AUTHORITY TO CREATE A FIVE MAN COMMISSION, WITH         
+ 170  176 5 POWER TO DETERMINE WHAT DISPOSITION OF THE OPERATION OF THE       
+ 170  176 6 PROJECT SHALL BE MADE AND THIS COMMISSION MAY LEASE PLANT         
+ 170  176 7 FOR NOT EXCEEDING 50 YEARS, MAY FORM A CORPORATION TO             
+ 170  176 8 OPERATE, AND MAY ISSUE BONDS NOT EXCEEDING $50 MILLION            
+ 170  176 9 DOLLARS; IF THE PRESIDENT DETERMINES PLANT IS NECESSARY FOR       
+ 170  17610 NATIONAL DEFENCE, HE MAY POSSESS SAME AFTER 5 DAYS NOTICE.        
+ 170  17611 (P. 1456-1)                                                       
+ 171  177 1 CR 66-2-1726  S 68-2-80      HR518     JAN. 13, 1925              
+ 171  177 2 S682013       Y=46 N=33                JONES, WASH.               
+ 171  177 3 TO AMEND THE COMMITTEE OF THE WHOLE SUBSTITUTE FOR H.R. 518,      
+ 171  177 4 BY ADDING A PROVISION THAT THE SECRETARIES OF WAR AND             
+ 171  177 5 AGRICULTURE AND A THIRD PERSON NAMED BY THE PRESIDENT BE          
+ 171  177 6 AUTHORIZED TO INVESTIGATE, STUDY PROPOSALS AND QUESTIONS          
+ 171  177 7 INVOLVED IN THE USE AND DISPOSITION OF THE WATER POWER            
+ 171  177 8 RESOURCES AT MUSCLE SHOALS, AND REPORT BY THE FIRST MONDAY        
+ 171  177 9 IN DEC., 1925; ALSO APPROPRIATING $100,000 FOR CARRYING OUT       
+ 171  17710 THESE PROVISIONS.  (P. 1762-1,2)                                  
+ 172  178 1 CR 66-2-1736  J 68-2-82      HR518     JAN. 13, 1925              
+ 172  178 2 S682014       Y=40 N=39                NORRIS, NEB.               
+ 172  178 3 TO AMEND, AS A SUBSTITUTE FOR COMMITTEES OF THE WHOLE             
+ 172  178 4 SUBSTITUTE FOR H.R. 518, BY CREATING "THE FEDERAL CHEMICAL        
+ 172  178 5 CORPORATION," AND GIVING ENTIRE RESPONSIBILITY TO THE             
+ 172  178 6 CORPORATION OF ALL PROPERTY, CORPORATION TO BE OPERATED BY        
+ 172  178 7 THREE DIRECTORS APPOINTED BY THE PRESIDENT, WITH THE ADVICE       
+ 172  178 8 AND CONSENT OF THE SENATE, WITH SALARIES RAISED TO $12,000,       
+ 172  178 9 FROM $7,500.  (P. 1728-1,2)                                       
+ 173  179 1 CR 66-2-1738  J 68-2-83      HR518     JAN. 13, 1925              
+ 173  179 2 S682015       Y=52 N=22                NORRIS, NEB.               
+ 173  179 3 TO SUSTAIN THE DECISION OF THE CHAIR, APPEALED FROM BY            
+ 173  179 4 GEORGE W. NORRIS (R NEB.), MADE DURING CONSIDERATION OF           
+ 173  179 5 H.R. 518, WHICH DECISION HELD THAT SENATOR UNDERWOOD BE           
+ 173  179 6 ALLOWED TO INTRODUCE AN AMENDMENT.  (P. 1736-2)                   
+ 174  180 1 CR 66-2-1795  J 68-2-87      HR518     JAN. 14, 1925              
+ 174  180 2 S682016       Y=46 N=33                UNDERWOOD, ALA.            
+ 174  180 3 TO AMEND, IN THE NATURE OF A SUBSTITUTE, H.R. 518, BY             
+ 174  180 4 PUTTING THE UNDERWOOD SUBSTITUTE AS THE BILL TO BE FINALLY        
+ 174  180 5 VOTED UPON.  (P. 1738-2)                                          
+ 175  181 1 CR 66-2-1805  J 68-2-88A     HR518     JAN. 14, 1925              
+ 175  181 2 S682017       Y=38 N=43                JONES, WASH.               
+ 175  181 3 TO AMEND, IN THE NATURE OF A SUBSTITUTE, H.R. 518, BY             
+ 175  181 4 PROVIDING THAT THE PRESIDENT APPOINT A COMMISSION OF FIVE TO      
+ 175  181 5 STUDY AND REPORT ON USE AND DISPOSITION OF POWER AT MUSCLE        
+ 175  181 6 SHOALS, AND TO REPORT ON OR BEFORE FIRST MONDAY IN DEC.           
+ 175  181 7 1925, ALLOWING AN APPROPRIATION OF $100,000 FOR THE PURPOSE       
+ 175  181 8 AND DIRECTING THE SECRETARY OF WAR TO COMPLETE DAM NO. 3.         
+ 175  181 9 (P. 1796-1,2)                                                     
+ 176  182 1 CR 66-2-1806  J 68-2-88B     HR518     JAN. 14, 1925              
+ 176  182 2 S682018       Y=29 N=52                MCKELLAR, TENN.            
+ 176  182 3 TO AMEND, IN THE NATURE OF A SUBSTITUTE, H.R. 518, BY             
+ 176  182 4 AUTHORIZING THE PRESIDENT TO MAKE A STUDY OF THE USE AND          
+ 176  182 5 DISPOSITION OF THE WATER POWER RESOURCES AT MUSCLE SHOALS         
+ 176  182 6 AND TO REPORT ON OR BEFORE THE FIRST MONDAY IN DEC. 1925,         
+ 176  182 7 AND TO MAKE AN APPROPRIATION OF $100,000 FOR THE PURPOSE,         
+ 176  182 8 AND AUTHORIZING THE SECRETARY OF WAR TO CONSTRUCT DAM NO. 3.      
+ 176  182 9 (P. 1806-1)                                                       
+ 177  183 1 CR 66-2-1808  J 68-2-89      HR518     JAN. 14, 1925              
+ 177  183 2 S682019       Y=50 N=30                NORRIS, NEB.               
+ 177  183 3 TO PASS H.R. 518.  (P. 1808-2)                                    
+ 178  184 1 CR 66-2-1946  J 68-2-91      S3674     JAN. 16, 1925              
+ 178  184 2 S682020       Y=57 N=9                 MOSES, N.H.                
+ 178  184 3 TO SECURE THE UNANIMOUS CONSENT OF THE SENATE TO MAKE             
+ 178  184 4 S. 3674, A BILL RECLASSIFYING THE SALARIES OF POSTMASTERS         
+ 178  184 5 AND EMPLOYEES OF THE POSTAL SERVICE AND INCREASING POSTAL         
+ 178  184 6 RATES, THE SPECIAL ORDER OF BUSINESS OM JAN. 22, 1925.            
+ 178  184 7 (P. 1945-2)                                                       
+ 179  185 1 CR 66-2-2061  J 68-2-97      HR10724   JAN. 19, 1925              
+ 179  185 2 S682021       Y=22 N=45                MCKELLAR, TENN.            
+ 179  185 3 TO SUSPEND THE RULES, SO AS TO MAKE IT IN ORDER TO PROPOSE        
+ 179  185 4 AN AMENDMENT TO H.R. 10724, (APP. 2/11/1925, 43 STAT.L 861),      
+ 179  185 5 A BILL MAKING APPROPRIATIONS FOR THE NAVY FOR THE FISCAL          
+ 179  185 6 YEAR ENDING JUNE 30, 1926, SAID AMENDMENT HAVING TO DO WITH       
+ 179  185 7 THE ELEVATING OF GUNS ON CERTAIN BATTLESHIPS.  (P. 2061-1)        
+ 180  186 1 CR 66-3-2140  J 68-2-100A    SRE147    JAN. 20, 1925              
+ 180  186 2 S682022       Y=28 N=42                SPENCER, MO.               
+ 180  186 3 TO ADOPT THE MINORITY REPORT, RELATIVE TO S. RES. 147, IN         
+ 180  186 4 CONNECTION WITH THE TEAPOT DOME INVESTIGATION OF OIL LEASES       
+ 180  186 5 ON NAVAL PETROLEUM RESERVES, SAID MINORITY REPORT UPHOLDING       
+ 180  186 6 THE RIGHT SECRETARY OF THE INTERIOR ALBERT B. FALL HAD IN         
+ 180  186 7 MAKING LEASES OF GOVERNMENT OIL FIELDS.  (P. 2140-2)              
+ 181  187 1 CR 66-3-2141  J 68-2-100B    SRE147    JAN. 20, 1925              
+ 181  187 2 S682023       Y=41 N=30                WALSH, MONT.               
+ 181  187 3 TO ADOPT THE MAJORITY REPORT ON S. RES. 147, (68TH CONGRESS       
+ 181  187 4 1ST SESSION) RESOLUTION TO AUTHORIZE INVESTIGATION OF OIL         
+ 181  187 5 LEASES ON NAVAL RESERVES, WHICH REPORT CONDEMNS THE               
+ 181  187 6 ACTION OF SECRETARY OF THE INTERIOR, ALBERT B. FALL, IN           
+ 181  187 7 MAKING LEASES ON NAVAL OIL RESERVES.  (P. 2133-2, 2140-2)         
+ 182  188 1 CR 66-3-2358  J 68-2-109     S3674     JAN. 23, 1925              
+ 182  188 2 S682024       Y=29 N=50                SWANSON, VA.               
+ 182  188 3 TO SUSTAIN THE POINT OF ORDER RAISED BY CLAUDE A. SWANSON         
+ 182  188 4 (D VA.) DURING CONSIDERATION OF S. 3674, A BILL TO                
+ 182  188 5 RECLASSIFY SALARIES FOR POSTMASTERS AND EMPLOYEES OF THE          
+ 182  188 6 POSTAL SERVICE AND RECLASSIFICATION OF POSTAL RATES, TO           
+ 182  188 7 PROVIDE FOR SUCH READJUSTMENTS, WHICH POINT OF ORDER WAS          
+ 182  188 8 THAT BILLS RAISING REVENUE MUST ORIGINATE IN THE HOUSE.           
+ 182  188 9 (P. 2273-2)                                                       
+ 183  189 1 CR 66-3-2403  J 68-2-111     S33       JAN. 24, 1925              
+ 183  189 2 S682025       Y=53 N=18                BURSUM, N.M.               
+ 183  189 3 TO MAKE S. 33 THE SPECIAL ORDER FOR THURSDAY JAN. 29, 1925,       
+ 183  189 4 WHICH BILL ALLOWS RETIREMENT OF REGULAR ARMY OFFICERS WHO         
+ 183  189 5 INCURRED PHYSICAL DISABILITY IN LINE OF DUTY WHILE IN             
+ 183  189 6 SERVICE OF THE UNITED STATES DURING THE WORLD WAR.                
+ 183  189 7 (P. 2402-1)                                                       
+ 184  190 1 CR 66-3-2405  J 68-2-112     PROC      JAN. 24, 1925              
+ 184  190 2 S682026       Y=37 N=36                OVERMAN, N.C.              
+ 184  190 3 TO GO INTO EXECUTIVE SESSION, WHILE VOTING ON CONFIRMATION        
+ 184  190 4 OF HARLAN F. STONE AS ASSOCIATE JUSTICE OF THE SUPREME            
+ 184  190 5 COURT.                                                            
+ 185  191 1 CR 66-3-2517  J 68-2-119     S3674     JAN. 27, 1925              
+ 185  191 2 S682027       Y=51 N=23                BUTLER, MASS.              
+ 185  191 3 TO AMEND S. 3674, A BILL TO RECLASSIFY SALARIES OF                
+ 185  191 4 POSTMASTERS AND EMPLOYEES OF THE POSTAL SERVICE,                  
+ 185  191 5 READJUSTING THEIR SALARIES AND COMPENSATION, AND INCREASING       
+ 185  191 6 POSTAL RATES TO PROVIDE FOR SUCH READJUSTMENT, BY                 
+ 185  191 7 ESTABLISHING RATE OF 1 1/4 CENTS PER POUND, OR FRACTION           
+ 185  191 8 THEREOF, ON CERTAIN PUBLICATIONS NOT ISSUED FOR PROFIT.           
+ 185  191 9 (P. 2517-1)                                                       
+ 186  192 1 CR 66-3-2561  J 68-2-121     HR518     JAN. 28, 1925              
+ 186  192 2 S682028       Y=35 N=33                MCKELLAR, TENN.            
+ 186  192 3 TO AMEND MR. UNDERWOODS MOTION THAT THE SENATE INSIST ON ITS      
+ 186  192 4 AMENDMENTS TO H.R. 518, WHICH AMENDMENT BEING TO DESIGNATE        
+ 186  192 5 MR. NORRIS, MR. MCNARY AND MR. SMITH AS THE SENATE                
+ 186  192 6 CONFEREES.  (P. 2557-2)                                           
+ 187  193 1 CR 66-3-2614  J 68-2-124A    S3674     JAN. 29, 1925              
+ 187  193 2 S682030       Y=36 N=43                GEORGE, GA.                
+ 187  193 3 TO AMEND S. 3674, BY READJUSTING THE POSTAL RATES FOR FOURTH      
+ 187  193 4 CLASS MAIL MATTER.  (P. 2614-1)                                   
+ 188  194 1 CR 66-3-2615  J 68-2-124B    S3674     JAN. 29, 1925              
+ 188  194 2 S682031A      Y=31 N=45                MCKELLAR, TENN.            
+ 188  194 3 TO AMEND S. 3674, BY READJUSTING THE POSTAL RATES FOR             
+ 188  194 4 FOURTH CLASS MAIL MATTER.  (P. 2614-2)                            
+ 189  195 1 CR 66-3-2619  J 68-2-125     S3674     JAN. 29, 1925              
+ 189  195 2 S682031B      Y=66 N=14                MOSES, N.H.                
+ 189  195 3 TO AGREE TO THE AMENDMENT TO S. 3674, WHICH AMENDMENT             
+ 189  195 4 PROVIDES READJUSTMENT OF POSTAL RATES FOR FOURTH CLASS            
+ 189  195 5 MATTER.  (P. 2620-1)                                              
+ 190  196 1 CR 66-3-2631A J 68-2-127A    S3674     JAN. 29, 1925              
+ 190  196 2 S682032       Y=71 N=3                 WALSH, MASS.               
+ 190  196 3 TO AMEND S. 3674, BY ADDING TITLE III OF THE FEDERAL CORRUPT      
+ 190  196 4 PRACTISES ACT TO THIS BILL.  (P.2627-2, 2628-1,2)                 
+ 191  197 1 CR 66-3-2631B J 68-2-127B    S3674     JAN. 29, 1925              
+ 191  197 2 S682033A      Y=30 N=51                CURTIS, KAN.               
+ 191  197 3 TO AMEND S. 3674, BY CHANGING THE EFFECTIVE DATE FROM             
+ 191  197 4 JULY 1, 1924 TO JULY 1, 1925.  (P. 2631-1)                        
+ 192  198 1 CR 66-3-2636  J 68-2-127C    S3674     JAN. 29, 1925              
+ 192  198 2 S682033B      Y=34 N=49                SWANSON, VA.               
+ 192  198 3 TO AMEND S. 3674, BY ELIMINATING THE PROVISION INCREASING         
+ 192  198 4 POSTAL RATES FOR FIRST CLASS MAIL.  (P. 2632-1)                   
+ 193  199 1 CR 66-3-2696  J 68-2-129     S3674     JAN. 30, 1925              
+ 193  199 2 S682034       Y=36 N=39                HARRISON, MISS.            
+ 193  199 3 TO AMEND S. 3674, BY STRIKING OUT FIRST PARAGRAPH OF              
+ 193  199 4 SUBSECTION (B) OF SECTION 208 AS AMENDED AND INSERTING A NEW      
+ 193  199 5 SECTION PROPOSING THAT THE RATES OF POSTAGE ON FOURTH CLASS       
+ 193  199 6 MAIL SHALL BE BY THE POUND AND BE PREPAID.  (P. 2689-2)           
+ 194  200 1 CR 66-3-2702  J 68-2-130A    S3674     JAN. 30, 1925              
+ 194  200 2 S682035       Y=40 N=39                MCKELLAR, TENN.            
+ 194  200 3 TO AMEND S. 3674, BY REDUCING POSTAL RATES FOR FOURTH CLASS       
+ 194  200 4 MAIL MATTER FROM 2 CENTS TO 1 CENT.  (P. 2698-2)                  
+ 195  201 1 CR 66-3-2706  J 68-2-130B    S3674     JAN. 30, 1925              
+ 195  201 2 S682036       Y=34 N=41                HARRISON, MISS.            
+ 195  201 3 TO AMEND S. 3674, BY STRIKING OUT THE FIRST PARAGRAPH OF          
+ 195  201 4 SUBSECTION (B) OF SECTION 208 AS AMENDED, AND INSERTING A         
+ 195  201 5 NEW SECTION PROPOSING THAT THE RATE OF POSTAGE ON FOURTH          
+ 195  201 6 CLASS MAIL SHALL BE BY THE POUND, THE POSTAGE IN ALL CASES        
+ 195  201 7 TO BE RPEPAID BY POSTAGE STAMPS AFFIXED THERETO, OR AS            
+ 195  201 8 OTHERWISE PRESCRIBED BY REGULATIONS OF THE POSTMASTER             
+ 195  201 9 GENERAL.  (P. 2703-2)                                             
+ 196  202 1 CR 66-3-2707  J 68-2-130C    S3674     JAN. 30, 1925              
+ 196  202 2 S682037       Y=70 N=8                 STERLING, S.D.             
+ 196  202 3 TO PASS S. 3674, AS AMENDED.  (P. 1126-2)                         
+ 197  203 1 CR 66-3-2709  J 68-2-130D    S3445     JAN. 30, 1925              
+ 197  203 2 S682038       Y=25 N=41                SMOOT, UTAH                
+ 197  203 3 TO CONSIDER S. 3445, A BILL TO REORGANIZE THE EXECUTIVE           
+ 197  203 4 BRANCH AND CREATE THE DEPARTMENT OF EDUCATION AND RELIEF.         
+ 197  203 5 (P. 2707-1)                                                       
+ 198  204 1 CR 66-3-2849  J 68-2-140     S56       FEB. 2, 1925               
+ 198  204 2 S682039       Y=45 N=24                SPENCER, MO.               
+ 198  204 3 TO PROCEED TO CONSIDERATION OF S. 56, A BILL FOR THE              
+ 198  204 4 ALLOWANCE OF CERTAIN CLAIMS FOR INDEMNITY FOR SPOLIATIONS         
+ 198  204 5 BY THE FRANCH PRIOR TO JULY 1, 1801, AS REPORTED BY THE           
+ 198  204 6 COURT OF CLAIMS.  (P. 2849-1)                                     
+ 199  205 1 CR 66-3-2928  J 68-2-144     HR8206    FEB. 3, 1925               
+ 199  205 2 S682040       Y=76 N=1                                            
+ 199  205 3 TO PASS H.R. 8206 (43 STAT. 936, 2/13/1925), A BILL TO            
+ 199  205 4 DEFINE THE JURISDICTION OF THE CIRCUIT COURT OF APPEALS AND       
+ 199  205 5 OF THE SUPREME COURT.  (P. 2750-52, 2925-1, 2929-1)               
+ 200    8 1 CR 66-3-2999  EX J 63-2-34   SRE       FEB. 4, 1925               
+ 200    8 2 E682001       Y=48 N=36                                           
+ 200    8 3 TO SUSTAIN THE DECISION OF THE CHAIR, APPEALED FROM BY            
+ 200    8 4 SENATOR WALSH (R MONT.), IN THE NOMINATION OF                     
+ 200    8 5 HARLAN F. STONE AS ASSOCIATE JUSTICE OF THE UNITED STATES         
+ 200    8 6 SUPREME COURT, WHICH DECISION HELD THAT THE MOTION TO             
+ 200    8 7 CONSIDER A NOMINATION IN OPEN EXECUTIVE SESSION INVOLVES A        
+ 200    8 8 CHANGE IN RULES AND REQUIRES A TWO-THIRDS VOTE TO SUSTAIN         
+ 200    8 9 IT.  (P. 2999-2)                                                  
+ 201    9 1 CR 66-3-3000  EX J 63-2-34   SRE       FEB. 4, 1925               
+ 201    9 2 E682002       Y=60 N=27                OVERMAN, N.C.              
+ 201    9 3 TO CONSIDER THE NOMINATION OF HARLAN F. STONE.  (P. 3000-1)       
+ 202   10 1 CR 66-3-3057  EX J 63-2-34   SRE       FEB. 5, 1925               
+ 202   10 2 E682003       Y=71 N=6                                            
+ 202   10 3 TO CONFIRM THE NOMINATION OF HARLAN F. STONE.  (P. 3057-2)        
+ 203  206 1 CR 66-3-3124  J 68-2-155A    HR4971    FEB. 6, 1925               
+ 203  206 2 S682044       Y=13 N=61                REED, PA.                  
+ 203  206 3 TO AMEND H.R. 4971 (43 ST. 889, 2/12/1925), AN ACT TO             
+ 203  206 4 PROVIDE THAT THE UNITED STATES SHALL AID THE STATES IN THE        
+ 203  206 5 CONSTRUCTION OF RURAL POST ROADS, BY CUTTING THE                  
+ 203  206 6 APPROPRIATION FROM $75,000,000 TO $60,000,000.  (P. 3123-2)       
+ 204  207 1 CR 66-3-3128A J 68-2-155B    HR4971    FEB. 6, 1925               
+ 204  207 2 S682045       Y=22 N=45                WADSWORTH, N.Y.            
+ 204  207 3 TO AMEND H.R. 4971, BY AUTHORIZING THE SECRETARY OF               
+ 204  207 4 AGRICULTURE, IN CONJUNCTION WITH STATE AUTHORITIES, TO            
+ 204  207 5 PREPARE A PLAN FOR A SYSTEM OF ROADS AND TO REPORT TO             
+ 204  207 6 CONGRESS ON OR BEFORE JUNE 10, 1926.  (P. 3126-2)                 
+ 205  208 1 CR 66-3-3128B J 68-2-155C    HR4971    FEB. 6, 1925               
+ 205  208 2 S682046       Y=65 N=5                 STERLING, S.D.             
+ 205  208 3 TO PASS H.R. 4971.                                                
+ 206  209 1 CR 66-4-3302  J 68-2-165A    SRE329    FEB. 9, 1925               
+ 206  209 2 S682047       Y=21 N=56                HARRISON, MISS.            
+ 206  209 3 TO AMEND S. RES. 329, DIRECTING THE FEDERAL TRADE COMMISSION      
+ 206  209 4 TO INVESTIGATE THE CONDUCT OF THE AMERICAN TABACCO CO. AND        
+ 206  209 5 THE IMPERIAL TABACCO CO. IN THEIR DEALINGS WITH TABACCO           
+ 206  209 6 GROWERS COOPERATIVE MARKETING ASSOCIATIONS, BY AUTHORIZING        
+ 206  209 7 THE FEDERAL TRADE COMMISSION TO INVESTIGATE POWER COMPANIES,      
+ 206  209 8 OR THE HOLDERS OF THEIR SECURITIES, INSTEAD OF THE GENERAL        
+ 206  209 9 ELECTRIC COMPANY ONLY.  (P. 3300-1)                               
+ 207  210 1 CR 66-4-3303A J 68-2-165B    SRE329    FEB. 9, 1925               
+ 207  210 2 S682048       Y=32 N=43                WATSON, IND.               
+ 207  210 3 TO AMEND S. RES. 329, BY STRIKING OUT THE WORDS "OR THE           
+ 207  210 4 STOCKHOLDERS OR OTHER SECURITY HOLDERS THEREOF" ON PAGE 3,        
+ 207  210 5 LINES 3 AND 4, THUS ELIMINATING THE AMENDMENT PROPOSED BY         
+ 207  210 6 GEORGE W. NORRIS (R NEB.), THE PAST ORDERING AND EMPOWERING       
+ 207  210 7 THE FEDERAL TRADE COMMISSION TO INVESTIGATE THE STOCKHOLDERS      
+ 207  210 8 AND OTHER SECURITY HOLDERS OF THE GENERAL ELECTRIC CO. AND        
+ 207  210 9 THOSE WHO CONTROL IT BY STOCK POOLS AND HOLDING COMPANIES.        
+ 207  21010 (P. 3303-1)                                                       
+ 208  211 1 CR 66-4-3303B J 68-2-166     SRE329    FEB. 9, 1925               
+ 208  211 2 S682049       Y=55 N=25                NORRIS, NEB.               
+ 208  211 3 TO AMEND MODIFIED S. RES. 329, BY PROVIDING FOR THE               
+ 208  211 4 INVESTIGATION OF GENERAL ELECTRIC CO., OR THE STOCKHOLDERS        
+ 208  211 5 OR OTHER SECURITY HOLDERS, AND TO REPORT TO THE SENATE.           
+ 208  211 6 (P. 3281-1)                                                       
+ 209  212 1 CR 66-4-3362  J 68-2-169     HR11753   FEB. 10, 1925              
+ 209  212 2 S682050       Y=37 N=40                WARREN, WYO.               
+ 209  212 3 TO AMEND H.R. 11753, (APP. 2/27/1925, 43 STAT. L. 1014), A        
+ 209  212 4 BILL MAKING APPROPRIATIONS FOR THE DEPARTMENTS OF STATE AND       
+ 209  212 5 JUSTICE AND FOR THE JUDICIARY AND FOR THE DEPARTMENTS OF          
+ 209  212 6 COMMERCE AND LABOR FOR THE FISCAL YEAR ENDING JUNE 30, 1926,      
+ 209  212 7 BY SUBSTITUTING FOR A PORTION OF THE BILL AS PASSED BY THE        
+ 209  212 8 HOUSE, A PROVISION TO ELIMINATE AN APPROPRIATION OF $20,000       
+ 209  212 9 WHICH WAS TO BE USED FOR THE EMPLOYMENT OF CLERICAL HELP          
+ 209  21210 IN THE STATE COURTS, LARGELY IN NEW YORK CITY, IN ORDER TO        
+ 209  21211 EXPEDITE THE HANDLING OF APPLICATIONS FOR CITIZENSHIP.            
+ 209  21212 (P. 3362-2)                                                       
+ 210  213 1 CR 66-4-3487  J 68-2-174A    HR11753   FEB. 11, 1925              
+ 210  213 2 S682051       Y=37 N=41                MCKELLAR, TENN.            
+ 210  213 3 TO AMEND H.R. 11753, BY REDUCING THE APPROPRIATION FROM           
+ 210  213 4 $1,000,000 TO $500,000 FOR INVESTIGATION AND PROSECUTION OF       
+ 210  213 5 WAR FRAUDS.  (P. 3199-2)                                          
+ 211  214 1 CR 66-4-3489A J 68-2-174B    HR11753   FEB. 11, 1925              
+ 211  214 2 S682052       Y=38 N=35                WADSWORTH, N.Y.            
+ 211  214 3 TO AMEND H.R. 11753, BY STRIKING OUT LANGUAGE MAKING $20,000      
+ 211  214 4 OF THIS APPROPRIATION AVAILABLE TO CARRY INTO EFFECT CERTAIN      
+ 211  214 5 PROVISIONS OF AN ACT OF 6/29/1906.                                
+ 212  215 1 CR 66-4-3489B J 68-2-175     HR11753   FEB. 11, 1925              
+ 212  215 2 S682053       Y=32 N=39                MCKELLAR, TENN.            
+ 212  215 3 TO PASS THE AMENDMENT TO H.R. 11753, WHICH AMENDMENT REDUCES      
+ 212  215 4 APPROPRIATIONS FROM $1,000,000 TO $700,000, FOR                   
+ 212  215 5 INVESTIGATIONS AND PROSECUTION OF WAR FRAUDS.  (P. 3489-2)        
+ 213  216 1 CR 66-4-3614  J 68-2-181     HR11505   FEB. 13, 1925              
+ 213  216 2 S682054       Y=56 N=8                 ROBINSON, ARK.             
+ 213  216 3 TO AMEND H.R. 11505, (APP. 3/3/1925, 43 STAT. L. 1198), A         
+ 213  216 4 BILL MAKING APPROPRIATIONS FOR EXECUTIVE OFFICE AND SUNDRY        
+ 213  216 5 INDEPENDENT BUREAUS, BOARDS, COMMISSIONS, AND OFFICES FOR         
+ 213  216 6 THE FISCAL YEAR ENDING JUNE 30, 1926, BY PROHIBITING              
+ 213  216 7 CARRIERS FROM COLLECTING ADDITIONAL FARE IN PARLOR OR             
+ 213  216 8 SLEEPING CARS.  (P. 3494-2)                                       
+ 214  217 1 CR 66-4-3729  J 68-2-186A    HR11505   FEB. 14, 1925              
+ 214  217 2 S682055       Y=21 N=42                HOWELL, NEB.               
+ 214  217 3 TO AMEND H.R. 11505, BY ELIMINATING ALL OF THE APPROPRIATION      
+ 214  217 4 FOR THE RAILROAD LABOR BOARD.  (P. 3627-1)                        
+ 215  218 1 CR 66-4-3736  J 68-2-186B    HR11505   FEB. 14, 1925              
+ 215  218 2 S682056       Y=45 N=11                NORRIS, NEB.               
+ 215  218 3 TO SUSTAIN THE DECISION OF THE CHAIR, A MOTION MADE DURING        
+ 215  218 4 CONSIDERATION OF H.R. 11505; DECISION HELD THAT AN                
+ 215  218 5 AMENDMENT SUBMITTED BY SENATOR COPELAND OF NEW YORK AND           
+ 215  218 6 OBJECTED TO BY SENATOR WARREN, PROPOSING THAT NO MONEYS           
+ 215  218 7 APPROPRIATED TO THE UNITED STATES SHIPPING BOARD OR THE           
+ 215  218 8 UNITED STATES EMERGENCY FLEET CORPORATION SHALL BE USED FOR       
+ 215  218 9 PURCHASE, CONSTRUCTION OR ACQUIRING ANY VESSELS WHERE THIS        
+ 215  21810 CAN BE DONE AT ANY NAVY YARD OR ARSENAL OF THE U.S. AT A          
+ 215  21811 COST LESS THAN IT WOULD OTHERWISE BE, PROPOSED GENERAL            
+ 215  21812 LEGISLATION TO AN APPROPRIATION BILL, CONTRARY TO SENATE          
+ 215  21813 RULE #16.  (P. 3732-1)                                            
+ 216  219 1 CR 66-4-3737  J 68-2-186C    HR11505   FEB. 14, 1925              
+ 216  219 2 S682057A      Y=21 N=32                KING, UTAH                 
+ 216  219 3 TO PASS THE AMENDMENT TO H.R. 11505, WHICH AMENDMENT              
+ 216  219 4 PROHIBITS THE EMPLOYMENT OF ANY PERSON AS A MEMBER OF THE         
+ 216  219 5 CREW OF ANY SHIP OF THE U.S. SHIPPING BOARD OR THE                
+ 216  219 6 EMERGENCY FLEET CORPORATION DEPARTING FROM THE MAINLAND OF        
+ 216  219 7 THE UNITED STATES, WHO IS INELIGIBLE FOR CITIZENSHIP.             
+ 216  219 8 (P. 3736-2)                                                       
+ 217  220 1 CR 66-4-3828  J 68-2-192     HR11444   FEB. 16, 1925              
+ 217  220 2 S682057B      Y=42 N=38                HARRISON, MISS.            
+ 217  220 3 TO AMEND H.R. 11444, (APP. 2/28/1925, 43 STAT. L. 1053), A        
+ 217  220 4 BILL TO RECLASSIFY SALARIES OF POSTMASTERS AND EMPLOYEES OF       
+ 217  220 5 THE POSTAL SERVICE, READJUSTING THEIR SALARIES AND                
+ 217  220 6 COMPENSATION ON AN EQUITABLE BASIS AND INCREASING POSTAL          
+ 217  220 7 RATES TO PROVIDE FOR SUCH READJUSTMENT, BY PROVIDING THAT         
+ 217  220 8 THE RATE OF POSTAGE ON FOURTH CLASS MAIL MATTER SHALL BE BY       
+ 217  220 9 THE POUND AND PREPAID.  (P. 3826-2)                               
+ 218  221 1 CR 66-4-4019  J 68-2-202     HR12033   FEB. 18, 1925              
+ 218  221 2 S682058       Y=22 N=53                WARREN, WYO.               
+ 218  221 3 TO CONCUR IN AMENDMENT TO H.R. 12033                              
+ 218  221 4 (APP. 3/3/1925, 43 STAT. L. 1216), A BILL MAKING                  
+ 218  221 5 APPROPRIATIONS FOR THE GOVERNMENT OF THE DISTRICT OF              
+ 218  221 6 COLUMBIA AND OTHER ACTIVITIES CHARGEABLE IN WHOLE OR IN           
+ 218  221 7 PART AGAINST THE REVENUES OF SUCH DISTRICT FOR THE FISCAL         
+ 218  221 8 YEAR ENDING JUNE 30, 1926, WHICH AMENDMENT MADE IN COMMITTEE      
+ 218  221 9 OF THE WHOLE PROPOSES AN APPROPRIATION OF $6,000 FOR THE          
+ 218  22110 IMPROVEMENT, MAINTENANCE, OPERATION OF BATHHOUSES AND             
+ 218  22111 BEACH AND PURIFICATION OF WATERS ON THE WEST SHORE OF THE         
+ 218  22112 TIDAL BASIN.  (P. 3955-2)                                         
+ 219  222 1 CR 66-4-4240  J 68-2-214     S33       FEB. 20, 1925              
+ 219  222 2 S682059       Y=35 N=42                REED, PA.                  
+ 219  222 3 TO AMEND S. 33, A BILL MAKING ELIGIBLE FOR RETIREMENT,            
+ 219  222 4 OFFICERS AND FORMER OFFICERS OF THE ARMY OR NAVY WHO              
+ 219  222 5 INCURRED PHYSICAL DISABILITY WHILE IN SERVICE DURING THE          
+ 219  222 6 WORLD WAR, BY INCLUDING NON-COMMISSIONED OFFICERS.                
+ 220  223 1 CR 66-4-4241A J 68-2-215A    S33       FEB. 20, 1925              
+ 220  223 2 S682060       Y=33 N=46                REED, PA.                  
+ 220  223 3 TO PASS THE AMENDMENT TO S. 33, WHICH AMENDMENT ADDS              
+ 220  223 4 NON-COMMISSIONED OFFICERS OR PRIVATES TO THE LIST.                
+ 220  223 5 (P. 4240-2)                                                       
+ 221  224 1 CR 66-4-4241B J 68-2-215B    S33       FEB. 20, 1925              
+ 221  224 2 S682061       Y=20 N=54                WADSWORTH, N.Y.            
+ 221  224 3 TO PASS THE AMENDMENT TO S. 33, WHICH AMENDMENT PROVIDES          
+ 221  224 4 THAT FROM DATE OF THEIR APPLICATION THEY SHALL RECEIVE            
+ 221  224 5 RETIRED PAY AT THE RATE OF 57 PER CENT OF THE PAY OF A            
+ 221  224 6 SECOND LIEUTENANT SERVING IN THE FIRST PAY PERIOD AS              
+ 221  224 7 PROVIDED IN THE ACT OF JUNE 10, 1922.  (P. 4241-2)                
+ 222  225 1 CR 66-4-4242  J 68-2-215C    S33       FEB. 20, 1925              
+ 222  225 2 S682062A      Y=63 N=14                BURSUM, N.M.               
+ 222  225 3 TO PASS S. 33.  (P. 4242-2)                                       
+ 223   11 1 CR 66-5-4416  EX J 63-2-41   SRE       FEB. 23, 1925              
+ 223   11 2 E682004       Y=45 N=10                                           
+ 223   11 3 TO CONFIRM THE NOMINATION OF WILLIAM E. HUMPHREY OF               
+ 223   11 4 WASHINGTON, TO BE A MEMBER OF THE FEDERAL TRADE COMMISSION        
+ 223   11 5 FOR THE TERM EXPIRING SEPT. 25, 1931.                             
+ 224  226 1 CR 66-5-4403  J 68-2-224     HR518     FEB. 23, 1925              
+ 224  226 2 S682062B      Y=45 N=41                UNDERWOOD, ALA.            
+ 224  226 3 TO SUSTAIN THE DECISION OF THE CHAIR, A MOTION MADE DURING        
+ 224  226 4 CONSIDERATION OF THE BILL H.R. 518, A BILL AUTHORIZING THE        
+ 224  226 5 SECRETARY OF WAR FOR NATIONAL DEFENCE, IN TIME OF WAR, AND        
+ 224  226 6 FOR THE PRODUCTION AND MANUFACTURE OF FIXED NITROGEN,             
+ 224  226 7 COMMERCIAL FERTILIZER AND OTHER USEFUL PRODUCTS IN TIME OF        
+ 224  226 8 PEACE AT MUSCLE SHOALS, SHEFFIELD, AND WACO QUARRY, ALA.,         
+ 224  226 9 WHICH DECISION RULED AGAINST THE RIGHT OF THE CONFERENCE          
+ 224  22610 COMMITTEE TO INTRODUCE NEW MATTER IN THE BILL.                    
+ 224  22611 (P. 4243-1, 4244-1)                                               
+ 225  227 1 CR 66-5-4505  J 68-2-226     S4032     FEB. 24, 1925              
+ 225  227 2 S682064       Y=49 N=27                UNDERWOOD, ALA.            
+ 225  227 3 TO PASS S. 4032 (APP. 3/3/1925, 43 STAT. L. 1590), A BILL         
+ 225  227 4 TO PERMIT JUDGE CLAYTON TO ACCEPT A DECORATION AND DIPLOMA        
+ 225  227 5 FROM FRANCE.  (P. 4504-2)                                         
+ 226  228 1 CR 66-5-4516  J 68-2-228     S3011     FEB. 24, 1925              
+ 226  228 2 S682065       Y=34 N=46                DALE, VT.                  
+ 226  228 3 TO AMEND S. 3011, A BILL AMENDING AN ACT WHICH PROVIDES FOR       
+ 226  228 4 THE RETIREMENT OF CIVIL SERVICE EMPLOYEES, BY INCLUDING           
+ 226  228 5 RAILWAY POSTAL CLERKS, WHO SHALL HAVE ATTAINED OR SHALL           
+ 226  228 6 THEREAFTER ATTAIN THE AGE OF 60 YEARS.  (P. 4516-1)               
+ 227  229 1 CR 66-5-4707  J 68-2-245     HR11444   FEB. 26, 1925              
+ 227  229 2 S682066       Y=69 N=12                MOSES, N.H.                
+ 227  229 3 TO AGREE TO THE REPORT OF THE CONFERENCE COMMITTEE ON THE         
+ 227  229 4 DISAGREEING VOTES OF THE TWO HOUSES ON H.R. 11444,                
+ 227  229 5 (APP. 2/28/1925, 43 STAT. L. 1053), A BILL RECLASSIFYING THE      
+ 227  229 6 SALARIES OF POSTMASTERS AND EMPLOYEES OF THE POSTAL SERVICE,      
+ 227  229 7 READJUSTING THEIR SALARIES AND COMPENSATIONS ON AN EQUITABLE      
+ 227  229 8 BASIS AND INCREASING POSTAL RATES TO PROVIDE FOR SUCH             
+ 227  229 9 READJUSTMENT.  (P. 4697-1)                                        
+ 228  230 1 CR 66-5-4980  J 68-2-264A    HR12392   FEB. 28, 1925              
+ 228  230 2 S682067       Y=18 N=64                BORAH, IDAHO               
+ 228  230 3 TO SUSPEND THE RULES, SO AS TO OFFER AMENDMENTS TO                
+ 228  230 4 H.R. 12392, (APP. 3/4/1925, 43 STAT. L. 1313), A BILL TO          
+ 228  230 5 PROVIDE SUPPLEMENTAL APPROPRIATIONS FOR THE FISCAL YEARS          
+ 228  230 6 ENDING JUNE 30, 1925, AND JUNE 30, 1926.  (P. 4978-1)             
+ 229  231 1 CR 66-5-4986  J 68-2-264B    HR11472   FEB. 28, 1925              
+ 229  231 2 S682068       Y=40 N=37                JONES, WASH.               
+ 229  231 3 TO TABLE AN AMENDMENT TO H.R. 11472                               
+ 229  231 4 (APP. 3/3/1925, 43 STAT. L. 1186), A BILL AUTHORIZING THE         
+ 229  231 5 CONSTRUCTION, REPAIR AND PRESERVATION OF CERTAIN PUBLIC           
+ 229  231 6 WORKS ON RIVERS AND HARBORS.  (P. 4986-2)                         
+ 230  232 1 CR 66-5-4987  J 68-2-264C    HR11472   FEB. 28, 1925              
+ 230  232 2 S682069       Y=40 N=36                JONES, WASH.               
+ 230  232 3 TO TABLE AN AMENDMENT TO H.R. 11472, WHICH AMENDMENT HAS          
+ 230  232 4 REFERENCE TO THE CAPE COD CANAL.  (P. 4987-1)                     
+ 231  233 1 CR 66-5-5007  J 68-2-265     HR11472   FEB. 28, 1925              
+ 231  233 2 S682070       Y=35 N=34                CAMERON, ARIZ.             
+ 231  233 3 TO CONCUR IN AN AMENDMENT TO H.R. 11472, WHICH AMENDMENT          
+ 231  233 4 REIMBURSES RECLAMATION FUND IN THE SUM OF $597,088                
+ 231  233 5 HERETOFORE EXPENDED FOR MAINTAINING LEVIES.  (P. 5005-2)          
+ 232   12 1 CR 66-5-5131  J 68-2-274     PROC      MAR. 2, 1925               
+ 232   12 2 E682005       Y=43 N=34                CURTIS, KAN.               
+ 232   12 3 TO PROCEED TO THE CONSIDERATION OF EXECUTIVE BUSINESS.            
+ 232   12 4 (P. 5131-1,2)                                                     
+ 233   13 1 CR 66-5-      J 68-2-275     PROC      MAR. 2, 1925               
+ 233   13 2 E682006       Y=40 N=36                CURTIS, KAN.               
+ 233   13 3 TO RECESS UNTIL 11 O'CLOCK TOMORROW.                              
+ 234  234 1 CR 66-5-5100  J 68-2-270     HR12392   MAR. 2, 1925               
+ 234  234 2 S682071       Y=32 N=49                WARREN, WYO.               
+ 234  234 3 TO AGREE TO REPORT OF CONFERENCE COMMITTEE ON H.R. 12392,         
+ 234  234 4 (APP. 3/4/1925, 43 STAT. L. 1313), A BILL TO PROVIDE              
+ 234  234 5 SUPPLEMENTAL APPROPRIATIONS FOR THE FISCAL YEARS ENDING           
+ 234  234 6 JUNE 30, 1925, AND JUNE 30, 1926.  (P. 5093-1,2)                  
+ 235  235 1 CR 66-5-5309  J 68-2-282     HR2688    MAR. 3, 1925               
+ 235  235 2 S682073       Y=17 N=69                HOWELL, NEB.               
+ 235  235 3 TO PASS THE AMENDMENT TO H.R. 2688 (43 ST. 1269, 3/4/1925),       
+ 235  235 4 A BILL PROVIDING FOR CERTAIN MATTERS AFFECTING THE NAVAL          
+ 235  235 5 SERVICES, WHICH AMENDMENT ATTACHES, AS AN AMENDMENT TO THE        
+ 235  235 6 OMNIBUS NAVAL BILL, A BILL PROMISING RELIEF TO THE FORMER,        
+ 235  235 7 WHICH WAS INTRODUCED IN THE SENATE AND HAS BEEN REPORTED          
+ 235  235 8 FAVORABLY BY THE COMMITTEE ON AGRICULTURE AND FORESTRY,           
+ 235  235 9 THEREBY HELPING THE FORMER BEFORE THE SENATE ADJOURNS.            
+ 235  23510 (P. 5296-2, 5297-1)                                               

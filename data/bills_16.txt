@@ -1,0 +1,686 @@
+   1   22 1 A-35- -118    J 16-1-102     HR        JAN. 14, 1820              
+   1   22 2 S161001       Y=18 N=25                ROBERTS, PA.               
+   1   22 3 TO RECOMMIT H. R. 17 (3 STAT. 544, 3/3/1820), A BILL PROVI-       
+   1   22 4 DING FOR THE ADMISSION OF THS STATE OF MAINE TO THE UNION,        
+   1   22 5 TO THE COMMITEE ON THE JUDICIARY WITH INSTRUCTIONS.  (P.101)      
+   2   23 1 A-35- -233    J 16-1-112     SRE       JAN. 21, 1820              
+   2   23 2 S161002       Y=27 N=13                DICKERSON, N. J.           
+   2   23 3 TO ORDER ENGROSSMENT AND THIRD READING OF A RESOLUTION,           
+   2   23 4 AMENDING THE CONSTITUTION SO AS TO PROVIDE A UNIFORM METHOD       
+   2   23 5 OF ELECTING ELECTORS FOR PRESIDENT AND VICE PRESIDENT AND         
+   2   23 6 REPRESENTATIVES IN CONGRESS.  (P.233)                             
+   3   24 1 A-35- -277    J 16-1-126A    SRE       JAN. 27, 1820              
+   3   24 2 S161003       Y=12 N=30                LLOYD, MD.                 
+   3   24 3 TO AMEND THE CONSTITUTIONAL RESOLUTION BY ELIMINATING THE         
+   3   24 4 CLAUSE THAT PERSONS QUALIFIED TO VOTE FOR REPRESENTATIVES IN      
+   3   24 5 EACH DISTRICT SHALL CHOOSE ONE ELECTOR, AND THAT THE TWO          
+   3   24 6 ADDITIONAL TO WHICH EACH STATE IS ENTITLED SHALL BE APPOINT-      
+   3   24 7 ED AS THE LEGISLATURE DIRECTS; AND INSERTING IN LIEU THEREOF      
+   3   24 8 A PROVISION THAT EACH STATE SHALL BE DIVIDED INTO DISTRICTS       
+   3   24 9 EQUAL TO THE NUMBER OF ELECTORS TO WHICH EACH STATE IS EN-        
+   3   2410 TITLED AND PEOPLE QUALIFIED TO VOTE IN EACH DISTRICT SHALL        
+   3   2411 CHOOSE ONE ELECTOR.  (P.277)                                      
+   4   25 1 A-35- -278    J 16-1-126B    SRE       JAN. 27, 1820              
+   4   25 2 S161004       Y=29 N=13                DICKERSON, N. J.           
+   4   25 3 TO ADOPT THE CONSTITUTIONAL RESOLUTION.  (P.278)                  
+   5   26 1 A-35- -359    J 16-1-134     HR        FEB. 1, 1820               
+   5   26 2 S161005       Y=16 N=27                ROBERTS, PA.               
+   5   26 3 TO AMEND H. R. 17 (3 STAT. 545, 3/6/1820), BY PROHIBITING         
+   5   26 4 SLAVERY OR INVOLUNTARY SERVITUDE IN THE ADMISSION OF THE          
+   5   26 5 STATE OF MISSOURI TO THE UNION.  (P.359)                          
+   6   27 1 A-35- -424    J 16-1-160     HR        FEB. 16, 1820              
+   6   27 2 S161006       Y=23 N=21                SMITH, S. C.               
+   6   27 3 TO CONCUR IN THE AMENDMENT TO THE H. R. 17, WHICH AMENDMENT       
+   6   27 4 UNITES THE MAINE AND MISSOURI BILLS IN ONE BILL AND AUTHOR-       
+   6   27 5 IZES THE PEOPLE OF MISSOURI TO FORM A CONSTITUTION WITHOUT        
+   6   27 6 RESTRICTIONS.  (P.74)                                             
+   7   28 1 A-35- -427    J 16-1-165     HR        FEB. 17, 1820              
+   7   28 2 S161007       Y=20 N=24                TRIMBLE, OHIO              
+   7   28 3 TO AMEND H. R. 17, BY CHANGING THE DEFINITION OF THE TERRI-       
+   7   28 4 TORY IN WHICH SLAVERY IS PROHIBITED.  (P.427)                     
+   8   29 1 A-35- -428A   J 16-1-166A    HR        FEB. 17, 1820              
+   8   29 2 S161008       Y=34 N=10                THOMAS, ILL.               
+   8   29 3 TO PASS AMENDMENT TO H. R. 17, WHICH AMENDMENT PROHIBITS          
+   8   29 4 SLAVERY IN ALL THAT TERRITORY CEDED BY FRANCE TO THE U. S.,       
+   8   29 5 AND PERMITS EXTRADITION OF ANY SLAVE ESCAPING INTO SAME.          
+   8   29 6 (P.428)                                                           
+   9   30 1 A-35- -428B   J 16-1-166B    HR        FEB. 17, 1820              
+   9   30 2 S161009       Y=24 N=20                SMITH, S. C.               
+   9   30 3 TO ORDER ENGROSSMENT AND THIRD READING OF H. R. 17.  (P.428)      
+  10   31 1 A-35- -457A   J 16-1-189A    HR        FEB. 28, 1820              
+  10   31 2 S161010       Y=21 N=23                WILLIAMS, MISS.            
+  10   31 3 TO RECEDE FROM AN AMENDMENT TO H. R. 17, WHICH AMENDMENT          
+  10   31 4 PROVIDES FOR ADMISSION OF MISSOURI INTO THE UNION.  (P.457)       
+  11   32 1 A-35- -457B   J 16-1-189B    HR        FEB. 28, 1820              
+  11   32 2 S161011       Y=11 N=33                WILLIAMS, MISS.            
+  11   32 3 TO RECEDE FROM SO MUCH OF AN AMENDMENT TO H. R. 17, AS RE-        
+  11   32 4 GARDS THE PROHIBITION OF SLAVERY IN THE TERRITORIES NORTH OF      
+  11   32 5 36 DEGREES 30 MINUTES NORTH LATITUDE.  (P.457)                    
+  12   33 1 A-35- -458    J 16-1-190     S         FEB. 28, 1820              
+  12   33 2 S161012       Y=12 N=31                EDWARDS, ILL.              
+  12   33 3 TO AMEND S. 18 (3 STAT. 566, 4/21/1820), AN ACT MAKING FUR-       
+  12   33 4 THER PROVISIONS FOR THE SALE OF PUBLIC LANDS, BY AUTHORIZING      
+  12   33 5 ANY BONA FIDE SETTLER THE RIGHT TO REDEEM ANY QUARTER OR          
+  12   33 6 HALF SECTION OF LAND, WHICH SHALL HAVE PREVIOUSLY BEEN EX-        
+  12   33 7 POSED TO PUBLIC SALE.                                             
+  13    1 1               EX J 3-201A    SRE       MAR. 1, 1820               
+  13    1 2 E161001       Y=9 N=30                 LEAKE, MISS.               
+  13    1 3 TO RATIFY THE SUPPLEMENTARY ARTICLE TO THE TREATY WITH THE        
+  13    1 4 CHIPPEWAY NATION OF INDIANS, CONCLUDED AT SAGINAW IN THE          
+  13    1 5 TERRITORY OF MICHIGAN ON 9/24/1819.                               
+  14    2 1               EX J 3-201B    SRE       MAR. 1, 1820               
+  14    2 2 E161002       Y=9 N=30                 LEAKE, MISS.               
+  14    2 3 TO RATIFY THE SUPPLEMENTARY ARTICLE TO THE TREATY WITH THE        
+  14    2 4 CHIPPEWAY INDIANS.                                                
+  15    3 1               EX J 3-203     SRE       MAR. 2, 1820               
+  15    3 2 E161003       Y=26 N=0                 LEAKE, MISS.               
+  15    3 3 TO RATIFY THE TREATY WITH THE CHIPPEWAY INDIANS.                  
+  16   34 1 A-35- -468    J 16-1-201     HR        MAR. 2, 1820               
+  16   34 2 S161013       Y=27 N=15                BARBOUR, VA.               
+  16   34 3 TO AMEND H. R. 17, BY ELIMINATING THE CLAUSE PROHIBITING          
+  16   34 4 SLAVERY AND INVOLUNTARY SERVITUDE, OTHERWISE THAN IN THE          
+  16   34 5 PUNISHMENT OF CRIMES WHEREOF THE PARTY SHALL HAVE BEEN            
+  16   34 6 DULY CONVICTED, PROVIDED ALWAYS, THAT ANY PERSON ESCAPING BE      
+  16   34 7 RECLAIMED.                                                        
+  17   35 1 A-35- -469    J 16-1-202     HR        MAR. 2, 1820               
+  17   35 2 S161014       Y=12 N=30                TRIMBLE, OHIO              
+  17   35 3 TO AMEND THE NEW SECTION TO H. R. 17, BY ELIMINATING THE          
+  17   35 4 WORDS, "ALL THAT TERRITORY CEDED TO THE UNITED STATES UNDER       
+  17   35 5 THE NAME OF LOUISIANA, 36 DEGREES AND 30 MINUTES NORTH LATI-      
+  17   35 6 TUDE," AND INSERTING IN LIEU HEREOF "ALL THAT PART OF             
+  17   35 7 LOUISIANA WEST OF THE MISSISSIPPI CEDED BY FRANCE TO THE U.       
+  17   35 8 S. EXCEPT THE STATE OF LOUISIANA, THE TERRITORY INCLUDED IN       
+  17   35 9 THE PROPOSED STATE OF MISSOURI, THE ARKANSAS TERRITORY, EAST      
+  17   3510 OF THE 17TH OR 94TH DEGREE OF LONGITUDE".                         
+  18   36 1 A-35- -482    J 16-1-217     S         MAR. 8, 1820               
+  18   36 2 S161015       Y=8 N=29                 WALKER, ALA.               
+  18   36 3 TO AMEND S. 18 (3 STAT. 566, 4/24/1820), A BILL MAKING PRO-       
+  18   36 4 VISION FOR THE SALE OF PUBLIC LANDS, BY ADDING A PROVISION        
+  18   36 5 GIVING PURCHASERS OF PUBLIC LANDS PERMISSION TO SURRENDER         
+  18   36 6 SAME BEFORE DAY OF FINAL PAYMENT, BY DELIVERING THEIR CERTI-      
+  18   36 7 FICATES TO THE REGISTER, AUTHORIZING SALE OF LAND AND CAN-        
+  18   36 8 CELLING CERTIFICATES, BUT IF LAND IS SOLD FOR MORE THAN           
+  18   36 9 $1.00 PER ACRE THE EXCESS SHALL BE PAID TO FORMER CERTIFI-        
+  18   3610 CATE HOLDER, PROVIDING THAT SUCH EXCESS DOES NOT EXCEED           
+  18   3611 ORIGINAL PAYMENT ON SUCH CERTIFICATE.  (P.481)                    
+  19   37 1 A-35- -486    J 16-1-219A    S         MAR. 8, 1820               
+  19   37 2 S161016       Y=8 N=28                 EDWARD, ILL.               
+  19   37 3 TO AMEND S. 18, BY PROVIDING THAT PREFERENCE IN THE SALE OF       
+  19   37 4 PUBLIC LANDS BE GIVEN TO PERSONS LIVING THEREON, AND DEFIN-       
+  19   37 5 ING PROCEDURE FOR FILING CLAIM.                                   
+  20   38 1 A-35- -486    J 16-1-219B    S         MAR. 8, 1820               
+  20   38 2 S161017       Y=8 N=28                 NOBLE, IND.                
+  20   38 3 TO AMEND S. 18, BY ELIMINATING THAT PART WHICH PROVIDES THAT      
+  20   38 4 SALES SHALL BE PAID IN CASH, AND LEAVING THAT PART WHICH          
+  20   38 5 DIRECTS THE LANDS TO BE OFFERED FOR SALE IN HALF QUARTERS.        
+  21   39 1 A-35- -489    J 16-1-223     S         MAR. 9, 1820               
+  21   39 2 S161018       Y=31 N=7                 WILLIAMS, MISS.            
+  21   39 3 TO PASS S. 18.  (P.489)                                           
+  22   40 1 A-35- -519    J 16-1-242     HR        MAR. 16, 1820              
+  22   40 2 S161019       Y=14 N=25                EATON, TENN.               
+  22   40 3 TO POSTPONE CONSIDERATION OF H. R. 9, A BILL WHICH PROVIDES       
+  22   40 4 FOR THE ESTABLISHMENT OF A UNIFORM SYSTEM OF BANKRUPTCY.          
+  23   41 1 A-35- -536    J 16-1-254     HR        MAR. 16, 1820              
+  23   41 2 S161020       Y=25 N=13                VANDYKE, DEL.              
+  23   41 3 TO AMEND H. R. 9, BY DEFINING A PERSON WHO MAY BE CONSIDERED      
+  23   41 4 A VOLUNTARY BANKRUPT, ACKNOWLEDGING HIMSELF AS SUCH, TO RE-       
+  23   41 5 CEIVE A CERTIFICATE OF DISCHARGE FROM ANY IMPRISONMENT BY         
+  23   41 6 VIRTURE OF LEGAL PROCESS, AS THE RESULT OF CIVIL ACTION, AND      
+  23   41 7 TO APPOINT A COMMISSIONER TO LIQUIDATE ANY ASSETS OF PERSON       
+  23   41 8 INVOLVED.  (P.535)                                                
+  24   42 1 A-35- -544A   J 16-1-260A    HR        MAR. 27, 1820              
+  24   42 2 S161021       Y=18 N=24                LLOYD, MD.                 
+  24   42 3 TO AMEND H. R. 9, BY ELIMINATING THE CLAUSE WHICH EXTENDS         
+  24   42 4 AID TO FARMERS, AND INSERTING IN LIEU THEREOF, THAT               
+  24   42 5 DISCHARGE FROM BANKRUPTCY SHALL NOT RELEASE ANY DEBT DUE, OR      
+  24   42 6 TO BECOME DUE, TO ANY PERSON OR PERSONS NOT SUBJECT TO THE        
+  24   42 7 COMMISSION OF BANKRUPTCY, BUT ANY SUCH DEBT UNSATISFIED, MAY      
+  24   42 8 BE SUED FOR AS IF NO CERTIFICATE OF DISCHARGE HAD BEEN            
+  24   42 9 GRANTED.  (P. 542-2)                                              
+  25   43 1 A-35- -544B   J 16-1-260B    HR        MAR. 27, 1820              
+  25   43 2 S161022       Y=25 N=16                VANDYKE, DEL.              
+  25   43 3 TO AGREE TO AN AMENDMENT TO H. R. 9, WHICH AMENDMENT EXTENDS      
+  25   43 4 THE PROVISIONS OF THE ACT TO ALL OTHER PERSONS, BUT AT THEIR      
+  25   43 5 OWN INSISTENCE, AND BY THEIR VOLUNTARY CONSENT.  (P.543,          
+  25   43 6 544)                                                              
+  26   44 1 A-35- -557    J 16-1-266     HR        MAR. 29, 1820              
+  26   44 2 S161023       Y=24 N=18                SANFORD, N. Y.             
+  26   44 3 TO CONCUR IN AN AMENDMENT TO H. R. 74 (3 STAT. 562,               
+  26   44 4 4/14/1820), AN ACT MAKING APPROPRIATIONS FOR THE MILITARY         
+  26   44 5 SERVICE OF THE U. S. FOR 1820, WHICH AMENDMENT INCREASES          
+  26   44 6 APPROPRIATION OF QUARTERMASTER GENERALS' DEPARTMENT BY            
+  26   44 7 $50,000 FROM $450,000 TO $500,000 TO DEFRAY COST OF AN EXPE-      
+  26   44 8 DITION TO MISSOURI.  (P.557)                                      
+  27   45 1 A-35- -559A   J 16-1-269     SRE       MAR. 30, 1820              
+  27   45 2 S161024       Y=18 N=21                DICKERSON, N. J.           
+  27   45 3 TO POSTPONE CONSIDERATION OF A RESOLUTION ADJOURNING THE          
+  27   45 4 PRESENT SESSION OF CONGRESS ON APRIL 17TH, UNTIL THURSDAY         
+  27   45 5 NEXT.  (P.559)                                                    
+  28   46 1 A-35- -559B   J 16-1-270     SRE       MAR. 30, 1820              
+  28   46 2 S161025       Y=22 N=17                LOWRIE, PA.                
+  28   46 3 TO AMEND RESOLUTION, BY EXTENDING DATE OF ADJOURNMENT ONE         
+  28   46 4 WEEK, FROM THE 17TH TO THE 24TH OF APRIL.  (P.559)                
+  29   47 1 A-35- -559C   J 16-1-271     SRE       MAR. 30, 1820              
+  29   47 2 S161026       Y=21 N=20                OTIS, MASS.                
+  29   47 3 TO ADOPT THE ADJOURNMENT RESOLUTION.                              
+  30   48 1 A-35- -560    J 16-1-272     HR        MAR. 30, 1820              
+  30   48 2 S161027       Y=19 N=22                BARBOUR, VA.               
+  30   48 3 TO POSTPONE CONSIDERATION OF H. R. 9.  (P.560)                    
+  31   49 1 A-35- -561A   J 16-1-273A    HR        MAR. 30, 1820              
+  31   49 2 S161028       Y=9 N=28                 DICKERSON, N. J.           
+  31   49 3 TO AMEND H. R. 9, BY STRIKING OUT THE PROVISO IN FIRST SEC-       
+  31   49 4 TION EXCEPTING CERTAIN MECHANICAL LABORERS FROM THIS ACT.         
+  31   49 5 (P.561)                                                           
+  32   50 1 A-35- -561B   J 16-1-273B    HR        MAR. 30, 1820              
+  32   50 2 S161029       Y=15 N=23                SMITH, S. C.               
+  32   50 3 TO ORDER ENGROSSMENT AND THIRD READING OF H. R. 9.                
+  33   51 1 A-35- -565    J 16-1-277     HR        MAR. 31, 1820              
+  33   51 2 S161030       Y=17 N=19                OTIS, MASS.                
+  33   51 3 TO RECONSIDER H. R. 9.  (P.563)                                   
+  34   52 1 A-35- -576    J 16-1-285     S         APRIL 5, 1820              
+  34   52 2 S161031       Y=28 N=8                 SMITH, S. C.               
+  34   52 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 15 (3 STAT. 592      
+  34   52 4 5/15/1828), A BILL PROVIDING FOR THE BETTER ORGANIZATION OF       
+  34   52 5 THE TREASURY DEPARTMENT.  (P.562)                                 
+  35   53 1 A-35- -586    J 16-1-292     PROC      APRIL 7, 1820              
+  35   53 2 S161032       Y=14 N=24                BARBOUR, VA.               
+  35   53 3 TO ADJOURN.  (P.586)                                              
+  36   54 1 A-35- -594    J 16-1-300     S         APRIL 10, 1820             
+  36   54 2 S161033       Y=24 N=11                SMITH, S. C.               
+  36   54 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 51 (6 STAT. 245      
+  36   54 4 5/8/1820), A BILL PROVIDING FOR THE RELIEF OF JOHN H. PIATT       
+  36   54 5 FOR COMPENSATION OF CERTAIN SUPPLIES FURNISHED THE ARMY           
+  36   54 6 DURING THE LATE WAR WITH GREAT BRITAIN.                           
+  37   55 1 A-35- -596A   J 16-1-302     S         APRIL 11, 1820             
+  37   55 2 S161034       Y=40 N=1                 BROWN, LA.                 
+  37   55 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 98 (3 STAT.          
+  37   55 4 602, 5/15/1820), A BILL SUPPLEMENTARY TO THE "ACT CONCERNING      
+  37   55 5 NAVIGATION".                                                      
+  38   56 1 A-35- -596B   J 16-1-303     S         APRIL 11, 1820             
+  38   56 2 S161035       Y=21 N=21                SMITH, S. C.               
+  38   56 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL         
+  38   56 4 INCREASING THE COMPENSATION OF CERTAIN JUDGES OF THE COURTS       
+  38   56 5 OF THE U. S.  (P.596)                                             
+  39    4 1               EX J 3-207     SRE       APRIL 12, 1820             
+  39    4 2 E161004       Y=27 N=12                DICKERSON, N. J.           
+  39    4 3 TO CONSENT TO THE NOMINATION OF JOHN M. CANFIELD AS COLLEC-       
+  39    4 4 TOR AND INSPECTOR OF THE REVENUE FOR THE DISTRICT OF SARKETS      
+  39    4 5 HARBOR.                                                           
+  40   57 1 A-35- -604    J 16-1-315     S         APRIL 14, 1820             
+  40   57 2 S161037       Y=17 N=24                WILLIAMS, TENN.            
+  40   57 3 TO POSTPONE CONSIDERATION OF S. 59, A BILL FOR CLOTHING THE       
+  40   57 4 ARMY IN DOMESTIC MANUFACTURES AS FAR AS THE SAME CAN BE PRO-      
+  40   57 5 CURED.                                                            
+  41   58 1 A-35- -611    J 16-1-318     S         APRIL 15, 1820             
+  41   58 2 S161038       Y=39 N=3                 WILSON, N. J.              
+  41   58 3 TO AMEND S. 59, A BILL FOR CLOTHING THE ARMY IN DOMESTIC          
+  41   58 4 MANUFACTURES AS FAR AS THE SAME CAN BE PROCURED, BY ADDING        
+  41   58 5 A PROVISO THAT THE GOODS MUST BE PROCURED AT THE                  
+  41   58 6 SAME PRICES AS GOODS OF THE SAME KIND AND QUALITY OF FOREIGN      
+  41   58 7 MANUFACTURE.  (P.610)                                             
+  42   59 1 A-35- -615    J 16-1-324     S         APRIL 17, 1820             
+  42   59 2 S161039       Y=16 N=21                ROBERTS. PA.               
+  42   59 3 TO POSTPONE INDEFINITELY CONSIDERATION OF S. 81 (3 STAT.          
+  42   59 4 607, 5/15/1820), AN ACT GRANTING TO THE STATE OF OHIO THE         
+  42   59 5 RIGHTS OF PRE-EXAMPTION TO CERTAIN QUARTER SECTION OF LAND.       
+  42   59 6 (P.614)                                                           
+  43   60 1 A-35- -619    J 16-1-327     S         APRIL 18, 1820             
+  43   60 2 S161040       Y=22 N=19                WILLIAMS, MISS.            
+  43   60 3 TO ORDER ENGROSSMENT AND THIRD READING OF A BILL AUTHORIZING      
+  43   60 4 THE HEIRS OF ELISHA WILLIAM WINTER TO INSTITUTE A SUIT IN         
+  43   60 5 EQUITY IN THE NATURE OF A PETITION OF RIGHT, AGAINST THE          
+  43   60 6 UNITED STATES FOR THE CONFIRMATION OF CERTAIN LANDS IN THE        
+  43   60 7 COUNTY OF ARKANSAS IN MISSOURI TERRITORY.  (P.619)                
+  44   61 1 A-35- -625    J 16-1-337     S         APRIL 20, 1820             
+  44   61 2 S161041       Y=19 N=21                OTIS, MASS.                
+  44   61 3 TO POSTPONE CONSIDERATION OF S. 105 (3 STAT. 604, 5/15/1820)      
+  44   61 4 A BILL AUTHORIZING THE APPOINTMENT OF COMMISSIONERS TO LAY-       
+  44   61 5 OUT THE ROADS THEREIN MENTIONED.                                  
+  45   62 1 A-35- -626    J 16-1-340     S         APRIL 21, 1820             
+  45   62 2 S161042       Y=23 N=10                ROBERTS, PA.               
+  45   62 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 96 (6 STAT.          
+  45   62 4 253, 5/15/1820), A BILL PROVIDING FOR THE CLAIM OF RICHARD        
+  45   62 5 SMYTH.  (P.626)                                                   
+  46   63 1 A-35- -639A   J 16-1-347A    HR        APRIL 25, 1820             
+  46   63 2 S161043       Y=18 N=23                VANDYKE, DEL.              
+  46   63 3 TO AMEND H. R. 122 (3 STAT. 569, 5/1/1820), A BILL ADDITION-      
+  46   63 4 AL TO THE ACT, PROVIDING PENSIONS FOR PERSONS ENGAGED IN THE      
+  46   63 5 LAND AND NAVAL SERVICE OF THE U. S. DURING THE REVOLUTIONARY      
+  46   63 6 WAR; BY PROPOSING TO CONFINE THE REVISION OF PENSIONS, AND        
+  46   63 7 THE EXAMINATION OF THE CIRCUMSTANCES OF THE PENSIONERS TO         
+  46   63 8 SPECIAL CASES, CONCERNING WHICH THE SECRETARY OF WAR SHALL        
+  46   63 9 ENTERTAIN DOUBTS.  (P.638)                                        
+  47   64 1 A-35- -639B   J 16-1-347B    HR        APRIL 25, 1820             
+  47   64 2 S161044       Y=18 N=23                WILSON, N. J.              
+  47   64 3 TO POSTPONE CONSIDERATION OF H. R. 122.  (P.639)                  
+  48   65 1 A-35- -640A   J 16-1-348A    HR        APRIL 25, 1820             
+  48   65 2 S161045       Y=17 N=23                BURRILL, R. I.             
+  48   65 3 TO AMEND H. R. 122, BY PROPOSING TO INCLUDE HOUSEHOLD FURNI-      
+  48   65 4 TURE TOGETHER WITH HIS NECESSARY CLOTHING AND BEDDING, AS         
+  48   65 5 ARTICLES ALLOWED TO BE EXCEPTED IN THE SCHEDULE TO BE FURN-       
+  48   65 6 ISHED BY THE PENSIONER OF HIS PROPERTY.                           
+  49   66 1 A-35- -640B   J 16-1-348B    HR        APRIL 25, 1820             
+  49   66 2 S161046       Y=24 N=17                VANDYKE, DEL.              
+  49   66 3 TO ORDER ENGROSSMENT AND THIRD READING OF H. R. 122.              
+  49   66 4 (P.640)                                                           
+  50   67 1 A-35- -646    J 16-1-354     HR        APRIL 27, 1820             
+  50   67 2 S161047       Y=23 N=14                HORSEY, DEL.               
+  50   67 3 TO AGREE TO SUBSTITUTE FOR H. R. 65 (3 STAT. 570, 5/4/1820),      
+  50   67 4 AN ACT CONCERNING THE BANKS OF THE DISTRICT OF COLUMBIA,          
+  50   67 5 WHICH SUBSTITUTE EXTENDS CHARTER OF BANKS, NOW PAYING SPECIE      
+  50   67 6 AND DURING SUCH TIME ONLY AS THEY CONTINUE TO PAY SPECIE,         
+  50   67 7 6/1/1822; LIMITING CHARTERS THERETO TO SUCH PERIOD AS THE         
+  50   67 8 MAJORITY OF STOCKHOLDERS SHALL FILE THEIR DECLARATIONS            
+  50   67 9 ASSENTING TO AND ACCEPTING THE BENEFIT OF THIS ACT.  (P.646)      
+  51   68 1 A-35- -648    J 16-1-357     HR        APRIL 28, 1820             
+  51   68 2 S161048       Y=19 N=16                HORSEY, DEL.               
+  51   68 3 TO PASS H. R. 65 (3 STAT. 570, 5/4/1820), A SUBSTITUTE BILL       
+  51   68 4 CONCERNING THE BANKS OF THE DISTRICT OF COLUMBIA.  (P.648)        
+  52    5 1               EX J 3-210     SRE       MAY 1, 1820                
+  52    5 2 E161005       Y=15 N=12                SMITH, S. C.               
+  52    5 3 TO ADOPT THE RESOLUTION PROVIDING THAT FURTHER CONSIDERATION      
+  52    5 4 OF THE TREATY CONCLUDED AT EDWARDSVILLE, ILLINOIS ON JULY         
+  52    5 5 13, 1819, WITH THE KICKAPOO TRIBE OF INDIANS BE POSTPONED,        
+  52    5 6 AND THAT THE PRESIDENT PROCEED TO FURTHER NEGOTIATION WITH        
+  52    5 7 SAID TRIBE, IN ORDER THAT THE PROVISION CONTAINED IN THE          
+  52    5 8 SIXTH ARTICLE, STIPULATING THAT THE UNITED STATES DO CEDE         
+  52    5 9 FOR THEM FOREVER, A CERTAIN TRACT OF LAND IN THE MISSOURI         
+  52    510 TERRITORY, MAY BE EXPUNGED FROM THE SAID TREATY.                  
+  53   69 1 A-35- -652    J 16-1-368     S         MAY 2, 1820                
+  53   69 2 S161049       Y=15 N=17                VANDYKE, DEL.              
+  53   69 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL,        
+  53   69 4 FOR THE RELIEF OF LOUIS JOSEPH DE BEAULIEU.  (P.652)              
+  54   70 1 A-35- -655    J 16-1-370     S         MAY 3, 1820                
+  54   70 2 S161050       Y=11 N=27                SMITH, S. C.               
+  54   70 3 TO POSTPONE CONSIDERATION OF S. 105 (3 STAT. 604,                 
+  54   70 4 (3 STAT. 604, 5/15/1820), A BILL AUTHORIZING THE APPOINTMENT      
+  54   70 5 OF COMMISSIONERS TO LAY OUT THE ROADS THEREIN MENTIONED,          
+  54   70 6 UNTIL FIRST DAY OF JUNE.                                          
+  55   71 1 A-35- -672    J 16-1-376     HR        MAY 4, 1820                
+  55   71 2 S161051       Y=22 N=21                BARBOUR, VA.               
+  55   71 3 TO POSTPONE CONSIDERATION OF H. R. 113, A BILL REGULATING         
+  55   71 4 THE DUTIES ON IMPORTS AND FOR OTHER PURPOSES.  (P.656)            
+  56    6 1               EX J 3-211A    SRE       MAY 5, 1820                
+  56    6 2 E161006       Y=25 N=0                 LEAKE, MISS.               
+  56    6 3 TO RATIFY THE TREATY (2 STAT. 202, 5/10/1820), MADE ON            
+  56    6 4 AUGUST 30, 1820, BETWEEN THE UNITED STATES AND CHIEFS, WAR-       
+  56    6 5 RIOR AND HEADMEN OF THE TRIBE OF KICKAPOO INDIANS OF THE          
+  56    6 6 VERMILLION.                                                       
+  57   72 1 A-35- -674    J 16-1-382     S         MAY 5, 1820                
+  57   72 2 S161052       Y=29 N=4                 SANFORD, N. Y.             
+  57   72 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 119 (3 STAT.         
+  57   72 4 582, 5/15/1820), A BILL LIMITING TERM OF OFFICE OF CER-           
+  57   72 5 TAIN DISBURSING AND OTHER OFFICERS OF THE GOVERNMENT.             
+  57   72 6 (P.674)                                                           
+  58   73 1 A-35- -676    J 16-1-387     S         MAY 8, 1820                
+  58   73 2 S161053       Y=7 N=21                 WILLIAMS, MISS.            
+  58   73 3 TO AGREE TO SECOND AMENDMENT AS AMENDED, TO S. 109 (3 STAT.       
+  58   73 4 571, 5/11/1820), A BILL ESTABLISHING ADDITIONAL LAND OFFICES      
+  58   73 5 IN STATES OF ALABAMA AND ILLINOIS; WHICH AMENDMENT ESTAB-         
+  58   73 6 LISHES A LAND OFFICE AT BROWNSTOWN TO DISPOSE OF CERTAIN UN-      
+  58   73 7 APPROPRIATED PUBLIC LANDS IN INDIANA.  (P.676)                    
+  59    7 1               EX J 3-211B    SRE       MAY 9, 1820                
+  59    7 2 E161007       Y=23 N=0                 LEAKE, MISS.               
+  59    7 3 TO AMEND THE SIXTH ARTICLE OF THE TREATY (7 STAT. 200,            
+  59    7 4 1/31/1821), WITH THE KICKAPOO INDIANS, MADE AT EDWARDSVILLE,      
+  59    7 5 BY ADDING THE WORDS "AND EXCHANGE FOR" IN LINE 1 AND THE          
+  59    7 6 WORDS "TO CEDE TO THE SAID TRIBE, TO BE BY THEM POSSESSED IN      
+  59    7 7 LIKE MANNER AS THE LANDS CEDED BY THE FIRST ARTICLE OF THIS       
+  59    7 8 TREATY, BY THEM TO THE U. S.", IN LINE 2.                         
+  60    8 1               EX J 3-212     SRE       MAY 9, 1820                
+  60    8 2 E161008       Y=0 N=23                 LEAKE, MISS.               
+  60    8 3 TO DECIDE THE QUESTION TO ELIMINATE THE FOLLOWING WORDS,          
+  60    8 4 "TO THEM AND THEIR HEIRS FOREVER," AND ALSO THE FOLLOWING         
+  60    8 5 PROVISO, "PROVIDED NEVERTHELESS, THAT THE SAID TRIBE SHALL        
+  60    8 6 NEVER SELL THE SAID LAND, WITHOUT THE CONSENT OF THE PRESI-       
+  60    8 7 DENT OF THE UNITED STATES," FROM THE 6TH ARTICLE OF THE           
+  60    8 8 TREATY WITH THE KICKAPOO INDIANS; THE QUESTION BEING, SHALL       
+  60    8 9 THE WORDS AND PROVISO STAND.                                      
+  61   74 1 A-35- -678    J 16-1-390     S         MAY 9, 1820                
+  61   74 2 S161054       Y=22 N=7                 SMITH, S. C.               
+  61   74 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 75, A BILL PRO-      
+  61   74 4 VIDING FOR THE RELIEF OF WILLIAM AND ELISHA WINTER, ALLOWING      
+  61   74 5 THE HEIRS OF CLAIMANTS THE RIGHT TO FILE A PETITION AGAINST       
+  61   74 6 THE UNITED STATES.  (P.678)                                       
+  62   75 1 A-35- -682    J 16-1-392     S         MAY 9, 1820                
+  62   75 2 S161055       Y=12 N=20                EATON, TENN.               
+  62   75 3 TO POSPTONE CONSIDERATION OF THE BILL AUTHORIZING THE             
+  62   75 4 APPOINTMENT OF COMMISSIONERS TO EXAMINE THE COUNTRY BETWEEN       
+  62   75 5 THE SANDUSKY AND MIAMI BAYS OF LAKE ERIE.  (P.682)                
+  63   76 1 A-35- -683    J 16-1-393     S         MAY 9, 1820                
+  63   76 2 S161056       Y=20 N=13                KING, N. Y.                
+  63   76 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL,        
+  63   76 4 AUTHORIZING THE APPOINTMENT OF A COMMISSION TO EXAMINE THE        
+  63   76 5 COUNTRY BETWEEN THE SANDUSKY AND MIAMI BAYS OF LAKE ERIE.         
+  63   76 6 (P.683)                                                           
+  64    9 1               EX J 3-214     SRE       MAY 10, 1820               
+  64    9 2 E161009       Y=27 N=0                 LEAKE, MISS.               
+  64    9 3 TO RATIFY THE TREATY AS AMENDMED.                                 
+  65   77 1 A-35- -686    J 16-1-400     S         MAY 10, 1820               
+  65   77 2 S161052       Y=14 N=21                WILLIAMS, MISS.            
+  65   77 3 TO POSTPONE CONSIDERATION OF THE BILL GRANTING THE RIGHT OF       
+  65   77 4 PRE-EMPTION TO ACTUAL SETTLERS ON THE PUBLIC LANDS.  (P.686)      
+  66   78 1 A-35- -688    J 16-1-404     HR        MAY 11, 1820               
+  66   78 2 S161058       Y=13 N=22                BARBOUR, VA.               
+  66   78 3 TO POSPTONE CONSIDERATION OF H. R. 148 (3 STAT. 581,              
+  66   78 4 5/13/1820), A BILL FIXING THE TIME OF THE NEXT MEETING OF         
+  66   78 5 CONGRESS, AT AN EARLIER DAY (THE SECOND MONDAY OF NOVEMBER)       
+  66   78 6 THAN THE CONSTITUTIONAL DAY.  (P.688)                             
+  67   79 1 A-35- -688    J 16-1-406     S         MAY 11, 1820               
+  67   79 2 S161059       Y=22 N=13                BARBOUR, VA.               
+  67   79 3 TO POSTPONE INDEFINITELY CONSIDERATION OF A RESOLUTION FROM       
+  67   79 4 THE HOUSE SUSPENDING THE OPERATION OF THE ACT OF THE SESSION      
+  67   79 5 TO AMEND THE REVOLUTIONARY PENSION LAW, SO FAR AS NOT TO IN-      
+  67   79 6 TERFERE WITH THE PAYMENT OF THE HALF YEARS PENSION WHICH          
+  67   79 7 WOULD BE PAYABLE IN SEPTEMBER NEXT.  (P.688)                      
+  68   10 1               EX J 3-216     SRE       MAY 13, 1820               
+  68   10 2 E161010       Y=10 N=15                                           
+  68   10 3 TO CONSENT TO THE APPOINTMENT OF GEROGE GRAY, AS INDIAN           
+  68   10 4 AGENT, AT NATCHITOCHIS, LOUISIANA.                                
+  69   80 1 A-37- -45     J 16-2-47      SRE       DEC. 7, 1820               
+  69   80 2 S162001       Y=21 N=24                EATON, TENN.               
+  69   80 3 TO AMEND A RESOLUTION (3 STAT. 645, 3/2/1821), FOR THE AD-        
+  69   80 4 MISSION OF MISSOURI INTO THE UNION, BY ADDING, "THAT NOTHING      
+  69   80 5 HEREIN CONTAINED SHALL BE SO CONSTRUED AS TO GIVE THE ASSENT      
+  69   80 6 OF CONGRESS TO ANY PROVISION IN THE CONSTITUTION OF MISSOURI      
+  69   80 7 IF ANY SUCH THERE BE, WHICH CONTRAVENES THAT CLAUSE IN THE        
+  69   80 8 CONSTITUTION OF THE U. S. WHICH DECLARES THAT, 'THE CITIZENS      
+  69   80 9 OF EACH STATE SHALL BE ENTITLED TO ALL PRIVILEGES AND IMMUN-      
+  69   8010 ITIES OF CITIZENS IN THE SEVERAL STATES'".  (P.41)                
+  70   81 1 A-37- -116A   J 16-2-57      SRE       DEC. 11, 1820              
+  70   81 2 S162002       Y=17 N=27                MACON, N. C.               
+  70   81 3 TO RECOMMIT A RESOLUTION TO THE SELECT COMMITTEE WITH IN-         
+  70   81 4 STRUCTIONS TO STRIKE OUT THE PROVISO "THAT NOTHING HEREIN         
+  70   81 5 CONTAINED SHALL BE SO CONSTRUED AS TO GIVE THE ASSENT OF          
+  70   81 6 CONGRESS TO ANY PROVISION IN THE CONSTITUTION OF MISSOURI         
+  70   81 7 WHICH CONTRAVENS THAT CLAUSE OF THE CONSTITUTION OF THE U.        
+  70   81 8 S.", WHICH DECLARES THAT THE CITIZENS OF EACH STATE SHALL BE      
+  70   81 9 ENTITLED TO ALL PRIVILEGES AND IMMUNITIES OF CITIZENS IN THE      
+  70   8110 SEVERAL STATES".  (P.116A, 100)                                   
+  71   82 1 A-37- -116B   J 16-2-58      SRE       DEC. 11, 1820              
+  71   82 2 S162003       Y=26 N=18                SMITH, S. C.               
+  71   82 3 TO ORDER ENGROSSMENT AND THIRD READING OF A RESOLUTION.           
+  71   82 4 (P.116B)                                                          
+  72   83 1 A-37- -125A   J 16-2-70      SRE       DEC. 19, 1820              
+  72   83 2 S162004       Y=16 N=20                JOHNSON, KY.               
+  72   83 3 TO POSTPONE CONSIDERATION OF A RESOLUTION PROVIDING FOR THE       
+  72   83 4 REDUCTION OF COMPENSATION OF MEMBERS OF THE SENATE, THE           
+  72   83 5 HOUSE OF REPRESENTATIVES AND DELEGATES FROM TERRITORIES AND       
+  72   83 6 REPEALING ALL OTHER LAWS ON THE SUBJECT.  (P.124)                 
+  73   84 1 A-37- -125B   J 16-2-71      SRE       DEC. 19, 1820              
+  73   84 2 S162005       Y=14 N=22                BURRILL, R. I.             
+  73   84 3 TO AMEND AN AMENDMENT TO A RESOLUTION, BY ELIMINATING THAT        
+  73   84 4 PART OF THE SUBSTITUTE RESOLUTION WHICH SEEKS TO REDUCE THE       
+  73   84 5 ALLOWANCE MADE BY LAW TO THE JUDICIAL AND OTHER OFFICERS IN       
+  73   84 6 THE EXECUTIVE DEPARTMENT.  (P.125B)                               
+  74   85 1 A-37- -125C   J 16-2-72      SRE       DEC. 19, 1820              
+  74   85 2 S162006       Y=32 N=4                 DANA, CONN.                
+  74   85 3 TO AGREE TO A RESOLUTION ON COMPENSATION.  (P.125C)               
+  75   11 1               EX J 3-230     SRE       DEC. 22, 1820              
+  75   11 2 E162001       Y=29 N=0                 HOLMES, MISS.              
+  75   11 3 TO RATIFY THE TREATY (7 STAT. 210, 1/8/1821), OF FRIENDSHIP,      
+  75   11 4 LIMITS AND ACCOMMODATION WITH THE CHOCTAW INDIANS MADE ON         
+  75   11 5 10/18/1820.                                                       
+  76   12 1               EX J 3-233A    SRE       JAN. 3, 1821               
+  76   12 2 E162002       Y=32 N=0                 HOLMES, MISS.              
+  76   12 3 TO RATIFY THE TREATY, MADE AND CONCLUDED BETWEEN THE U. S.        
+  76   12 4 AND THE NEA INDIANS, BY THEIR CHIEFS, WARRIORS, AND HEADMEN,      
+  76   12 5 ON 8/11/1820.                                                     
+  77   13 1               EX J 3-233B    SRE       JAN. 3, 1821               
+  77   13 2 E162003       Y=36 N=0                 HOLMES, MISS.              
+  77   13 3 TO RATIFY THE CONVENTION (7 STAT. 210, 1/8/1821), WITH THE        
+  77   13 4 KICKAPOO INDIANS OF THE VERMILLION, CONCLUDED AT VINCERMES,       
+  77   13 5 INDIANA, ON SEPTEMBER 5, 1820.                                    
+  78   86 1 A-37- -149    J 16-2-105     S         JAN. 9, 1821               
+  78   86 2 S162007       Y=23 N=13                HORSEY, DEL.               
+  78   86 3 TO CONCUR IN 7TH SECTION TO S. 6 (6 STAT. 255, 2/9/1821), AN      
+  78   86 4 ACT TO INCORPORATE THE COLUMBIAN COLLEGE IN THE DISTRICT OF       
+  78   86 5 COLUMBIA, WHICH SECTION PROVIDES THAT THERE BE NO RELIGIOUS       
+  78   86 6 DISCRIMINATION IN ELECTING TRUSTEES OR ADMITTING STUDENTS.        
+  78   86 7 (P.149)                                                           
+  79   87 1 A-37- -156    J 16-2-111     S         JAN. 11, 1821              
+  79   87 2 S162008       Y=26 N=13                WALKER, ALA.               
+  79   87 3 TO POSTPONE CONSIDERATION OF THE BILL AUTHORIZING THE             
+  79   87 4 APPOINTMENT OF COMMISSIONERS TO LAY OUT A ROUTE OF A CANAL        
+  79   87 5 FROM THE NAVIGABLE WATERS OF THE OHIO TO LAKE ERIE.               
+  80   88 1 A-37- -211    J 16-2-129     SRE       JAN. 20, 1821              
+  80   88 2 S162009       Y=24 N=19                WALKER, GA.                
+  80   88 3 TO POSTPONE INDEFINITELY CONSIDERATION OF A RESOLUTION ON         
+  80   88 4 THE PETITION OF MATTHEW LYON IN REFERENCE TO THE SEDITION         
+  80   88 5 LAW DECLARING SAME UNCONSTITUTIONAL AND INDEMNIFYING THOSE        
+  80   88 6 WHO SUFFERED UNDER IT.                                            
+  81   89 1 A-37- -254    J 16-2-155     SRE       JAN. 31, 1821              
+  81   89 2 S162010       Y=14 N=31                DANA, CONN.                
+  81   89 3 TO DISCHARGE COMMITTEE  FROM FURTHER CONSIDERATION OF THE         
+  81   89 4 RESOLUTION REDUCING THE ALLOWANCES AUTHORIZED BY LAW FOR THE      
+  81   89 5 TWO HOUSES OF CONGRESS, AND FOR THE EXECUTIVE DEPARTMENTS.        
+  81   89 6 (P.254)                                                           
+  82   90 1 A-37- -263    J 16-2-164     S         FEB. 2, 1821               
+  82   90 2 S162011       Y=20 N=21                LOWRIE, PA.                
+  82   90 3 TO AMEND S. 16 (3 STAT. 612, 3/2/1821), A BILL TO RELIEVE         
+  82   90 4 THE PURCHASERS OF PUBLIC LANDS PRIOR TO 7/1/1820, BY REDUC-       
+  82   90 5 ING THE DISCOUNT TO BE ALLOWED FOR PROMPT PAYMENT FROM            
+  82   90 6 37 1/2% TO 25% ON PUBLIC LANDS.  (P.263)                          
+  83   91 1 A-37- -265    J 16-2-167     SRE       FEB. 5, 1821               
+  83   91 2 S162012       Y=23 N=18                BARBOUR, VA.               
+  83   91 3 TO POSTPONE UNTIL 2/19/1821, CONSIDERATION OF THE REPORT OF       
+  83   91 4 THE SELECT COMMITTEE APPOINTED JURSUANT TO THE RESOLUTION         
+  83   91 5 THAT A COMMITTEE BE APPOINTED TO INQUIRE INTO THE PROPRIETY       
+  83   91 6 OF REDUCING THE ALLOWANCES AUTHORIZED BY LAW TO MEMBERS AND       
+  83   91 7 OFFICERS OF CONGRESS AND REDUCING THE ALLOWANCES TO THE           
+  83   91 8 PRINCIPAL AND OTHER OFFICERS OF THE EXECUTIVE DEPARTMENTS.        
+  83   91 9 (JP.72)                                                           
+  84   92 1 A-37- -331    J 16-2-177     S         FEB. 9, 1821               
+  84   92 2 S162013       Y=9 N=32                 BARBOUR, VA.               
+  84   92 3 TO POSTPONE INDEFINITELY CONSIDERATION OF S. 20, A BILL           
+  84   92 4 WHICH PROVIDES FOR A UNIFORM SYSTEM OF BANKRUPTCY.                
+  85   93 1 A-37- -333A   J 16-2-180A    S         FEB. 10, 1821              
+  85   93 2 S162014       Y=12 N=28                LOWRIE, PA.                
+  85   93 3 TO AMEND S. 16 (3 STAT. 612, 3/2/1821), A BILL FOR RELIEF OF      
+  85   93 4 PURCHASERS OF PUBLIC LANDS, BY ELIMINATING FROM THE 3RD SEC-      
+  85   93 5 TION ALL DEBT ON PUBLIC LAND PURCHASED AT PRICE LESS THAN         
+  85   93 6 $3.00 PER ACRE AND LAND PURCHASES ABOVE $3.00 PER ACRE BE         
+  85   93 7 DISCOUNTED AT 33 1/3% AND MAKING IT READ, ALL PERSONS             
+  85   93 8 INDEBTED FOR LAND PURCHASES TO BE ALLOWED A DISCOUNT OF 25%.      
+  85   93 9 (P. 289)                                                          
+  86   94 1 A-37- -333B   J 16-2-180B    S         FEB. 10, 1821              
+  86   94 2 S162015       Y=36 N=5                 THOMAS, ILL.               
+  86   94 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 16 (3 STAT.          
+  86   94 4 612, 3/2/1821), A BILL PROVIDING FOR THE RELIEF OF PUBLIC         
+  86   94 5 LAND PURCHASERS.  (P.333B)                                        
+  87   95 1 A-37- -339    J 16-2-185     S         FEB. 13, 1821              
+  87   95 2 S162016       Y=13 N=24                TALBOT, KY.                
+  87   95 3 TO RECOMMIT TO THE COMMITTEE ON JUDICIARY S. 20, A BILL           
+  87   95 4 ESTABLISHING A UNIFORM SYSTEM OF BANKRUPTCY, WITH INSTRUC-        
+  87   95 5 TIONS, TO MODIFY IT SO AS TO ALLOW ALL OTHER CLASSES AS WELL      
+  87   95 6 AS MERCHANTS TO BECOME BANKRUPTS, ON THEIR VOLUNTARY APPLI-       
+  87   95 7 CATION.  (P.399, 340)                                             
+  88   96 1 A-37- -341    J 16-2-186     S         FEB. 13, 1821              
+  88   96 2 S162017       Y=13 N=24                HOLMES, ME.                
+  88   96 3 TO AMEND S. 20, BY PROVIDING THAT FARMERS AND ALL OTHER           
+  88   96 4 CLASSES, AS WELL AS MERCHANTS, MAY TAKE ADVANTAGE OF THIS         
+  88   96 5 ACT ON THEIR VOLUNTARY APPLICATION.  (P. 340, 341)                
+  89   97 1 A-37- -348A   J 16-2-194     S         FEB. 15, 1821              
+  89   97 2 S162018       Y=17 N=22                CHANDLER, ME.              
+  89   97 3 TO AMEND S. 20, BY ADDING AFTER THE WORD ACT, IN THE 47TH         
+  89   97 4 LINE, 1ST SECTION, "THAT NO DISCHARGE WHICH MAY BE GIVEN TO       
+  89   97 5 A BANKRUPT UNDER THIS ACT, SHALL OPERATE SO AS TO DISCHARGE       
+  89   97 6 THE BANKRUPT FROM DEBTS WHICH MAY BE DUE TO ANY PERSONS, EX-      
+  89   97 7 CEPT MERCHANTS, BANKERS, BROKERS, FACTORS, UNDERWRITERS, OR       
+  89   97 8 MARINE INSURERS."  (P.348A)                                       
+  90   98 1 A-37- -348B   J 16-2-195A    S         FEB. 15, 1821              
+  90   98 2 S162019       Y=14 N=27                HOLMES, ME.                
+  90   98 3 TO AMEND S. 20, BY ELIMINATING, "THAT IT SHALL BE LAWFUL FOR      
+  90   98 4 THE COMMISSIONERS TO ISSUE THEIR WARRANT, AUTHORIZING ANY         
+  90   98 5 PERSON OR OFFICER, TO BREAK OPEN IN THE DAYTIME THE HOUSES,       
+  90   98 6 SHOPS, WAREHOUSES, TRUNKS, ORCHESIS, OF THE BANKRUPT, AND         
+  90   98 7 TAKE POSSESSION OF THE GOODS, MONEY, AND OTHER ESTATE, DEEDS      
+  90   98 8 BOOKS OR WRITINGS."  (P.348)                                      
+  91   99 1 A-37- -349A   J 16-2-195B    S         FEB. 15, 1821              
+  91   99 2 S162020       Y=14 N=26                LOWRIE, PA.                
+  91   99 3 TO AMEND S. 20, BY PROVIDING THAT THIS ACT IS TO APPLY ONLY       
+  91   99 4 TO DEBTS CREATED AFTER THE PASSAGE THEREOF.  (P.349A)             
+  92  100 1 A-37- -349B   J 16-2-196     S         FEB. 15, 1821              
+  92  100 2 S162021       Y=19 N=18                SMITH, S. C.               
+  92  100 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 20.  (P.349B)        
+  93   14 1               EX J 3-244     SRE       FEB. 19, 1821              
+  93   14 2 E162004       Y=40 N=4                 BARBOUR, VA.               
+  93   14 3 TO RATIFY THE TREATY (8 STAT. 252, 2/19/1821), OF AMITY,          
+  93   14 4 SETTLEMENT AND LIMITS, MADE ON AND CONCLUDED ON 2/22/1819         
+  93   14 5 BETWEEN THE U. S. AND THE KING OF SPAIN.                          
+  94  101 1 A-37- -357    J 16-2-201     SRE       FEB. 19, 1821              
+  94  101 2 S162022       Y=17 N=19                BARBOUR, VA.               
+  94  101 3 TO TABLE A REPORT FROM A SELECT COMMITTEE PROVIDING FOR A         
+  94  101 4 REDUCTION OF SALARIES, FOR MEMBERS OF BOTH HOUSES OF CON-         
+  94  101 5 GRESS AND OFFICERS OF EXECUTIVE DEPARTMENTS TOGETHER WITH         
+  94  101 6 AMENDMENT THERETO.  (P.357)                                       
+  95  102 1 A-37- -358A   J 16-2-202A    S         FEB. 19, 1821              
+  95  102 2 S162023       Y=7 N=30                 ROBERTS, PA.               
+  95  102 3 TO AMEND S. 13, A BILL AMENDING THE ACT INCORPORATING THE         
+  95  102 4 BANK OF THE UNITED STATES, BY ADDING A PROVISION THAT BILLS       
+  95  102 5 OR NOTES OF THE OFFICES OF DISCOUNT AND DEPOSIT OF SAID BANK      
+  95  102 6 EXCEPT IN THE DISTRICT OF COLUMBIA, PAYABLE ON DEMAND,            
+  95  102 7 SHALL BE RECEIVED IN PAYMENT TO THE UNITED STATES ONLY IN         
+  95  102 8 THE STATES OR TERRITORIES IN WHICH THEY ARE MADE PAYABLE,         
+  95  102 9 AND IN STATES OR TERRITORIES WHERE NO SUCH OFFICES HAVE BEEN      
+  95  10210 ESTABLISHED, PROVIDED THAT $5 NOTES SHALL BE RECEIVABLE AT        
+  95  10211 ANY SUCH OFFICE AND PROVIDED FURTHER THAT NOT MORE THAN ONE       
+  95  10212 OFFICE SHALL BE ESTABLISHED IN ANY STATE OR TERRITORY WITH-       
+  95  10213 OUT THE CONSENT OF THE LEGISLATURE THEREOF.                       
+  96  103 1 A-37- -358B   J 16-2-202B    S         FEB. 19, 1821              
+  96  103 2 S162024       Y=26 N=10                SANFORD, N. Y.             
+  96  103 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 13, A BILL TO        
+  96  103 4 AMEND THE CHARTER OF THE BANK OF THE UNITED STATES.  (P.356)      
+  97  104 1 A-37- -359    J 16-2-203     S         FEB. 19, 1821              
+  97  104 2 S162025       Y=23 N=19                SMITH, S. C.               
+  97  104 3 TO PASS S. 20.                                                    
+  98   15 1               EX J 3-246     SRE       FEB. 21, 1821              
+  98   15 2 E162005       Y=29 N=3                 HOLMES, MISS.              
+  98   15 3 TO RATIFY THE TREATY (7 STAT. 206, 3/2/1821), WITH THE            
+  98   15 4 CHIPPAWAY INDIANS, CONCLUDED AT SAULT DE ST. MARIE, MICHIGAN      
+  98   15 5 ON 6/16/1820.                                                     
+  99  105 1 A-37- -363A   J 16-2-209A    SRE       FEB. 21, 1821              
+  99  105 2 S162026       Y=18 N=24                LOWRIE, PA.                
+  99  105 3 TO POSTPONE CONSIDERATION OF A RESOLUTION (3 STAT. 645,           
+  99  105 4 3/2/1821), PROVIDING FOR THE ADMISSION OF STATE OF MISSOURI       
+  99  105 5 INTO THE UNION.  (P.363A)                                         
+ 100  106 1 A-37- -363B   J 16-2-209B    SRE       FEB. 21, 1821              
+ 100  106 2 S162027       Y=15 N=27                KING, N. Y.                
+ 100  106 3 TO AMEND A RESOLUTION BY ELIMINATING THE PROVISO AMENDED AS       
+ 100  106 4 FOLLOWS, "PROVIDED, THAT THE 4TH CLAUSE, OF THE 26TH SECTION      
+ 100  106 5 OF THE 3RD ARTICLE OF THE CONSTITUTION OF MISSOURI, BE SO         
+ 100  106 6 MODIFIED, THAT IT SHALL NOT IMPAIR THE PRIVILEGES OF PERSONS      
+ 100  106 7 WHO MAY NOW BE, OR HEREAFTER BECOME CITIZENS OF U. S. AND         
+ 100  106 8 UNTIL MODIFIED, SHALL BE CONSTRUED TO EXCLUDE ANY U. S.           
+ 100  106 9 CITIZEN FROM ANY PRIVILEGES ENTITLED TO HIM UNDER THE CON-        
+ 100  10610 STITUTION OF THE U. S."  (P.363B)                                 
+ 101  107 1 A-37- -364    J 16-2-210     SRE       FEB. 21, 1821              
+ 101  107 2 S162028       Y=19 N=24                ROBERTS, PA.               
+ 101  107 3 TO ORDER ENGROSSMENT AND THIRD READING OF A RESOLUTION.           
+ 102  108 1 A-37- -374A   J 16-2-213     HR        FEB. 22, 1821              
+ 102  108 2 S162029       Y=21 N=18                DICKERSON, N. J.           
+ 102  108 3 TO AMEND H. R. 180 (3 STAT. 615, 3/2/1821), A BILL TO REDUCE      
+ 102  108 4 AND FIX THE MILITARY PEACE ESTABLISHMENT OF THE U. S., BY         
+ 102  108 5 ELIMINATING FROM SECTION NINE, THE OWRDS, "THAT THERE SHALL       
+ 102  108 6 BE ONE JUDGE ADVOCATE WITH AN ANNUAL SALARY OF $2,000."           
+ 102  108 7 (P.367)                                                           
+ 103  109 1 A-37- -374B   J 16-2-214     HR        FEB. 22, 1821              
+ 103  109 2 S162030       Y=16 N=24                SMITH, S. C.               
+ 103  109 3 TO AMEND H. R. 180, BY ELIMINATING FROM SECTION FIVE A MAJOR      
+ 103  109 4 GENERAL WITH TWO AIDS DE CAMP.  (P.374B)                          
+ 104  110 1 A-37- -375    J 16-2-215     HR        FEB. 22, 1821              
+ 104  110 2 S162031       Y=9 N=31                 WILLIAMS, TENN.            
+ 104  110 3 TO AMEND H. R. 180, BY ELIMINATING TWO BRIGADIER GENERALS         
+ 104  110 4 EACH, AND INSERTING BRIGADIER GENERAL, AND STRIKING OUT THE       
+ 104  110 5 WORDS "AIDS DE CAMP" AND INSERTING "AID DE CAMP".  (P.375)        
+ 105   16 1               EX J 3-247A    SRE       FEB. 23, 1821              
+ 105   16 2 E162006       Y=2 N=28                 TRIMBLE, OHIO              
+ 105   16 3 TO AMEND THE RESOLUTION (7 STAT. 215, 217, 3/2/1821), PRO-        
+ 105   16 4 VIDING THAT THE SENATE DO ADVISE AND CONSENT TO THE RATIFI-       
+ 105   16 5 CATION OF THE TREATY MADE AND CONCLUDED AT INDIAN SPRING ON       
+ 105   16 6 THE 1/8/1821, BETWEEN THE UNITED STATES AND THE CREEK NATION      
+ 105   16 7 OF INDIANS, BY PROPOSING THAT THE FOURTH CLAUSE OF THE            
+ 105   16 8 TREATY REGARDING PAYMENT BE ELIMINATED.                           
+ 106   17 1               EX J 3-247B    SRE       FEB. 24, 1821              
+ 106   17 2 E162007       Y=10 N=24                KING, N. Y.                
+ 106   17 3 TO AMEND THE RESOLUTION BY ADDING A PROVISO LIMITING THE SUM      
+ 106   17 4 TO BE PAID UNDER THE FOURTH ARTICLE TO THE STATE OF GEORGIA,      
+ 106   17 5 AND PROVIDING ALSO, THAT NO OTHER CLAIMS THAN THOSE WHICH         
+ 106   17 6 ARE INCLUDED IN THE TREATRIES OF NEW YORK AND COLRAIN BE          
+ 106   17 7 ALLOWED.                                                          
+ 107   18 1               EX J 3-247C    SRE       FEB. 24, 1821              
+ 107   18 2 E162008       Y=26 N=7                 HOLMES, MISS.              
+ 107   18 3 TO RATIFY THE TREATY.                                             
+ 108  111 1 A-37- -380    J 16-2-223     S         FEB. 24, 1821              
+ 108  111 2 S162032       Y=22 N=9                 LOWRIE, PA.                
+ 108  111 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 15, A BILL CON-      
+ 108  111 4 FIRMING THE CLAIM OF THE MARQUIS DE MAISON ROUGE TO A TRACT       
+ 108  111 5 OF LAND IN ARKANSAS.  (P.380)                                     
+ 109  112 1 A-37- -381    J 16-2-222     S         FEB. 24, 1821              
+ 109  112 2 S162033       Y=12 N=23                TRIMBLE, OHIO              
+ 109  112 3 TO AMEND S. 7 (3 STAT. 641, 3/3/1821), AN ACT TO CONTINUE IN      
+ 109  112 4 FORCE FOR A FURTHER TIME, THE ESTABLISHMENT OF TRADING            
+ 109  112 5 HOUSES WITH THE INDIAN TRIBES; BY INSERTING A PROVISION TO        
+ 109  112 6 NO LONGER PURCHASE ANY GOODS FOR THE INDIAN DEPARTMENT EX-        
+ 109  112 7 CEPT SUCH AS IS NECESSARY TO CONFORM WITH EXISTING TREATIES.      
+ 109  112 8 (P.381)                                                           
+ 110  113 1 A-37- -382    J 16-2-224     HRE       FEB. 24, 1821              
+ 110  113 2 S162034       Y=29 N=7                                            
+ 110  113 3 TO ADOPT THE H. RESOLUTION PROVIDING FOR THE APPOINTMENT OF       
+ 110  113 4 A JOINT COMMITTEE TO REPORT WHETHER IT BE EXPEDIENT TO ADMIT      
+ 110  113 5 MISSOURI INTO THE UNION AS A STATE AND TO PROVIDE FOR THE         
+ 110  113 6 DUE EXECUTION OF THE LAWS THEREIN, AND, IF NOT, WHETHER ANY       
+ 110  113 7 OTHER, AND WHTAT, PROVISION ADOPTED TO HER ACTUAL CONDITIONS      
+ 110  113 8 OUGHT TO BE MADE BY LAW.                                          
+ 111   19 1               EX J 3-248     SRE       FEB. 26, 1821              
+ 111   19 2 E162009       Y=23 N=11                SMITH, S. C.               
+ 111   19 3 TO CONSENT TO THE NOMINATION OF DANIEL HUMPHREY AS U.S.           
+ 111   19 4 DISTRICT ATTORNEY IN THE DISTRICT OF NEW HAMPSHIRE.               
+ 112  114 1 A-37- -385    J 16-2-228     S         FEB. 26, 1821              
+ 112  114 2 S162035       Y=26 N=8                 WILSON, N. J.              
+ 112  114 3 TO PASS S. 15, A BILL CONFIRMING TITLE TO LAND CLAIMED BY         
+ 112  114 4 THE MARQUIS DE MAISON ROUGE AND HELD BY HIM UNDER A SPANISH       
+ 112  114 5 GRANT.  (P.385, 386)                                              
+ 113  115 1 A-37- -388    J 16-2-234     HRE       FEB. 27, 1821              
+ 113  115 2 S162036       Y=26 N=15                HOLMES, ME.                
+ 113  115 3 TO ORDER A THIRD READING OF THE HOUSE RESOLUTION (3 STAT.         
+ 113  115 4 645, 3/2/1821), FOR THE ADMISSION OF MISSOURI INTO THE            
+ 113  115 5 UNION.  (P.388)                                                   
+ 114   20 1               EX J 3-252A    SRE       FEB. 28, 1821              
+ 114   20 2 E162010       Y=22 N=9                 HOLMES, MISS.              
+ 114   20 3 TO RATIFY THE TREATY (7 STAT. 207, 3/8/1821), CONCLUDED ON        
+ 114   20 4 7/6/1820, BETWEEN THE U. S. AND THE OTTAWA AND CHIPPAWAY          
+ 114   20 5 INDIANS.                                                          
+ 115   21 1               EX J 3-252B    SRE       FEB. 28, 1821              
+ 115   21 2 E162011       Y=10 N=24                HOLMES, MISS.              
+ 115   21 3 TO RATIFY THE CONVENTION WITH MAHA INDIANS, CONCLUDED AT          
+ 115   21 4 CAMP COUNCIL BLUFF, ON 9/23/1820.                                 
+ 116  116 1 A-37- -390    J 16-2-240     HRE       FEB. 28, 1821              
+ 116  116 2 S162037       Y=28 N=14                HOLMES, ME.                
+ 116  116 3 TO PASS A RESOLUTION (3 STAT. 645, 3/2/1821), PROVIDING FOR       
+ 116  116 4 THE ADMISSION OF MISSOURI INTO THE UNION.  (P.390)                
+ 117  117 1 A-37- -391    J 16-2-243     HR        FEB. 28, 1821              
+ 117  117 2 S162038       Y=31 N=8                 PLEASANTS, VA.             
+ 117  117 3 TO ORDER THIRD READING OF H. R. 93 (3 STAT. 622, 3/2/1821),       
+ 117  117 4 A BILL FOR THE RELIEF OF THE FAMILY, OF THE LATE OLIVER           
+ 117  117 5 HAZAR PERRY.                                                      
+ 118  118 1 A-37- -403    J 16-2-274     HR        MAR. 3, 1821               
+ 118  118 2 S162039       Y=14 N=19                BARBOUR, VA.               
+ 118  118 3 TO AMEND H. R. 245 (3 STAT. 640, 3/3/1821), A BILL ESTAB-         
+ 118  118 4 LISHING THE SALARIES OF THE COMMISSIONERS AND AGENTS APPOIN-      
+ 118  118 5 TED UNDER THE TREATY OF GHENT, BY ELIMINATING THE PROVISIONS      
+ 118  118 6 FIXING THE COMPANSATION FOR SERVICES AND PERSONAL EXPENSES        
+ 118  118 7 WHILE PERFORMING SERVICES.                                        
+ 119  119 1 A-37- -404A   J 16-2-276     HR        MAR. 3, 1821               
+ 119  119 2 S162040       Y=20 N=12                BARBOUR, VA.               
+ 119  119 3 TO INSIST ON THE FIRST AMENDMENT TO H. R. 263 (3 STAT. 633,       
+ 119  119 4 3/3/1821), A BILL MAKING APPROPRIATION FOR THE MILITARY SER-      
+ 119  119 5 VICE OF THE U. S. FOR 1821; WHICH AMENDMENT INCREASES THE         
+ 119  119 6 APPROPRIATIONS FOR COMPLETING AND REPAIRING FORTIFICATIONS        
+ 119  119 7 TO $400,000.  (P.404, 1806)                                       
+ 120  120 1 A-37- -404B   J 16-2-277     HR        MAR. 3, 1821               
+ 120  120 2 S162041       Y=17 N=15                LOWRIE, PA.                
+ 120  120 3 TO RECEDE FROM THE AMENDMENTS TO H. R. 263 (3 STAT. 633,          
+ 120  120 4 3/3/1821), A BILL MAKING APPROPRIATION FOR TTHE MILITARY          
+ 120  120 5 SERVICE OF THE U. S. FOR 1821, AND AGREE TO THE AMENDMENTS        
+ 120  120 6 OF THE HOUSE.  (P.404)                                            

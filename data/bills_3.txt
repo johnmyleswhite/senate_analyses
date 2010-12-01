@@ -1,0 +1,419 @@
+   1    1 1               EX J 1-145     SRE       JAN. 8, 1794               
+   1    1 2 E031001       Y=11 N=13                BURR, N.Y.                 
+   1    1 3 TO POSTPONE CONSIDERATION OF THE TREATY OF PEACE AND              
+   1    1 4 FRIENDSHIP WITH THE WABASH AND ILLINOIS INDIANS, UNTIL THE        
+   1    1 5 NEXT SESSION OF CONGRESS.                                         
+   2    2 1               EX J 1-146     SRE       JAN. 9, 1794               
+   2    2 2 E031002       Y=4 N=21                 BURR, N.Y.                 
+   2    2 3 TO AGREE TO THE RESOLUTION THAT THE SENATE DO CONSENT TO THE      
+   2    2 4 TREATY ENTERED INTO SEPTEMBER, 1792, WITH THE WABASH AND          
+   2    2 5 ILLINOIS INDIANS, AND THAT THEY DO ADVISE THE PRESIDENT TO        
+   2    2 6 RATIFY THE SAME.                                                  
+   3    3 1               EX J 1-152A    SRE       APR. 19, 1794              
+   3    3 2 E031003       Y=10 N=17                                           
+   3    3 3 TO POSTPONE CONSIDERATION OF THE NOMINATION OF JOHN JAY TO        
+   3    3 4 BE ENVOY EXTRAORDINARY OF THE UNITED STATES TO ENGLAND.           
+   4    4 1               EX J 1-152B    SRE       APR. 19, 1794              
+   4    4 2 E031004       Y=18 N=8                                            
+   4    4 3 TO ADVISE AND CONSENT TO THE NOMINATION OF JOHN JAY TO BE         
+   4    4 4 ENVOY EXTRAORDINARY TO GREAT BRITIAN.                             
+   5    5 1 A  - -30      J 3-1-19       SJR       JAN. 14, 1794              
+   5    5 2 S031001       Y=23 N=2                 BRADLEY, VT.               
+   5    5 3 TO PASS THE RESOLUTION THAT THE FOLLOWING ARTICLE BE              
+   5    5 4 PROPOSED TO LEGISLATURES OF STATES, AS AN AMENDMENT TO THE        
+   5    5 5 CONSTITUTION: THE JUDICIAL POWER OF THE UNITED STATES SHALL       
+   5    5 6 NOT BE CONSTRUED TO EXTEND TO ANY SUIT IN LAW OR EQUITY           
+   5    5 7 COMMENCED OR PROSECUTED AGAINST ONE OF THE UNITED STATES BY       
+   5    5 8 CITIZENS OF ANOTHER STATE OR FOREIGN COUNTRY.                     
+   6    6 1 A  - -32A     J 3-1-20       SJR       JAN. 16, 1794              
+   6    6 2 S031002       Y=13 N=12                BRADLEY, VT.               
+   6    6 3 TO AMEND S.J.R.1, A RESOLUTION FOR AN AMENDMENT TO THE            
+   6    6 4 CONSTITUTION, ADDING TO THE 9TH SECTION OF THE FIRST              
+   6    6 5 ARTICLE A PROVISION FORBIDDING THE HOLDING OF A SEAT IN           
+   6    6 6 CONGRESS BY ANY OFFICER OR STOCKHOLDER IN ANY BANK IN THE         
+   6    6 7 UNITED STATES, WHICH AMENDMENT FORBIDS ANY PERSON HOLDING         
+   6    6 8 OFFICE IN THE BANK OF THE UNITED STATES TO BE A MEMBER OF         
+   6    6 9 CONGRESS, BUT NO POWER TO GRANT ANY CHARTER OF INCORPORATION      
+   6    610 OR ANY COMMERCIAL OR OTHER MONOPLY, SHALL BE HEREBY IMPLIED.      
+   7    7 1 A  - -32B     J 3-1-21       SJR       JAN. 16, 1794              
+   7    7 2 S031003       Y=12 N=13                BRADLEY, VT.               
+   7    7 3 TO PASS THE AMENDED RESOLUTION, S.J.R.1, PROPOSING A              
+   7    7 4 CONSTITUTIONAL AMENDMENT TO PROVIDE THAT NO OFFICE HOLDER IN      
+   7    7 5 THE BANK OF THE UNITED STATES SHALL BE A MEMBER OF CONGRESS       
+   7    7 6 WHILE HE HOLDS SUCH OFFICE.                                       
+   8    8 1 A  - -33      J 3-1-22       SRE       JAN. 16, 1794              
+   8    8 2 S031004       Y=12 N=13                BUTLER, S.C.               
+   8    8 3 TO ORDER SECOND READING OF THE BILL TO AMEND THE ACT TO           
+   8    8 4 INCORPORATE THE SUBSCRIBERS TO THE BANK OF THE UNITED             
+   8    8 5 STATES.  (P. 33)                                                  
+   9    9 1 A  - -38      J 3-1-26       SRE       JAN. 24, 1794              
+   9    9 2 S031005       Y=13 N=11                                           
+   9    9 3 TO AGREE TO THE RESOLUTION TO REQUEST THE PRESIDENT TO LAY        
+   9    9 4 BEFORE THE SENATE, THE CORRESPONDENCES WHICH OCCURRED BE-         
+   9    9 5 TWEEN THE U.S. MINISTER TO FRANCE, AND SAID REPUBLIC              
+   9    9 6 AND BETWEEN SAID MINISTER AND THE SECRETARY OF STATE.             
+   9    9 7 (P. 38)                                                           
+  10   10 1 A  - -46A     J 3-1-33       SRE       FEB. 19, 1794              
+  10   10 2 S031006       Y=14 N=13                MARTIN, N.C.               
+  10   10 3 TO POSTPONE TO THE NEXT SESSION, THE RESOLUTION THAT IT BE        
+  10   10 4 A STANDING RULE TO HAVE THE DOORS OPEN WHILE THE SENATE SITS      
+  10   10 5 IN LEGISLATIVE AND JUDICIARY CAPACITY, EXCEPT ON OCCASIONS        
+  10   10 6 WHICH REQUIRE SECRECY.  (P. 46)                                   
+  11   11 1 A  - -46B     J 3-1-33B      SRE       FEB. 19, 1794              
+  11   11 2 S031007       Y=17 N=10                MARTIN, N.C.               
+  11   11 3 TO RECONSIDER THE SENATE CHAMBER RESOLUTION.                      
+  12   12 1 A  - -46C     J 3-1-33C      SRE       FEB. 20, 1794              
+  12   12 2 S031008       Y=18 N=9                 MARTIN, N.C.               
+  12   12 3 TO AMEND THE SENATE CHAMBERS RESOLUTION TO PROVIDE THAT THE       
+  12   12 4 GALLERIES BE OPENED EVERY MORNING EXCEPT UNDER CERTAIN            
+  12   12 5 CIRCUMSTANCES.                                                    
+  13   13 1 A  - -47      J 3-1-34       SRE       FEB. 20, 1794              
+  13   13 2 S031009       Y=19 N=8                 MARTIN, N.C.               
+  13   13 3 TO PASS THE SENATE CHAMBERS RESOLUTION.  (P. 47)                  
+  14   14 1 A  - -57A     J 3-1-37A      SRE       FEB. 28, 1794              
+  14   14 2 S031010       Y=12 N=14                RUTHERFURD, N.J.           
+  14   14 3 TO PASS THE RESOLUTION THAT ALBERT GALLATIN, RETURNED TO          
+  14   14 4 THIS HOUSE AS A MEMBER FROM PENNSYLVANIA, IS DULY QUALIFIED       
+  14   14 5 FOR AND ELECTED TO, A SEAT IN THE SENATE.  (P. 57A)               
+  15   15 1 A  - -57B     J 3-1-37B      SRE       FEB. 28, 1794              
+  15   15 2 S031011       Y=14 N=12                RUTHERFURD, N.J.           
+  15   15 3 TO AGREE TO THE FIRST PART OF THE GALLATIN RESOLUTION, THAT       
+  15   15 4 THE ELECTION OF ALBERT GALLATIN WAS VOID.                         
+  16   16 1 A  - -57C     J 3-1-37C      SRE       FEB. 28, 1794              
+  16   16 2 S031012       Y=14 N=12                RUTHERFURD, N.J.           
+  16   16 3 TO PASS THE AMENDED GALLATIN RESOLUTION.                          
+  17   17 1 A  - -66A     J 3-1-45A      S         MAR. 12, 1794              
+  17   17 2 S031013       Y=12 N=12                STRONG, MASS.              
+  17   17 3 TO AMEND S. 4, (APP. 6/5/1794, 1 STAT 381), AN ACT IN             
+  17   17 4 ADDITION TO THE ACT FOR THE PUNISHMENT OF CERTAIN CRIMES          
+  17   17 5 AGAINST THE UNITED STATES; BY STRIKING THE PROVISION              
+  17   17 6 FORBIDDING THE SALE, WITHIN THE UNITED STATES, OF ANY             
+  17   17 7 VESSEL OR GOODS CAPTURED FOR A PEACEFUL FOREIGN STATE.            
+  17   17 8 (VICE PRESIDENT VOTING IN THE NEGATIVE).                          
+  18   18 1 A  - -66B     J 3-1-45B      S         MAR. 12, 1794              
+  18   18 2 S031014       Y=12 N=12                STRONG, MASS.              
+  18   18 3 TO AMEND S. 4 TO FORBID THE SALE OF ANY VESSEL OR GOODS           
+  18   18 4 CAPTURED FROM A FOREIGN STATE. (VICE PRESIDENT VOTING IN THE      
+  18   18 5 AFFIRMATIVE).                                                     
+  19   19 1 A  - -66C     J 3-1-45C      S         MAR. 12, 1794              
+  19   19 2 S031015       Y=11 N=13                STRONG, MASS.              
+  19   19 3 TO AMEND S. 4 TO PROVIDE THAT THE BILL IS IN FORCE FOR SIX        
+  19   19 4 MONTHS.                                                           
+  20   20 1 A  - -67A     J 3-1-46A      S         MAR. 12, 1794              
+  20   20 2 S031016       Y=17 N=7                 STRONG, MASS.              
+  20   20 3 TO AMEND S. 4 TO PROVIDE THAT THIS BILL SHALL BE IN FORCE         
+  20   20 4 TWO YEARS.  (P. 67A)                                              
+  21   21 1 A  - -67B     J 3-1-46B      S         MAR. 12, 1794              
+  21   21 2 S031017       Y=12 N=12                STRONG, MASS.              
+  21   21 3 TO ORDER THIRD READING OF S. 4. (VICE PRESIDENT VOTING IN         
+  21   21 4 THE AFFIRMATIVE).                                                 
+  22   22 1 A  - -68A     J 3-1-47A      S         MAR. 13, 1794              
+  22   22 2 S031018       Y=12 N=12                STRONG, MASS.              
+  22   22 3 TO AMEND S. 4, BY STRIKING OUT THE SECTION CONCERNING             
+  22   22 4 DETAINMENT OF CERTAIN VESSELS BY THE PRESIDENT. (VICE             
+  22   22 5 PRESIDENT VOTING IN THE NEGATIVE).  (P. 68A)                      
+  23   23 1 A  - -68B     J 3-1-47B      S         MAR. 13, 1794              
+  23   23 2 S031019       Y=12 N=12                STRONG, MASS.              
+  23   23 3 TO PASS S. 4. (VICE PRESIDENT VOTING IN THE AFFIRMATIVE).         
+  24   24 1 A  - -73A     J 3-1-53A      SRE       MAR. 21, 1794              
+  24   24 2 S031020       Y=6 N=16                                            
+  24   24 3 TO PASS THE RESOLUTION TO APPOINT A SELECT COMMITTEE TO           
+  24   24 4 REPORT ON SETTLEMENT OF THE ACCOUNTS OF THE INDIVIDUAL            
+  24   24 5 STATES.  (P. 73A)                                                 
+  25   25 1 A  - -73B     J 3-1-53B      SRE       MAR. 24, 1794              
+  25   25 2 S031021       Y=13 N=12                BRADLEY, VT.               
+  25   25 3 TO REFER TO THE COMMITTEE OF ELECTIONS, THE APPOINTMENT OF        
+  25   25 4 KENSEY JOHNS, TO BE A UNITED STATES SENATOR, BY THE               
+  25   25 5 GOVERNOR OF DELAWARE.  (P. 73B)                                   
+  26   26 1 A  - -77      J 3-1-57       SRE       MAR. 28, 1794              
+  26   26 2 S031022       Y=20 N=7                 BRADLEY, VT.               
+  26   26 3 TO PASS THE RESOLUTION THAT KENSEY JOHNS, APPOINTED BY THE        
+  26   26 4 GOVERNOR OF DELAWARE AS A SENATOR, IS NOT ENTITLED TO A SEAT      
+  26   26 5 IN THE SENATE, FOR CERTAIN THEREIN MENTIONED REASONS.             
+  27   27 1 A  - -79      J 3-1-59       S         MAR. 31, 1794              
+  27   27 2 S031023       Y=13 N=8                 JACKSON, GA.               
+  27   27 3 TO PASS S. 8, (APP. 6/7/1794, 1 STAT 392), A BILL TO MAKE         
+  27   27 4 PROVISIONS FOR THE WIDOW AND CHILDREN OF ROBERT FORSYTH,          
+  27   27 5 KILLED IN THE SERVICE OF THE UNITED STATES.  (P. 79)              
+  28   28 1 A  - -84      J 3-1-65       HJR       APR. 18, 1794              
+  28   28 2 S031024       Y=17 N=10                                           
+  28   28 3 TO CONCUR IN THE AMENDED HOUSE JOINT RESOLUTION TO                
+  28   28 4 CONTINUE THE PRESENT EMBARGO ON SHIPS OR VESSELS IN THE           
+  28   28 5 PORTS OF THE UNITED STATES, BOUND TO ANY FOREIGN PLACE OR         
+  28   28 6 PORT.                                                             
+  29   29 1 A  - -86      J 3-1-67       HR        APR. 23, 1794              
+  29   29 2 S031025       Y=17 N=9                 KING, N.Y.                 
+  29   29 3 TO RECEDE FROM A SENATE AMENDMENT TO H.R. 13,                     
+  29   29 4 (APP. 5/8/1794, 1 STAT 354), A BILL TO ESTABLISH THE POST         
+  29   29 5 OFFICE AND POST ROADS WITHIN THE UNITED STATES.                   
+  30   30 1 A  - -87      J 3-1-68       SRE       APR. 24, 1794              
+  30   30 2 S031026       Y=13 N=15                                           
+  30   30 3 TO REFER THE RESOLUTION, THAT THE LETTER OF THE COMMITTEE OF      
+  30   30 4 PUBLIC SAFETY OF THE FRENCH REPUBLIC, BE TRANSMITTED TO THE       
+  30   30 5 PRESIDENT AND THAT HE BE REQUESTED TO CAUSE THE SAME TO BE        
+  30   30 6 ANSWERED, TO A COMMITTEE.                                         
+  31   31 1 A  - -88      J 3-1-68B      SRE       APR. 24, 1794              
+  31   31 2 S031027       Y=28 N=0                                            
+  31   31 3 TO AMEND THE RESOLUTION TO SEND THE LETTER OF THE COMMITTEE       
+  31   31 4 OF FRENCH PUBLIC SAFETY TO THE PRESIDENT WITH A REQUEST TO        
+  31   31 5 ANSWER IT, "ON BEHALF OF THE SENATE OF THE UNITED STATES."        
+  31   31 6 (P. 88)                                                           
+  32   32 1 A  - -89      J 3-1-70A      HR        APR. 28, 1794              
+  32   32 2 S031028       Y=11 N=14                                           
+  32   32 3 TO AGREE TO THE FIRST SECTION OF H.R. 40, A BILL REGARDING        
+  32   32 4 THE SUSPENSION OF IMPORTATION OF CERTAIN GOODS; SAID SECTION      
+  32   32 5 FORBIDS IMPORTATION OF ANY MERCHANDISE FROM GREAT BRITAIN         
+  32   32 6 AND IRELAND.                                                      
+  33   33 1 A  - -90      J 3-1-70B      HR        APR. 28, 1794              
+  33   33 2 S031029       Y=13 N=13                                           
+  33   33 3 TO ORDER THIRD READING OF H.R. 40, A BILL REGARDING THE           
+  33   33 4 SUSPENSION OF IMPORTATION OF CERTAIN GOODS. (VICE PRESIDENT       
+  33   33 5 VOTING IN THE NEGATIVE).                                          
+  34   34 1 A  - -94A     J 3-1-74A      SRE       MAY 6, 1794                
+  34   34 2 S031030       Y=12 N=7                 MONROE, VA.                
+  34   34 3 TO PUT THE MAIN QUESTION ON INTRODUCING A BILL PROVIDING,         
+  34   34 4 UNDER CERTAIN LIMITATIONS, FOR THE SUSPENSION OF THE FOURTH       
+  34   34 5 ARTICLE OF THE TREATY OF PEACE WITH GREAT BRITIAN.                
+  35   35 1 A  - -94B     J 3-1-         SRE       MAY 6, 1794                
+  35   35 2 S031031       Y=2 N=14                 MONROE, VA.                
+  35   35 3 TO ALLOW INTRODUCTION OF A BILL PROVIDING UNDER CERTAIN           
+  35   35 4 LIMITATIONS, FOR THE SUSPENSION OF THE 4TH ARTICLE OF THE         
+  35   35 5 TREATY OF PEACE BETWEEN THE UNITED STATES AND GREAT BRITIAN.      
+  36   36 1 A  - -96A     J 3-1-77A      S         MAY 9, 1794                
+  36   36 2 S031032       Y=7 N=16                 LIVERMORE, N.H.            
+  36   36 3 TO AMEND S. 11, (APP. 6/7/1794, 1 STAT 390), A BILL TO MAKE       
+  36   36 4 FURTHER PROVISION FOR THE PROTECTION OF THE FRONTIERS OF THE      
+  36   36 5 UNITED STATES, BY PAYING TO EACH PRIVATE SOLDIER, THE             
+  36   36 6 ADDITIONAL PAY OF $1 PER MONTH.  (P. 96A)                         
+  37   37 1 A  - -96B     J 3-1-77B      S         MAY 9, 1794                
+  37   37 2 S031033       Y=9 N=11                 LIVERMORE, N.H.            
+  37   37 3 TO AMEND S. 11, (APP. 6/7/1794, 1 STAT 390), A BILL TO MAKE       
+  37   37 4 FURTHER PROVISION FOR THE PROTECTION OF THE FRONTIERS; BY         
+  37   37 5 STRIKING FROM THE THIRD SECTION, THE PROVISION TO ALLOW THE       
+  37   37 6 PRESIDENT TO AUGMENT SOLDIERS RATIONS WHEN HE DEEMS               
+  37   37 7 NECESSARY.                                                        
+  38   38 1 A  - -98A     J 3-1-79A      PET       MAY 12, 1794               
+  38   38 2 S031034       Y=14 N=10                                           
+  38   38 3 TO READ THE RESOLUTIONS, FROM A MEETING OF THE                    
+  38   38 4 MANUFACTURERS OF THE CITY OF PHILADELPHIA, RESPECTING A           
+  38   38 5 FURTHER REVENUE TAX BY AN EXCISE UPON CERTAIN DOMESTIC            
+  38   38 6 MANUFACTURES, CONTEMPLATED BY THE HOUSE OF                        
+  38   38 7 REPRESENTATIVES.                                                  
+  39   39 1 A  - -98C     J 3-1-79B      PET       MAY 12, 1794               
+  39   39 2 S031035       Y=15 N=9                                            
+  39   39 3 TO PUT THE MAIN QUESTION ON THE MOTION TO DISMISS THE             
+  39   39 4 MANUFACTURES RESOLUTION.                                          
+  40   40 1 A  - -98B     J 3-1-79C      PET       MAY 12, 1794               
+  40   40 2 S031036       Y=15 N=9                                            
+  40   40 3 TO DISMISS THE MANUFACTURES RESOLUTION.                           
+  41   41 1 A  - -103     J 3-1-84       HJR       MAY 21, 1794               
+  41   41 2 S031037       Y=9 N=11                                            
+  41   41 3 TO REFER TO A SELECT COMMITTEE, H.J.R. 7, A RESOLUTION TO         
+  41   41 4 FURNISH THE EXECUTIVES OF THE SEVERAL STATES WITH A COPY OF       
+  41   41 5 A BOOK, DEPOSITED IN THE TREASURY DEPARTMENT BY THE               
+  41   41 6 COMMISSIONERS WHO SETTLED THE ACCOUNTS BETWEEN THE                
+  41   41 7 INDIVIDUAL STATES AND THE UNITED STATES.                          
+  42   42 1 A  - -105     J 3-1-86       HJR       MAY 22, 1794               
+  42   42 2 S031038       Y=5 N=15                                            
+  42   42 3 TO CONCUR IN THE AMENDED VERSION OF H.J.R. 7, A RESOLUTION        
+  42   42 4 TO FURNISH THE EXECUTIVES OF THE STATES WITH A COPY OF A          
+  42   42 5 CERTAIN BOOK RELATED TO STATE DEBTS; WHICH AMENDMENT ADDS         
+  42   42 6 AFTER "SEVERAL STATES", THE WORDS "AT THEIR OWN EXPENSE".         
+  43   43 1 A  - -106A    J 3-1-87A      S         MAY 23, 1794               
+  43   43 2 S031039       Y=10 N=9                 JACKSON, GA.               
+  43   43 3 TO AGREE TO THE FIRST SECTION OF S. 15, (APP. 6/5/1794), A        
+  43   43 4 BILL TO AUTHORIZE THE PRESIDENT, DURING CONGRESSIONAL RECESS      
+  43   43 5 TO OBTAIN A NUMBER OF VESSELS FOR THE SERVICE OF THE UNITED       
+  43   43 6 STATES; FIRST SECTION TO SPECIFY WHEN PRESIDENT MAY               
+  43   43 7 EXERCISE THIS POWER.  (P. 106A)                                   
+  44   44 1 A  - -106B    J 3-1-87B      S         MAY 23, 1794               
+  44   44 2 S031040       Y=11 N=8                 JACKSON, GA.               
+  44   44 3 TO AMEND S. 15, (APP. 6/5/1794), A BILL TO AUTHORIZE THE          
+  44   44 4 PRESIDENT, DURING CONGRESSIONAL RECESS, TO OBTAIN A NUMBER        
+  44   44 5 OF VESSELS FOR THE SERVICE OF THE UNITED STATES, BY               
+  44   44 6 APPROPRIATING $150,000 FROM PROCEEDS OF UNITED STATES             
+  44   44 7 REVENUES, AND TO AUTHORIZE THE PRESIDENT TO MAKE A LOAN FOR       
+  44   44 8 $150,000.                                                         
+  45   45 1 A  - -109A    J 3-1-90       HR        MAY 26, 1794               
+  45   45 2 S031041       Y=9 N=11                 CABOT, MASS.               
+  45   45 3 TO AGREE TO THE AMENDMENT OF THE SELECT COMMITTEE TO H.R. 39      
+  45   45 4 (APP. 5/31/1794), A BILL TO MAKE PROVISIONS FOR THE PAYMENT       
+  45   45 5 OF INTEREST ON THE BALANCE DUE TO CERTAIN STATES UPON FINAL       
+  45   45 6 SETTLEMENT OF THE ACCOUNTS BETWEEN THE UNITED STATES AND THE      
+  45   45 7 INDIVIDUAL STATES.                                                
+  46   46 1 A  - -109B    J 3-1-91A      HR        MAY 27, 1794               
+  46   46 2 S031042       Y=5 N=13                 CABOT, MASS.               
+  46   46 3 TO RECOMMIT H.R. 39 TO THE SELECT COMMITTEE WITH                  
+  46   46 4 INSTRUCTIONS TO REPORT AN AMENDMENT CARRYING INTO EFFECT AN       
+  46   46 5 ASSUMPTION OF THE DOMESTIC DEBTS OF THE CREDITOR STATES.          
+  47   47 1 A  - -110     J 3-1-91B      HR        MAY 27, 1794               
+  47   47 2 S031043       Y=9 N=11                 CABOT, MASS.               
+  47   47 3 TO AMEND H.R. 39, BY STRIKING OUT THE FIRST SECTION WHICH         
+  47   47 4 DEFINES THE INTEREST SCHEDULE.                                    
+  48   48 1 A  - -111A    J 3-1-92A      S         MAY 28, 1794               
+  48   48 2 S031044       Y=8 N=12                 POTTS, MD.                 
+  48   48 3 TO AMEND S. 18, A BILL TO INCREASE THE MILITARY POWER OF THE      
+  48   48 4 UNITED STATES, AND TO ENCOURAGE THE RECRUITING SERVICE; BY        
+  48   48 5 STRIKING OUT THE SECTION TO AUTHORIZE THE PRESIDENT TO            
+  48   48 6 RAISE ADDITIONAL MILITARY FORCE, AS CIRCUMSTANCES PERMIT.         
+  49   49 1 A  - -111B    J 3-1-92B      HR        MAY 28, 1794               
+  49   49 2 S031045       Y=8 N=12                 CABOT, MASS.               
+  49   49 3 TO POSTPONE H.R. 39, UNTIL THE NEXT SESSION.                      
+  50   50 1 A  - -113A    J 3-1-94A      S         MAY 29, 1794               
+  50   50 2 S031046       Y=7 N=13                 POTTS, MD.                 
+  50   50 3 TO AMEND S. 18, BY RESTORING THE SECTION WHICH ALLOWS EACH        
+  50   50 4 NON-COMMISSIONED OFFICER, MUSICIAN AND PRIVATE, A RAISE OF        
+  50   50 5 $1 PER MONTH.  (P. 113A)                                          
+  51   51 1 A  - -113B    J 3-1-94B      S         MAY 29, 1794               
+  51   51 2 S031047       Y=12 N=                  POTTS, MD.                 
+  51   51 3 TO PASS S. 18.                                     ***************
+  52   52 1 A  - -114     J 3-1-95       HR        MAY 30, 1794               
+  52   52 2 S031048       Y=14 N=5                 KING, N.Y.                 
+  52   52 3 TO AMEND H.R. 30, (APP. 6/4/1794, 1 STAT 372), A BILL TO          
+  52   52 4 AUTHORIZE THE PRESIDENT TO LAY, REGULATE AND REVOKE               
+  52   52 5 EMBARGOES; SAID AMENDMENT WOULD RESTRICT THE PRESIDENT'S          
+  52   52 6 AUTHORITY WHILE CONGRESS IS IN SESSION.                           
+  53   53 1 A  - -116     J 3-1-98       HR        JUNE 2, 1794               
+  53   53 2 S031049       Y=7 N=13                 ELLSWORTH, CONN.           
+  53   53 3 TO AMEND H.R. 20, (APP. 6/5/1794, 1 STAT 373), A BILL TO LAY      
+  53   53 4 CERTAIN DUTIES ON SNUFF AND SUGAR, BY STRIKING OUT THE            
+  53   53 5 SECTIONS TO PROVIDE A DUTY OF 8 CENTS PER POUND ON SNUFF AND      
+  53   53 6 A DUTY OF TWO CENTS PER POUND ON SUGAR.  (P. 116)                 
+  54   54 1 A  - -120     J 3-1-101      HR        JUNE 4, 1794               
+  54   54 2 S031050       Y=12 N=8                 ELLSWORTH, CONN.           
+  54   54 3 TO PASS H.R. 55, (APP. 6/4/1794, 1 STAT 372), A BILL TO LAY       
+  54   54 4 DUTIES UPON CARRIAGES FOR THE CONVEYANCE OF PERSONS.              
+  55   55 1 A  - -124A    J 3-1-106      HR        JUNE 5, 1794               
+  55   55 2 S031051       Y=16 N=3                 KING, N.Y.                 
+  55   55 3 TO ADOPT THE COMMITTEE REPORT TO AMEND H.R. 49, A BILL FOR        
+  55   55 4 THE MORE EFFECTUAL PROTECTION OF THE SOUTHWESTERN FRONTIER        
+  55   55 5 SETTLERS; SAID AMENDMENT TO STRIKE OUT THE SECTIONS               
+  55   55 6 AUTHORIZING THE PRESIDENT TO CALL OUT THE MILITIA AGAINST         
+  55   55 7 THE CREEK AND CHEROKEE INDIANS, ESTABLISHING CERTAIN              
+  55   55 8 MILITARY POSTS; AND THAT THE MILITIA RECEIVE THE SAME RATE        
+  55   55 9 OF PAY AS REGULAR UNITED STATES TROOPS.                           
+  56   56 1 A  - -124B    J 3-1-106B     HR        JUNE 5, 1794               
+  56   56 2 S031052       Y=13 N=4                 KING, N.Y.                 
+  56   56 3 TO ADOPT THE SELECT COMMITTEE REPORT TO AMEND H.R. 49, BY         
+  56   56 4 AUTHORIZING THE PRESIDENT TO RAISE, FOR 3 YEARS, AN               
+  56   56 5 ADDITIONAL REGIMENT, WITH CERTAIN STIPULATIONS.  (P. 124B)        
+  57   57 1 A  - -125     J 3-1-107      HR        JUNE 5, 1794               
+  57   57 2 S031053       Y=7 N=10                 KING, N.Y.                 
+  57   57 3 TO AMEND H.R. 49, BY STRIKING OUT THE SECTION REGARDING           
+  57   57 4 HOSTILITIES AGAINST INDIANS AND RULES OF WAR.  (P. 125)           
+  58   58 1 A  - -130     J 3-1-112      HR        JUNE 7, 1794               
+  58   58 2 S031054       Y=7 N=12                 CABOT, MASS.               
+  58   58 3 TO CONSIDER EACH PARAGRAPH OF H.R. 57, A BILL TO PROVIDE FOR      
+  58   58 4 THE PAYMENT OF A CERTAIN SUM OF MONEY DUE TO THE FRENCH           
+  58   58 5 REPUBLIC.                                                         
+  59   59 1 A  - -131     J 3-1-114      HR        JUNE 9, 1794               
+  59   59 2 S031055       Y=15 N=4                 KING, N.Y.                 
+  59   59 3 TO AMEND H.R. 49, BY ADDING STIPULATIONS TO THE PROVISION         
+  59   59 4 AUTHORIZING THE PRESIDENT TO RAISE AN ADDITIONAL REGIMENT.        
+  59   59 5 (P. 131)                                                          
+  60   60 1 A  - -132     J 3-1-115      HR        JUNE 9, 1794               
+  60   60 2 S031056       Y=8 N=11                 JACKSON, GA.               
+  60   60 3 TO POSTPONE CONSIDERATION OF THE LAST SECTION OF H.R. 49.         
+  61   61 1 A  - -802     J 3-2-135      HR        DEC. 18, 1794              
+  61   61 2 S032001       Y=9 N=14                 HAWKINS, N.C.              
+  61   61 3 TO AMEND H.R. 74, (APP. 1/2/1795, 1 STAT 408), A BILL TO          
+  61   61 4 REGULATE THE PAY OF THE NON-COMMISSIONED OFFICERS,                
+  61   61 5 MUSICIANS, AND PRIVATES OF THE MILITIA, WHEN CALLED INTO          
+  61   61 6 ACTUAL SERVICE, AND FOR OTHER PURPOSES, BY STRIKING OUT THE       
+  61   61 7 SECTION REGARDING ADDITIONAL COMPENSATION TO MEMBERS OF THE       
+  61   61 8 MILITIA ON AN EXPEDITION TO FORT PITT.                            
+  62   62 1 A  - -803A    J 3-2-136A     HR        DEC. 19, 1794              
+  62   62 2 S032002       Y=4 N=17                 HAWKINS, N.C.              
+  62   62 3 TO AMEND H.R. 74, BY INCLUDING IN THE EXTRA COMPENSATION,         
+  62   62 4 ANOTHER CATEGORY OF MEMBERS OF THE MILITIA.                       
+  63   63 1 A  - -803B    J 3-1-136B     HR        DEC. 19, 1794              
+  63   63 2 S032003       Y=15 N=6                 HAWKINS, N.C.              
+  63   63 3 TO PASS H.R. 74.                                                  
+  64   64 1 A  - -812     J 3-1-145      HR        JAN. 16, 1795              
+  64   64 2 S032004       Y=13 N=11                KING, N.Y.                 
+  64   64 3 TO AMEND H.R. 83, (APP. 1/29/1795 1 STAT 414), A BILL TO          
+  64   64 4 ESTABLISH A UNIFORM RULE OF NATURALIZATION, AND TO REPEAL         
+  64   64 5 THE ACT HERETOFORE PASSED ON THAT SUBJECT; BY PROVIDING THAT      
+  64   64 6 ANY ALIEN, BEING A FREE WHITE PERSON, MAY BE ADMITTED TO          
+  64   64 7 BECOME A CITIZEN OF ANY OF THE UNITED STATES.  (P. 812)           
+  65   65 1 A  - -813     J 3-1-147      HR        JAN. 21, 1795              
+  65   65 2 S032005       Y=10 N=13                CABOT, MASS.               
+  65   65 3 TO AMEND H.R. 76, (APP. 1/29/1795, 1 STAT 411), A BILL TO         
+  65   65 4 MAKE FURTHER PROVISIONS IN CASES OF DRAWBACKS; BY STRIKING        
+  65   65 5 THE THIRD SECTION REGARDING TRANSFER OF LIQUORS, COFFEE, AND      
+  65   65 6 UNREFINED SUGARS FROM DAMAGED CONTAINERS TO NEW CONTAINERS.       
+  65   65 7 (P. 813)                                                          
+  66   66 1 A  - -820A    J 3-1-153      HR        FEB. 4, 1795               
+  66   66 2 S032006       Y=15 N=8                 BRADLEY, VT.               
+  66   66 3 TO AMEND H.R. 98, (APP. 2/21/1795, 1 STAT 418), AN ACT            
+  66   66 4 SUPPLEMENTARY TO THE ACT CONCERNING INVALIDS, BY STRIKING         
+  66   66 5 OUT THE LAST SECTION AND INSERTING A PROVISION FORBIDDING         
+  66   66 6 THE RECEIVING OF PENSIONS BY OFFICERS RECEIVING COMMUTATION       
+  66   66 7 OF HALF PAY EXCEPT IN CERTAIN CASES.  (P. 820A)                   
+  67   67 1 A  - -820B    J 3-2-154      HR        FEB. 4, 1795               
+  67   67 2 S032007       Y=15 N=8                 BRADLEY, VT.               
+  67   67 3 TO AGREE TO THE LAST SECTION OF H.R. 98, AS AMENDED, WHICH        
+  67   67 4 SECTION FORBIDS THE RECEIVING OF PENSIONS BY OFFICERS             
+  67   67 5 RECEIVING COMMUTATION OF HALF PAY, EXCEPT IN CERTAIN CASES.       
+  68   68 1 A  - -824     J 3-2-157      HR        FEB. 12, 1795              
+  68   68 2 S032008       Y=11 N=M                 BRADLEY, VT.               
+  68   68 3 TO PASS H.R. 98.                                                  
+  69   69 1 A  - -833     J 3-2-166      HR        FEB. 23, 1795              
+  69   69 2 S032009       Y=17 N=5                 BURR, N.Y.                 
+  69   69 3 TO ORDER THIRD READING OF H.R. 119,                               
+  69   69 4 (APP. 2/27/1795, 6 STAT 19), A BILL AUTHORIZING THE PAYMENT       
+  69   69 5 OF $4,000 FOR THE DAUGHTERS OF THE LATE COUNT DE GRASSE.          
+  70   70 1 A  - -836A    J 3-2-169      S         FEB. 25, 1795              
+  70   70 2 S032010       Y=9 N=15                 POTTS, MD.                 
+  70   70 3 TO AMEND S. 34, (APP. 3/3/1795, 1 STAT 442), A BILL TO            
+  70   70 4 AUTHORIZE A GRANT OF LANDS TO THE FRENCH INHABITANTS OF           
+  70   70 5 GALLIOPOLIS, AND FOR OTHER PURPOSES; BY STRIKING OUT THE          
+  70   70 6 FIRST SECTION AUTHORIZING THE PRESIDENT TO GRANT TO CERTAIN       
+  70   70 7 NAMED INDIVIDUALS, 2400 ACRES OF LAND.  (P. 836A)                 
+  71   71 1 A  - -836B    J 3-2-170      S         FEB. 25, 1795              
+  71   71 2 S032011       Y=11 N=5                 KING, N.Y.                 
+  71   71 3 TO ORDER THIRD READING OF S. 30, A BILL TO PREVENT                
+  71   71 4 DEPREDATIONS ON THE INDIANS SOUTH OF THE OHIO RIVER.              
+  72   72 1 A  - -837     J 3-1-171      S         FEB. 27, 1795              
+  72   72 2 S032012       Y=12 N=M                 KING, N.Y.                 
+  72   72 3 TO PASS S. 30, A BILL TO PREVENT DEPREDATIONS ON THE              
+  72   72 4 INDIANS SOUTH OF THE OHIO RIVER.                                  
+  73   73 1 A  - -840     J 3-2-174      HR        FEB. 27, 1795              
+  73   73 2 S032013       Y=15 N=9                 ELLSWORTH, CONN.           
+  73   73 3 TO AMEND H.R. 110, (APP. 3/3/1795, 1 STAT 433), A BILL FOR        
+  73   73 4 THE SUPPORT OF THE PUBLIC CREDIT, AND FOR THE REDEMPTION OF       
+  73   73 5 THE PUBLIC DEBT; BY STRIKING OUT FROM THE SECOND SECTION          
+  73   73 6 "MAY BE REIMBURSED AT ANY TIME" AND INSERT "SHALL BE              
+  73   73 7 REIMBURSED WITHIN TWENTY YEARS AND MAY BE REIMBURSED AT ANY       
+  73   73 8 TIME AFTER THE EXPIRATION OF TWELVE YEARS."                       
+  74   74 1 A  - -841     J 3-2-175      S         FEB. 28, 1795              
+  74   74 2 S032014       Y=14 N=8                 BURR, N.Y.                 
+  74   74 3 TO PASS S. 34, (APP. 3/3/1795, 1 STAT 442), A BILL TO             
+  74   74 4 AUTHORIZE A GRANT OF LANDS TO THE FRENCH INHABITANTS OF           
+  74   74 5 GALLIOPOLIS, AND FOR OTHER PURPOSES.                              
+  75   75 1 A  - -843     J 3-2-176      HR        FEB. 28, 1795              
+  75   75 2 S032015       Y=21 N=1                 ELLSWORTH, CONN.           
+  75   75 3 TO PASS H.R. 110, (APP. 3/3/1795, 1 STAT 433), A BILL FOR         
+  75   75 4 THE SUPPORT OF THE PUBLIC CREDIT AND REDEMPTION OF THE            
+  75   75 5 PUBLIC DEBT.                                                      
+  76   76 1 A  - -846     J 3-2-178      HR        FEB. 28, 1795              
+  76   76 2 S032016       Y=15 N=6                 FOSTER, R.I.               
+  76   76 3 TO PASS H.R. 113, (APP. 3/3/1795, 1 STAT 433), A BILL FOR         
+  76   76 4 THE MORE EFFECTUAL RECOVERY OF DEBTS DUE FROM INDIVIDUALS TO      
+  76   76 5 THE UNITED STATES.                                                
+  77   77 1 A  - -849     J 3-2-181      HR        MAR. 2, 1795               
+  77   77 2 S032017       Y=16 N=6                                            
+  77   77 3 TO DISPENSE WITH THE RULES AND ORDER SECOND READING OF            
+  77   77 4 H.R. 114, A BILL TO LAY DUTIES ON CARRIAGES FOR THE               
+  77   77 5 CONVEYANCE OF PERSONS, AND TO REPEAL THE FORMER ACT FOR           
+  77   77 6 **MISSING TEXT**                                                  
+  78   78 1 J             J 3-2-182      HR        MAR. 2, 1795               
+  78   78 2 S032018       Y=18 N=3                 JACKSON, GA.               
+  78   78 3 TO ORDER THIRD READING OF H.R. 124,                               
+  78   78 4 (APP. 3/3/1795, 1 STAT 443, A BILL TO MAKE PROVISIONS FOR    S    
+  78   78 5 THE PURPOSES OF A TREATY AND TRADE WITH THE INDIANS.              
+  79   79 1 A  - -851     J 3-2-183      SJR       MAR. 3, 1795               
+  79   79 2 S032019       Y=19 N=2                 KING, N.Y.                 
+  79   79 3 TO AGREE TO SENATE JOINT RESOLUTION 5, RELATIVE TO THE            
+  79   79 4 TITLE OF CERTAIN LANDS SITUATED IN THE SOUTHWESTERN PARTS OF      
+  79   79 5 THE UNITED STATES.                                                

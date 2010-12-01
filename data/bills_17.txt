@@ -1,0 +1,558 @@
+   1   26 1 A-38- -155    J 17-1-90      S         JAN. 24, 1822              
+   1   26 2 S171001       Y=8 N=36                 CHANDLER, ME.              
+   1   26 3 TO AMEND THE SENATE BILL TO GRANT TO THE GOVERNOR OF              
+   1   26 4 LOUISIANA AND HIS SUCESSORS IN OFFICE TWO TRACTS OF LAND IN       
+   1   26 5 THE COUNTY OF POINT COUPEE, BY ELIMINATING THE SECOND SEC-        
+   1   26 6 TION WHICH CONVEYS TO THE GOVERNOR ALL THE RIGHTS OF THE          
+   1   26 7 UNITED STATES IN A TRACT OF LAND IN THE COUNTY OF POINT           
+   1   26 8 COUPEE, STATE OF LOUSIANA, BEING THE SAME ON WHICH THE            
+   1   26 9 GREAT LEVEE IS SITUATED, IN TRUST FOR THE PEOPLE OF SAID          
+   1   2610 COUNTY FOR THE PURPOSE OF ENABLING THEM TO REPAIR AND KEEP        
+   1   2611 UP THE SAID LEVEE.  (P. 15521)                                    
+   2   27 1 A-38- -164    J 17-1-99      S         JAN. 29, 1822              
+   2   27 2 S171002       Y=34 N=7                 JOHNSON, LA.               
+   2   27 3 TO PASS THE SENATE BILL GRANTING TO THE GOVERNOR OF THE           
+   2   27 4 STATE OF LOUISIANA FOR THE TIME BEING, AND HIS SUCESSORS IN       
+   2   27 5 OFFICE, TWO TRACTS OF LAND IN THE COUNTY POINT COUPEE.            
+   2   27 6 (P.164-1)                                                         
+   3    1 1               EX J 3-271     SRE       FEB. 1, 1822               
+   3    1 2 E171001       Y=42 N=0                 KING, N. Y.                
+   3    1 3 TO RATIFY THE RESOLUTION (8 STAT. 244, 2/11/1822), PROVIDING      
+   3    1 4 THAT THE SENATE ADVISE AND CONSENT TO THE RATIFICATION OF         
+   3    1 5 THE TREATY OF PEACE AND AMITY BETWEEN THE UNITED STATES AND       
+   3    1 6 THE BEY AND REGENCY OF ALGIERS, MADE AND CONCLUDED ON DEC.        
+   3    1 7 23, 1816.                                                         
+   4   28 1 A-38- -203    J 17-1-129     S         FEB. 14, 1822              
+   4   28 2 S171003       Y=29 N=16                TALBOT, KY.                
+   4   28 3 TO REFER TO COMMITTEE ON PUBLIC LANDS THE SENATE BILL CON-        
+   4   28 4 FIRMING THE TITLE OF THE MARQUIS DEMAISON ROUGE; WITH INSTR-      
+   4   28 5 UCTION TO PREPARE AND REPORT A BILL PROVIDING FOR THE AD-         
+   4   28 6 JUDICATION OF THIS CLAIM BY THE REGULAR JUDICIAL TRIBUNALS        
+   4   28 7 OF THE U. S.  (P.204-1)                                           
+   5   29 1 A-38- -219    J 17-1-137     HR        FEB. 19, 1822              
+   5   29 2 S171004       Y=37 N=8                 SMITH, S. C.               
+   5   29 3 TO AGREE TO THE AMENDMENT AS AMENDED, TO THE HOUSE BILL           
+   5   29 4 (3 STAT. 651, 3/7/1822), FOR THE APPORTIONMENT OF REPRESENT-      
+   5   29 5 ATIVES TO CONGRESS AMONG THE SEVERAL STATES ACCORDING TO THE      
+   5   29 6 FOURTH CENSUS; WHICH AMENDMENT PROVIDES THAT THE STATE OF         
+   5   29 7 ALABAMA, ALTHOUGH ITS RETURNS ARE NOT COMPLETE, SHALL HAVE        
+   5   29 8 THREE REPRESENTATIVES, IF IT APPEARS THEY ARE ENTITLED TO         
+   5   29 9 SAME ACCORDING TO THEIR POPULATION AND RATIO HEREBY ESTAB-        
+   5   2910 LISHED.  (P.214)                                                  
+   6   30 1 A-38- -220A   J 17-1-138A    HR        FEB. 19, 1822              
+   6   30 2 S171005       Y=25 N=20                SMITH, S. C.               
+   6   30 3 TO AGREE TO THE SECOND AMENDMENT TO APPORTIONMENT BILL,           
+   6   30 4 WHICH AMENDMENT ELIMINATES 40,000 AND PROVIDES IN LIEU            
+   6   30 5 THEREOF 42,000 AS BEING THE NUMBER OF POPULATION NECESSARY        
+   6   30 6 TO ENTITLE STATES TO ONE REPRESENTATIVE; ON A DIVISION CAL-       
+   6   30 7 LED FOR, THE VOTE BEING TO ELIMINATE 40,000.  (P.219, 220)        
+   7   31 1 A-38- -220B   J 17-1-138B    HR        FEB. 19, 1822              
+   7   31 2 S171006       Y=13 N=32                SMITH, S. C.               
+   7   31 3 TO AMEND APPORTIONMENT BILL BY ELIMINATING 40,000 AND PRO-        
+   7   31 4 VIDES IN LIEU THEROF 42,000 AS BEING THE NUMBER OF POPULA-        
+   7   31 5 TION NECESSARY TO ENTITLE STATES TO ONE REPRESENTATIVE; ON        
+   7   31 6 A DIVISION CALLED FOR, THE VOTE BEING TO FIX THE RATIO AT         
+   7   31 7 42,000.  (P.220)                                                  
+   8   32 1 A-38- -220C   J 17-1-139     HR        FEB. 19, 1822              
+   8   32 2 S171007       Y=21 N=25                HOLMES, ME.                
+   8   32 3 TO RECONSIDER PASSAGE OF THE AMENDMENT TO THE APPORTIONMENT       
+   8   32 4 BILL, WHICH AMENDMENT PROVIDES THAT 40,000 BE ELIMINATED AS       
+   8   32 5 THE NUMBER OF POPULATION NECESSARY TO ENTITLE STATES TO ONE       
+   8   32 6 REPRESENTATIVE.  (P.220, 221)                                     
+   9   33 1 A-38- -221    J 17-1-140     HR        FEB. 19, 1822              
+   9   33 2 S171008       Y=27 N=19                SMITH, S. C.               
+   9   33 3 TO ORDER ENGROSSMENT AND THIRD READING OF APPORTIONMENT           
+   9   33 4 BILL.  (P.221)                                                    
+  10    2 1               EX J 3-274     SRE       FEB. 20, 1822              
+  10    2 2 E171002A      Y=14 N=26                SMITH, S. C.               
+  10    2 3 TO CONSENT TO THE NOMINATION OF WILLIAM B. IRISH AS MARSHAL       
+  10    2 4 FOR THE WESTERN DISTRICT OF PENNSYLVANIA.                         
+  11   34 1 A-38- -223    J 17-1-143     HR        FEB. 20, 1822              
+  11   34 2 S171009       Y=26 N=19                SMITH, S. C.               
+  11   34 3 TO PASS APPORTIONMENT BILL.  (P.223)                              
+  12   35 1 A-38- -229    J 17-1-150     S         FEB. 22, 1822              
+  12   35 2 S171010       Y=21 N=22                                           
+  12   35 3 TO AMEND THE SENATE BILL (3 STAT. 707, 5/8/1822), SUPPLE-         
+  12   35 4 MENTARY TO THE SEVERAL ACTS FOR ADJUSTING THE CLAIMS TO LAND      
+  12   35 5 AND ESTABLISHING LAND OFFICES IN THE DISTRICTS EAST OF THE        
+  12   35 6 ISLAND OF NEW ORLEANS, LA., BY STRIKING OUT THE 4TH SECTION       
+  12   35 7 PROVIDING THAT ANY SETTLER NOT HAVING ANY WRITTEN EVIDENCE        
+  12   35 8 OF CLAIM TO LAND IN SAID DISTRICT SHALL BE ENTITLED TO A          
+  12   35 9 PREFERENCE TO PURCHASE AT PRIVATE SALE FROM THE UNITED            
+  12   3510 STATES.  (P.228)                                                  
+  13   36 1 A-38- -276    J 17-1-167     S         MAR. 5, 1822               
+  13   36 2 S171011       Y=19 N=25                WALKER, ALA.               
+  13   36 3 TO AMEND THE SENATE BILL (3 STAT. 750, 3/3/1823), ESTABLISH-      
+  13   36 4 ING A GOVERNMENT FOR THE TERRITORY OF FLORIDA, BY ADDING A        
+  13   36 5 CERTAIN TRACT OF LAND TO THE TERRITORY OF ALABAMA.  (P.275)       
+  14   37 1 A-38- -277    J 17- -169     S         MAR. 6, 1822               
+  14   37 2 S171012       Y=23 N=20                KING, ALA.                 
+  14   37 3 TO CONCUR IN AMENDMENT TO THE SENATE BILL (3 STAT. 750,           
+  14   37 4 3/3/1823), ESTABLISHING A GOVERNMENT FOR THE TERRITORY OF         
+  14   37 5 FLORIDA WHICH AMENDMENT ELIMINATES THE PROVISION "THAT NO         
+  14   37 6 SLAVES BE INTRODUCED INTO SAID TERRIOTORY EXCEPT BY A U. S.       
+  14   37 7 CITIZEN SETTLING IN THE TERRITORY."  (P. 277)                     
+  15   38 1 A-38- -280    J 17-1-174     S         MAR. 8, 1822               
+  15   38 2 S171014       Y=26 N=18                THOMAS, ILL.               
+  15   38 3 TO AMEND THE SENATE BILL (3 STAT. 707, 3/8/1822), SUPPLEMEN-      
+  15   38 4 TARY TO THE SEVERAL ACTS FOR ADJUSTING THE CLAIMS TO LAND,        
+  15   38 5 AND ESTABLISH LAND OFFICES IN THE DISTRICTS EAST OF THE           
+  15   38 6 ISLAND OF NEW ORLEANS, BY STRIKING OUT THE PROVISION THAT         
+  15   38 7 ANY INHABITANT NOT HAVING WRITTEN EVIDENCE OF CLAIM TO LAND       
+  15   38 8 IN SAID DISTRICT, SHALL BE ENTITLED TO A PREFERENCE IN PUR-       
+  15   38 9 CHASING AT PRIVATE SALE FROM THE U. S..  (P.280)                  
+  16   39 1 A-38- -281A   J 17-1-175     S         MAR. 8, 1822               
+  16   39 2 S171015       Y=18 N=26                BARTON, MO.                
+  16   39 3 TO AMEND THE SENATE BILL (3 STAT. 707, 5/8/1822), BY SUPPLE-      
+  16   39 4 MENTARY TO THE SEVERAL ACTS FOR ADJUSTING THE CLAIMS TO LAND      
+  16   39 5 AND ESTABLISHING LAND OFFICES IN THE DISTRICT EAST OF THE         
+  16   39 6 ISLAND OF NEW ORLEANS, BY INSERTING IN LIEU OF SECTION 4, A       
+  16   39 7 PROVISION THAT ANY INHABITANT NOT HAVING ANY WRITTEN EVI-         
+  16   39 8 DENCE OF CLAIM TO LAND IN SAID DISTRICT, SHALL BE ENTITLED        
+  16   39 9 TO A PREFERENCE IN PURCHASING AT PRIVATE SALE FROM THE U. S.      
+  16   3910 (P.280)                                                           
+  17   40 1 A-38- -281B   J 17-1-173     SRE       MAR. 8, 1822               
+  17   40 2 S171016       Y=27 N=12                DICKERSON, N. J.           
+  17   40 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE RESOLUTION,         
+  17   40 4 PROPOSING AN AMENDMENT TO THE CONSTITUTION OF THE UNITED          
+  17   40 5 STATES IN REFERENCE TO THE ELECTION OF ELECTORS OF THE            
+  17   40 6 PRESIDENT AND VICE PRESIDENT AND REPRESENTATIVES IN               
+  17   40 7 CONGRESS.  (P.281)                                                
+  18   41 1 A-38- -283    J 17-1-177     SRE       MAR. 11, 1822              
+  18   41 2 S171017       Y=29 N=11                DICKERSON, N. J.           
+  18   41 3 TO ADOPT THE RESOLUTION PROPOSING AN AMENDMENT TO THE             
+  18   41 4 CONSTITUTION IN REFERENCE TO THE ELECTION OF ELECTORS OF THE      
+  18   41 5 PRESIDENT AND VICE PRESIDENT AND REPRESENTATIVES IN               
+  18   41 6 CONGRESS.  (P.283)                                                
+  19   42 1 A-38- -284    J 17-1-179     SRE       MAR. 11, 1822              
+  19   42 2 S171018       Y=37 N=3                 LANMAN, CONN.              
+  19   42 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE RESOLUTION          
+  19   42 4 AUTHORIZING THE ERECTION OF A MONUMENT OVER THE TOMB OF THE       
+  19   42 5 HONORABLE JAMES BURRILL, FORMERLY A SENATOR FROM RHODE            
+  19   42 6 ISLAND, AT A COST NOT EXCEEDING $170.  (P.284)                    
+  20   43 1 A-38- -286    J 17-1-183     SRE       MAR. 11, 1822              
+  20   43 2 S171019       Y=22 N=11                HOLMES, ME.                
+  20   43 3 TO POSTPONE INDEFINITELY THE RESOLUTION PROPOSING A CONSTI-       
+  20   43 4 TUTIONAL AMENDMENT TO PREVENT THE NUMBER OF THE REPRESENT-        
+  20   43 5 ATIVES IN THE HOUSE FROM EXCEEDING TWO HUNDRED (200).             
+  21   44 1 A-38- -288    J 17-1-187     S         MAR. 12, 1822              
+  21   44 2 S171020       Y=11 N=29                TALBOT, KY.                
+  21   44 3 TO POSTPONE INDEFINITELY CONSIDERATION OF THE SENATE BILL         
+  21   44 4 AMENDING THE CHARTER OF THE BANK OF THE U. S..  (P.288)           
+  22   45 1 A-38- -290A   J 17-1-190A    S         MAR. 13, 1822              
+  22   45 2 S171021       Y=31 N=5                 THOMAS, ILL.               
+  22   45 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL         
+  22   45 4 (3 STAT. 661, 3/30/1822), SUPPLEMENTAL TO AN ACT ENTITLED,        
+  22   45 5 "AN ACT AUTHORIZING THE DISPOSAL OF CERTAIN LOTS OF PUBLIC        
+  22   45 6 GROUND IN THE CITY OF NEW ORLEANS AND THE TOWN OF MOBILE".        
+  22   45 7 (P.290)                                                           
+  23   46 1 A-38- -290B   J 17-1-190B    S         MAR. 13, 1822              
+  23   46 2 S171022       Y=22 N=19                WILLIAMS, TENN.            
+  23   46 3 TO AMEND THE SENATE BILL INCORPORATING THE SUBSCRIBERS OF         
+  23   46 4 BANK OF THE UNITED STATES, BY ADDING , "THAT THE BANK MAKE        
+  23   46 5 ITS NOTES OF AND UNDER $10.00 PAYABLE AT THE PRINCIPAL BANK       
+  23   46 6 OR ANY OF THE BRANCHES OF SAID BANK."  (P. 290)                   
+  24   47 1 A-38- -291A   J 17-1-192     S         MAR. 14, 1822              
+  24   47 2 S171023       Y=23 N=19                BARBOUR, VA.               
+  24   47 3 TO AMEND BANK OF THE UNITED STATES BILL, BY STRIKING OUT THE      
+  24   47 4 FIRST SECTION OF THE AMENDED BILL, APPOINTING AN AGENT AND A      
+  24   47 5 REGISTER AT PHILADELPHIA TO SIGN BILL AND NOTES THAT NOW ARE      
+  24   47 6 SIGNED BY THE PRESIDENT AND COUNTER SIGNED BY CASHIER THERE-      
+  24   47 7 OF AND SUCH NOTES ISSUED BY SAID BANK OF AND UNDER $10.00         
+  24   47 8 TO BE PAYABLE AT THE PRINCIPAL BANK OR ANY BRANCH.  (P.291)       
+  25   48 1 A-38- -291B   J 17-1-193     S         MAR. 14, 1822              
+  25   48 2 S171024       Y=27 N=13                HOLMES, ME.                
+  25   48 3 TO ORDER ENGROSSMENT AND THIRD READING OF BANK OF THE UNITED      
+  25   48 4 STATES BILL.  (P.291)                                             
+  26   49 1 A-38- -292    J 17-1-196     S         MAR. 15, 1822              
+  26   49 2 S171025       Y=22 N=19                VANDYKE, DEL.              
+  26   49 3 TO PASS THE SENATE BILL (6 STAT. 286, 3/3/1823), PROVIDING        
+  26   49 4 FOR RELIEF IN THE SETTLEMENT OF THE ACCOUNTS OF JAMES H.          
+  26   49 5 CLARK, IN CONSEQUENCE OF HIS HAVING BEEN ROBBED OF A CERTAIN      
+  26   49 6 SUM OF MONEY, WHILE A PURSER IN THE NAVY.  (P.292)                
+  27    3 1               EX J 3-279     SRE       MAR. 16, 1822              
+  27    3 2 E171002B      Y=19 N=25                WILLIAMS, TENN.            
+  27    3 3 TO CONSENT TO THE NOMINATION OF NATHAN TOWSON TO BE A             
+  27    3 4 COLONEL OF THE SECOND REGIMENT OF ARTILLERY IN THE UNITED         
+  27    3 5 STATES ARMY.  (P.476)                                             
+  28    4 1               EX J 3-280A    SRE       MAR. 20, 1822              
+  28    4 2 E171003       Y=33 N=7                 JOHNSON, LA.               
+  28    4 3 TO RATIFY THE RESOLUTION (7 STAT. 218, 3/25/1922), PROVIDING      
+  28    4 4 FOR THE TREATY BETWEEN THE UNITED STATES AND THE OTTAWA,          
+  28    4 5 CHIPPEWA, AND POTOMOTOMEE TRIBES OF INDIANS, MADE AND CON-        
+  28    4 6 CLUDED AT CHICAGO, ILLINOIS, ON AUG. 29, 1821.                    
+  29    5 1               EX J 3-280B    SRE       MAR. 21, 1822              
+  29    5 2 E171004       Y=20 N=23                WILLIAMS, TENN.            
+  29    5 3 TO CONSENT TO THE NOMINATION OF JAMES GADSDEN TO BE AN AD-        
+  29    5 4 JUTANT GENERAL IN THE UNITED STATES ARMY.  (P.476)                
+  30    6 1               EX J 3-281A    SRE       MAR. 22, 1822              
+  30    6 2 E171005A      Y=26 N=14                WILLIAMS, TENN.            
+  30    6 3 TO CONSENT TO THE FIRST PART OF THE RESOLUTION PROVIDING FOR      
+  30    6 4 THE APPOINTMENT OF ALEXANDER MACOMB TO BE COLONEL OF ENGIN-       
+  30    6 5 EERS WITH THE BREVET RANK OF BRIGADIER GENERAL.  (P.477)          
+  31    7 1               EX J 3-281B    SRE       MAR. 22, 1822              
+  31    7 2 E171005B      Y=28 N=15                WILLIAMS, TENN.            
+  31    7 3 TO CONSENT TO THE SECOND PART OF THE RESOLUTION PROVIDING         
+  31    7 4 FOR THE APPOINTMENT OF ALEXANDER MACOMB TO THE COLONEL OF         
+  31    7 5 ENGINEERS WITH THE BREVET RANK OF BRIGADIER GENERAL.              
+  31    7 6 (P.477)                                                           
+  32    8 1               EX J 3-281C    SRE       MAR. 22, 1822              
+  32    8 2 E171005C      Y=29 N=14                WILLIAMS, TENN.            
+  32    8 3 TO CONSENT TO THE NOMINATION AND APPOINTMENT OF HENRY             
+  32    8 4 ATKINSON TO BE A COLONEL OF THE 6TH REGIMENT OF INFANTRY          
+  32    8 5 WITH THE BREVET RANK OF BRIGADIER GENERAL.  (P.477)               
+  33    9 1               EX J 3-282A    SRE       MAR. 22, 1822              
+  33    9 2 E171005D      Y=23 N=21                SMITH, S. C.               
+  33    9 3 TO RECONSIDER THE VOTE REFUSING TO CONSENT TO THE APPOINT-        
+  33    9 4 MENT OF JAMES GADSDEN TO BE AN ADJUTANT GENERAL IN THE U. S.      
+  33    9 5 ARMY.  (P.478)                                                    
+  34   10 1               EX J 3-282B    SRE       MAR. 22, 1822              
+  34   10 2 E171005E      Y=21 N=23                WILLIAMS, TENN.            
+  34   10 3 TO CONSENT TO THE APPOINTMENT OF JAMES GADSDEN TO BE ADJUT-       
+  34   10 4 ANT GENERAL IN THE UNITED STATES ARMY.  (P.478)                   
+  35   50 1 A-38- -355    J 17-1-233     S         MAR. 29, 1822              
+  35   50 2 S171032       Y=25 N=14                THOMAS, ILL.               
+  35   50 3 TO AMEND BY SUBSTITUTION THE SENATE BILL CONFIRMING THE           
+  35   50 4 TITLE TO A TRACT OF LAND IN LOUISIANA, GRANTED BY THE             
+  35   50 5 SPANISH GOVERNMENT TO THE MARQUIS DE MAISON ROUGE, BY ELI-        
+  35   50 6 MINATING ALL AFTER THE ENACTING CLAUSE AND INSERTING IN LIEU      
+  35   50 7 THEREOF THAT LEGAL REPRESENTATIVES OF THE MARQUIS SHALL IN-       
+  35   50 8 STITUTE A BILL OF RIGHTS AGAINST THE U. S. IN THE DISTRICT        
+  35   50 9 COURT, TO SET FORTH THEIR CLAIM TO CERTAIN LAND AND EITHER        
+  35   5010 PARTY SHALL HAVE THE PRIVILEGE TO APPEAL TO THE SUPREME           
+  35   5011 COURT AND DECISION OF WHICH COURT SHALL BE FINAL.  (P.356)        
+  36   51 1 A-38- -356B   J 17-1-234     S         MAR. 29, 1822              
+  36   51 2 S171033       Y=13 N=26                EATON, TENN.               
+  36   51 3 TO AMEND THE SENATE BILL CONFIRMING THE TITLE TO A TRACT OF       
+  36   51 4 LAND IN LOUISIANA, GRANTED BY THE SPANISH GOVERNMENT TO THE       
+  36   51 5 MARQUIS DE MAISON ROUGE, BY PROBOSING THAT THE SAME PRIVI-        
+  36   51 6 LEGES BE EXTENDED TO ELISHA WINTER FOR 1000 ARPENTS OF LAND       
+  36   51 7 AND FOR WILLIAM WINTER FOR 500 ARPENTS OF LAND LYING IN THE       
+  36   51 8 TERRITORY OF ARKANSAS, AMENDMENT REJECTED.  (P.356)               
+  37   52 1 A-38- -357    J 17-1-236     S         APRIL 1, 1822              
+  37   52 2 S171034       Y=27 N=13                VANDYKE, DEL.              
+  37   52 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL         
+  37   52 4 (6 STAT. 273, 5/7/1822), APPROPRIATING $6,000 TO THE LEGAL        
+  37   52 5 REPRESENTATIVES OF JOSEPH HODGSON (DECEASED), FOR THE LOSS        
+  37   52 6 OF A HOUSE BURNT IN YEAR 1800, WHILE OCCUPIED AS A WAR            
+  37   52 7 OFFICE.  (P.78, 198)                                              
+  38   53 1 A-38- -361    J 17-1-241     S         APRIL 2, 1822              
+  38   53 2 S171035       Y=26 N=13                VANDYKE, DEL.              
+  38   53 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL         
+  38   53 4 CONFIRMING THE TITLE TO A TRACT OF LAND IN LOUISIANA, GRANT-      
+  38   53 5 ED BY THE SPANISH GOVERNMENT TO THE MARQUIS DE MAISON ROUGE.      
+  38   53 6 (P.361)                                                           
+  39   54 1 A-38- -363    J 17-1-244     S         APRIL 3, 1822              
+  39   54 2 S171036       Y=27 N=14                VANDYKE, DEL.              
+  39   54 3 TO PASS THE SENATE BILL CONFIRMING THE TITLE TO A TRACT OF        
+  39   54 4 LAND IN LOUISIANA, GRANTED BY THE SPANISH GOVERNMENT TO THE       
+  39   54 5 MARQUIS DE MAISON ROUGE.  (P.363)                                 
+  40   55 1 A-38- -392    J 17-1-277     S         APRIL 16, 1822             
+  40   55 2 S171037       Y=9 N=27                 BENTON, MO.                
+  40   55 3 TO AMEND THE SENATE BILL (3 STAT. 709, 5/8/1822), ASCERTAIN-      
+  40   55 4 ING CLAIMS AND TITLES TO LAND WITHIN THE TERRITORIES OF EAST      
+  40   55 5 AND WEST FLORIDA, BY INSERTING IN SECTION 4 AFTER THE WORD        
+  40   55 6 "NINETEEN" IN LIEU THEROF, "AND AGREEABLY TO THE LAWS,            
+  40   55 7 USAGES, AND CUSTOMS, OF THE GOVERNMENT UNDER WHICH THEY           
+  40   55 8 EMANATED".  (P.392)                                               
+  41   56 1 A-38- -393    J 17-1-282     HR        APRIL 17, 1822             
+  41   56 2 S171038       Y=36 N=2                 HOLMES, MISS.              
+  41   56 3 TO PASS THE HOUSE BILL (3 STAT. 663, 4/20/1822), AUTHORIZING      
+  41   56 4 THE SECRETARY OF THE TREASURY TO EXCHANGE A STOCK BEARING AN      
+  41   56 5 INTEREST OF 5% FOR CERTAIN STOCKS HAVING AN INTEREST OF 6         
+  41   56 6 AND 7%.  (P.390, 393)                                             
+  42   57 1 A-38- -401A   J 17-1-285     S         APRIL 19, 1822             
+  42   57 2 S171039       Y=19 N=21                EATON, TENN.               
+  42   57 3 TO AMEND THE SENATE BILL (3 STAT. 668, 4/30/1822), APPRO-         
+  42   57 4 PRIATING FOR THE CIVIL LIST BY ADDING, "WHERE THE SAME            
+  42   57 5 ARISES UNDER ANY JUDGEMENT HAD AGAINST THE PARTY; OR WHERE        
+  42   57 6 THE ACCOUNTING OFFICER IS SATISFIED THAT THE BALANCE IS           
+  42   57 7 JUSTLY DUE", TO THE PROVISION PROHIBITING THE PAYMENT OF          
+  42   57 8 SALARY TO ANY PERSON WHILE HE SHALL APPEAR TO BE IN ARREARS       
+  42   57 9 TO THE UNITED STATES.  (P.397, 398)                               
+  43   58 1 A-38- -401B   J 17-1-286     S         APRIL 19, 1922             
+  43   58 2 S171040       Y=19 N=22                LLOYD, MD.                 
+  43   58 3 TO AMEND THE PROVISION TO GENERAL APPROPRIATION BILL, BY          
+  43   58 4 PROHIBITING THE PAYMENT OF SALARY TO ANY PERSON INDEBTED TO       
+  43   58 5 THE UNITED STATES, UNTIL SUCH PERSON SHALL HAVE PAID THE          
+  43   58 6 TREASURY ALL SUMS FOR WHICH HE MAY BE SO INDEBTED OR HAS          
+  43   58 7 GIVEN SECURITY FOR SUCH PAYMENT.  (P.401)                         
+  44   59 1 A-38- -402    J 17-1-287     S         APRIL 19, 1822             
+  44   59 2 S171041       Y=21 N=18                VANBUREN, N. Y.            
+  44   59 3 TO AMEND GENERAL APPROPRIATION BILL BY INSERTING A PROVISO        
+  44   59 4 THAT NOTHING IN THIS SECTION CONTAINED SHALL EXTEND TO            
+  44   59 5 BALANCES ARISING SOLELY FROM THE DEPRECIATION OF TREASURY         
+  44   59 6 NOTES RECEIVED BY SUCH PERSON TO BE EXPENDED IN THE PUBLIC        
+  44   59 7 SERVICE.  (P.402)                                                 
+  45   60 1 A-38- -405A   J 17-1-289     S         APRIL 20, 1822             
+  45   60 2 S171042       Y=19 N=18                VANBUREN, N. Y.            
+  45   60 3 TO CONCUR IN THE AMENDMENT AS IN COMMITTEE OF THE WHOLE, TO       
+  45   60 4 GENERAL APPROPRIATION BILL, WHICH AMENDMENT ADDS THE PROVISO      
+  45   60 5 TO THE END OF SECTION 2 "THAT NOTHING IN THIS SECTION CON-        
+  45   60 6 TAINED SHALL EXTEND TO BALANCES ARISING SOLELY FROM THE           
+  45   60 7 DEPRECIATION OF TREASURY NOTES RECEIVED BY SUCH PERSON TO         
+  45   60 8 BE EXPENDED IN THE PUBLIC SERVICE".  (P.405)                      
+  46   61 1 A-38- -405B   J 17-1-290A    S         APRIL 20, 1822             
+  46   61 2 S171043       Y=17 N=22                TALBOT, KY.                
+  46   61 3 TO AMEND GENERAL APPROPRIATION BILL BY STRIKING OUT THE PRO-      
+  46   61 4 VISION THAT NO PERSON THAT HAS BEEN IN ARREARS ONE YEAR TO        
+  46   61 5 THE UNITED STATES SHALL RECEIVE ANY COMPENSATION UNDER THIS       
+  46   61 6 ACT, UNTIL HE ACCOUNTS FOR AND PAYS INTO THE TREASURY ALL         
+  46   61 7 SUMS FOR WHICH HE MAY BE LIABLE.  (P. 405)                        
+  47   62 1 A-38- -406    J 17-1-290B    S         APRIL 20, 1822             
+  47   62 2 S171044       Y=19 N=23                BARBOUR, VA.               
+  47   62 3 TO AMEND GENERAL APPROPRIATION BILL BY INSERTING AFTER THE        
+  47   62 4 WORDS "IN ARREARS" THE WORDS "AS PRINCIPAL" SO THAT AS AMEN-      
+  47   62 5 DED IT WILL READ, "THAT NO MONEY APPROPRIATED BY THIS ACT         
+  47   62 6 SHALL BE PAID TO ANY PERSON FOR COMPENSATION WHO HAS BEEN         
+  47   62 7 ONE YEAR IN ARREARS AS PRINCIPAL TO THE U. S. FOR MONEY HE        
+  47   62 8 IS LIABLE FOR TO THE TREASURY".  (P.406)                          
+  48   63 1 A-38- -407A   J 17-1-291     S         APRIL 20, 1822             
+  48   63 2 S171045       Y=20 N=22                LLOYD, MD.                 
+  48   63 3 TO AMEND GENERAL APPROPRIATION BILL BY ADDING A PROVISO THAT      
+  48   63 4 NO PERSON BE CONSIDERED IN ARREARS, UNDER THIS ACT, IF COV-       
+  48   63 5 ERED BY BOND AND UPON SECURING THE ARREARS DUE TO THE TREA-       
+  48   63 6 SURY IN A MANNER THE PRESIDENT MAY DIRECT AND APPROVE.            
+  48   63 7 (P.406)                                                           
+  49   64 1 A-38- -407B   J 17-1-292     S         APRIL 20, 1822             
+  49   64 2 S171046       Y=14 N=25                JOHNSON, KY.               
+  49   64 3 TO AMEND GENERAL APPROPRIATION BILL BY ADDING TO EXEMPT FROM      
+  49   64 4 THE PROVISIONS OF THIS ACT, THOSE PERSONS WHO STAND IN            
+  49   64 5 ARREARS AS THE SURETIES FOR DISBURSING OFFICERS DURING THE        
+  49   64 6 LATE WAR, UNLESS WHERE JUDGEMENT HAS BEEN RENDERED AGAINST        
+  49   64 7 HIMSELF AS PRINCIPAL.  (P.407)                                    
+  50   65 1 A-38- -409    J 17-1-294     S         APRIL 22, 1822             
+  50   65 2 S171047       Y=26 N=12                NOBLE, IND.                
+  50   65 3 TO POSTPONE INDEFINITELY, "CONSIDERATION OF THE SENATE BILL       
+  50   65 4 ALLOWING PENSIONS TO REVOLUTIONARY SOLDIERS".  (P.409)            
+  51   66 1 A-38- -415    J 17-1-304     S         APRIL 24, 1822             
+  51   66 2 S171048       Y=23 N=15                KING, N. Y.                
+  51   66 3 TO RECOMMIT THE SENATE BILL (3 STAT. 676, 5/4/1822), THE          
+  51   66 4 COMMITTEE ON FINANCE APPROPRIATING FOR THE SUPPORT OF THE         
+  51   66 5 NAVY, WITH INSTRUCTIONS TO ELIMINATE THE CLAUSE PROVIDING         
+  51   66 6 THAT WHEN NAVY RATIOS ARE DRAWN IN MONEY, THE RATION SHALL        
+  51   66 7 BE VALUED AT TWENTY CENTS, INSTEAD OF TWENTY FIVE CENTS.          
+  51   66 8 (P.415)                                                           
+  52   11 1               EX J 3-298A    SRE       APRIL 29, 1822             
+  52   11 2 E171006       Y=17 N=25                WILLIAMS, TENN.            
+  52   11 3 TO CONSENT TO THE APPOINTMENT OF NATHAN TOWSON TO BE A            
+  52   11 4 COLONEL OF THE 2ND REGINMENT OF ARTILLERY.  (P.509)               
+  53   12 1               EX J 3-298B    SRE       APRIL 29, 1822             
+  53   12 2 E171007       Y=17 N=25                WILLIAMS, TENN.            
+  53   12 3 TO CONSENT TO THE NOMINATION OF JAMES GADSDEN TO BE AN            
+  53   12 4 ADJUTANT GENERAL IN THE UNITED STATES ARMY.  (P.510)              
+  54   67 1 A-38- -429    J 17-1-313     HR        APRIL 29, 1822             
+  54   67 2 S171049       Y=13 N=24                RUGGLES, OHIO              
+  54   67 3 TO POSTPONE INDEFINITELY, CONSIDERATION OF THE HOUSE BILL         
+  54   67 4 (3 STAT. 676, 5/4/1822), FOR THE RELIEF OF THE OFFICERS,          
+  54   67 5 VOLUNTEERS, AND OTHER PERSONS ENGAGED IN THE LATE CAMPAIGN        
+  54   67 6 AGAINST THE SEMINOLE INDIANS.  (P.429)                            
+  55   68 1 A-38- -430    J 17-1-314     HR        APRIL 29, 1822             
+  55   68 2 S171050       Y=9 N=28                 SMITH, S. C.               
+  55   68 3 TO AMEND THE HOUSE BILL (3 STAT. 678, 5/4/1822), APPROPRIAT-      
+  55   68 4 ING $100,000 TO DERFRAY EXPENSES OF MISSIONS TO THE INDEP-        
+  55   68 5 ENDENT NATIONS ON THE AMERICAN CONTINENT, BY ADDING, "THAT        
+  55   68 6 NO MONEY SHALL BE DRAWN FROM THE TREASURY FOR THAT PURPOSE,       
+  55   68 7 UNTIL THE PRESIDENT SHALL BE FULLY SATISFIED THAT SUCH MIS-       
+  55   68 8 SIONS WILL NOT INTERRUPT THE FRIENDLY RELATIONS OF                
+  55   68 9 THE U.S."  (P. 429)                                               
+  56   69 1 A-38- -431    J 17-1-315     HR        APRIL 29, 1822             
+  56   69 2 S171051       Y=39 N=3                 KING, N. Y.                
+  56   69 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE HOUSE BILL          
+  56   69 4 (3 STAT. 678, 5/4/1822), APPROPRIATING $100,000 TO DEFRAY         
+  56   69 5 THE EXPENSES OF MISSIONS TO THE INDEPENDENT NATIONS ON THE        
+  56   69 6 AMERICAN CONTINENT.                                               
+  57   70 1 A-38- -434    J 17-1-321     S         MAY 1, 1822                
+  57   70 2 S171054       Y=29 N=6                 SMITH, S. C.               
+  57   70 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL         
+  57   70 4 (3 STAT. 677, 5/4/1822), TO REPEAL AN ACT ENTITLED "AN ACT        
+  57   70 5 TO ENCOURAGE VACCINATION.  (P.434)                                
+  58   71 1 A-38- -444    J 17-1-331     HR        MAY 3, 1822                
+  58   71 2 S171055       Y=29 N=7                 JOHNSON, KY.               
+  58   71 3 TO PASS THE HOUSE BILL (3/1/1823), AUTHORIZING THE ERECTION       
+  58   71 4 OF A TOLL GATE ON THE CUMBERLAND ROAD, AND APPROPRIATING          
+  58   71 5 $9,000 FOR THE REPAIR OF SAID ROAD.  (P.444)                      
+  59   13 1               EX J 3-305     SRE       MAY 4, 1822                
+  59   13 2 E171008       Y=15 N=18                BARBOUR, VA.               
+  59   13 3 TO CONSENT TO THE NOMINATION OF GEORGE GRAHAM TO BE A             
+  59   13 4 COMMISSIONER OF THE PUBLIC BUILDINGS.                             
+  60   72 1 A-38- -455    J 17-1-349     HR        MAY 6, 1822                
+  60   72 2 S171056       Y=20 N=13                THOMAS, ILL.               
+  60   72 3 TO AMEND THE HOUSE BILL (3 STAT. 686, 5/7/1822), MAKING           
+  60   72 4 FURTHER APPROPIATIONS FOR THE MILITARY SERVICE OF THE U. S.       
+  60   72 5 FOR 1822, BY APPROPRIATING NOT MORE THAN $9,000 FOR THE RE-       
+  60   72 6 PAIR OF THE PUBLIC ROAD LEADING FROM CUMBERLAND, MD., TO          
+  60   72 7 WHEELING, VA.                                                     
+  61   14 1               EX J 3-309A    SRE       MAY 8, 1822                
+  61   14 2 E171009       Y=8 N=21                                            
+  61   14 3 TO FIX 6/1/1821 AS THE DATE ON WHICH THE PROMOTION OF JOHN        
+  61   14 4 R. FENWICK TO BE COLONEL OF THE FOURTH REGIMENT OF ARTILLERY      
+  61   14 5 TAKES EFFECT.                                                     
+  62   15 1               EX J 3-309B    SRE       MAY 8, 1822                
+  62   15 2 E171010       Y=20 N=10                WILLIAMS, TENN.            
+  62   15 3 TO CONSENT TO THE PROMOTION OF MAJOR W. BRADFORD TO THE RANK      
+  62   15 4 OF CAPTAIN OF THE 7TH REGIMENT OF INFANTRY WITH THE BREVET        
+  62   15 5 RANK OF MAJOR AND TO FIX JULY 6, 1812 AS THE EFFECTIVE DATE       
+  62   15 6 OF THE PROMOTION AS CAPTAIN OF THE 7TH REGIMENT OF INFANTRY       
+  62   15 7 AND AUGUST 20, 1814 AS EFFECTIVE DATE OF BREVET RANK OF           
+  62   15 8 MAJOR.                                                            
+  63   73 1 A-40- -46     J 17-2-51      S         DEC. 24, 1822              
+  63   73 2 S172001       Y=19 N=17                RUGGLES, OHIO              
+  63   73 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL         
+  63   73 4 (6 STAT. 289, 3/3/1823), SUPPLYING RATIONS TO THE TROOPS OF       
+  63   73 5 THE U. S. FOR 1814.  (P.46)                                       
+  64   16 1               EX J 3-318     SRE       JAN. 3, 1823               
+  64   16 2 E172001       Y=40 N=0                                            
+  64   16 3 TO CONSENT TO THE RATIFICATION OF THE CONVENTION BETWEEN THE      
+  64   16 4 UNITED STATES AND GREAT BRITAIN, UNDER THE MEDIATION OF HIS       
+  64   16 5 IMPERIAL MAJESTY OF ALL THE RUSSIANS, CONCLUDED AT ST.            
+  64   16 6 PETERSBURG ON JULY 12, 1822.                                      
+  65   74 1 A-40- -92     J 17-2-68      S         JAN. 7, 1823               
+  65   74 2 S172002       Y=26 N=9                 TALBOT, KY.                
+  65   74 3 TO PASS THE SENATE BILL (3 STAT. 728, 2/28/1823), APPROPRI-       
+  65   74 4 ATING $25,000 FOR THE PURPOSE OF REPAIRING THE NATIONAL ROAD      
+  65   74 5 FROM CUMBERLAND TO WHEELING.  (P.96)                              
+  66   75 1 A-40- -96     J 17-2-72      S         JAN. 8, 1823               
+  66   75 2 S172003       Y=16 N=24                DEWOLF, R. I.              
+  66   75 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL,        
+  66   75 4 ALLOWING A DRAWBACK IN THE EXPORT OF CORDAGE MANUFACTURED IN      
+  66   75 5 THE UNITED STATES FROM FOREIGN HEMP.  (P.96)                      
+  67   76 1 A-40- -104    J 17-2-81      SRE       JAN. 13, 1823              
+  67   76 2 S172004       Y=4 N=41                 HOLMES, ME.                
+  67   76 3 TO AGREE TO THE 1ST SECTION OF RESOLUTION PRESENTING THE          
+  67   76 4 PETITIONS OF JOSEPH EMERSON AND OTHERS PRAYING FOR INDEMNI-       
+  67   76 5 TLY FOR PROPERTY ILLEGALLY CAPTURED BY FRENCH CRUISERS IN         
+  67   76 6 1797; WHICH SECTION INSTRUCTS THE COMMITTEE OF FOREIGN            
+  67   76 7 AFFAIRS TO INQUIRE WHETHER SAID PETITIONS WERE PRESENTED TO       
+  67   76 8 FRANCE UNDER THE CONVENTION OF 9/30/1800.                         
+  68   17 1               EX J 3-326     SRE       JAN. 27, 1823              
+  68   17 2 E172002       Y=20 N=25                EATON, TENN.               
+  68   17 3 TO POSTPONE CONSIDERATION OF THE NOMINATION OF CEASAR A.          
+  68   17 4 RODNEY AS MINISTER PLENIPOTENTIARY OF THE UNITED STATES TO        
+  68   17 5 BUENOS AYRES, UNTIL THE 20TH OF FEBRUARY NEXT.                    
+  69   18 1               EX J 3-327     SRE       JAN. 27, 1823              
+  69   18 2 E172003       Y=42 N=3                 BARBOUR, VA.               
+  69   18 3 TO CONSENT TO THE APPOINTMENT OF CEASAR A. RODNEY AS              
+  69   18 4 MINISTER PLENIPOTENTIARY OF THE UNITED STATES TO BUENOS           
+  69   18 5 AYRES.                                                            
+  70   19 1               EX J 3-329     SRE       JAN. 31, 1823              
+  70   19 2 E172004       Y=44 N=0                                            
+  70   19 3 TO RATIFY THE RESOLUTION (8 STAT. 278, 2/12/1823), PROVIDING      
+  70   19 4 FOR THE CONVENTION OF NAVIGATION AND COMMERCE, AND THE FIRST      
+  70   19 5 ARTICLE ATTACHED THERETO, MADE AND CONCLUDED BETWEEN THE          
+  70   19 6 UNITED STATES AND THE KING OF FRANCE AND NAVARRE, ON THE          
+  70   19 7 24TH DAY OF JUNE 1822, AT THE CITY OF WASHINGTON.                 
+  71   20 1               EX J 3-330     SRE       JAN. 31, 1823              
+  71   20 2 E172005       Y=41 N=3                 BARBOUR, VA.               
+  71   20 3 TO RATIFY THE 2ND SEPARATE ARTICLE ATTACHED TO THE RESOLU-        
+  71   20 4 TION (8 STAT. 278, 2/12/1823), PROVIDING FOR CONVENTION OF        
+  71   20 5 NAVIGATION AND COMMERCE, MADE AND CONCLUDED BETWEEN THE           
+  71   20 6 UNITED STATES AND THE KING OF FRANCE AND NAVARRE ON JUNE 24,      
+  71   20 7 1822 AT THE CITY OF WASHINGTON.                                   
+  72   21 1               EX J 3-332A    SRE       FEB. 6, 1823               
+  72   21 2 E172006       Y=32 N=0                 JOHNSON, LA.               
+  72   21 3 TO RATIFY THE TREATY CONCLUDED WITH THE GREAT AND LITTLE          
+  72   21 4 OSAGE TRIBES OF INDIANS ON THE 8/31/1822.                         
+  73   22 1               EX J 3-332B    SRE       FEB. 6, 1823               
+  73   22 2 E172007       Y=29 N=0                 JOHNSON, LA.               
+  73   22 3 TO RATIFY THE RESOLUTION (7 STAT. 223, 2/13/1823), PROVIDING      
+  73   22 4 FOR THE TREATY BETWEEN THE UNITED STATES AND THE SAC AND FOX      
+  73   22 5 TRIBE OF INDIANS, ENTERED INTO SEPT. 3, 1822 AT FORT              
+  73   22 6 ARMSTRONG.                                                        
+  74   77 1 A-40- -196    J 17-2-139     S         FEB. 10, 1823              
+  74   77 2 S172005       Y=28 N=11                WILLIAMS, TENN.            
+  74   77 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL         
+  74   77 4 DIRECTING THE PAYMENT OF THE GEORGIA MILITIA CLAIMS, FOR          
+  74   77 5 SERVICES RENDERED DURING THE YEARS 1792-1793-1794.  (P.196)       
+  75   78 1 A-40- -227    J 17-2-150     S         FEB. 13, 1823              
+  75   78 2 S172006       Y=26 N=16                BARBOUR, VA.               
+  75   78 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL         
+  75   78 4 (3 STAT. 726, 2/21/1823), EXTENDING THE CHARTER OF THE            
+  75   78 5 MECHANICS BANK OF ALEXANDRIA IN THE DISTRICT OF COLUMBIA.         
+  75   78 6 (P.227)                                                           
+  76   79 1 A-40- -256    J 17-2-165     S         FEB. 19, 1823              
+  76   79 2 S172007       Y=24 N=19                JOHNSON, KY.               
+  76   79 3 TO AMEND THE REPORT OF THE COMMITTEE OF CLAIMS TO THE SENATE      
+  76   79 4 BILL (6 STAT. 288, 3/3/1823), PROVIDING THAT THE PETITION OF      
+  76   79 5 JAMES MORRISON FOR PAYMENT OF CLAIMS OF $10,000.00 OUGHT NOT      
+  76   79 6 TO BE GRANTED, BY STRIKING OUT "NOT".  (P.256)                    
+  77   23 1               EX J 3-334     SRE       FEB. 20, 1823              
+  77   23 2 E172008       Y=32 N=4                 VANDYKE, DEL.              
+  77   23 3 TO CONSENT TO THE APPOINTMENT OF WILLIAM RECTOR TO BE SUR-        
+  77   23 4 VEYOR OF THE PUBLIC LANDS IN THE STATES OF ILLINOIS,              
+  77   23 5 MISSOURI, AND THE TERRITORY OF ARKANSAS.                          
+  78   80 1 A-40- -264A   J 17-2-174     HR        FEB. 21, 1823              
+  78   80 2 S172008       Y=23 N=22                LOWRIE, PA.                
+  78   80 3 TO AMEND THE HOUSE BILL (3 STAT. 782, 3/1/1823), ON REVOLU-       
+  78   80 4 TIONARY PENSIONS, WHICH IS "AN ACT SUPPLEMENTARY TO THE ACTS      
+  78   80 5 TO PROVIDE FOR CERTAIN PERSONS ENGAGED IN THE LAND AND NAVAL      
+  78   80 6 SERVICES OF THE UNITED STATES IN THE REVOLUTIONARY WAR", BY       
+  78   80 7 REDUCING THE AMOUNTS HEREAFTER TO BE PAID TO ALL THE REVOLU-      
+  78   80 8 TIONARY PERSIONERS BY 20%".  (P.262)                              
+  79   81 1 A-40- -264B   J 17-2-175     HR        FEB. 21, 1823              
+  79   81 2 S172009       Y=21 N=24                NOBLE, IND.                
+  79   81 3 TO ORDER ENGROSSMENT AND THIRD READING OF REVOLUTIONARY           
+  79   81 4 PENSIONS BILL.  (P.264)                                           
+  80   82 1 A-40- -267    J 17-2-178     HR        FEB. 22, 1823              
+  80   82 2 S172010       Y=27 N=14                KELLY, ALA.                
+  80   82 3 TO RECONSIDER THE VOTE ENGROSSING REVOLUTIONARY PENSIONS          
+  80   82 4 BILL.  (P.267)                                                    
+  81   83 1 A-40- -271    J 17-2-185     S         FEB. 24, 1823              
+  81   83 2 S172011       Y=16 N=26                LANMAN, CONN.              
+  81   83 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL         
+  81   83 4 DIVORCING JOHN WHEELWRIGHT, OF ALEXANDRIA AND CAROLINE E.         
+  81   83 5 WHEELWRIGHT, HIS WIFE, BECAUSE OF THE INSANITY OF WIFE.           
+  82   84 1 A-40- -274    J 17-2-189A    S         FEB. 25, 1823              
+  82   84 2 S172012       Y=14 N=21                                           
+  82   84 3 TO POSTPONE CONSIDERATION OF THE BILL WHICH ENABLES THE           
+  82   84 4 HOLDERS OF FRENCH, BRITISH AND SPANISH TITLES TO LAND IN          
+  82   84 5 LOUISIANA, WHICH HAVE NOT BEEN RECOGNISED AS VALID BY THE         
+  82   84 6 UNITED STATES, TO INSTITUTE PROCEEDINGS TO TRY THE VALIDITY       
+  82   84 7 THEREOF.                                                          
+  83   85 1 A-40- -275A   J 17-2-189B    S         FEB. 25, 1823              
+  83   85 2 S172013       Y=10 N=27                                           
+  83   85 3 TO AMEND LOUISIANA LAND TITLES BILL BY PROPOSING THE EX-          
+  83   85 4 CLUSION OF CERRTAIN CLAIMS IN THIS BILL.  (P.275)                 
+  84   86 1 A-40- -275B   J 17-2-190     S         FEB. 25, 1823              
+  84   86 2 S172014       Y=28 N=6                 VANDYKE, DEL.              
+  84   86 3 TO ORDER ENGROSSMENT AND THIRD READING OF LOUISIANA LAND          
+  84   86 4 TITLES BILL.  (P.275)                                             
+  85   87 1 A-40- -284     J 17-2-195    HR        FEB. 26, 1823              
+  85   87 2 S172015       Y=24 N=20                NOBLE, IND.                
+  85   87 3 TO ORDER ENGROSSMENT AND 3RD READING OF THE HOUSE BILL (3         
+  85   87 4 STAT. 782, 3/1/1823), SUPPLEMENTARY TO THE ACT TO PROVIDE         
+  85   87 5 FOR CERTAIN PERSONS ENGAGED IN THE LAND AND NAVAL SERVICES        
+  85   87 6 OF THE UNITED STATES IN THE REVOLUTIONARY WAR.                    
+  86   88 1 A-40- -207B   J 17-2-207     S         FEB. 27, 1823              
+  86   88 2 S172016       Y=27 N=14                EATON, TENN.               
+  86   88 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL         
+  86   88 4 COMMUTING THE PENSION OF LIEUTENANT ALFRED FLOURNOY FOR AN        
+  86   88 5 EQUIVALANT IN LAND.  (P.126, 145)                                 
+  87   89 1 A-40- -299    J 17-2-219     HR        FEB. 28, 1823              
+  87   89 2 S172017       Y=32 N=8                 RUGGLES, OHIO              
+  87   89 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE HOUSE BILL          
+  87   89 4 (3/1/1823), IN ADDITION TO THE ACT ENTITLED "FOR THE PROMPT       
+  87   89 5 SETTLEMENT OF PUBLIC ACCOUNTS, AND FOR THE PUNISHMENT OF THE      
+  87   89 6 CRIMES OF PERJURY".                                               
+  88   90 1 A-40- -313    J 17-2-221     S         FEB. 28, 1823              
+  88   90 2 S172018       Y=20 N=23                NOBLE, IND.                
+  88   90 3 TO POSTPONE INDEFINITELY CONSIDERATION OF THE SENATE BILL         
+  88   90 4 (3 STAT. 782, 3/1/1823), A SUPPLEMENT TO AN ACT TO PROVIDE        
+  88   90 5 FOR CERTAIN PERSONS ENGAGED IN LAND AND NAVAL SERVICE OF THE      
+  88   90 6 UNITED STATES, IN THE REVOLUTIONARY WAR.  (P.313)                 
+  89   91 1 A-40- -314    J 17-2-222     HR        FEB. 28, 1823              
+  89   91 2 S172019       Y=21 N=22                BARBOUR, VA.               
+  89   91 3 TO INSIST ON AMENDMENT TO THE HOUSE BILL (3 STAT. 782,            
+  89   91 4 3/1/1823), SUPPLEMENT TO AN ACT TO PROVIDE FOR CERTAIN PER-       
+  89   91 5 SONS ENGAGED IN LAND AND NAVAL SERVICE OF THE UNITED STATES,      
+  89   91 6 IN THE REVOLUTIONARY WAR, WHICH AMENDMENT REDUCES ALL REVOL-      
+  89   91 7 UTIONARY PENSIONS BY 20%.  (P.307)                                
+  90   24 1               EX J 3-339     SRE       MAR. 3, 1823               
+  90   24 2 E172009       Y=17 N=10                                           
+  90   24 3 TO CONSENT TO THE PROMOTION OF CAPTAIN SYLVANUS THAYES TO         
+  90   24 4 THE RANK OF LIEUTENANT COLONEL BY BREVET, FOR MERTORIOUS          
+  90   24 5 SERVICES AND GENERAL GOOD CONDUCT.                                
+  91   25 1               EX J 3-341     SRE       MAR. 3, 1823               
+  91   25 2 E172010       Y=12 N=17                                           
+  91   25 3 TO CONSENT TO THE NOMINATION OF CHRISTOPHER VANDEVENTER OF        
+  91   25 4 NEW YORK TO BE NAVY AGENT OF THE PORT OF NEW YORK.                

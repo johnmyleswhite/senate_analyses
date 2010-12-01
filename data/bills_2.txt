@@ -1,0 +1,278 @@
+   1    7 1 A-3- -43A     J 2-1-351A     HR        DEC. 7, 1791               
+   1    7 2 S021001       Y=9 N=15                                            
+   1    7 3 APPORTION REPRESENTATIVES AMONG THE PEOPLE OF THE SEVERAL         
+   1    7 4 STATES ACCORDING TO THE FIRST CENSUS BY ASSIGNING A               
+   1    7 5 SPECIFIED NUMBER OF REPRESENTATIVES TO EACH STATE.                
+   2    8 1 A-3- -43B     J 2-1-351B     HR        DEC. 7, 1791               
+   2    8 2 S021002       Y=11 N=13                                           
+   2    8 3 TO AMEND H.R. 147, TO PROVIDE THAT AFTER MARCH, 1793,             
+   2    8 4 THE HOUSE SHALL BE COMPOSED OF MEMBERS CHOSEN BY THE              
+   2    8 5 PEOPLE IN THE RATIO OF ONE FOR EVERY 33,000.                      
+   3    9 1 A-3- -43C     J 2-1-351C     HR        DEC. 7, 1791               
+   3    9 2 S021003       Y=9 N=15                                            
+   3    9 3 TO RECONSIDER THE VOTE ON AN AMENDMENT TO H.R. 147 THAT           
+   3    9 4 WOULD PROVIDE THAT THE HOUSE SHALL BE COMPOSED OF 106             
+   3    9 5 MEMBERS.                                                          
+   4   10 1 A-3- -44      J 2-1-351D     HR        DEC. 7, 1791               
+   4   10 2 S021004       Y=13 N=11                                           
+   4   10 3 TO ADOPT THE HOUSE AMENDMENT TO H.R. 147 WHICH ASSIGNS A          
+   4   10 4 SPECIFIED NUMBER OF REPRESENTATIVES TO EACH STATE.                
+   5   11 1 A-3- -47A     J 2-1-354A     HR        DEC. 8, 1791               
+   5   11 2 S021005       Y=12 N=12                                           
+   5   11 3 TO AMEND H.R. 147 BY STRIKING THE FIRST SECTION AND INSERT-       
+   5   11 4 ING AN AMENDMENT THAT WOULD PROVIDE FOR 99 MEMBERS AND A          
+   5   11 5 RATIO OF 1 TO 33,000.  (VICE PRES. VOTING IN THE                  
+   5   11 6 AFFIRMATIVE)                                                      
+   6   12 1 A-3- -47B     J 2-1-354B     HR        DEC. 8, 1791               
+   6   12 2 S021006       Y=14 N=10                                           
+   6   12 3 TO PASS H.R. 147.                                                 
+   7   13 1 A-3- -49      J 2-1-356      HR        DEC. 15, 1791              
+   7   13 2 S021007A      Y=12 N=12                                           
+   7   13 3 TO RECEDE FROM CERTAIN AMENDMENTS TO H.R. 147.  (VICE             
+   7   13 4 PRESIDENT VOTING IN THE NEGATIVE)                                 
+   8   14 1 A-3-1-51      J 2-1-358      HR        DEC. 20, 1791              
+   8   14 2 S021007B      Y=12 N=12                                           
+   8   14 3 TO ADHERE TO ITS DISAGREEMENTS TO FIRST HOUSE AMENDMENT TO        
+   8   14 4 H.R. 147.  (VICE PRESIDENT VOTED IN AFFIRMATIVE.)                 
+   9    1 1               EX J 1-94      SRE       JAN. 6, 1792               
+   9    1 2 E021001       Y=19 N=7                 STRONG, MASS.              
+   9    1 3 TO ADOPT THE RESOLUTION, THAT A SPECIAL OCCASION NOW              
+   9    1 4 EXISTS FOR APPOINTING A MINISTER PLENIPOTENTIARY TO THE           
+   9    1 5 COURT OF FRANCE.                                                  
+  10   15 1 A-3- -65      J 2-1-370      S         JAN. 10, 1792              
+  10   15 2 S021008       Y=23 N=4                 CABOT, MASS.               
+  10   15 3 TO ORDER THIRD READING OF S. 26, (APP 2/16/92, 1 STAT 229),       
+  10   15 4 AN ACT FOR THE ENCOURAGEMENT OF BANK AND OTHER COD                
+  10   15 5 FISHERIES, AND FOR REGULATION OF FISHERMEN EMPLOYED THEREIN.      
+  11    2 1               EX J 1-996     SRE       JAN. 12, 1792              
+  11    2 2 E021002       Y=16 N=11                STRONG, MASS.              
+  11    2 3 TO ADVISE AND CONSENT TO THE APPOINTMENT OF                       
+  11    2 4 GOVERNOR MORRIS OF NEW YORK TO BE MINISTER PLENIPOTENTIARY        
+  11    2 5 FOR THE U.S. AT PARIS, FRANCE.                                    
+  12    3 1               EX J 1-97      SRE       JAN. 16, 1792              
+  12    3 2 E021003       Y=13 N=13                STRONG, MASS.              
+  12    3 3 TO PASS THE RESOLUTION TO APPOINT A MINISTER TO THE HAGUE.        
+  13    4 1               EX J 1-98      SRE       JAN. 16, 1792              
+  13    4 2 E021004       Y=15 N=11                STRONG, MASS.              
+  13    4 3 TO ADVISE AND CONSENT TO THE APPOINTMENT OF                       
+  13    4 4 WILLIAM SHORT, OF VIRGINIA TO BE MINISTER RESIDENT FOR THE        
+  13    4 5 U.S. AT THE HAGUE.                                                
+  14   16 1 A-3- -84      J 2-1-388      HR        FEB. 9, 1792               
+  14   16 2 S021009A      Y=13 N=12                                           
+  14   16 3 TO AMEND H.R. 162 (APP 3/5/92, 1 STAT 241), TO MAKE               
+  14   16 4 FURTHER AND MORE EFFECTUAL PROVISION FOR THE PROTECTION OF        
+  14   16 5 THE FRONTIERS; SO AS TO STRIKE THE SECTION WHICH PROVIDES         
+  14   16 6 FOR THE RAISING OF THREE ADDITIONAL INFANTRY REGIMENTS TO BE      
+  14   16 7 DISCHARGED WHEN PEACE IS DECLARED WITH THE INDIAN TRIBE.          
+  15   17 1 A-3- -86      J 2-1-389      SRE       FEB. 13, 1792              
+  15   17 2 S021009B      Y=14 N=13                                           
+  15   17 3 TO AMEND THE BILL (APP 5/8/92, 1 STAT 275) TO REGULATE            
+  15   17 4 THE PROCESSES IN THE COURTS AND TO PROVIDE COMPENSATION FOR       
+  15   17 5 THE OFFICERS OF SAID COURTS, AND FOR JURORS AND                   
+  15   17 6 WITNESSES; SO AS TO PROVIDE THAT PLAINTIFFS CAN PAY THEIR         
+  15   17 7 DEBTS AND COSTS IN GOLD OR SILVER.                                
+  16   18 1 A-3- -89      J 2-1-393      HR        FEB. 17, 1792              
+  16   18 2 S021010       Y=15 N=12                                           
+  16   18 3 TO ADOPT THE SECOND SECTION OF H.R. 162 WHICH WOULD RAISE         
+  16   18 4 THREE ADDITIONAL INFANTRY REGIMENTS UNTIL PEACE IS DECLARED       
+  16   18 5 WITH THE INDIAN TRIBES.                                           
+  17   19 1 A-3- -91      J 2-1-394      HR        FEB. 23, 1792              
+  17   19 2 S021011       Y=8 N=18                 HAWKINS, N.C.              
+  17   19 3 TO AMEND H.R. 162, SO AS TO STRIKE THE PROVISION                  
+  17   19 4 AUTHORIZING THE PRESIDENT TO EMPLOY A NUMBER OF INDIANS.          
+  18   20 1 A-3- -92A     J 2-1-395A     HR        FEB. 23, 1792              
+  18   20 2 S021012       Y=8 N=18                                            
+  18   20 3 TO AMEND H.R. 162, SO AS TO REDUCE THE NUMBER OF MEN IN EACH      
+  18   20 4 REGIMENT FROM 960 TO 912.                                         
+  19   21 1 A-3- -92B     J 2-1-395B     HR        FEB. 23, 1792              
+  19   21 2 S021013       Y=12 N=15                                           
+  19   21 3 TO AMEND H.R. 162, SO AS TO STRIKE THE SECOND SECTION AND         
+  19   21 4 INSERT A PROVISION TO AUTHORIZE THE PRESIDENT TO ENGAGE A         
+  19   21 5 CERTAIN NUMBER OF EXPERT WOODSMEN TO SERVE IN INFANTRY, OR        
+  19   21 6 CAVALARY FOR 10 MONTHS.                                           
+  20   22 1 A-3- -93      J 2-1-395C     HR        FEB. 23, 1792              
+  20   22 2 S021014A      Y=16 N=11                                           
+  20   22 3 TO PASS H.R. 162.                                                 
+  21   23 1 A-3- -93      J 2-1-396      SRE       FEB. 23, 1792              
+  21   23 2 S021014B      Y=11 N=16                                           
+  21   23 3 TO AMEND THE BILL (APP 4/4/92, 1 STAT 253), PROVIDING FOR AN      
+  21   23 4 APPORTIONMENT OF REPRESENTATIVES AMONG THE SEVERAL STATES,        
+  21   23 5 ACCORDING TO THE FIRST ENUMERATION, AND MAKING PROVISION          
+  21   23 6 FOR ANOTHER ENUMERATION, AND AN APPORTIONMENT THEREON,            
+  21   23 7 TO COMPOSE THE HOUSE AFTER MARCH, 1797, SO AS TO PROVIDE          
+  21   23 8 THAT AFTER MARCH, 1797, THE HOUSE SHALL BE COMPOSED OF            
+  21   23 9 100 MEMBERS, ELECTED BY A RATIO OF 1 TO 30,000.                   
+  22   24 1 A-3- -97      J 2-1-401      HR        FEB. 29, 1792              
+  22   24 2 S021015       Y=16 N=9                                            
+  22   24 3 TO AMEND H.R. 152 (APP 3/23/92, 1 STAT 243), AN ACT FOR           
+  22   24 4 THE RELIEF OF CERTAIN WIDOWS, ORPHANS, INVALIDS, AND OTHER        
+  22   24 5 PERSONS; SO AS TO STRIKE THE FIRST SECTION.                       
+  23   25 1 A-3- -102A    J 2-1-405A     HR        MAR. 6, 1792               
+  23   25 2 S021016       Y=13 N=14                                           
+  23   25 3 TO AMEND H.R. 179 (APP 4/14/92, 1 STAT 253), AN ACT               
+  23   25 4 APPORTIONING REPRESENTATIVES AMONG THE PEOPLE OF SEVERAL          
+  23   25 5 STATES ACCORDING TO THE FIRST ENUMERATION, AFTER                  
+  23   25 6 MARCH 1797; SO AS TO CHANGE THE EFFECTIVE DATE FROM               
+  23   25 7 MARCH 1797 TO MARCH 1793.                                         
+  24   26 1 A-3- -102B    J 2-1-405B     HR        MAR. 6, 1792               
+  24   26 2 S021017       Y=15 N=12                                           
+  24   26 3 TO AMEND H.R. 179, SO AS TO REMOVE THE CLAUSE SETTING THE         
+  24   26 4 NUMBER OF REPRESENTATIVES AT 120 MEMBERS.                         
+  25   27 1 A-3- -102B    J 2-1-405C     HR        MAR. 6, 1792               
+  25   27 2 S021018       Y=11 N=16                                           
+  25   27 3 TO AMEND H.R. 179, SO AS TO REDUCE THE NUMBER OF REPRESEN-        
+  25   27 4 TATIVES BY FIFTEEN.                                               
+  26   28 1 A-3- -102D    J 2-1-406A     HR        MAR. 6, 1792               
+  26   28 2 S021019       Y=15 N=12                                           
+  26   28 3 TO AMEND H.R. 179, SO THAT THE FIRST CLAUSE OF THE FIRST          
+  26   28 4 SEC. READS AS FOLLOWS: "BE IT ENACTED BY CONGRESS, THAT,          
+  26   28 5 FROM AND AFTER MAR. 1793, THE HOUSE SHALL BE COMPOSED OF          
+  26   28 6 MEMBERS ELECTED WITHIN THE SEVERAL STATES, ACCORDING TO THE       
+  26   28 7 FOLLOWING APPORTIONMENT..."                                       
+  27   29 1 A-3- -103     J 2-1-406B     HR        MAR. 6, 1792               
+  27   29 2 S021020       Y=14 N=13                                           
+  27   29 3 TO AMEND H.R. 179, SO AS TO STRIKE THE SECOND SECTION OF THE      
+  27   29 4 BILL, WHICH CONCERNS THE REPRESENTATION FOR S. CAROLINA.          
+  28   30 1 A-3- -105     J 2-1-408A     HR        MAR. 12, 1792              
+  28   30 2 S021021       Y=14 N=13                                           
+  28   30 3 TO AMEND H.R. 179, SO AS TO PROVIDE THAT THE NUMBER OF            
+  28   30 4 REPRESENTATIVES BE 120 MEMBERS.                                   
+  29   31 1 A-3- -106A    J 2-1-408B     HR        MAR. 12, 1792              
+  29   31 2 S021022       Y=7 N=20                                            
+  29   31 3 TO AMEND H.R. 179, SO AS TO PROVIDE THAT INSTEAD OF DESIGNA-      
+  29   31 4 TING A SPECIFIC NUMBER OF REPRESENTATIVES FROM EACH STATE,        
+  29   31 5 TO ELECT ONE REPRESENTATIVE FOR EACH 30,000                       
+  29   31 6 INDIVIDUALS, AND THE RESIDUE MEMBERS GOING TO STATES HAVING       
+  29   31 7 THE HIGHEST FRACTIONS.                                            
+  30   32 1 A-3- -106B    J 2-1-409A     HR        MAR. 12, 1792              
+  30   32 2 S021023       Y=11 N=16                                           
+  30   32 3 TO AMEND H.R. 179; TO PROVIDE THAT AFTER MARCH 1793,              
+  30   32 4 THE HOUSE BE COMPOSED OF 120 MEMBERS, ONE MEMBER FOR EVERY        
+  30   32 5 30,000 PERSONS, COMPUTED ACCORDING TO THE CONSTITUTIONAL          
+  30   32 6 RULE AND APPORTIONED TO AND ELECTED WITHIN SEVERAL STATES         
+  30   32 7 ACCORDING TO RESPECTIVE NUMBERS.                                  
+  31   33 1 A-3- -106C    J 2-1-409B     HR        FEB. 12, 1792              
+  31   33 2 S021024       Y=14 N=13                                           
+  31   33 3 TO PASS H.R. 179.                                                 
+  32   34 1 A-3- -107     J 2-1-409C     SRE       MAR. 13, 1792              
+  32   34 2 S021025       Y=6 N=21                                            
+  32   34 3 TO POSTPONE CONSIDERATION OF THE RESOLUTION TO REQUEST THE        
+  32   34 4 PRESIDENT TO INFORM THE KING OF FRANCE THAT THE SENATE            
+  32   34 5 HAS RECEIVED HIS LETTER.                                          
+  33   35 1 A-3- -111A    J 2-1-414A     HR        MAR. 22, 1792              
+  33   35 2 S021026       Y=14 N=13                                           
+  33   35 3 TO INSIST ON THE SENATE AMENDMENT TO H.R. 179 WHICH PROVIDES      
+  33   35 4 THAT AFTER MARCH 1793, THE HOUSE WILL BE COMPOSED OF 120          
+  33   35 5 MEMBERS.                                                          
+  34   36 1 A-3- -111B    J 2-1-414B     HR        MAR. 22, 1792              
+  34   36 2 S021027       Y=9 N=17                                            
+  34   36 3 TO RECEDE FROM ALL THOSE SENATE AMENDMENTS, BUT THE FIRST,        
+  34   36 4 TO H.R. 179, DISAGREED TO BY THE HOUSE.                           
+  35   37 1 A-3- -113     J 2-1-415      SRE       MAR. 26, 1792              
+  35   37 2 S021028       Y=8 N=17                 MONROE, VA.                
+  35   37 3 TO AGREE TO THE SENATE RESOLUTION THAT IT BE A STANDING           
+  35   37 4 RULE THAT THE DOORS OF THE SENATE REMAIN OPEN DURING              
+  35   37 5 LEGISLATIVE SESSIONS EXCEPT WHEN SECRECY IS DEEMED                
+  35   37 6 NECESSARY.                                                        
+  36   38 1 A-3- -115     J 2-1-418      HR        MAR. 29, 1792              
+  36   38 2 S021029       Y=22 N=1                                            
+  36   38 3 TO PASS H.R. 148 (5/2/92, 1 STAT 264), AN ACT MORE                
+  36   38 4 EFFECTUALLY TO PROVIDE FOR THE NATIONAL DEFENSE BY                
+  36   38 5 ESTABLISHING A UNIFORM MILITIA THROUGHOUT THE U.S.                
+  37   39 1 A-3- -124A    J 2-1-426      HR        APR. 16, 1792              
+  37   39 2 S021030       Y=11 N=11                                           
+  37   39 3 TO AGREE TO THE 3RD SEC. OF H.R. 174, (APP 4/21/92,               
+  37   39 4 1 STAT 257), AN ACT AUTHORIZING THE GRANT AND CONVEYANCE          
+  37   39 5 OF CERTAIN LANDS TO THE OHIO COMPANY OF ASSOCIATES; THAT          
+  37   39 6 THE PRESIDENT BE AUTHORIZED TO GRANT AND CONVEY TO THE            
+  37   39 7 OHIO COMPANY OF ASSOCIATES, 100,000 ACRES OF LAND, ON             
+  37   39 8 CERTAIN CONDITIONS.                                               
+  38   40 1 A-3- -124B    J 2-1-427      S         APR. 17, 1792              
+  38   40 2 S021031       Y=20 N=3                                            
+  38   40 3 TO AGREE TO THE TWELFTH SECTION OF S. 35, (APP 5/8/92,            
+  38   40 4 1 STAT 279), AN ACT RESPECTING ALTERATIONS NECESSARY TO BE        
+  38   40 5 MADE IN THE ACTS ESTABLISHING THE TREASURY AND WAR                
+  38   40 6 DEPARTMENTS; TO GRANT ADDITIONAL COMPENSATION TO CERTAIN          
+  38   40 7 OFFICIALS.                                                        
+  39   41 1 A-3- -186     J 2-1-428      HR        APR. 17, 1792              
+  39   41 2 S021032       Y=4 N=16                                            
+  39   41 3 TO AMEND H.R. 174, (APP 4/21/92, 1 STAT 257), AN ACT              
+  39   41 4 AUTHORIZING A GRANT OF LANDS TO THE OHIO COMPANY OF               
+  39   41 5 ASSOCIATES; TO EXTEND TO CERTAIN NAMED INDIVIDUALS THE SAME       
+  39   41 6 PRIVILEGES OFFERED TO THE OHIO COMPANY.                           
+  40   42 1 A-3- -126     J 2-1-429      SRE       APR. 17, 1792              
+  40   42 2 S021033       Y=6 N=16                 FEW, GA.                   
+  40   42 3 TO AGREE TO THE SENATE RESOLUTION THAT WOULD ADMIT HOUSE          
+  40   42 4 MEMBERS DURING SENATE DEBATE AND PERMIT SENATORS TO HAVE          
+  40   42 5 TWO GUESTS EACH.                                                  
+  41   43 1 A-3- -127     J 2-1-430      HR        APR. 20, 1792              
+  41   43 2 S021034       Y=17 N=2                                            
+  41   43 3 TO AMEND H.R. 177 (APP 4/27/92, 1 STAT 258), AN ACT TO            
+  41   43 4 INDEMNIFY THE ESTATE OF THE LATE MAJOR GENERAL                    
+  41   43 5 NATHANIEL GREENE; SO AS TO EXCEPT A CERTAIN CONDITIONAL           
+  41   43 6 BOND.                                                             
+  42    5 1               EX J 1-122     SRE       MAY 5, 1792                
+  42    5 2 E021005       Y=16 N=3                 STRONG, MASS.              
+  42    5 3 TO ADVISE AND CONSENT TO THE APPOINTMENT OF EDWARD CHURCH AS      
+  42    5 4 U.S. CONSULTANT AT LISBON, PORTUGAL.                              
+  43   44 1 A-3- -138     J 2-1-441      S         MAY 7, 1792                
+  43   44 2 S021035       Y=9 N=10                                            
+  43   44 3 TO ADHERE TO DISAGREEMENT TO AN AMENDMENT TO S. 28,               
+  43   44 4 (APP 5/8/92, 1 STAT 275), AN ACT FOR REGULATING PROCESSES IN      
+  43   44 5 THE COURTS AND TO PROVIDE COMPENSATION FOR OFFICERS, JURORS       
+  43   44 6 AND WITNESSES; AMENDMENT TO ELIMINATE THE OPTION TO PAY           
+  43   44 7 DEBT AND COSTS IN GOLD OR SILVER.                                 
+  44    6 1               EX J 1-123     SRE       MAY 8, 1792                
+  44    6 2 E021006       Y=14 N=2                 MORRIS, PA.                
+  44    6 3 TO PASS A RESOLUTION THAT THE PRESIDENT CONCLUDE A TREATY         
+  44    6 4 WITH THE GOVERNMENT OF ALGIERS FOR THE ESTABLISHMENT OF           
+  44    6 5 PEACE, AT AN EXPENSE NOT EXCEEDING $40,000 TO BE PAID AT          
+  44    6 6 SIGNATURE, AND DURING CONTINUANCE OF SAME TO PAY A SUM OF         
+  44    6 7 $25,000 ANNUALLY AND THAT THE PRESIDENT ALSO CONCLUDE A           
+  44    6 8 TREATY WITH SAID GOVERNMENT FOR THE PAYMENT OF A SUM NOT          
+  44    6 9 EXCEEDING $40,000 ALL EXPENSES INCLUSIVE FOR THE RANSOM OF        
+  44    610 THIRTEEN AMERICANS HELD IN CAPTIVITY THERE.                       
+  45   45 1 A-3- -619     J 2-2-462      SRE       DEC. 11, 1792              
+  45   45 2 S022001       Y=5 N=19                 BUTLER, S.C.               
+  45   45 3 TO AMEND THE BILL (APP 12/31/92, 1 STAT 287), CONCERNING THE      
+  45   45 4 REGISTERING AND RECORDING OF SHIPS; SO AS TO STRIKE THE           
+  45   45 5 PROVISION TO RESTRICT PART OF THE BILL TO SHIPS OWNED AND         
+  45   45 6 COMMANDED BY AN AMERICAN CITIZEN.                                 
+  46   46 1 A-3- -638A    J 2-2-478A     SRE       FEB. 4, 1793               
+  46   46 2 S022002       Y=7 N=21                                            
+  46   46 3 TO AGREE TO THE RESOLUTION TO PUBLISH SENATE PROCEEDINGS IN       
+  46   46 4 NEWSPAPERS.                                                       
+  47   47 1 A-3- -638B    J 2-2-478B     SRE       FEB. 4, 1793               
+  47   47 2 S022003       Y=10 N=18                                           
+  47   47 3 TO AGREE TO THE RESOLUTION THAT IT BE A STANDING RULE THAT        
+  47   47 4 THE DOORS OF THE SENATE CHAMBER REMAIN OPEN WHILE SITTING         
+  47   47 5 EXECUTIVE CAPACITY EXCEPT ON OCCASION WHERE SECRECY MAY           
+  47   47 6 PREVAIL; TO TAKE EFFECT THE FIRST DAY OF THE NEXT SESSION.        
+  48   48 1 A-3- -639     J 2-2-479      SRE       FEB. 4, 1793               
+  48   48 2 S022004       Y=11 N=17                                           
+  48   48 3 TO AGREE TO THE FIRST SECTION OF THE BILL (2/12/95,               
+  48   48 4 1 STAT 301), RELATIVE TO CLAIMS AGAINST THE U.S., NOT             
+  48   48 5 BARRED BY ANY ACT OF LIMITATIONS, WHICH HAVE NOT BEEN             
+  48   48 6 ADJUSTED; SAID SECTION PROVIDES FOR SETTLEMENT OF ALL             
+  48   48 7 ACCOUNTS WITH THE STATES, AND CONCERNS SIX MONTH LOANS.           
+  49   49 1 A-3- -651     J 2-2-490      HR        DEC. 19, 1793              
+  49   49 2 S022005       Y=19 N=9                                            
+  49   49 3 TO AGREE TO THE THIRD SECTION OF THE HOUSE BILL                   
+  49   49 4 (APP 2/28/93, 1 STAT 325), MAKING APPROPRIATIONS FOR THE          
+  49   49 5 SUPPORT OF THE GOVERNMENT FOR 1793; SAID SECTION AUTHORIZES       
+  49   49 6 THE PRESIDENT TO BORROW A CERTAIN AMOUNT ON THE ACCOUNT OF        
+  49   49 7 CERTAIN STATES.                                                   
+  50   50 1 A-3- -653     J 2-2-492      HR        FEB. 23, 1793              
+  50   50 2 S022006       Y=15 N=14                                           
+  50   50 3 TO RECEDE FROM THE SENATE AMENDMENT TO H.R. 11 (APP               
+  50   50 4 2/18/93, 1 STAT 324), TO REGULATE THE CLAIMS TO INVALID           
+  50   50 5 PENSIONS, SAID AMENDMENT WOULD PROVIDE A LIFE PENSION TO          
+  50   50 6 EACH DISABLED VETERAN PLUS SUCH ARREARS OF PENSION AS             
+  50   50 7 THOUGHT JUST BY THE CIRCUIT COURT.                                
+  51   51 1 A-3- -656     J 2-2-495      SRE       FEB. 26, 1793              
+  51   51 2 S022007       Y=11 N=16                                           
+  51   51 3 TO AMEND THE BILL (APP 3/1/93, 1 STAT 329), TO REGULATE           
+  51   51 4 TRADE AND INTERCOURSE WITH THE INDIAN TRIBES; TO PERMIT A         
+  51   51 5 LICENSE TO BE ISSUED TO ANYONE FOR TRADE WITH INDIAN TRIBES.      
+  52   52 1 A-3- -663     J 2-2-502      SRE       MAR. 2, 1793               
+  52   52 2 S022008       Y=   N=                                             

@@ -1,0 +1,2022 @@
+   1   92 1 G 17- -63     J 30-1-69      SRE       DEC. 22, 1847              
+   1   92 2 S301001       Y=33 N=9                 BERRIEN, GA.               
+   1   92 3 TO TABLE THE MOTION TO RECEIVE THE PETITION PROVIDING FOR         
+   1   92 4 THE TERMINATION OF THE WAR IN MEXICO AND ALSO THAT THE            
+   1   92 5 POWERS VESTED IN CONGRESS BE USED FOR THE TERMINATION OF          
+   1   92 6 SLAVERY.  (P. 63-1)                                               
+   2   93 1 G 17- -78     J 30-1-83A     S31       DEC. 29, 1847              
+   2   93 2 S301002       Y=22 N=13                CRITTENDEN, KY.            
+   2   93 3 TO PASS S. 31 (APP. 5/31/1848, 0) PROVIDING FOR THE               
+   2   93 4 PURCHASE OF THE MANUSCRIPTS AND PAPERS OF THE LATE                
+   2   93 5 JAMES MADISON, FORMER PRESIDENT OF THE U.S.  (P. 78-3)            
+   3   94 1 G 17- -81     J 30-1-83B     S26       DEC. 29, 1847              
+   3   94 2 S301003       Y=19 N=19                CASS, MICH.                
+   3   94 3 TO CONSIDER S. 26, PROVIDING FOR THE ADDITION OF 10               
+   3   94 4 REGIMENTS FOR THE U.S. ARMY. (VICE-PRESIDENT VOTING IN THE        
+   3   94 5 AFFIRMATIVE.)  (P. 78-3)                                          
+   4   95 1 G 30-1-115    J 30-1-94A     S26       JAN. 5, 1848               
+   4   95 2 S301004       Y=19 N=26                CRITTENDEN, KY.            
+   4   95 3 TO AMEND IN THE NATURE OF A SUBSTITUTE, S. 26, PROVIDING FOR      
+   4   95 4 THE ADDITION OF TEN REGIMENTS TO THE U.S. ARMY, SO THAT THE       
+   4   95 5 VOLUNTEER FORCE IS INCREASED NOT TO EXCEED 30,000 TO SERVE        
+   4   95 6 FOR THREE YEARS AND WHEN COMPANIES ARE REDUCED IN RANK AND        
+   4   95 7 FILE, OFFICERS ARE PROPORTIONATELY REDUCED AT A CERTAIN           
+   4   95 8 RATE; OTHER SUCH INCREASES ALLOWED WHEN THIS IS                   
+   4   95 9 ACCOMPLISHED.  (P. 112-1)                                         
+   5   96 1 G 17- -       J 30-1-94B     S26       JAN. 5, 1848               
+   5   96 2 S301005       Y=23 N=24                BALDWIN, CONN.             
+   5   96 3 TO ADJOURN, DURING DEBATE ON S. 26, PROVIDING FOR AN              
+   5   96 4 INCREASE IN THE U.S. ARMY.                                        
+   6   97 1 G 17- -177    J 30-1-110     PROC      JAN. 13, 1848              
+   6   97 2 S301006       Y=22 N=21                WESTCOTT, FLA.             
+   6   97 3 TO RECONSIDER VOTE ORDERING ADJOURNMENT UNTIL MONDAY NEXT.        
+   7   98 1 G 17- -117    J 30-1-111A    PROC      JAN. 13, 1848              
+   7   98 2 S301007       Y=20 N=22                CASS, MICH.                
+   7   98 3 TO ADJOURN, DURING DEBATE ON ADJOURNMENT OVER TO MONDAY           
+   7   98 4 NEXT.  (P. 177-3)                                                 
+   8   99 1 G 17- -       J 30-1-111B    PROC      JAN. 13, 1848              
+   8   99 2 S301008       Y=22 N=21                CAMERON, PA.               
+   8   99 3 TO ADJOURN TILL MONDAY 1/17/1848.                                 
+   9  100 1 G 17- -197    J 30-1-119     SRE       JAN. 18, 1848              
+   9  100 2 S301009       Y=23 N=19                SEVIER, ARK.               
+   9  100 3 TO TABLE THE RESOLUTION PROVIDING THAT THE PRESIDENT BE           
+   9  100 4 REQUESTED TO LAY BEFORE THE SENATE ALL PLANS, ESTIMATES AND       
+   9  100 5 CALCULATIONS PRESENTED BY GENERAL SCOTT IN HIS OPINION BEST       
+   9  100 6 ADOPTED TO ATTAIN THE OBJECTION OF THE WAR WITH MEXICO.           
+   9  100 7 (P. 197-1)                                                        
+  10  101 1               J 30-1-124     SRE       JAN. 24, 1848              
+  10  101 2 S301010       Y=19 N=23                WESTCOTT, FLA.             
+  10  101 3 TO ADJOURN UNTIL MONDAY NEXT, WHILE CONSIDERING THE               
+  10  101 4 RESOLUTION AUTHORIZING THE ADMISSION OF JESSE E. DOW TO A         
+  10  101 5 SEAT IN THE REPORTERS GALLERY.                                    
+  11  102 1 G 17- -233    J 30-1-130     SRE       JAN. 24, 1848              
+  11  102 2 S301011       Y=28 N=22                HANNEGAN, IND.             
+  11  102 3 TO TABLE THE RESOLUTION INCORPORATING THE REQUEST OF THE          
+  11  102 4 PRESIDENT FOR INFORMATION CONCERNING THE EXTENT AND VALUE         
+  11  102 5 OF THE PUBLIC DOMAIN IN MEXICO.  (P. 233-2)                       
+  12  103 1 G 17- -249    J 30-1-135     S108      JAN. 26, 1848              
+  12  103 2 S301012       Y=16 N=26                ALLEN, OHIO                
+  12  103 3 TO ELIMINATE THE ENACTING CLAUSE OF S. 108, WHICH PROVIDES        
+  12  103 4 FOR AN EXTENSION OF THE PATENT OF JETHRO WOODS.                   
+  12  103 5 (P. 249-2,3)                                                      
+  13    1 1               EX J 7-300     SRE       FEB. 16, 1848              
+  13    1 2 E301001       Y=3 N=36                                            
+  13    1 3 TO CONSENT TO THE APPOINTMENT OF VICTOR E. PIOLLET OF             
+  13    1 4 PENNSYLVANIA AS ARMY PAYMASTER, EFFECTIVE JUNE 17, 1847.          
+  14  104 1 G 17- -363    J 30-1-178A    HJR1      FEB. 16, 1848              
+  14  104 2 S301013       Y=42 N=1                 CASS, MICH.                
+  14  104 3 TO ADOPT RESOLUTION THAT PROVIDES FOR THE EXPRESSION OF           
+  14  104 4 THANKS TO GENERAL SCOTT AND HIS TROOPS FOR THEIR                  
+  14  104 5 DISTINGUISHED GALLANTRY AND SERVICE TO THE U.S.                   
+  14  104 6 (P. 363-3)                                                        
+  15  105 1 G 17- -368A   J 30-1-178B    HJR1      FEB. 16, 1848              
+  15  105 2 S301014       Y=46 N=1                 CASS, MICH.                
+  15  105 3 TO ADOPT RESOLUTION EXPRESSING THE THANKS OF CONGRESS TO          
+  15  105 4 MAJOR GENERAL WINFRED SCOTT AND HIS TROOPS FOR DISTINGUISHED      
+  15  105 5 GALLANTRY AND GOOD CONDUCT IN THE 1847 CAMPAIGN.                  
+  15  105 6 (JP. 178)                                                         
+  16  106 1 G 17- -368B   J 30-1-178C    HJR1      FEB. 16, 1848              
+  16  106 2 S301015       Y=48 N=1                 CASS, MICH.                
+  16  106 3 TO ADOPT RESOLUTION PROVIDING FOR AN EXPRESSION OF THANKS         
+  16  106 4 OF CONGRESS TO MAJOR GENERAL TAYLOR.  (JP. 178)                   
+  17  107 1 G 17- -387A   J 30-1-189A    SRE       FEB. 24, 1848              
+  17  107 2 S301016       Y=11 N=37                SEVIER, ARK.               
+  17  107 3 TO TABLE RESOLUTION WHICH PROVIDES THAT THE PRESIDENT BE          
+  17  107 4 REQUESTED TO INFORM THE SENATE WHETHER THE ACTIVE                 
+  17  107 5 OPERATIONS OF THE ARMY IN MEXICO HAVE BEEN AND NOW ARE            
+  17  107 6 SUSPENDED BY AN ARMISTICE AND IF SO BY WHOSE AGENCY AND           
+  17  107 7 WHAT AUTHORITY SUCH ARMISTICE HAS BEEN EFFECTED.                  
+  17  107 8 (P. 387-2)                                                        
+  18  108 1 G 17- -387B   J 30-1-189B    SRE       FEB. 24, 1848              
+  18  108 2 S301017       Y=41 N=9                 ALLEN, OHIO                
+  18  108 3 TO ADOPT A RESOLUTION PROVIDING THAT THE PRESIDENT INFORM         
+  18  108 4 THE SENATE WHETHER THE ACTIVE OPERATIONS OF THE ARMY IN           
+  18  108 5 MEXICO HAVE BEEN AND NOW ARE SUSPENDED AND IF SO BY WHOSE         
+  18  108 6 AGENCY AND WHAT AUTHORITY SUCH ARMISTICE HAS BEEN EFFECTED.       
+  19  109 1 G 17- -388    J 30-1-190     SRE       FEB. 24, 1848              
+  19  109 2 S301018       Y=35 N=11                FOOTE, MISS.               
+  19  109 3 TO TABLE THE RESOLUTION PROVIDING THAT IF ANY TERRITORY BE        
+  19  109 4 ACQUIRED BY U.S. OR ANNEXED THERETO, THERE SHOULD BE A            
+  19  109 5 PROVISION WHEREBY SLAVERY OR INVOLUNTARY SERVITUDE, EXCEPT        
+  19  109 6 AS PUNISHMENT FOR CRIME, SHOULD BE EXCLUDED FOREVER FROM THE      
+  19  109 7 TERRITORY ANNEXED.  (P. 387-3)                                    
+  20  110 1 G 17- -403    J 30-1-196     SRE       FEB. 29, 1848              
+  20  110 2 S301019       Y=39 N=13                SEVIER, ARK.               
+  20  110 3 TO TABLE RESOLUTION PROVIDING THAT THE FORTIETH RULE OF           
+  20  110 4 CONDUCTING BUSINESS IN THE SENATE WHICH REQUIRES THAT THE         
+  20  110 5 SENATE CLOSE ITS DOORS WHEN TRANSACTING EXECUTIVE BUSINESS,       
+  20  110 6 BE RESCINDED AND SENATE HEREAFTER SIT WITH OPEN DOORS WHILE       
+  20  110 7 TRANSACTING ALL BUSINESS.                                         
+  21    2 1 G 7- -        EX J 7-312B    SRE       MAR. 2, 1848               
+  21    2 2 E301002       Y=0 N=48                 CRITTENDEN, KY.            
+  21    2 3 TO AMEND THE TREATY BETWEEN THE UNITED STATES AND MEXICO,         
+  21    2 4 SIGNED FEB. 2, 1848, AT GUADALUPE HIDALGO, BY ELIMINATING         
+  21    2 5 FROM THE TENTH ARTICLE THE PROVISION THAT ALL GRANTEES OF         
+  21    2 6 LAND IN TEXAS SHALL BE OBLIGATED TO FULFILL THE CONDITIONS        
+  21    2 7 OF THEIR GRANTS WITHIN THE STATED PERIODS, SUCH PERIODS TO        
+  21    2 8 DATE FROM THE EXCHANGE OF RATIFICATIONS, DEFAULT TO MAKE          
+  21    2 9 SUCH GRANTS NULL AND VOID. (RAT:5/30/48 PRO: 7/4/48)              
+  21    210 (9 STAT L. 922)  (P. 302, 312)                                    
+  22    3 1               J 30-APP-618   SRE       MAR. 2, 1848               
+  22    3 2 E301003       Y=15 N=30                MILLER, N.J.               
+  22    3 3 TO ADJOURN, DURING DEBATE ON TREATY.                              
+  23    4 1               J 30-APP-619   SRE       MAR. 2, 1848               
+  23    4 2 E301004       Y=17 N=32                MANGUM, N.C.               
+  23    4 3 TO LET STAND THE WORDS IN THE TREATY THAT THE MEXICAN             
+  23    4 4 GOVERNMENT DECLARES THAT NO GRANT WHATEVER OF LANDS IN            
+  23    4 5 TEXAS HAS BEEN MADE SINCE MARCH 2, 1836, AND THAT NO GRANT        
+  23    4 6 OF LANDS IN ANY OF THE TERRITORIES AFORESAID HAS BEEN MADE        
+  23    4 7 SINCE MAY 13, 1846.                                               
+  24    5 1               J 30-APP-620A  SRE       MAR. 3, 1848               
+  24    5 2 E301005       Y=19 N=33                SEVIER, ARK.               
+  24    5 3 TO LET STAND THE WORDS IN THE TREATY THAT ALL GRANTS OF           
+  24    5 4 LANDS MADE BY THE MEXICAN GOVERNMENT OR BY COMPETENT              
+  24    5 5 AUTHORITIES IN TERRITORIES PREVIOUSLY APPERTAINING TO             
+  24    5 6 MEXICO AND REMAINING FOR THE FUTURE WITHIN THE LIMITS OF THE      
+  24    5 7 UNITED STATES, SHALL BE RESPECTED AS VALID TO THE SAME            
+  24    5 8 EXTENT THAT THE SAME GRANTS WOULD BE VALID IF THE SAID            
+  24    5 9 TERRITORIES HAD REMAINED WITHIN THE LIMITS OF MEXICO.             
+  25    6 1               J 30-APP-620B  SRE       MAR. 3, 1848               
+  25    6 2 E301006       Y=20 N=29                BREESE, ILL.               
+  25    6 3 TO LET STAND THE WORDS IN THE TREATY "NOR TO PROVIDE SUCH         
+  25    6 4 INDIANS WITH FIREARMS OR AMMUNITION".                             
+  26    7 1               J 30-APP-621   SRE       MAR. 3, 1848               
+  26    7 2 E301007       Y=39 N=12                RUSK, TEX.                 
+  26    7 3 TO LET STAND THE PROVISION IN THE ELEVENTH ARTICLE OF THE         
+  26    7 4 TREATY WITH MEXICO, WHICH PROVISION BINDS THE U.S. TO             
+  26    7 5 RESCUE AND RETURN MEXICANS CAPTURED BY THE INDIANS AND            
+  26    7 6 TAKEN TO THE U.S. TERRITORY, WHETHER OR NOT MEXICO INFORMS        
+  26    7 7 US OF SUCH KIDNAPPING AND ALSO BINDS THE U.S. TO PASS LAWS        
+  26    7 8 AGAINST THIS CRIME.                                               
+  27    8 1               J 30-APP-622A  SRE       MAR. 3, 1848               
+  27    8 2 E301008       Y=47 N=5                 DOUGLAS, ILL.              
+  27    8 3 TO LET STAND THE WORDS IN THE TREATY STIPULATING THAT THE         
+  27    8 4 UNITED STATES SHALL FORCIBLY CURB INVASIONS OF MEXICO BY          
+  27    8 5 SAVAGE TRIBES OF THE U.S., AND THE PUNISHMENT AND                 
+  27    8 6 SATISFACTION FOR SAME SHALL BE EXACTED THE SAME AS IF SUCH        
+  27    8 7 INVASIONS WERE MADE AGAINST UNITED STATES TERRITORY AND           
+  27    8 8 CITIZENS.                                                         
+  28    9 1               J 30-APP-622B  SRE       MAR. 3, 1848               
+  28    9 2 E301009       Y=2 N=48                 SEVIER, ARK.               
+  28    9 3 TO RATIFY THE ADDITIONAL AND SECRET ARTICLE OF THE SAID           
+  28    9 4 TREATY.                                                           
+  29   10 1               J 30-APP-622C  SRE       MAR. 4, 1848               
+  29   10 2 E301010       Y=41 N=9                 WESTCOTT, FLA.             
+  29   10 3 TO LET STAND THE WORDS IN THE TREATY REGARDING AN AMOUNT          
+  29   10 4 NOT EXCEEDING $3,250,000.                                         
+  30   11 1               J 30-APP-623A  SRE       MAR. 4, 1848               
+  30   11 2 E301011       Y=39 N=10                DOUGLAS, ILL.              
+  30   11 3 TO LET STAND THE WORDS IN THE TREATY STIPULATING THAT THE         
+  30   11 4 UNITED STATES SHALL DEMAND RELEASE OF ANY MEXICAN NOW HELD        
+  30   11 5 CAPTIVE BY SAVAGES ON UNITED STATES TERRITORY AND RESTORING       
+  30   11 6 HIM TO HIS COUNTRY.                                               
+  31   12 1               J 30-APP-623B  SRE       MAR. 4, 1848               
+  31   12 2 E301012       Y=42 N=11                DAVIS, MISS.               
+  31   12 3 TO LET STAND THE WORDS IN THE TREATY THAT NO CHANGE SHALL         
+  31   12 4 EVER BE MADE THEREIN EXCEPT BY THE EXPRESS AND FREE CONSENT       
+  31   12 5 OF BOTH NATIONS, LAWFULLY GIVEN BY THE GENERAL GOVERNMENT         
+  31   12 6 OF EACH, IN CONFORMITY WITH ITS OWN CONSTITUTION.                 
+  32   13 1               J 30-APP-624A  SRE       MAR. 4, 1848               
+  32   13 2 E301013       Y=45 N=5                 DAVIS, MISS.               
+  32   13 3 TO LET STAND THE WORDS IN THE TREATY PROVIDING THAT NO            
+  32   13 4 HARM BEFALL THE PERSONS OR PROPERTY OF WOMEN, CHILDREN,           
+  32   13 5 ECCLESIASTICS,SCHOLARS, FARMERS, MERCHANTS, ARTISANS,             
+  32   13 6 MANUFACTURERS AND FISHERMEN WHO ARE UNARMED AND INHABIT           
+  32   13 7 UNFORTIFIED TOWNS, IN EVENT EITHER COUNTRY ATTACKS THE            
+  32   13 8 OTHER, AND IF PROPERTY IS TAKEN IT MUST BE PAID FOR, AND          
+  32   13 9 THAT ALL CHURCHES, SCHOOLS, HOSPITALS, COLLEGES, LIBRARIES,       
+  32   1310 AND OTHER CHARITABLE AND BENEFICIENT INSTITUTIONS, AND ALL        
+  32   1311 CONNECTED WITH SAME, SHALL BE UNDISTURBED.                        
+  33   14 1               J 30-APP-624B  SRE       MAR. 4, 1848               
+  33   14 2 E301014       Y=25 N=29                JOHNSON, MD.               
+  33   14 3 TO ADJOURN, DURING DEBATE ON THE TREATY.                          
+  34   15 1               J 30-APP-625   SRE       MAR. 4, 1848               
+  34   15 2 E301015       Y=27 N=19                LEWIS, ALA.                
+  34   15 3 TO ADJOURN, DURING DEBATE ON TREATY.                              
+  35   16 1               J 30-APP-627A  SRE       MAR. 6, 1848               
+  35   16 2 E301016       Y=11 N=44                DAVIS, MISS.               
+  35   16 3 TO AMEND THE TREATY BY NAMING THE EXACT BOUNDARIES BETWEEN        
+  35   16 4 THE UNITED STATES AND MEXICO, AND PROVIDING THAT EACH             
+  35   16 5 COUNTRY APPOINT ITS COMMISSIONER AND SURVEYOR TO DESIGNATE        
+  35   16 6 THE BOUNDARIES ON MAPS, THIS WORK TO BEGIN WITHIN ONE YEAR        
+  35   16 7 AFTER DUAL RATIFICATION OF THE TREATY, IN WHICH SHALL BE          
+  35   16 8 INCORPORATED THEIR REPORTS AND AGREEMENTS.                        
+  36   17 1               J 30-APP-627B  SRE       MAR. 7, 1848               
+  36   17 2 E301017       Y=38 N=7                 JOHNSON, GA.               
+  36   17 3 TO AMEND THE TREATY BY ADDING TO THE NINTH ARTICLE AFTER THE      
+  36   17 4 WORDS "MEXICAN LAWS" THE CLAUSE "NOT INCONSISTENT WITH THE        
+  36   17 5 CONSTITUTION AND LAWS OF THE UNITED STATES," AS APPLICABLE        
+  36   17 6 TO THE RELATIONS AND COMMUNICATIONS BETWEEN THE CATHOLICS         
+  36   17 7 LIVING IN MEXICAN TERRITORIES AND THEIR RESPECTIVE ECCLESIA-      
+  36   17 8 TICAL AUTHORITIES, IN ORDER THAT THEY BE EXEMPT FROM              
+  36   17 9 HINDRANCE.                                                        
+  37   18 1               J 30-APP-628A  SRE       MAR. 7, 1848               
+  37   18 2 E301018       Y=13 N=29                JOHNSON, GA.               
+  37   18 3 TO AMEND THE TREATY BY ADDING TO THE NINTH ARTICLE A              
+  37   18 4 PROVISO THAT NOTHING THEREIN CONTAINED SHALL BE CONSTRUED AS      
+  37   18 5 GIVING TO ROMAN CATHOLICS ANY OTHER RIGHTS AND PRIVILEGES         
+  37   18 6 THAN SUCH ENJOYED BY OTHER RELIGIOUS SECTS IN THE U.S.            
+  38   19 1               J 30-APP-628B  SRE       MAR. 7, 1848               
+  38   19 2 E301019       Y=18 N=29                WESTCOTT, FLA.             
+  38   19 3 TO LET STAND THE WORDS IN THE TREATY THAT THE RELATIONS AND       
+  38   19 4 COMMUNICATIONS BETWEEN THE CATHOLICS LIVING IN THE                
+  38   19 5 AFORESAID TERRITORIES AND THEIR RESPECTIVE ECCLESIASTICAL         
+  38   19 6 AUTHORITIES SHALL BE OPEN, FREE AND EXEMPT FROM ALL               
+  38   19 7 HINDRANCES, EVEN THOUGH SUCH AUTHORITIES SHALL LIVE WITHIN        
+  38   19 8 THE LIMITS OF MEXICO AS DEFINED BY THIS TREATY; THAT THIS         
+  38   19 9 FREEDOM SHALL CONTINUE SO LONG AS A NEW DEMARCATION OF            
+  38   1910 ECCLESIASTICAL DISTRICTS SHALL NOT HAVE BEEN MADE,                
+  38   1911 CONFORMABLE WITH THE LAWS OF THE ROMAN CATHOLIC CHURCH.           
+  39   20 1               J 30-APP-629   SRE       MAR. 7, 1848               
+  39   20 2 E301020       Y=16 N=31                DAVIS, MASS.               
+  39   20 3 TO LET STAND THE WORDS IN THE TREATY GRANTING AMERICAN            
+  39   20 4 CITIZENSHIP TO MEXICANS LIVING IN THE UNITED STATES AND           
+  39   20 5 DESIRING TO BECOME CITIZENS, UNTIL WHICH TIME THEY SHALL BE       
+  39   20 6 PROTECTED IN THE CIVIL RIGHTS GRANTED THEM UNDER MEXICAN          
+  39   20 7 LAW; THAT THEIR POLITICAL RIGHTS ARE TO BE ON PAR WITH            
+  39   20 8 INHABITANTS OF LOUISIANA AND FLORIDA, WHEN THESE PROVINCES        
+  39   20 9 BECOME U.S. TERRITORY; THAT ECCLESIASTICS AND RELIGIOUS           
+  39   2010 GROUPS SHALL ENJOY FREEDOM, INDIVIDUAL AND CORPORATE; AND         
+  39   2011 THAT THEIR PROPERTY IS NOT TO BE CONSIDERED GOVERNMENT            
+  39   2012 PROPERTY NOR SUBJECT TO BE SOLD OR DIVERTED TO GOVERNMENT         
+  39   2013 USE.                                                              
+  40   21 1               J 30-APP 630A  SRE       MAR. 7, 1848               
+  40   21 2 E301021       Y=42 N=4                 MASON, VA.                 
+  40   21 3 TO AMEND THE TREATY BY ADDING THAT THE MEXICANS IN THE            
+  40   21 4 AFORESAID TERRITORIES SHALL BE SECURED IN THE FREE EXERCISE       
+  40   21 5 OF THEIR RELIGION; THOSE DESIRING TO REMOVE TO MEXICO SHALL       
+  40   21 6 BE PERMITTED TO SELL OR EXPORT THEIR EFFECTS AT ANY TIME          
+  40   21 7 WITHOUT PAYING DUTIES; AND THOSE MEXICANS NOT RETAINING THE       
+  40   21 8 CHARACTER OF MEXICAN CITIZENS SHALL BE INCORPORATED INTO THE      
+  40   21 9 UNION OF THE U.S. AS SOON AS CONSISTENT WITH THE PRINCIPLES       
+  40   2110 OF THE FEDERAL CONSTITUTION, WITH ALL PRIVILEGES, RIGHTS AND      
+  40   2111 IMMUNITIES OF UNITED STATES CITIZENS, AND THEY WILL BE            
+  40   2112 PROTECTED IN THEIR LIBERTY AND PROPERTY UNTIL THEY ARE MADE       
+  40   2113 CITIZENS.                                                         
+  41   22 1               J 30-APP 630B  SRE       MAR. 7, 1848               
+  41   22 2 E301022       Y=44 N=1                 SEVIER, ARK.               
+  41   22 3 TO AMEND THE TREATY BY INSERTING THE WORDS, "OR AT THE SEAT       
+  41   22 4 OF THE GOVERNMENT OF MEXICO," AFTER THE WORD "WASHINGTON".        
+  42   23 1               J 30-APP-631   SRE       MAR. 7, 1848               
+  42   23 2 E301023       Y=18 N=30                CRITTENDEN, KY.            
+  42   23 3 TO PASS THE RESOLUTION TO RECOMMIT THE TREATY TO THE              
+  42   23 4 COMMITTEE ON FOREIGN RELATIONS WITH INSTRUCTIONS TO MODIFY        
+  42   23 5 IT IN CONFORMITY WITH THESE FOLLOWING RESOLUTIONS; (1) THAT       
+  42   23 6 THE UNITED STATES SHOULD NOT EXACT INDEMNITIES NOR PEACE          
+  42   23 7 TERMS BEYOND OUR RIGHTFUL CLAIMS; (2) TO CONCUR IN THE            
+  42   23 8 PRESIDENT'S SENTIMENT THAT WAR SHOULD NOT BE WAGED FOR            
+  42   23 9 ACQUISITION OF TERRITORY BY CONQUEST, BUT IF MEXICO WANTS         
+  42   2310 TO SETTLE OUR CLAIMS BY A CESSION OF LAND, WE PREFER A            
+  42   2311 SMALLER ONE, AT A LOWER PRICE, THAN DESCRIBED IN THE TREATY       
+  42   2312 BEFORE THE SENATE, WITH OUR PRINCIPAL OBJECT BEING THE            
+  42   2313 ESTABLISHMENT OF THE BOUNDARY OF TEXAS, AND ACQUISITION OF        
+  42   2314 SAN FRANCISCO'S BAY AND HARBOR; (3) BY ADHERING TO THEIR          
+  42   2315 LIMITED CESSION WE WOULD PRESERVE THE TRUE PRINCIPLES OF OUR      
+  42   2316 GOVERNMENT, AVOID DOMESTIC PROBLEMS, AND SET BEFORE THE           
+  42   2317 WORLD AN EXAMPLE OF JUSTICE AND MODERATION; (4) THAT IT IS        
+  42   2318 AGAINST THE WISHES AND EXPECTATIONS OF THE AMERICAN PEOPLE        
+  42   2319 TO ACCEPT THE CESSION OF THE STATE OF MEXICO WITH ITS             
+  42   2320 150,000 HOSTILE PEOPLE, WHO ARE UNWILLING AND UNFIT TO BE         
+  42   2321 UNITED WITH US.                                                   
+  43   24 1               J 30-APP-633A  SRE       MAR. 8, 1848               
+  43   24 2 E301024       Y=35 N=15                BADGER, N.C.               
+  43   24 3 TO ALLOW CERTAIN WORDS IN THE FIFTH SECTION OF THE TREATY         
+  43   24 4 WITH MEXICO TO STAND. THE WORDS RELATE TO THE BOUNDARY            
+  43   24 5 BETWEEN U.S. AND MEXICO.                                          
+  44   25 1               J 30-APP-633B  SRE       MAR. 8, 1848               
+  44   25 2 E301025       Y=15 N=38                BALDWIN, CONN.             
+  44   25 3 TO AMEND THE TREATY BY ADDING THAT THERE SHALL BE NEITHER         
+  44   25 4 SLAVERY NOR INVOLUNTARY SERVITUDE IN THE TERRITORIES HEREBY       
+  44   25 5 CEDED, EXCEPT IN PUNISHMENT OF CRIMES WHEREOF THE PARTY HAS       
+  44   25 6 BEEN DULY CONVICTED.                                              
+  45   26 1               J 30-APP-634A  SRE       MAR. 8, 1848               
+  45   26 2 E301026       Y=16 N=28                                           
+  45   26 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE ARTICLE IN       
+  45   26 4 THE TREATY REGARDING THE RELIGIOUS FREEDOM OF MEXICAN             
+  45   26 5 EMIGRANTS TO THE U.S.                                             
+  46   27 1               J 30-APP-634B  SRE       MAR. 8, 1848               
+  46   27 2 E301027       Y=34 N=18                BELL, TENN.                
+  46   27 3 TO LET STAND THE WORDS OF THE TREATY GIVING FULL AMERICAN         
+  46   27 4 CITIZENSHIP TO MEXICANS IN AMERICAN TERRITORY WHO DROP            
+  46   27 5 THEIR MEXICAN CITIZENSHIP, AND PROTECTING THEIR                   
+  46   27 6 LIBERTY AND PROPERTY UNTIL THEY ARE MADE CITIZENS.                
+  47   28 1               J 30-APP-635A  SRE       MAR. 8, 1848               
+  47   28 2 E301028       Y=15 N=33                BELL, TENN.                
+  47   28 3 SHALL WORDS ADDED TO THE 9TH ARTICLE OF THE TREATY STAND?         
+  47   28 4 THE WORDS PLEDGE ONLY THE PROTECTION OF THE LIBERTY AND           
+  47   28 5 PROPERTY RIGHTS OF MEXICANS WHO, LIVING IN AMERICAN               
+  47   28 6 TERRITORY, DROP THEIR MEXICAN CITIZENSHIP.                        
+  48   29 1               J 30-APP-635B  SRE       MAR. 8, 1848               
+  48   29 2 E301029       Y=0 N=46                 CRITTENDEN, KY.            
+  48   29 3 TO LET STAND THE WORDS IN THE TREATY THAT MEXICANS IN             
+  48   29 4 AMERICAN TERRITORY SHALL BE PERMITTED FREEDOM OF RELIGION         
+  48   29 5 AND ON MOVING TO MEXICO THEIR EFFECTS CAN BE SOLD OR              
+  48   29 6 EXPORTED WITHOUT PAYMENT OF DUTY.                                 
+  49   30 1               J 30-APP-636A  SRE       MAR. 8, 1848               
+  49   30 2 E301030       Y=44 N=5                 CRITTENDEN, KY.            
+  49   30 3 TO AMEND THE TREATY SO THAT MEXICANS WHO, LIVING IN U.S.          
+  49   30 4 TERRITORY, SHALL DROP THEIR MEXICAN CITIZENSHIP, SHALL HAVE       
+  49   30 5 RELIGIOUS FREEDOM AND PROTECTION OF THEIR LIBERTY AND             
+  49   30 6 PROPERTY, AND ALSO SHALL BE ADMITTED TO UNITED STATES             
+  49   30 7 CITIZENSHIP AT THE PROPER TIME JUDGED BY CONGRESS AND             
+  49   30 8 CONSTITUTIONAL PRINCIPLES.                                        
+  50   31 1               J 30-APP-636B  SRE       MAR. 8, 1848               
+  50   31 2 E301031       Y=0 N=41                 SEVIER, ARK.               
+  50   31 3 TO RATIFY THE 10TH ARTICLE OF THE TREATY WITH MEXICO, SAID        
+  50   31 4 ARTICLE DEALING WITH THE BOUNDARY LINE BETWEEN U.S. AND           
+  50   31 5 MEXICO.                                                           
+  51   32 1               J 30-APP-636C  SRE       MAR. 8, 1848               
+  51   32 2 E301032       Y=28 N=17                BREESE, ILL.               
+  51   32 3 TO CONCUR IN AN AMENDMENT TO ELIMINATE FROM THE 11TH              
+  51   32 4 ARTICLE THE PROHIBITION ON THE SALE OF GUNS AND BULLETS TO        
+  51   32 5 INDIANS IN AMERICAN TERRITORY.                                    
+  52   33 1               J 30-APP-637A  SRE       MAR. 8, 1848               
+  52   33 2 E301033       Y=26 N=26                WEBSTER, MASS.             
+  52   33 3 TO ADJOURN, DURING DEBATE ON THE TREATY.                          
+  53   34 1               J 30-APP-637B  SRE       MAR. 8, 1848               
+  53   34 2 E301034       Y=38 N=1                 SEVIER, ARK.               
+  53   34 3 TO LET STAND IN THE 23RD ARTICLE OF THE TREATY, AFTER             
+  53   34 4 "WASHINGTON" THE WORDS, "OR AT THE SEAT OF THE GOVERNMENT         
+  53   34 5 OF MEXICO".                                                       
+  54   35 1               J 30-APP-638A  SRE       MAR. 9, 1848               
+  54   35 2 E301035       Y=48 N=0                 SEVIER, ARK.               
+  54   35 3 TO INSERT IN THE THIRD ARTICLE OF THE TREATY AFTER THE WORD       
+  54   35 4 "REPUBLIC", THE WORDS "AND THE RATIFICATIONS EXCHANGED".          
+  55   36 1               J 30-APP-638B  SRE       MAR. 9, 1848               
+  55   36 2 E301036       Y=40 N=11                MANGUM, N.C.               
+  55   36 3 TO LET STAND THE FOLLOWING WORDS IN THE TREATY "TO AN             
+  55   36 4 AMOUNT NOT EXCEEDING $3,250,000".                                 
+  56   37 1               J 30-APP-639A  SRE       MAR. 9, 1848               
+  56   37 2 E301037       Y=32 N=16                DAVIS, MASS.               
+  56   37 3 TO LET STAND THE PREAMBLE TO THE TREATY.                          
+  57   38 1               J 30-APP-639B  SRE       MAR. 9, 1848               
+  57   38 2 E301038       Y=34 N=19                DAVIS, MASS.               
+  57   38 3 TO LET STAND THESE WORDS IN THE TREATY-- "CERTIFICATES IN         
+  57   38 4 PROPER FORM FOR THE SAID INSTALLMENTS, RESPECTIVELY, IN           
+  57   38 5 SUCH SUMS AS SHALL BE DESIRED BY THE MEXICAN GOVERNMENT,          
+  57   38 6 TRANSFERABLE TO IT, SHALL BE DELIVERED TO THE SAID                
+  57   38 7 GOVERNMENT BY THAT OF THE U.S.".                                  
+  58   39 1               J 30-APP-640   SRE       MAR. 9, 1848               
+  58   39 2 E301039       Y=28 N=22                DAVIS, MISS.               
+  58   39 3 TO LET STAND THE WORDS IN THE TREATY DESIGNATING A DUAL MODE      
+  58   39 4 OF PAYMENT TO MEXICO ON RATIFICATION OF THIS TREATY; -- A         
+  58   39 5 $3,000,000 CASH PAYMENT IN MEXICAN GOLD OR SILVER COIN WITH       
+  58   39 6 THE REMAINING $12,000,000 TO BE PUT IN STOCK BEARING 6 PER-       
+  58   39 7 CENT INTEREST.                                                    
+  59   40 1               J 30-APP-641A  SRE       MAR. 9, 1848               
+  59   40 2 E301040       Y=17 N=35                BALDWIN, CONN.             
+  59   40 3 TO AMEND THE TREATY BY INSERTING AT END OF THE 12TH ARTICLE       
+  59   40 4 THE PROVISION THAT THE $12,000,000 TO BE GIVEN MEXICO FOR         
+  59   40 5 TERRITORY SHALL NOT BE PAYABLE UNTIL THE ASSENT OF THE PEO-       
+  59   40 6 PLE AND GOVERNMENTS OF NEW MEXICO AND CALIF. SHALL BE GIVEN       
+  59   40 7 TO THE PRESIDENT.                                                 
+  60   41 1               J 30-APP-641B  SRE       MAR. 9, 1848               
+  60   41 2 E301041       Y=20 N=29                MANGUM, N.C.               
+  60   41 3 TO RECONSIDER THE VOTE ON ELIMINATING THE PREAMBLE FROM THE       
+  60   41 4 TREATY.                                                           
+  61   42 1               J 30-APP-641C  SRE       MAR. 9, 1848               
+  61   42 2 E301042       Y=30 N=18                DAVIS, MASS.               
+  61   42 3 TO ELIMINATE THE FIRST OF TWO MODES OF PAYING $15,000,000 TO      
+  61   42 4 MEXICO FOR CEDING TERRITORY, WHICH MODE STIPULATES A              
+  61   42 5 $3,000,000 CASH PAYMENT IN MEXICAN GOLD OR SILVER COIN ON         
+  61   42 6 RATIFICATION OF TREATY AND CREATES $12,000,000 IN STOCK           
+  61   42 7 BEARING 6% INTEREST, PAYABLE ANNUALLY AT WASHINGTON, D.C.,        
+  61   42 8 THE PRINCIPAL REDEEMABLE AFTER TWO YEARS AT PLEASURE OF THE       
+  61   42 9 UNITED STATES GOVERNMENT, AFTER SIX MONTHS NOTICE, IN             
+  61   4210 TRANSFERABLE STOCK CERTIFICATES IN SUMS SPECIFIED BY THE          
+  61   4211 MEXICAN GOVERNMENT.                                               
+  62   43 1               J 30-APP-643   SRE       MAR. 10, 1848              
+  62   43 2 E301043       Y=33 N=18                JOHNSON, MD.               
+  62   43 3 TO AMEND THE TREATY BY INSERTING A CLAUSE AT THE END OF THE       
+  62   43 4 12TH ARTICLE, AS FOLLOWS: "CERTIFICATES IN PROPER FORM FOR        
+  62   43 5 THE TWO FIRST OF SAID INSTALLMENTS, IN SUCH SUMS AS SHALL         
+  62   43 6 BE DESIRED BY THE MEXICAN GOVERNMENT, AND TRANSFERABLE BY         
+  62   43 7 IT, SHALL BE DELIVERED TO THE SAID GOVERNMENT BY THE U.S.         
+  63   44 1               J 30-APP-644A  SRE       MAR. 10, 1848              
+  63   44 2 E301044       Y=26 N=23                CASS, MICH.                
+  63   44 3 TO AMEND THE RESOLUTION FOR RATIFICATION OF THE TREATY BY         
+  63   44 4 PROVIDING A PREAMBLE WHICH DETAILS THE CONDUCT OF                 
+  63   44 5 NICHOLAS P. TRIST, COMMISSIONED BY THE PRESIDENT TO               
+  63   44 6 NEGOTIATE A TREATY WITH MEXICO. TRIST, APPOINTED                  
+  63   44 7 APR. 15, 1847, IGNORED HIS RECALL ON OCT. 6, 1847 AND ON          
+  63   44 8 FEB. 2, 1848 NEGOTIATED A TREATY.  THE TERMS OF                   
+  63   44 9 THIS AGREEMENT CONFORMED SUBSTANTIALLY TO THE COMMISSIONERS'      
+  63   4410 INSTRUCTIONS, AND THE PRES., HAVING ADOPTED THE AGREEMENT         
+  63   4411 AS A TREATY, SUBMITTED IT TO THE SENATE FOR RATIFICATION.         
+  64   45 1               J 30-APP-644B  SRE       MAR. 10, 1848              
+  64   45 2 E301045       Y=38 N=14                SEVIER, ARK.               
+  64   45 3 TO RATIFY THE TREATY.                                             
+  65  111 1 G 17- -467A   J 30-1-215A    S26       MAR. 15, 1848              
+  65  111 2 S301020       Y=17 N=28                BUTLER, S.C.               
+  65  111 3 TO RECOMMIT S. 26 TO THE COMMITTEE ON MILITARY AFFAIRS WITH       
+  65  111 4 INSTRUCTIONS TO AMEND, SUBSTITUTING SUBJECT AS FOLLOWS,           
+  65  111 5 THERE SHALL BE ADDED TO EACH COMPANY OF ARTILLERY, INFANTRY,      
+  65  111 6 AND REGIMENT OF RIFLEMEN, A SPECIFIED NUMBER OF PRIVATES; AS      
+  65  111 7 MANY SUBALTERNS AS WILL PROVIDE TWO 1ST LIEUTENANTS AND TWO       
+  65  111 8 2ND LIEUTENANTS; TROOPS MUST SERVE IN MEXICAN WAR AND MAY BE      
+  65  111 9 DISCHARGED SOONER BY PRES. OF THE U.S.  (P. 467-2)                
+  66  112 1 G 17- -467B   J 30-1-215B    S26       MAR. 15, 1848              
+  66  112 2 S301021       Y=17 N=26                BADGER, N.C.               
+  66  112 3 TO GO INTO EXECUTIVE SESSION DURING DEBATE ON S. 26.              
+  66  112 4 (P. 467-3)                                                        
+  67  113 1 G 17- -468A   J 30-1-215C    S26       MAR. 15, 1848              
+  67  113 2 S301022       Y=18 N=28                MANGUM, N.C.               
+  67  113 3 TO TABLE S. 26.  (P. 468-3)                                       
+  68  114 1 G 17- -468    J 30-1-217     S26       MAR. 16, 1848              
+  68  114 2 S301023       Y=27 N=17                BERRIEN, GA.               
+  68  114 3 TO ADJOURN, DURING DEBATE ON S. 26.                               
+  69  115 1 G 17- -501    J 30-1-219A    S26       MAR. 17, 1848              
+  69  115 2 S301024A      Y=20 N=28                JOHNSON, LA.               
+  69  115 3 TO RECOMMIT S. 26 TO THE COMMITTEE ON MILITARY AFFAIRS,           
+  69  115 4 WITH INSTRUCTIONS TO AMEND IT BY PROVIDING THAT THE               
+  69  115 5 PRESIDENT SHALL NOT APPOINT ANY OFFICER TO DO ANY OTHER ACT       
+  69  115 6 IN EXECUTION OF THIS ACT UNTIL THE PENDING NEGOTIATIONS           
+  69  115 7 WITH MEXICO FOR SECURING PEACE BY TREATY HAVE FAILED.             
+  70  116 1 G 17- -501    J 30-1-219B    S26       MAR. 17, 1848              
+  70  116 2 S301024B      Y=22 N=26                BAGBY, ALA.                
+  70  116 3 TO ADJOURN, DURING DEBATE ON S. 26.  (P. 501-1)                   
+  71  117 1 G 17- -503    J 30-1-220     S26       MAR. 17, 1848              
+  71  117 2 S301025       Y=29 N=19                CASS, MICH.                
+  71  117 3 TO PASS S. 26.   (P. 486-2)                                       
+  72  118 1 G 17- -514    J 30-1-223     HR135     MAR. 20, 1848              
+  72  118 2 S301026       Y=13 N=28                BENTON, MO.                
+  72  118 3 TO AMEND H.R. 135 (APP. 3/27/1848), TO SUPPLY DEFICIENCIES        
+  72  118 4 IN THE APPROPRIATIONS FOR FISCAL YEAR 1848, WHICH AMENDMENT       
+  72  118 5 SOUGHT TO CHANGE THE NATURE OF THE MISSION TO ROME FROM           
+  72  118 6 CHARGE D'AFFAIRS TO MINISTER PLENIPOTENTIARY. ((P. 509-1)         
+  73  119 1 G 17- -520    J 30-1-225     HR135     MAR. 21, 1848              
+  73  119 2 S301027       Y=7 N=36                 BADGER, N.C.               
+  73  119 3 TO AMEND H.R. 135 (APP. 3/27/1848), BY ELIMINATING THE            
+  73  119 4 WORDS "PAPAL STATES" FROM THE PARAGRAPH ON DIPLOMATIC             
+  73  119 5 REPRESENTATION.  (P. 520-3)                                       
+  74  120 1 G 17- -521    J 30-1-226     HR135     MAR. 21, 1848              
+  74  120 2 S301028       Y=19 N=23                HANNEGAN, IND.             
+  74  120 3 TO AMEND H.R. 135 (APP. 3/27/1848), APPROPRIATING FOR             
+  74  120 4 DEFICIENCIES IN APPROPRIATIONS FOR THE FISCAL YEAR 1848, BY       
+  74  120 5 ADDING A $6,000 APPROPRIATION FOR SALARY OF A MINISTER TO         
+  74  120 6 THE PAPAL STATES.  (P. 521-1)                                     
+  75  121 1 G 17- -526    J 30-1-229     SJR1      MAR. 22, 1848              
+  75  121 2 S301029       Y=28 N=10                BENTON, MO.                
+  75  121 3 TO ADOPT THE RESOLUTION PROMOTING THE PURCHASE OF HEMP FOR        
+  75  121 4 USE OF THE UNITED STATES NAVY.  (P. 526-2)                        
+  76  122 1 G 17- -536    J 30-1-234     S150      MAR. 24, 1848              
+  76  122 2 S301030       Y=25 N=9                 JOHNSON, LA.               
+  76  122 3 TO ENGROSS AND READ FOR THE THIRD TIME S. 150                     
+  76  122 4 (APP. 4/18/1848), GRANTING A PENSION TO PATRICK WALKER DUE        
+  76  122 5 TO PHYSICAL DISABILITIES INCURRED WHILE IN THE SERVICE OF         
+  76  122 6 THE U.S. IN THE MEXICAN WAR.                                      
+  77  123 1 G 17- -549    J 30-1-242     HR104     MAR. 28, 1848              
+  77  123 2 S301031       Y=34 N=2                 ATHERTON, N.H.             
+  77  123 3 TO ENGROSS AND READ FOR THE THIRD TIME H.R. 104,                  
+  77  123 4 AUTHORIZING A LOAN, NOT TO EXCEED 16 MILLION DOLLARS, TO          
+  77  123 5 COVER CERTAIN DEFICIENCIES IN THE TREASURY.  (P. 549-2,3)         
+  78  124 1 G 17- -567    J 30-1-246     SRE       MAR. 30, 1848              
+  78  124 2 S301032       Y=23 N=7                 TURNEY, TENN.              
+  78  124 3 TO TABLE THE MOTION FOR RECEPTION OF A PETITION ON SLAVERY,       
+  78  124 4 WHICH PROVIDES THAT AN INQUIRY BE MADE INTO THE                   
+  78  124 5 CONSTITUTIONALTY OF SLAVERY AND THE PROPRIETY OF EXTENDING        
+  78  124 6 THE WRIT OF HABEUS CORPUS TO EVERY INHABITANT OF THE U.S.         
+  79  125 1 G 17- -569    J 30-1-247     SJR15     MAR. 30, 1848              
+  79  125 2 S301033       Y=14 N=28                CALHOUN, S.C.              
+  79  125 3 TO TABLE S.J. RES. 15 (APP. 4/13/1848) PROVIDING FOR              
+  79  125 4 CONGRATULATIONS TO FRANCE IN THE NAME OF THE AMERICAN             
+  79  125 5 PEOPLE AND CONGRESS, UPON THEIR SUCESS IN THEIR RECENT            
+  79  125 6 EFFORTS TO CONSOLIDATE LIBERTY BY EMBODYING ITS PRINCIPLES        
+  79  125 7 IN A REPUBLICAN FORM OF GOVERNMENT.  (P. 569-1)                   
+  80   46 1               EX J 7-367     SRE       MAR. 31, 1848              
+  80   46 2 E301046       Y=19 N=9                 BERRIEN, GA.               
+  80   46 3 TO DISPENSE WITH FURTHER PROCEEDINGS UNDER CALL OF THE            
+  80   46 4 SENATE.  (P. 358, 367)                                            
+  81   47 1               EX J 7-368A    SRE       MAR. 31, 1848              
+  81   47 2 E301047       Y=9 N=20                 FOOTE, MISS.               
+  81   47 3 TO AMEND RESOLUTION FOR THE ARREST OF JOHN NUGENT ON              
+  81   47 4 CHARGES OF CONTEMPT OF THE SENATE, IN CONNECTION                  
+  81   47 5 WITH THE PUBLICATION OF THE MEXICAN TREATY AND                    
+  81   47 6 CORRESPONDENCE, BY ELIMINATING THE INSTRUCTIONS TO THE            
+  81   47 7 SERGEANT-AT-ARMS TO BRING JOHN NUGENT BEFORE THE BAR OF THE       
+  81   47 8 SENATE AND ALLOWING HIM UNTIL THE ENSUING MONDAY AT ONE           
+  81   47 9 O'CLOCK TO PREPARE HIS ANSWERS.  (P. 364, 368)                    
+  82   48 1               EX J 7-368B    SRE       MAR. 31, 1848              
+  82   48 2 E301048       Y=26 N=6                 JOHNSON, MD.               
+  82   48 3 TO ADOPT RESOLUTION WITH PREAMBLE, FOR THE ARREST OF              
+  82   48 4 JOHN NUGENT ON CHARGES OF COMTEMPT OF THE SENATE                  
+  82   48 5 IN CONNECTION WITH PUBLICATION OF THE MEXICAN TREATY AND          
+  82   48 6 CORRESPONDENCE.                                                   
+  83   50 1               EX J 7-372     SRE       APR. 3, 1848               
+  83   50 2 E301050       Y=34 N=1                 ATCHISON, MO.              
+  83   50 3 TO ADVISE AND CONSENT TO RATIFICATION OF THE TREATY MADE          
+  83   50 4 AUG. 21, 1847, BETWEEN THE UNITED STATES AND THE                  
+  83   50 5 CHIPPEWA INDIANS.                                                 
+  84  126 1 G 17- -581    J 30-1-253     SJR15     APR. 3, 1848               
+  84  126 2 S301034       Y=21 N=22                ALLEN, OHIO                
+  84  126 3 TO POSTPONE PREVIOUS ORDERS AND PROCEED TO THE CONSIDERATION      
+  84  126 4 OF S.J. RES. 15.  (P. 580-3)                                      
+  85   49 1               EX J 7-371     SRE       APR. 4, 1848               
+  85   49 2 E301049       Y=30 N=0                 ATCHISON, MO.              
+  85   49 3 TO PASS THE RESOLUTION RATIFYING THE TREATY WITH THE              
+  85   49 4 CHIPPEWA INDIANS OF THE MISS. RIVER AND LAKE SUPERIOR AND         
+  85   49 5 AN AMENDMENT ELIMINATING A PROVISION FOR THE ESTABLISHMENT        
+  85   49 6 OF AN AGENCY ON THE MISSISSIPPI AND FOR A STATEMENT OF THE        
+  85   49 7 AMOUNT OF ANNUITIES UNDER THIS AND PREVIOUS TREATIES, TO          
+  85   49 8 WHICH THE CHIPPEWAS WERE ENTITLED.                                
+  86  127 1 G 17- -592A   J 30-1-258A    SJR15     APR. 6, 1848               
+  86  127 2 S301035       Y=9 N=26                 UNDERWOOD, KY.             
+  86  127 3 TO ADJOURN, DURING DEBATE ON S.J. RES. 15.  (P. 592-2)            
+  87  128 1 G 17- -592B   J 30-1-258B    SJR15     APR. 6, 1848               
+  87  128 2 S301036       Y=1 N=28                 HALE, N.H.                 
+  87  128 3 TO AMEND S.J. RES. 15, BY ADDING A CLAUSE CONGRATULATING          
+  87  128 4 FRANCE ALSO ON MANIFESTING THEIR SINCERITY IN THE PURPOSE         
+  87  128 5 BY INSTITUTING MEASURES FOR IMMEDIATE EMANCIPATION OF             
+  87  128 6 SLAVES IN ALL THEIR COLONIES.  (P. 568-2)                         
+  88  129 1 G 19- -592C   J 30-1-259A    SJR15     APR. 6, 1848               
+  88  129 2 S301037       Y=13 N=19                MANGUM, N.C.               
+  88  129 3 TO AMEND, IN THE NATURE OF A SUBSTITUTE, S.J. RES. 15, BY         
+  88  129 4 SUBSTITUTING THEREFOR A RESOLUTION CONGRATULATING THE             
+  88  129 5 FRENCH PEOPLE, IN THE NAME OF THE AMERICAN PEOPLE AND THIS        
+  88  129 6 GOVERNMENT, ON INSTITUTING A REPUBLICAN FORM OF GOVERNMENT        
+  88  129 7 SIMILAR TO OURS, AND HOPING THAT LIBERTY, HAPPINESS AND           
+  88  129 8 GLORY WILL ENSUE; ALSO APPROVING OUR MINISTER'S PROMPT            
+  88  129 9 RECOGNITION OF THE FRENCH PROVISIONAL GOVERNMENT, AND             
+  88  12910 REQUESTING THE PRESIDENT TO TRANSMIT THESE RESOLUTIONS TO         
+  88  12911 THE FRENCH AUTHORITIES THROUGH THE AMERICAN MINISTER AT           
+  88  12912 PARIS.  (P. 592-2)                                                
+  89  130 1 G 17- -592D   J 30-1-259B    SJR15     APR. 6, 1848               
+  89  130 2 S301038       Y=32 N=0                 ALLEN, OHIO                
+  89  130 3 TO ENGROSS AND READ FOR A THIRD TIME, S.J. RES. 15.               
+  89  130 4 (P. 592-2)                                                        
+  90  131 1 G 17- -598    J 30-1-263     HR260     APR. 7, 1848               
+  90  131 2 S301039       Y=17 N=19                ASHLEY, ARK.               
+  90  131 3 TO READ FOR THE THIRD TIME, H.R. 260 1/2, AN ACT                  
+  90  131 4 SUPPLEMENTARY TO THE ACT ENTITLED "AN ACT CONCERNING THE          
+  90  131 5 SUPREME COURT OF THE U.S., (APP. 6/17/1844)".  (P. 598)           
+  91   51 1               EX J 7-376     SRE       APR. 10, 1848              
+  91   51 2 E301051       Y=20 N=11                TURNEY, TENN.              
+  91   51 3 TO TABLE THE RESOLUTION THAT JOHN NUGENT BE DISCHARGED FROM       
+  91   51 4 CUSTODY IN THE CONTEMPT PROCEEDINGS FOR UNAUTHORIZED              
+  91   51 5 PUBLICATION OF THE MEXICAN TREATY AND CORRESPONDENCE.             
+  91   51 6 (P. 372, 376)                                                     
+  92  132 1 G 17- -623A   J 30-1-273A    HR260     APR. 12, 1848              
+  92  132 2 S301040       Y=19 N=17                MANGUM, N.C.               
+  92  132 3 TO RESUME CONSIDERATION OF RECONSIDERATION OF THE VOTE FOR        
+  92  132 4 A THIRD READING OF H.R. 260 1/2.                                  
+  93  133 1 G 17- -623B   J 30-1-273B    HR260     APR. 12, 1848              
+  93  133 2 S301041       Y=22 N=16                FOOTE, MISS.               
+  93  133 3 TO RECONSIDER THE VOTE BY WHICH THE HOUSE REFUSED TO ORDER        
+  93  133 4 A THIRD READING OF H.R. 260 1/2.  (P. 623-2)                      
+  94  134 1 G 17- -626A   J 30-1-279A    S201      APR. 14, 1848              
+  94  134 2 S301042       Y=31 N=8                 HANNEGAN, IND.             
+  94  134 3 TO PASS S. 201 PROVIDING FOR REPAIR AND IMPROVEMENT OF THE        
+  94  134 4 DAM AT THE HEAD OF CUMBERLAND ISLAND IN THE OHIO RIVER.           
+  94  134 5 (P. 626-1)                                                        
+  95  135 1 G 17- -626B   J 30-1-279B    S80       APR. 14, 1848              
+  95  135 2 S301043       Y=27 N=11                HALE, N.H.                 
+  95  135 3 TO POSTPONE INDEFINITELY CONSIDERATION OF S. 80, A BILL           
+  95  135 4 PROVIDING FOR THE RELIEF OF CAPTAIN JESSE D. ELLIOT'S             
+  95  135 5 LEGAL REPRESENTATIVES.  (P. 626-2)                                
+  96  136 1 G 17- -592B   J 30-1-281     S114      APR. 14, 1848              
+  96  136 2 S301044       Y=19 N=13                PEARCE, MD.                
+  96  136 3 TO ENGROSS AND READ FOR THE THIRD TIME S. 114, AUTHORIZING        
+  96  136 4 THE PURCHASE OF PAPERS AND DOCUMENTS OF ALEXANDER HAMILTON.       
+  97  137 1 G 17- -642    J 30-1-289     HR260     APR. 18, 1848              
+  97  137 2 S301045       Y=17 N=23                ASHLEY, ARK.               
+  97  137 3 TO PASS H.R. 260 1/2.  (JP. 289)                                  
+  98   52 1               EX J 7-397               APR. 19, 1848              
+  98   52 2 E301052       Y=17 N=20                BADGER, N.C.               
+  98   52 3 TO DIRECT THE SERGEANT-AT ARMS TO TURN OVER TO THE MARSHAL        
+  98   52 4 OF THE DISTRICT OF COLUMBIA, JOHN NUGENT.                         
+  99   53 1               EX J 7-398               APR. 19, 1848              
+  99   53 2 E301053       Y=19 N=14                MANGUM, N.C.               
+  99   53 3 TO TABLE RESOLUTION FOR THE ARREST OF JOHN NUGENT.                
+ 100   54 1               EX J 7-402     SRE       APR. 26, 1848              
+ 100   54 2 E301054       Y=34 N=0                 HANNEGAN, IND.             
+ 100   54 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE CONVENTION       
+ 100   54 4 BETWEEN THE UNITED STATES AND THE SWISS CONFEDERATION FOR         
+ 100   54 5 THE MUTUAL ABOLITION OF THE DROIT D'AUBAINE AND TAXES ON          
+ 100   54 6 EMIGRATION, CONCLUDED AT WASHINGTON MAY 18, 1847.                 
+ 101  138 1 G 17- -685A   J 30-U-298     SRE       APR. 26, 1848              
+ 101  138 2 S301046       Y=26 N=15                BELL, TENN.                
+ 101  138 3 TO ADOPT A RESOLUTION WHICH PROVIDES THAT THE REPORTER OF         
+ 101  138 4 THE SENATE BE DIRECTED TO SUPPLY EACH MEMBER OF HOUSE WITH        
+ 101  138 5 A COPY OF REPORTS OF PROCEEDINGS AND DEBATES OF U.S. SENATE       
+ 101  138 6 FOR THE PRESENT CONGRESS, EXPENSES INCIDENT THERETO TO BE         
+ 101  138 7 PAID OUT OF CONTINGENT FUND OF THE SENATE.  (P. 685-1)            
+ 102  139 1 G 17- -685B   J 30-1-299     S158      APR. 26, 1848              
+ 102  139 2 S301047       Y=29 N=7                 BENTON, MO.                
+ 102  139 3 TO RESUME CONSIDERATION OF S. 158, ASCERTAINING AND               
+ 102  139 4 LIQUIDATING THE CLAIMS ARISING OUT OF THE CAPTURE OF              
+ 102  139 5 CALIFORNIA.  (P. 685-1)                                           
+ 103  140 1 G 17- -694    J 30-1-301A    SRE       APR. 27, 1848              
+ 103  140 2 S301048       Y=11 N=19                HALE, N.H.                 
+ 103  140 3 TO TABLE THE RESOLUTION INSTRUCTING THE COMMITTEE ON              
+ 103  140 4 LIBRARY TO PURCHASE A FULL LENGTH ORIGINAL PORTRAIT OF            
+ 103  140 5 GENERAL ZACHARY TAYLOR, PAINTED BY WILLIAM G. BROWN OF            
+ 103  140 6 RICHMOND, VIRGINIA, IF SAME CAN BE OBTAINED AT A REASONABLE       
+ 103  140 7 PRICE.  (P. 694-2)                                                
+ 104  141 1 G 17- -696    J 30-1-301B    SRE       APR. 27, 1848              
+ 104  141 2 S301049       Y=21 N=15                HALE, N.H.                 
+ 104  141 3 TO TABLE THE RESOLUTION WHICH PROVIDES FOR THE PURCHASE OF        
+ 104  141 4 A FULL LENGTH PORTRAIT OF GENERAL ZACHARY TAYLOR, PAINTED         
+ 104  141 5 BY WILLIAM G. BROWN OF RICHMOND VIRGINIA, IF SAME CAN BE          
+ 104  141 6 OBTAINED AT A REASONABLE PRICE.  (P. 696-1)                       
+ 105   55 1               EX J 7-403A    SRE       APR. 28, 1848              
+ 105   55 2 E301055       Y=23 N=3                 HANNEGAN, IND.             
+ 105   55 3 TO DIRECT THE SERGEANT-AT-ARMS TO TURN OVER JOHN NUGENT TO        
+ 105   55 4 THE MARSHAL OF THE DISTRICT OF COLUMBIA, NUGENT PROFESSING        
+ 105   55 5 TO BE SEVERELY INDISPOSED; NO QUORUM VOTING.  (P. 397, 403)       
+ 106   56 1               EX J 7-403B    SRE       APR. 28, 1848              
+ 106   56 2 E301056       Y=24 N=5                 HANNEGAN, IND.             
+ 106   56 3 TO ADOPT THE RESOLUTION THAT JOHN NUGENT BE FORTHWITH             
+ 106   56 4 DISCHARGED FROM CUSTODY.  (P. 398, 403)                           
+ 107  142 1 G 17- -700    J 30-1-305     S164      APR. 28, 1848              
+ 107  142 2 S301050       Y=22 N=12                CAMERON, PA.               
+ 107  142 3 TO ENGROSS AND READ FOR THE THIRD TIME S. 164, PROVIDING FOR      
+ 107  142 4 THE CONSTRUCTION OF A FREE BRIDGE OVER THE EASTERN BRANCH         
+ 107  142 5 OF THE POTOMAC RIVER IN THE DISTRICT OF COLUMBIA.                 
+ 108  143 1 G 17- -708    J 30-1-306     S128      APR. 28, 1848              
+ 108  143 2 S301051       Y=13 N=20                MASON, VA.                 
+ 108  143 3 TO AMEND S. 128 WHICH PROVIDES FOR THE LIQUIDATION OF             
+ 108  143 4 CLAIMS ARISING OUT OF THE CAPTURE OF CALIFORNIA, BY THE           
+ 108  143 5 APPOINTMENT OF A BOARD OF THREE COMMISSIONERS APPOINTED BY        
+ 108  143 6 THE PRESIDENT, INSTEAD OF A BOARD COMPOSED OF THE LATE            
+ 108  143 7 COMMANDER OF THE CALIFORNIA BATTALION, THE LATE PAYMASTER OF      
+ 108  143 8 SAME AND MAJOR READING.  (P. 685-1)                               
+ 109  144 1 G 17- -723    J 30-1-314     S95       MAY 3, 1848                
+ 109  144 2 S301052       Y=24 N=11                DOUGLAS, ILL.              
+ 109  144 3 TO READ S. 95, GRANTING TO THE STATE OF ILLINOIS, THE             
+ 109  144 4 RIGHT OF WAY AND A DONATION OF PUBLIC LANDS FOR THE               
+ 109  144 5 CONSTRUCTION OF A RAILROAD, CONNECTING THE UPPER AND LOWER        
+ 109  144 6 MISSISSIPPI WITH THE CHAIN OF NORTHERN LAKES AT CHICAGO.          
+ 109  144 7 (P. 723-2)                                                        
+ 110  145 1 G 17- -728A   J 30-1-316     S243      MAY 4, 1848                
+ 110  145 2 S301053       Y=15 N=21                HALE, N.H.                 
+ 110  145 3 TO AMEND S. 243, PROVIDING FOR THE TEMPORARY OCCUPATION OF        
+ 110  145 4 YUCATAN, AN AUTHORIZATION FROM THE PRESIDENT OF THE U.S.          
+ 110  145 5 WHICH AMENDMENT MAKES THE BILL A SPECIAL ORDER FOR NEXT           
+ 110  145 6 MONDAY INSTEAD OF TOMORROW, FRIDAY.  (P. 727-3)                   
+ 111  146 1 G 17- -728B   J 30-1-320     SRE       MAY 5, 1848                
+ 111  146 2 S301054       Y=23 N=10                TURNEY, TENN.              
+ 111  146 3 TO TABLE THE RESOLUTION ORDERING FOR THE SENATE'S USE,            
+ 111  146 4 5,000 COPIES OF THE EULOGIES ON JOHN QUINCY ADAMS,                
+ 111  146 5 DELIVERED BY THE SPEAKER, HOUSE MEMBERS AND                       
+ 111  146 6 THE REV. MR. GURLEY, PROVIDED THEY CAN BE OBTAINED ON THE         
+ 111  146 7 SAME TERMS THAT 20,000 COPIES WERE FURNISHED TO THE HOUSE.        
+ 111  146 8 (P. 728-3)                                                        
+ 112  147 1 G 17- -723    J 30-1-340     SRE       MAY 16, 1848               
+ 112  147 2 S301055       Y=24 N=9                 BADGER, N.C.               
+ 112  147 3 TO TABLE THE RESOLUTION DECLARING THAT CONGRESS HAD NO            
+ 112  147 4 POWER TO ABOLISH OR PROHIBIT SLAVERY IN ANY STATE OR              
+ 112  147 5 TERRITORY IN THE UNION AND THAT CONQUEST IS A LEGITIMATE          
+ 112  147 6 MODE OF ACQUIRING TERRITORY AND THAT IT SHALL NOT BE              
+ 112  147 7 COMPETENT FOR THE TREATY MAKING POWER OF CONGRESS TO EXCLUDE      
+ 112  147 8 SLAVERY FROM SUCH.  (P. 773-1)                                    
+ 113   57 1               EX J 7-415     SRE       MAY 18, 1848               
+ 113   57 2 E301057       Y=28 N=1                 HANNEGAN, IND.             
+ 113   57 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE CONVENTION       
+ 113   57 4 BETWEEN THE UNITED STATES AND THE SWISS CONFEDERATION FOR         
+ 113   57 5 THE ABOLITION OF THE DROIT D'AUBAINE AND TAXES ON                 
+ 113   57 6 EMIGRATION.  (P. 402, 415)                                        
+ 114  148 1 G 17-1-774    J 30-1-351     PROC      MAY 19, 1848               
+ 114  148 2 S301056       Y=14 N=19                RUSK, TEX.                 
+ 114  148 3 TO ADJOURN.                                                       
+ 115   58 1               EX J 7-424     SRE       JUNE 3, 1848               
+ 115   58 2 E301058       Y=29 N=7                 HANNEGAN, IND.             
+ 115   58 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY           
+ 115   58 4 CONCLUDED DEC. 12, 1846, BETWEEN THE UNITED STATES AND THE        
+ 115   58 5 REPUBLIC OF NEW GRANADA.                                          
+ 116  149 1 G 17- -812A   J 30-1-369A    S59       JUNE 3, 1848               
+ 116  149 2 S301057       Y=14 N=29                UPHAM, VT.                 
+ 116  149 3 TO ADJOURN, DURING DEBATE ON S. 59, PROVIDING FOR THE             
+ 116  149 4 ESTABLISHMENT OF A TERRITORIAL GOVERNMENT OF OREGON.              
+ 116  149 5 (P. 812-2)                                                        
+ 117  150 1 G 17- -812B   J 30-1-369B    S59       JUNE 3, 1848               
+ 117  150 2 S301058       Y=15 N=17                WESTCOTT, FLA.             
+ 117  150 3 TO POSTPONE DEBATE ON S. 59, ESTABLISHING A TERRITORIAL           
+ 117  150 4 FORM OF GOVERNMENT FOR OREGON.  (P. 812-2)                        
+ 118  151 1 G 17- -822    J 30-1-374     S128      JUNE 5, 1848               
+ 118  151 2 S301059       Y=26 N=17                DAVIS, MASS.               
+ 118  151 3 TO PROCEED TO CONSIDERATION OF S. 128 (APP. 8/11/1848)            
+ 118  151 4 CARRYING INTO EFFECT CERTAIN PROVISIONS IN THE TREATY             
+ 118  151 5 BETWEEN THE U.S. AND CHINA AND THE OTTOMAN PORT, GIVING           
+ 118  151 6 CERTAIN JUDICIAL POWERS TO MINISTERS AND CONSULS OF THE           
+ 118  151 7 U.S. IN THOSE COUNTRIES.  (P. 822-3)                              
+ 119  152 1 G 17- -828    J 30-1-378     SRE       JUNE 12, 1848              
+ 119  152 2 S301060       Y=23 N=15                WESTCOTT, FLA.             
+ 119  152 3 TO AMEND THE RESOLUTION DIRECTING THE PRINTING OF 20,000          
+ 119  152 4 COPIES OF THE AGRICULTURAL PORTION OF THE REPORT OF THE           
+ 119  152 5 COMMISSIONER OF PATENTS FOR THE USE OF THE SENATE, WHICH          
+ 119  152 6 AMENDMENT INSERTS 30,000 INSTEAD OF 20,000.  (P. 827-3)           
+ 120  153 1 G 17- -834    J 30-1-380     SRE       JUNE 13, 1848              
+ 120  153 2 S301061       Y=7 N=31                 HALE, N.H.                 
+ 120  153 3 TO PRESENT A MEMORIAL FROM THE CITIZENS OF OHIO, PRAYING FOR      
+ 120  153 4 A REMOVAL OF THE SEAT OF GOVERNMENT OF THE U.S. TO                
+ 120  153 5 CINCINNATI, OHIO, AS A POSITION MORE CENTRAL, AND EXEMPT          
+ 120  153 6 FROM A TRAFFIC IN SLAVES NOE ALLOWED WITHIN THE DISTRICT OF       
+ 120  153 7 COLUMBIA.                                                         
+ 121  154 1 G 17- -840    J 30-1-386     HR136     JUNE 14, 1848              
+ 121  154 2 S301062       Y=22 N=17                BELL, TENN.                
+ 121  154 3 TO AMEND H.R. 136 (APP. 7/29/1848) MAKING APPROPRIATIONS FOR      
+ 121  154 4 CURRENT AND CONTINGENT EXPENSES OF THE INDIAN DEPARTMENT AND      
+ 121  154 5 FULFILLING TREATY OBLIGATIONS WITH VARIOUS INDIAN TRIBES,         
+ 121  154 6 FOR THE FISCAL YEAR 1849, WHICH AUTHORIZES THE SECRETARY OF       
+ 121  154 7 WAR TO ASCERTAIN THE NUMBER OF CHEROKEES AND THEIR FAMILIES       
+ 121  154 8 THAT REMAINED IN THE STATE OF NORTH CAROLINA AT THE TIME OF       
+ 121  154 9 THE RATIFICATION OF TREATY OF NEW ECHOTA, 5/23/1836, WHO          
+ 121  15410 HAVE NOT REMOVED WEST OF THE MISSISSIPPI OR RECEIVED              
+ 121  15411 COMMUTATION OR SUBSITENCE AND REPORT SAME TO SECRETARY OF         
+ 121  15412 THE TREASURY, AND DIRECTS THE SECRETARY OF THE TREASURY TO        
+ 121  15413 PAY $53.33 TO EACH INDIVIDUAL OR HIS LEGAL REPRESENTATIVE         
+ 121  15414 INTEREST AT THE RATE OF 6% PER ANNUM FROM 5/23/1836 AND TO        
+ 121  15415 CONTINUE THEREAFTER THE SAME RATE OF INTEREST. SHOULD THEY        
+ 121  15416 DESIRE TO REMOVE THEMSELVES WEST OF MISSISSIPPI THEY ARE          
+ 121  15417 TO BE PAID AS PROVIDED ABOVE.  (P. 828-2)                         
+ 122  155 1               J 30-1-394     HR3       JUNE 17, 1848              
+ 122  155 2 S301063       Y=22 N=18                BALDWIN, CONN.             
+ 122  155 3 TO READ FOR THE THIRD TIME H.R. 3, (APP. 6/26/1848) PRAYING       
+ 122  155 4 THAT CERTAIN MONEY DUE THE ESTATE OF JOHN COX, DECEASED,          
+ 122  155 5 AS APPEARS ON THE TREASURY BOOKS, MAY BE PAID TO                  
+ 122  155 6 PHINEAS CAPEN, LEGAL ADMINISTRATOR OF THE ESTATE.                 
+ 123  156 1 G 17- -841    J 30-1-387     HR136     JUNE 14, 1848              
+ 123  156 2 S301064       Y=13 N=23                RUSK, TEX.                 
+ 123  156 3 TO AMEND H.R. 136, (APP. 7/29/1848) APPROPRIATING FOR             
+ 123  156 4 CURRENT AND CONTINGENT EXPENSES OF THE INDIAN DEPARTMENT          
+ 123  156 5 AND FOR FULFILLING TREATY STIPULATIONS WITH VARIOUS INDIAN        
+ 123  156 6 TRIBES FOR FISCAL YEAR 1849, BY APPROPRIATING $10,000 FOR         
+ 123  156 7 SALARIES OF A SUPERINTENDENT OF INDIAN AFFAIRS AND                
+ 123  156 8 SUB-AGENTS APPOINTED BY THE PRESIDENT.  (P. 840-3)                
+ 124  157 1 G 17- -855A   J 30-1-398     SJR22     JUNE 19, 1848              
+ 124  157 2 S301065       Y=20 N=29                HALE, N.H.                 
+ 124  157 3 TO TABLE S.J. RES. 22, PROVIDING FOR THE TRANSPORTATION OF        
+ 124  157 4 SOUTHERN MAIL BY RENEWING THE CONTRACT WITH THE                   
+ 124  157 5 RICHMOND, FREDERICKSBURG AND POTOMAC RAILROAD, AND                
+ 124  157 6 STEAMBOAT COMPANY.  (P. 855-1)                                    
+ 125  158 1 G 17- -855B   J 30-1-399A    SJR22     JUNE 19, 1848              
+ 125  158 2 S301066       Y=19 N=27                JOHNSON, GA.               
+ 125  158 3 TO AMEND S.J. RES. 22, WHICH PROVIDES FOR THE TRANSPORTATION      
+ 125  158 4 OF SOUTHERN MAIL, SO AS TO PROVIDE THAT THE BAY LINE AND          
+ 125  158 5 JAMES RIVER LINE SHALL RELINQUISH THEIR PRESENT CONTRACTS,        
+ 125  158 6 WITHOUT CLAIMING ANY DAMAGES FROM THE POST OFFICE DEPT.           
+ 125  158 7 (P. 855-1)                                                        
+ 126  159 1               J 30-1-399B    SJR22     JUNE 17, 1848              
+ 126  159 2 S301067       Y=27 N=19                PEARCE, MD.                
+ 126  159 3 TO PASS S.J. RES. 22, AUTHORIZING A RENEWAL OF A CONTRACT         
+ 126  159 4 FOR THE CARRYING OF MAIL.                                         
+ 127  160 1 G 17- -858A   J 30-1-403     HR136     JUNE 20, 1848              
+ 127  160 2 S301068       Y=20 N=20                ATHERTON, N.H.             
+ 127  160 3 TO AMEND H.R. 136, (APP. 7/29/1848) MAKING APPROPRIATIONS         
+ 127  160 4 FOR THE CURRENT AND CONTINGENT EXPENSES OF THE INDIAN DEPT.,      
+ 127  160 5 WHICH AMENDMENT PAYS $53.33 TO EACH INDIAN OF THE CHEROKEES       
+ 127  160 6 OF NORTH CAROLINA, TO BE PAID OUT OF THE GENERAL CHEROKEE         
+ 127  160 7 FUND AS PROVIDED UNDER THE TREATY OF NEW ECHOTA INSTEAD OF        
+ 127  160 8 BEING PAID FROM THE U.S. TREASURY.  (P. 858-3)                    
+ 128  161 1 G 17- -858B   J 30-1-404     HR136     JUNE 20, 1848              
+ 128  161 2 S301069       Y=24 N=19                ATHERTON, N.H.             
+ 128  161 3 TO AMEND H.R. 136, (APP. 7/29/1848) WHICH AMENDMENT               
+ 128  161 4 PROVIDES THAT EVERY MEMBER OF EVERY FAMILY OF THE CHEROKEE        
+ 128  161 5 INDIANS THAT REMAINED IN NORTH CAROLINA AT THE TIME OF THE        
+ 128  161 6 TREATY OF NEW ECHOTA, SHALL RECEIVE $53.33 WITH INTEREST          
+ 128  161 7 UPON HIS REMOVAL WEST OF THE MISSISSIPPI.  (P. 809-1)             
+ 129   59 1               EX J 7-433A    SRE       JUNE 21, 1848              
+ 129   59 2 E301059       Y=0 N=38                 SEVIER, ARK.               
+ 129   59 3 TO AMEND THE TREATY BETWEEN THE UNITED STATES AND THE             
+ 129   59 4 GERMANIC CONFEDERATION (INCLUDING PRUSSIA) FOR THE MUTUAL         
+ 129   59 5 DELIVERY OF CRIMINALS AND FUGITIVES FROM JUSTICE, BY              
+ 129   59 6 ELIMINATING THE WORD "FIFTEEN" FROM THE SIXTH ARTICLE.            
+ 130   60 1               EX J 7-433B    SRE       JUNE 21, 1848              
+ 130   60 2 E301060       Y=30 N=0                 SEVIER, ARK.               
+ 130   60 3 TO AMEND THE EXTRADITION TREATY BY INSERTING THE WORD             
+ 130   60 4 "FORTY-FOUR" INSTEAD OF THE WORD "FIFTEEN".                       
+ 131   61 1               EX J 7-433C    SRE       JUNE 21, 1848              
+ 131   61 2 E301061       Y=36 N=0                 MANGUM, N.C.               
+ 131   61 3 TO RATIFY THE EXTRADITION TREATY, AS AMENDED.                     
+ 132  162 1 G 17- -865    J 30-1-408     SRE       JUNE 22, 1848              
+ 132  162 2 S301070       Y=19 N=19                MASON, VA.                 
+ 132  162 3 TO TABLE RESOLUTION APPOINTING A DOORKEEPER TO THE ANTE           
+ 132  162 4 ROOM OF THE SENATE.  (P. 865-2)                                   
+ 133  163 1 G 17- -871    J 30-1-411     S59       JUNE 23, 1848              
+ 133  163 2 S301071       Y=27 N=18                BRIGHT, IND.               
+ 133  163 3 TO POSTPONE PREVIOUS ORDERS AND TAKE UP S. 59, ESTABLISHING       
+ 133  163 4 A TERRITORIAL GOVERNMENT IN THE TERRITORY OF OREGON.              
+ 133  163 5 (P. 870-3)                                                        
+ 134  164 1 G 17- -872    J 30-1-412     SRE       JUNE 24, 1848              
+ 134  164 2 S301072       Y=7 N=36                 HALE, N.H.                 
+ 134  164 3 TO ADOPT THE RESOLUTION PROVIDING THAT THE COMMITTEE ON THE       
+ 134  164 4 DISTRICT OF COLUMBIA BE INSTRUCTED TO REPORT A BILL               
+ 134  164 5 ABOLISHING SLAVERY IN THE DISTRICT OF COLUMBIA.  (P. 872-2)       
+ 135  165 1 G 17- -872    J 30-1-416     S107      JUNE 24, 1848              
+ 135  165 2 S301073       Y=19 N=24                MASON, VA.                 
+ 135  165 3 TO ENGROSS AND READ FOR THE THIRD TIME S. 107                     
+ 135  165 4 (APP. 3/3/1849) PRAYING INDEMNITY TO ONE GEORGE CENTER FOR        
+ 135  165 5 LOSSES SUSTAINED IN CONSEQUENCE OF THE DESTRUCTION OF HIS         
+ 135  165 6 PROPERTY DURING THE SEMINOLE INDIAN WAR.                          
+ 136  166 1               J 30-1-417     S169      JUNE 24, 1848              
+ 136  166 2 S301074       Y=20 N=25                HALE, N.H.                 
+ 136  166 3 TO TABLE S. 169, PROVIDING THAT THE STIPULATIONS OF A             
+ 136  166 4 CONTRACT ON THE PART OF TEXAS IN RELATION TO A NAVAL              
+ 136  166 5 ARMAMENT, MAY BE FULFILLED BY THE U.S. FOR THE BENEFIT OF         
+ 136  166 6 FREDERICK DAWSON, JAMES SCHOTT AND ELISHA DANA WHITNEY.           
+ 137  167 1 G 17- -874    J 30-1-421     S56       JUNE 27, 1848              
+ 137  167 2 S301075       Y=14 N=22                WESTCOTT, FLA.             
+ 137  167 3 TO TABLE S. 56, PROVIDING FOR A SURVEY OF THE MOUTH OF THE        
+ 137  167 4 RED RIVER IN LOUISIANA.  (P. 874-2)                               
+ 138  168 1 G 17- -876    J 30-1-423     HR394     JUNE 27, 1848              
+ 138  168 2 S301076       Y=15 N=27                BADGER, N.C.               
+ 138  168 3 TO AMEND H.R. 394 (APP. 7/10/1848) MAKING APPROPRIATIONS          
+ 138  168 4 FOR THE POST OFFICE DEPARTMENT FOR THE FISCAL YEAR 1849,          
+ 138  168 5 WHICH AMENDMENT REQUIRES THE POSTMASTER GENERAL TO RENEW          
+ 138  168 6 THE ENGAGEMENT FOR TRANSPORTATION OF THE GREAT SOUTHERN AND       
+ 138  168 7 NORTHERN MAILS BY THE RICHMOND, FREDERICKSBURG, AND POTOMAC       
+ 138  168 8 RAILROAD AND STEAMBOAT COMPANY AT NO RAISE IN PRICE.              
+ 139  169 1 G 17- -883A   J 30-1-428     SRE       JUNE 29, 1848              
+ 139  169 2 S301077       Y=22 N=16                BRIGHT, IND.               
+ 139  169 3 TO POSTPONE UNTIL TOMORROW CONSIDERATION OF THE MOTION TO         
+ 139  169 4 PRINT 10,000 COPIES OF THE MEMORIALS OF THE CHICAGO               
+ 139  169 5 CONVENTION.                                                       
+ 140  170 1 G 17- -883B   J 30-1-431A    HR154     JUNE 29, 1848              
+ 140  170 2 S301078       Y=9 N=30                 UNDERWOOD, KY.             
+ 140  170 3 TO AMEND H.R. 154, A BILL MAKING APPROPRIATIONS FOR               
+ 140  170 4 FORTIFICATIONS FOR THE YEAR ENDING JUNE 30, 1849, BY              
+ 140  170 5 PROVIDING FOR AN APPROPRIATION OF $50,000 FOR THE REPAIR OF       
+ 140  170 6 THE DAM AT THE HEAD OF CUMBERLAND ISLAND IN THE OHIO RIVER.       
+ 140  170 7 (P. 883-3)                                                        
+ 141  171 1 G 17- -884    J 30-1-431B    HR154     JUNE 29, 1848              
+ 141  171 2 S301079       Y=17 N=22                DAVIS, MISS.               
+ 141  171 3 TO AMEND H.R. 154, MAKING APPROPRIATIONS FOR FORTIFICATIONS       
+ 141  171 4 FOR FISCAL YEAR 1849, WHICH AMENDMENT ELIMINATES $40,000          
+ 141  171 5 APPROPRIATION FOR BUILDING A SEA WALL AT GREAT BREWSTER'S         
+ 141  171 6 ISLAND.  (P. 883-1)                                               
+ 142  172 1 G 17- -898A   J 30-1-440A    HRE       JULY 5, 1848               
+ 142  172 2 S301080       Y=20 N=29                BRIGHT, IND.               
+ 142  172 3 TO POSTPONE FURTHER CONSIDERATION OF THE RESOLUTION FIXING        
+ 142  172 4 A DATE FOR THE ADJOURNMENT OF CONGRESS.  (P. 898-2)               
+ 143  173 1 G 17- -898B   J 30-1-440B    HRE       JULY 5, 1848               
+ 143  173 2 S301081       Y=11 N=39                TURNEY, TENN.              
+ 143  173 3 TO TABLE THE RESOLUTION FIXING A DAY FOR THE ADJOURMENT OF        
+ 143  173 4 CONGRESS.  (P. 898-2)                                             
+ 144  174 1 G 17- -898C   J 30-1-441A    HRE       JULY 5, 1848               
+ 144  174 2 S301082       Y=26 N=22                MANGUM, N.C.               
+ 144  174 3 TO PERMIT SENATOR CLAYTON TO PROCEED IN DEBATE ON THE             
+ 144  174 4 RESOLUTION FIXING A DAY FOR THE ADJOURNMENT OF CONGRESS.          
+ 144  174 5 (P. 898-2)                                                        
+ 145  175 1 G 17- -899A   J 30-1-441B    HRE       JULY 5, 1848               
+ 145  175 2 S301083       Y=19 N=32                DOWNS, LA.                 
+ 145  175 3 TO POSTPONE UNTIL JULY 17, 1848, FURTHER CONSIDERATION OF         
+ 145  175 4 THE RESOLUTION FIXING A DAY FOR THE ADJOURNMENT OF CONGRESS.      
+ 145  175 5 (P. 899-2)                                                        
+ 146  176 1 G 17- -899B   J 30-1-441C    HRE       JULY 5, 1848               
+ 146  176 2 S301084       Y=22 N=28                BREESE, ILL.               
+ 146  176 3 TO POSTPONE UNTIL JULY 13, 1848, FURTHER CONSIDERATION OF         
+ 146  176 4 THE RESOLUTION FIXING A DAY FOR THE ADJOURNMENT OF CONGRESS.      
+ 146  176 5 (P. 899-3)                                                        
+ 147  177 1 G 17- -899C   J 30-1-442A    HRE       JULY 5, 1848               
+ 147  177 2 S301085       Y=25 N=26                BELL, TENN.                
+ 147  177 3 TO TABLE THE RESOLUTION FIXING A DAY FOR THE ADJOURNMENT OF       
+ 147  177 4 CONGRESS.  (P. 899-3)                                             
+ 148  178 1 G 17- -899D   J 30-1-442B    HRE       JULY 5, 1848               
+ 148  178 2 S301086       Y=24 N=25                LEWIS, ALA.                
+ 148  178 3 TO TABLE THE RESOLUTION FIXING A DAY FOR THE ADJOURNMENT OF       
+ 148  178 4 CONGRESS.  (P. 899-3)                                             
+ 149  179 1 G 17- -899E   J 30-1-442C    PROC      JULY 5, 1848               
+ 149  179 2 S301087       Y=21 N=26                MASON, VA.                 
+ 149  179 3 TO ADJOURN CONGRESS, DURING DEBATE ON RESOLUTION FIXING           
+ 149  179 4 DATE OF ADJOURNMENT OF CONGRESS.  (P. 899-3)                      
+ 150  180 1 G 17- -899F   J 30-1-443A    HRE       JULY 5, 1848               
+ 150  180 2 S301088       Y=14 N=33                DOWNS, LA.                 
+ 150  180 3 TO AMEND THE RESOLUTION FIXING THE DATE OF ADJOURNMENT OF         
+ 150  180 4 CONGRESS, BY SUBSTITUTING AUG. 14TH FOR JULY 17TH 1848.           
+ 150  180 5 (P. 899-3)                                                        
+ 151  181 1 G 17- -899G   J 30-1-443B    HRE       JULY 5, 1848               
+ 151  181 2 S301089       Y=30 N=18                BRIGHT, IND.               
+ 151  181 3 TO AMEND THE RESOLUTION FIXING DATE OF ADJOURNMENT OF             
+ 151  181 4 CONGRESS, BY ELIMINATING JULY 17TH AND INSERTING JULY 31ST        
+ 151  181 5 1848.  (P. 899-3)                                                 
+ 152  182 1 G 17- -899H   J 30-1-443C    HRE       JULY 5, 1848               
+ 152  182 2 S301090       Y=26 N=22                BRIGHT, IND.               
+ 152  182 3 TO TABLE THE RESOLUTION FIXING THE DATE OF ADJOURNMENT OF         
+ 152  182 4 CONGRESS.  (P. 899-3)                                             
+ 153  183 1 G 17- -903    J 30-1-453     PROC      JULY 6, 1848               
+ 153  183 2 S301091       Y=20 N=13                BADGER, N.C.               
+ 153  183 3 TO ADJOURN.  (P. 903-3)                                           
+ 154  184 1 G 17- -909    J 30-1-457     SRE       JULY 8, 1848               
+ 154  184 2 S301092       Y=17 N=27                BUTLER, S.C.               
+ 154  184 3 TO REQUEST THE VICE-PRESIDENT TO APPOINT TWO ADDITIONAL           
+ 154  184 4 MEMBERS TO COMMITTEE ON TERRITORIES.  (P. 909-2)                  
+ 155  185 1 G 17- -922    J 30-1-462     S115      JULY 11, 1848              
+ 155  185 2 S301093       Y=17 N=26                RUSK, TEX.                 
+ 155  185 3 TO ENGROSS AND READ FOR THE THIRD TIME S. 115, AUTHORIZING        
+ 155  185 4 THE PRESIDENT OF THE U.S. TO INCREASE THE NAVAL                   
+ 155  185 5 ESTABLISHMENT OF THE U.S.  (P. 922-2)                             
+ 156  186 1 G 17- -928    J 30-1-465     S59       JULY 12, 1848              
+ 156  186 2 S301094       Y=31 N=14                CLAYTON, DEL.              
+ 156  186 3 TO REFER TO A SELECT COMMITTEE OF EIGHT MEMBERS SELECTED BY       
+ 156  186 4 BALLOT, S. 59 ESTABLISHING A TERRITORIAL GOVERNMENT IN            
+ 156  186 5 OREGON, AND DISCHARGING THE COMMITTEE ON TERRITORIES FROM         
+ 156  186 6 CONSIDERATION OF SO MUCH OF THE PRESIDENTS MESSAGE AS             
+ 156  186 7 RELATES TO NEW MEXICO AND CALIFORNIA, AND THAT THE SAME BE        
+ 156  186 8 REFERRED TO THE PROPOSED COMMITTEE.                               
+ 157  187 1 G 17- -937A   J 30-1-470     S6        JULY 14, 1848              
+ 157  187 2 S301095       Y=27 N=21                ATHERTON, N.H.             
+ 157  187 3 TO CONCUR IN AMENDMENTS TO S. 6 ESTABLISHING A BRANCH MINT        
+ 157  187 4 IN NEW YORK CITY, WHICH AMENDMENTS APPROPRIATE $200,000 FOR       
+ 157  187 5 A GOLD AND SILVER MINT IN CHARLESTON, S.C.; SUBJECT ITS           
+ 157  187 6 PERSONNEL, NOT TO EXCEED 20, TO LAWS REGARDING MINTS; AND         
+ 157  187 7 APPROPRIATE CERTAIN AMOUNTS FOR VARIOUS PERSONNEL OF SAID         
+ 157  187 8 MINT.  (P. 937-2)                                                 
+ 158  188 1 G 17- -937B   J 30-1-471     S6        JULY 14, 1848              
+ 158  188 2 S301096       Y=22 N=27                DIX, N.Y.                  
+ 158  188 3 TO ENGROSS AND READ FOR THE THIRD TIME S. 6, ESTABLISHING         
+ 158  188 4 A BRANCH MINT IN NEW YORK CITY.                                   
+ 159   62 1               EX J 7-451A    SRE       JULY 15, 1848              
+ 159   62 2 E301062       Y=24 N=27                HOUSTON, TEX.              
+ 159   62 3 TO READ THE FINDING AND OPINION OF THE COURTS OF INQUIRY IN       
+ 159   62 4 THE CASE OF THE NOMINATION OF MAJOR GENERAL PILLOW.               
+ 159   62 5 (P. 441, 451)                                                     
+ 160   63 1               EX J 7-451B    SRE       JULY 15, 1848              
+ 160   63 2 E301063       Y=29 N=21                FOOTE, MISS.               
+ 160   63 3 TO TABLE THE MOTION TO PRINT THE PROCEEDINGS OF THE COURTS        
+ 160   63 4 OF INQUIRY AND OTHER EVIDENCE IN THE CASE OF                      
+ 160   63 5 GIDEON J. PILLOW, NOMINATED MAJOR-GENERAL APR. 13, 1847.          
+ 161   64 1               EX J 7-452A    PROC      JULY 15, 1848              
+ 161   64 2 E301064       Y=19 N=29                CLAYTON, DEL.              
+ 161   64 3 TO ADJOURN.                                                       
+ 162   65 1               EX J 7-452B    PROC      JULY 15, 1848              
+ 162   65 2 E301065       Y=30 N=17                JOHNSON, MD.               
+ 162   65 3 TO ADJOURN.                                                       
+ 163   66 1               EX J 7-452C    SRE       JULY 15, 1848              
+ 163   66 2 E301066       Y=27 N=18                BENTON, MO.                
+ 163   66 3 TO ADVISE AND CONSENT TO THE APPOINTMENT OF                       
+ 163   66 4 GIDEON J. PILLOW AS MAJOR-GENERAL.  (P. 441, 450, 452)            
+ 164   67 1               EX J 7-453     SRE       JULY 17, 1848              
+ 164   67 2 E301067       Y=26 N=12                BENTON, MO.                
+ 164   67 3 TO ADVISE AND CONSENT TO THE APPOINTMENT OF CALEB CUSHING         
+ 164   67 4 AS BRIGADIER-GENERAL.  (P. 441, 450, 453)                         
+ 165   68 1               EX J 7-454     SRE       JULY 18, 1848              
+ 165   68 2 E301068       Y=12 N=33                BENTON, MO.                
+ 165   68 3 TO CONDUCT IN OPEN SESSION THE PROCEEDINGS ON THE SUBJECT         
+ 165   68 4 OF THE NOMINATION OF STEPHEN W. KEARNY TO BE MAJOR-GENERAL        
+ 165   68 5 BY BREVET TO DATE FROM DEC. 6, 1846.  (P. 454, 379, 436)          
+ 166  189 1 G 17- -965    J 30-1-482     HR219     JULY 20, 1848              
+ 166  189 2 S301097       Y=25 N=24                NILES, CONN.               
+ 166  189 3 TO AMEND H.R. 219 (APP. 8/3/1848) MAKING NAVY APPROPRIATIONS      
+ 166  189 4 FOR FISCAL YEAR 1849, BY ELIMINATING CLAUSE AUTHORIZING THE       
+ 166  189 5 SECRETARY OF NAVY TO ADVANCE TO CONTRACTORS, ENABLING THEM        
+ 166  189 6 TO FINISH STEAMSHIPS UNDER CONTRACT, $25,000 A MONTH ON           
+ 166  189 7 EACH SHIP AFTER LAUNCHING, PROVIDING THIS ADVANCE NOT             
+ 166  189 8 EXCEED ONE YEAR'S COMPENSATION STIPULATED IN SAID CONTRACTS,      
+ 166  189 9 TO BE SECURED BY A LIEN ON SAID SHIPS.  (P. 964-1)                
+ 167  190 1 G 17- -982A   J 30-1-484     HR219     JULY 21, 1848              
+ 167  190 2 S301098       Y=31 N=19                LEWIS, ALA.                
+ 167  190 3 TO RECONSIDER VOTE ADOPTING AMENDMENTS TO H.R. 219,               
+ 167  190 4 (APP. 8/3/1848) WHICH AMENDMENT ELIMINATES CLAUSE                 
+ 167  190 5 AUTHORIZING SECRETARY OF NAVY TO ADVANCE TO CONTRACTORS,          
+ 167  190 6 ENABLING THEM TO FINISH STEAMSHIPS UNDER CONTRACT, $25,000        
+ 167  190 7 A MONTH ON EACH SHIP AFTER LAUNCHING, PROVIDING THIS              
+ 167  190 8 ADVANCE NOT EXCEED ONE YEAR'S COMPENSATION STIPULATED IN          
+ 167  190 9 SAID CONTRACTS, TO BE SECURED BY A LIEN ON SAID SHIPS.            
+ 168  191 1 G 17- -982B   J 30-1-485A    HR219     JULY 21, 1848              
+ 168  191 2 S301099A      Y=20 N=30                NILES, CONN.               
+ 168  191 3 TO AMEND H.R. 219, BY ELIMINATING CLAUSE AUTHORIZING THE          
+ 168  191 4 SECRETARY OF NAVY TO ADVANCE TO CONTRACTORS, ENABLING THEM        
+ 168  191 5 TO FINISH STEAMSHIPS UNDER CONTRACT, $25,000 A MONTH ON           
+ 168  191 6 EACH SHIP AFTER LAUNCHING, PROVIDING THIS ADVANCE DOES NOT        
+ 168  191 7 EXCEED ONE YEAR'S COMPENSATION STIPULATED IN SAID CONTRACTS,      
+ 168  191 8 TO BE SECURED BY A LIEN ON SAID SHIPS.  (P. 982-1)                
+ 169  192 1 G 17- -982C   J 30-1-485B    S219      JULY 21, 1848              
+ 169  192 2 S301100       Y=10 N=38                NILES, CONN.               
+ 169  192 3 TO AMEND H.R. 219, A BILL MAKING APPROPRIATIONS FOR THE           
+ 169  192 4 NAVAL SERVICE FOR 1848-49, BY INSERTING A PROVISION THAT          
+ 169  192 5 THIS APPROPRIATION SHOULD NOT BE CONSIDERED AS RATIFYING ANY      
+ 169  192 6 OF SAID CONTRACTS FOR MAIL LINES FOR OVER 5 YEARS.                
+ 170  193 1 G 17- -982D   J 30-1-485C    HR219     JULY 21, 1848              
+ 170  193 2 S301101       Y=22 N=24                ALLEN, OHIO                
+ 170  193 3 TO AMEND H.R. 219, PROHIBITING ANY FURTHER CONTRACTS WITH         
+ 170  193 4 MAIL STEAMERS CARRYING MAILS TO FOREIGN COUNTRIES, WITHOUT        
+ 170  193 5 THE CONSENT PREVIOUSLY GIVEN BY CONGRESS; AND THAT ALL LAWS       
+ 170  193 6 INCONSISTENT WITH THIS PROVISION ARE REPEALED HEREBY.             
+ 170  193 7 (P. 982-3)                                                        
+ 171  194 1 G 17- -983A   J 30-1-487A    HR219     JULY 21, 1848              
+ 171  194 2 S301102       Y=18 N=23                RUSK, TEX.                 
+ 171  194 3 TO AMEND H.R. 219 BY AUTHORIZING THE POSTMASTER GENERAL TO        
+ 171  194 4 EMPLOY ANY U.S. VESSELS NOT OTHERWISE EMPLOYED, IN                
+ 171  194 5 TRANSPORTATION OF MAIL, FREIGHT AND PASSENGERS.  (P. 983-1)       
+ 172  195 1 G 17- -983B   J 30-1-487B    HR219     JULY 21, 1848              
+ 172  195 2 S301103       Y=6 N=34                 DIX, N.Y.                  
+ 172  195 3 TO AMEND H.R. 219 BY PROVIDING $18,750 PER MONTH, AMOUNT NOT      
+ 172  195 4 TO EXCEED $150,000 TOTAL, FOR EACH STEAMSHIP CONSTRUCTED OR       
+ 172  195 5 TO BE CONSTRUCTED UNDER SAID CONTRACTS; PAYMENT TO GO TO          
+ 172  195 6 CONTRACTORS FOR THE NEW YORK AND BREMEN LINE, TO BEGIN WITH       
+ 172  195 7 LAUNCHING OF VESSEL, AND TO BE SECURED BY LIEN ON SAID SHIP       
+ 172  195 8 AS APPROVED BY POSTMASTER GENERAL.  (P. 983-1)                    
+ 173  196 1 G 17- -983C   J 30-1-488A    HR219     JULY 21, 1848              
+ 173  196 2 S301104       Y=12 N=21                YULEE, FLA.                
+ 173  196 3 TO AMEND H.R. 219 BY LIMITING THE NUMBER OF MIDSHIPMEN TO         
+ 173  196 4 464 AND MAKING APPOINTMENTS, ACCORDING TO DIRECTION OF            
+ 173  196 5 SECTION 5 OF THE ACT OF 3/3/1845, ENTITLED 'AN ACT MAKING         
+ 173  196 6 APPROPRIATIONS FOR NAVAL SERVICE FOR THE YEAR ENDING              
+ 173  196 7 6/30/1846'.                                                       
+ 174  197 1 G 17- -983D   J 30-1-488B    HR219     JULY 21, 1848              
+ 174  197 2 S301105       Y=11 N=21                ATHERTON, N.H.             
+ 174  197 3 TO AMEND H.R. 219 BY REDUCING APPROPRIATION FOR REPAIR OF         
+ 174  197 4 THE SHIP MEMPHIS FROM $174,038 TO $100,000.  (P. 983-2)           
+ 175  198 1 G 17- -989A   J 30-1-490A    S324      JULY 22, 1848              
+ 175  198 2 S301106       Y=17 N=37                BALDWIN, CONN.             
+ 175  198 3 TO AMEND S. 324, WHICH ESTABLISHES A TERRITORIAL GOVERNMENT       
+ 175  198 4 FOR OREGON, NEW MEXICO, AND CALIFORNIA, BY ELIMINATING            
+ 175  198 5 SECTIONS PROVIDING TERRITORIAL GOVERNMENT FOR CALIFORNIA AND      
+ 175  198 6 NEW MEXICO, IN ORDER TO CONSIDER SEPARATELY THE TERRITORIAL       
+ 175  198 7 GOVERNMENT OF OREGON.  (P. 988-3)                                 
+ 176  199 1 G 17- -989B   J 30-1-490B    PROC      JULY 22, 1848              
+ 176  199 2 S301107       Y=29 N=24                CLARKE, R.I.               
+ 176  199 3 TO ADJOURN, WHILE DEBATING S. 324.      (P. 989-2)                
+ 177  200 1 G 17- -994    J 30-1-492     PROC      JULY 24, 1848              
+ 177  200 2 S301108       Y=29 N=25                UNDERWOOD, KY.             
+ 177  200 3 TO ADJOURN, WHILE DEBATING S. 324.  (P. 994-2)                    
+ 178  201 1 G 17- -999    J 30-1-495     PROC      JULY 25, 1848              
+ 178  201 2 S301109       Y=30 N=19                BADGER, N.C.               
+ 178  201 3 TO ADJOURN, WHILE DEBATING S. 324.  (P. 999-1)                    
+ 179  202 1 G 17- -1001A  J 30-1-498A    PROC      JULY 26, 1848              
+ 179  202 2 S301110       Y=17 N=30                MANGUM, N.C.               
+ 179  202 3 TO ADJOURN, WHILE DEBATING S. 324.  (P. 1001-3)                   
+ 180  203 1 G 17- -1001B  J 30-1-498B    PROC      JULY 26, 1848              
+ 180  203 2 S301111       Y=15 N=32                UNDERWOOD, KY.             
+ 180  203 3 TO ADJOURN, DURING DEBATE ON S. 324.  (P. 1001-3)                 
+ 181  204 1 G 17- -1001C  J 30-1-499B    PROC      JULY 26, 1848              
+ 181  204 2 S301112       Y=4 N=39                 BALDWIN, CONN.             
+ 181  204 3 TO ADJOURN, DURING DEBATE ON S. 324.  (P. 1001-3)                 
+ 182  205 1 G 17- -1001D  J 30-1-499A    PROC      JULY 26, 1848              
+ 182  205 2 S301113       Y=11 N=32                NILES, CONN.               
+ 182  205 3 TO ADJOURN, WHILE DEBATING S. 324.  (P. 1001-3)                   
+ 183  206 1 G 17- -1002A  J 30-1-501B    S324      JULY 26, 1848              
+ 183  206 2 S301114       Y=21 N=33                HALE, N.H.                 
+ 183  206 3 TO AMEND S. 324 BY ELIMINATING THE PROVISO THAT THE EXISTING      
+ 183  206 4 LAWS IN OREGON SHALL CONTINUE TO BE VALID FOR THREE MONTHS        
+ 183  206 5 AFTER THE FIRST MEETING OF THE LEGISLATURE.  (P. 1002-1)          
+ 184  207 1 G 17- -1002B  J 30-1-501A    S324      JULY 26, 1848              
+ 184  207 2 S301115       Y=15 N=31                BALDWIN, CONN.             
+ 184  207 3 TO AMEND S. 324 BY PROVIDING THAT THE ATTORNEYS FOR THE           
+ 184  207 4 TERRITORIES, ON COMPLAINT OF ANY PERSON HELD IN                   
+ 184  207 5 INVOLUNTARY SERVITUDE, SHALL MAKE IN HIS BEHALF A WRIT OF         
+ 184  207 6 HABEAS CORPUS AND IN THE RETURN OF SAID WRIT, SAID ATTORNEY       
+ 184  207 7 SHALL APPEAL THEREFROM AND ALL RECORDS SHALL BE TRANSMITTED       
+ 184  207 8 TO THE SUPREME COURT OF THE U.S.  (P. 1002-1)                     
+ 185  208 1 G 17- -1002C  J 30-1-499C    S324      JULY 26, 1848              
+ 185  208 2 S301116       Y=7 N=44                 HALE, N.H.                 
+ 185  208 3 TO AMEND S. 324 BY PROVIDING THAT ALL SUBJECTS OF THE             
+ 185  208 4 TERRITORY OF OREGON, AND NOT MERELY FREE WHITES, MAY BE           
+ 185  208 5 QUALIFIED TO VOTE BY THE TERRITORY'S EXISTING LAWS.               
+ 185  208 6 (P. 1002-1)                                                       
+ 186  209 1 G 17- -1002D  J 30-1-500A    S324      JULY 26, 1848              
+ 186  209 2 S301117       Y=19 N=33                CLARKE, R.I.               
+ 186  209 3 TO AMEND S. 324 BY INSERTING AT THE END OF THE 6TH SECTION,       
+ 186  209 4 "PROVIDED HOWEVER, THAT NO LAW REPEALING THE ACTS OF              
+ 186  209 5 PROVISIONAL GOVERNMENT OF SAID TERRITORY PROHIBITING SLAVERY      
+ 186  209 6 OR INVOLUNTARY SERVITUDE THEREIN SHALL BE VALID UNTIL THE         
+ 186  209 7 SAME SHALL BE APPROVED BY CONGRESS.  (P. 1002-2)                  
+ 187  210 1 G 17- -1002F  J 30-1-502A    S324      JULY 26, 1848              
+ 187  210 2 S301118       Y=21 N=33                DAVIS, MASS.               
+ 187  210 3 TO AMEND S. 324 BY PROVIDING "THERE SHALL BE NEITHER SLAVERY      
+ 187  210 4 NOR INVOLUNTARY SERVITUDE IN THE SAID TERRITORY, OTHER THAN       
+ 187  210 5 IN PUNISHMENT OF CRIMES".  (P. 1002-2)                            
+ 188  211 1 G 17- -1002F  J 30-1-500B    S324      JULY 26, 1848              
+ 188  211 2 S301119       Y=31 N=19                JOHNSON, MD.               
+ 188  211 3 TO AMEND S. 324 BY PROVIDING THAT IN CASES INVOLVING TITLE        
+ 188  211 4 TO SLAVES THE TERRITORIAL GOVERNMENT'S SUPREME COURT SHALL,       
+ 188  211 5 REGARDLESS OF VALUE OF THE PROPERTY OR TITLE, ALLOW WRITS OF      
+ 188  211 6 ERROR OR APPEAL AND SUCH WRITS SHALL BE ALLOWED TO THE            
+ 188  211 7 UNITED STATES SUPREME COURT FROM DECISIONS OF THE TERRITORYS      
+ 188  211 8 SUPREME COURT OR ANY OTHER COURT UPON WRIT OF HABEUS CORPUS       
+ 188  211 9 INVOLVING QUESTIONS OF PERSONAL FREEDOM.  (P. 1002-2)             
+ 189  212 1 G 17- -1002G  J 30-1-502B    S324      JULY 26, 1848              
+ 189  212 2 S301120       Y=7 N=44                 DAVIS, MASS.               
+ 189  212 3 TO AMEND S. 324, BY PROVIDING TO INSERT AFTER THE WORDS           
+ 189  212 4 "NEW MEXICO," THE WORDS, "INCLUDING ALL TERRITORY BELONGING       
+ 189  212 5 TO MEXICO EXCEPT UPPER CALIFORNIA".  (P. 1002-2)                  
+ 190  213 1 G 17- -1002H  J 30-1-502C    S324      JULY 26, 1848              
+ 190  213 2 S301121       Y=33 N=22                CLAYTON, DEL.              
+ 190  213 3 TO ENGROSS AND READ FOR A THIRD TIME S. 324.                      
+ 191  214 1 G 17- -1008   J 30-1-506A    S136      JULY 28, 1848              
+ 191  214 2 S301122       Y=33 N=7                 DAYTON, N.J.               
+ 191  214 3 TO ENGROSS AND READ FOR THE THIRD TIME S. 136                     
+ 191  214 4 (APP. 8/12/1848) RELATING TO THE APPREHENSION OF AND              
+ 191  214 5 DELIVERY OF CERTAIN FOREIGN OFFENDERS.  (P. 1008-3)               
+ 192  215 1 G 17- -1009A  J 30-1-506B    SJR33     JULY 28, 1848              
+ 192  215 2 S301123       Y=25 N=14                BELL, TENN.                
+ 192  215 3 TO ENGROSS AND READ FOR A THIRD TIME S.J. RES. 33                 
+ 192  215 4 AUTHORIZING THE PROPER ACCOUNTING OFFICERS OF THE TREASURY        
+ 192  215 5 TO RENDER A JUST SETTLEMENT OF THE CLAIMS OF THE CHEROKEE         
+ 192  215 6 NATION OF INDIANS, ACCORDING TO THE TREATY OF AUGUST 1846.        
+ 193  216 1 G 17- -1009B  J 30-1-507A    HRE       JULY 28, 1848              
+ 193  216 2 S301124       Y=17 N=32                BREESE, ILL.               
+ 193  216 3 TO TABLE A RESOLUTION FIXING A DAY FOR FINAL ADJOURNMENT TO       
+ 193  216 4 MONDAY AUGUST 7TH 1848.  (P. 1009-2)                              
+ 194  217 1 G 17- -1009C  J 30-1-507B    HRE       JULY 28, 1848              
+ 194  217 2 S301125       Y=21 N=28                KING, ALA.                 
+ 194  217 3 TO POSTPONE FURTHER CONSIDERATION OF THE HOUSE RESOLUTION         
+ 194  217 4 FIXING THE DAY FOR FINAL ADJOURNMENT TO MONDAY                    
+ 194  217 5 AUGUST 7TH 1848.  (P. 1009-3)                                     
+ 195  218 1 G 17- -1010   J 30-1-508     HRE       JULY 28, 1848              
+ 195  218 2 S301126       Y=30 N=18                BREESE, ILL.               
+ 195  218 3 TO AMEND THE HOUSE RESOLUTION, FIXING THE DAY FOR FINAL           
+ 195  218 4 ADJOURNMENT FOR MONDAY AUGUST 7TH 1848, BY SUBSTITUTING           
+ 195  218 5 MONDAY AUGUST 14TH 1848.  (P. 1010-1)                             
+ 196  219 1 G 17- -1011   J 30-1-511     S297      JULY 29, 1848              
+ 196  219 2 S301127       Y=27 N=21                BENTON, MO.                
+ 196  219 3 TO TABLE MOTION TO POSTPONE PREVIOUS ORDER AND PROCEED TO         
+ 196  219 4 CONSIDERATION OF S. 297, A BILL TO SET APART AND SELL TO          
+ 196  219 5 ASA WHITNEY OF NEW YORK, A PORTION OF THE PUBLIC LANDS TO         
+ 196  219 6 CONSTRUCT A RAILROAD FROM LAKE MICHIGAN TO THE PACIFIC            
+ 196  219 7 OCEAN.                                                            
+ 197  220 1 G 17- -1016   J 30-1-515     HR219     JULY 31, 1848              
+ 197  220 2 S301128       Y=27 N=18                ATHERTON, N.H.             
+ 197  220 3 TO CONCUR IN COMMITTEE OF CONFERENCE REPORT CONCERNING            
+ 197  220 4 AMENDMENT TO H.R. 219 (APP. 8/3/1848), PROVIDING FOR              
+ 197  220 5 SUPPORT OF THE NAVY FOR THE 1849 FISCAL YEAR.  (P. 1016-3)        
+ 198  221 1 G 17- -1017   J 30-1-516     HR298     JULY 31, 1848              
+ 198  221 2 S301129       Y=38 N=12                ATHERTON, N.H.             
+ 198  221 3 TO AMEND H.R. 298 (APP. 8/12/1848), MAKING APPROPRIATIONS         
+ 198  221 4 FOR THE CIVIL AND DIPLOMATIC EXPENSES OF THE GOVERNMENT FOR       
+ 198  221 5 THE FISCAL YEAR 1849, BY ELIMINATING THE PROVISION LIMITING       
+ 198  221 6 THE MILEAGE OF MEMBERS TO 1,000 FOR EACH SESSION.                 
+ 198  221 7 (P. 1016-3)                                                       
+ 199  222 1 G 17- -1025A  J 30-1-519     HR298     AUG. 1, 1848               
+ 199  222 2 S301130       Y=17 N=33                ATHERTON, N.H.             
+ 199  222 3 TO AMEND H.R. 298 (APP. 8/12/1848) APPROPRIATING FOR THE          
+ 199  222 4 CIVIL AND DIPLOMATIC EXPENSES OF THE GOVERNMENT FOR THE           
+ 199  222 5 FISCAL YEAR ENDING JUNE 30, 1849, WHICH AMENDMENT PROPOSES        
+ 199  222 6 TO ELIMINATE APPROPRIATION OF $3,500 FOR THE COLLECTION OF        
+ 199  222 7 AGRICULTURAL STATISTICS.  (P. 1024-3)                             
+ 200  223 1 G 17- -0125B  J 30-1-520     HJR3      AUG. 1, 1848               
+ 200  223 2 S301131       Y=37 N=1                                            
+ 200  223 3 TO ADOPT RESOLUTION WHICH PROVIDES THAT CONGRESS GIVE THEIR       
+ 200  223 4 THANKS TO THE OFFICERS, SAILORS, AND MARINES OF THE U.S.          
+ 200  223 5 NAVY FOR THEIR COOPERATION AND SERVICES IN THE LATE WAR           
+ 200  223 6 WITH MEXICO.  (P. 1025-2)                                         
+ 201  224 1 G 17- -1029A  J 30-1-523     HR298     AUG. 2, 1848               
+ 201  224 2 S301132       Y=24 N=24                ATHERTON, N.H.             
+ 201  224 3 TO AMEND H.R. 298 (APP. 8/12/1848), MAKING APPROPRIATIONS         
+ 201  224 4 FOR THE CIVIL AND DIPLOMATIC EXPENSES OF THE GOVERNMENT FOR       
+ 201  224 5 THE FISCAL YEAR 1849, BY PROVIDING $10,000 AS COMPENSATION        
+ 201  224 6 AND EXPENSES OF A COMMERCIAL AGENT, TO BE SELECTED AND SENT       
+ 201  224 7 ABROAD BY THE PRESIDENT, TO COLLECT INFORMATION RESPECTING        
+ 201  224 8 THE COMMERCE, PRODUCTIONS, AND STATISTICS OF ASIA AND             
+ 201  224 9 EASTERN AFRICA.  (P. 1029-1)                                      
+ 202  225 1 G 17- -1029B  J 30-1-524A    HR298     AUG. 2, 1848               
+ 202  225 2 S301133       Y=23 N=21                ATHERTON, N.H.             
+ 202  225 3 TO AMEND H.R. 298 BY ELIMINATING THE PROVISO THAT WHEN A          
+ 202  225 4 VACANCY IN THE CLOTHING AND SUBSISTENCE BUREAUS OCCURS, A         
+ 202  225 5 PURSER OF NOT LESS THAN TEN YEARS STANDING IN THE NAVY SHALL      
+ 202  225 6 HEAD SAID BUREAU, RECEIVING NO OTHER COMPENSATION THAN HIS        
+ 202  225 7 HIGHEST PAY AS PURSER.  (P. 1029-2)                               
+ 203  226 1 G 17- -1029C  J 30-1-524B    HR298     AUG. 2, 1848               
+ 203  226 2 S301134       Y=19 N=30                ATHERTON, N.H.             
+ 203  226 3 UPON RECONSIDERATION, TO AMEND H.R. 298, BY ELIMINATING THE       
+ 203  226 4 PROVISO THAT WHEN A VACANCY IN THE CLOTHING AND SUBSISTENCE       
+ 203  226 5 BUREAU OCCURS, A PURSER OF THE NAVY WITH NOT LESS THAN TEN        
+ 203  226 6 YEARS STANDING BE ASSIGNED TO HEAD THE BUREAU RECEIVING ONLY      
+ 203  226 7 HIS CUSTOMARY PAY.  (P. 1029-2)                                   
+ 204  227 1 G 17- -1029D  J 30-1-524C    HR298     AUG. 2, 1848               
+ 204  227 2 S301135       Y=17 N=27                ATHERTON, N.H.             
+ 204  227 3 TO AMEND H.R. 298 (APP. 8/12/1848) BY ALLOWING COMMISSIONER       
+ 204  227 4 OF PUBLIC BUILDINGS TO HIRE A CLERK AT $600 A YEAR.               
+ 204  227 5 (P. 1029-2)                                                       
+ 205  228 1 G 17- -1031A  J 30-1-527     HR201     AUG. 3, 1848               
+ 205  228 2 S301136       Y=1 N=47                 BADGER, N.C.               
+ 205  228 3 TO POSTPONE INDEFINITELY H.R. 201, ESTABLISHING A                 
+ 205  228 4 TERRITORIAL GOVERNMENT IN OREGON.  (P. 1031-2)                    
+ 206  229 1 G 17- -1031B  J 30-1-528A    HR298     AUG. 3, 1848               
+ 206  229 2 S301137       Y=18 N=31                JOHNSON, MD.               
+ 206  229 3 TO AMEND H.R. 298 BY LIMITING REMOVAL OF OBSTRUCTIONS OF          
+ 206  229 4 THOSE CAUSED BY SINKING WRECKS IN DEFENSE OF THE CITY             
+ 206  229 5 DURING THE REVOLUTIONARY WAR, AS AN ADDITION TO PROPOSED          
+ 206  229 6 AMENDMENT APPROPRIATING $50,000 FOR THE REMOVAL OF                
+ 206  229 7 OBSTRUCTIONS IN THE SAVANNAH RIVER AND THE NAVAL ANCHORAGE        
+ 206  229 8 NEAR FORT PULASKI.  (P. 1031-3)                                   
+ 207  230 1 G 17- -1031C  J 30-1-528B    HR298     AUG. 3, 1848               
+ 207  230 2 S301138       Y=35 N=15                ATHERTON, N.H.             
+ 207  230 3 TO AMEND H.R. 298, BY ELIMINATING THE CLAUSE WHICH PROVIDED       
+ 207  230 4 FOR AN APPROPRIATION OF $50,000 FOR THE REMOVAL OF THE            
+ 207  230 5 OBSTRUCTIONS IN THE HARBOR OF THE SAVANNAH RIVER.                 
+ 207  230 6 (P. 1031-3)                                                       
+ 208  231 1 G 17- -1031D  J 30-1-529     HR298     AUG. 3, 1848               
+ 208  231 2 S301139       Y=24 N=21                ATHERTON, N.H.             
+ 208  231 3 TO AMEND H.R. 298, WHICH AMENDMENT APPROPRIATES $50,000           
+ 208  231 4 FOR PAYING IN FULL THE CLAIMS OF THE SPANISH GOVERNMENT           
+ 208  231 5 AGAINST THE UNITED STATES.  (P. 1031-3)                           
+ 209  232 1 G 17- -1038A  J 30-1-532A    HR298     AUG. 4, 1848               
+ 209  232 2 S301140       Y=23 N=19                DOWNS, LA.                 
+ 209  232 3 TO AMEND H.R. 298, BY PAYING $149,050.91 TO THE CREEK             
+ 209  232 4 INDIANS AS THE BALANCE OF THE $250,000 FOR LANDS CEDED,           
+ 209  232 5 AFTER DEDUCTING AMOUNT PAID TO CITIZENS OF GEORGIA UNDER THE      
+ 209  232 6 PRESIDENT'S AWARD IN ARTICLE 4 OF THE TREATY OF                   
+ 209  232 7 JANUARY 8, 1821.  (P. 1038-3)                                     
+ 210  233 1 G 17- -1038B  J 30-1-532B    HR298     AUG. 4, 1848               
+ 210  233 2 S301141       Y=34 N=11                HUNTER, VA.                
+ 210  233 3 TO AMEND H.R. 298 BY ELIMINATING THE STIPULATION OF               
+ 210  233 4 INTEREST IN THE AMENDMENT PAYING $43,333.33 TO 1300 CREEK         
+ 210  233 5 INDIANS, EMIGRANTS AND FOLLOWERS OF GENERAL MCINTOSH, WHO         
+ 210  233 6 WERE MOVED WEST IN 1829 IN ACCORDANCE WITH THE TREATY OF          
+ 210  233 7 JANUARY 24, 1846, WITH 5% INTEREST FROM DECEMBER 31, 1829         
+ 210  233 8 UNTIL PAID.  (P. 1038-3)                                          
+ 211  234 1 G 17- -1039A  J 30-1-533A    HR298     AUG. 4, 1848               
+ 211  234 2 S301142       Y=38 N=8                 DIX, N.Y.                  
+ 211  234 3 TO AMEND H.R. 298 BY APPROPRIATING $90,000 FOR CONSTRUCTING       
+ 211  234 4 AND EQUIPPING SIX REVENUE CUTTERS, AND GIVING LOWEST              
+ 211  234 5 BIDDERS THE CONTRACTS FOR FURNISHING MATERIALS.                   
+ 211  234 6 (P. 1038-3)                                                       
+ 212  235 1               J 30-1-533B    PROC      AUG. 4, 1848               
+ 212  235 2 S301143       Y=22 N=23                UNDERWOOD, KY.             
+ 212  235 3 TO ADJOURN, DURING DEBATE ON H.R. 298.                            
+ 213  236 1 G 17- -1039B  J 30-1-533C    HR298     AUG. 4, 1848               
+ 213  236 2 S301144       Y=9 N=32                 HANNEGAN, IND.             
+ 213  236 3 TO AMEND H.R. 298 BY APPROPRIATING $4,497.27 TO                   
+ 213  236 4 COMMODORE BIDDLE FOR HIS DIPLOMATIC SERVICES IN CHINA.            
+ 213  236 5 (P. 1039-1)                                                       
+ 214  237 1 G 17- -1044A  J 30-1-536     HR298     AUG. 5, 1848               
+ 214  237 2 S301145       Y=25 N=20                MASON, VA.                 
+ 214  237 3 TO AMEND H.R. 298 BY APPROPRIATING $20,000 TO BE PAID TO THE      
+ 214  237 4 EXECUTOR OF THOMAS JEFFERSON'S ESTATE FOR THE LATTER'S            
+ 214  237 5 PAPERS AND MANUSCRIPTS, AND $6,000 MORE FOR PRINTING AND          
+ 214  237 6 PUBLISHING SAME; AND APPROPRIATING LIKE SUMS FOR THE PAPERS       
+ 214  237 7 AND MANUSCRIPTS OF ALEXANDER HAMILTON.                            
+ 215  238 1 G 17- -1044B  J 30-1-537A    HR298     AUG. 5, 1848               
+ 215  238 2 S301146       Y=25 N=15                BENTON, MO.                
+ 215  238 3 TO AMEND H.R. 298 BY ELIMINATING THE CLAUSE WHICH PROVIDES        
+ 215  238 4 FOR THE SUM OF $24,327, FOR PAYMENT FOR THE FIRST VOLUME OF       
+ 215  238 5 THE 5TH SERIES OF THE DOCUMENTARY HISTORY UNDER CONTRACT          
+ 215  238 6 WITH THE SECRETARY OF STATE.  (P. 1044-1)                         
+ 216  239 1 G 17- -1044C  J 30-1-537B    HR298     AUG. 5, 1848               
+ 216  239 2 S301147       Y=7 N=30                 BENTON, MO.                
+ 216  239 3 TO AMEND H.R. 298 BY APPROPRIATING $4,000 FOR COMPENSATION        
+ 216  239 4 TO DR. TORREY OF PRINCETON, NEW JERSEY, FOR SERVICES, AND         
+ 216  239 5 DEFRAYING THE EXPENSES OF SUPERINTENDING AND ENGRAVING THE        
+ 216  239 6 BOTANICAL SPECIMENS BROUGHT FROM THE WEST BY J.C. FREEMONT.       
+ 216  239 7 (P. 1044-1)                                                       
+ 217  240 1 G 17- -1044D  J 30-1-537C    HR298     AUG. 5, 1848               
+ 217  240 2 S301148       Y=15 N=23                HANNEGAN, IND.             
+ 217  240 3 TO AMEND H.R. 298 BY APPROPRIATING FOR COMPENSATION TO A          
+ 217  240 4 DOORKEEPER OF THE PRESIDENT OF THE U.S., THE SUM OF $600.         
+ 217  240 5 (P. 1044-1)                                                       
+ 218  241 1 G 17- -1044E  J 30-1-538A    HR298     AUG. 5, 1848               
+ 218  241 2 S301149       Y=24 N=22                FELCH, MICH.               
+ 218  241 3 TO AMEND H.R. 298 BY ADDING AN APPROPRIATION OF $50,000 FOR       
+ 218  241 4 THE ADJUSTMENT OF CLAIMS OF THE SPANISH GOVERNMENT AGAINST        
+ 218  241 5 THE U.S. UNDER THE DIRECTION OF THE SECRETARY OF STATE.           
+ 218  241 6 (P. 1044-2)                                                       
+ 219  242 1 G 17- -1044F  J 30-1-538B    HR298     AUG. 5, 1848               
+ 219  242 2 S301150       Y=28 N=13                FELCH, MICH.               
+ 219  242 3 TO AMEND H.R. 298 BY PROVIDING FOR AN APPROPRIATION OF            
+ 219  242 4 $141,055.91, TO CERTAIN CREEK INDIANS, BEING THE BALANCE DUE      
+ 219  242 5 OF $250,000 AGREED TO BE PAID FOR LANDS CEDED AFTER               
+ 219  242 6 DEDUCTING THE AMOUNT PAID TO THE CITIZENS OF GEORGIA AS           
+ 219  242 7 AWARDED TO THEM IN THE 4TH ARTICLE OF THE TREATY OF               
+ 219  242 8 1/8/1821.  (P. 1044-2)                                            
+ 220  243 1 G 17- -1044G  J 30-1-539A    HR298     AUG. 5, 1848               
+ 220  243 2 S301151       Y=18 N=16                ATHERTON, N.H.             
+ 220  243 3 TO AMEND H.R. 298 BY APPROPRIATING $30,000 FOR THE                
+ 220  243 4 COMPLETION OF THE SURVEY MADE BY J.C. FREMONT IN OREGON AND       
+ 220  243 5 CALIFORNIA.  (P. 1044-2)                                          
+ 221  244 1 G 17- -1044H  J 30-1-539B    HR298     AUG. 5, 1848               
+ 221  244 2 S301152       Y=15 N=19                DIX, N.Y.                  
+ 221  244 3 TO AMEND H.R. 298 BY ADDING, FOR COMPENSATION AND EXPENSES        
+ 221  244 4 FOR COLLECTING INFORMATION OF COMMERCE PRODUCTION AND             
+ 221  244 5 STATISTICS OF ASIA AND EASTERN AFRICA, THE SUM OF $10,000         
+ 221  244 6 FOR ANY ONE SENT ABROAD BY THE PRESIDENT FOR THE ABOVE            
+ 221  244 7 PURPOSE.  (P. 1044-2)                                             
+ 222   69 1               EX J 7-470A    SRE       AUG. 7, 1848               
+ 222   69 2 E301069       Y=11 N=33                WESTCOTT, FLA.             
+ 222   69 3 TO POSTPONE UNTIL THE NEXT SESSION OF THE SENATE FURTHER          
+ 222   69 4 ACTION ON THE NOMINATION OF STEPHEN W. KEARNEY.                   
+ 222   69 5 (P. 379, 454)                                                     
+ 223   70 1               EX J 7-470B    SRE       AUG. 7, 1848               
+ 223   70 2 E301070       Y=32 N=12                MANGUM, N.C.               
+ 223   70 3 TO TABLE THE RESOLUTION THAT THE SENATE HEAR THE TESTIMONY        
+ 223   70 4 AT ITS BAR BEFORE A COMMITTEE REGARDING THE NOMINATION OF         
+ 223   70 5 STEPHEN W. KEARNY.  (P. 379, 470)                                 
+ 224   71 1               EX J 7-471     PROC      AUG. 7, 1848               
+ 224   71 2 E301071       Y=17 N=29                DIX, N.Y.                  
+ 224   71 3 TO ADJOURN.                                                       
+ 225  245 1 G 17- -1051A  J 30-1-544     S331      AUG. 8, 1848               
+ 225  245 2 S301153       Y=34 N=15                KING, ALA.                 
+ 225  245 3 TO ENGROSS AND READ FOR A THIRD TIME S. 331, GRANTING TO          
+ 225  245 4 ALABAMA THE RIGHT OF WAY AND A DONATION OF PUBLIC LANDS FOR       
+ 225  245 5 MAKING A RAILROAD FROM MOBILE TO THE MOUTH OF THE OHIO            
+ 225  245 6 RIVER.  (P. 1051-3)                                               
+ 226  246 1 G 17- -1051B  J 30-1-547     HR106     AUG. 8, 1848               
+ 226  246 2 S301154       Y=30 N=4                 HUNTER, VA.                
+ 226  246 3 TO PASS H.R. 106 (APP. 8/11/1848), REMITTING CERTAIN DUTIES       
+ 226  246 4 ON RAILROAD IRON TO THE RED RIVER RAILROAD. THE GLOBE             
+ 226  246 5 REPORTS THE ACTION AS ENGROSSMENT OF THE BILL.  (P. 1051-2)       
+ 227  247 1 G 17- -1052A  J 30-1-549     S107      AUG. 8, 1848               
+ 227  247 2 S301155       Y=19 N=15                MASON, VA.                 
+ 227  247 3 TO ENGROSS AND READ FOR A THIRD TIME S. 107, (APP. 3/3/1849)      
+ 227  247 4 FOR THE CLAIM OF GEORGE CENTER PRAYING FOR INDEMNITY FOR          
+ 227  247 5 LOSSES SUFFERED IN CONSEQUENCE OF DESTRUCTION OF HIS              
+ 227  247 6 PROPERTY DURING THE SEMINOLE WAR.  (P. 1052-1)                    
+ 228  248 1 G 17- -1052B  J 30-1-550     SJR20     AUG. 8, 1848               
+ 228  248 2 S301156       Y=20 N=17                ALLEN, OHIO                
+ 228  248 3 TO TABLE S.J. RES. 20, REQUIRING THE COMMISSIONER OF              
+ 228  248 4 PATENTSTO REPORT ANNUALLY UPON THE PRICE OF LABOR AND THE         
+ 228  248 5 PRODUCTION OF AGRICULTURE AND MANUFACTURE.  (P. 1052-1)           
+ 229   72 1               EX J 7-473A    SRE       AUG. 9, 1848               
+ 229   72 2 E301072       Y=17 N=29                DIX, N.Y.                  
+ 229   72 3 TO POSTPONE CONSIDERATION OF THE NOMINATION OF                    
+ 229   72 4 STEPHEN W. KEARNY UNTIL DEC. NEXT.  (P. 379, 473)                 
+ 230   73 1               EX J 7-473B    SRE       AUG. 9, 1848               
+ 230   73 2 E301073       Y=32 N=14                DAVIS, MISS.               
+ 230   73 3 TO ADVISE AND CONSENT TO THE APPOINTMENT OF                       
+ 230   73 4 STEPHEN W. KEARNY FOR GALLANT AND MERITORIOUS CONDUCT IN          
+ 230   73 5 NEW MEXICO AND IN CALIFORNIA DURING THE BATTLE OF                 
+ 230   73 6 SAN PASQUALE AND LATER.  (P. 379, 473)                            
+ 231  249 1 G 17- -1056A  J 30-1-556     HR618     AUG. 9, 1848               
+ 231  249 2 S301157       Y=20 N=26                JOHNSON, LA.               
+ 231  249 3 TO AMEND H.R. 618 (8/18/1848), MAKING APPROPRIATIONS FOR          
+ 231  249 4 SUPPORT OF THE ARMY FOR FISCAL YEAR 1849, BY PROVIDING AN         
+ 231  249 5 APPROPRIATION OF $15,000 FOR A FORT ON PROCTOR'S ISLAND IN        
+ 231  249 6 LAKE BORGNE, LA.  (P. 1056-3)                                     
+ 232  250 1 G 17- -1056B  J 30-1-557     HR618     AUG. 9, 1848               
+ 232  250 2 S301158       Y=20 N=16                ALLEN, OHIO                
+ 232  250 3 TO AMEND H.R. 618 (APP. 8/14/1848), MAKING APPROPRIATIONS         
+ 232  250 4 FOR SUPPORT OF THE ARMY FOR THE 1849 FISCAL YEAR, BY              
+ 232  250 5 APPROPRIATING $657 WITH INTEREST FROM JUNE, 1843, TO              
+ 232  250 6 CAPTAIN JOHN CALDWELL FOR MONEYS PAID BY HIM IN MEMPHIS FOR       
+ 232  250 7 PURCHASE OF EQUIPMENT FOR THE ARMY IN MEXICO.  (P. 1056-3)        
+ 233  251 1 G 17- -1060   J 30-1-560     HR599     AUG. 10, 1848              
+ 233  251 2 S301159       Y=26 N=24                DOUGLAS, ILL.              
+ 233  251 3 TO POSTPONE UNTIL TOMORROW H.R. 599                               
+ 233  251 4 (APP. 8/14/1848, 9 STAT. L. 306), ESTABLISHING CERTAIN            
+ 233  251 5 POST ROUTES.                                                      
+ 234  252 1 G 17- -1061A  J 30-1-562A    HR201     AUG. 10, 1848              
+ 234  252 2 S301160       Y=15 N=36                FOOTE, MISS.               
+ 234  252 3 TO TABLE H.R. 201, TO ESTABLISH A TERRITORIAL GOVERNMENT IN       
+ 234  252 4 OREGON.  (P. 1061-2)                                              
+ 235  253 1 G 17- -1061B  J 30-1-562B    HR201     AUG. 10, 1848              
+ 235  253 2 S301161       Y=2 N=52                 DOUGLAS, ILL.              
+ 235  253 3 TO AMEND H.R. 201, WHICH ESTABLISHES A TERRITORIAL                
+ 235  253 4 GOVERNMENT IN OREGON, BY INSERTING "THAT IN AS MUCH THE           
+ 235  253 5 SAID TERRITORY IS NORTH 36 DEGREES 30 PARELLEL OF NORTH           
+ 235  253 6 LATITUDE, USUALLY KNOWN AS THE MISSOURI COMPROMISE".              
+ 235  253 7 (P. 1061-3)                                                       
+ 236  254 1 G 17- -1061C  J 30-1-563A    HR201     AUG. 10, 1848              
+ 236  254 2 S301162       Y=33 N=21                DOUGLAS, ILL.              
+ 236  254 3 TO AMEND H.R. 201, ESTABLISHING A TERRITORIAL GOVERNMENT IN       
+ 236  254 4 OREGON, BY INSERTING WORDS TO THE EFFECT THAT LINE 36 DEGREE      
+ 236  254 5 30 PARALLEL OF NORTH LATITUDE, KNOWN AS THE MISSOURI              
+ 236  254 6 COMPROMISE LINE, IS EXTENDED TO THE PACIFIC OCEAN; AND THE        
+ 236  254 7 8TH SECTION OF THE ACT DEFINING THE MISSOURI COMPROMISE           
+ 236  254 8 LINE IS HEREBY REVIVED INTO FULL FORCE FOR FUTURE                 
+ 236  254 9 ORGANIZATION OF TERRITORIES.  (P. 1061-3)                         
+ 237  255 1 G 17- -1061D  J 30-1-563B    HR201     AUG. 10, 1848              
+ 237  255 2 S301163       Y=33 N=22                DOUGLAS, ILL.              
+ 237  255 3 TO ENGROSS AND READ FOR THE THIRD TIME H.R. 201, WHICH            
+ 237  255 4 ESTABLISHES A TERRITORIAL GOVERNMENT IN OREGON.  (P. 1061-3)      
+ 238  256 1 G 17- -1065   J 30-1-567     SRE       AUG. 11, 1848              
+ 238  256 2 S301164       Y=38 N=9                 BRADBURY, ME.              
+ 238  256 3 TO ADOPT RESOLUTION THAT THE DEBATES OF SENATE BE PUBLISHED       
+ 238  256 4 IN THE NEWSPAPERS IN THIS CITY AND PAYMENT AT THE RATE OF         
+ 238  256 5 $7.50 FOR A COLUME OF BREVIER TYPE, AND EACH PAPER SHALL BE       
+ 238  256 6 FURNISHED TO EACH MEMBER WITHOUT ADDITIONAL CHARGE, AND TO        
+ 238  256 7 APPROPRIATE $2,500 TO OFFICIAL REPORT OR FOR RELINQUISHING        
+ 238  256 8 HIS RIGHTS UNDER HIS CONTRACT.                                    
+ 239  257 1 G 17- -1066A  J 30-1-568     HR599     AUG. 11, 1848              
+ 239  257 2 S301165       Y=25 N=14                DICKINSON, N.Y.            
+ 239  257 3 TO AMEND H.R. 599, (APP. 8/14/1848, 9 STAT. L. 306), BY           
+ 239  257 4 ESTABLISHING CERTAIN POST ROUTES, SO THAT ALL NEWSPAPERS          
+ 239  257 5 PUBLISHED WEEKLY MAY BE SENT WITHIN 50 MILES FREE OF              
+ 239  257 6 POSTAGE.  (P. 1066-1)                                             
+ 240  258 1 G 17- -1066B  J 30-1-569A    HR599     AUG. 11, 1848              
+ 240  258 2 S301166       Y=24 N=24                NILES, CONN.               
+ 240  258 3 TO AMEND H.R. 599, BY EXTENDING CONGRESSIONAL FRANKING PRI-       
+ 240  258 4 VILEGES TO THE ATTORNEY-GENERAL AND HEADS OF DEPTS., AND          
+ 240  258 5 FIXING VARIOUS POSTAGE FEES ON CERTAIN WEIGHT LETTERS AND         
+ 240  258 6 NEWSPAPERS.  (P. 1065-3)                                          
+ 241  259 1 G 17- -1066C  J 30-1-571     HR599     AUG. 11, 1848              
+ 241  259 2 S301167       Y=19 N=16                HALE, N.H.                 
+ 241  259 3 TO TABLE THE MOTION TO RECONSIDER THE VOTE ON AN AMENDMENT        
+ 241  259 4 TO H.R. 599, SAID AMENDMENT FIXING POSTAGE RATES, EFFECTIVE       
+ 241  259 5 OCT. 1, 1848, ON NEWSPAPERS AND PRINTED MATTER EXTENDING          
+ 241  259 6 CONGRESSIONAL FRANKING PRIVILEGES TO THE ATTORNEY GENERAL         
+ 241  259 7 AND DEPARTMENT HEADS.  (P. 1066-1)                                
+ 242  260 1 G 17- -1066D  J 30-1-569B    HR599     AUG. 11, 1848              
+ 242  260 2 S301168       Y=25 N=20                WESTCOTT, FLA.             
+ 242  260 3 TO AMEND H.R. 599, BY RESTRICTING FREE POSTAGE FOR WEEKLY         
+ 242  260 4 NEWSPAPERS TO THOSE MAILED WITHIN THE STATE WHERE PUBLISHED.      
+ 242  260 5 (P. 1066-1)                                                       
+ 243  261 1 G 17- -1066E  J 30-1-570     HR599     AUG. 11, 1848              
+ 243  261 2 S301169       Y=16 N=30                NILES, CONN.               
+ 243  261 3 TO AMEND H.R. 599, BY AUTHORIZING THE POSTMASTER GENERAL TO       
+ 243  261 4 ADVANCE TO THE OCEAN STEAM NAVIGATION CO., THE SUM NOT            
+ 243  261 5 EXCEEDING $25,000 PER MONTH TO ENABLE THEM TO COMPLETE THE        
+ 243  261 6 STEAMSHIP, FRANKLIN; ADVANCES NOT TO EXCEED $150,000              
+ 243  261 7 PROVIDED STEAMER SHALL BE COMPLETED IN 9 MONTHS, AND BY           
+ 243  261 8 MORTGAGE ON PAID SHIP.  (P. 1066-2)                               
+ 244  262 1 G 17- -1067   J 30-1-573     S313      AUG. 11, 1848              
+ 244  262 2 S301170       Y=14 N=28                JOHNSON, MD.               
+ 244  262 3 TO AMEND AN AMENDMENT TO S. 313 (APP. 3/3/1849), A BILL           
+ 244  262 4 CARRYING INTO EFFECT CERTAIN STIPULATIONS OF THE                  
+ 244  262 5 FEB. 2, 1848 TREATY BETWEEN THE UNITED STATES AND MEXICO, BY      
+ 244  262 6 ADDING TO THE ORIGINAL AMENDMENT AUTHORIZING THAT PAYMENT         
+ 244  262 7 OF APPROVED CLAIMS OF U.S. CITIZENS AGAINST MEXICO BE MADE        
+ 244  262 8 FROM TREASURY FUNDS OR IN U.S. STOCK, A PROVISION THAT IN         
+ 244  262 9 ALL OTHER RESPECTS THE CLAIMS IN THE SECOND SECTION OF THIS       
+ 244  26210 BILL BE PLACED ON A PAR WITH THE CLIAMS IN THE 13TH ARTICLE       
+ 244  26211 OF THE SAID TREATY.  (P. 1067-1)                                  
+ 245  263 1 G-17- -1068   J 30-1-574     S313      AUG. 11, 1848              
+ 245  263 2 S301171       Y=31 N=7                 CALHOUN, S.C.              
+ 245  263 3 TO AMEND S. 313 (APP. 3/3/1849), A BILL CARRYING INTO             
+ 245  263 4 EFFECT STIPULATIONS OF THE TREATY BETWEEN THE U.S. AND            
+ 245  263 5 MEXICO, MADE FEB. 2, 1848, BY ELIMINATING SECOND SECTION          
+ 245  263 6 REGARDING CLAIMS OF U.S. CITIZENS AGAINST MEXICO AND              
+ 245  263 7 PROVIDING FOR PAYMENT OF AWARDS, WITHOUT INTEREST, CONCURRED      
+ 245  263 8 IN BY BOTH U.S. COMMISSIONERS.                                    
+ 246   74 1               EX J 7-482A    SRE       AUG. 12, 1848              
+ 246   74 2 E301074       Y=23 N=25                DAVIS, MISS.               
+ 246   74 3 TO TABLE THE RESOLUTION REQUESTING THE PRESIDENT TO               
+ 246   74 4 EXTINGUISH BY PURCHASE THE RIGHTS OF THE HUDSON BAY CO. AND       
+ 246   74 5 THE PUGET SOUND LAND CO. TO THE NAVIGATION OF THE COLUMBIA        
+ 246   74 6 RIVER, ETC., IN THE TERRITORY OF OREGON, FOR A SUM NOT TO         
+ 246   74 7 EXCEED ONE MILLION DOLLARS.                                       
+ 247   75 1               EX J 7-482B    SRE       AUG. 12, 1848              
+ 247   75 2 E301075       Y=23 N=26                MANGUM, N.C.               
+ 247   75 3 TO CONSIDER THE RESOLUTION AUTHORIZING THE PRESIDENT TO           
+ 247   75 4 EXTINGUISH FOR A SUM NOT EXCEEDING ONE MILLION DOLLARS THE        
+ 247   75 5 RIGHTS OF THE HUDSON BAY CO. AND THE PUGET LAND COMPANY IN        
+ 247   75 6 THE COLUMBIA RIVER, AS WELL AS OTHER RIGHTS OF POSSESSION         
+ 247   75 7 HELD BY THEM.                                                     
+ 248   76 1               EX J 7-482C    SRE       AUG. 12, 1848              
+ 248   76 2 E301076       Y=29 N=18                YULEE, FLA.                
+ 248   76 3 TO OPEN THE DOORS, DISCONTINUING THE EXECUTIVE SESSION OF         
+ 248   76 4 THE SENATE AND GOING INTO LEGISLATIVE BUSINESS.                   
+ 249  264 1 G 17- -1074A  J 30-1-581     HR201     AUG. 12, 1848              
+ 249  264 2 S301172       Y=18 N=32                MASON, VA.                 
+ 249  264 3 TO TABLE SENATE AMENDMENTS TO H.R. 201, ESTABLISHING A            
+ 249  264 4 TERRITORIAL GOVERNMENT IN OREGON, IN ORDER TO EFFECT              
+ 249  264 5 COMPROMISE WITH THE HOUSE ON AMENDMENTS TO WHICH THE HOUSE        
+ 249  264 6 DISAGREES.  (P. 1074-1)                                           
+ 250  265 1 G 17- -1074B  J 30-1-582     HR201     AUG. 12, 1848              
+ 250  265 2 S301173       Y=23 N=34                MASON, VA.                 
+ 250  265 3 TO POSTPONE CONSIDERATION OF H.R. 201, A BILL TO ESTABLISH A      
+ 250  265 4 TERRITORIAL GOVERNMENT IN OREGON, UNTIL 4:30 P.M. IN ORDER        
+ 250  265 5 TO TAKE UP THE PRIVATE CALENDAR.  (P. 1074-2)                     
+ 251  266 1 G 17- -1076A  J 30-1-583     SRE       AUG. 12, 1848              
+ 251  266 2 S301174       Y=23 N=22                WESTCOTT, FLA.             
+ 251  266 3 TO SUSTAIN DECISION OF THE CHAIR, WHICH DECISION HELD THAT        
+ 251  266 4 INTRODUCTION OF A RESOLUTION WAS NOT IN ORDER BECAUSE THE         
+ 251  266 5 BUSINESS BEFORE THE SENATE IMMEDIATELY PRIOR TO COMMENCING        
+ 251  266 6 EXECUTIVE SESSION MUST, UPON RESUMING THE LEGISLATIVE             
+ 251  266 7 SESSION, BE RESUMED, UNLESS DETERMINED OTHERWISE BY               
+ 251  266 8 UNANIMOUS CONSENT, BEFORE ANY OTHER BUSINESS IS TAKEN UP.         
+ 251  266 9 (P. 1076-2)                                                       
+ 252  267 1 G 17- -1076B  J 30-1-584     HR618     AUG. 12, 1848              
+ 252  267 2 S301175       Y=19 N=29                YULEE, FLA.                
+ 252  267 3 TO SUSTAIN DECISION OF THE CHAIR, WHICH DECISION HELD THAT        
+ 252  267 4 REMARKS ABOUT THE CONFERENCE REPORT ON H.R. 618,                  
+ 252  267 5 (APP. 8/14/1848), MAKING ARMY APPROPRIATIONS FOR FISCAL           
+ 252  267 6 YEAR 1849, ARE NOT IN ORDER BECAUSE THE SENATE HAS NOT            
+ 252  267 7 AGREED TO CONSIDERATION OF THE REPORT.  (P. 1076-3)               
+ 253  268 1 G 17- -1077A  J 30-1-586     PROC      AUG. 12, 1848              
+ 253  268 2 S301176       Y=18 N=32                TURNEY, TENN.              
+ 253  268 3 TO ADJOURN, DURING CONSIDERATION OF H.R. 201, ESATBLISHING        
+ 253  268 4 A TERRITORIAL GOVERNMENT IN OREGON.  (P. 1077-3)                  
+ 254  269 1 G 17- -1077B  J 30-1-587A    HR201     AUG. 12, 1848              
+ 254  269 2 S301177       Y=36 N=11                MASON, VA.                 
+ 254  269 3 TO SUSTAIN THE DECISION OF THE CHAIR, MADE DURING DEBATE ON       
+ 254  269 4 H.R. 201, WHICH HELD THAT THE MOTION TO CONSIDER A SUBJECT        
+ 254  269 5 REQUIRING DOORS OF SENATE TO BE SHUT WAS OUT OF ORDER.            
+ 255  270 1               J 30-1-587B    PROC      AUG. 12, 1848              
+ 255  270 2 S301178       Y=13 N=27                LEWIS, ALA.                
+ 255  270 3 TO ADJOURN, DURING DEBATE ON H.R. 201.                            
+ 256  271 1               J 30-1-588A    PROC      AUG. 12, 1848              
+ 256  271 2 S301179       Y=13 N=27                ATCHISON, MO.              
+ 256  271 3 TO ADJOURN, DURING DEBATE ON H.R. 201.                            
+ 257  272 1               J 30-1-588B    HR201     AUG. 12, 1848              
+ 257  272 2 S301180       Y=2 N=27                 NILES, CONN.               
+ 257  272 3 TO SUSTAIN DECISION OF THE CHAIR, WHICH HELD THAT SENATOR         
+ 257  272 4 FOOTE WAS OUT OF ORDER IN ADDRESSING THE SENATE BECAUSE HIS       
+ 257  272 5 REMARKS WERE IRRELEVANT TO H.R. 201.                              
+ 258  273 1               J 30-1-588C    HR201     AUG. 12, 1848              
+ 258  273 2 S301181       Y=17 N=17                LEWIS, ALA.                
+ 258  273 3 TO GIVE SENATOR FOOTE PERMISSION TO PROCEED WITH HIS REMARKS      
+ 258  273 4 INASMUCH AS IT WAS 4 A.M. AND THE SENATE REDUSED TO ADJOURN,      
+ 258  273 5 MADE DURING DEBATE ON H.R. 201.                                   
+ 259  274 1               J 30-1-588D    PROC      AUG. 12, 1848              
+ 259  274 2 S301182       Y=9 N=27                 WESTCOTT, FLA.             
+ 259  274 3 TO ADJOURN, DURING DISCUSSION ON H.R. 201.                        
+ 260  275 1               J 30-1-589A    HR201     AUG. 12, 1848              
+ 260  275 2 S301183       Y=12 N=26                FOOTE, MISS.               
+ 260  275 3 TO ADJOURN, DURING DISCUSSION OF H.R. 201.                        
+ 261  276 1 G 17- -1078A  J 30-1-589B    HR201     AUG. 12, 1848              
+ 261  276 2 S301184       Y=31 N=22                BENTON, MO.                
+ 261  276 3 TO RECEDE FROM ITS AMENDMENT TO H.R. 201, WHICH AMENDMENT         
+ 261  276 4 DIRECTS THE GOVERNOR OF OREGON, IMMEDIATELY AFTER EACH            
+ 261  276 5 SESSION OF THE LEGISLATURE, TO TRANSMIT TO THE SENATE AND         
+ 261  276 6 THE HOUSE COPIES OF ANY ACTS NOT APPROVED BY HIM AND HIS          
+ 261  276 7 REASONS THEREFOR.  (P. 1077-3)                                    
+ 262  277 1 G 17- -1078B  J 30-1-590     HR201     AUG. 12, 1848              
+ 262  277 2 S301185       Y=29 N=25                DOUGLAS, ILL.              
+ 262  277 3 TO RECEDE FROM ITS AMENDMENT TO H.R. 201, WHICH AMENDMENT         
+ 262  277 4 EXTENDS THE LINE OF THE MISSOURI COMPROMISE TO THE PACIFIC        
+ 262  277 5 OCEAN.  (P. 1078-1)                                               
+ 263  278 1 G 17- -1084   J 30-1-593     SRE       AUG. 14, 1848              
+ 263  278 2 S301186       Y=20 N=37                JOHNSON, MD.               
+ 263  278 3 TO AMEND THE RESOLUTION, THAT THE 17TH JOINT RULE OF THE          
+ 263  278 4 TWO HOUSES BE SUSPENDED IN ORDER TO PERMIT ALL BILLS THAT         
+ 263  278 5 HAVE ALREADY PASSED BOTH HOUSES, OR MAY THIS DAY PASS, TO BE      
+ 263  278 6 SENT TO THE PRESIDENT OF THE UNITED STATES FOR HIS APPROVAL,      
+ 263  278 7 WITH THE EXCEPTION OF H.R. 201.                                   
+ 264  279 1 G 17- -1085B  J 30-1-597     SRE       AUG. 14, 1848              
+ 264  279 2 S301187       Y=36 N=7                 MANGUM, N.C.               
+ 264  279 3 TO ADOPT RESOLUTION RELATIVE TO THE PAY OF CERTAIN SENATE         
+ 264  279 4 EMPLOYEES MENTIONED ON P. 597 OF JOURNAL.                         
+ 265  280 1 G 18- -20     J 30-2-50      SRE       DEC. 11, 1848              
+ 265  280 2 S302001       Y=29 N=21                DAVIS, MISS.               
+ 265  280 3 TO AMEND THE REPORT OF THE SECRETARY OF TREASURY ON THE           
+ 265  280 4 FINANCIAL STATE OF THE COUNTRY, AND A STATEMENT OF THE            
+ 265  280 5 RECEIPTS AND EXPENDITURES FOR THE LAST YEAR, BY PROVIDING         
+ 265  280 6 FOR THE PRINTING OF 20,000 ADDITIONAL COPIES OF THE REPORT.       
+ 265  280 7 (P. 18)                                                           
+ 266  281 1 G 18- -37A    J 30-2-60      SRE       DEC. 13, 1848              
+ 266  281 2 S302002       Y=33 N=14                BENTON, MO.                
+ 266  281 3 TO PRINT, FOR THE USE OF THE SENATE, THE PETITION OF THE          
+ 266  281 4 PEOPLE OF NEW MEXICO, PRAYING FOR THE ESTABLISHMENT OF A          
+ 266  281 5 TERRITORIAL GOVERNMENT, AND FOR CERTAIN PROVISIONS IN THE         
+ 266  281 6 LAW PROVIDING FOR THE SAME.  (P. 33-2)                            
+ 267  282 1 G 18- -37B    J 30-2-62      MEML      DEC. 13, 1848              
+ 267  282 2 S302003       Y=20 N=21                JOHNSON, MD.               
+ 267  282 3 TO REFER TO A SELECT COMMITTEE FOR CONSIDERATION, THE             
+ 267  282 4 MEMORIAL OF JOHN S. SKINNER PRAYING FOR THE ESTABLISHMENT OF      
+ 267  282 5 AN AGRICULTURAL DEPARTMENT OF THE GOVERNMENT.                     
+ 268  283 1 G 18- -49     J 30-2-67      S350      DEC. 18, 1848              
+ 268  283 2 S302004       Y=24 N=25                DOUGLAS, ILL.              
+ 268  283 3 TO REFER TO THE COMMITTEE ON TERRITORIES, S. 350, PROVIDING       
+ 268  283 4 FOR THE ADMISSION OF CALIFORNIA INTO THE UNION.  (P. 46-2)        
+ 269   77 1               EX J 7-10      SRE       DEC. 20, 1848              
+ 269   77 2 E302001       Y=33 N=3                 BUTLER, S.C.               
+ 269   77 3 TO ADVISE AND CONSENT TO THE APPOINTMENT OF CHARLES MCVEY         
+ 269   77 4 AS UNITED STATES ATTORNEY FOR THE SOUTHERN DISTRICT OF            
+ 269   77 5 NEW YORK.  (P. 6-9, 10)                                           
+ 270  284 1 G 18- -100    J 30-2-84      HR166     DEC. 26, 1848              
+ 270  284 2 S302005       Y=26 N=10                RUSK, TEX.                 
+ 270  284 3 TO ENGROSS AND READ FOR THE THIRD TIME H.R. 166, REGARDING        
+ 270  284 4 THE CLAIM OF COLONEL ROBERT WALLACE, AIDE-DE-CAMP TO              
+ 270  284 5 GENERAL WILLIAM HULL, FOR SERVICE RENDERED, AND FOR A HORSE       
+ 270  284 6 SURRENDERED TO THE ENEMY.                                         
+ 271  285 1 G 18- -112    J 30-2-89      S366      DEC. 28, 1848              
+ 271  285 2 S302006       Y=26 N=15                BENTON, MO.                
+ 271  285 3 TO PASS S. 366 (APP. 2/26/1849), AN ACT TO INCORPORATE THE        
+ 271  285 4 WASHINGTON, ALEXANDRIA, AND GEORGETOWN STEAM BOAT CO.             
+ 271  285 5 (P. 112-2)                                                        
+ 272   78 1               EX J 8-13A     SRE       DEC. 29, 1848              
+ 272   78 2 E302002       Y=12 N=19                BENTON, MO.                
+ 272   78 3 TO ADVISE AND CONSENT TO THE APPOINTMENT OF LEWIS CASS, JR.,      
+ 272   78 4 AS CHARGE D'AFFAIRES OF THE UNITED STATES TO THE PAPAL            
+ 272   78 5 STATES.  (P. 13, 5-9)                                             
+ 273  286 1 G 18- -136    J 30-2-95      S139      JAN. 2, 1849               
+ 273  286 2 S302007       Y=22 N=23                WESTCOTT, FLA.             
+ 273  286 3 TO ENGROSS AND READ FOR THE THIRD TIME S. 139, REGARDING THE      
+ 273  286 4 CLAIM OF JOHN P. BALDWIN, OWNER OF THE SPANISH BRIG               
+ 273  286 5 "GIL BLAS", WRECKED ON THE COAST OF FLORIDA, WITH A               
+ 273  286 6 SHIPMENT OF LEAD, WHICH WAS ORDERED BURNT, LEST THE LEAD          
+ 273  286 7 FALL INTO THE HANDS OF THE INDIANS.                               
+ 274   79 1               EX J 8-13B     SRE       JAN. 3, 1849               
+ 274   79 2 E302003       Y=16 N=26                HALE, N.H.                 
+ 274   79 3 TO POSTPONE THE NOMINATION OF LEWIS CASS, JR.  (P. 5, 13)         
+ 275   80 1               EX J 8-14A     SRE       JAN. 3, 1849               
+ 275   80 2 E302004       Y=23 N=24                BERRIEN, GA.               
+ 275   80 3 TO TABLE FURTHER ACTION ON THE NOMINATION OF LEWIS CASS JR.       
+ 275   80 4 (P. 5, 14)                                                        
+ 276   81 1               EX J 8-14B     SRE       JAN. 3, 1849               
+ 276   81 2 E302005A      Y=25 N=22                BUTLER, S.C.               
+ 276   81 3 TO ADJOURN, DURING DEBATE ON THE NOMINATION OF                    
+ 276   81 4 LEWIS CASS JR.  (P. 5, 14)                                        
+ 277  287 1 G 18- -155    J 30-2-101     S148      JAN. 4, 1849               
+ 277  287 2 S302008       Y=22 N=23                WESTCOTT, FLA.             
+ 277  287 3 TO ENGROSS AND READ FOR THE THIRD TIME S. 148, REGARDING          
+ 277  287 4 THE CLAIM OF JOHN DELVIN, EMPLOYED AS A TEMPORARY CLERK,          
+ 277  287 5 TO THE FIFTH AUDITOR OF THE TREASURY, AS NO APPROPRIATION         
+ 277  287 6 WAS PROVIDED FOR EXTRA CLERKS, THE SAID DELVIN WAS NOT PAID       
+ 277  287 7 FOR HIS SERVICES.                                                 
+ 278   82 1               EX J 8-17      SRE       JAN. 5, 1849               
+ 278   82 2 E302005B      Y=49 N=0                 KING, ALA.                 
+ 278   82 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE CONVENTION       
+ 278   82 4 BETWEEN GREAT BRITAIN AND IRELAND AND THE UNITED STATES FOR       
+ 278   82 5 THE IMPROVEMENT OF THE COMMUNICATION BY POST BETWEEN THEIR        
+ 278   82 6 RESPECTIVE TERRITORIES, CONCLUDED AND SIGNED AT LONDON,           
+ 278   82 7 DEC. 15, 1848.                                                    
+ 279   83 1               EX J 8-18      SRE       JAN. 5, 1849               
+ 279   83 2 E302006       Y=24 N=28                BADGER, N.C.               
+ 279   83 3 TO TABLE THE NOMINATION OF LEWIS CASS JR.  (P. 5, 18)             
+ 280  288 1 G 18- -159    J 30-2-102     PROC      JAN. 5, 1849               
+ 280  288 2 S302009       Y=20 N=29                YULEE, FLA.                
+ 280  288 3 TO ADJOURN UNTIL NEXT MONDAY.                                     
+ 281  289 1 G 18- -163    J 30-2-105     SRE       JAN. 5, 1849               
+ 281  289 2 S302010       Y=24 N=19                DICKINSON, N.Y.            
+ 281  289 3 TO TABLE RESOLUTION, REQUESTING THE PRESIDENT OF THE U.S. TO      
+ 281  289 4 INFORM THE SENATE, WHETHER ANY AND WHAT NEGOTIATIONS OR           
+ 281  289 5 CORRESPONDENCE HAVE TAKEN PLACE BETWEEN THIS GOVERNMENT AND       
+ 281  289 6 THE GOVERNMENT OF SPAIN, IN RELATION TO THE PURCHASE OF           
+ 281  289 7 CUBA BY THE U.S.  (P. 162-3)                                      
+ 282  290 1 G 18- -182    J 30-2-109     PET       JAN. 8, 1849               
+ 282  290 2 S302011       Y=25 N=16                KING, ALA.                 
+ 282  290 3 TO TABLE THE MOTION TO RECEIVE THE PETITIONS OF FEMALE            
+ 282  290 4 INHABITANTS OF THE U.S., PRAYING FOR THE ADOPTION OF              
+ 282  290 5 MEASURES FOR PREVENTING THE FURTHER EXTENSION OF SLAVERY,         
+ 282  290 6 AND FOR SUPPRESSING THE SLAVE TRADE IN THE UNITED STATES.         
+ 282  290 7 (P. 181-2)                                                        
+ 283  291 1 G 18- -190    J 30-2-113     PET       JAN. 9, 1849               
+ 283  291 2 S302012       Y=10 N=35                HALE, N.H.                 
+ 283  291 3 TO TABLE THE MOTION TO RECEIVE THE PETITION OF                    
+ 283  291 4 DANIEL P. BEDINGER, OF KENTUCKY, PRAYING THAT AN ANNUAL           
+ 283  291 5 APPROPRIATION BE MADE FROM THE TREASURY OF THE UNITED STATES      
+ 283  291 6 TO DEFRAY THE EXPENSES OF TRANSPORTING TO THE COUNTRY OF          
+ 283  291 7 THEIR CHOICE, THE FREE COLORED PEOPLE WHO MAY HEREAFTER           
+ 283  291 8 WISH TO EMIGRATE FROM THE UNITED STATES.  (P. 190-1)              
+ 284  292 1 G 18- -210    J 30-2-117     PET       JAN. 10, 1849              
+ 284  292 2 S302013       Y=27 N=23                DICKINSON, N.Y.            
+ 284  292 3 TO POSTPONE INDEFINITELY FURTHER CONSIDERATION OF THE             
+ 284  292 4 PETITION OF DANIEL P. BEDINGER, THAT AN ANNUAL APPROPRIATION      
+ 284  292 5 BE MADE FROM THE TREASURY TO DEFRAY THE EXPENSES OF               
+ 284  292 6 TRANSPORTING TO THE COUNTRY OF THEIR CHOICE, THOSE FREE           
+ 284  292 7 COLORED PEOPLE WHO MAY HEREAFTER WISH TO EMIGRATE.                
+ 284  292 8 (P. 210-2)                                                        
+ 285  293 1 G 18- -220    J 30-2-120     HR7       JAN. 5, 1849               
+ 285  293 2 S302014       Y=14 N=19                MASON, VA.                 
+ 285  293 3 TO ENGROSS AND READ FOR THE THIRD TIME H.R. 7, DIRECTING THE      
+ 285  293 4 MODE OF SETTLING CLAIMS OF CHAS. RIDGELY.                         
+ 286  294 1 G 18- -236    J 30-2-123     HR665     JAN. 12, 1849              
+ 286  294 2 S302015       Y=36 N=10                ATHERTON, N.H.             
+ 286  294 3 TO AMEND H.R. 665, A BILL TO SUPPLY DEFICIENCIES IN THE           
+ 286  294 4 APPROPRIATIONS FOR SERVICES FOR THE FISCAL YEAR 1849,             
+ 286  294 5 WHICH AMENDMENT APPROPRIATES $6,400 FOR THE PURCHASE OF           
+ 286  294 6 INSTRUMENTS NECESSARY FOR THE ASTRONOMICAL OBSERVATIONS           
+ 286  294 7 DIRECTED TO BE MADE IN THE SOUTHERN HEMISPHERE, BY THE ACT        
+ 286  294 8 OF AUG. 3, 1848, AND FOR FREIGHT AND EXPENSES ON THE SAME.        
+ 286  294 9 (P. 232-2)                                                        
+ 287   84 1               EX J 8-20      SRE       JAN. 18, 1849              
+ 287   84 2 E302007       Y=45 N=2                 ATCHISON, MO.              
+ 287   84 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE ARTICLES OF      
+ 287   84 4 AGREEMENT AND CONVENTION MADE AUG. 6, 1848, BETWEEN THE           
+ 287   84 5 UNITED STATES GOVERNMENT AND THE FOUR CONFEDERATED BANDS          
+ 287   84 6 OF PAWNEE INDIANS.                                                
+ 288  295 1 G 18- -292    J 30-2-136     HR270     JAN. 18, 1849              
+ 288  295 2 S302016       Y=28 N=13                BENTON, MO.                
+ 288  295 3 TO PASS H.R. 270, (APP. 2/1/1849), REGARDING THE CLAIM OF         
+ 288  295 4 JOHN PERCIVAL, CAPTAIN IN THE NAVY OF THE U.S., FOR THE           
+ 288  295 5 AMOUNT OF MONEY PAID TO A NATURALIST ON BOARD THE                 
+ 288  295 6 UNITED STATES FRIGATE, CONSTITUTION, AND CHARGED TO THE           
+ 288  295 7 ACCOUNT OF CAPTAIN PERCIVAL.  (P. 292-3)                          
+ 289   85 1               EX J 8-26                JAN. 19, 1849              
+ 289   85 2 E302008       Y=36 N=5                 ATCHISON, MO.              
+ 289   85 3 TO ADVISE AND CONSENT TO RATIFICATION OF THE TREATY,              
+ 289   85 4 CONCLUDED AT LAKE PAW-AW-HAY-KON-NAY ON 10/18/1848, BETWEEN       
+ 289   85 5 THE U.S. AND THE MENOMONEE INDIANS.                               
+ 290  296 1 G 18- -319    J 30-2-140     SRE       JAN. 22, 1849              
+ 290  296 2 S302017       Y=45 N=6                 DIX, N.Y.                  
+ 290  296 3 TO PRINT THE RESOLUTIONS OF THE LEGISLATURE OF NEW YORK,          
+ 290  296 4 PETITIONING CONGRESS TO PROCURE THE ENACTMENT OF LAWS FOR         
+ 290  296 5 THE ESTABLISHMENT OF GOVERNMENTS FOR THE TERRITORY ACQUIRED       
+ 290  296 6 BY THE LATE TREATY OF PEACE WITH MEXICO, EXCLUDING                
+ 290  296 7 INVOLUNTARY SERVITUDE, EXCEPT FOR CRIME, FROM SUCH TERRITORY      
+ 290  296 8 AND TO PROCURE THE PASSING OF A LAW TO PROTECT SLAVES FROM        
+ 290  296 9 UNJUST IMPRISONMENT, AND TO PUT AN END TO THE SLAVE TRADE         
+ 290  29610 IN THE DISTRICT OF COLUMBIA.  (P. 319-3)                          
+ 291  297 1 G 18- -363    J 30-2-153A    HR270     JAN. 25, 1849              
+ 291  297 2 S302018       Y=12 N=30                JONES, IOWA                
+ 291  297 3 TO RECONSIDER PASSAGE OF H.R. 270, (APP. 2/1/1849),               
+ 291  297 4 REGARDING THE CLAIM OF JOHN PERCIVAL, CAPTAIN IN THE NAVY OF      
+ 291  297 5 THE UNITED STATES, FOR THE AMOUNT OF MONEY PAID TO A              
+ 291  297 6 NATURALIST ON BOARD THE UNITED STATES FRIGATE, CONSTITUTION,      
+ 291  297 7 AND CHARGED TO HIS ACCOUNT.  (P. 363-3)                           
+ 292  298 1 G 18- -364    J 30-2-153B    HR32      JAN. 25, 1849              
+ 292  298 2 S302019       Y=10 N=31                ATCHISON, MO.              
+ 292  298 3 TO POSTPONE UNTIL TOMORROW FURTHER CONSIDERATION OF H.R. 32,      
+ 292  298 4 REGARDING THE CLAIM OF DAVID MYERLE.  (P. 364-2)                  
+ 293  299 1 G 18- -388    J 30-2-163     HR691     JAN. 30, 1849              
+ 293  299 2 S302020       Y=25 N=13                BELL, TENN.                
+ 293  299 3 TO AMEND H.R. 691, (APP. 3/2/1849), APPROPRIATING FOR THE         
+ 293  299 4 CURRENT AND CONTINGENT EXPENSES OF THE INDIAN DEPARTMENT,         
+ 293  299 5 AND FULFILLING TREATY STIPULATIONS WITH THE VARIOUS INDIAN        
+ 293  299 6 TRIBES FOR THE FISCAL YEAR 1850; WHICH AMENDMENT                  
+ 293  299 7 APPROPRIATES $586,398.46 TO ACTIVATE PROVISIONS OF THE            
+ 293  299 8 FOURTH AND FIFTH ARTICLES OF THE TREATY OF AUG. 6, 1846,          
+ 293  299 9 WITH THE CHEROKEE INDIANS, AND $645,026.29 TO ACTIVATE THE        
+ 293  29910 NINTH ARTICLE OF SAID TREATY.  (P. 383-2)                         
+ 294   86 1               EX J 8-32      HRE       JAN. 31, 1849              
+ 294   86 2 E302009       Y=17 N=25                BALDWIN, CONN.             
+ 294   86 3 TO TABLE THE NOMINATION OF CORNELIUS S. BOGARDUS AS NAVAL         
+ 294   86 4 OFFICER FOR THE DISTRICT OF NEW YORK IN THE STATES OF N.Y.        
+ 294   86 5 (P. 5, 32)                                                        
+ 295  300 1 G 18- -426    J 30-2-174     HR32      FEB. 1, 1849               
+ 295  300 2 S302021       Y=19 N=27                HANNEGAN, IND.             
+ 295  300 3 TO TABLE H.R. 32, REGARDING THE CLAIM OF DAVID MYERLE.            
+ 295  300 4 (P. 426-1)                                                        
+ 296  301 1 G 18-1-433    J 30-2-177     SRE55     FEB. 2, 1849               
+ 296  301 2 S302022       Y=31 N=20                CAMERON, PA.               
+ 296  301 3 TO DIRECT THE SECRETARY TO REQUEST THE HOUSE OF                   
+ 296  301 4 REPRESENTATIVES TO RETURN S. RES. 55, EXTENDING THE TIME          
+ 296  301 5 FOR RECEIVING PROPOSALS FOR THE PRINTING OF CONGRESS              
+ 296  301 6 UNTIL MAR. 1, NEXT.                                               
+ 297  302 1 G 18- -482C   J 30-2-196C    HR85      FEB. 8, 1849               
+ 297  302 2 S302023A      Y=26 N=19                NILES, CONN.               
+ 297  302 3 TO READ FOR THE THIRD TIME H.R. 85, REGARDING THE CLAIM OF        
+ 297  302 4 WILLIAM DEBUYS, LATE POSTMASTER AT NEW ORLEANS.  (P. 482-3)       
+ 298  303 1 G 18- -483A   J 30-2-197     HR32      FEB. 8, 1849               
+ 298  303 2 S302023B      Y=27 N=23                UNDERWOOD, KY.             
+ 298  303 3 TO CONCUR IN THE AMENDMENT TO H.R. 32, REGARDING THE CLAIM        
+ 298  303 4 OF DAVID MYERLE, WHICH AMENDMENT REDUCES FROM $20,000 TO          
+ 298  303 5 $10,000 THE CLAIM FOR SERVICES IN WATER-ROTTING HEMP,             
+ 298  303 6 AND PROVIDE THAT SAID CLAIM BE PAID TO HIM INPART, THE            
+ 298  303 7 REMAINDER TO BE GIVEN TO CREDITORS.                               
+ 299  304 1 G 18- -482A   J 30-2-196A    HR85      FEB. 8, 1849               
+ 299  304 2 S302024       Y=30 N=16                DOWNS, LA.                 
+ 299  304 3 TO RECONSIDER THE VOTE, REJECTING THIRD READING OF H.R. 85        
+ 299  304 4 (APP. 2/19/1849)  (P. 424-2)                                      
+ 300  305 1 G 18- -482B   J 30-2-196B    HR85      FEB. 8, 1849               
+ 300  305 2 S302025       Y=16 N=28                HALE, N.H.                 
+ 300  305 3 TO TABLE H.R. 85.  (P. 482-3)                                     
+ 301  306 1 G 18- -483B   J 30-2-197     HR32      FEB. 8, 1849               
+ 301  306 2 S302027       Y=24 N=24                MASON, VA.                 
+ 301  306 3 TO ENGROSS THE AMENDMENT TO H.R. 32 AND READ FOE A THIRD          
+ 301  306 4 TIME SAID BILL, REGARDING THE CLAIM OF DAVID MYERLE.              
+ 301  306 5 (P. 483-1)                                                        
+ 302   87 1               EX J 8-42      SRE       FEB. 9, 1849               
+ 302   87 2 E302010       Y=33 N=9                 DAYTON, N.J.               
+ 302   87 3 TO TABLE THE HANNEGAN RESOLUTION, WHICH REQUESTS THE              
+ 302   87 4 PRESIDENT TO PURCHASE THE RIGHTS OF THE HUDSON BAY CO. AND        
+ 302   87 5 THE PUGET SOUND AGRICULTRAL CO. TO THE NAVIGATION OF THE          
+ 302   87 6 COLUMBIA RIVER AND ALL OTHER PROPERTY AND PROPRIETARY             
+ 302   87 7 RIGHTS HELD BY THEM IN THE TERRITORY OF OREGON.                   
+ 302   87 8 (P. 29-30, 42)                                                    
+ 303  307 1 G 18- -491    J 30-2-202     PROC      FEB. 9, 1849               
+ 303  307 2 S302028       Y=17 N=37                HALE, N.H.                 
+ 303  307 3 THAT WHEN THE SENATE ADJOURN TODAY, IT BE UNTIL NEXT MONDAY.      
+ 304  308 1 G 18- -513    J 30-2-208     HR692     FEB. 12, 1849              
+ 304  308 2 S302029       Y=17 N=32                HALE, N.H.                 
+ 304  308 3 TO AMEND H.R. 692, (APP. 3/2/1849), MAKING APPROPRIATIONS         
+ 304  308 4 FOR CIVIL AND DIPLOMATIC EXPENSES OF THE GOVERNMENT FOR THE       
+ 304  308 5 FISCAL YEAR 1850,WHICH AMENDMENT REPEALS ALL LAWS AND PARTS       
+ 304  308 6 OF LAWS AUTHORIZING FLOGGING IN THE NAVAL SERVICE OF THE          
+ 304  308 7 UNITED STATES.                                                    
+ 305  309 1 G 18- -527    J 30-2-211     HR692     FEB. 13, 1849              
+ 305  309 2 S302030       Y=35 N=17                JOHNSON, GA.               
+ 305  309 3 TO AMEND H.R. 692 (APP. 3/2/1849), MAKING APPROPRIATIONS FOR      
+ 305  309 4 CIVIL AND DIPLOMATIC EXPENSES OF THE GOVERNMENT FOR THE           
+ 305  309 5 FISCAL YEAR 1850, BY REIMBURSING THE CITY CORPORATION OF          
+ 305  309 6 WASHINGTON $30,000 FOR ERECTING HALF OF THE CITY HALL             
+ 305  309 7 BUILDING, GRANTED TO CIRCUIT, DISTRICT, AND CRIMINAL COURTS       
+ 305  309 8 OF THE UNITED STATES, PROVIDED ENOUGH ROOMS BE SET ASIDE FOR      
+ 305  309 9 USE OF THE U.S. IN THE DISTRICT OF COLUMBIA.  (P. 523-2)          
+ 306  310 1 G 18- -541    J 30-2-218     S457      FEB. 15, 1849              
+ 306  310 2 S302031       Y=24 N=20                HOUSTON, TEX.              
+ 306  310 3 TO TABLE S. 457, GRANTING A PENSION TO MRS. MARY B. DIX,          
+ 306  310 4 WIDOW OF THE LATE COLONEL DIX OF THE U.S. ARMY.  (P. 541-1)       
+ 307  311 1 G 18- -544A   J 30-2-222     SRE       FEB. 16, 1849              
+ 307  311 2 S302032       Y=27 N=24                DOWNS, LA.                 
+ 307  311 3 TO POSTPONE PREVIOUS ORDERS IN ORDER TO CONSIDER A MOTION         
+ 307  311 4 TO CHANGE THE DAILY HOUR OF MEETING OF THE SENATE.                
+ 307  311 5 (P. 544-3)                                                        
+ 308  312 1 G 18- -544B   J 30-2-223A    SRE       FEB. 16, 1849              
+ 308  312 2 S302033       Y=26 N=27                DICKINSON, N.Y.            
+ 308  312 3 TO TABLE MOTION TO CHANGE THE DAILY MEETING HOUR OF THE           
+ 308  312 4 SENATE TO 11 O'CLOCK.  (P. 544-3)                                 
+ 309  313 1 G 18- -547    J 30-2-223B    HR692     FEB. 16, 1849              
+ 309  313 2 S302034       Y=29 N=18                JOHNSON, GA.               
+ 309  313 3 TO AMEND H.R. 692 (APP. 3/2/1849), APPROPRIATING FOR CIVIL        
+ 309  313 4 AND DIPLOMATIC EXPENSES OF THE GOVERNMENT FOR THE 1850            
+ 309  313 5 FISCAL YEAR, BY APPROPRIATING $20,000 FOR IMPROVING THE           
+ 309  313 6 WASHINGTON CITY CANAL, THE SUM TO BE MATCHED BY THE CITY OF       
+ 309  313 7 WASHINGTON FOR THE SAME PURPOSE.  (P. 546-3)                      
+ 310  314 1 G 18- -553A   J 30-2-230     S350      FEB. 19, 1849              
+ 310  314 2 S302035       Y=16 N=35                DOUGLAS, ILL.              
+ 310  314 3 TO POSTPONE PREVIOUS ORDERS FOR THE PURPOSE OF CONSIDERING        
+ 310  314 4 S. 350 FOR THE ADMISSION OF CALIFORNIA INTO THE UNION AS A        
+ 310  314 5 STATE.  (P. 553-2)                                                
+ 311  315 1 G 18- -553B   J 30-2-231     PROC      FEB. 19, 1849              
+ 311  315 2 S302036       Y=28 N=17                BADGER, N.C.               
+ 311  315 3 TO ADJOURN, DURING DEBATE ON H.R. 692, (APP. 3/2/1849),           
+ 311  315 4 APPROPRIATING FOR THE CIVIL AND DIPLOMATIC EXPENSES OF THE        
+ 311  315 5 GOVERNMENT FOR THE FISCAL YEAR 1850.                              
+ 312  316 1 G 18- -573    J 30-2-243     HR692     FEB. 21, 1849              
+ 312  316 2 S302037       Y=4 N=39                 BELL, TENN.                
+ 312  316 3 TO AMEND H.R. 692 WHICH AMENDMENT 1) DEFINES THE BOUNDARY         
+ 312  316 4 OF THE STATE OF CALIFORNIA AND ADMITS IT INTO THE UNION           
+ 312  316 5 NEXT OCTOBER, 2) PROVIDES THAT THE ACTING GOVERNOR OF SAID        
+ 312  316 6 STATE LAY OUT DISTRICTS WITHIN HIS STATE FOR ELECTION OF          
+ 312  316 7 DELEGATES FOR A CONVENTION AT WHICH EVERY WHITE MALE              
+ 312  316 8 INHABITANT IS ELIGIBLE TO VOTE 3) PROVIDES THAT THE U.S.          
+ 312  316 9 SHALL RESERVE ALL PROPERTY RIGHTS NOT APPROPRIATED, SAID          
+ 312  31610 LANDS TO BE TAX FREE 4) PROVIDES THERE SHALL BE ESTABLISHED       
+ 312  31611 THE JUDICIAL DISTRICTS TO BE KNOWN AS EASTERN AND WESTERN         
+ 312  31612 5) PROVIDES THAT CALIFORNIA SHALL, UNTIL THE NEXT CENSUS,         
+ 312  31613 BE ENTITLED TO TWO REPRESENTATIVES IN CONGRESS.  (P. 573-2)       
+ 313  317 1 G 18- -581    J 30-2-248     S272      FEB. 22, 1849              
+ 313  317 2 S302038       Y=25 N=19                DOUGLAS, ILL.              
+ 313  317 3 TO PASS S. 272, REGARDING THE CLAIM OF MANUEL X. HARMONY FOR      
+ 313  317 4 THE USE OF HIS MULES AND WAGONS FOR THE U.S. ARMY.                
+ 313  317 5 (P. 581-1)                                                        
+ 314  318 1 G 18- -585    J 30-2-254     PROC      FEB. 23, 1849              
+ 314  318 2 S302039       Y=18 N=28                ATHERTON, N.H.             
+ 314  318 3 TO RECESS FROM FOUR O'CLOCK UNTIL SIX.                            
+ 315  319 1 G 18- -594    J 30-2-262     HR692     FEB. 26, 1849              
+ 315  319 2 S302040       Y=8 N=47                 DAYTON, N.J.               
+ 315  319 3 TO AMEND H.R. 692 SO THAT THE PRESIDENT MAKE PROVISIONS FOR       
+ 315  319 4 THE GOVERNMENT OF THE TERRITORIES RECENTLY ACQUIRED FROM          
+ 315  319 5 MEXICO, SUCH PROVISIONS VOID AFTER THE FIRST SESSION OF THE       
+ 315  319 6 NEXT CONGRESS, AND APPROPRIATE $200,000 FOR PAYMENT OF LAW        
+ 315  319 7 ENFORCING OFFICERS.  (P. 585-3)                                   
+ 316  320 1 G 18- -595    J 30-2-263     HR692     FEB. 26, 1849              
+ 316  320 2 S302041       Y=29 N=27                WALKER, WIS.               
+ 316  320 3 TO AMEND H.R. 692, BY EXTENDING TO THE TERRITORY WEST OF          
+ 316  320 4 RIO DEL NORTE, THE MARITIME LAWS OF THE U.S., AND THE LAWS        
+ 316  320 5 ON INTERCOURSE WITH INDIAN TRIBES, AND AUTHORIZING THE            
+ 316  320 6 PRESIDENT TO ISSUE RULES AND REGULATIONS FOR THE GOVERNMENT       
+ 316  320 7 OF SUCH TERRITORY, AND APPROPRIATING THE SUM OF $200,000 FOR      
+ 316  320 8 PAYMENT OF LAW ENFORCING OFFICERS.  (P. 585-3)                    
+ 317  321 1 G 18- -596    J 30-2-264     HR692     FEB. 26, 1849              
+ 317  321 2 S302042       Y=30 N=24                MANGUM, N.C.               
+ 317  321 3 TO AMEND H.R. 692 BY APPROPRIATING $9,000 TO OUTFIT A             
+ 317  321 4 MINISTRY AND $9,000 FOR THE SALARY OF THE MINISTER TO THE         
+ 317  321 5 GOVERNMENT OF CHILI.                                              
+ 318  322 1 G 18- -603    J 30-2-269     HR692     FEB. 27, 1849              
+ 318  322 2 S302043       Y=8 N=39                 WESTCOTT, FLA.             
+ 318  322 3 TO AMEND H.R. 692 BY REIMBURSING GEORGIA FOR PAYMENT OF           
+ 318  322 4 LOSSES CAUSED TO MR. JARNIGAN BY INDIAN HOSTILITIES.              
+ 319  323 1 G 18- -604A   J 30-2-270B    HR692     FEB. 27, 1849              
+ 319  323 2 S302044       Y=23 N=25                DAYTON, N.J.               
+ 319  323 3 TO AMEND H.R. 692, BY APPROPRIATING $5,000 AS ONE YEAR'S          
+ 319  323 4 INSTALLMENT ON THE PURCHASE OF GEORGE CATLIN'S GALLERY OF         
+ 319  323 5 PAINTING AND INDIAN CURIOUSITIES, PROVIDED THE LIBRARY            
+ 319  323 6 COMMITTEE CAN PURCHASE SAME FOR $50,000, PAYABLE IN TEN           
+ 319  323 7 EQUAL INSTALLMENTS.  (P. 604-2)                                   
+ 320  324 1 G 18- -604B   J 30-2-270A    HR692     FEB. 27, 1849              
+ 320  324 2 S302045       Y=9 N=38                 KING, ALA.                 
+ 320  324 3 TO AMEND H.R. 692, BY APPROPRIATING $3,000, FOR AN OUTFIT TO      
+ 320  324 4 THE COMMISSIONER TO THE SANDWICH ISLANDS.  (P. 603-3)             
+ 321  325 1 G 18- -613A   J 30-2-276A    HR692     FEB. 28, 1849              
+ 321  325 2 S302046       Y=28 N=25                PEARCE, MD.                
+ 321  325 3 TO CONCUR IN CLAUSE TO AMENDMENT TO H.R. 692, WHICH CLAUSE        
+ 321  325 4 APPROPRIATES $20,000 FOR PURCHASING THE REMAINING                 
+ 321  325 5 MANUSCRIPTS, BOOKS, AND PAPERS OF GENERAL GEORGE WASHINGTON       
+ 321  325 6 TO BE DEPOSITED AND PRESERVED IN THE DEPARTMENT OF STATE.         
+ 322  326 1 G 18- -613B   J 30-2-276B    HR692     FEB. 28, 1849              
+ 322  326 2 S302047       Y=28 N=20                PEARCE, MD.                
+ 322  326 3 TO CONCUR IN CLAUSE TO AMENDMENT TO H.R. 692, WHICH CLAUSE        
+ 322  326 4 APPROPRIATES $20,000 FOR PURCHASING THE REMAINING                 
+ 322  326 5 MANUSCRIPTS, BOOKS, AND PAPERS OF THE LATE JAMES MONROE, FOR      
+ 322  326 6 DEPOSIT AND PRESERVATION IN THE DEPARTMENT OF STATE.              
+ 323  327 1 G 18- -613C   J 30-2-277A    HR692     FEB. 28, 1849              
+ 323  327 2 S302048       Y=25 N=18                WALKER, WIS.               
+ 323  327 3 TO AMEND H.R. 692, BY EXTENDING TO THE TERRITORY WEST OF          
+ 323  327 4 RIO DEL NORTE, ACQUIRED FROM MEXICO, THE MARITIME LAWS OF         
+ 323  327 5 THE UNITED STATES, AND THE LAWS ON INTERCOURSE WITH INDIAN        
+ 323  327 6 TRIBES, AND AUTHORIZING THE PRESIDENT TO ISSUE RULES AND          
+ 323  327 7 REGULATIONS FOR THE GOVERNMENT OF SUCH TERRITORY, AND             
+ 323  327 8 APPROPRIATING THE SUM OF $200,000 FOR PAYMENT OF LAW              
+ 323  327 9 ENFORCING OFFICERS.  (P. 585-3)                                   
+ 324  328 1 G 18- -613D   J 30-2-277B    HR692     FEB. 28, 1849              
+ 324  328 2 S302049       Y=15 N=21                DAYTON, N.J.               
+ 324  328 3 TO AMEND H.R. 692, BY APPROPRIATING $5,000, AS ONE YEARS          
+ 324  328 4 INSTALLMENT, ON THE PURCHASE OF GEORGE CATLIN'S GALLERY OF        
+ 324  328 5 PAINTINGS AND INDIAN CURIOSITIES, PROVIDED THE LIBRARY            
+ 324  328 6 COMMITTEE CAN PURCHASE SAME FOR $50,000 PAYABLE IN TEN            
+ 324  328 7 ANNUAL INSTALLMENTS.  (P. 613-2)                                  
+ 325   88 1               EX J 8-51      SRE       MAR. 1, 1849               
+ 325   88 2 E302011       Y=37 N=2                 BELL, TENN.                
+ 325   88 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY           
+ 325   88 4 WITH AMENDMENT CONCLUDED NOV. 24, 1848, BETWEEN THE U.S. AND      
+ 325   88 5 THE STOCKBRIDGE TRIBE OF INDIANS, GRANTING $25,000 TO THE         
+ 325   88 6 STOCKBRIDGE AND MUNSEE INDIANS FOR A RELEASE OF ALL               
+ 325   88 7 OUTSTANDING CLAIMS FOR DAMAGES AND PROVIDING THAT WITHIN TWO      
+ 325   88 8 YEARS FROM THE RATIFICATION THE PRESIDENT SHALL PROCURE FOR       
+ 325   88 9 THE USE OF THE STOCKBRIDGE INDIANS LOCATIONS OF LAND FOR          
+ 325   8810 THEIR OCCUPANCY.  (P. 40, 51)                                     
+ 326   89 1               EX J 8-52      SRE       MAR. 1, 1849               
+ 326   89 2 E302012       Y=32 N=3                 BELL, TENN.                
+ 326   89 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY WITH      
+ 326   89 4 PROPOSED AMENDMENT GRANTING $25,000 TO THE STOCKBRIDGE AND        
+ 326   89 5 MUNSEE INDIANS FOR DAMAGES CLAIMED, PROVIDING ALSO THAT           
+ 326   89 6 WITHIN TWO YEARS THE UNITED STATES SHALL PROCURE LANDS FOR        
+ 326   89 7 THE STOCKBRIDGE INDIANS.  (P. 40, 51, 52)                         
+ 327  329 1 G 18- -633    J 30-2-286     HR695     MAR. 1, 1849               
+ 327  329 2 S302050       Y=17 N=27                                           
+ 327  329 3 TO AMEND H.R. 695, APPROPRIATING FOR THE SUPPORT OF THE           
+ 327  329 4 ARMY FOR THE 1850 FISCAL YEAR, BY EXTENDING TO THE                
+ 327  329 5 INHABITANTS OF THE TERRITORIES OF CALIFORNIA AND NEW MEXICO,      
+ 327  329 6 THE BENFITS OF THE WRITS OF HABEAS CORPUS, TRIAL BY JURY IN       
+ 327  329 7 ALL CRIMINALS CASES, AND PROVIDING THAT NO PERSON NOT             
+ 327  329 8 BELONGING TO THE U.S. ARMY OR NAVY SHALL BE LIABLE TO TRIAL       
+ 327  329 9 BY MARTIAL LAW, PROVIDED THAT THIS AMENDMENT DOESN'T              
+ 327  32910 INTERFERE WITH PROPERTY OR INDIVIDUAL RIGHTS OF ANY STATE.        
+ 327  32911 (P. 629-2, 632-3)                                                 
+ 328  330 1 G 18- -637    J 30-2-288     S152      MAR. 1, 1849               
+ 328  330 2 S302052       Y=30 N=18                DOUGLAS, ILL.              
+ 328  330 3 TO DISAGREE TO THE 9TH AMENDMENT OF THE HOUSE OF                  
+ 328  330 4 REPRESENTATIVES TO S. 152 (APP. 3/3/1849, 9 STAT 403),            
+ 328  330 5 ESTABLISHING THE TERRITORIAL GOVERNMENT OF MINNESOTA; WHICH       
+ 328  330 6 AMENDMENT PROVIDES THAT THIS ACT SHALL TAKE EFFECT FROM AND       
+ 328  330 7 AFTER MAR. 10, 1849.  (P. 635-1)                                  
+ 329   90 1               EX J 8-55      HRE       MAR. 2, 1849               
+ 329   90 2 E302013       Y=24 N=18                DOWNS, LA.                 
+ 329   90 3 TO RESCIND AND REPEAL THE SENATE RESOLUTION RESPECTING            
+ 329   90 4 JAMES W. SCHAUMBURG, WHOSE MEMORIAL COMPLAINS OF HAVING           
+ 329   90 5 BEEN DEPRIVED OF RANK AND PROMOTION IN THE ARMY, AND              
+ 329   90 6 DECLARING THAT ANY ORDER OF THE PRESIDENT MADE BY REASON          
+ 329   90 7 OF SAID RESOLUTION SHOULD BE REVOKED.  (P. 41, 108, 55)           
+ 330   91 1               EX J 8-56      HRE       MAR. 2, 1849               
+ 330   91 2 E302014       Y=34 N=12                DAVIS, MISS.               
+ 330   91 3 TO ADOPT RESOLUTION RELATIVE TO A COMPLAINT MADE BY               
+ 330   91 4 MAJOR G.B. CRITTENDEN THAT HIS BEING CASHIERED OUT OF THE         
+ 330   91 5 U.S. ARMY WAS ILLEGAL, WHICH RESOLUTION POSTPONES                 
+ 330   91 6 INDEFINITELY PROMOTIONS BASED ON THE DISMISSAL OF SAID            
+ 330   91 7 CRITTENDEN BECAUSE COURT MARTIAL PROCEEDINGS AGAINST SAME         
+ 330   91 8 WERE SO IRREGULAR AS TO RENDER THE SENTENCE OF THE COURT          
+ 330   91 9 ILLEGAL AND THEREFORE NO VACANCY HAS BEEN PRODUCED.               
+ 330   9110 (P. 40, 44, 56)                                                   
+ 331  331 1 G 18- -651    J 30-2-298     HR699     MAR. 2, 1849               
+ 331  331 2 S302053       Y=14 N=36                DAVIS, MISS.               
+ 331  331 3 TO AMEND H.R. 699 (APP. 3/3/1849), APPROPRIATING FOR THE          
+ 331  331 4 NAVAL SERVICE FOR THE FISCAL YEAR 1850, BY AUTHORIZING THE        
+ 331  331 5 SECRETARY OF THE NAVY TO ESTABLISH A SEMI-MONTHLY SHIP LINE       
+ 331  331 6 FROM NEW ORLEANS TO VERA CRUZ, OR SOME OTHER PORT ON THE          
+ 331  331 7 GULF OF MEXICO, CONNECTING WITH SOME PACIFIC PORT, THENCE TO      
+ 331  331 8 CALIFORNIA, AND THAT THE SAID SHIPS SHALL CONVEY THE U.S.         
+ 331  331 9 MAILS AND THAT AMERICAN CITIZENS RECEIVED AS PASSENGERS ON        
+ 331  33110 THE SAME, SHALL NOT BE CHARGED A HIGHER RATE OF FARE THAN         
+ 331  33111 SHALL BE NECESSARY TO REIMBURSE THE GOVERNMENT.  (P. 645-1)       
+ 332  332 1 G 18- -652    J 30-2-299     HR699     MAR. 2, 1849               
+ 332  332 2 S302054       Y=15 N=30                MILLER, N.J.               
+ 332  332 3 TO AMEND H.R. 699 (APP. 3/3/1849), APPROPRIATING FOR THE          
+ 332  332 4 NAVAL SERVICE FOR THE FISCAL YEAR 1850, BY APPROPRIATING          
+ 332  332 5 $1,336.37, TO REIMBURSE COMMODORE CHARLES WILKES, FOR LAW         
+ 332  332 6 EXPENSES INCURRED IN THE SEVERAL COURTS IN DEFENDING SUITS        
+ 332  332 7 BROUGHT AGAINST HIM FOR ACTS COMMITTED IN DISCHARGE OF HIS        
+ 332  332 8 OFFICAL DUTIES.  (P. 651-1)                                       
+ 333  333 1 G 18- -654    J 30-2-300     HR699     MAR. 2, 1849               
+ 333  333 2 S302055       Y=11 N=30                CAMERON, PA.               
+ 333  333 3 TO AMEND H.R. 699 (APP. 3/3/1849), MAKING APPROPRIATIONS FOR      
+ 333  333 4 THE NAVAL SERVICES FOR THE 1850 FISCAL YEAR, TO AUTHORIZE         
+ 333  333 5 CONSTRUCTION OF A PLANK ROAD ACROSS THE ISTHUMUS OF PANAMA,       
+ 333  333 6 TO BE COMMENCED WITHIN THREE MONTHS OF CONTRACT AND               
+ 333  333 7 COMPLETED ONE YEAR HEREAFTER AT A COST NOT TO EXCEED              
+ 333  333 8 $75,000 AND TO BE USED FOR SPICIFIED GOVERNMENT PURPOSES;         
+ 333  333 9 PROVIDED THE USE OF THE ISTHUMUS OF TEHUANTEPEC IS NOT MORE       
+ 333  33310 ADVANTAGEOUS.  (P. 653-1,2)                                       
+ 334  334 1 G 18- -655    J 30-2-303     HR754     MAR. 2, 1849               
+ 334  334 2 S302056       Y=20 N=27                NILES, CONN.               
+ 334  334 3 TO AMEND H.R. 754 (APP. 3/3/1849), APPROPRIATING FOR THE          
+ 334  334 4 POST OFFICE DEPARTMENT FOR THE FISCAL YEAR 1850, BY ADDING        
+ 334  334 5 EIGHT ADDITIONAL SECTIONS, PROVIDING FOR THE REDUCTION OF,        
+ 334  334 6 AND UNIFORM RATES OF POSTAGE, ALSO MAKING A CONTINGENT            
+ 334  334 7 APPROPRIATION SHOULD THE ORDINARY REVENUES OF THE DEPT. BE        
+ 334  334 8 INSUFFICIENT TO SUSTAIN THE SERVICE NOW AUTHORIZED, AND           
+ 334  334 9 RETAINING THE FRANKING PRIVILEGE.                                 
+ 335  335 1               J 30-2-314     HR685     MAR. 3, 1849               
+ 335  335 2 S302057       Y=25 N=28                DOUGLAS, ILL.              
+ 335  335 3 TO PROCEED TO CONSIDERATION OF H.R. 685, ESTABLISHING THE         
+ 335  335 4 TERRITORIAL GOVERNMENT OF UPPER CALIFORNIA.  (JP. 314)            
+ 336  336 1 G 18- -672    J 30-2-317     HR764     MAR. 3, 1849               
+ 336  336 2 S302058       Y=22 N=31                MASON, VA.                 
+ 336  336 3 TO TABLE H.R. 764, (APP. 3/3/1849), ESTABLISHING THE HOME         
+ 336  336 4 DEPARTMENT, AND TO PROVIDE FOR THE TREASURY DEPARTMENT AN         
+ 336  336 5 ASSISTANT SECRETARY OF THE TREASURY AND A COMMISSIONER OF         
+ 336  336 6 THE CUSTOMS.  (P. 672-3)                                          
+ 337  337 1 G 18- -675A   J 30-2-318     HR764     MAR. 3, 1849               
+ 337  337 2 S302059       Y=19 N=29                HUNTER, VA.                
+ 337  337 3 TO TABLE H.R. 764.  (P. 675-3)                                    
+ 338  338 1 G 18- -675B   J 30-2-318     HR764     MAR. 3, 1849               
+ 338  338 2 S302060       Y=20 N=33                HUNTER, VA.                
+ 338  338 3 TO AMEND H.R. 764, BY ELIMINATING FROM SECTION ELEVEN, THE        
+ 338  338 4 WORDS "APPOINTING AND REMOVING POWER" AND INSERTING IN LIEU       
+ 338  338 5 THEREOF "DIRECTION AND PLACED UNDER CONTROL".  (P. 675-3)         
+ 339  339 1 G 18- -675C   J 30-2-319     HR764     MAR. 3, 1849               
+ 339  339 2 S302061       Y=19 N=34                HUNTER, VA.                
+ 339  339 3 TO AMEND H.R. 764, BY ELIMINATING THE PROVISION FOR A             
+ 339  339 4 BUREAU KNOWN AS THE (OFFICE OF THE) COMMISSIONER OF THE           
+ 339  339 5 CUSTOMS, AND FOR AN ASSISTANT SECRETARY OF THE TREASURY,          
+ 339  339 6 WHOSE SALARY SHALL BE $3,000 PER YEAR.                            
+ 340  340 1 G 18- -680A   J 30-2-319     HR764     MAR. 3, 1849               
+ 340  340 2 S302062       Y=23 N=30                MASON, VA.                 
+ 340  340 3 TO AMEND H.R. 764, BY ELIMINATING THE CREATION OF A NEW           
+ 340  340 4 EXECUTIVE DEPARTMENT OF THE GOVERNMENT, TO BE CALLED "THE         
+ 340  340 5 DEPARTMENT OF THE INTERIOR," AND PROVIDING FOR THE                
+ 340  340 6 APPOINTMENT OF AN OFFICER TO BE CALLED AN ASSISTANT               
+ 340  340 7 SECRETARY OF THE TREASURY.                                        
+ 341  341 1 G 18- -680B   J 30-2-320     HR764     MAR. 3, 1849               
+ 341  341 2 S302063       Y=31 N=25                ATHERTON, N.H.             
+ 341  341 3 TO PASS H.R. 764.  (P. 680-2)                                     
+ 342  342 1 G 18- -689A   J 30-2-330     HR692     MAR. 3, 1849               
+ 342  342 2 S302064       Y=21 N=27                MASON, VA.                 
+ 342  342 3 TO AMEND H.R. 692, (APP. 3/3/1849), APPROPRIATING FOR THE         
+ 342  342 4 CIVIL AND DIPLOMATIC EXPENSES OF THE GOVERNMENT FOR THE           
+ 342  342 5 FISCAL YEAR 1850, BY ELIMINATING A PROVISION THAT THE             
+ 342  342 6 EXISTING MEXICAN LAWS SHALL CONTINUE IN FORCE IN THE              
+ 342  342 7 TERRITORY OF CALIFORNIA UNTIL JULY 4, 1850.                       
+ 342  342 8 (P. 682-3, 686-3)                                                 
+ 343  343 1 G 18- -689B   J 30-2-331A    PROC      MAR. 3, 1849               
+ 343  343 2 S302065       Y=7 N=33                 FOOTE, MISS.               
+ 343  343 3 TO ADJOURN, DURING DEBATE ON H.R. 692.                            
+ 344  344 1 G 18- -691    J 30-2-331B    HR692     MAR. 3, 1849               
+ 344  344 2 S302066       Y=38 N=7                 ATHERTON, N.H.             
+ 344  344 3 TO RECEDE FROM SENATES AMENDMENT TO H.R. 692, WHICH               
+ 344  344 4 AMENDMENT PROPOSES TO PROVIDE A FORM OF GOVERNMENT FOR THE        
+ 344  344 5 TERRITORY WEST OF RIO DEL NORTE, KNOWN AS CALIFORNIA,             
+ 344  344 6 ACQUIRED FROM MEXICO, AND APPROPRIATING $200,000 FOR              
+ 344  344 7 ENFORCEMENT OF SAME.  (P. 690-3, 691-3)                           

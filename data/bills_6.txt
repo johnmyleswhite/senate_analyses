@@ -1,0 +1,694 @@
+   1    1 1               EX J 1-329     SRE       DEC. 24, 1799              
+   1    1 2 E061001       Y=21 N=1                 BINGHAM, PA.               
+   1    1 3 TO AGREE TO THE REPORT OF THE SELECT COMMITTEE ON THE             
+   1    1 4 TREATY WITH THE BEY AND GOVERNMENT OF TUNIS.                      
+   2    2 1               EX J 1-333     SRE       JAN. 8, 1800               
+   2    2 2 E061002       Y=16 N=10                                           
+   2    2 3 TO ADVISE AND CONSENT TO THE NOMINATION OF                        
+   2    2 4 WILLIAM KIRKPATRICK, OF MALAGA, SPAIN, TO BE CONSUL OF THE        
+   2    2 5 UNITED STATES AT THAT PORT.                                       
+   3   32 1 A- -  -34A    J 6-1-71       HR        JAN. 28, 1800              
+   3   32 2 S061001       Y=12 N=19                ROSS, PA.                  
+   3   32 3 TO AMEND H.R. 182, (APP. FEB. 28, 1800, 2 STAT. 11), A BILL       
+   3   32 4 TO PROVIDE FOR THE SECOND CENSUS OF THE INHABITANTS OF THE        
+   3   32 5 UNITED STATES, BY STRIKING OUT SPECIFIED LINES IN THE BILL        
+   3   32 6 AND TO ADD CERTAIN INFORMATION TO BE OBTAINED IN THE CENSUS.      
+   4   33 1 A- -  -34B    J 6-1-75       HR        JAN. 31, 1800              
+   4   33 2 S061002       Y=16 N=15                LIVERMORE, N.H.            
+   4   33 3 TO ORDER THIRD READING OF H.R. 185 (APP. FEB. 11, 1800,           
+   4   33 4 6 STAT. 39), AN ACT FOR THE RELIEF OF JOHN VAUGHAN.               
+   5   34 1 A- -  -35     J 6-1-74       SRE       JAN. 31, 1800              
+   5   34 2 S061003       Y=30 N=0                 PINCKNEY, S.C.             
+   5   34 3 TO ORDER A SECOND READING OF THE SENATE BILL                      
+   5   34 4 (APP. MAY 13, 1800, 2 STAT L. 82) TO ESTABLISH A UNIFORM          
+   5   34 5 MODE OF DRAWING JURIES BY LOT IN ALL THE COURTS OF THE U.S.       
+   6   35 1 A- -  -45B    J 6-1-89       HR        FEB. 11, 1800              
+   6   35 2 S061004       Y=17 N=14                                           
+   6   35 3 TO AMEND H.R. 188, (APP. FEB. 20, 1800, 2 STAT 7),                
+   6   35 4 AN ACT TO SUSPEND PART OF "AN ACT TO AUGMENT THE ARMY,            
+   6   35 5 AND FOR OTHER PURPOSES", BY STRIKING THE PROVISION THAT THIS      
+   6   35 6 ACT DOES NOT PREVENT THE PRESIDENT FROM EMPLOYING ANY             
+   6   35 7 OFFICERS IN RECRUITING FOR CERTAIN REGIMENTS.                     
+   7   36 1 A- -  -45B    J 6-1-90       HR        FEB. 11, 1800              
+   7   36 2 S061005       Y=21 N=10                TRACY, CONN.               
+   7   36 3 TO PASS H.R. 188 (APP. FEB. 20, 1800, 2 STAT 7), AN ACT TO        
+   7   36 4 SUSPEND PART OF "AN ACT TO AUGMENT THE ARMY, AND FOR OTHER        
+   7   36 5 PURPOSES."                                                        
+   8    3 1 A-1-  -779    EX J 1-339     SRE       FEB. 12, 1800              
+   8    3 2 E061003       Y=25 N=7                 BINGHAM, PA.               
+   8    3 3 TO REQUEST THE PRESIDENT TO LAY BEFORE THE SENATE THE             
+   8    3 4 INSTRUCTIONS GIVEN TO OUR MINISTER AT BERLIN RESPECTING           
+   8    3 5 THE NEGOTIATIONS OF THE TREATY WITH THE KING OF PRUSSIA.          
+   9    4 1 A-1-  -780    EX J 1-340     REP       FEB. 18, 1800              
+   9    4 2 E061004       Y=26 N=6                                            
+   9    4 3 TO ADOPT THE REPORT OF THE SELECT COMMITTEE ON THE TREATY         
+   9    4 4 WITH PRUSSIA.                                                     
+  10   37 1 A- -  -49A    J 6-1-101      S         FEB. 20, 1800              
+  10   37 2 S061006       Y=11 N=19                                           
+  10   37 3 TO AMEND S. 58, A BILL TO PRESCRIBE THE MODE OF DECIDING          
+  10   37 4 DISPUTED PRESIDENTIAL ELECTIONS, BY ELIMINATING THE               
+  10   37 5 PROVISION FOR THE AUTHORITY OF THE CHIEF JUSTICE IN SUCH          
+  10   37 6 DISPUTES.                                                         
+  11   38 1 A- -  -49B    J 6-1-102      S         FEB. 20, 1800              
+  11   38 2 S061007       Y=9 N=18                                            
+  11   38 3 TO AMEND S. 58 BY ELIMINATING THE PROVISION TO HAVE MEMBERS       
+  11   38 4 OF A COMMITTEE SET UP THEREIN DRAWN BY LOT FROM EACH HOUSE,       
+  11   38 5 RATHER THAN BY BALLOT.                                            
+  12   39 1 A- -  -51     J 6-1-108      S         FEB. 24, 1800              
+  12   39 2 S061008       Y=8 N=16                                            
+  12   39 3 TO AMEND S. 58 TO PROVIDE THAT THE PROCEEDINGS OF                 
+  12   39 4 COMMITTEE BE HELD IN PUBLIC.                                      
+  13   40 1 A- -  -52     J 6-1-111      HR        FEB. 25, 1800              
+  13   40 2 S061009       Y=11 N=16                                           
+  13   40 3 TO AMEND H.R. 201 (APP. FEB. 27, 1800, 2 STAT 7), A BILL TO       
+  13   40 4 FURTHER SUSPEND COMMERCIAL INTERCOURSE WITH FRANCE AND ITS        
+  13   40 5 DEPENDENCIES; BY STRIKING OUT THE WORD "EUROPE" IN THE            
+  13   40 6 SECOND SECTION, AND INSERT THE WORDS "FOREIGN COUNTRIES".         
+  14   41 1 A- -  -53     J 6-1-112      HR        FEB. 25, 1800              
+  14   41 2 S061010       Y=11 N=16                                           
+  14   41 3 TO AMEND H.R. 201, BY STRIKING OUT THE 6TH SECTION WHICH          
+  14   41 4 PROPOSED THAT AT ANY TIME AFTER THE PASSING OF THIS ACT,          
+  14   41 5 IT SHALL BE LAWFUL FOR THE PRESIDENT TO REMIT AND DISCON-         
+  14   41 6 TINUE, WHEN EVER HE SHALL DEAM IT EXPEDIENT, ALL OR ANY           
+  14   41 7 OF THE RESTRAINTS IMPOSED BY THE ACT IN RESPECT TO THE            
+  14   41 8 FRENCH REPUBLIC, AND IT SHALL ALSO BE LAWFUL FOR THE              
+  14   41 9 PRESIDENT TO REVOKE SUCH ORDERS.                                  
+  15   42 1 A- -  -62A    J 6-1-115      HR        FEB. 26, 1800              
+  15   42 2 S061011       Y=19 N=10                GOODHUE, MASS.             
+  15   42 3 TO PASS H.R. 201.                                                 
+  16   43 1 A- -  -62B    J 6-1-116      SRE       FEB. 26, 1800              
+  16   43 2 S061012       Y=22 N=7                 DAYTON, N.J.               
+  16   43 3 TO PASS THE SENATE RESOLUTION TO APPOINT A COMMITTEE OF           
+  16   43 4 PRIVILEGES TO CONSIST OF FIVE MEMBERS.                            
+  17   44 1 A- -  -66     J 6-1-127      S         MAR. 3, 1800               
+  17   44 2 S061013       Y=16 N=13                                           
+  17   44 3 TO AMEND AN AMENDMENT TO S. 58, BY PROVIDING THAT A               
+  17   44 4 COMMITTEE TO DECIDE A DISPUTED ELECTION BE FORMED BY              
+  17   44 5 DRAWING BY LOT 24 MEMBERS FROM EACH HOUSE.                        
+  18   45 1 A- -  -66B    J 6-1-128      S         MAR. 3, 1800               
+  18   45 2 S061014       Y=15 N=13                                           
+  18   45 3 TO AMEND S. 58 BY PROVIDING THAT A COMMITTEE TO DECIDE A          
+  18   45 4 DISPUTED ELECTION BE FORMED BY CHOOSING SIX MEMBERS BY            
+  18   45 5 BALLOT FROM 24 CHOOSEN BY LOT.                                    
+  19   46 1 A- -  -66C    J 6-1-130      S         MAR. 3, 1800               
+  19   46 2 S061015       Y=4 N=24                                            
+  19   46 3 TO AMEND S. 58, BY PROVIDING THAT ON A SPECIFIED DAY BOTH         
+  19   46 4 SENATE AND HOUSE SHALL CHOOSE THE COMMITTEE IN THE MANNER         
+  19   46 5 PRESCRIBED.                                                       
+  20   47 1 A- -  -67C    J 6-1-131      S         MAR. 3, 1800               
+  20   47 2 S061016       Y=10 N=19                                           
+  20   47 3 TO AMEND S. 58 BY PROVIDING THAT WHEN THE COMMITTEE REJECTS       
+  20   47 4 A CANDIDATE, SUCH REJECTION SHALL BE FOUNDED ON A TWO-THIRDS      
+  20   47 5 VOTE.                                                             
+  21   48 1 A- -  -67B    J 6-1-133      S         MAR. 4, 1800               
+  21   48 2 S061017       Y=14 N=15                TRACY, CONN.               
+  21   48 3 TO AMEND S. 58, BY RECOGNIZING ELECTORS FROM ANY STATE            
+  21   48 4 WHETHER AUTHORIZED BY THE STATE LEGISLATURE OR NOT.               
+  22   49 1 A-  - -92     J 6-1-135      HRE       MAR. 5, 1800               
+  22   49 2 S061018       Y=9 N=20                 PINCKNEY, S.C.             
+  22   49 3 TO POSTPONE UNTIL NEXT TUESDAY, THE RESOLUTION THAT THE           
+  22   49 4 COMM. OF PRIVILEGES BE DIRECTED TO INQUIRE WHO IS THE             
+  22   49 5 EDITOR OF THE NEWSPAPER PRINTED IN PHILADELPHIA CALLED THE        
+  22   49 6 GENERAL ADVERTISER, OR AURORA, AND BY WHAT MEANS THE EDITOR       
+  22   49 7 BECAME POSSESSED OF THE COPY OF A BILL PRESCRIBING THE MODE       
+  22   49 8 OF DECIDING DISPUTED ELECTIONS OF PRESIDENT AND V. PRESIDENT      
+  22   49 9 OF THE U.S., WHICH WAS PRINTED IN SAID NEWSPAPER, ALSO TO         
+  22   4910 INQUIRE BY WHAT AUTHORITY THE EDITOR PRINTED CERTAIN OTHER        
+  22   4911 MATTERS REGARDING THE SENATE.                                     
+  23   50 1 A- -  -96     J 6-1-136      HRE       MAR. 5, 1800               
+  23   50 2 S061019       Y=11 N=16                MARSHALL, KY.              
+  23   50 3 TO AMEND A RESOLUTION RELATING TO AN INQUIRY BY COMMITTEE         
+  23   50 4 ON PRIVILEGES TO MAKE SIMILAR INQUIRIES ABOUT                     
+  23   50 5 "THE GAZETTE OF THE U.S. AND PHILADELPHIA DAILY                   
+  23   50 6 ADVERTISER".                                                      
+  24   51 1 A- -  -103    J 6-1-139      HRE       MAR. 6, 1800               
+  24   51 2 S061020       Y=21 N=8                 PINCKNEY, S.C.             
+  24   51 3 TO AMEND THE PREAMBLE TO A RESOLUTION RELATING TO AN              
+  24   51 4 INQUIRY BY COMMITTEE ON PRIVILEGES, SO IT                         
+  24   51 5 READS: "WHEREAS THE CONSTITUTION OF THE U.S. HAS EXPRESSLY        
+  24   51 6 DECLARED 'THAT THE POWERS NOT DELEGATED TO THE U.S. OR            
+  24   51 7 PROHIBITED TO THE STATES, ARE RESERVED TO THE STATES, OR TO       
+  24   51 8 THE PEOPLE.'"                                                     
+  25   52 1 A- -  -104C   J 6-1-142      HRE       MAR. 8, 1800               
+  25   52 2 S061021       Y=19 N=8                                            
+  25   52 3 TO AMEND AN AMENDMENT OFFERED AS A SUBSTITUTE FOR THE             
+  25   52 4 RESOLUTION RELATING TO AN INQUIRY BY COMMITTEE ON                 
+  25   52 5 PRIVILEGES, SO THAT AS AMENDED IT WILL READ,                      
+  25   52 6 RES. "THAT AS THE CONSTITUTION OF THE U.S. DOES NOT VEST IN       
+  25   52 7 EITHER BRANCH OF CONGRESS ANY POWER TO INCROUCH ON THE            
+  25   52 8 POWERS GIVEN TO THE JUDICIAL; TO DISPARAGE THE RIGHT OF           
+  25   52 9 TRIAL BY JURY; AND TO ESTABLISH THE DANGEROUS DOCTRINE            
+  25   5210 THAT A SINGLE BRANCH, WITH OUT CONTROL OR INTERFERENCE,           
+  25   5211 CAN, AT THEIR OWN WILL, AND IN THEIR OWN CASE, PUNISH FOR         
+  25   5212 REASONS ON WHICH THE CONSTITUTION HAS GIVEN THEM NO POWER         
+  25   5213 TO DECIDE".                                                       
+  26   53 1 A- -  -104B   J 6-1-143      HRE       MAR. 8, 1800               
+  26   53 2 S061022       Y=8 N=19                                            
+  26   53 3 TO STRIKE RESOLUTION RELATING TO AN INQUIRY BY COMMITTEE          
+  26   53 4 ON PRIVILEGES, AND TO INSERT A SUBSTITUTE RESOLUTION.             
+  27   54 1 A- -  -105A   J 6-1-144      HRE       MAR. 8, 1800               
+  27   54 2 S061023       Y=8 N=19                                            
+  27   54 3 TO STRIKE OUT RESOLUTION RELATING TO AN INQUIRY BY                
+  27   54 4 COMMITTEE ON PRIVILEGES, IN ORDER TO MOVE AN                      
+  27   54 5 AMENDMENT AS A SUBSTITUTE RESOLUTION AS FOLLOWS:- THAT THE        
+  27   54 6 COMM. OF PRIVILEGES BE INSTRUCTED TO INQUIRE AND REPORT           
+  27   54 7 WHETHER, IN THEIR OPINION, THE PUBLICATION OF FEB. 19, 1800,      
+  27   54 8 CONTAINED IN THE NEWSPAPER CALLED THE- GENERAL ADVERTISER,        
+  27   54 9 OR AURORA- IS A SEDITIOUS LIBEL AGAINST THE SENATE OF THE         
+  27   5410 U.S.; AND, IF SO, WHETHER THE ATTORNEY GENERAL SHOULD BE          
+  27   5411 REQUESTED TO PROSECUTE THE EDITOR THEREOF FOR THE PRINTING        
+  27   5412 AND PUBLISHING THE SAME.                                          
+  28   55 1 A- -  -105    J 6-1-145      HRE       MAR. 8, 1800               
+  28   55 2 S061024       Y=19 N=8                 TRACY, CONN.               
+  28   55 3 TO PASS THE RESOLUTION RELATING TO AN INQUIRY BY COMMITTEE        
+  28   55 4 ON PRIVILEGES.                                                    
+  29   56 1 A- -  -107    J 6-1-149      SRE       MAR. 11, 1800              
+  29   56 2 S061025       Y=14 N=8                                            
+  29   56 3 TO POSTPONE THE SENATE BILL TO ESTABLISH A UNIFORM MODE OF        
+  29   56 4 DRAWING JURORS BY LOT, IN ALL THE COURTS OF THE U.S. UNTIL        
+  29   56 5 THE NEXT SESSION OF CONGRESS.                                     
+  30   57 1 A- -  -109    J 6-1-155      HR        MAR. 14, 1800              
+  30   57 2 S061026       Y=13 N=15                                           
+  30   57 3 TO AMEND H.R. 186, (APP. APRIL 4, 1800, 2 STAT 19), A BILL        
+  30   57 4 TO ESTABLISH A UNIFORM SYSTEM OF BANKRUPTCY THROUGHOUT THE        
+  30   57 5 U.S., BY HAVING THE ACT APPLY ONLY TO MERCHANTS NOT TO            
+  30   57 6 PRIVATE PERSONS.                                                  
+  31   58 1 A- -  -110    J 6-1-160      HR        MAR. 17, 1800              
+  31   58 2 S061027       Y=12 N=14                                           
+  31   58 3 TO AMEND H.R. 186, BY EXCLUDING FARMERS, TOWNKEEPERS, AND         
+  31   58 4 OTHER SPECIFIED OCCUPATIONS FROM THE PROVISIONS OF THE ACT.       
+  32   59 1 A- -  -111    J 6-1-161A     HR        MAR. 17, 1800              
+  32   59 2 S061028       Y=12 N=13                                           
+  32   59 3 TO AMEND H.R. 186 BY PROVIDING THAT PERSONS WHO HAVE BEEN         
+  32   59 4 ATTACHED FOR DEBT AMOUNTING TO ONE THOUSAND DOLLARS,              
+  32   59 5 CONTRACTED BY THEM BY BUYING MERCHANDISE, WHO SHALL NOT,          
+  32   59 6 UPON NOTICE OF SUCH ATTACHMENT, GIVE SUFFICIENT SECURITY          
+  32   59 7 FOR THE PAYMENT OF WHAT MAY BE RECOVERED BY SUIT, SHALL BE        
+  32   59 8 DEEMED A BANKRUPT.                                                
+  33   60 1 A- -  -111B   J 6-1-161B     HR        MAR. 17, 1800              
+  33   60 2 S061029       Y=10 N=14                                           
+  33   60 3 TO AMEND H.R. 186, BY DEPRIVING CREDITORS WHOSE DEBTS DO NOT      
+  33   60 4 AMOUNT TO $50, OF THE RIGHT TO VOTE FOR ASSIGNEE TO               
+  33   60 5 BANKRUPTS' ESTATE AND EFFECTS.                                    
+  34   61 1 A- -  -112A   J 6-1-164      REP       MAR. 18, 1800              
+  34   61 2 S061030       Y=20 N=8                                            
+  34   61 3 TO AGREE TO THE FIRST PART OF THE RESOLUTION OF THE               
+  34   61 4 COMMITTEE OF PRIVILEGES CONCERNING THE PRIVILEGES                 
+  34   61 5 RESOLUTION; THE COMMITTEE RESOLUTION READS                        
+  34   61 6 " THAT THE SAID PUBLICATION CONTAINS ASSERTIONS AND               
+  34   61 7 PRETENDED INFORMATION WHICH IS FALSE, DEFAMATORY,                 
+  34   61 8 SCANDALOUS AND MALICIOUS; TENDING TO DEFAME THE SENATE OF         
+  34   61 9 THE UNITED STATES".                                               
+  35   62 1 A- -  -112B   J 6-1-167      REP       MAR. 19, 1800              
+  35   62 2 S061031       Y=17 N=11                                           
+  35   62 3 TO AMEND THE FIRST RESOLUTION OF THE COMMITTEE OF PRIVILEGES      
+  35   62 4 CONCERNING THE PRIVILEGE RESOLUTION, TO READ "THAT THE SAID       
+  35   62 5 PUBLICATION IS A HIGH BREACH OF THE PRIVILEGES OF THIS            
+  35   62 6 HOUSE".                                                           
+  36   63 1 A- -  -113    J 6-1-169      REP       MAR. 20, 1800              
+  36   63 2 S061032       Y=18 N=10                                           
+  36   63 3 TO ADOPT A PART OF THE REPORT OF THE COMMITTEE OF                 
+  36   63 4 PRIVILEGES CONCERNING RESOLUTION RELATING TO THEIR                
+  36   63 5 INQUIRY WHICH PROVIDES THAT THE EDITOR OF SAID NEWSPAPER          
+  36   63 6 BE ORDERED TO ATTEND AT THE BAR OF THIS HOUSE AT A                
+  36   63 7 SPECIFIED TIME, TO DEFEND HIS CONDUCT IN PUBLISHING               
+  36   63 8 FALSE INFORMATION REGARDING THE SENATE.                           
+  37   64 1 A- -  -116A   J 6-1-175      HR        MAR. 20, 1800              
+  37   64 2 S061033       Y=10 N=18                                           
+  37   64 3 TO AMEND H.R. 186 BY ELIMINATING THE PROVISO AT THE END OF        
+  37   64 4 SECTION 10, WHICH PROVIDES THAT ANY PERSON WHO MAKES A            
+  37   64 5 BONA FIDE PURCHASE FROM A BANKRUPT, FOR A VALUABLE                
+  37   64 6 CONSIDERATION, HAVING NO KNOWLEDGE THAT THE PERSON HE             
+  37   64 7 PURCHASED FROM WAS OR ABOUT TO BE PART IN BANKRUPTCY, SUCH        
+  37   64 8 PURCHASE SHALL NOT BE INVALIDATED OR IMPEACHED.                   
+  38   65 1 A- - -116B    J 6-1-176      HR        MAR. 20, 1800              
+  38   65 2 S061034       Y=12 N=15                                           
+  38   65 3 TO AMEND H.R. 186, SO THAT GOODS SOLD BY ASSIGNEE FOR             
+  38   65 4 BENEFIT OF CREDITORS SHALL BE THOSE THAT ARE VESTED IN HIM,       
+  38   65 5 RATHER THAN THOSE THAT VEST IN HIM.                               
+  39   66 1 A- -  -118A   J 6-1-182      HRE       MAR. 24, 1800              
+  39   66 2 S061035       Y=18 N=11                                           
+  39   66 3 TO AMEND THE RESOLUTION: THAT WILLIAM DUANE, EDITOR OF THE        
+  39   66 4 "AURORA", BE PERMITTED TO BE HEARD BY COUNSEL, HAVING             
+  39   66 5 APPEARED, AGREEABLY TO THE ORDER OF THE SENATE, AND               
+  39   66 6 REQUESTED THAT HE MIGHT BE HEARD BY COUNSEL, SUBSTITUTING         
+  39   66 7 THE FOLLOWING: "THAT WILLIAM DUANE HAVING APPEARED AT THE         
+  39   66 8 BAR AND REQUESTED TO BE HEARD BY COUNSEL, ON THE CHARGE           
+  39   66 9 AGAINST HIM, HE BE ALLOWED THE ASSISTANCE OF COUNSEL WHILE        
+  39   6610 PERSONALLY ATTENDING AT THE BAR OF THE SENATE; WHO MAY BE         
+  39   6611 HEARD IN DENIAL OF ANY CHARGES AGAINST DUANE."                    
+  40   67 1 A- -  -118B   J 6-1-183      HRE       MAR. 24, 1800              
+  40   67 2 S061036       Y=10 N=18                                           
+  40   67 3 TO AMEND THE RESOLUTION: TO ALLOW WILLIAM DUANE, EDITOR OF        
+  40   67 4 THE "AURORA", ASSISTANCE OF COUNSEL WHILE AT THE BAR OF THE       
+  40   67 5 SENATE, BY SUBSTITUTING THE FOLLOWING: "THAT WILLIAM DUANE,       
+  40   67 6 HAVING APPEARED AT THE BAR OF THE SENATE AND REQUESTED TO         
+  40   67 7 BE HEARD BY COUNSEL, ON THE CHARGE AGAINST HIM; HE BE             
+  40   67 8 PERMITTED TO HAVE ASSISTANCE OF COUNSEL FOR HIS DEFENSE."         
+  41   68 1 A- -  -118    J 6-1-184      HRE       MAR. 24, 1800              
+  41   68 2 S061037       Y=21 N=8                                            
+  41   68 3 TO PASS THE AMENDMENT IN THE FORM OF A SUBSTITUTE TO THE          
+  41   68 4 ORIGINAL RESOLUTION TO ALLOW WILLIAM DUANE, EDITOR OF THE         
+  41   68 5 "AURORA" LEGAL COUNSEL; THE SUBSTITUTE RESOLUTION TO READ-        
+  41   68 6 THAT WM. DUANE HAVING APPEARED AT THE BAR OF THE SENATE AND       
+  41   68 7 REQUESTED TO BE HEARD BY COUNSEL, ON THE CHARGE AGAINST HIM       
+  41   68 8 FOR A BREACH OF PRIVILEGES OF THE SENATE, HE BE ALLOWED           
+  41   68 9 THE ASSISTANCE OF COUNSEL WHILE PERSONALLY ATTENDING AT THE       
+  41   6810 BAR OF THE SENATE, WHO MAY BE HEARD INDENIAL OF ANY FACTS         
+  41   6811 CHARGED AGAINST SAID DUANE OR IN EXCUSE AND EXTENUATION OF        
+  41   6812 HIS OFFENSE."                                                     
+  42   69 1 A- -  -120    J 6-1-189      S         MAR. 25, 1800              
+  42   69 2 S061038       Y=11 N=18                                           
+  42   69 3 TO AMEND S. 58 BY STRIKING FROM THE FIRST SECTION THE WORDS       
+  42   69 4 "AND FINALLY TO DECIDE" AND TO INSERT "INTO AND REPORT UPON"      
+  43   70 1 A- -  -121    J 6-1-192      REP       MAR. 26, 1800              
+  43   70 2 S061039       Y=18 N=11                DAYTON, N.J.               
+  43   70 3 TO PASS THE AMENDED RESOLUTION RELATIVE TO THE                    
+  43   70 4 RESOLUTION AUTHORIZING INQUIRY BY COMMITTEE ON PRIVILEGES,        
+  43   70 5 SAID RESOLUTION PROVIDES:  "THAT ALL TESTIMONY                    
+  43   70 6 SHALL BE TAKEN BY THE COMMITTEE OF PRIVILEGES,                    
+  43   70 7 WHO ARE HEREBY AUTHORIZED TO SEND FOR PERSONS, PAPERS AND         
+  43   70 8 RECORDS, AND COMPEL THE ATTENDANCE OF REQUISITE WITNESSES".       
+  44   71 1 A- -  -123    J 6-1-195      SRE       MAR. 27, 1800              
+  44   71 2 S061040       Y=16 N=11                DAYTON, N.J.               
+  44   71 3 TO PASS THE SENATE RESOLUTION RELATIVE TO THE PRIVILEGE           
+  44   71 4 RESOLUTION TO ADJUDGE WILLIAM DUANE, EDITOR OF THE                
+  44   71 5 "AURORA", GUILTY OF CONTEMPT, ORDER HIS TAKING INTO               
+  44   71 6 CUSTODY, AND KEEPING BY THE SERGEANT AT ARMS, FOR FAILURE TO      
+  44   71 7 APPEAR BECAUSE OF ALLEGED INABILITY TO PROCURE SERVICES OF        
+  44   71 8 COUNSEL.                                                          
+  45   72 1 A- -  -123B   J 6-1-         SRE       MAR. 27, 1800              
+  45   72 2 S061041       Y=10 N=19                                           
+  45   72 3 TO AMEND THE RESOLUTION RELATED TO THE PRIVILEGE RESOLUTION,      
+  45   72 4 BY STRIKING OUT THE PROVISION THAT WOULD DENY AID AND             
+  45   72 5 ASSISTANCE TO THE SERGEANT AT ARMS IN THE ARREST OF               
+  45   72 6 WILLIAM DUANE, EDITOR, FOR FAILURE TO APPEAR BEFORE THE           
+  45   72 7 SENATE.                                                           
+  46   73 1 A- -  -124A   J 6-1-199      SRE       MAR. 27, 1800              
+  46   73 2 S061042       Y=18 N=11                DAYTON, N.J.               
+  46   73 3 TO PASS THE RESOLUTION TO AUTHORIZE THE SERGEANT AT ARMS TO       
+  46   73 4 TAKE WILLIAM DUANE, EDITOR OF THE "AURORA", INTO CUSTODY FOR      
+  46   73 5 CONTEMPTION, FAILING TO APPEAR BEFORE THE SENATE.                 
+  47   74 1 A- -  -124B   J 6-1-200      HR        MAR. 27, 1800              
+  47   74 2 S061043       Y=17 N=12                LAURANCE, N.Y.             
+  47   74 3 TO ORDER THIRD READING OF H.R. 186.                               
+  48   75 1 A- -  -125A   J 6-1-201A     S         MAR. 27, 1800              
+  48   75 2 S061044       Y=15 N=12                                           
+  48   75 3 TO AMEND S. 58 BY ELIMINATING THE SEVENTH SECTION WHICH           
+  48   75 4 PROPOSED "THAT THE GRAND COMMITTEE SHALL HAVE POWER TO STUDY      
+  48   75 5 AND REPORT, UPON THE CONSTITUTIONAL QUALIFICATIONS OF THE         
+  48   75 6 PERSONS VOTED FOR A PRESIDENT AND VICE PRESIDENT OF THE           
+  48   75 7 U.S.; UPON THE CONSTITUTIONAL QUALIFICATIONS OF THE ELECTORS      
+  48   75 8 APPOINTED BY THE DIFFERENT STATES: PROVIDED ALWAYS, THAT NO       
+  48   75 9 PETITION, OR EXCEPTION, SHALL BE GRANTED OR ALLOWED BY THE        
+  48   7510 GRAND COMMITTEE, WHICH SHALL HAVE FOR ITS OBJECT TO DRAW          
+  48   7511 INTO QUESTION THE NUMBER OF VOTES ON WHICH ANY ELECTOR IN         
+  48   7512 ANY OF THE STATES SHALL HAVE BEEN DECLARED APPOINTED".            
+  49   76 1 A- -  -125    J 6-1-201B     S         MAR. 27, 1800              
+  49   76 2 S061045       Y=10 N=15                                           
+  49   76 3 TO AMEND S. 58 BY STRIKING THE TEN FIRST SECTIONS.                
+  50   77 1 A- -  -126    J 6-1-204      HR        MAR. 28, 1800              
+  50   77 2 S061046       Y=16 N=12                LAURANCE, N.Y.             
+  50   77 3 TO PASS H.R. 186.                                                 
+  51   78 1 A- -  -146    J 6-1-206      S         MAR. 28, 1800              
+  51   78 2 S061047       Y=16 N=12                ROSS, PA.                  
+  51   78 3 TO PASS S. 58.                                                    
+  52   79 1 A- -  -150A   J 6-1-217      S         APRIL 3, 1800              
+  52   79 2 S061048       Y=2 N=23                                            
+  52   79 3 TO POSTPONE S. 64, (APP. MAY 13, 1800, 2 STAT L. 82) A BILL       
+  52   79 4 TO AMEND AN ACT, ENTITLED, "AN ACT TO ESTABLISH THE               
+  52   79 5 JUDICIAL COURTS OF THE U.S.", TO FIRST MONDAY IN DEC.             
+  53   80 1 A- -  -150C   J 6-1-218      S         APRIL 3, 1800              
+  53   80 2 S061049       Y=12 N=14                PINCKNEY, S.C.             
+  53   80 3 TO ORDER THIRD READING OF S. 64.                                  
+  54   81 1 A- -  -150A   J 6-1-219      HRE       APRIL 4, 1800              
+  54   81 2 S061050       Y=18 N=9                 MASON, MASS.               
+  54   81 3 TO AGREE TO THE RESOLUTION TO BRING IN A BILL SUPPLEMENTARY       
+  54   81 4 TO THE ACT TO SUSPEND PART OF AN ACT, ENTITLED, "AN ACT TO        
+  54   81 5 AUGMENT THE ARMY OF THE U.S., AND FOR OTHER PURPOSES".            
+  55   82 1 A- -  -151    J 6-1-220      HR        APRIL 4, 1800              
+  55   82 2 S061051       Y=12 N=17                DEXTER, MASS.              
+  55   82 3 TO ORDER THIRD READING OF THE HOUSE BILL TO PREVENT               
+  55   82 4 INTERFERENCE OF ANY MILITARY FORCE IN CERTAIN ELECTIONS.          
+  56    5 1               EX J 1-348     SRE       APR. 9, 1800               
+  56    5 2 E061005       Y=15 N=12                                           
+  56    5 3 TO AGREE TO THE RESOLUTION TO REQUEST THE PRESIDENT TO            
+  56    5 4 DIRECT THE PROPER OFFICER TO FURNISH TO THE SENATE A LIST OF      
+  56    5 5 ALL OFFICERS APPOINTED UNDER "AN ACT TO AUGMENT THE ARMY OF       
+  56    5 6 THE UNITED STATES."                                               
+  57   83 1 A- -  -154    J 6-1-229      REP       APRIL 9, 1800              
+  57   83 2 S061052       Y=22 N=4                 GREENE, R.I.               
+  57   83 3 TO AGREE TO THE REPORT OF A COMMITTEE ON THE PETITION OF          
+  57   83 4 JOSEPH RUSSELL AND OTHERS, ASKING INTEREST ON $24,400             
+  57   83 5 ACCORDING TO A RESOLUTION OF CONGRESS OF MAR. 18, 1780;           
+  57   83 6 RECOMMENDS DENIAL OF THE PETITION.                                
+  58   84 1 A- -  -157    J 6-1-231      HR        APRIL 10, 1800             
+  58   84 2 S061053       Y=3 N=22                                            
+  58   84 3 TO AMEND AN AMENDMENT H.R. 218, (APP. MAY 10, 1800,               
+  58   84 4 2 STAT 69), AN ACT SUPPLEMENTAL TO "THE ACT, FOR AN               
+  58   84 5 AMICABLE SETTLEMENT OF LIMITS WITH THE STATE OF GEORGIA,          
+  58   84 6 AND AUTHORIZING THE ESTABLISHMENT OF A GOVERNMENT IN THE          
+  58   84 7 MISSISSIPPI TERRITORY"; BY ELIMINATING THE PROVISION THAT         
+  58   84 8 THE COMMISSIONERS SHALL NOT CONTRACT FOR THE PAYMENT OF           
+  58   84 9 ANY MONEY FROM THE TREASURY, OTHER THAN THE PROCEEDS OF THE       
+  58   8410 SAME LANDS.                                                       
+  59   85 1 A- -  -161    J 6-1-244      HR        APRIL 16, 1800             
+  59   85 2 S061054       Y=19 N=8                                            
+  59   85 3 TO AMEND H.R. 218, (APP. MAY 10, 1800, 2 STAT 69) AN ACT TO       
+  59   85 4 SUPPLEMENT "AN ACT FOR AN AMICABLE SETTLEMENT OF LIMITS           
+  59   85 5 WITH THE STATE OF GEORGIA, AND AUTHORIZING THE ESTABLISHMENT      
+  59   85 6 OF A GOVERNMENT IN THE MISSISSIPPI TERRITORY", BY                 
+  59   85 7 AUTHORIZING THE COMMISSIONERS TO NEGOTIATE ON SUCH TERMS AS       
+  59   85 8 THEY DEEM REASONABLE, TO INQUIRE INTO ALL CLAIMS, AND TO          
+  59   85 9 REPORT SUCH CLAIMS AND COMPROMISES TO BE MADE TOGETHER WITH       
+  59   8510 THEIR OPINIONS THEREON.                                           
+  60   86 1 A- -  -162    J 6-1-246A     HR        APRIL 17, 1800             
+  60   86 2 S061055       Y=8 N=21                 ROSS, PA.                  
+  60   86 3 TO AMEND H.R. 228 (APP. APRIL 24, 1800, 2 STAT 55), A BILL        
+  60   86 4 TO MAKE PROVISIONS FOR THE REMOVAL AND ACCOMODATION OF THE        
+  60   86 5 GOVERNMENT, BY STRIKING OUT THE FIRST SECTION OF THE BILL         
+  60   86 6 WHICH AUTHORIZES THE PRESIDENT TO DIRECT THE REMOVAL OF THE       
+  60   86 7 VARIOUS OFFICES BELONGING TO THE EXECUTIVE DEPARTMENTS OF         
+  60   86 8 THE U.S., TO THE CITY OF WASHINGTON, AT ANY TIME HE SHALL         
+  60   86 9 JUDGE PROPER, AFTER THE ADJOURNMENT OF THE PRESENT SESSION        
+  60   8610 OF CONGRESS.                                                      
+  61   87 1 A- -  -162B   J 6-1-246B     HR        APRIL 17, 1800             
+  61   87 2 S061056       Y=20 N=9                 ROSS, PA.                  
+  61   87 3 TO ORDER THIRD READING OF H.R. 228.                               
+  62   88 1 A- -  -163C   J 6-1-247      HR        APRIL 17, 1800             
+  62   88 2 S061057       Y=18 N=10                ROSS, PA.                  
+  62   88 3 TO PASS H.R. 228.                                                 
+  63   89 1 A- -  -165    J 6-1-256      HR        APRIL 22, 1800             
+  63   89 2 S061058       Y=15 N=10                ROSS, PA.                  
+  63   89 3 TO ORDER THIRD READING OF H.R. 225, (APP. APRIL 28, 1800,         
+  63   89 4 2 STAT 56), A BILL TO AUTHORIZE THE PRESIDENT TO ACCEPT A         
+  63   89 5 CESSION OF JURISDICTION OF THE TERRITORY WEST OF                  
+  63   89 6 PENNSYLVANIA, CALLED THE WESTERN RESERVE OF CONNECTICUT.          
+  64   90 1 A- -  -165C   J 6-1-259      HR        APRIL 23, 1800             
+  64   90 2 S061059       Y=10 N=15                                           
+  64   90 3 TO AMEND H.R. 225 BY INSERTING- "IT SHALL BE LAWFUL FOR THE       
+  64   90 4 ATTORNEY GENERAL, WITH SUCH AGENT OR ATTORNEY AS THE STATE        
+  64   90 5 OF CONNECTICUT MAY APPOINT TO INSTITUTE A SUIT, WITH THE          
+  64   90 6 SUPREME COURT TO DECIDE THE TITLE OF CONNECTICUT TO THAT          
+  64   90 7 TRACK OF LAND CALLED THE WESTERN RESERVE OF CONNECTICUT.          
+  64   90 8 AND SHOULD THE DECISION OF THE COURT BE IN FAVOR OF THE           
+  64   90 9 CLAIM, THAT THEN THE PRESIDENT SHALL BE AUTHORIZED TO             
+  64   9010 EXECUTE AND DELIVER LETTERS PATENT IN THE NAME AND BEHALF OF      
+  64   9011 THE U.S. TO THE GOVERNOR OF CONN., FOR THE USE AND BENEFIT        
+  64   9012 OF THE PERSONS HOLDING AND CLAIMING UNDER THE STATE OF            
+  64   9013 CONNECTICUT."                                                     
+  65   91 1 A- -  -166C   J 6-1-260      HR        APRIL 23, 1800             
+  65   91 2 S061060       Y=15 N=10                ROSS, PA.                  
+  65   91 3 TO PASS H.R. 225.                                                 
+  66   92 1 A- -  -166    J 6-1-263      S         APRIL 24, 1800             
+  66   92 2 S061061       Y=14 N=11                MASON, MASS.               
+  66   92 3 TO AMEND S. 63 (APP. MAY 14, 1800, 2 STAT 85), A BILL             
+  66   92 4 SUPPLEMENTARY TO THE ACT TO SUSPEND PART OF "AN ACT TO            
+  66   92 5 AUGMENT THE ARMY, AND FOR OTHER PURPOSES; BY STRIKING OUT         
+  66   92 6 PART OF 1ST SECTION OF BILL IN ORDER TO MOVE AN AMENDMENT         
+  66   92 7 WHICH PROPOSED THAT IT SHALL BE LAWFUL FOR THE PRESIDENT TO       
+  66   92 8 SUSPEND ANY FURTHER MILITARY APPOINTMENTS UNDER THE ACT FOR       
+  66   92 9 THE BETTER ORGANIZING OF THE TROOPS OF THE U.S. ACCORDING TO      
+  66   9210 HIS DISCRETION.                                                   
+  67   93 1 A- -  -169    J 6-1-271      S         APRIL 29, 1800             
+  67   93 2 S061062       Y=19 N=6                 MASON, MASS.               
+  67   93 3 TO PASS S. 63, (APP. MAY 14, 1800, 2 STAT 85), A BILL             
+  67   93 4 SUPPLEMENTARY TO THE ACT TO SUSPEND PART OF "AN ACT TO            
+  67   93 5 AUGMENT THE ARMY, AND FOR OTHER PURPOSES".                        
+  68   94 1 A- -  -170C   J 6-1-273      S         APRIL 29, 1800             
+  68   94 2 S061063       Y=9 N=16                                            
+  68   94 3 TO AMEND S. 64 BY ELIMINATING PART OF THE BILL IN ORDER TO        
+  68   94 4 MOVE THAT THE JURORS TO SERVE IN THE COURTS OF THE U.S.           
+  68   94 5 SHALL BE DESIGNATED BY LOT, OR OTHERWISE, SUMMONED OR             
+  68   94 6 PROCURRED IN EACH STATE RESPECTIVELY ACCORDING TO THE MODE        
+  68   94 7 DIRECTED AND PRESCRIBED BY THE LAWS OF EACH STATE                 
+  68   94 8 RESPECTIVELY, SO FAR AS SUCH LAWS SHALL RENDER THE SAME           
+  68   94 9 PRACTICABLE BY THE COURTS OR MARSHALS OF THE U.S.                 
+  69   95 1 A- -  -170C   J 6-1-275A     HR        APRIL 30, 1800             
+  69   95 2 S061064       Y=11 N=14                                           
+  69   95 3 TO AMEND H.R. 210, (APP. MAY 7, 1800, 2 STAT 60), AN ACT TO       
+  69   95 4 ENABLE THE PRESIDENT TO BORROW MONEY FOR THE PUBLIC SERVICE;      
+  69   95 5 BY ELIMINATING THE PROVISION THAT THE PRESIDENT MAY BORROW        
+  69   95 6 AS MUCH AS $3,500,000 AT A RATE OF INTEREST NOT EXCEEDING         
+  69   95 7 SIX PER CENT PER ANNUM.                                           
+  70   96 1 A- -  -170C   J 6-1-275B     HR        APRIL 30, 1800             
+  70   96 2 S061065       Y=10 N=15                                           
+  70   96 3 TO AMEND H.R. 210, BY STRIKING OUT THE WORDS "15 YEARS"           
+  70   96 4 IN THE CLAUSE WHICH STATES THAT NO CONTRACT SHALL PRECLUDE        
+  70   96 5 THE U.S. FROM REIMBURSING ANY SUM BORROWED AT ANY TIME AFTER      
+  70   96 6 THE EXPIRATION OF FIFTEEN YEARS FROM THE DATE OF SUCH LOAN;       
+  70   96 7 IN ORDER TO MOVE TO INSERT 8 YEARS.                               
+  71   97 1 A- -  -171A   J 6-1-276      HR        APRIL 30, 1800             
+  71   97 2 S061066       Y=15 N=10                READ, S.C.                 
+  71   97 3 TO PASS H.R. 210.                                                 
+  72   98 1 A- -  -171A   J 6-1-278      HR        MAY 1, 1800                
+  72   98 2 S061069       Y=16 N=8                 BROWN, KY.                 
+  72   98 3 TO PASS H.R. 248 (APP. MAY 7, 1800, 2 STAT 60), A BILL TO         
+  72   98 4 CONTINUE IN FORCE AN "ACT TO LAY ADDITIONAL DUTY ON SALT          
+  72   98 5 IMPORTED INTO THE U.S.," AND FOR OTHER PURPOSES.                  
+  73    6 1               EX J 1-351     SRE       MAY 5, 1800                
+  73    6 2 E061006       Y=13 N=13                                           
+  73    6 3 TO CONSENT TO THE NOMINATION OF JOSHUA JOHNSON TO BE              
+  73    6 4 SUPERINTENDENT OF STAMPS, ACCORDING TO THE ACT OF CONGRESS        
+  73    6 5 TO ESTABLISH A GENERAL STAMP OFFICE.  (VICE PRESIDENT VOTING      
+  73    6 6 IN THE AFFIRMATIVE.)                                              
+  74   99 1 A- -  -175    J 6-1-292      HR        MAY 7, 1800                
+  74   99 2 S061068       Y=7 N=17                 GOODHUE, MASS.             
+  74   99 3 TO AMEND H.R. 256 (APP. MAY 10, 1800, 2 STAT 72), A BILL          
+  74   99 4 SUPPLEMENTAL TO "AN ACT TO ESTABLISH THE COMPENSATION OF THE      
+  74   99 5 OFFICERS EMPLOYED IN THE COLLECTION OF THE DUTIES ON              
+  74   99 6 IMPORTS AND TONNAGE; BY STRIKING FROM THE 2ND SECTION OF THE      
+  74   99 7 BILL, THE PART WHICH ALLOWS AFTER JUNE 30TH NEXT, TO THE          
+  74   99 8 COLLECTOR OF THE DISTRICT OF BOSTON AND CHARLESTON AND TO         
+  74   99 9 THE COLLECTORS OF BALTIMORE AND PHILADELPHIA, THREE-EIGHTHS       
+  74   9910 OF ONE PER CENTUM ON ALL MONEYS COLLECTED BY THEM, IN LIEU        
+  74   9911 OF THE COMMISSIONS HERETOFORE ALLOWED BY LAW.                     
+  75  100 1 A- -  -176    J 6-1-295      S         MAY 8, 1800                
+  75  100 2 S061069       Y=15 N=11                ROSS, PA.                  
+  75  100 3 TO AGREE TO THE HOUSE AMENDMENT TO S. 58, TO SUBSTITUTE THE       
+  75  100 4 WORD "ADMITTING" FOR "REJECTING" IN THE EIGHTH SECTION            
+  75  100 5 RELATING TO VOTES BY A CONCURRENT VOTE OF THE TWO HOUSES.         
+  76  101 1 A- -  -177A   J 6-1-296      S         MAY 8, 1800                
+  76  101 2 S061070       Y=11 N=16                ROSS, PA.                  
+  76  101 3 TO AMEND A HOUSE AMENDMENT TO S. 58 BY STRIKING FROM THE          
+  76  101 4 FIRST SECTION OF THE AMENDMENT "OTHER THAN SUCH AS MAY            
+  76  101 5 MERELY QUESTION THE NUMBER OF VOTES BY WHICH THE ELECTORS         
+  76  101 6 MAY HAVE BEEN APPOINTED."                                         
+  77  102 1 A- -  -177B   J 6-1-297      S         MAY 8, 1800                
+  77  102 2 S061071       Y=16 N=11                ROSS, PA.                  
+  77  102 3 TO AGREE TO THE HOUSE AMENDMENTS TO S. 58 WHICH WERE AMENDED      
+  77  102 4 BY THE SENATE.                                                    
+  78  103 1 A- -  -179    J 6-1-305      S         MAY 10, 1800               
+  78  103 2 S061072       Y=11 N=16                                           
+  78  103 3 TO RECEDE FROM THE SENATE AMENDMENTS TO THE HOUSE AMENDMENTS      
+  78  103 4 TO S. 58.                                                         
+  79  104 1 A- -  -183    J 6-1-321      HR        MAY 14, 1800               
+  79  104 2 S061073       Y=5 N=14                 DEXTER, MASS.              
+  79  104 3 TO PASS H.R. 262, AN ACT TO PERMIT, IN CERTAIN CASES, THE         
+  79  104 4 BRINGING OF SLAVES INTO THE MISSISSIPPI TERRITORY.                
+  80  105 1 A- -  -184A   J 6-1-324      SRE       MAY 14, 1800               
+  80  105 2 S061074       Y=7 N=12                 BINGHAM, PA.               
+  80  105 3 TO READ THE PROTEST OF THE CITIZENS OF PHILADELPHIA AND           
+  80  105 4 THEIR PETITIONS TO RECONSIDER THE RESOLUTION OF THE SENATE        
+  80  105 5 CENSURING WILLIAM DUANE, EDITOR OF THE "AURORA", RELATIVE TO      
+  80  105 6 THE RESOLUTION AUTHORIZING AN INQUIRY BY THE COMMITTEE ON         
+  80  105 7 PRIVILEGES.                                                       
+  81  106 1 A- -  -1843C  J 6-1-326      HRE       MAY 14, 1800               
+  81  106 2 S061075       Y=13 N=4                                            
+  81  106 3 TO PASS THE RESOLUTION THAT THE PRESIDENT BE REQUESTED TO         
+  81  106 4 INSTRUCT THE PROPER LAW OFFICER TO COMMENCE AND CARRY ON A        
+  81  106 5 CERTAIN FALSE, DEFAMATORY, SCANDALOUS, AND MALICIOUS              
+  81  106 6 PROSECUTION AGAINST WILLIAM DUANE, EDITOR OF "AURORA"-, FOR       
+  81  106 7 PUBLICATIONS, IN THE SAID NEWSPAPER, ON THE 19TH OF               
+  81  106 8 FEBRUARY, TENDING TO DEFAME THE SENATE.                           
+  82    7 1 A-1-  -769A   EX J 1-365     SRE       JAN. 8, 1801               
+  82    7 2 E062001       Y=11 N=16                                           
+  82    7 3 TO CONSENT TO THE RATIFICATION OF THE SECOND ARTICLE OF THE       
+  82    7 4 TREATY WITH FRANCE OF SEPTEMBER, 1800.                            
+  83    8 1 A-1-  -769B   EX J 1-366     SRE       JAN. 8, 1801               
+  83    8 2 E062002       Y=12 N=15                                           
+  83    8 3 TO CONSENT TO RATIFICATION OF THE THIRD ARTICLE OF THE            
+  83    8 4 TREATY WITH FRANCE OF SEPT. 30, 1800.                             
+  84    9 1 A-1-  -770A   EX J 1-367A    SRE       JAN. 9, 1801               
+  84    9 2 E062003       Y=27 N=0                                            
+  84    9 3 TO ADOPT AN ADDITIONAL ARTICLE TO THE TREATY WITH FRANCE          
+  84    9 4 OF SEPT. 30, 1800 AGREEING THAT NOTHING IN THE TREATY             
+  84    9 5 SHALL BE CONSTRUED OR OPERATE CONTRARY TO FORMER AND              
+  84    9 6 EXISTING TREATIES WITH OTHER STATES OR SOVEREIGNS.                
+  85   10 1 A-1-  -770B   EX J 1-367B    SRE       JAN. 12, 1801              
+  85   10 2 E062004       Y=25 N=1                                            
+  85   10 3 TO ADOPT AN ARTICLE TO THE TREATY WITH FRANCE OF                  
+  85   10 4 SEPT. 30, 1800 TO LIMIT THE PERIOD FOR WHICH THE TREATY IS        
+  85   10 5 IN FORCE.                                                         
+  86   11 1 A-1-  -771A   EX J 1-368A    SRE       JAN. 15, 1801              
+  86   11 2 E062005       Y=10 N=15                                           
+  86   11 3 TO CONSENT TO THE RATIFICATION OF THE SECOND ARTICLE OF THE       
+  86   11 4 TREATY WITH FRANCE OF SEPT. 30, 1800.                             
+  87   12 1 A-1-  -771B   EX J 1-368B    SRE       JAN. 15, 1801              
+  87   12 2 E062006       Y=8 N=20                                            
+  87   12 3 TO AMEND AN AMENDMENT TO THE THIRD ARTICLE OF THE TREATY          
+  87   12 4 WITH FRANCE OF SEPT. 30, 1800 TO PROVIDE THAT MERCHANT            
+  87   12 5 SHIPS WHICH HAVE BEEN TAKEN SHALL BE RESTORED OR PAID FOR.        
+  88   13 1 A-1-  -771C   EX J 1-368C    SRE       JAN. 15, 1801              
+  88   13 2 E062007       Y=7 N=21                                            
+  88   13 3 TO AMEND THE THIRD ARTICLE OF THE TREATY WITH FRANCE OF           
+  88   13 4 SEPT. 30, 1800 TO PROVIDE THAT MERCHANT SHIPS THAT HAVE           
+  88   13 5 BEEN TAKEN, SHALL BE PAID FOR.                                    
+  89   14 1 A-1-  -772A   EX J 1-369A    SRE       JAN. 15, 1801              
+  89   14 2 E062008       Y=13 N=16                                           
+  89   14 3 TO CONSENT TO THE RATIFICATION OF THE THIRD ARTICLE OF THE        
+  89   14 4 TREATY WITH FRANCE OF SEPT. 30, 1800.                             
+  90   15 1 A-1-  -772B   EX J 1-369B    SRE       JAN. 15, 1801              
+  90   15 2 E062009       Y=28 N=0                                            
+  90   15 3 TO ADOPT AN ADDITIONAL ARTICLE TO THE TREATY WITH FRANCE          
+  90   15 4 OF SEPT. 30, 1800 WHICH PROVIDES THAT NOTHING CONTAINED IN        
+  90   15 5 THE TREATY IS TO CONTRADICT FORMER OR EXISTING TREATIES WITH      
+  90   15 6 OTHER STATES.                                                     
+  91   16 1 A-1-  -772C   EX J 1-369C    SRE       JAN. 15, 1801              
+  91   16 2 E062010       Y=9 N=19                                            
+  91   16 3 TO AMEND AN ARTICLE TO THE TREATY WITH FRANCE OF                  
+  91   16 4 SEPT. 30, 1800 TO PROVIDE THAT THE TREATY SHALL BE IN FORCE       
+  91   16 5 FOR TEN YEARS.                                                    
+  92   17 1 A-1-  -772D   EX J 1-369D    SRE       JAN. 15, 1801              
+  92   17 2 E062011       Y=28 N=0                                            
+  92   17 3 TO AMEND AN ARTICLE TO THE TREATY WITH FRANCE OF                  
+  92   17 4 SEPT. 30, 1800 TO PROVIDE THAT THE TREATY SHALL BE IN FORCE       
+  92   17 5 FOR EIGHT YEARS.                                                  
+  93   18 1 A-1-  -772E   EX J 1-370A    SRE       JAN. 15, 1801              
+  93   18 2 E062012       Y=4 N=23                                            
+  93   18 3 TO DECIDE WHETHER THE WORDS MOVED TO BE STRICKEN FROM             
+  93   18 4 AN ARTICLE OF THE TREATY WITH FRANCE OF SEPT. 30, 1800 SHALL      
+  93   18 5 STAND.  THE WORDS ARE: "UNTIL TWO YEARS, TO BE COMPUTED           
+  93   18 6 FROM THE DAY OF THE SIGNATURE OF THE PRELIMINARY OR OTHER         
+  93   18 7 ARTICLES OF PEACE, WHICH SHALL CONCLUDE THE WAR IN WHICH          
+  93   18 8 THE FRENCH NATION IS NOW ENGAGED."                                
+  94   19 1 A-1-  -773    EX J 1-370B    SRE       JAN. 15, 1801              
+  94   19 2 E062013       Y=26 N=1                                            
+  94   19 3 TO CONSENT TO RATIFICATION OF THE ARTICLE OF THE TREATY           
+  94   19 4 WITH FRANCE OF SEPT. 30, 1800 WHICH PROVIDES THAT THE             
+  94   19 5 PRESENT CONVENTION SHALL BE IN FORCE FOR EIGHT YEARS.             
+  95   20 1 A-1-  -774    EX J 1-372     REP       JAN. 21, 1801              
+  95   20 2 E062014       Y=6 N=22                                            
+  95   20 3 TO AMEND THE REPORT OF THE SELECT COMMITTEE BY ADDING THE         
+  95   20 4 WORDS "AND NINETEENTH" AFTER THE WORD "THIRD" TO THE              
+  95   20 5 PROVISIO THAT THE SECOND AND THIRD ARTICLES BE EXPURGED AND       
+  95   20 6 TWO NEW ARTICLES BE ADDED TO TREATY WITH FRANCE OF                
+  95   20 7 SEPT. 30, 1800.                                                   
+  96  107 1 A- -  -735    J 6-2-43       HR        JAN. 22, 1801              
+  96  107 2 S092001       Y=16 N=12                NICHOLAS, VA.              
+  96  107 3 TO AMEND H.R. 270, A BILL TO ERECT A MAUSOLEUM FOR                
+  96  107 4 GEORGE WASHINGTON, BY STRIKING OUT ALL AFTER THE ENACTING         
+  96  107 5 CLAUSE.                                                           
+  97   21 1 A-1-  -775A   EX J 1-373A    SRE       JAN. 23, 1801              
+  97   21 2 E062015       Y=17 N=13                                           
+  97   21 3 TO DECIDE IF THE FIRST PART OF THE RESOLUTION CONTAINED IN        
+  97   21 4 THE REPORT OF THE SELECT COMMITTEE ON THE TREATY WITH             
+  97   21 5 FRANCE OF SEPT. 30, 1800, SHALL STAND, SAID PART TO PROVIDE       
+  97   21 6 THAT THE SECOND ARTICLE OF THE TREATY BE EXPURGED.                
+  98   22 1 A-1-  -775B   EX J 1-373B    SRE       JAN. 23, 1801              
+  98   22 2 E062016       Y=16 N=17                                           
+  98   22 3 TO DECIDE IF THE SECOND PART OF THE RESOLUTION CONTAINED IN       
+  98   22 4 THE REPORT OF THE SELECT COMMITTEE ON THE TREATY WITH             
+  98   22 5 FRANCE OF SEPT. 30, 1800 SHALL STAND; SAID PART TO PROVIDE        
+  98   22 6 THAT THE THIRD ARTICLE OF THE TREATY BE EXPURGED.                 
+  99   23 1 A-1-  -775C   EX J 1-373C    SRE       JAN. 23, 1801              
+  99   23 2 E062017       Y=17 N=13                                           
+  99   23 3 TO DECIDE IF THE PART OF THE RESOLUTION CONTAINED IN THE          
+  99   23 4 REPORT OF THE SELECT COMMITTEE ON THE TREATY WITH FRANCE          
+  99   23 5 OF SEPT. 30, 1800, SHALL STAND; SAID PART RESTRAINS THE           
+  99   23 6 TREATY FROM OPERATING AGAINST FORMER TREATIES.                    
+ 100   24 1 A-1-  -775D   EX J 1-373D    SRE       JAN. 23, 1801              
+ 100   24 2 E062018       Y=24 N=6                                            
+ 100   24 3 TO DECIDE IF THE PART OF THE RESOLUTION CONTAINED IN THE          
+ 100   24 4 REPORT OF THE SELECT COMMITTEE ON THE TREATY WITH                 
+ 100   24 5 FRANCE OF SEPT. 30, 1800 SHALL STAND; SAID PART TO PROVIDE        
+ 100   24 6 A LIMITATION OF TIME FOR THE DURATION OF THE TREATY.              
+ 101   25 1 A-1-  -776    EX J 1-374     SRE       JAN. 23, 1801              
+ 101   25 2 E062019       Y=16 N=14                                           
+ 101   25 3 TO AGREE TO THE AMENDED REPORT OF THE SELECT COMMITTEE ON         
+ 101   25 4 THE TREATY WITH FRANCE OF SEPT. 30, 1800.                         
+ 102   26 1               EX J 1-375     SRE       FEB. 3, 1801               
+ 102   26 2 E062020       Y=25 N=5                                            
+ 102   26 3 TO ADVISE AND CONSENT TO THE NOMINATION OF ROGER GRISWOLD         
+ 102   26 4 AS SECRETARY OF WAR.                                              
+ 103   27 1 A-1-  -777A   EX J 1-376     SRE       FEB. 3, 1801               
+ 103   27 2 E062021       Y=30 N=1                                            
+ 103   27 3 TO DECIDE WHETHER THE SECOND ARTICLE OF THE TREATY WITH           
+ 103   27 4 FRANCE OF SEPT. 30, 1800 SHALL STAND;  SAID ARTICLE PROVIDES      
+ 103   27 5 THAT THE DURATION OF THE TREATY BE EIGHT YEARS.                   
+ 104   28 1 A-1-  -777B   EX J 1-377A    SRE       FEB. 3, 1801               
+ 104   28 2 E062022       Y=18 N=13                                           
+ 104   28 3 TO DECIDE IF THE THIRD ARTICLE OF THE TREATY WITH FRANCE          
+ 104   28 4 OF SEPT. 30, 1800 SHALL STAND; SAID ARTICLE RESTRAINS THE         
+ 104   28 5 THE TREATY FROM OPERATING AGAINST FORMER TREATIES.                
+ 105   29 1 A-1-  -778    EX J 1-377B    SRE       FEB. 3, 1801               
+ 105   29 2 E062023       Y=22 N=9                                            
+ 105   29 3 TO CONSENT TO RATIFICATION OF THE TREATY WITH FRANCE, OF          
+ 105   29 4 SEPT. 30, 1800 PROVIDED THAT ARTICLE BE INSERTED MAKING THE       
+ 105   29 5 DURATION OF THE TREATY EIGHT YEARS.                               
+ 106  108 1 A- -  -738    J 6-2-52       HR        FEB. 4, 1801               
+ 106  108 2 S062002       Y=20 N=9                 NICHOLAS, VA.              
+ 106  108 3 TO PASS H.R. 270, A BILL TO ERECT A MAUSOLEUM FOR                 
+ 106  108 4 GEORGE WASHINGTON.                                                
+ 107  109 1 A- -  -739A   J 6-2-54       HR        FEB. 5, 1801               
+ 107  109 2 S062003       Y=12 N=17                HILLHOUSE, CONN.           
+ 107  109 3 TO AMEND H.R. 275 (APP. FEB. 13, 1801, 2 STAT 89), A BILL         
+ 107  109 4 TO PROVIDE FOR THE MORE CONVENIENT ORGANIZATION OF THE            
+ 107  109 5 COURTS; BY PREVENTING RAISING SALARIES OF CERTAIN DISTRICT        
+ 107  109 6 JUDGES.                                                           
+ 108  110 1 A- -  -439B   J 6-2-56       HR        FEB. 6, 1801               
+ 108  110 2 S062004       Y=14 N=16                HILLHOUSE, CONN.           
+ 108  110 3 TO AMEND H.R. 275 BY CHANGING THE TIME OF COURT SESSION.          
+ 109  111 1 A- -  -740    J 6-2-57       HR        FEB. 6, 1801               
+ 109  111 2 S062005       Y=13 N=16                HILLHOUSE, CONN.           
+ 109  111 3 TO AMEND H.R. 275, BY REDUCING THE SALARIES OF CIRCUIT            
+ 109  111 4 JUDGES.                                                           
+ 110  112 1 A- -  -741A   J 6-2-60A      HR        FEB. 6, 1801               
+ 110  112 2 S062006       Y=13 N=17                HILLHOUSE, CONN.           
+ 110  112 3 TO AMEND H.R. 275 BY ESTABLISHING FOUR CIRCUIT                    
+ 110  112 4 COURTS, INCREASING THE SUPREME COURT FROM SIX TO EIGHT            
+ 110  112 5 MEMBERS, ASSIGNING SUPREME COURT JUSTICES TO THE CIRCUIT          
+ 110  112 6 COURTS, AND TO PRESCRIBE RULES TOUCHING THE SUPREME COURT.        
+ 111  113 1 A- -  -741C   J 6-2-60B      HR        FEB. 6, 1801               
+ 111  113 2 S062007       Y=18 N=12                HILLHOUSE, CONN.           
+ 111  113 3 TO ORDER THIRD READING OF H.R. 275.                               
+ 112  114 1 A- -  -741C   J 6-2-62       HR        FEB. 7, 1801               
+ 112  114 2 S062008       Y=9 N=14                 HILLHOUSE, CONN.           
+ 112  114 3 TO AMEND H.R. 275, BY CHANGING THE LOCATION OF THE CIRCUIT        
+ 112  114 4 COURT IN KENTUCKY.                                                
+ 113  115 1 A- -  -742    J 6-2-63       HR        FEB. 7, 1801               
+ 113  115 2 S062009       Y=16 N=11                HILLHOUSE, CONN.           
+ 113  115 3 TO PASS H.R. 275.                                                 
+ 114  116 1 A- -  -743    J 6-2-66       HRE       FEB. 10, 1801              
+ 114  116 2 S062010       Y=16 N=10                MORRIS, N.Y.               
+ 114  116 3 TO EXCLUDE THE PUBLIC FROM THE GALLERIES DURING THE               
+ 114  116 4 COUNTING OF THE VOTES FOR PRESIDENT.                              
+ 115   30 1               EX J 1-383     SRE       FEB. 20, 1801              
+ 115   30 2 E062024       Y=20 N=9                                            
+ 115   30 3 TO CONSENT TO THE APPOINTMENT OF PHILIP KEY AS JUDGE OF THE       
+ 115   30 4 FOURTH CIRCUIT OF THE UNITED STATES.                              
+ 116   31 1               EX J 1-384     SRE       FEB. 23, 1801              
+ 116   31 2 E062025       Y=18 N=8                                            
+ 116   31 3 TO ADVISE AND CONSENT TO THE NOMINATION OF                        
+ 116   31 4 WILLIAM S. SMITH AS SURVEYOR FOR THE DISTRICT OF NEW YORK         
+ 116   31 5 AND INSPECTOR OF REVENUE FOR THAT DISTRICT.                       
+ 117  117 1 A- -  -752    J 6-2-93       S         FEB. 26, 1801              
+ 117  117 2 S062011A      Y=12 N=16                CHIPMAN, VT.               
+ 117  117 3 TO AMEND S. 68 (APP. FEB. 27, 1801, 2 STAT 103) AN ACT            
+ 117  117 4 CONCERNING DISTRICT OF COLUMBIA, BY PROVIDING FOR THE             
+ 117  117 5 ARREST AND TRIAL OF DEBTORS FROM THE DISTRICT OF COLUMBIA.        
+ 118  118 1 A- -  -755    J 6-2-107      HRE       MAR. 2, 1801               
+ 118  118 2 S062011B      Y=9 N=19                 MORRIS, N.Y.               
+ 118  118 3 TO AMEND THE RESOLUTION MADE IN ANSWER TO THE                     
+ 118  118 4 VICE PRESIDENT'S ADDRESS MADE UPON HIS TAKING LEAVE OF THE        
+ 118  118 5 SENATE, ASSURING MR. ADAMS OF THE SENATE'S CONFIDENCE IN          
+ 118  118 6 HIS OFFICIAL CONDUCT; SAID AMENDMENT TO DELETE THE PHRASE         
+ 118  118 7 WHICH WOULD BASE SUCH CONFIDENCE ON PAST EVENTS.                  
+ 119  119 1 A- -  -758    J 6-2-116      HR        MAR. 3, 1801               
+ 119  119 2 S062012       Y=14 N=13                DAYTON, N.J.               
+ 119  119 3 TO POSTPONE H.R. 270, A BILL TO ERECT A MAUSOLEUM FOR             
+ 119  119 4 GEORGE WASHINGTON.                                                
+ 120  120 1 A- -  -759    J 6-2-118      HR        MAR. 3, 1801               
+ 120  120 2 S062013       Y=13 N=12                HILLHOUSE, CONN.           
+ 120  120 3 TO PASS H.R. 314, (APP. MAR. 3, 1801, 2 STAT 121), AN ACT         
+ 120  120 4 TO AUGMENT THE SALARIES OF CERTAIN DISTRICT JUDGES.               

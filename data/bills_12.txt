@@ -1,0 +1,1112 @@
+   1    1 1               EX J 2-189     SRE       NOV. 14, 1811              
+   1    1 2 E121001       Y=24 N=7                 GILES, VA.                 
+   1    1 3 TO REFER THE NOMINATION OF JAMES MONROE AS SECRETARY OF           
+   1    1 4 STATE TO A SELECT COMMITTEE.  (P. 187, 189)                       
+   2    2 1               EX J 2-192     SRE       NOV. 25, 1811              
+   2    2 2 E121002       Y=30 N=0                 GILES, VA.                 
+   2    2 3 TO ADVISE AND CONSENT TO THE APPOINTMENT OF JAMES MONROE AS       
+   2    2 4 SECRETARY OF STATE.  (P. 187, 192)                                
+   3    3 1               EX J 2-193     SRE       DEC. 2, 1811               
+   3    3 2 E121003       Y=24 N=8                 TAYLOR, S.C.               
+   3    3 3 TO CONSENT TO THE NOMINATION OF JOHN R. FENWICK TO BE             
+   3    3 4 LIEUTENANT COLONEL OF THE REGIMENT OF LIGHT ARTILLERY.            
+   3    3 5 (P. 191, 193)                                                     
+   4   41 1 A 23- -26A    J 12-1-17A     HR        DEC. 2, 1811               
+   4   41 2 S121001       Y=18 N=16                BAYARD, DEL.               
+   4   41 3 TO AMEND H.R. 8, (2 STAT. 669, 12/21/1811), A BILL PROVIDING      
+   4   41 4 FOR THE APPORTIONMENT OF REPRESENTATIVES AMONG THE                
+   4   41 5 SEVERAL STATES ACCORDING TO THE THIRD ENUMERATION, BY             
+   4   41 6 ELIMINATING THE WORDS, THIRTY-SEVEN, THUS LEAVING THE NUMBER      
+   4   41 7 OF REPRESENTATIVES TO BE APPORTIONED BLANK.  (P. 26)              
+   5   42 1 A 23- -26B    J 12-1-17B     HR        DEC. 2, 1811               
+   5   42 2 S121002       Y=13 N=21                TAYLOR, S.C.               
+   5   42 3 TO AMEND H.R. 8, BY PROVIDING FOR A TOTAL OF FORTY                
+   5   42 4 REPRESENTATIVES.  (P. 26)                                         
+   6   43 1 A 23- -26C    J 12-1-17C     HR        DEC. 2, 1811               
+   6   43 2 S121003       Y=22 N=12                BAYARD, DEL.               
+   6   43 3 TO AMEND H.R. 8, BY STIPULATING THIRTY-FIVE AS BEING THE          
+   6   43 4 TOTAL NUMBER OF REPRESENTATIVES.  (P. 26)                         
+   7   44 1 A 23- -27     J 12-1-18      S         DEC. 3, 1811               
+   7   44 2 S121004       Y=16 N=11                GERMAN, N.Y.               
+   7   44 3 TO AMEND S. 4, (2 STAT. 720, 4/29/1812), A BILL MAKING            
+   7   44 4 FURTHER PROVISIONS FOR THE CORPS OF ENGINEERS, BY                 
+   7   44 5 ELIMINATING FROM SECTION FIVE THE FOLLOWING WORDS, "AT SUCH       
+   7   44 6 PLACE AS SHALL BE DESIGNATED BY THE PRESIDENT".  (P. 27)          
+   8   45 1 A 23- -29     J 12-1-20      HR        DEC. 6, 1811               
+   8   45 2 S121005       Y=21 N=13                LEIB, PA.                  
+   8   45 3 TO AMEND H.R. 8, BY PROVIDING FOR THE SENATE TO APPOINT           
+   8   45 4 THREE MANAGERS TO GO INTO CONFERENCE ON THE AMENDMENT             
+   8   45 5 REJECTED BY THE HOUSE.  (P. 29)                                   
+   9   46 1 A 23- -31     J 12-1-22      HR        DEC. 11, 1811              
+   9   46 2 S121006A      Y=18 N=16                BAYARD, DEL.               
+   9   46 3 TO ADHERE TO THE AMENDMENTS TO H.R. 8.  (P. 31)                   
+  10   47 1 A 23- -33     J 12-1-24      S         DEC. 16, 1811              
+  10   47 2 S121006B      Y=28 N=0                 GILES, VA.                 
+  10   47 3 TO PASS S. 5 (2 STAT. L. 669, 12/24/1811), A BILL FOR             
+  10   47 4 COMPLETING THE EXISTING MILITARY ESTABLISHMENT.                   
+  11   48 1 A 23- -34A    J 12-1-24B     S         DEC. 17, 1811              
+  11   48 2 S121007       Y=2 N=31                 REED, MD.                  
+  11   48 3 TO AMEND S. 6 (2 STAT. 671, 1/11/1812) A BILL RAISING FOR         
+  11   48 4 A LIMITED TIME AN ADDITIONAL MILITARY FORCE, BY ELIMINATING       
+  11   48 5 FROM SECTION ONE, LINE THREE, THE WORD, "TEN" REGIMENTS IN        
+  11   48 6 ORDER TO INSERT THE WORD "TWENTY" REGIMENTS.  (P. 34)             
+  12   49 1 A 23- -34B    J 12-1-24C     S         DEC. 17, 1811              
+  12   49 2 S121008       Y=19 N=14                BIBB, KY.                  
+  12   49 3 TO AMEND S. 6, BY ELIMINATING THE PROVISION THAT EVERY            
+  12   49 4 COMMISSIONED AND STAFF OFFICER TO BE APPOINTED IN VIRTUE OF       
+  12   49 5 THIS ACT SHALL BE A CITIZEN OF THE U.S.  (P. 34)                  
+  13   50 1 A 23- -35     J 12-1-25      S         DEC. 17, 1811              
+  13   50 2 S121009       Y=10 N=23                CAMPBELL, TENN.            
+  13   50 3 TO AMEND S. 6, BY ELIMINATING FROM SECTION 12 THE PROVISION       
+  13   50 4 GIVING ANY NON-COMMISSIONED OFFICER OR SOLDIER, DISCHARGED        
+  13   50 5 FOR FAITHFULLY PERFORMED DUTY, THREE MONTHS PAY AND .....         
+  13   50 6 ACRES OF LAND, ALSO TO THE HEIRS OF THOSE NON-COMMISSIONED        
+  13   50 7 OFFICERS OR SOLDIERS WHO MAY BE KILLED IN ACTION, AND             
+  13   50 8 INSERTING IN LIEU THEREOF, THAT EVERY NON-COMMISSIONED            
+  13   50 9 OFFICER OR SOLDIER, AFTER SERVING 5 YEARS, OR BEING KILLED        
+  13   5010 IN LINE OF DUTY, SHALL RECEIVE THREE MONTHS PAY AND A LAND        
+  13   5011 WARRENT FOR 160 ACRES.                                            
+  14   51 1 A 23- -84     J 12-1-26      S         DEC. 19, 1811              
+  14   51 2 S121010       Y=12 N=21                ANDERSON, TENN.            
+  14   51 3 TO AMEND S. 6 BY ELIMINATING FROM SECTION ONE, LINE THREE,        
+  14   51 4 THE WORD, "TEN" REGIMENTS.                                        
+  15   52 1 A 23- -85     J 12-1-27      S         DEC. 20, 1811              
+  15   52 2 S121011       Y=26 N=4                 GILES, VA.                 
+  15   52 3 TO PASS S. 6.  (P. 85)                                            
+  16   53 1 A 23- -92     J 12-1-32      S         DEC. 31, 1811              
+  16   53 2 S121012       Y=21 N=4                 GILES, VA.                 
+  16   53 3 TO PASS S. 8, A BILL EXTENDING THE TIME OF CERTAIN PATENTS        
+  16   53 4 GRANTED TO ROBERT FULTON.  (P. 92)                                
+  17   54 1 A 23- -96A    J 12-1-36A     S         JAN. 8, 1812               
+  17   54 2 S121013       Y=3 N=24                 GILES, VA.                 
+  17   54 3 TO AGREE TO THE HOUSE AMENDMENT TO S. 6, WHICH AMENDMENT          
+  17   54 4 PROVIDES THAT COMMISSIONED OFFICERS FOR SIX ONLY OF THE           
+  17   54 5 SAID REGIMENTS SHALL BE APPOINTED UNTIL THREE-FOURTHS OF THE      
+  17   54 6 PRIVATES REQUISITE TO COMPLETE SUCH SIX REGIMENTS HAVE            
+  17   54 7 BEEN ENLISTED, WHEN THE COMMISSIONED OFFICERS FOR THE             
+  17   54 8 REMAINING SEVEN REGIMENTS SHALL BE APPOINTED.  (P. 96)            
+  18   55 1 A 23- -96B    J 12-1-36B     S         JAN. 8, 1812               
+  18   55 2 S121014       Y=1 N=25                 GILES, VA.                 
+  18   55 3 TO AGREE TO THE HOUSE AMENDMENT TO S. 6, WHICH AMENDMENT          
+  18   55 4 PROVIDES THAT OFFICERS APPOINTED BY THIS ACT SHALL CONTINUE       
+  18   55 5 IN COMMISSION DURING SUCH TERM ONLY AS THE PRESIDENT SHALL        
+  18   55 6 JUDGE REQUISITE FOR THE PUBLIC SERVICE, THE PRESIDENT TO          
+  18   55 7 DISCHARGE THE WHOLE OR ANY PART OF THE TROOPS WHENEVER HE         
+  18   55 8 DEEMS IT SAFE FOR PUBLIC WELFARE.  (P. 96)                        
+  19    4 1               EX J 2-205     SRE       JAN. 10, 1812              
+  19    4 2 E121004       Y=0 N=26                 ANDERSON, TENN.            
+  19    4 3 TO RATIFY THE TREATY BETWEEN THE UNITED STATES AND THE            
+  19    4 4 CHEROKEE NATION OF INDIANS MADE AND CONCLUDED AT                  
+  19    4 5 CHICKAMOGGA ON THE TENNESSEE RIVER.                               
+  20   56 1 A 23- -99     J 12-1-39      HR        JAN. 13, 1812              
+  20   56 2 S121015A      Y=22 N=0                 GILES, VA.                 
+  20   56 3 TO PASS H.R. 22, (2 STAT. 674, 1/14/1812), A BILL                 
+  20   56 4 AUTHORIZING THE PURCHASE OF ORDNANCE AND ORDNANCE STORES,         
+  20   56 5 CAMP EQUIPMENT AND OTHER QUARTERMASTER STORES AND SMALL           
+  20   56 6 ARMS.  (P. 99)                                                    
+  21   57 1 A 23- -103    J 12-1-42      S         JAN. 21, 1812              
+  21   57 2 S121015B      Y=21 N=1                 SMITH, MD.                 
+  21   57 3 TO AGREE TO THE AMENDMENT TO THE BILL REGULATING THE              
+  21   57 4 COLLECTION OF THE DUTIES ON IMPORTS AND TONNAGE, WHICH            
+  21   57 5 AMENDMENT PROPOSES TO INSERT AT THE END OF THE FOURTEENTH         
+  21   57 6 LINE, THE WORDS "UNLESS THE CLAIMANT SHALL SWEAR BEFORE THE       
+  21   57 7 COLLECTOR OF THE PORT THAT THE INVOICE HAS NEITHER BEEN           
+  21   57 8 RECEIVED BY HIM OR THEM NOR BY ANY OTHER PERSON FOR HIS OR        
+  21   57 9 THIER USE OR BEHALF."  (P. 103)                                   
+  22    5 1               EX J 2-207     SRE       JAN. 27, 1812              
+  22    5 2 E121005       Y=23 N=9                                            
+  22    5 3 TO CONSENT TO THE NOMINATION OF HENRY DEARBORN AS MAJOR           
+  22    5 4 GENERAL IN THE UNITED STATES ARMY.  (P. 206, 207)                 
+  23   58 1 A 23- -106    J 12-1-46A     S         JAN. 28, 1812              
+  23   58 2 S121016       Y=10 N=19                GILMAN, N.H.               
+  23   58 3 TO POSTPONE CONSIDERATION OF THE BILL, IN ADDITION TO AN ACT      
+  23   58 4 SUPPLEMENTARY TO THE ACT ENTITLED AN "ACT CONCERNING THE          
+  23   58 5 COMMERCIAL INTERCOURSE BETWEEN THE UNITED STATES AND GREAT        
+  23   58 6 BRITAIN AND FRANCE AND THEIR DEPENDENCIES," UNTIL THE FIRST       
+  23   58 7 MONDAY IN JUNE NEXT.  (P. 106)                                    
+  24   59 1 A 23- -107    J 12-1-46B     S         JAN. 28, 1812              
+  24   59 2 S121017       Y=27 N=2                 LLOYD, MASS.               
+  24   59 3 TO POSTPONE FURTHER CONSIDERATION OF A BILL IN ADDITION TO        
+  24   59 4 AN ACT ENTITLED "AN ACT SUPPLEMENTARY TO THE ACT ENTITLED         
+  24   59 5 'AN ACT CONCERNING THE COMMERCIAL INTERCOURSE BETWEEN THE         
+  24   59 6 UNITED STATES AND GREAT BRITAIN AND FRANCE AND THEIR              
+  24   59 7 DEPENDENCIES,'" UNTIL THE FIRST MONDAY IN MARCH NEXT.             
+  24   59 8 (P. 107)                                                          
+  25   60 1 A 23- -115    J 12-1-50      S         FEB. 5, 1812               
+  25   60 2 S121018       Y=11 N=13                LEIB, PA.                  
+  25   60 3 TO POSTPONE FURTHER CONSIDERATION OF S. 16, A BILL                
+  25   60 4 INCORPORATING MOSES AUSTIN, JOHN RICE JONES, HENRY AUSTIN,        
+  25   60 5 AND OTHERS INTO THE LOUISIANA LEAD COMPANY, UNTIL THE FIRST       
+  25   60 6 MONDAY IN DECEMBER.  (P. 115)                                     
+  26   61 1 A 23- -119A   J 12-1-53A     SRE       FEB. 10, 1812              
+  26   61 2 S121019       Y=11 N=14                BRADLEY, VT.               
+  26   61 3 TO REFER TO A SELECT COMMITTEE, THE RESOLUTION PROVIDING          
+  26   61 4 THAT THE SECRETARY OF THE TREASURY FURNISH THE HOUSE WITH A       
+  26   61 5 STATEMENT SHOWING THE NUMBER OF VESSELS, AMOUNT OF                
+  26   61 6 MERCHANDISE OF THE UNITED STATES AND TERRITORIES EXPORTED TO      
+  26   61 7 FRANCE, SUBSEQUENT TO THE REPEAL OF BERLIN AND MILAN DECREE,      
+  26   61 8 ALSO STATING THE AMOUNT OF DUTIES DUE TO FRANCE ON EACH           
+  26   61 9 ARTICLE AND AFTER SUCH REPEAL.  (P. 103)                          
+  27   62 1 A 23- -119B   J 12-1-53B     SRE       FEB. 10, 1812              
+  27   62 2 S121020       Y=20 N=11                ANDERSON, TENN.            
+  27   62 3 TO POSTPONE FURTHER CONSIDERATION OF THE RESOLUTION               
+  27   62 4 PROVIDING THAT THE SECRETARY OF THE TREASURY FURNISH THE          
+  27   62 5 HOUSE WITH A STATEMENT SHOWING THE NUMBER OF VESSELS, AMOUNT      
+  27   62 6 OF MERCHANDISE OF THE UNITED STATES AND TERRITORIES               
+  27   62 7 EXPORTED TO FRANCE SUBSEQUENT TO REPEAL OF THE BERLIN AND         
+  27   62 8 MILAN DECREE, ALSO STATING THE AMOUNT OF DUTIES DUE TO            
+  27   62 9 FRANCE ON EACH ARTICLE BEFORE AND AFTER SUCH REPEAL.              
+  27   6210 (P. 119)                                                          
+  28   63 1 A 23- -121    J 12-1-56      S         FEB. 12, 1812              
+  28   63 2 S121021       Y=10 N=15                REED, MD.                  
+  28   63 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE AMENDED BILL        
+  28   63 4 FOR ESTABLISHING RULES AND ARTICLES FOR THE GOVERNMENT OF         
+  28   63 5 THE ARMIES OF THE UNITED STATES.  (P. 121)                        
+  29   64 1 A 23- -147    J 12-1-66A     SRE       MAR. 2, 1812               
+  29   64 2 S121022       Y=12 N=14                ANDERSON, TENN.            
+  29   64 3 TO REFER TO A SELECT COMMITTEE, THE AMENDED RESOLUTION            
+  29   64 4 PROPOSING TO DIRECT THE SECRETARY OF THE TREASURY TO              
+  29   64 5 EXHIBIT A STATEMENT OF THE NUMBER OF VESSELS, AMOUNT OF           
+  29   64 6 TONNAGE AND MERCHANDISE PRODUCED IN THE UNITED STATES AND         
+  29   64 7 TERRITORIES, EXPORTED TO FRANCE SUBSEQUENT TO REPEAL OF THE       
+  29   64 8 BERLIN-MILAN DECREE AND STATING THE DUTIES PAID IN PORTS OF       
+  29   64 9 FRANCE BEFORE AND SINCE THAT TIME.  (P. 147)                      
+  30   65 1 A 23- -148    J 12-1-66B     SRE       MAR. 2, 1812               
+  30   65 2 S121023       Y=17 N=12                LLOYD, MASS.               
+  30   65 3 TO AMEND THE PROPOSED RESOLUTION TO DIRECT THE SECRETARY OF       
+  30   65 4 THE TREASURY TO EXHIBIT A STATEMENT OF THE NUMBER OF              
+  30   65 5 VESSELS, AMOUNT OF TONNAGE AND MERCHANDISE PRODUCED IN THE        
+  30   65 6 UNITED STATES AND TERRITORIES, EXPORTED TO FRANCE                 
+  30   65 7 SUBSEQUENT TO REPEAL OF THE BERLIN-MILAN DECREE AND STATING       
+  30   65 8 THE DUTIES PAID IN PORTS OF FRANCE BEFORE AND SINCE THAT          
+  30   65 9 TIME, BY INCLUDING COLONIAL PRODUCE IN THE STATEMENT OF           
+  30   6510 AMOUNT OF TONNAGE AND MERCHANDISE.  (P. 148)                      
+  31   66 1 A 23- -164    J 12-1-70      HR        MAR. 6, 1812               
+  31   66 2 S121024       Y=13 N=19                LLOYD, MASS.               
+  31   66 3 TO AMEND H.R. 24, (2 STAT. 699, 3/30O1812), A BILL                
+  31   66 4 CONCERNING THE NAVAL ESTABLISHMENT, BY ADDING A NEW SECTION       
+  31   66 5 AUTHORIZING THE PRESIDENT TO CAUSE TO BE BUILT, FRIGATES OF       
+  31   66 6 A RATE NOT EXCEEDING 36 GUNS EACH AND AUTHORIZING A SUM FOR       
+  31   66 7 BUILDING SAID FRIGATES.  (P. 164)                                 
+  32   67 1 A 23- -167    J 12-1-72      SRE       MAR. 10, 1812              
+  32   67 2 S121025       Y=24 N=                  LLOYD, MASS.               
+  32   67 3 TO AGREE TO THE RESOLUTION THAT THE PRESIDENT BE REQUESTED        
+  32   67 4 TO CAUSE TO BE LAID BEFORE THE SENATE, ANY INFORMATION            
+  32   67 5 RESPECTING THE NAMES OF ANY AND ALL PERSONS IN THE                
+  32   67 6 UNITED STATES WHO HAVE IN ANY WAY ENTERED INTO, OR                
+  32   67 7 COUNTENANCED THE VIEWS FOR THE EXECUTION OR ATTAINMENT OF         
+  32   67 8 WHICH JOHN HENRY WAS, IN THE YEAR 1809, EMPLOYED BY               
+  32   67 9 SIR JAMES CRAIG, THEN GOVERNOR GENERAL OF THE BRITISH             
+  32   6710 PROVINCES IN NORTH AMERICA AND WHICH THIS DAY BEEN                
+  32   6711 COMMUNICATED TO THE SENATE OF THE UNITED STATES.  (P. 169)        
+  33    6 1               EX J 2-237     SRE       MAR. 16, 1812              
+  33    6 2 E121006       Y=6 N=18                 GREGG, PA.                 
+  33    6 3 TO CONSENT TO THE NOMINATION OF WILLIAM WILKINS AS                
+  33    6 4 LIEUTENANT COLONEL OF INFANTRY.  (P. 225, 237)                    
+  34   68 1 A 23- -174A   J 12-1-79A     S         MAR. 18, 1812              
+  34   68 2 S121026       Y=6 N=22                 BRADLEY, VT.               
+  34   68 3 TO AMEND S. 67, A BILL FOR THE RELIEF OF THE REPRESENTATIVES      
+  34   68 4 OF SAMUEL LAPSLEY, DECEASED, BY ADDING AN ADDITIONAL              
+  34   68 5 SECTION PROVIDING THAT THE ACCOUNTING OFFICERS OF THE             
+  34   68 6 TREASURY SHALL ADJUST AND SETTLE A FINAL SETTLEMENT               
+  34   68 7 CERTIFICATE FOR $58 AND INTEREST FROM THE FIRST DAY OF            
+  34   68 8 JAN. 1783 IN THE NAME OF JOSEPH YOUNG, TO BE PAID TO SAID         
+  34   68 9 JOSEPH YOUNG OUT OF THE MONEY IN THE TREASURY NOT OTHERWISE       
+  34   6810 APPROPRIATED.  (P. 174)                                           
+  35   69 1 A 23- -174B   J 12-1-79B     S         MAR. 18, 1812              
+  35   69 2 S121027       Y=14 N=15                POPE, KY.                  
+  35   69 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 67, A BILL FOR       
+  35   69 4 THE RELIEF OF THE REPRESENTATIVES OF SAMUEL LAPSLEY,              
+  35   69 5 DECEASED.  (P. 174)                                               
+  36   70 1 A 23- -180A   J 12-1-84      HR        MAR. 26, 1812              
+  36   70 2 S121028       Y=13 N=15                GERMAN, N.Y.               
+  36   70 3 TO AMEND H.R. 76, (2 STAT. 704, 4/10/1812), A BILL FOR THE        
+  36   70 4 RELIEF OF OFFICERS AND SOLDIERS WHO SERVED IN THE LATE            
+  36   70 5 CAMPAIGN OF THE WABASH, BY EXTENDING THE PROVISIONS OF THIS       
+  36   70 6 BILL TO THE REGULAR TROOPS, AS WELL AS THE MILITIA.               
+  36   70 7 (P. 179)                                                          
+  37   71 1 A 23- -180B   J 12-1-85A     HR        MAR. 26, 1812              
+  37   71 2 S121029       Y=6 N=22                 GERMAN, N.Y.               
+  37   71 3 TO AMEND H.R. 76, (2 STAT 704, 4/10/1812), A BILL FOR THE         
+  37   71 4 RELIEF OF OFFICERS AND SOLDIERS WHO SERVED IN THE LATE            
+  37   71 5 CAMPAIGN ON THE WABASH, BY ELIMINATING THE SECOND SECTION         
+  37   71 6 WHICH PROVIDES THAT THE OFFICERS AND SOLDIERS OF THE              
+  37   71 7 VOLUNTEERS OR MILITIA WHO DIED OR WERE WOUNDED IN THE SAID        
+  37   71 8 CAMPAIGN, LEAVING A WIDOW OR CHILDREN UNDER SIXTEEN YEARS OF      
+  37   71 9 AGE, SHALL RECEIVE HALF OF THE MONTHLY PAY TO WHICH HE WAS        
+  37   7110 ENTITLED AT TIME OF HIS DEATH FOR A TERM OF FIVE YEARS.           
+  37   7111 (P. 179)                                                          
+  38   72 1 A 23- -181    J 12-1-85B     S         MAR. 26, 1812              
+  38   72 2 S121030       Y=14 N=12                BRADLEY, VT.               
+  38   72 3 TO PASS S. 16, A BILL INCORPORATING MOSES AUSTIN,                 
+  38   72 4 JOHN RICE JONES, HENRY AUDTIN AND OTHERS INTO THE LOUISIANA       
+  38   72 5 LEAD COMPANY.  (P. 181)                                           
+  39   73 1 A 23- -182    J 12-1-86      S         MAR. 27, 1812              
+  39   73 2 S121031       Y=17 N=10                GERMAN, N.Y.               
+  39   73 3 TO AMEND S. 17, (2 STAT. 741, 5/20/1812), A BILL                  
+  39   73 4 AUTHORIZING THE PRESIDENT TO ASCERTAIN AND DESIGNATE              
+  39   73 5 CERTAIN BOUNDARIES, BY ELIMINATING THE SECOND SECTION OF THE      
+  39   73 6 BILL WHICH PROVIDES FOR ASCERTAINING WHERE THE WATERS OF THE      
+  39   73 7 CONNECTICUT RIVER INTERSECTS THE NORTHERNMOST PART OF             
+  39   73 8 45TH DEGREE OF NORTH LATITUDE.                                    
+  40   74 1 A 23- -183A   J 12-1-88A     S         MAR. 30, 1812              
+  40   74 2 S121032       Y=12 N=14                GILES, VA.                 
+  40   74 3 TO AMEND S. 20, (2 STAT 728, 5/6/1812), A BILL PROVIDING FOR      
+  40   74 4 THE DESIGNATING, SURVEYING, AND GRANTING OF THE MILITARY          
+  40   74 5 BOUNTY LANDS, BY ELIMINATING THE MODIFICATION THAT SUCH           
+  40   74 6 LANDS SHALL BE SUCH AS ARE FIT FOR CULTIVATION.  (P. 183)         
+  41   75 1 A 23- -183B   J 12-1-88B     S         MAR. 30, 1812              
+  41   75 2 S121033       Y=8 N=17                 CAMPBELL, TENN.            
+  41   75 3 TO AMEND S. 20 (2 STAT 728, 5/6/1812), A BILL PROVIDING FOR       
+  41   75 4 DESIGNATING, SURVEYING, AND GRANTING THE MILITARY BOUNTY          
+  41   75 5 LANDS, BY ELIMINATING THE WORDS, "TWO MILLIONS IN THE             
+  41   75 6 TERRITORY OF LOUISIANA" ANS INSERTING "ONE MILLION FIVE           
+  41   75 7 HUNDRED THOUSAND".  (P. 183)                                      
+  42   76 1 A 23- -186    J 12-1-91A     S         APR. 1, 1812               
+  42   76 2 S121034       Y=21 N=8                 BAYARD, DEL.               
+  42   76 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 22,                  
+  42   76 4 (2 STAT 708, 4/14/1812), A BILL ENLARGING THE LIMITS OF THE       
+  42   76 5 STATE OF LOUISIANA.  (P. 186)                                     
+  43   77 1 A 23- -187    J 12-1-91B     HR        APR. 1, 1812               
+  43   77 2 S121035       Y=11 N=21                BAYARD, DEL.               
+  43   77 3 TO REMOVE THE INJUNCTION OF SECRECY FROM THE PROCEEDINGS ON       
+  43   77 4 THE PRESIDENTS MESSAGE RECOMMENDING H.R. 180,                     
+  43   77 5 (2 STAT. 700, 4/4/1812), A BILL LAYING AN EMBARGO ON ALL          
+  43   77 6 VESSELS NOW IN PORT OR HEREAFTER ARRIVING, FOR A PERIOD OF        
+  43   77 7 SIXTY DAYS.                                                       
+  44   78 1 A 23- -188A   J 12-1-92A     HR        APR. 2, 1812               
+  44   78 2 S121036       Y=11 N=21                LLOYD, MASS.               
+  44   78 3 TO PRINT H.R. 180, UNDER INJUNCTION OF SECRECY, FOR THE USE       
+  44   78 4 OF THE SENATE.  (P. 188)                                          
+  45   79 1 A 23- -188B   J 12-1-92B     HR        APR. 2, 1812               
+  45   79 2 S121037       Y=20 N=12                ANDERSON, TENN.            
+  45   79 3 TO SUSPEND THE TWELTH RULE OF THE SENATE RELATIVE TO              
+  45   79 4 CONDUCTING BUSINESS, SAID RULE PROVIDING THAT THREE               
+  45   79 5 READINGS OF A BILL BE ON THREE SEPARATE DAYS, MADE DURING         
+  45   79 6 CONSIDERATION OF H.R. 180.  (P. 188)                              
+  46   80 1 A 23- -188C   J 12-1-92C     SRE       APR. 2, 1812               
+  46   80 2 S121038       Y=14 N=17                LLOYD, MASS.               
+  46   80 3 TO PROCEED TO CONSIDERATION OF THE RESOLUTION REQUESTING          
+  46   80 4 THAT THE PRESIDENT LAY BEFORE THE SENATE ANY INFORMATION          
+  46   80 5 TOUCHING OUR FOREIGN RELATIONS WHICH HAS NOT BEEN ALREADY         
+  46   80 6 COMMUNICATED AND WHICH MAY NOT BE, IN HIS OPINION,                
+  46   80 7 INJURIOUS TO THE PUBLIC INTEREST.  (P. 188)                       
+  47   81 1 A 23- -189A   J 12-1-93      HR        APR. 2, 1812               
+  47   81 2 S121039       Y=13 N=19                BAYARD, DEL.               
+  47   81 3 TO AMEND H.R. 180, BY ADDING A SECTION REPEALING THE ACT          
+  47   81 4 ENTITLED "AN ACT CONCERNING THE COMMERCIAL INTERCOURSE            
+  47   81 5 BETWEEN THE UNITED STATES AND GREAT BRITAIN AND FRANCE, AND       
+  47   81 6 THEIR DEPENDENCIES, AND FOR OTHER PURPOSES, AND ALSO THE          
+  47   81 7 THIRD SECTION OF THE ACT ENTITLED "AN ACT SUPPLEMENTARY TO        
+  47   81 8 THE ACT CONCERNING THE COMMERCIAL INTERCOURSE BETWEEN THE         
+  47   81 9 UNITED STATES AND GREAT BRITIAN AND FRANCE, AND THEIR             
+  47   8110 DEPENDENCIES, AND FOR OTHER PURPOSES.  (P. 189)                   
+  48   82 1 A 23- -189B   J 12-1-94A     HR        APR. 3, 1812               
+  48   82 2 S121040       Y=20 N=13                CAMPBELL, TENN.            
+  48   82 3 TO PASS H.R. 180.  (P. 189)                                       
+  49   83 1 A 23- -190A   J 12-1-94B     HR        APR. 3, 1812               
+  49   83 2 S121041       Y=15 N=9                 ANDERSON, TENN.            
+  49   83 3 TO SUSPEND THE SENATE RULE THAT REQUIRES THREE READINGS OF A      
+  49   83 4 BILL TO BE MADE ON THREE SEPARATE DAYS, MADE DURING               
+  49   83 5 CONSIDERATION OF H.R. 181, (2 STAT. 704, 4/8/1812), A BILL        
+  49   83 6 IN ADDITION TO THE ACT RAISING AN ADDITIONAL MILITARY FORCE       
+  49   83 7 PASSED JAN. 11, 1812.  (P. 190)                                   
+  50   84 1 A 23- -190B   J 12-1-95A     HR        APR. 3, 1812               
+  50   84 2 S121042       Y=13 N=13                GERMAN, N.Y.               
+  50   84 3 TO REMOVE THE INJUNCTION OF SECRECARY ON H.R. 181,                
+  50   84 4 (2 STAT 704, 4/8/1812), A BILL SUPPLEMENTING AN ACT TO            
+  50   84 5 RAISE AN ADDITIONAL MILITARY FORCE, PASSED JAN. 11, 1812.         
+  51    7 1               EX J 2-244     SRE       APR. 4, 1812               
+  51    7 2 E121007       Y=17 N=5                 LLOYD, MASS.               
+  51    7 3 TO CONSENT TO THE NOMINATION OF MORGAN LEWIS AS                   
+  51    7 4 QUARTERMASTER GENERAL OF THE UNITED STATES ARMY.                  
+  51    7 5 (P. 242, 244)                                                     
+  52   85 1 A 23- -192A   J 12-1-95B     HR        APR. 4, 1812               
+  52   85 2 S121043       Y=12 N=16                REED, MD.                  
+  52   85 3 TO AMEND H.R. 62, (2 STAT. 705, 4/10/1812), A BILL                
+  52   85 4 AUTHORIZING A DETACHMENT FROM THE MILITIA, BY SEEKING TO          
+  52   85 5 REDUCE THE TERM OF SERVICE IN THE MILITIA FROM SIX YEARS TO       
+  52   85 6 THREE YEARS.                                                      
+  53   86 1 A 23- -192B   J 12-1-96      HR        APR. 6, 1812               
+  53   86 2 S121044       Y=22 N=7                 BRADLEY, VT.               
+  53   86 3 TO PASS H.R. 62, (2 STAT. 705, 4/10/1812), A BILL                 
+  53   86 4 AUTHORIZING A DETACHMENT FROM THE MILITIA OF THE                  
+  53   86 5 UNITED STATES.                                                    
+  54   87 1 A 23- -193A   J 12-1-97A     HR        APR. 7, 1812               
+  54   87 2 S121045       Y=13 N=7                 CAMPBELL, OHIO             
+  54   87 3 TO PASS H.R. 181, (2 STAT. 704, 4/8/1812), A BILL                 
+  54   87 4 SUPPLEMENTING AN ACT TO RAISE AN ADDITIONAL MILITARY FORCE        
+  54   87 5 PASSED ON JAN. 11, 1812.  (P. 193)                                
+  55    8 1               EX J 2-245A    SRE       APR. 8, 1812               
+  55    8 2 E121008       Y=19 N=10                BRADLEY, VT.               
+  55    8 3 TO CONSENT TO THE NOMINATION OF WILLIAM HULL AS BRIGADIER         
+  55    8 4 GENERAL IN THE UNITED STATES ARMY.  (P. 243, 245)                 
+  56    9 1               EX J 2-245B    SRE       APR. 8, 1812               
+  56    9 2 E121009       Y=20 N=7                 BRADLEY, VT.               
+  56    9 3 TO CONSENT TO THE NOMINATION OF AUGUSTUS PORTER AS NAVY           
+  56    9 4 AGENT AT NIAGARA AND ITS VICINITY.  (P. 243, 245)                 
+  57   88 1 A 23- -193B   J 12-1-97B     HR        APR. 8, 1812               
+  57   88 2 S121046       Y=8 N=14                 POPE, KY.                  
+  57   88 3 TO RECEDE FROM THE AMENDMENT TO WHICH THE HOUSE OF                
+  57   88 4 REPRESENTATIVES DISAGREED, TO H.R. 76,                            
+  57   88 5 (2 STAT. 704, 4/10/1812), A BILL FOR THE RELIEF OF THE            
+  57   88 6 OFFICERS AND SOLDIERS WHO SERVED IN THE LATE CAMPAIGN ON THE      
+  57   88 7 WABASH.                                                           
+  58   89 1 A 23- -194    J 12-1-98      S         APR. 8, 1812               
+  58   89 2 S121047       Y=21 N=5                 BAYARD, DEL.               
+  58   89 3 TO PASS S. 22, (2 STAT. 708, 4/14/1812), A BILL ENLARGING         
+  58   89 4 THE LIMITS OF THE STATE OF LOUISIANA.  (P. 194)                   
+  59   90 1 A 23- -202    J 12-1-106     HR        APR. 10, 1812              
+  59   90 2 S121048       Y=16 N=12                CAMPBELL, TENN.            
+  59   90 3 TO ORDER THIRD READING OF H.R. 183, (2 STAT 707, 4/14/1812),      
+  59   90 4 A BILL PROHIBITING THE EXPORTATION OF SPECIE, GOODS, WARES        
+  59   90 5 AND MERCHANDISE FOR A LIMITED TIME.  (P. 202)                     
+  60   91 1 A 23- -203A   J 12-1-107A    HR        APR. 13, 1812              
+  60   91 2 S121049       Y=11 N=17                BRADLEY, VT.               
+  60   91 3 TO RECOMMIT H.R. 183.  (P. 203)                                   
+  61   92 1 A 23- -203B   J 12-1-107B    HR        APR. 13, 1812              
+  61   92 2 S121050       Y=17 N=11                CAMPBELL, TENN.            
+  61   92 3 TO PASS H.R. 183.  (P. 203)                                       
+  62   93 1 A 23- -211    J 12-1-114A    SJR       APR. 24, 1812              
+  62   93 2 S121051       Y=18 N=13                BRADLEY, VT.               
+  62   93 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE AMENDED             
+  62   93 4 JOINT RESOLUTION PROVIDING THAT THE SENATE AND THE HOUSE OF       
+  62   93 5 REPRESENTATIVES SHALL ADJOURN ON THE 29TH OF APRIL.               
+  62   93 6 (P. 211)                                                          
+  63   94 1 A 23- -215    J 12-1-114B    SRE       APR. 25, 1812              
+  63   94 2 S121052       Y=18 N=13                BRADLEY, VT.               
+  63   94 3 TO INSERT "THE EIGHTH DAY OF JUNE" IN A RESOLUTION                
+  63   94 4 PROVIDING FOR THE RECESS OF THE CONGRESS.  (P. 215)               
+  64   95 1 A 23- -216    J 12-1-115     SRE       APR. 25, 1812              
+  64   95 2 S121053       Y=16 N=15                POPE, KY.                  
+  64   95 3 TO PASS THE AMENDED JOINT RESOLUTION PROVIDING THAT THE           
+  64   95 4 SENATE AND HOUSE OF REPRESENTATIVES ADJOURN ON THE 29TH OF        
+  64   95 5 APRIL AND REASSEMBLE THE EIGHTH DAY OF JUNE.  (P. 215)            
+  65   96 1 A 23- -218    J 12-1-118A    SRE       APR. 28, 1812              
+  65   96 2 S121054       Y=12 N=9                 WORTHINGTON, OHIO          
+  65   96 3 TO SUSPEND THE 12TH RULE OF THE SENATE, MADE DURING               
+  65   96 4 CONSIDERATION OF THE RESOLUTION PROVIDING THAT THE HOUSES         
+  65   96 5 ADJOURN ON MAY 6TH NEXT UNTIL MAY 25TH NEXT.                      
+  66   97 1 A 23- -219    J 12-1-118B    SJR       APR. 29, 1812              
+  66   97 2 S121055       Y=16 N=12                LEIB, PA.                  
+  66   97 3 TO PASS THE JOINT RESOLUTION TO ADJOURN CONGRESS ON MAY 6TH       
+  66   97 4 NEXT AND REASSEMBLE ON MAY 25TH.  (P. 219)                        
+  67   98 1 A 23- -223    J 12-1-120     S         APR. 30, 1812              
+  67   98 2 S121056       Y=15 N=7                 CRAWFORD, GA.              
+  67   98 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 33, A BILL           
+  67   98 4 ALLOWING AN ANNUITY TO ARTHUR ST.CLAIR.                           
+  68   99 1 A 23- -224A   J 12-1-121A    S         MAY 1, 1812                
+  68   99 2 S121057       Y=18 N=6                 CAMPBELL, TENN.            
+  68   99 3 TO PASS S. 32, A BILL AUTHORIZING THE STATE OF TENNESSEE TO       
+  68   99 4 ISSUE GRANTS AND PERFECT TITLES ON CERTAIN ENTRIES AND            
+  68   99 5 LOCATIONS OF LAND THEREIN.  (P. 224)                              
+  69  100 1 A 23- -224B   J 12-1-121B    S         MAY 1, 1812                
+  69  100 2 S121058       Y=17 N=9                 LEIB, PA.                  
+  69  100 3 TO PASS S. 33, A BILL ALLOWING AN ANNUITY TO GENERAL              
+  69  100 4 ARTHUR ST.CLAIR.  (P. 224)                                        
+  70  101 1 A 23- -227    J 12-1-123     HR        MAY 5, 1812                
+  70  101 2 S121059       Y=11 N=13                GERMAN, N.Y.               
+  70  101 3 TO POSTPONE CONSIDERATION OF H.R. 122,                            
+  70  101 4 (2 STAT. 730, 5/8/1812), A BILL PROVIDING FOR THE RELIEF OF       
+  70  101 5 THE CITIZENS OF VENEZUELA.  (P. 227)                              
+  71  102 1 A 23- -235    J 12-1-125     SRE       MAY 6, 1812                
+  71  102 2 S121060       Y=13 N=6                 SMITH, MD.                 
+  71  102 3 TO POSTPONE CONSIDERATION OF THE MEMORIAL OF THE MERCHANTS        
+  71  102 4 OF BOSTON FOR LEAVE TO WITHDRAW THEIR PROPERTY FROM GREAT         
+  71  102 5 BRITAIN AND HER DEPENDENCIES, UNTIL THE FIRST MONDAY IN           
+  71  102 6 JUNE NEXT.  (P. 235)                                              
+  72  103 1 A 23- -239A   J 12-1-129A    SRE       MAY 13, 1812               
+  72  103 2 S121061       Y=8 N=15                 POPE, KY.                  
+  72  103 3 TO PASS THE RESOLUTION PROVIDING THAT THE ACT CONCERNING          
+  72  103 4 COMMERCIAL INTERCOURSE BETWEEN THE UNITED STATES AND GREAT        
+  72  103 5 BRITAIN AND FRANCE PASSED ON MAY 1, 1810, EXCEPT A CERTAIN        
+  72  103 6 SECTION, TOGETHER WITH THE SUPPLEMENTARY ACT ON THE SAME          
+  72  103 7 SUBJECT PASSED MARCH 2, 1811, OUGHT TO BE REPEALED, AND A         
+  72  103 8 COMMITTEE APPOINTED TO BRING IN A BILL FOR THAT PURPOSE.          
+  73  104 1 A 23- -239B   J 12-1-129B    PROC      MAY 13, 1812               
+  73  104 2 S121062       Y=8 N=5                                             
+  73  104 3 TO ADJOURN.                                                       
+  74  105 1 A 23- -244    J 12-1-134     S         MAY 21, 1812               
+  74  105 2 S121063       Y=16 N=5                 VARNUM, MASS.              
+  74  105 3 TO AGREE TO POSTPONEMENT OF S. 65, (6 STAT 119, 3/3/1813),        
+  74  105 4 A BILL TO DISCHARGE NATHANIEL G. INGRAHAM AND OTHERS FROM         
+  74  105 5 IMPRISONMENT, UNTIL THE FIRST MONDAY IN DECEMBER NEXT.            
+  75   10 1               EX J 2-272     SRE       MAY 27, 1812               
+  75   10 2 E121010       Y=16 N=8                 GREGG, PA.                 
+  75   10 3 TO CONSENT TO THE NOMINATION OF WILLIAM WHITE AS                  
+  75   10 4 COMMISSIONER OF LOANS FOR THE UNITED STATES IN THE STATE OF       
+  75   10 5 PENNSYLVANIA.  (P. 268, 272)                                      
+  76  106 1 A 23- -267    J 12-1-154     HR        JUNE 11, 1812              
+  76  106 2 S121064       Y=17 N=13                GREGG, PA.                 
+  76  106 3 TO RECOMMIT TO A NEW COMMITTEE, H.R. 184,                         
+  76  106 4 (2 STAT 755, 6/18/1812), A BILL DECLARING WAR BETWEEN             
+  76  106 5 GREAT BRITAIN AND HER DEPENDENCIES AND THE UNITED STATES AND      
+  76  106 6 HER TERRITORIES, FOR THE PURPOSE OF AMENDING THE RESOLUTION       
+  76  106 7 TO AUTHORIZE THE PRESIDENT TO ORDER ARMED SHIPS TO MAKE           
+  76  106 8 REPRISALS UPON THOSE OF GREAT BRITAIN AND IRELAND OR THEIR        
+  76  106 9 SUBJECTS.                                                         
+  77  107 1 A 23- -270A   J 12-1-156A    HR        JUNE 12, 1812              
+  77  107 2 S121065       Y=15 N=17                POPE, KY.                  
+  77  107 3 TO AMEND H.R. 184, BY INSERTING A PROVISION PERMITTING            
+  77  107 4 UNITED STATES ARMED SHIPS TO MAKE REPRISALS ON SHIPS OF           
+  77  107 5 FRANCE OR HER SUBJECTS.  (P. 270)                                 
+  78  108 1 A 23- -270B   J 12-1-156B    HR        JUNE 12, 1812              
+  78  108 2 S121066       Y=16 N=16                LEIB, PA.                  
+  78  108 3 TO AMEND, IN THE NATURE OF A SUBSTITUTE, H.R. 184, BY             
+  78  108 4 AUTHORIZING THE PRESIDENT TO CAUSE REPRISALS ON BRITISH           
+  78  108 5 COMMERCE AND TO GRANT COMMISSIONS TO OWNERS OF UNITED STATES      
+  78  108 6 SHIPS WHO MAKE APPLICATION, GIVING NAME AND TONNAGE OF SUCH       
+  78  108 7 SHIPS AND POSTING A $1,000 BOND FOR THE RESTORATION OF            
+  78  108 8 PROPERTY OF UNITED STATES CITIZENS CAPTURED BY THE ENEMY,         
+  78  108 9 UPON PAYMENT OF REASONABLE SALVAGE. REJECTED IN TIE VOTE.         
+  79  109 1 A 23- -271A   J 12-1-157A    HR        JUNE 12, 1812              
+  79  109 2 S121067       Y=21 N=11                ANDERSON, TENN.            
+  79  109 3 TO AGREE TO THE FIRST REPORT OF THE SELECT COMMITTEE ON           
+  79  109 4 H.R. 184, AND TO ELIMINATE THE PROVISION TO MAKE REPRISALS        
+  79  109 5 ON PERSONS OR SUBJECTS OF GREAT BRITAIN WITHIN ANY                
+  79  109 6 TERRITORIES OR POSSESSIONS OF GREAT BRITAIN.  (P. 271)            
+  80  110 1 A 23- -271B   J 12-1-157B    HR        JUNE 13, 1812              
+  80  110 2 S121068       Y=14 N=17                LLOYD, MASS.               
+  80  110 3 TO AMEND H.R. 184, BY GIVING THE PRESIDENT POWER TO               
+  80  110 4 AUTHORIZE PUBLIC ARMED SHIPS AND VESSELS OF THE UNITED            
+  80  110 5 STATES TO MAKE REPRISALS ON OTHER PUBLIC AND PRIVATE SHIPS        
+  80  110 6 AND VESSELS, GOODS, AND MERCHANDISE BELONGING TO GREAT            
+  80  110 7 BRITAIN AND IRELAND AND TO THE SUBJECTS THEREOF AND TO            
+  80  110 8 GRANT LETTERS OF MARQUE AND REPRISALS.                            
+  81  111 1 A 23- -284    J 12-1-157C    HR        JUNE 15, 1812              
+  81  111 2 S121069       Y=10 N=22                GERMAN, N.Y.               
+  81  111 3 TO POSTPONE FURTHER CONSIDERATION OF H.R. 184 UNTIL THE           
+  81  111 4 FIRST MONDAY IN NOVEMBER NEXT.  (P. 284)                          
+  82  112 1 A 23- -286A   J 12-1-159     HR        JUNE 15, 1812              
+  82  112 2 S121070       Y=14 N=18                ANDERSON, TENN.            
+  82  112 3 TO AMEND H.R. 184, BY ELIMINATING THE NINTH SECTION               
+  82  112 4 ALLOWING THE PRESIDENT TO USE NAVAL FORCE UPON PUBLIC OR          
+  82  112 5 PRIVATE ARMED VESSELS BELONGING TO FRANCE OR ITALY, OR            
+  82  112 6 THEIR SUBJECTS AND TO MAKE REPRISALS, UNLESS FRANCE OR            
+  82  112 7 ITALY CAN GIVE EVIDENCE OF THE REPEAL OF THE BERLIN AND           
+  82  112 8 MILAN DECREES, SO FAR AS THEY RELATE TO THE NEUTRAL               
+  82  112 9 COMMERCE OF THE UNITED STATES.                                    
+  83  113 1 A 23- -286B   J 12-1-160A    HR        JUNE 15, 1812              
+  83  113 2 S121071       Y=15 N=17                LEIB, PA.                  
+  83  113 3 TO AMEND, IN THE NATURE OF A SUBSTITUTE, H.R. 184, BY             
+  83  113 4 PROVIDING THAT THE PRESIDENT BY AUTHORIZED TO CAUSE               
+  83  113 5 REPRISALS UPON PRIVATE SHIPS AND VESSELS, GOODS AND               
+  83  113 6 MERCHANDISE OF GREAT BRITAIN AND IRELAND WHICH MAY BE FOUND       
+  83  113 7 ON THE HIGH SEAS.                                                 
+  84  114 1 A 23- -287A   J 12-1-160B    HR        JUNE 15, 1812              
+  84  114 2 S121072       Y=13 N=19                LLOYD, MASS.               
+  84  114 3 TO AMEND H.R. 184, BY SEEKING TO PROVIDE FOR A DATE ON            
+  84  114 4 WHICH REPRISALS ON SHIPS OF GREAT BRITAIN MAY START.              
+  84  114 5 (P. 287)                                                          
+  85  115 1 A 23- -287B   J 12-1-160C    HR        JUNE 15, 1812              
+  85  115 2 S121073       Y=19 N=13                ANDERSON, TENN.            
+  85  115 3 TO ORDER THIRD READING OF H.R. 184.  (P. 287)                     
+  86  116 1 A 23- -287C   J 12-1-160D    PROC      JUNE 15, 1812              
+  86  116 2 S121074       Y=18 N=14                ANDERSON, TENN.            
+  86  116 3 TO ADJOURN, A MOTION MADE DURING CONSIDERATION OF H.R. 184.       
+  86  116 4 (P. 287)                                                          
+  87  117 1 A 23- -296A   J 12-1-160E    HR        JUNE 16, 1812              
+  87  117 2 S121075       Y=11 N=21                BAYARD, DEL.               
+  87  117 3 TO POSTPONE FURTHER CONSIDERATION OF H.R. 184.  (P. 289)          
+  88  118 1 A 23- -296B   J 12-1-161A    HR        JUNE 16, 1812              
+  88  118 2 S121076       Y=9 N=23                 BAYARD, DEL.               
+  88  118 3 TO POSTPONE FURTHER CONSIDERATION OF H.R. 184.                    
+  89  119 1 A 23- -296C   J 12-1-161B    HR        JUNE 16, 1812              
+  89  119 2 S121077       Y=15 N=17                BAYARD, DEL.               
+  89  119 3 TO POSTPONE FURTHER CONSIDERATION OF H.R. 184.                    
+  90  120 1 A 23- -296D   J 12-1-161C    PROC      JUNE 16, 1812              
+  90  120 2 S121078       Y=18 N=14                ANDERSON, TENN.            
+  90  120 3 TO ADJOURN, DURING CONSIDERATION OF H.R. 184.  (P. 296)           
+  91  121 1 A 23- -297A   J 12-1-162A    HR        JUNE 17, 1812              
+  91  121 2 S121079       Y=14 N=18                GILES, VA.                 
+  91  121 3 TO RECOMMIT TO THE SELECT COMMITTEE, H.R. 184, WITH               
+  91  121 4 INSTRUCTIONS TO AMEND SAME BY AUTHORIZING THE PRESIDENT TO        
+  91  121 5 INSTRUCT COMMANDERS OF SHIPS OF WAR TO RECAPTURE ANY VESSEL       
+  91  121 6 BOUND TO ANY PORT OR PLACE PROHIBITED TO SUCH VESSELS BY          
+  91  121 7 BRITISH ORDERS AND TO RECAPTURE ANY VESSEL OF THE UNITED          
+  91  121 8 STATES WHICH MAY HAVE BEEN PREVIOUSLY CAPTURED BY ANY FRENCH      
+  91  121 9 ARMED VESSEL.  (P. 297)                                           
+  92  122 1 A 23- -297B   J 12-1-162B    PROC      JUNE 17, 1812              
+  92  122 2 S121080       Y=14 N=18                HORSEY, DEL.               
+  92  122 3 TO ADJOURN, DURING CONSIDERATION OF H.R. 184.  (P. 297)           
+  93  123 1 A 23- -297C   J 12-1-162C    HR        JUNE 17, 1812              
+  93  123 2 S121081       Y=19 N=13                ANDERSON, TENN.            
+  93  123 3 TO PASS H.R. 184.  (P. 297)                                       
+  94  124 1 A 23- -299    J 12-1-164     S         JUNE 20, 1812              
+  94  124 2 S121082       Y=10 N=19                TAYLOR, S.C.               
+  94  124 3 TO POSTPONE FURTHER CONSIDERATION OF S. 41, A BILL                
+  94  124 4 SUPPLEMENTARY TO AN ACT AUTHORIZING A DETACHMENT FROM THE         
+  94  124 5 MILITIA OF THE UNITED STATES, PASSED APRIL 10, 1812               
+  94  124 6 TOGETHER WITH AMENDMENTS, UNTIL THE FIRST MONDAY IN               
+  94  124 7 OCTOBER NEXT.  (P. 299)                                           
+  95  125 1 A 23- -303    J 12-1-167     HR        JUNE 24, 1812              
+  95  125 2 S121083       Y=22 N=5                 TAYLOR, S.C.               
+  95  125 3 TO PASS H.R. 148, (2 STAT 759, 6/26/1812) A BILL CONCERNING       
+  95  125 4 LETTERS OF MARQUE, PRIZES AND PRIZE GOODS.  (P. 303)              
+  96   11 1               EX J 2-291     HRE       JUNE 25, 1812              
+  96   11 2 E121011       Y=18 N=13                ANDERSON, TENN.            
+  96   11 3 TO AGREE TO THE REPORT OF THE COMMITTEE OF THE WHOLE,             
+  96   11 4 RELATING TO THE RESOLUTION AUTHORIZING THE PRESIDENT TO           
+  96   11 5 ISSUE A PROCLAMATION TO THE INHABITANTS OF THE PROVINCES OF       
+  96   11 6 UPPER AND LOWER CANADA, NOVA SCOTIA AND NEW BRUNSWICK, THAT       
+  96   11 7 IN ORDER TO VINDICATE THEIR JUST RIGHTS AND SECURITY, THE         
+  96   11 8 U.S. MAY TAKE POSSESSION OF THEIR TERRITORIES AND WILL            
+  96   11 9 GUARANTEE FULL ENJOYMENT OF LIFE, LIBERTY, PROPERTY AND           
+  96   1110 RELIGION.                                                         
+  97  126 1 A 23- -304    J 12-1-169     HR        JUNE 25, 1812              
+  97  126 2 S121084       Y=19 N=5                 CAMPBELL, TENN.            
+  97  126 3 TO ORDER THIRD READING OF H.R. 145, (2 STAT 766, 6/30/1812),      
+  97  126 4 A BILL AUTHORIZING THE ISSUING OF TREASURY NOTES.  (P. 304)       
+  98  127 1 A 23- -305    J 12-1-170     HR        JUNE 26, 1812              
+  98  127 2 S121086       Y=23 N=8                 CAMPBELL, TENN.            
+  98  127 3 TO PASS H.R. 145 (2 STAT 766, 6/30/1812), A BILL AUTHORIZING      
+  98  127 4 THE ISSUING OF TREASURY NOTES.  (P. 305)                          
+  99  128 1 A 23- -307    J 12-1-171     HR        JUNE 27, 1812              
+  99  128 2 S121087       Y=8 N=18                 ANDERSON, TENN.            
+  99  128 3 TO RECEDE FROM THE DISAGREEMENT TO THE HOUSE AMENDMENTS TO        
+  99  128 4 H.R. 139, (2 STAT 774, 7/1/1812), A BILL SUPPLEMENTING AN         
+  99  128 5 ACT AUTHORIZING THE PRESIDENT OF THE U.S. TO RAISE CERTAIN        
+  99  128 6 COMPANIES OF RANGERS FOR THE PROTECTION OF THE FRONTIER OF        
+  99  128 7 THE UNITED STATES.                                                
+ 100  129 1 A 23- -308    J 12-1-173A    HR        JUNE 29, 1812              
+ 100  129 2 S121088       Y=13 N=17                SMITH, MD.                 
+ 100  129 3 TO AGREE TO THE AMENDMENT TO H.R. 128,                            
+ 100  129 4 (2 STAT 768, 7/1/1812), A BILL IMPOSING ADDITIONAL DUTIES         
+ 100  129 5 ON ALL GOODS, WARES, AND MERCHANDISE, IMPORTED FROM ANY           
+ 100  129 6 FOREIGN PORT OR PLACE AND FOR OTHER PURPOSES; WHICH               
+ 100  129 7 AMENDMENT PROVIDES THAT THE FIRST AND SECOND SECTIONS OF THE      
+ 100  129 8 ACT "REPEALING THE ACT LAYING DUTIES ON SALT AND CONTINUING       
+ 100  129 9 IN FORCE, A FURTHER TIME, THE FIRST SECTION OF THE ACT            
+ 100  12910 'TO FURTHER PROTECT THE COMMERCE AND SEAMEN OF THE UNITED         
+ 100  12911 STATES AGAINST THE BARBARY POWERS'" PASSED 3/3/1807, BE           
+ 100  12912 REPEALED.  (P. 308)                                               
+ 101  130 1 A 23- -309A   J 12-1-173B    HR        JUNE 29, 1812              
+ 101  130 2 S121089       Y=13 N=19                SMITH, MD.                 
+ 101  130 3 TO AGREE TO AN AMENDMENT TO H.R. 128, WHICH AMENDMENT             
+ 101  130 4 ELIMINATES THE WORDS "ONE HUNDRED" IN SECTION 1, LINE3.           
+ 101  130 5 (P. 309)                                                          
+ 102  131 1 A 23- -309B   J 12-1-173C    HR        JUNE 29, 1812              
+ 102  131 2 S121090       Y=15 N=17                SMITH, MD.                 
+ 102  131 3 TO AGREE TO AN AMENDMENT TO H.R. 128, WHICH AMENDMENT             
+ 102  131 4 STRIKES OUT THE WORDS "PASSING OF THIS ACT," FROM SECTION 1,      
+ 102  131 5 LINE 7.  (P. 309)                                                 
+ 103  132 1 A 23- -309C   J 12-1-173D    HR        JUNE 29, 1812              
+ 103  132 2 S121091       Y=22 N=10                SMITH, MD.                 
+ 103  132 3 TO ORDER THIRD READING OF H.R. 128.  (P. 309)                     
+ 104  133 1 A 23- -310    J 12-1-175A    SRE       JUNE 30, 1812              
+ 104  133 2 S121092       Y=20 N=4                 GOODRICH, CONN.            
+ 104  133 3 TO PASS THE RESOLUTION (2 STAT 786, 7/9/1812), REQUESTING         
+ 104  133 4 THE PRESIDENT TO RECOMMEND A DAY OF PUBLIC HUMILIATION AND        
+ 104  133 5 PRAYER.  (P. 310)                                                 
+ 105  134 1 A 23- -311    J 12-1-175B    HR        JUNE 30, 1812              
+ 105  134 2 S121093       Y=20 N=9                 SMITH, MD.                 
+ 105  134 3 TO PASS H.R. 128.  (P. 311)                                       
+ 106   12 1               EX J 2-294A    HR        JULY 2, 1812               
+ 106   12 2 E121012       Y=20 N=10                CRAWFORD, GA.              
+ 106   12 3 TO AMEND H.R. BILL, AUTHORIZING THE PRESIDENT TO TAKE             
+ 106   12 4 POSSESSION OF A TRACT OF COUNTRY LYING SOUTH OF THE               
+ 106   12 5 MISSISSIPPI TERRITORY AND THE STATE OF GEORGIA; BY PROVIDING      
+ 106   12 6 THAT IF THE U.S. SHOULD OBTAIN POSSESSION OF THE BRITISH          
+ 106   12 7 PROVINCES IN NORTH AMERICA, THE PRESIDENT SHALL BE                
+ 106   12 8 AUTHORIZED TO ESTABLISH A TEMPORARY GOVERNMENT, WITH              
+ 106   12 9 MILITARY, CIVIL AND JUDICIAL POWERS.                              
+ 107   13 1               EX J 2-294B    HR        JULY 2, 1812               
+ 107   13 2 E121013       Y=23 N=7                 TAIT, GA.                  
+ 107   13 3 TO AMEND H.R. 185, BY PROVIDING THAT THIS ACT BE NOT              
+ 107   13 4 PRINTED NOR PUBLISHED UNLESS DIRECTED BY THE PRESIDENT.           
+ 108   14 1               EX J 2-294C    HR        JULY 2, 1812               
+ 108   14 2 E121014       Y=15 N=13                TAIT, GA.                  
+ 108   14 3 ON ORDERING TO THIRD READING OF H.R. 185.                         
+ 109   15 1               EX J 2-295A    HR        JULY 3, 1812               
+ 109   15 2 E121015       Y=14 N=16                BAYARD, DEL.               
+ 109   15 3 TO POSTPONE UNTIL THE FIRST MONDAY IN NOVEMBER NEXT,              
+ 109   15 4 FURTHER CONSIDERATION OF H.R. 185.                                
+ 110   16 1               EX J 2-295B    HR        JULY 3, 1812               
+ 110   16 2 E121016       Y=14 N=16                TAIT, GA.                  
+ 110   16 3 TO PASS H.R. 185.                                                 
+ 111   17 1               EX J 2-287     SRE       JULY 5, 1812               
+ 111   17 2 E121017       Y=7 N=14                 GOODRICH, CONN.            
+ 111   17 3 TO ADOPT THE RESOLUTION THAT THE SENATE ADVISE AND CONSENT        
+ 111   17 4 TO THE APPOINTMENT OF ISAAC A. COLES AS COLONEL OF INFANTRY       
+ 111   17 5 IN THE UNITED STATES ARMY.  (P. 284, 287)                         
+ 112  135 1 A 23- -318    J 12-1-183     HR        JULY 5, 1812               
+ 112  135 2 S121099       Y=14 N=6                 SMITH, MD.                 
+ 112  135 3 TO PASS H.R. 177, (2 STAT 785, 7/6/1812), A BILL                  
+ 112  135 4 SUPPLEMENTING AN ACT AUTHORIZING THE PRESIDENT TO ACCEPT AND      
+ 112  135 5 ORGANIZE CERTAIN VOLUNTEER MILITARY CORPS.  (P. 318)              
+ 113  136 1 A 23- -319    J 12-1-184     HR        JULY 6, 1812               
+ 113  136 2 S121100       Y=17 N=1                 LLOYD, MASS.               
+ 113  136 3 TO AMEND THE BILL (2 STAT 778, 7/6/1812), PROHIBITING             
+ 113  136 4 AMERICAN VESSELS FROM PROCEEDING TO OR TRADING WITH THE           
+ 113  136 5 ENEMIES OF THE UNITED STATES, BY ELIMINATING FROM SECTION         
+ 113  136 6 THREE, LINES ONE AND TWO, THE WORDS, "AND THE ARMED FORCES        
+ 113  136 7 OF THE SAME".  (P. 319)                                           
+ 114  137 1 A 23- -320A   J 12-1-185A    HR        JULY 6, 1812               
+ 114  137 2 S121101       Y=11 N=11                SMITH, MD.                 
+ 114  137 3 TO AMEND H.R. 175, (2 STAT 784, 7/6/1812), MAKING FURTHER         
+ 114  137 4 PROVISIONS FOR THE ARMY, BY ELIMINATING THE FIRST SECTION         
+ 114  137 5 PROPOSING THAT THE PRESIDENT APPOINT DISTRICT PAYMASTERS AND      
+ 114  137 6 IF SUCH PAYMASTERS ARE TAKEN FROM THE LINE OF THE ARMY,           
+ 114  137 7 THEY SHALL RECEIVE THIRTY DOLLARS PER MONTH IN ADDITION TO        
+ 114  137 8 THEIR PAY IN THE LINE.                                            
+ 115  138 1 A 23- -320B   J 12-1-185B    HR        JULY 6, 1812               
+ 115  138 2 S121102       Y=12 N=10                SMITH, MD.                 
+ 115  138 3 TO PASS H.R. 175, (2 STAT 784, 7/6/1812), A BILL MAKING           
+ 115  138 4 FURTHER PROVISIONS FOR THE ARMY OF THE UNITED STATES.             
+ 116   18 1               EX J 2-302     SRE       NOV. 10, 1812              
+ 116   18 2 E122001       Y=20 N=2                                            
+ 116   18 3 TO CONSENT TO THE NOMINATION OF JOHN P. BOYD TO BE A              
+ 116   18 4 BRIGADIER GENERAL.                                                
+ 117   19 1               EX J 2-304     SRE       NOV. 13, 1812              
+ 117   19 2 E122002       Y=14 N=9                 VARNUM, MASS.              
+ 117   19 3 TO ADOPT THE RESOLUTION PROVIDING THAT THE SENATE ADVISE AND      
+ 117   19 4 CONSENT TO THE APPOINTMENT OF JOHN CHANDLER AS BRIGADIER          
+ 117   19 5 GENERAL.                                                          
+ 118  139 1 A 12-2-24     J 12-2-210     HR        NOV. 27, 1812              
+ 118  139 2 S122001       Y=26 N=4                 FRANKLIN, N.C.             
+ 118  139 3 TO AMEND H.R. 193, (2 STAT 788, 12/12/1812), A BILL               
+ 118  139 4 CONCERNING PAY OF NON-COMMISSIONED OFFICERS, MUSICIANS,           
+ 118  139 5 PRIVATES AND OTHERS OF THE U.S. ARMY, BY ELIMINATING FROM         
+ 118  139 6 THE 3RD SECTION OF THE BILL, THE PROVISION THAT EVERY             
+ 118  139 7 PERSON ABOVE THE AGE OF 18, WHO SHALL BE ENLISTED BY ANY          
+ 118  139 8 OFFICER, SHALL BE HELD IN THE SERVICE OF THE UNITED STATES        
+ 118  139 9 DURING THE PERIOD OF SUCH ENLISTMENT, ANYTHING IN THE ACT         
+ 118  13910 TO THE CONTRARY, NOTWITHSTANDING.                                 
+ 119  140 1 A 12-2-31     J 12-2-216     S         DEC. 12, 1812              
+ 119  140 2 S122002A      Y=27 N=3                 GILES, VA.                 
+ 119  140 3 TO ORDER ENGROSSMENT OF S. 46, (2 STAT 789, 1/2/1813), A          
+ 119  140 4 BILL REMITTING FINES, FORFIETURES AND PENALTIES IN CERTAIN        
+ 119  140 5 CASES.                                                            
+ 120  141 1 A 25- -25     J 12-2-211     S         DEC. 12, 1812              
+ 120  141 2 S122002B      Y=19 N=4                 CAMPBELL, TENN.            
+ 120  141 3 TO PASS THE BILL, AS AMENDED, "AN ACT SUPPLEMENTARY TO THE        
+ 120  141 4 SEVERAL ACTS NOW IN FORCE RELATIVE TO THE MILITARY                
+ 120  141 5 ESTABLISHMENT OF THE UNITED STATES".                              
+ 121  142 1 A 25- -32A    J 12-2-217A    S         DEC. 14, 1812              
+ 121  142 2 S122003       Y=7 N=23                 TAYLOR, S.C.               
+ 121  142 3 TO AMEND S. 45, (2 STAT 789, 1/2/1813), A BILL INCREASING         
+ 121  142 4 THE NAVY OF THE UNITED STATES BY ELIMINATING THE PROVISION        
+ 121  142 5 FOR BUILDING AND EQUIPMENT OF SHIPS OF SEVENTY FOUR GUNS.         
+ 121  142 6 (P. 32)                                                           
+ 122  143 1 A 25- -32B    J 12-2-217B    S         DEC. 14, 1812              
+ 122  143 2 S122004       Y=28 N=2                 SMITH, MD.                 
+ 122  143 3 TO ORDER ENGROSSMENT OF S. 45, (2 STAT 789, 1/2/1813), A          
+ 122  143 4 BILL INCREASING THE UNITED STATES NAVY.                           
+ 123  144 1 A 25- -33     J 12-2-217C    S         DEC. 14, 1812              
+ 123  144 2 S122005       Y=25 N=5                 GILES, VA.                 
+ 123  144 3 TO PASS S. 46, (2 STAT 789, 1/2/1813), A BILL REMITTING           
+ 123  144 4 FINES, FORFIETURES AND PENALTIES IN CERTAIN CASES.                
+ 124   20 1               EX J 2-335     SRE       DEC. 22, 1812              
+ 124   20 2 E122003       Y=15 N=15                SMITH, MD.                 
+ 124   20 3 TO POSTPONE UNTIL MONDAY NEXT, FURTHER CONSIDERATION OF THE       
+ 124   20 4 APPOINTMENT OF A COMMITTEE TO INQUIRE INTO THE EXPEDIENCY         
+ 124   20 5 OF TAKING POSSESSION OF EAST FLORIDA.                             
+ 125   21 1               EX J 2-336A    SRE       DEC. 22, 1812              
+ 125   21 2 E122004       Y=18 N=12                LEIB, PA.                  
+ 125   21 3 TO APPOINT A COMMITTEE TO INQUIRE INTO THE EXPEDIENCY OF          
+ 125   21 4 TAKING POSSESSION OF EAST FLORIDA.                                
+ 126  145 1 A 25- -43     J 12-2-227     HR        JAN. 11, 1813              
+ 126  145 2 S122008       Y=15 N=18                SMITH, MD.                 
+ 126  145 3 TO AMEND H.R. 216 (2 STAT 791, 1/20/1813), A BILL                 
+ 126  145 4 SUPPLEMENTARY TO AN ACT FOR THE MORE PERFECT ORGANIZATION OF      
+ 126  145 5 THE ARMY, BY ELIMINATING THE FIRST AND SECOND SECTIONS OF         
+ 126  145 6 THE BILL, PROVIDING AN ADDITIONAL MAJOR TO EACH REGIMENT AND      
+ 126  145 7 AN ADDITIONAL THIRD LIEUTENANT TO EACH COMPANY.                   
+ 127  146 1 A 25- -44A    J 12-2-228     HR        JAN. 12, 1813              
+ 127  146 2 S122009       Y=17 N=15                LLOYD, MASS.               
+ 127  146 3 TO AMEND H.R. 216, BY ELIMINATING IN THE 4TH SECTION, A           
+ 127  146 4 BOUNTY OF $40 TO EVERY MAN WHO SHALL BE DULY ENLISTED INTO        
+ 127  146 5 THE SERVICE AFTER FEB. 1ST NEXT TO SERVE FOR FIVE YEARS OR        
+ 127  146 6 DURING THE WAR.                                                   
+ 128  147 1 A 25- -44B    J 12-2-229A    HR        JAN. 12, 1813              
+ 128  147 2 S122010       Y=22 N=11                LLOYD, MASS.               
+ 128  147 3 TO AMEND H.R. 216, BY INSERTING IN LIEU OF ELIMINATED             
+ 128  147 4 BOUNTY PROVISIONS IN SECTION 4, AN ADVANCE OF $24 ON              
+ 128  147 5 ACCOUNT OF HIS PAY IN ADDITION TO THE EXISTING BOUNTY, 1/2        
+ 128  147 6 OF SUCH ADVANCE TO BE PAID AT ENLISTMENT, THE OTHER 1/2 UPON      
+ 128  147 7 JOINING SOME MILITARY CORPS.                                      
+ 129  148 1 A 25- -44C    J 12-2-229B    HR        JAN. 12, 1813              
+ 129  148 2 S122011       Y=15 N=16                VARNUM, MASS.              
+ 129  148 3 TO AMEND H.R. 216, BY ELIMINATING THE FIRST SECTION,              
+ 129  148 4 PROVIDING ONE ADDITIONAL MAJOR TO EACH REGIMENT.                  
+ 130  149 1 A 25- -44D    J 12-2-229C    HR        JAN. 12, 1813              
+ 130  149 2 S122012       Y=15 N=17                VARNUM, MASS.              
+ 130  149 3 TO AMEND H.R. 216, BY ELIMINATING THE SECOND SECTION              
+ 130  149 4 PROVIDING ONE ADDITIONAL 3RD LIEUTENANT FOR EACH COMPANY          
+ 130  149 5 OR TROOP.                                                         
+ 131  150 1 A 25- -45     J 12-2-229D    HR        JAN. 12, 1813              
+ 131  150 2 S122013       Y=23 N=8                 FRANKLIN, N.C.             
+ 131  150 3 TO ORDER THIRD READING OF H.R. 216.                               
+ 132   22 1               EX J 2-316     SRE       JAN. 13, 1813              
+ 132   22 2 E122005       Y=18 N=15                                           
+ 132   22 3 TO CONSENT TO THE APPOINTMENT OF JOHN ARMSTRONG TO BE             
+ 132   22 4 SECRETARY OF WAR.                                                 
+ 133   23 1               EX J 2-336B    SRE       JAN. 15, 1813              
+ 133   23 2 E122006       Y=13 N=18                LEIB, PA.                  
+ 133   23 3 TO PASS A RESOLUTION PROVIDING THAT THE MESSAGE AND REPORT        
+ 133   23 4 RESPECTING EAST FLORIDA BE PRINTED CONFIDENTIALLY, FOR THE        
+ 133   23 5 USE OF THE SENATE, WITH THE EXCEPTION OF THE RETURN OF            
+ 133   23 6 TROOPS AND THEIR STATIONS ON THE SOUTHERN AND WESTERN             
+ 133   23 7 FRONTS.                                                           
+ 134  151 1 A 25- -53     J 12-2-233     S         JAN. 18, 1813              
+ 134  151 2 S122014       Y=16 N=11                BRADLEY, VT.               
+ 134  151 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 52, A BILL           
+ 134  151 4 PROVIDING FOR AN AMICABLE SETTLEMENT OF LIMITS WITH THE           
+ 134  151 5 STATE OF GEORGIA AND AUTHORIZING THE ESTABLISHMENT OF A           
+ 134  151 6 GOVERNMENT IN THE MISSISSIPPI TERRITORY IN OBEDIENCE TO THE       
+ 134  151 7 PROVISIONS OF THE SUPPLEMENTARY BILL.                             
+ 135  152 1 A 25- -55     J 12-2-234     S         JAN. 19, 1813              
+ 135  152 2 S122015       Y=16 N=9                 BRADLEY, VT.               
+ 135  152 3 TO PASS S. 52, A BILL PROVIDING FOR AN AMICABLE SETTLEMENT        
+ 135  152 4 OF LIMITS WITH THE STATE OF GEORGIA AND AUTHORIZING THE           
+ 135  152 5 ESTABLISHMENT OF A GOVERNMENT IN THE MISSISSIPPI TERRITORY,       
+ 135  152 6 IN OBEDIENCE TO THE PROVISIONS OF A BILL SUPPLEMENTARY TO         
+ 135  152 7 THE ONE NOW ON PASSAGE.                                           
+ 136  153 1 A 25- -58     J 12-2-237A    HR        JAN. 21, 1813              
+ 136  153 2 S122016       Y=19 N=16                LEIB, PA.                  
+ 136  153 3 TO AMEND H.R. 215 (2 STAT 794, 1/29/1813), A BILL                 
+ 136  153 4 PROVIDING FOR AN ADDITIONAL MILITARY FORCE, BY ELIMINATING        
+ 136  153 5 IN SECTION ONE THE WORDS, "ONE YEAR", FOR THE PURPOSE OF          
+ 136  153 6 INSERTING A LONGER TIME.                                          
+ 137  154 1 A 25- -59     J 12-2-237B    HR        JAN. 21, 1813              
+ 137  154 2 S122017A      Y=15 N=20                LEIB, PA.                  
+ 137  154 3 TO AMEND H.R. 215, BY INSERTING IN SECTION 1, THE WORDS,          
+ 137  154 4 "DURING THE WAR", IN LIEU OF "ONE YEAR".                          
+ 138  155 1 A 25- -60A    J 12-2-238A    HR        JAN. 22, 1813              
+ 138  155 2 S122017B      Y=15 N=20                GERMAN, N.Y.               
+ 138  155 3 TO AMEND H.R. 215, BY INSERTING THE WORDS, "FIVE YEARS".          
+ 139  156 1 A 25- -60B    J 12-2-238B    HR        JAN. 22, 1813              
+ 139  156 2 S122018       Y=15 N=20                SMITH, MD.                 
+ 139  156 3 TO AMEND H.R. 215, BY INSERTING THE WORDS, "THREE YEARS".         
+ 140  157 1 A 25- -60C    J 12-2-238C    HR        JAN. 22, 1813              
+ 140  157 2 S122019       Y=11 N=24                CAMPBELL, OHIO             
+ 140  157 3 TO AMEND H.R. 215, BY INSERTING THE WORDS, "18 MONTHS".           
+ 141  158 1 A 25- -61     J 12-2-239A    HR        JAN. 23, 1813              
+ 141  158 2 S122020       Y=10 N=24                POPE, KY.                  
+ 141  158 3 TO AMEND H.R. 215, BY ELIMINATING THE WORDS, "AS IN THE           
+ 141  158 4 OPINION OF THE PRESIDENT MAY BE NECESSARY."                       
+ 142  159 1 A 25- -62A    J 12-2-239B    HR        JAN. 23, 1813              
+ 142  159 2 S122021       Y=16 N=19                LEIB, PA.                  
+ 142  159 3 TO AMEND H.R. 215, BY ELIMINATING FROM SECTION ONE, THE WORD      
+ 142  159 4 "ONE YEAR".                                                       
+ 143  160 1 A 25- -62B    J 12-2-240     HR        JAN. 23, 1813              
+ 143  160 2 S122022       Y=20 N=14                FRANKLIN, N.C.             
+ 143  160 3 TO ORDER THIRD READING OF H.R. 215.                               
+ 144  161 1 A 25- -63A    J 12-2-241A    HR        JAN. 25, 1813              
+ 144  161 2 S122023       Y=20 N=14                FRANKLIN, N.C.             
+ 144  161 3 TO PASS H.R. 215.                                                 
+ 145  162 1 A 25- -63B    J 12-2-241B    S         JAN. 25, 1813              
+ 145  162 2 S122024       Y=11 N=20                GILES, VA.                 
+ 145  162 3 TO CONSIDER THE BILL ALTERING THE BOUNTY AUTHORIZED BY LAW        
+ 145  162 4 TO THE RECRUITS HEREAFTER TO BE ENLISTED FOR THE ARMY OF THE      
+ 145  162 5 UNITED STATES.                                                    
+ 146   24 1               EX J 2-339     SRE       JAN. 26, 1813              
+ 146   24 2 E122007       Y=18 N=12                LEIB, PA.                  
+ 146   24 3 TO PASS A RESOLUTION PROVIDING THAT THE DOCUMENTS WHICH           
+ 146   24 4 ACCOMPANIED THE PRESIDENTS MESSAGE OF THE 14TH INSTANT BE         
+ 146   24 5 CONFIDENTIALLY PRINTED FOR THE USE OF THE SENATE, EXCEPTING       
+ 146   24 6 PAPERS RELATING TO MILITARY FORCES OF THE U.S., THE REPORTS       
+ 146   24 7 OF THE SECRETARY OF STATE AND LETTERS OF GENERAL PINCKNEY.        
+ 147  163 1 A 25- -65     J 12-2-243     HR        JAN. 27, 1813              
+ 147  163 2 S122026       Y=14 N=19                CRAWFORD, GA.              
+ 147  163 3 TO AMEND H.R. 198, (6 STAT 116, 2/2/1813), A BILL MAKING          
+ 147  163 4 AN APPROPRIATION FOR CLAIM OF JARED SHANTUCK, BY ELIMINATING      
+ 147  163 5 ALL AFTER THE WORD 'THAT' IN THE ENACTING CLAUSE.                 
+ 148  164 1 A 25- -66A    J 12-2-244B    HR        JAN. 28, 1813              
+ 148  164 2 S122027       Y=14 N=19                TAYLOR, S.C.               
+ 148  164 3 TO POSTPONE UNTIL THE FIRST MONDAY IN DEC. NEXT,                  
+ 148  164 4 CONSIDERATION OF H.R. 198.                                        
+ 149  165 1 A 25- -66B    J 12-2-248     HR        JAN. 28, 1813              
+ 149  165 2 S122028       Y=19 N=15                BRADLEY, VT.               
+ 149  165 3 TO PASS H.R. 198.                                                 
+ 150   25 1               EX J 2-341     HR        FEB. 2, 1813               
+ 150   25 2 E122008       Y=19 N=16                GAILLARD, S.C.             
+ 150   25 3 TO AMEND H.R. 185, A BILL AUTHORIZING THE PRESIDENT TO TAKE       
+ 150   25 4 POSSESSION OF A TRACT OF LAND LYING SOUTH OF THE                  
+ 150   25 5 MISSISSIPPI TERRITORY AND OF GEORGIA, BY PROVIDING THAT THE       
+ 150   25 6 PRESIDENT BE, AND HE IS HEREBY AUTHORIZED TO OCCUPY AND           
+ 150   25 7 HOLD ALL THAT PART OF WEST FLORIDA EAST OF PERDIDO, AND THE       
+ 150   25 8 WHOLE OR ANY PART OF EAST FLORIDA, INCLUDING AMELIA ISLAND.       
+ 151  166 1 A 25- -70     J 12-2-250A    S         FEB. 2, 1813               
+ 151  166 2 S122029       Y=10 N=18                LEIB, PA.                  
+ 151  166 3 TO ORDER ENGROSSMENT OF S. 18, A BILL MAKING APPROPRIATIONS       
+ 151  166 4 FOR THE CLAIM OF CHARLES MINIFIE.                                 
+ 152   26 1               EX J 2-323     SRE       FEB. 3, 1813               
+ 152   26 2 E122009       Y=12 N=14                LEIB, PA.                  
+ 152   26 3 TO PASS THE RESOLUTION PROVIDING THAT THE SENATE ADVISE AND       
+ 152   26 4 CONSENT TO THE APPOINTMENT OF JONATHAN W. SHAW AS A SURGEON       
+ 152   26 5 IN THE ELEVENTH INFANTRY REGIMENT.                                
+ 153   27 1               EX J 2-342A    HR        FEB. 3, 1813               
+ 153   27 2 E122010       Y=16 N=17                POPE, KY.                  
+ 153   27 3 TO POSTPONE UNTIL THE FIRST MONDAY OF JUNE NEXT, FURTHER          
+ 153   27 4 CONSIDERATION OF THE BILL AUTHORIZING THE PRESIDENT TO TAKE       
+ 153   27 5 POSSESSION OF A TRACT OF LAND SOUTH OF THE MISSISSIPPI            
+ 153   27 6 TERRITORY AND THE STATE OF GEORGIA.                               
+ 154   28 1               EX J 2-342B    HR        FEB. 3, 1813               
+ 154   28 2 E122011       Y=17 N=17                CAMPBELL, OHIO             
+ 154   28 3 TO AMEND H.R. 185, BY PROVIDING THAT IF HOSTILITIES SHALL         
+ 154   28 4 BE COMMITTED BY THE SPANISH NATION, ITS COLONIES OR               
+ 154   28 5 DEPENDENCIES, AGAINST THE UNITED STATES OR IF IT SHALL BE         
+ 154   28 6 ASCERTAINED TO THE SATISFACTION OF THE PRESIDENT OF THE U.S.      
+ 154   28 7 THAT THE SAFETY AND SECURITY OF THE UNITED STATES OR ANY          
+ 154   28 8 PART THEREOF, ARE IN IMMINENT DANGER FROM SPANISH                 
+ 154   28 9 AUTHORITIES IN WEST FLORIDA, LYING EAST OF THE PERDIDO            
+ 154   2810 RIVER, THE PRESIDENT IS AUTHORIZED TO OCCUPY ANY PART OF          
+ 154   2811 THE LAND THEREOF, INCLUDING AMELIA ISLAND.                        
+ 155   29 1               EX J 2-342C    HR        FEB. 3, 1813               
+ 155   29 2 E122012       Y=14 N=20                CAMPBELL, OHIO             
+ 155   29 3 TO AMEND H.R. 185, BY PROVIDING THAT THE TROOPS OF THE            
+ 155   29 4 UNITED STATES BE WITHDRAWN FROM THE PROVINCE OF EAST              
+ 155   29 5 FLORIDA.                                                          
+ 156  167 1 A 25- -73A    J 12-2-250B    HR        FEB. 4, 1813               
+ 156  167 2 S122034       Y=3 N=25                 BRADLEY, VT.               
+ 156  167 3 TO AMEND H.R. 231, (2 STAT 798, 2/8/1813), A BILL                 
+ 156  167 4 AUTHORIZING A LOAN NOT EXCEEDING SIXTEEN MILLION DOLLARS,         
+ 156  167 5 BY ELIMINATING THE INTEREST RATE OF SIX PER CENT PER ANNUM.       
+ 157  168 1 A 25- -73B    J 12-2-250C    HR        FEB. 4, 1813               
+ 157  168 2 S122035       Y=10 N=22                LLOYD, MASS.               
+ 157  168 3 TO AMEND H.R. 231, BY PROVIDING THAT THE STOCK TO BE              
+ 157  168 4 CREATED SHALL NOT BEAR A GREATER RATE OF INTEREST THAN SIX        
+ 157  168 5 PER CENT PER ANNUM, AND THAT IT SHALL NOT BE SOLD AT A RATE       
+ 157  168 6 BELOW PAR.                                                        
+ 158  169 1 A 25- -74     J 12-2-251     HR        FEB. 4, 1813               
+ 158  169 2 S122036       Y=24 N=7                 ANDERSON, TENN.            
+ 158  169 3 TO ORDER THIRD READING OF H.R. 231.                               
+ 159   30 1               EX J 2-343     HR        FEB. 5, 1813               
+ 159   30 2 E122014       Y=22 N=11                ANDERSON, TENN.            
+ 159   30 3 TO PASS H.R. 185.                                                 
+ 160  170 1 A 25- -75A    J 12-2-252A    HR        FEB. 5, 1813               
+ 160  170 2 S122037       Y=22 N=9                 ANDERSON, TENN.            
+ 160  170 3 TO PASS H.R. 231.                                                 
+ 161  171 1 A 25- -75B    J 12-2-252B    S         FEB. 11, 1813              
+ 161  171 2 S122038       Y=18 N=14                ANDERSON, TENN.            
+ 161  171 3 TO CONCUR IN AN AMENDMENT, MADE IN THE COMMITTEE OF THE           
+ 161  171 4 WHOLE, TO S. 58, A BILL INCREASING THE SALARY OF THE              
+ 161  171 5 DISTRICT JUDGE OF THE DELAWARE DISTRICT, WHICH AMENDMENT          
+ 161  171 6 ALLOWS EXTRA COMPENSATION ANNUALLY TO THE DISTRICT JUDGES OF      
+ 161  171 7 MASSACHUSETTS, RHODE ISLAND, PENNSYLVANIA, DELAWARE AND           
+ 161  171 8 NORTH CAROLINA, AND CHANGES TITLE TO "A BILL TO INCREASE          
+ 161  171 9 SALARIES OF CERTAIN DISTRICT JUDGES".                             
+ 162  172 1 A 25- -76     J 12-2-257     S         FEB. 11, 1813              
+ 162  172 2 S122039       Y=8 N=24                 CAMPBELL, OHIO             
+ 162  172 3 TO AMEND S. 58, A BILL INCREASING THE SALARIES OF CERTAIN         
+ 162  172 4 DISTRICT JUDGES, BY INSERTING THE WORDS, "TO DISTRICT             
+ 162  172 5 JUDGE OF THE OHIO DISTRICT, $200".                                
+ 163  173 1 A 25- -81     J 12-2-258A    SRE       FEB. 11, 1813              
+ 163  173 2 S122041       Y=14 N=9                 LEIB, PA.                  
+ 163  173 3 TO AMEND THE RESOLUTION (2 STAT 830, 3/3/1813),                   
+ 163  173 4 ESTABLISHING DISCIPLINE IN THE ARMY OF THE UNITED STATES, BY      
+ 163  173 5 EXTENDING THE PROVISIONS TO THE MILITIA AS WELL AS THE ARMY.      
+ 164  174 1 A 25- -82A    J 12-2-258B    HR        FEB. 12, 1813              
+ 164  174 2 S122042       Y=13 N=15                POPE, KY.                  
+ 164  174 3 TO POSTPONE UNTIL THE FIRST MONDAY IN DECEMBER,                   
+ 164  174 4 CONSIDERATION OF H.R. 207, (6 STAT 117, 2/25/1813), A BILL        
+ 164  174 5 PROVIDING FOR THE RELIEF OF JOHN DIXON AND JOHN MURRAY.           
+ 165  175 1 A 25- -82B    J 12-2-259A    HR        FEB. 12, 1813              
+ 165  175 2 S122043       Y=16 N=12                TAYLOR, S.C.               
+ 165  175 3 TO ORDER THIRD READING OF H.R. 207,                               
+ 165  175 4 (6 STAT 117, 2/25/1813), A BILL FOR THE CLAIMS OF JOHN DIXON      
+ 165  175 5 AND JOHN MURRAY.                                                  
+ 166  176 1 A 25- -82C    J 12-2-259B    S         FEB. 12, 1813              
+ 166  176 2 S122044       Y=15 N=14                BAYARD, DEL.               
+ 166  176 3 TO POSTPONE UNTIL MONDAY NEXT, CONSIDERATION OF S. 59,            
+ 166  176 4 (2 STAT 829, 3/3/1813), A BILL VESTING IN THE PRESIDENT THE       
+ 166  176 5 POWER OF RETALIATION IN THE CASES THEREIN SPECIFIED.              
+ 167  177 1 A 25- -83     J 12-2-261A    HR        FEB. 13, 1813              
+ 167  177 2 S122045       Y=16 N=14                LLOYD, MASS.               
+ 167  177 3 TO RECOMMIT H.R. 230, (2 STAT 801, 2/25/1813), A BILL             
+ 167  177 4 AUTHORIZING THE ISSUEANCE OF TREASURY NOTES FOR THE SERVICE       
+ 167  177 5 OF THE YEAR 1813, WITH INSTRUCTIONS.                              
+ 168   31 1               EX J 2-324     SRE       FEB. 16, 1813              
+ 168   31 2 E122015       Y=17 N=13                CAMPBELL, OHIO             
+ 168   31 3 TO PASS THE RESOLUTION PROVIDING THAT THE SENATE ADVISE AND       
+ 168   31 4 CONSENT TO THE APPOINTMENT OF THORNTON POSEY, TO BE A MAJOR       
+ 168   31 5 OF INFANTRY.                                                      
+ 169   32 1               EX J 2-344     S         FEB. 16, 1813              
+ 169   32 2 E122016       Y=16 N=16                HORSEY, DEL.               
+ 169   32 3 TO AMEND THE BILL, TO REMOVE THE INJUNCTION OF SECRECY FROM       
+ 169   32 4 CERTAIN PAPERS, BY PROVIDING THAT THE INJUNCTION OF SECRECY       
+ 169   32 5 IN RELATION TO THE PAPER MARKED "A", COMMUNICATED IN THE          
+ 169   32 6 PRESIDENT'S MESSAGE OF THE 26TH INSTANT, BE AND THE SAME IS       
+ 169   32 7 HEREBY REMOVED.                                                   
+ 170  178 1 A 25- -86     J 12-2-263     HR        FEB. 16, 1813              
+ 170  178 2 S122046       Y=18 N=13                TAYLOR, S.C.               
+ 170  178 3 TO PASS H.R. 207, (6 STAT 117, 2/25/1813), A BILL PROVIDING       
+ 170  178 4 FOR THE CLAIM OF JOHN DIXON AND JOHN MURRAY.                      
+ 171  179 1 A 25- -88A    J 12-2-264A    SRE       FEB. 17, 1813              
+ 171  179 2 S122048       Y=9 N=19                 GERMAN, N.Y.               
+ 171  179 3 TO POSTPONE UNTIL THE FIRST MONDAY IN DECEMBER,                   
+ 171  179 4 CONSIDERATION OF THE RESOLUTION AMENDING THE CONSTITUTION         
+ 171  179 5 RESPECTING THE MODE OF ELECTING REPRESENTATIVES TO CONGRESS       
+ 171  179 6 AND ELECTORS OF PRESIDENT AND VICE-PRESIDENT.                     
+ 172  180 1 A 25- -88B    J 12-2-264B    SRE       FEB. 17, 1813              
+ 172  180 2 S122049       Y=7 N=26                 GERMAN, N.Y.               
+ 172  180 3 TO AMEND THE RESOLUTION PROVIDING FOR AN AMENDMENT TO THE         
+ 172  180 4 CONSTITUTION RESPECTING THE MODE OF ELECTING MEMBERS OF           
+ 172  180 5 CONGRESS AND ELECTORS OF PRESIDENT AND VICE-PRESIDENT, BY         
+ 172  180 6 PROVIDING THAT ELECTORS SHALL BE APPORTIONED AMONG THE            
+ 172  180 7 STATES ACCORDING TO THE WHOLE NUMBER OF FREE WHITE PERSONS        
+ 172  180 8 IN EACH STATE, INCLUDING THOSE BOUND TO SERVICE FOR A TERM        
+ 172  180 9 OF YEARS.                                                         
+ 173  181 1 A 25- -89A    J 12-2-265A    S         FEB. 17, 1813              
+ 173  181 2 S122050       Y=11 N=17                BAYARD, DEL.               
+ 173  181 3 TO AMEND S. 59 (2 STAT 829, 3/3/1813), A BILL VESTING IN THE      
+ 173  181 4 PRESIDENT THE POWER OF RETALIATION, BY ELIMINATING THE            
+ 173  181 5 WORDS, "PUNISHMENT FOR ENGLISH PRISONERS BEARING ARMS             
+ 173  181 6 AGAINST THE U.S.," AND INSERT IN LIEU THEREOF THE WORDS,          
+ 173  181 7 "PUNISHMENT IN ANY MANNER WHICH IN THE PRESIDENTS OPINION         
+ 173  181 8 WILL BE LIKELY TO PREVENT FUTURE OUTRAGES".                       
+ 174  182 1 A 25- -89B                   S         FEB. 17, 1813              
+ 174  182 2 S122051       Y=20 N=5                 BAYARD, DEL.               
+ 174  182 3 TO ORDER ENGROSSMENT OF THE BILL S. 59.                           
+ 175  183 1 A 25- -90A    J 12-2-265B    S         FEB. 18, 1813              
+ 175  183 2 S122055       Y=17 N=4                 FRANKLIN, N.C.             
+ 175  183 3 TO PASS S. 59.                                                    
+ 176  184 1 A 25- -90B    J 12-2-266A    SRE       FEB. 18, 1813              
+ 176  184 2 S122056A      Y=13 N=19                GERMAN, N.Y.               
+ 176  184 3 TO POSTPONE, UNTIL THE FIRST MONDAY IN JUNE, NEXT, FURTHER        
+ 176  184 4 CONSIDERATION OF THE RESOLUTION AMENDING THE CONSTITUTION         
+ 176  184 5 RESPECTING THE MODE OF ELECTING REPRESENTATIVES IN CONGRESS       
+ 176  184 6 AND ELECTORS OF THE PRESIDENT AND VICE-PRESIDENT.                 
+ 177  185 1 A 25- -91     J 12-2-266B    SRE       FEB. 18, 1813              
+ 177  185 2 S122056B      Y=22 N=9                                            
+ 177  185 3 TO ADOPT A RESOLUTION AS AMENDED PROPOSING AN AMENDMENT           
+ 177  185 4 TO THE CONSTITUTION RESPECTING THE MODE OF ELECTING               
+ 177  185 5 REPRESENTATIVES TO CONGRESS AND ELECTORS OF PRESIDENT AND         
+ 177  185 6 VICE PRESIDENT.                                                   
+ 178  186 1 A 25- -96A    J 12-2-269A    HR        FEB. 20, 1813              
+ 178  186 2 S122057       Y=8 N=17                 LLOYD, MASS.               
+ 178  186 3 TO AMEND H.R. 230, (2 STAT 801, 2/25/1813), A BILL                
+ 178  186 4 AUTHORIZING ISSUANCE OF TREASURY NOTES FOR THE SERVICE OF         
+ 178  186 5 THE YEAR 1813, BY ELIMINATING FROM THE FIFTH SECTION GIVING       
+ 178  186 6 THE AUTHORITY TO THE SECRETARY OF THE TREASURY TO ISSUE           
+ 178  186 7 SUCH NOTES AS MAY BE EXPEDIENT IN THE PAYMENT OF SUPPLIES.        
+ 179  187 1 A 25- -96B    J 12-2-269B    HR        FEB. 20, 1813              
+ 179  187 2 S122058       Y=11 N=17                LLOYD, MASS.               
+ 179  187 3 TO AMEND H.R. 230, BY ELIMINATING IN THE EIGHTH SECTION THE       
+ 179  187 4 PROVISION THAT SAID TREASURY NOTES SHALL EVERYWHERE BE            
+ 179  187 5 RECEIVED IN PAYMENT OF DUTIES AND TAXES LAID BY THE               
+ 179  187 6 AUTHORITY OF THE UNITED STATES.                                   
+ 180  188 1 A 25- -96C    J 12-2-269C    HR        FEB. 20, 1813              
+ 180  188 2 S122059       Y=17 N=9                 ANDERSON, TENN.            
+ 180  188 3 TO ORDER THIRD READING OF H.R. 230.                               
+ 181  189 1 A 25- -97     J 12-2-270     HR        FEB. 20, 1813              
+ 181  189 2 S122060       Y=18 N=9                 ANDERSON, TENN.            
+ 181  189 3 TO PASS H.R. 230.                                                 
+ 182  190 1 A 25- -101A   J 12-2-274A    HR        FEB. 23, 1813              
+ 182  190 2 S122061       Y=7 N=18                 CRAWFORD, GA.              
+ 182  190 3 TO AMEND H.R. 243, (2 STAT 811, 3/3/1813), A BILL GIVING          
+ 182  190 4 FURTHER TIME TO PURCHASERS OF PUBLIC LANDS TO COMPLETE            
+ 182  190 5 THEIR PAYMENTS, BY INSERTING IN SECTION 1 THE WORDS, "AT ANY      
+ 182  190 6 OF THE LAND OFFICES NORTHWEST OF THE OHIO RIVER".                 
+ 183  191 1 A 25- -101B   J 12-2-274B    HR        FEB. 23, 1813              
+ 183  191 2 S122062       Y=4 N=24                 CRAWFORD, GA.              
+ 183  191 3 TO AMEND H.R. 243, (2 STAT 811, 3/3/1813), AN ACT GIVING          
+ 183  191 4 FURTHER TIME TO PURCHASERS OF PUBLIC LANDS IN THE                 
+ 183  191 5 MISSISSIPPI TERRITORY TO COMPLETE THEIR PAYMENTS, BY              
+ 183  191 6 PROVIDING THAT ALL SUMS POSTPONED BY THIS ACT SHALL CARRY         
+ 183  191 7 INTEREST AT 6% PER ANNUM AND SHALL BE PAID TO THE STATE OF        
+ 183  191 8 GEORGIA DURING THE TIME OF POSTPONEMENT IN ADDITION TO THE        
+ 183  191 9 SUM $1,250,000 WHICH THE U.S. IS BOUND TO PAY OUT OF NET          
+ 183  19110 PROCEEDS OF THE SALE OF PUBLIC LANDS IN SAID TERRITORY            
+ 183  19111 WHICH INTEREST SHALL BE PAID OUT OF THE MONEY ARISING FROM        
+ 183  19112 THE SALE OF PUBLIC LANDS.                                         
+ 184  192 1 A 25- -103    J 12-2-275     S         FEB. 24, 1813              
+ 184  192 2 S122063       Y=16 N=8                 POPE, KY.                  
+ 184  192 3 TO ORDER ENGROSSMENT OF S. 67, (6 STAT 119, 3/3/1813), A          
+ 184  192 4 BILL PROVIDING FOR THE RELIEF OF THE REPRESENTATIVES OF           
+ 184  192 5 SAMUEL LAPSLEY.                                                   
+ 185  193 1 A 25- -108A   J 12-2-280A    HR        FEB. 25, 1813              
+ 185  193 2 S122064       Y=14 N=13                GILES, VA.                 
+ 185  193 3 TO POSTPONE, UNTIL THE FOURTH MONDAY IN MAY, NEXT,                
+ 185  193 4 CONSIDERATION OF H.R. 240, (2 STAT 809, 3/3/1813), A BILL         
+ 185  193 5 REGULATING SEAMEN ON BOARD THE PUBLIC SHIPS AND IN THE            
+ 185  193 6 MERCHANT SERVICE OF THE UNITED STATES.                            
+ 186  194 1 A 25- -108B   J 12-2-280B    HR        FEB. 26, 1813              
+ 186  194 2 S122065       Y=15 N=17                LLOYD, MASS.               
+ 186  194 3 TO POSTPONE, UNTIL THE FOURTH MONDAY IN MAY NEXT,                 
+ 186  194 4 CONSIDERATION OF H.R. 240.                                        
+ 187  195 1 A 25- -108C   J 12-2-281     HR        FEB. 26, 1813              
+ 187  195 2 S122066       Y=19 N=13                GILES, VA.                 
+ 187  195 3 TO ORDER THIRD READING OF H.R. 240.                               
+ 188  196 1 A 25- -111A   J 12-2-283A    HR        FEB. 27, 1813              
+ 188  196 2 S122067       Y=12 N=16                TAIT, GA.                  
+ 188  196 3 TO AMEND H.R. 255 (2 STAT 823, 3/3/1813), A BILL MAKING           
+ 188  196 4 APPROPRIATIONS FOR THE SUPPORT OF THE GOVERNEMNT DURING THE       
+ 188  196 5 FISCAL YEAR 1813, BY ELIMINATING $50,000 FOR THE CONTINGENT       
+ 188  196 6 EXPENSES OF INTERCOURSE WITH FOREIGN NATIONS.                     
+ 189  197 1 A 25- -111B   J 12-2-283B    HR        FEB. 27, 1813              
+ 189  197 2 S122068       Y=18 N=12                GILES, VA.                 
+ 189  197 3 TO PASS H.R. 240.                                                 
+ 190   33 1               EX J 2-329A    SRE       MAR. 1, 1813               
+ 190   33 2 E122017       Y=16 N=12                                           
+ 190   33 3 TO CONSENT TO THE APPOINTMENT OF JAMES WILKINSON TO BE A          
+ 190   33 4 MAJOR-GENERAL.                                                    
+ 191   34 1               EX J 2-329B    SRE       MAR. 1, 1813               
+ 191   34 2 E122018       Y=18 N=10                                           
+ 191   34 3 TO CONSENT TO THE NOMINATION OF WADE HAMPTON TO BE A              
+ 191   34 4 MAJOR-GENERAL.                                                    
+ 192   35 1               EX J 2-330A    SRE       MAR. 1, 1813               
+ 192   35 2 E122019       Y=28 N=0                                            
+ 192   35 3 TO CONSENT TO THE APPOINTMENT OF WILLIAM R. DAVY TO BE A          
+ 192   35 4 MAJOR-GENERAL.                                                    
+ 193   36 1               EX J 2-330B    SRE       MAR. 1, 1813               
+ 193   36 2 E122020       Y=20 N=7                                            
+ 193   36 3 TO ADVISE AND CONSENT TO THE APPOINTMENT OF MORGAN LEWIS,         
+ 193   36 4 AS A QUARTERMASTER GENERAL OF THE UNITED STATES ARMY.             
+ 194   37 1               EX J 2-330C    SRE       MAR. 1, 1813               
+ 194   37 2 E122021       Y=23 N=4                                            
+ 194   37 3 TO CONSENT TO THE APPOINTMENT OF WILLIAM H. HARRISON OF THE       
+ 194   37 4 INDIANA TERRITORY TO MAJOR GENERAL.                               
+ 195   38 1               EX J 2-330D    SRE       MAR. 1, 1813               
+ 195   38 2 E122022       Y=27 N=1                                            
+ 195   38 3 TO CONSENT TO THE APPOINTMENT OF AARON OGDEN, TO THE RANK         
+ 195   38 4 OF MAJOR GENERAL.                                                 
+ 196  198 1 A 25- -113    J 12-2-285     S         MAR. 1, 1813               
+ 196  198 2 S122069       Y=9 N=17                 SMITH, MD.                 
+ 196  198 3 TO AMEND S. 69, (2 STAT 819, 3/3/1813), A BILL IMPROVING THE      
+ 196  198 4 ORGANIZATION OF THE GENERAL STAFF OF THE ARMY OF THE U.S.,        
+ 196  198 5 BY ELIMINATING IN SECTION ONE, LINE SEVEN, THE WORDS,             
+ 196  198 6 "SIXTEEN ASSISTANT ADJUTANTS GENERALS".                           
+ 197  199 1 A 25- -116A   J 12-2-288A    HR        MAR. 2, 1813               
+ 197  199 2 S122070       Y=9 N=13                 SMITH, MD.                 
+ 197  199 3 TO AMEND H.R. 248, (2 STAT 821, 3/3/1813), A BILL                 
+ 197  199 4 SUPPLEMENTARY TO THE ACT FOR INCREASING THE NAVY, BY              
+ 197  199 5 ELIMINATING IN SECTION 1, LINE 4, THE WORD "SIX" AND INSERT       
+ 197  199 6 IN LIEU THEREOF THE WORD "TWO".                                   
+ 198  200 1 A 25- -116B   J 12-2-288B    HR        MAR. 2, 1813               
+ 198  200 2 S122071       Y=16 N=7                 SMITH, MD.                 
+ 198  200 3 TO AMEND H.R. 248, BY ELIMINATING IN SECTION 1, LINE 6, THE       
+ 198  200 4 WORDS "OR TO PROCURE".                                            
+ 199  201 1 A 25- -116C   J 12-2-289     HR        MAR. 2, 1813               
+ 199  201 2 S122072       Y=14 N=13                SMITH, MD.                 
+ 199  201 3 TO AMEND H.R. 248, BY ELIMINATING THE 7TH SECTION OF THE          
+ 199  201 4 BILL, AUTHORIZING THE SECRETARIES OF WAR AND NAVY TO FIX THE      
+ 199  201 5 RELATIVE RANK OF OFFICERS OF THE ARMY AND NAVY, TO BE             
+ 199  201 6 APPROVED BY THE PRESIDENT.                                        
+ 200   39 1               EX J 2-333A    SRE       MAR. 3, 1813               
+ 200   39 2 E122023       Y=14 N=13                LLOYD, MASS.               
+ 200   39 3 TO AGREE TO THE RESOLUTION THAT IN THE OPINION OF THE             
+ 200   39 4 SENATE, IT WOULD HEREAFTER BE INEXPEDIENT TO ADVANCE AN           
+ 200   39 5 OFFICER MORE THAN ONE GRADE, BY THE SAME NOMINATION; AND          
+ 200   39 6 THAT THE DEPARTURE FROM THE PRACTICE IN THE CASE OF CAPTAIN       
+ 200   39 7 MORRIS OUGHT NOT TO BE CONSIDERED AS AN IMPUTATION UPON THE       
+ 200   39 8 MERIT OR SERVICE OF ANY OTHER OFFICER.                            
+ 201   40 1               EX J 2-333B    SRE       MAR. 3, 1813               
+ 201   40 2 E122024       Y=18 N=8                                            
+ 201   40 3 TO CONSENT TO THE APPOINTMENT OF THOMAS POSEY TO BE               
+ 201   40 4 GOVERNOR OF THE INDIANA TERRITORY.                                
+ 202  202 1 A 25- -118    J 12-2-291     SRE       MAR. 3, 1813               
+ 202  202 2 S122073       Y=17 N=11                CAMPBELL, TENN.            
+ 202  202 3 TO SUSPEND THE PART OF THE 12TH RULE WHICH REQUIRES THREE         
+ 202  202 4 SEPARATE READINGS.                                                
+ 203  203 1 A 25- -119    J 12-2-298     HR        MAR. 3, 1813               
+ 203  203 2 S122074       Y=14 N=10                BAYARD, DEL.               
+ 203  203 3 TO POSTPONE UNTIL THE FOURTH MONDAY IN MAY NEXT,                  
+ 203  203 4 CONSIDERATION OF H.R. 247, A BILL RELEASING THE CLAIMS OF         
+ 203  203 5 THE UNITED STATES ON CERTAIN GOODS, WARES AND MERCHANDISE,        
+ 203  203 6 CAPTURED BY PRIVATE ARMED VESSELS.                                
+ 204  204 1 A 25- -121    J 12-2-294     HR        MAR. 3, 1813               
+ 204  204 2 S122075       Y=22 N=0                 BAYARD, DEL.               
+ 204  204 3 TO ORDER THIRD READING OF H.R. 170, A BILL SUPPLEMENTARY TO       
+ 204  204 4 THE ACTS ON UNIFORM RULE OF NATURALIZATION.                       

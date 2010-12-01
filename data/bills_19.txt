@@ -1,0 +1,1289 @@
+   1    1 1               EX J 3-441A    SRE       MARCH 7, 1825              
+   1    1 2 E191001       Y=18 N=23                EDWARDS, CONN.             
+   1    1 3 TO PASS THE SENATE RESOLUTION PROVIDING THAT THE                  
+   1    1 4 HONORABLE JAMES LAMMAN, APPOINTED A SENATOR BY THE GOVERNOR       
+   1    1 5 OF THE STATE OF CONNECTICUT, BE ADMITTED TO TAKE OATH             
+   1    1 6 REQUIRED BY THE CONSTITUTION.                                     
+   2    2 1               EX J 3-441B    SRE       MARCH 7, 1825              
+   2    2 2 E191002       Y=27 N=14                                           
+   2    2 3 TO PASS THE RESOLUTION TO CONFIRM THE APPOINTMENT OF              
+   2    2 4 HENRY CLAY AS SECRETARY OF STATE.                                 
+   3    3 1               EX J 3-443     SRE       MARCH 8, 1825              
+   3    3 2 E191003       Y=32 N=8                 EATON, TENN.               
+   3    3 3 TO REMOVE THE INJUNCTION OF SECRECY FROM THE PROCEEDINGS          
+   3    3 4 REGARDING THE RATIFICATION OF THE NOMINATION OF HENRY CLAY        
+   3    3 5 AS SECRETARY OF STATE.                                            
+   4    4 1               EX J 3-444     SRE       MARCH 8, 1825              
+   4    4 2 E191004       Y=18 N=22                HOLMES, MAINE              
+   4    4 3 TO PASS AN AMENDED RESOLUTION CONCERNING PURCHASE OF COPIES       
+   4    4 4 OF JOURNALS OF THE OLD CONGRESS TO BE DISTRIBUTED AMONG           
+   4    4 5 PRESENT AND PAST MEMBERS OF THE SENATE.                           
+   5    5 1               EX J 3-445     SRE       MARCH 9, 1825              
+   5    5 2 E191005       Y=12 N=28                BARBOUR, VA.               
+   5    5 3 TO RATIFY THE FIRST ARTICLE OF A TREATY WITH THE                  
+   5    5 4 REPUBLIC OF COLUMBIA, MOTION MADE IN COMMITTEE OF THE WHOLE.      
+   6    6 1               EX J 3-446A    SRE       MARCH 9, 1825              
+   6    6 2 E191006       Y=12 N=28                BARBOUR, VA.               
+   6    6 3 TO PASS A RESOLUTION RATIFYING THE FIRST ARTICLE OF A             
+   6    6 4 TREATY WITH THE REPUBLIC OF COLUMBIA.                             
+   7    7 1               EX J 3-446B    SRE       MARCH 9, 1825              
+   7    7 2 E191007       Y=0 N=40                 BARBOUR, VA.               
+   7    7 3 TO PASS A RESOLUTION TO RATIFY THE TREATY WITH THE                
+   7    7 4 REPUBLIC OF COLUMBIA, WITH THE EXECPTION OF THE FIRST             
+   7    7 5 ARTICLE.                                                          
+   8   94 1 RD-2- -7      J 19-1-30      SRE       DEC. 9, 1825               
+   8   94 2 S191001       Y=22 N=14                FINDLAY, PA.               
+   8   94 3 TO PASS A RESOLUTION THAT THERE BE ADDED TO THE 30TH RULE         
+   8   94 4 FOR CONDUCTING THE BUSINESS OF THE SENATE A PROVISION FOR A       
+   8   94 5 NEW COMMITTEE, TO BE CALLED THE COMMITTEE ON AGRICULTURE.         
+   9    8 1               EX J 3-464     SRE       DEC. 26, 1825              
+   9    8 2 E191008       Y=39 N=0                 BENTON, MO.                
+   9    8 3 TO ADOPT THE RESOLUTION TO RATIFY THE TREATY BETWEEN THE          
+   9    8 4 U.S. AND THE GREAT AND LITTLE OSAGE TRIBES OF INDIANS.            
+  10    9 1               EX J 3-465A    SRE       DEC. 26, 1825              
+  10    9 2 E191009       Y=38 N=0                 BENTON, MO.                
+  10    9 3 TO PASS A RESOLUTION RATIFYING A TREATY BETWEEN THE U.S. AND      
+  10    9 4 THE KAUZAS NATION OF INDIANS.                                     
+  11   10 1               EX J 3-465B    SRE       DEC. 26, 1825              
+  11   10 2 E191010       Y=38 N=0                 BENTON, MO.                
+  11   10 3 TO PASS A RESOLUTION RATIFYING A TREATY BETWEEN THE U.S. AND      
+  11   10 4 THE SHAWNEE NATION OF INDIANS.                                    
+  12   11 1               EX J 3-468     SRE       DEC. 29, 1825              
+  12   11 2 E191011       Y=38 N=0                 MACON, N.C.                
+  12   11 3 TO PASS A RESOLUTION RATIFYING A TREATY OF PEACE, AMITY,          
+  12   11 4 COMMERCE, AND NAVIGATION BETWEEN THE U.S. AND THE FEDERATION      
+  12   11 5 OF THE CENTER OF AMERICA.                                         
+  13   95 1 RD-2- -50     J 19-1-92      S         JAN. 12, 1826              
+  13   95 2 S191002       Y=26 N=12                HARRISON, OHIO             
+  13   95 3 TO ORDER ENGROSSMENT AND THIRD READING OF A SENATE BILL           
+  13   95 4 ENTITLED:  "PREVENTION OF DESERTION AND TO ENCOURAGE              
+  13   95 5 ENLISTMENT IN THE ARMY."                                          
+  14   96 1 RD-2- -77     J 19-1-110     S         JAN. 25, 1826              
+  14   96 2 S191003       Y=13 N=25                                           
+  14   96 3 TO CONCUR IN THE AMENDMENT TO SENATE BILL "TO SECURE THE          
+  14   96 4 ACCOUNTABILITY OF PUBLIC OFFICERS AND OTHERS" BY                  
+  14   96 5 ELIMINATING THE THIRD SECTION:  "THAT NO PERSON SHALL BE          
+  14   96 6 APPOINTED A COLLECTOR OR RECEIVER WHO SHALL, AT THE TIME OF       
+  14   96 7 APPOINTMENT, BE INDEBTED TO THE U.S."                             
+  15   12 1               EX J 3-496A    SRE       FEB. 2, 1826               
+  15   12 2 E191012       Y=39 N=0                 BENTON, MO.                
+  15   12 3 TO PASS A RESOLUTION RATIFYING A TREATY BETWEEN THE U.S. AND      
+  15   12 4 THE PONCHAR TRIBE OF INDIANS.                                     
+  16   13 1               EX J 3-496B    SRE       FEB. 2, 1826               
+  16   13 2 E191013       Y=39 N=0                 BENTON, MO.                
+  16   13 3 TO PASS A RESOLUTION RATIFYING A TREATY BETWEEN THE U.S. AND      
+  16   13 4 THE TETON, YANCTON, AND YANCTONIES BANDS OF THE SIOUX TRIBE       
+  16   13 5 OF INDIANS.                                                       
+  17   14 1               EX J 3-497A    SRE       FEB. 2, 1826               
+  17   14 2 E191014       Y=39 N=0                 BENTON, MO.                
+  17   14 3 TO PASS A RESOLUTION RATIFYING A TREATY BETWEEN THE U.S. AND      
+  17   14 4 THE SIOUNE AND OGALLA BANDS OF SIOUX INDIANS.                     
+  18   15 1               EX J 3-497B    SRE       FEB. 2, 1826               
+  18   15 2 E191015       Y=39 N=0                 BENTON, MO.                
+  18   15 3 TO PASS A RESOLUTION RATIFYING A TREATY BETWEEN THE U.S. AND      
+  18   15 4 THE CHEYENNE TRIBE OF INDIANS.                                    
+  19   16 1               EX J 3-497C    SRE       FEB. 2, 1826               
+  19   16 2 E191016       Y=39 N=0                 BENTON, MO.                
+  19   16 3 TO PASS A RESOLUTION RATIFYING A TREATY BETWEEN THE U.S. AND      
+  19   16 4 THE HUNKPAPAS BAND OF SIOUX INDIANS.                              
+  20   17 1               EX J 3-498A    SRE       FEB. 2, 1826               
+  20   17 2 E191017       Y=39 N=0                 BENTON, MO.                
+  20   17 3 TO PASS A RESOLUTION RATIFYING A TREATY BETWEEN THE U.S. AND      
+  20   17 4 THE RICARA TRIBE OF INDIANS.                                      
+  21   18 1               EX J 3-498B    SRE       FEB. 2, 1826               
+  21   18 2 E191018       Y=39 N=0                 BENTON, MO.                
+  21   18 3 TO PASS A RESOLUTION RATIFYING A TREATY BETWEEN THE U.S. AND      
+  21   18 4 THE MANDAU TRIBE OF INDIANS.                                      
+  22   19 1               EX J 3-498C    SRE       FEB. 2, 1826               
+  22   19 2 E191019       Y=39 N=0                 BENTON, MO.                
+  22   19 3 TO PASS A RESOLUTION RATIFYING A TREATY BETWEEN THE U.S. AND      
+  22   19 4 THE BELANTSE ETEA OR MINETARLL TRIBE OF INDIANS.                  
+  23   20 1               EX J 3-499A    SRE       FEB. 2, 1826               
+  23   20 2 E191020       Y=39 N=0                 BENTON, MO.                
+  23   20 3 TO PASS A RESOLUTION RATIFYING A TREATY BETWEEN THE U.S. AND      
+  23   20 4 THE CROW TRIBE OF INDIANS.                                        
+  24   21 1               EX J 3-499B    SRE       FEB. 2, 1826               
+  24   21 2 E191021       Y=39 N=0                 BENTON, MO.                
+  24   21 3 TO PASS A RESOLUTION RATIFYING A TREATY BETWEEN THE U.S. AND      
+  24   21 4 THE OTTOE AND MISSOURI TRIBE OF INDIANS.                          
+  25   22 1               EX J 3-499C    SRE       FEB. 2, 1826               
+  25   22 2 E191022       Y=39 N=0                 BENTON, MO.                
+  25   22 3 TO PASS A RESOLUTION RATIFYING A TREATY BETWEEN THE U.S. AND      
+  25   22 4 THE PAWNEE TRIBE OF INDIANS.                                      
+  26   23 1               EX J 3-500A    SRE       FEB. 2, 1826               
+  26   23 2 E191023       Y=39 N=0                 BENTON, MO.                
+  26   23 3 TO PASS A RESOLUTION RATIFYING A TREATY BETWEEN THE U.S. AND      
+  26   23 4 THE MAHA TRIBE OF INDIANS.                                        
+  27   24 1               EX J 3-500B    SRE       FEB. 2, 1826               
+  27   24 2 E191024       Y=39 N=0                 BENTON, MO.                
+  27   24 3 TO PASS A RESOLUTION RATIFYING A TREATY BETWEEN THE U.S. AND      
+  27   24 4 THE CHIPPEWAY, SAC AND FAX, MENOMINIE, IOWAY, SIOUX,              
+  27   24 5 WINNEBAGO AND A PORTION OF THE OTTOWA, CHIPPEWAY, AND             
+  27   24 6 POWATOMIE TRIBES OF INDIANS.                                      
+  28   25 1               EX J 3-501A    SRE       FEB. 2, 1826               
+  28   25 2 E191025       Y=37 N=2                 BENTON, MO.                
+  28   25 3 TO PASS A RESOLUTION CONVEYING TO THE PRESIDENT THE OPINION       
+  28   25 4 OF THE SENATE THAT DANIEL BISSELL IS ENTITLED TO THE RANK OF      
+  28   25 5 COLONEL IN THE U.S. ARMY FROM AUG. 15, 1812, WITH THE BREVET      
+  28   25 6 RANK OF BRIGADEER GENERAL FROM MARCH 9, 1814.                     
+  29   26 1               EX J 3-501B    SRE       FEB. 6, 1826               
+  29   26 2 E191026       Y=23 N=22                WHITE, TENN.               
+  29   26 3 TO TABLE A RESOLUTION CONFIRMING THE NOMINATION OF                
+  29   26 4 RICHARD C. ANDERSON AND JOHN SARGEANT AS ENVOYS                   
+  29   26 5 EXTRAORDINARY AND MINISTERS PLENOPOTENTIARY TO THE ASSEMBLY       
+  29   26 6 OF THE AMERICAN NATIONS AT PANAMA.                                
+  30   97 1 RD-2- -81     J 19-1-131     S         FEB. 7, 1826               
+  30   97 2 S191004       Y=13 N=28                RANDOLPH, VA.              
+  30   97 3 TO POSTPONE THE SENATE BILL TO AUTHORIZE LEGAL REPRESENTAT-       
+  30   97 4 -IVES OF THE MARQUIS DE MAISON ROUGE, TO INSTITUTE A SUIT         
+  30   97 5 AGAINST THE UNITED STATES, BY PETITION IN THE COURTS, TO TRY      
+  30   97 6 THE VALIDITY OF THEIR TITLE.                                      
+  31   98 1 RD-2- -108    J 19-1-146     S         FEB. 14, 1826              
+  31   98 2 S191005       Y=16 N=26                HENDRICKS, IND.            
+  31   98 3 TO AMEND THE SENATE BILL (APP. 3-3-26), (4 STAT. L. 139), TO      
+  31   98 4 PROVIDE FOR A SURVEY OF A ROUTE FOR A CANAL BETWEEN THE           
+  31   98 5 ATLANTIC AND THE GULF OF MEXICO; SAID AMENDMENT TO ADD THAT       
+  31   98 6 THE PRESIDENT IS AUTHORIZED TO CAUSE A FURTHER SURVEY OF THE      
+  31   98 7 COUNTRY BETWEEN THE APPALACHICOLA AND THE MISSISSIPPI RIVERS      
+  31   98 8 WITH THE VIEW OF FORMING AN INLAND NAVIGATION BETWEEN THE         
+  31   98 9 SAME, AND TO ALSO APPROPRIATE $20,000 TO COVER EXPENSES OF        
+  31   9810 SAME.                                                             
+  32   27 1               EX J 3-503A    SRE       FEB. 15, 1826              
+  32   27 2 E191027       Y=23 N=20                VANBUREN, N.Y.             
+  32   27 3 TO PASS A RESOLUTION RELATING TO THE CONGRESS OF PANAMA,          
+  32   27 4 PROVIDING THAT THE SENATE SHOULD ACT WITH OPEN DOORS ON THE       
+  32   27 5 QUESTION OF PENDING REPRESENTATIVES TO PANAMA, AND THE            
+  32   27 6 PRESIDENT SHOULD BE REQUESTED TO INFORM THE SENATE IF THE         
+  32   27 7 PUBLICATION OF DOCUMENTS ON THE SUBJECT WOULD BE                  
+  32   27 8 OBJECTIONABLE.                                                    
+  33   28 1               EX J 3-503B    SRE       FEB. 16, 1826              
+  33   28 2 E191028       Y=20 N=20                HAYNE, S.C.                
+  33   28 3 TO PASS A RESOLUTION CONFIRMING THE APPOINTMENT OF                
+  33   28 4 ROBERT ROTTENGERS AS PURSER IN THE U.S. NAVY AS OF                
+  33   28 5 JULY 16, 1825.                                                    
+  34   29 1               EX J 3-507A    SRE       FEB. 22, 1826              
+  34   29 2 E191029       Y=24 N=20                BARTON, MO.                
+  34   29 3 TO POSTPONE, INDEFINITELY, CONSIDERATION OF THE RESOLUTION        
+  34   29 4 THAT DECLARES THAT THE SENATE HAS THE UNQUESTIONABLE RIGHT        
+  34   29 5 TO CALL ON THE PRESIDENT FOR INFORMATION HE POSSESSES WHICH       
+  34   29 6 THE SENATE DEEMS NECESSARY TO THE DISCHARGE OF ITS DUTIES,        
+  34   29 7 ESPECIALLY CONCERNING MATTERS OF SENATE ADVICE AND CONSENT.       
+  35   30 1               EX J 3-507B    SRE       FEB. 22, 1826              
+  35   30 2 E191030       Y=24 N=20                BARTON, MO.                
+  35   30 3 TO POSTPONE, INDEFINITELY, CONSIDERATION OF THE RESOLUTION        
+  35   30 4 WHICH DECLARES THAT THE TWO SENATE RESOLUTIONS OF THE 15TH        
+  35   30 5 INSTANT REQUESTED INFORMATION WHICH THE SENATE DEEMED             
+  35   30 6 IMPORTANT TO GUIDE ITS DECISION ON A SUBJECT WITHIN THE           
+  35   30 7 SCOPE OF ITS ADVISORY POWER AND DEEPLY INTERESTING TO THE         
+  35   30 8 STATES AND THE PEOPLE OF THE UNION; SAID RESOLUTIONS              
+  35   30 9 CONCERNED UNITED STATES REPRESENTATION AT THE CONGRESS OF         
+  35   3010 PANAMA AND PUBLICATION OF DOCUMENTS RELATING TO SAID              
+  35   3011 CONGRESS.                                                         
+  36   31 1               EX J 3-507C    SRE       FEB. 22, 1826              
+  36   31 2 E191031       Y=24 N=20                BARTON, MO.                
+  36   31 3 TO POSTPONE INDEFINITELY, THE RESOLUTION THAT THE MESSAGE OF      
+  36   31 4 THE PRESIDENT, IN ANSWER TO THE TWO SENATE RESOLUTIONS OF         
+  36   31 5 THE 15TH INSTANT, DOES NOT GIVE THE SENATE THE INFORMATION        
+  36   31 6 IT REQUESTED.                                                     
+  37   32 1               EX J 3-507D    SRE       FEB. 22, 1826              
+  37   32 2 E191032       Y=24 N=20                BARTON, MO.                
+  37   32 3 TO POSTPONE INDEFINITELY THE RESOLUTION DECLARING THAT THE        
+  37   32 4 SENATE HAS THE SOLE RIGHT TO DETERMINE WHAT SHALL BE THE          
+  37   32 5 RULES OF ITS PROCEEDINGS, AND THE PRESIDENT CANNOT INTERFERE      
+  37   32 6 WITH SAME WITHOUT VIOLATING THE CONSTITUTIONAL PRIVELEGES OF      
+  37   32 7 THE SENATE.                                                       
+  38   33 1               EX J 3-508A    SRE       FEB. 22, 1826              
+  38   33 2 E191033       Y=24 N=20                BARTON, MO.                
+  38   33 3 TO PASS THE MOTION TO POSTPONE INDEFINITELY THE RESOLUTION        
+  38   33 4 DECLARING THAT THE SENATE HAS THE SOLE RIGHT TO DETERMINE         
+  38   33 5 WHAT ARE ITS EXISTING RULES OF PROCEDURE, AND THAT THE            
+  38   33 6 PRESIDENT CANNOT OFFICIALLY DECIDE WHAT THE RULES ARE, OR         
+  38   33 7 WHETHER ANY PROPOSED MODE OF ACTING IS A DEPARTURE FROM THEM      
+  38   33 8 OR WHETHER IT WOULD BE ESSENTIAL TO PUBLIC INTEREST THAT          
+  38   33 9 SAME SUPPOSED USAGE OF THE SENATE SHOULD BE PRESUMED              
+  38   3310 UNIMPAIRED.                                                       
+  39   34 1               EX J 3-508B    SRE       FEB. 22, 1826              
+  39   34 2 E191034       Y=24 N=20                BARTON, MO.                
+  39   34 3 TO POSTPONE, INDEFINITELY, CONSIDERATION OF THE RESOLUTION        
+  39   34 4 PROVIDING THAT IT IS NOT COMPENTENT FOR THE PRESIDENT, ON A       
+  39   34 5 CALL FROM THE SENATE, TO DECLINE INFORMATION ON THE GROUNDS       
+  39   34 6 THAT HE DISAPPROVES OF THE MODE OF PROCEDURE WHICH THE            
+  39   34 7 SENATE PROPOSES TO FOLLOW.                                        
+  40   35 1               EX J 3-509     SRE       FEB. 23, 1826              
+  40   35 2 E191035       Y=15 N=29                LLOYD, MASS.               
+  40   35 3 TO POSTPONE INDEFINITELY CONSIDERATION OF THE RESOLUTION          
+  40   35 4 DECLARING THAT AS THE SENATE HAS NOT BEEN INFORMED BY THE         
+  40   35 5 PRESIDENT WHETHER THE PUBLICATION OF THE DOUCMENTS, IN            
+  40   35 6 RELATION TO THE PROPOSED MISSION TO THE CONGRESS OF               
+  40   35 7 PANAMA, WOULD AFFECT ANY PENDING NEGOTIATIONS, IT IS              
+  40   35 8 EXPEDIENT TO PROCEED TO THE DISCUSSION OF THE SUBJECT OF THE      
+  40   35 9 MISSION WITH CLOSED DOORS.                                        
+  41   36 1               EX J 3-510A    SRE       FEB. 23, 1826              
+  41   36 2 E191036       Y=27 N=17                WHITE, TENN.               
+  41   36 3 TO AMEND THE RESOLUTION THAT THE DISCUSSION UPON THE              
+  41   36 4 PROPOSED MISSION TO PANAMA, AND THE CONFIDENTIAL COMMUNI-         
+  41   36 5 -CATIONS UPON SAME, BE HELD WITH CLOSED DOORS, SAID               
+  41   36 6 AMENDMENT TO ELIMINATE THE WORDS TO HOLD SAID DISCUSSION          
+  41   36 7 BEHIND CLOSED DOORS.                                              
+  42   37 1               EX J 3-510B    SRE       FEB. 23, 1826              
+  42   37 2 E191037       Y=13 N=31                WHITE, TENN.               
+  42   37 3 TO ADOPT THE AMENDED RESOLUTION THAT THE SENATE CANNOT            
+  42   37 4 CONSIDER THE QUESTION OF APPOINTING MINISTERS TO THE              
+  42   37 5 CONGRESS AT PANAMA UNTIL RECEIVING INFORMATION NECESSARY TO       
+  42   37 6 DETERMINE WHETHER THE SUBJECT MUST BE DISCUSSED BEHIND            
+  42   37 7 CLOSED DOORS.                                                     
+  43   38 1               EX J 3-510C    SRE       FEB. 23, 1826              
+  43   38 2 E191038       Y=31 N=13                DICKERSON, N.J.            
+  43   38 3 TO AMEND THE RESOLUTION DECLARING THAT AS THE SENATE HAS NOT      
+  43   38 4 BEEN INFORMED BY THE PRESIDENT WHETHER THE PUBLICATION OF         
+  43   38 5 THE DOCUMENTS  IN RELATION TO THE PROPOSED MISSION TO THE         
+  43   38 6 CONGRESS OF PANAMA WOULD AFFECT ANY PENDING NEGOTIATIONS,         
+  43   38 7 IT IS EXPEDIENT TO PROCEED TO THE DISCUSSION OF SAID MISSION      
+  43   38 8 WITH CLOSED DOORS, BY STRIKING OUT ALL AFTER THE FIRST            
+  43   38 9 RESOLVING CLAUSE.                                                 
+  44   39 1               EX J 3-511A    SRE       FEB. 23, 1826              
+  44   39 2 E191039       Y=27 N=16                DICKERSON, N.J.            
+  44   39 3 TO ADOPT THE AMENDMENT AS A SUBSTITUTE FOR THE ORIGINAL           
+  44   39 4 RESOLUTION, WHICH AMENDMENT PROVIDES THAT THE SENATE CANNOT       
+  44   39 5 FIND IN THE ANSWER OF THE PRESIDENT ANY DISTINCT INFORMATION      
+  44   39 6 THAT THE PUBLICATION OF THE COMMUNICATIONS RELATING TO THE        
+  44   39 7 CONGRESS OF PANAMA, WOULD OR WOULD NOT BE PREJUDICAL TO           
+  44   39 8 EXISTING NEGOTIATIONS, THEY FEEL THAT THE PRESIDENT DOES NOT      
+  44   39 9 DESIRE THESE MAY BE MADE PUBLIC.                                  
+  45   99 1 RD-2- -       J 19-1-160     S         FEB. 23, 1826              
+  45   99 2 S191006       Y=28 N=13                SMITH, MARYLAND            
+  45   99 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL         
+  45   99 4 (APP. 5-20-26), TO PAY JAMES DICKSON AND COMPANY A SUM AS A       
+  45   99 5 MOIETY OF THE PROCEEDS ON CERTAIN FOODS IMPORTED BY THEM IN       
+  45   99 6 1812 AND SOLD BY THE UNITED STATES.                               
+  46   40 1               EX J 3-511B    SRE       FEB. 24, 1826              
+  46   40 2 E191040       Y=32 N=12                LLOYD, MASS.               
+  46   40 3 TO CONSIDER THE RESOLUTION CONCERNING THE EXPEDIENCY OF           
+  46   40 4 SENDING MINISTERS TO THE CONGRESS OF PANAMA.                      
+  47  100 1 RD-2- -137    J 19-1-177     HR        MARCH 8, 1826              
+  47  100 2 S191007       Y=12 N=26                SMITH, MD.                 
+  47  100 3 TO AMEND THE HOUSE BILL (APP. 3-14-26), (4 STAT L 149), TO        
+  47  100 4 MAKE APPROPRIATIONS FOR CERTAIN FORTIFICATIONS OF THE U.S.        
+  47  100 5 FOR FISCAL 1826, BY ELIMINATING AN APPROPRIATION OF $17,000       
+  47  100 6 OF LAND AND THE RIGHT OF WAY ON THROG'S POINT, LONG ISLAND        
+  47  100 7 SOUND.                                                            
+  48   41 1               EX J 3-514A    PROC      MARCH 10, 1826             
+  48   41 2 E191041       Y=21 N=23                CHANDLER, MAINE            
+  48   41 3 TO ADJOURN, MOTION MADE DURING CONSIDERATION OF A RESOLUTION      
+  48   41 4 CONFIRMING THE NOMINATION OF RICHARD ANDERSON AND                 
+  48   41 5 JOHN SARGEANT AS ENVOYS EXTRAORDINARY AND MINISTERS               
+  48   41 6 PLENOPOTENTIARY TO THE ASSEMBLY OF THE AMERICAN NATIONS AT        
+  48   41 7 PANAMA.                                                           
+  49   42 1               EX J 3-514B    PROC      MARCH 11, 1826             
+  49   42 2 E191042       Y=23 N=21                DICKERSON, N.J.            
+  49   42 3 TO ADJOURN.                                                       
+  50   43 1 RD-2- -148A   J 19-1-459A    SRE       MARCH 14, 1826             
+  50   43 2 E191042B      Y=20 N=25                HAYNE, S.C.                
+  50   43 3 TO POSTPONE CONSIDERATION OF THE RESOLUTION CONCERNING THE        
+  50   43 4 EXPEDIENCY OF PENDING MINISTERS TO THE CONGRESS OF PANAMA,        
+  50   43 5 AND TO MAKE THE SAME ORDER OF THE DAY ON FRIDAY NEXT.             
+  51   44 1 RD-2- -148B   J 19-1-459B    SRE       MARCH 14, 1826             
+  51   44 2 E191042C      Y=32 N=12                REED, MISS.                
+  51   44 3 TO EXCUSE SENATOR REED FROM VOTING ON THE RESOLUTION THAT         
+  51   44 4 IT IS NOT EXPEDIENT FOR THE U.S. TO SEND ANY MINISTERS TO         
+  51   44 5 THE CONGRESS OF PANAMA BEFORE IT SHALL HAVE RECEIVED              
+  51   44 6 INFORMATION REGARDING THE SUBJECT, TO WHICH THE ATTENTION OF      
+  51   44 7 THE CONGRESS SHALL BE DIRECTED.                                   
+  52   45 1 RD-2- -149    J 19-1-460APP  SRE       MARCH 14, 1826             
+  52   45 2 E191042D      Y=19 N=24                BENTON, MO.                
+  52   45 3 TO AMEND THE RESOLUTION TO SEND A MINISTER TO THE CONGRESS        
+  52   45 4 OF PANAMA, BY ADDING THE FOLLOWING:  "IT IS NOT EXPEDIENT         
+  52   45 5 FOR THE U.S. TO SEND MINISTERS TO THE CONGRESS OF PANAMA          
+  52   45 6 BEFORE IT RECEIVES INFORMATION ON THE FOLLOWING POINTS:  (1)      
+  52   45 7 THE SUBJECTS TO BE DISCUSSED BY THE CONGRESS, (2) THE             
+  52   45 8 SUBSTANCE AND POWERS TO BE GIVEN TO THE RESPECTIVE                
+  52   45 9 REPRESENTATIVES, (3) THE MODE OF ORGANIZING THE CONGRESS,         
+  52   4510 AND (4) THE MODE OF ACTION IN DECIDING THE QUESTION WHICH         
+  52   4511 MAY BE SUBMITTED.                                                 
+  53   46 1 RD-2- -150A   J 19-1-462APP  SRE       MARCH 14, 1426             
+  53   46 2 E191042E      Y=19 N=24                VANBUREN, N.Y.             
+  53   46 3 TO ADOPT THE RESOLUTION THAT IT IS NOT WITHIN THE                 
+  53   46 4 CONSTITUTIONAL POWER OF THE FEDERAL GOVERNMENT TO APPOINT         
+  53   46 5 REPRESENTATIVES TO REPRESENT THE UNITED STATES AT THE             
+  53   46 6 CONGRESS OF PANAMA.                                               
+  54   47 1 RD-2- -150B   J 19-1-462B    SRE       MARCH 14, 1826             
+  54   47 2 E191042F      Y=19 N=24                                           
+  54   47 3 TO PASS THE RESOLUTION THAT IT IS NOT EXPEDIENT, AT THIS          
+  54   47 4 TIME, FOR THE UNITED STATES TO SEND ANY MINISTERS TO THE          
+  54   47 5 CONGRESS OF PANAMA.                                               
+  55   48 1 RD-2- -150C   J 19-1-463A    SRE       MARCH 14, 1826             
+  55   48 2 E191042G      Y=38 N!6                 CHASE, VT.                 
+  55   48 3 TO DISCHARGE THE COMMITTEE ON FOREIGN RELATIONS FROM              
+  55   48 4 FURTHER CONSIDERATION OF THE MESSAGE OF THE PRESIDENT OF          
+  55   48 5 DEC. 26, 1825, NOMINATING RICHARD C. ANDERSON, JOHN SARGEANT      
+  55   48 6 AND WILLIAM B. ROCHESTER TO BE MINISTERS REPRESENTING THE         
+  55   48 7 UNITED STATES AT THE CONGRESS OF PANAMA.                          
+  56   49 1 RD-2- -150D   J 19-1-463B    PROC      MARCH 14, 1826             
+  56   49 2 E191042H      Y=15 N=29                CHANDLER, MAINE            
+  56   49 3 TO ADJOURN.                                                       
+  57   50 1 RD-2- -151A   J 19-1-464APP  SRE       MARCH 14, 1826             
+  57   50 2 E191042I      Y=25 N=19                MILLS, MASS.               
+  57   50 3 TO PROCEED TO THE CONSIDERATION OF PRESIDENT'S MESSAGE OF         
+  57   50 4 DEC. 26, 1825, NOMINATING RICHARD C. ANDERSON, JOHN SARGEANT      
+  57   50 5 AND WILLIAM B. ROCHESTER AS MINISTERS REPRESENTING THE            
+  57   50 6 U.S. AT THE CONGRESS OF PANAMA.                                   
+  58   51 1 RD-2- -151B   J 19-1-465A    SRE       MARCH 14, 1826             
+  58   51 2 E191042J      Y=27 N=17                                           
+  58   51 3 TO ADVISE AND CONSENT TO THE NOMINATION OF                        
+  58   51 4 RICHARD C. ANDERSON, AS A MINISTER TO REPRESENT THE U.S. AT       
+  58   51 5 THE CONGRESS OF PANAMA.                                           
+  59   52 1 RD-2- -151C     J 19-1-465B  SRE       MARCH 14, 1826             
+  59   52 2 E191042K      Y=26 N=18                                           
+  59   52 3 TO ADVISE AND CONSENT TO THE NOMINATION OF JOHN SARGEANT, AS      
+  59   52 4 MINISTER TO REPRESENT THE U.S. AT THE CONGRESS OF PANAMA.         
+  60   53 1 RD-2- -151D   J 19-1-466APP  SRE       MARCH 14, 1826             
+  60   53 2 E191042L      Y=28 N=16                                           
+  60   53 3 TO ADVISE AND CONSENT TO THE NOMINATION OF                        
+  60   53 4 WILLIAM B. ROCHESTER, AS A MINISTER TO REPRESENT THE U.S. AT      
+  60   53 5 THE CONGRESS OF PANAMA.                                           
+  61   54 1 RD-2-152A     J 19-1-467A APPPROC      MARCH 14, 1826             
+  61   54 2 E191042M      Y=13 N=29                BELL, N.H.                 
+  61   54 3 TO ADJOURN, MOTION MADE DURING CONSIDERATION OF RESOLUTION        
+  61   54 4 ON THE EXPEDIENCY OF SENDING MINISTERS TO THE CONGRESS OF         
+  61   54 5 PANAMA.                                                           
+  62   55 1 RD-2-152B     J 19-1-467B APPSRE       MARCH 14, 1826             
+  62   55 2 E191042N      Y=37 N=0                 BERRIEN, GA.               
+  62   55 3 TO PASS THE RESOLUTION THAT THE INJUNCTION OF SECRECY BE          
+  62   55 4 REMOVED FROM THE JOURNAL OF THE SENATE, ON THE SUBJECT OF         
+  62   55 5 SENDING MINISTERS TO THE CONGRESS OF PANAMA.                      
+  63  101 1 RD-2- -364    J 19-1-189     HR        MARCH 20, 1826             
+  63  101 2 S191034       Y=15 N=21                COBB, GA.                  
+  63  101 3 TO AMEND THE HOUSE BILL (APP. 3-25-26), (4 STAT. L. 150), TO      
+  63  101 4 MAKE MILITARY APPROPRIATIONS FOR 1826, SAID AMENDMENT             
+  63  101 5 TO ELIMINATE THE APPROPRIATION FOR THE CONTINUATION OF THE        
+  63  101 6 CUMBERLAND ROAD.                                                  
+  64  102 1 RD-2- -365    J 19-1-190     HR        MARCH 20, 1826             
+  64  102 2 S191035       Y=13 N=19                COBB, GA.                  
+  64  102 3 TO AMEND THE HOUSE BILL (APP. 3-25-26), (4 STAT. L. 150), TO      
+  64  102 4 MAKE MILITARY APPROPRIATIONS FOR 1826, SAID AMENDMENT TO          
+  64  102 5 ELIMINATE THE APPROPRIATION TO DEFRAY THE EXPENSES INCIDEN-       
+  64  102 6 -TAL TO SURVEYS FOR THE FORMATION OF ROADS AND CANALS.            
+  65  103 1 RD-2- -366A   J 19-1-470A    SRE       MARCH 21, 1826             
+  65  103 2 S191036       Y=6 N=30                 MILLS, MASS.               
+  65  103 3 TO POSTPONE CONSIDERATION OF RESOLUTION WHICH PROVIDES THAT       
+  65  103 4 THE INJUNCTION OF SECRECY BE REMOVED FROM THE PRESIDENT'S         
+  65  103 5 MESSAGE OF DEC. 26, 1825, RELATING TO THE PROPOSED ASSEMBLY       
+  65  103 6 OF AMERICAN NATIONS AT PANAMA, AND FROM ALL EXECUTIVE             
+  65  103 7 COMMUNICATIONS, AND DOCUMENTS SENT TO SENATE REGARDING SAME.      
+  66  104 1 RD-2- -366B   J 19-1-470B    SRE       MARCH 21, 1826             
+  66  104 2 S191037       Y=33 N=3                 BENTON, MO.                
+  66  104 3 TO PASS A RESOLUTION PROVIDING THAT THE INJUNCTION OF             
+  66  104 4 SECRECY BE REMOVED FROM THE PRESIDENTS MESSAGE OF                 
+  66  104 5 DEC. 26, 1825, RELATING TO THE PROPOSED ASSEMBLY OF               
+  66  104 6 AMERICAN NATIONS AT PANAMA, AND FROM ALL EXECUTIVE                
+  66  104 7 COMMUNICATIONS, AND DOCUMENTS SENT TO THE SENATE REGARDING        
+  66  104 8 SAME.                                                             
+  67  105 1 RD-2- -367    J 19-1-196     S         MARCH 22, 1826             
+  67  105 2 S191038       Y=14 N=21                BERRIEN, GA.               
+  67  105 3 TO AMEND THE SENATE BILL TO SECURE THE ACCOUNTABILITY OF          
+  67  105 4 DISBURSING OFFICERS AND OTHERS, SAID AMENDMENT BEING THAT NO      
+  67  105 5 PERSON INDEBTED TO THE UNITED STATES SHALL BE APPOINTED TO        
+  67  105 6 APPOINTED TO ANY POSITION THAT WOULD INVOLVE THE HANDLING         
+  67  105 7 OF PUBLIC MONEY.                                                  
+  68  106 1 RD-2- -372    J 19-1-209     HR        MARCH 28, 1826             
+  68  106 2 S191039       Y=27 N=6                 JOHNSON, KY.               
+  68  106 3 TO ORDER ENGROSSMENT AND THIRD READING OF A HOUSE BILL,           
+  68  106 4 (APP. 4-5-26, STAT. 6-6 339), GRANTING A TOWNSHIP OF THE          
+  68  106 5 PUBLIC LANDS FOR THE BENEFIT OF THE INCORPORATED KENTUCKY         
+  68  106 6 ASYLUM FOR TEACHING THE DEAF AND THE DUMB.                        
+  69   56 1               EX J 3-524     SRE       MARCH 29, 1826             
+  69   56 2 E191043       Y=28 N=7                 VANBUREN, N.Y.             
+  69   56 3 TO PASS A RESOLUTION CONFIRMING THE NOMINATION OF                 
+  69   56 4 CHARLES J. INGERSOLL AS U.S. ATTORNEY FOR THE EASTERN             
+  69   56 5 DISTRICT OF PENNSYLVANIA, FOR THE TERM OF FOUR YEARS, FROM        
+  69   56 6 FEB. 28, 1826.                                                    
+  70  107 1 RD-2- -384    J 19-1-213     SRE       MARCH 29, 1826             
+  70  107 2 S191040       Y=25 N=4                 DICKERSON, N.J.            
+  70  107 3 TO ORDER ENGROSSMENT AND THIRD READING OF A RESOLUTION            
+  70  107 4 PROPOSING AN AMENDMENT TO THE U.S. CONSTITUTION, THAT NO          
+  70  107 5 PERSON WHO SHALL HAVE BEEN ELECTED TO THE OFFICE OF               
+  70  107 6 PRESIDENT OF THE U.S. A SECOND TIME, SHALL AGAIN BE               
+  70  107 7 ELIGIBLE TO THAT OFFICE.                                          
+  71   57 1               EX J 3-525     SRE       MARCH 31, 1826             
+  71   57 2 E191044       Y=31 N=9                 VANBUREN, N.Y.             
+  71   57 3 TO PASS A RESOLUTION CONFIRMING THE NOMINATION OF                 
+  71   57 4 GEORGE HAY AS JUDGE OF THE U.S. FOR THE EASTERN DISTRICT OF       
+  71   57 5 VIRGINIA.                                                         
+  72  108 1 RD-2- -407A   J 19-1-222     SRE       APRIL 3, 1826              
+  72  108 2 S191041       Y=32 N=7                 DICKERSON, N.J.            
+  72  108 3 TO ADOPT A RESOLUTION PROPOSING AS AN AMENDMENT TO THE            
+  72  108 4 CONSTITUTION OF THE U.S., THAT NO PERSON WHO SHALL HAVE BEEN      
+  72  108 5 ELECTED TO THE OFFICE OF PRESIDENT OF THE U.S. A SECOND TIME      
+  72  108 6 SHALL AGAIN BE ELIBIBLE TO THAT OFFICE.                           
+  73  109 1 RD-2- -407    J 19-1-224     SRE       APRIL 3, 1826              
+  73  109 2 S191042       Y=28 N=14                HOLMES, MISS.              
+  73  109 3 TO AMEND THE RESOLUTION THAT THE COMMITTEE ON FINANCE BE          
+  73  109 4 INSTRUCTED TO REPORT A BILL PROVIDING FOR A REPEAL OF THE         
+  73  109 5 DUTY ON IMPORTED SALT IN ACCORD WITH THE ESTIMATES AND            
+  73  109 6 PROBABLE REVENUE OF THE CURRENT YEAR, SAID AMENDMENT TO           
+  73  109 7 ELIMINATE:  "TO REPORT A BILL" AND INSERT:  "TO ENQUIRE INTO      
+  73  109 8 THE EXPEDIENCY OF PROVIDING."                                     
+  74  110 1 RD-2- -408    J 19-1-228     S         APRIL 5, 1826              
+  74  110 2 S191043       Y=36 N=3                 LLOYD, MASS.               
+  74  110 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL         
+  74  110 4 WHICH PROVIDES FOR THE REMOVAL OF HULKS SUNK ON ORDER OF THE      
+  74  110 5 AMERICAN COMMANDER, AND NOT THOSE SUNK BY THE ENEMY, IN THE       
+  74  110 6 SAVANNAH RIVER, DURING THE WAR WITH GREAT BRITIAN.                
+  75   58 1               EX J 3-526     SRE       APRIL 6, 1826              
+  75   58 2 E191045       Y=25 N=14                BERRIEN, GA.               
+  75   58 3 TO TABLE THE RESOLUTION TO RATIFY A TREATY BETWEEN THE            
+  75   58 4 UNITED STATES AND THE CREEK NATION OF INDIANS OF JAN. 1826.       
+  76   59 1               EX J 3-528     SRE       APRIL 6, 1826              
+  76   59 2 E191046       Y=9 N=26                 KING, ALA.                 
+  76   59 3 TO ADOPT THE RESOLUTION REQUESTING THE PRESIDENT TO LAY           
+  76   59 4 BEFORE THE SENATE THE TREATY MADE WITH THE CREEK INDIANS IN       
+  76   59 5 FEBRUARY 1825, AND SUCH EVIDENCE HE MAY HAVE THAT THE TREATY      
+  76   59 6 SHOULD NOT NOW BE BINDING.                                        
+  77  111 1 RD-2- -423    J 19-1-232     HR        APRIL 7, 1826              
+  77  111 2 S191044       Y=32 N=4                 VANBUREN, N.Y.             
+  77  111 3 TO AMEND THE HOUSE BILL ENTITLED "AN ACT TO FURTHER AMEND         
+  77  111 4 THE JUDICIAL SYSTEM OF THE U.S."; SPECIFYING THE MAKEUP OF        
+  77  111 5 THE 7TH THRU 10TH CIRCUITS, AND THE ASSIGNMENT OF                 
+  77  111 6 SUPREME COURT JUSTICES THEREOF AND TO REPLACE THE SECTION         
+  77  111 7 WITH AN ALTERED LIST OF DISTRICTS.                                
+  78  112 1 RD-2- -       J 19-1-234     HR        APRIL 10, 1826             
+  78  112 2 S191045       Y=20 N=21                ROWAN, KY.                 
+  78  112 3 TO AMEND THE JUDICIAL BILL SO TO ADD THAT THE CONCURRENCE OF      
+  78  112 4 AT LEAST SEVEN JUSTICES OF THE SUPREME COURT IS NECESSARY IN      
+  78  112 5 ALL DECISIONS AFFECTING CHANGES IN THE LAW OR CONSTITUTION        
+  78  112 6 OF A STATE, OR OF THE U.S.                                        
+  79  113 1 RD-2- -570    J 19-1-235     HR        APRIL 10, 1826             
+  79  113 2 S191046       Y=7 N=34                 ROWAN, KY.                 
+  79  113 3 TO AMEND THE JUDICIAL BILL SO AS TO ADD THAT THE MARSHALL OR      
+  79  113 4 OTHER MINISTERIAL OFFICERS OF A GIVEN STATE SHALL BE              
+  79  113 5 GOVERNED BY THE LAWS OF SAID STATE, EXCEPT IN CASES AFFECT-       
+  79  113 6 -ING THE PUBLIC REVENUE.                                          
+  80  114 1               J 19-1-241     SRE       APRIL 14, 1826             
+  80  114 2 S191047       Y=20 N=19                EATON, TENN.               
+  80  114 3 TO TABLE THE RESOLUTION THAT THE PRESIDENT OF THE SENATE AND      
+  80  114 4 SPEAKER OF THE HOUSE DO ADJOURN THEIR RESPECTIVE HOUSES ON A      
+  80  114 5 MONDAY IN NEXT MAY.                                               
+  81  115 1 RD-2- -570    J 19-1-242A    HR        APRIL 14, 1826             
+  81  115 2 S191048       Y=8 N=34                 WOODBURY, N.H.             
+  81  115 3 TO RECOMMIT THE JUDICIAL BILL TO COMMITTEE WITH INSTRUCTIONS      
+  81  115 4 TO REPORT IT BACK WITH AMENDMENTS WHICH WILL REMOVE ANY           
+  81  115 5 EXISTING GRIEVANCE WITHOUT AN INCREASE IN THE NUMBER OF           
+  81  115 6 JUDGES OF THE SUPREME COURT.                                      
+  82  116 1               J 19-1-242B    HR        APRIL 14, 1826             
+  82  116 2 S191049       Y=7 N=30                 MILLS, MASS.               
+  82  116 3 TO AMEND THE JUDICIAL BILL BY LIMITING THE NUMBER OF              
+  82  116 4 SUPREME COURT ASSOCIATE JUSTICES TO EIGHT.                        
+  83  117 1 RD-2- -571B   J 19-1-243     HR        APRIL 14, 1826             
+  83  117 2 S191050       Y=13 N=23                FINDLAY, PA.               
+  83  117 3 TO AMEND THE JUDICIAL BILL TO ADD THAT ANY JUDGE OF THE           
+  83  117 4 SUPREME COURT OF THE U.S., BEFORE WHOM ANY CASE HAS BEEN, OR      
+  83  117 5 SHALL HEREAFTER BE TRIED, SHALL NOT GIVE HIS OPINION OF THE       
+  83  117 6 CASE IN THE SUPREME COURT.                                        
+  84  118 1 RD-2- -571C   J 19-1-244     HR        APRIL 14, 1826             
+  84  118 2 S191051       Y=2 N=34                 FINDLAY, PA.               
+  84  118 3 TO AMEND THE JUDICIAL BILL BY PROVIDING THAT NO MEMBER OF         
+  84  118 4 EITHER HOUSE OF CONGRESS SHALL APPEAR, OR ACT IN THE U.S.         
+  84  118 5 SUPREME COURT AS AN ATTORNEY, DURING THE PERIOD FOR WHICH         
+  84  118 6 HE SERVES OFFICE.                                                 
+  85  119 1 RD-2- -571D   J 19-1-247B    HR        APRIL 15, 1826             
+  85  119 2 S191052       Y=31 N=8                 HOLMES, ME.                
+  85  119 3 TO PASS THE JUDICIAL BILL.                                        
+  86  120 1 RD-2- -572A   J 19-1-246     SRE       APRIL 15, 1826             
+  86  120 2 S191053       Y=40 N=2                 RANDOLPH, VA.              
+  86  120 3 TO AGREE TO THE RESOLUTION THAT THE 31ST RULE OF THE SENATE,      
+  86  120 4 AS MODIFIED, BE RESTORED TO ITS ORIGINAL FORM, AS BEFORE          
+  86  120 5 MODIFICATION, WHICH HAS THE EFFECT OF RETURNING THE POWER OF      
+  86  120 6 APPOINTING COMMITTEES TO THE SENATE.                              
+  87  121 1 RD-2- -572B   J 19-1-247A    SRE       APRIL 15, 1826             
+  87  121 2 S191054       Y=35 N=6                 RANDOLPH, VA.              
+  87  121 3 TO PASS A RESOLUTION THAT THE CONTROL OVER THE JOURNAL OF         
+  87  121 4 PROCEEDINGS BE TAKEN FROM THE PRESIDENT OF THE SENATE AND         
+  87  121 5 RESTORED TO THE SENATE ITSELF.                                    
+  88   60 1               EX J 3-531A    SRE       APRIL 17, 1826             
+  88   60 2 E191047       Y=2 N=35                 LLOYD, MASS.               
+  88   60 3 TO PASS A RESOLUTION CONFIRMING THE APPOINTMENT OF                
+  88   60 4 AMOS BINNEY AS NAVY AGENT IN BOSTON.                              
+  89   61 1               EX J 3-531B    SRE       APRIL 21, 1826             
+  89   61 2 E191048       Y=30 N=8                 BERRIEN, GA.               
+  89   61 3 TO AMEND THE CREEK INDIAN RESOLUTION SO AS TO DECLARE VOID        
+  89   61 4 THE FIRST ARTICLE OF THE FEBRUARY, 1825, TREATY WITH THE          
+  89   61 5 CREEK INDIANS.                                                    
+  90   62 1               EX J 3-533A    SRE       APRIL 21, 1826             
+  90   62 2 E191049       Y=9 N=25                 WHITE, TENN.               
+  90   62 3 TO AMEND THE CREEK INDIAN RESOLUTION SO AS TO ADD THE             
+  90   62 4 FOLLOWING:  (1) TO PROVIDE $30,000 FOR EACH 1000 CREEK            
+  90   62 5 INDIANS WILLING TO EMIGRATE WEST OF THE MISSISSIPPI, (2) TO       
+  90   62 6 GIVE SUPPORT TO SAID EMIGRANTS AFTER THEIR ARRIVAL AT THEIR       
+  90   62 7 DESTINATION AND (2) TO PROVIDE FOR THE APPOINTMENT OF AN          
+  90   62 8 AGENT ACCEPTABLE TO THE INDIANS.                                  
+  91   63 1               EX J 3-533B    SRE       APRIL 21, 1826             
+  91   63 2 E191050       Y=30 N=7                 BENTON, MO.                
+  91   63 3 TO PASS THE CREEK INDIAN RESOLUTION.                              
+  92  122 1 RD-2- -620    J 19-1-261     S         APRIL 22, 1826             
+  92  122 2 S191055       Y=20 N=15                THOMAS, ILL.               
+  92  122 3 TO PASS THE SENATE BILL (APP. 5-13-1826), (4 STAT. L. 162),       
+  92  122 4 THAT AUTHORIZES THE PURCHASE OF 1,000 SHARES OF STOCK BY          
+  92  122 5 THE UNITED STATES, IN THE LOUISVILLE AND PORTLAND CANAL CO.,      
+  92  122 6 ON THE SAME TERMS GRANTED TO OTHER STOCK HOLDERS.                 
+  93  123 1               J 19-1-263     S         APRIL 24, 1826             
+  93  123 2 S191056       Y=17 N=26                MILLS, MASS.               
+  93  123 3 TO RECOMMIT THE SENATE BILL REGARDING THE CLAIM OF                
+  93  123 4 ARNOLD STETSON TO THE COMMITTEE ON CLAIMS, WITH INSTRUCTIONS      
+  93  123 5 TO REPORT AN AMENDMENT TO PROVIDE INDEMNITY FOR HIS LOSS ON       
+  93  123 6 TREASURY VOTES.                                                   
+  94  124 1               J 19-1-271     PROC      APRIL 26, 1826             
+  94  124 2 S191057       Y=18 N=26                BRANCH, N.C.               
+  94  124 3 TO ADJOURN, MOTION MADE DURING CONSIDERATION OF A MOTION          
+  94  124 4 RELATIVE TO THE EXTENT OF THE POWER OF THE EXECUTIVE IN THE       
+  94  124 5 APPOINTMENT OF FOREIGN MINISTERS.                                 
+  95  125 1 RD-2- -642    J 19-1-274     SRE       APRIL 27, 1826             
+  95  125 2 S191058       Y=23 N=21                BELL, N.H.                 
+  95  125 3 TO TABLE THE RESOLUTION THAT THE PRESIDENT OF THE U.S., DOES      
+  95  125 4 NOT, WITHOUT THE ADVISE AND CONSENT OF THE SENATE                 
+  95  125 5 CONSTITUTIONALLY POSSESS EITHER THE RIGHT, OR THE POWER, TO       
+  95  125 6 APPOINT AMBASSADORS OR OTHER PUBLIC MINISTERS, EXCEPT WHEN        
+  95  125 7 VACANCIES MAY OCCUR IN THE RECESS.                                
+  96  126 1 RD-2- -643    J 19-1-277     HRE       APRIL 28, 1826             
+  96  126 2 S191059       Y=19 N=19                MARKS, PA.                 
+  96  126 3 TO ADOPT THE RESOLUTION THAT A SURVEY BE MADE OF CERTAIN          
+  96  126 4 ROUTES BETWEEN BALTIMORE AND PHILADELPHIA, FOR A POST ROAD.       
+  97  127 1 RD-2- -644    J 19-1-279     S         APRIL 28, 1826             
+  97  127 2 S191060       Y=11 N=28                BRANCH, N.C.               
+  97  127 3 TO POSTPONE, INDEFINITELY, THE SENATE BILL TO ESTABLISH A         
+  97  127 4 UNIFORM SYSTEM OF BANKRUPTCY THROUGHOUT THE U.S.                  
+  98  128 1 RD-2- -645    J 19-1-284     S         MAY 1, 1826                
+  98  128 2 S191061       Y=14 N=26                ROWAN, KY.                 
+  98  128 3 TO AMEND A SENATE BILL (APP. 5-13-26), "TO AMEND THE SEVERAL      
+  98  128 4 ACTS FOR THE ESTABLISHMENT OF A TERRITORIAL GOVERNMENT IN         
+  98  128 5 FLORIDA," SAID AMENDMENT BEING TO EXEMPT THAT ACT GRANTING        
+  98  128 6 DIVORCES, FROM CLAUSE WHICH ANNULS AND REPEALS VARIOUS ACTS       
+  98  128 7 PASSED BY THE GOVERNOR AND COUNCIL OF THE TERRITORY, SO THAT      
+  98  128 8 DIVORCES GRANTED IN NOV. AND DEC. 1825 MAY REMAIN LEGAL.          
+  99   64 1               EX J 3-535A    SRE       MAY 2, 1826                
+  99   64 2 E191051       Y=29 N=2                 BENTON, MO.                
+  99   64 3 TO PASS A RESOLUTION RATIFYING A TREATY BETWEEN THE U.S. AND      
+  99   64 4 THE GREAT AND LITTLE OSAGE TRIBES OF INDIANS.                     
+ 100   65 1               EX J 3-535B    SRE       MAY 2, 1826                
+ 100   65 2 E191052       Y=30 N=1                 BENTON, MO.                
+ 100   65 3 TO PASS A RESOLUTION RATIFYING A TREATY BETWEEN THE U.S. AND      
+ 100   65 4 THE KANZAS NATION OF INDIANS.                                     
+ 101  129 1 RD-2- -667A   J 19-1-287     HR        MAY 2, 1826                
+ 101  129 2 S191062       Y=19 N=24                BERRIEN, GA.               
+ 101  129 3 TO AMEND A HOUSE BILL (APP. 5-4-26), (4 STAT. 6. 158), TO         
+ 101  129 4 MAKE APPROPRIATIONS FOR APPOINTMENT OF A MISSION TO PANAMA,       
+ 101  129 5 BY ADDING, THAT IN SENDING A MISSION TO PANAMA, TO EXTEND         
+ 101  129 6 OUR COMMERCIAL RELATIONS, NOTHING IN THIS ACT SHALL BE            
+ 101  129 7 CONSTRUED AS A DEPARTURE FROM THE SETTLED POLICY OF THIS          
+ 101  129 8 GOVERNMENT, WHICH IS TO FORM NO EXTANGLING ALLIANCES WITH         
+ 101  129 9 ANY OTHER NATION.                                                 
+ 102  130 1 RD-2- -667B   J 19-1-288     HR        MAY 2, 1826                
+ 102  130 2 S191063       Y=24 N=19                SMITH, MD.                 
+ 102  130 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE HOUSE BILL          
+ 102  130 4 (APP. 5-2-26), (4 STAT. L. 158) MAKING APPROPRIATIONS FOR         
+ 102  130 5 CARRYING INTO EFFECT THE APPOINTMENT OF A MISSION AT THE          
+ 102  130 6 CONGRESS OF PANAMA.                                               
+ 103  131 1 RD-2- -671A   J 19-1-291A    HR        MAY 3, 1826                
+ 103  131 2 S191064       Y=29 N=12                VANBUREN, N.Y.             
+ 103  131 3 TO ADHERE TO THE SENATE AMENDMENT TO THE JUDICIAL BILL,           
+ 103  131 4 WHICH PROVIDES THAT THE JUDGES OF CIRCUIT COURTS RESIDE           
+ 103  131 5 WITHIN THEIR RESPECTIVE CIRCUITS.                                 
+ 104  132 1 RD-2- -671B   J 19-1-291B    HR        MAY 3, 1826                
+ 104  132 2 S191065       Y=23 N=19                SMITH, MD.                 
+ 104  132 3 TO PASS THE HOUSE BILL (APP. 5-4-1826), (4 STAT. L 158), TO       
+ 104  132 4 MAKE APPROPRIATIONS FOR CARRYING INTO EFFECT THE APPOINTMENT      
+ 104  132 5 OF A MISSION TO THE CONGRESS OF PANAMA.                           
+ 105   66 1               EX J 3-536     SRE       MAY 4, 1826                
+ 105   66 2 E191053       Y=35 N=0                 MACON, N.C.                
+ 105   66 3 TO PASS A RESOLUTION RATIFYING A TREATY OF FRIENDSHIP,            
+ 105   66 4 COMMERCE, AND NAVIGATION BETWEEN THE U.S. AND THE KING OF         
+ 105   66 5 DENMARK.                                                          
+ 106   67 1               EX J 3-537     SRE       MAY 9, 1826                
+ 106   67 2 E191054       Y=7 N=25                 BENTON, MO.                
+ 106   67 3 TO REFER THE NOMINATION OF ROBERT TRIMBLE AS ASSOCIATE            
+ 106   67 4 JUSTICE OF THE SUPREME COURT, TO THE COMMITTEE ON JUDICIARY       
+ 106   67 5 WITH INSTRUCTIONS TO REPORT ON TRIMBLE'S ATTITUDE, WHILE          
+ 106   67 6 DISTRICT JUDGE OF KENTUCKY, TO EXECUTIONS.                        
+ 107   68 1               EX J 3-538     SRE       MAY 9, 1826                
+ 107   68 2 E191055       Y=27 N=5                                            
+ 107   68 3 TO PASS A RESOLUTION CONFIRMING THE NOMINATION OF                 
+ 107   68 4 ROBERT TRIMBLE AS AN ASSOCIATE JUSTICE OF THE SUPREME COURT       
+ 107   68 5 OF THE UNITED STATES.                                             
+ 108  133 1 RD-2- -       J 19-1-311     SRE       MAY 9, 1826                
+ 108  133 2 S191066       Y=20 N=15                ROBBINS, R.I.              
+ 108  133 3 TO ADOPT A RESOLUTION AUTHORIZING THE SECRETARY OF THE            
+ 108  133 4 SENATE TO PURCHASE COPIES OF THE JOURNAL OF PAST CONGRESSES,      
+ 108  133 5 FOR USE BY THE SENATE, AND TO ALSO PURCHASE COPIES OF             
+ 108  133 6 INGERSOLL'S ABRIDGEMENT OF THE LAWS FOR THE USE OF THE            
+ 108  133 7 SENATE.                                                           
+ 109  134 1 RD-2- -698    J 19-1-317A    S         MAY 10, 1826               
+ 109  134 2 S191067       Y=17 N=17                THOMAS, ILL.               
+ 109  134 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL         
+ 109  134 4 (APP. 3-2-27), (4 STAT. L. 234), TO GRANT A CERTAIN QUANTITY      
+ 109  134 5 OF LAND TO ILLINOIS FOR A CANAL TO CONNECT THE ILLINOIS           
+ 109  134 6 RIVER WITH LAKE MICHIGAN.                                         
+ 110  135 1 RD-2- -703    J 19-1-317B    S         MAY 10, 1826               
+ 110  135 2 S191068       Y=24 N=13                VANBUREN, N.Y.             
+ 110  135 3 TO AGREE TO THE REPORT OF THE JUDICIARY COMMITTEE ON THE          
+ 110  135 4 JUDICIAL BILL, WHICH ADVISES THE SENATE NOT TO GRANT A            
+ 110  135 5 CONFERENCE TO THE HOUSE REGARDING THE SENATE AMENDMENT            
+ 110  135 6 AUTHORIZING THE APPOINTMENT OF THREE NEW CIRCUIT JUDGES, WHO      
+ 110  135 7 ARE REQUIRED TO RESIDE WITHIN THEIR CIRCUITS.                     
+ 111  136 1               J 19-1-319     HR        MAY 10, 1826               
+ 111  136 2 S191069       Y=31 N=3                 SMITH, MD.                 
+ 111  136 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE HOUSE BILL          
+ 111  136 4 (APP. 5-20-26), (4 STAT. L. 181), TO MAKE APPROPRIATIONS TO       
+ 111  136 5 CARRY OUT THE TREATY WITH THE CREEK INDIAN NATIONS.               
+ 112  137 1 RD-2- -708A   J 19-1-330     S         MAY 12, 1826               
+ 112  137 2 S191070       Y=21 N=12                HOLMES, MAINE              
+ 112  137 3 TO POSTPONE UNTIL THE FIRST MONDAY IN NEXT DECEMBER, FURTHER      
+ 112  137 4 CONSIDERATION OF THE SENATE BILL TO ESTABLISH CERTAIN             
+ 112  137 5 COLLECTION DISTRICTS IN THE STATES OF KENTUCKY, OHIO,             
+ 112  137 6 INDIANA, ILLINOIS, AND MISSOURI.                                  
+ 113  138 1 RD-2- -708B   J 19-1-334     S         MAY 13, 1826               
+ 113  138 2 S191071       Y=11 N=21                CHANDLER, MAINE            
+ 113  138 3 TO TABLE THE SENATE BILL TO PROVIDE APPROPRIATIONS FOR            
+ 113  138 4 REMOVAL OF THE BAR AT THE EAST PASS OF THE MOUTH OF THE           
+ 113  138 5 PASCAGOULA RIVER, AND FOR IMPROVING THE HARBOR THEREOF.           
+ 114  139 1 RD-2- -709A   J 19-1-337     S         MAY 13, 1826               
+ 114  139 2 S191072       Y=16 N=14                HARRISON, OHIO             
+ 114  139 3 TO TABLE THE SENATE BILL SUPPLEMENTARY TO AN ACT ENTITLED         
+ 114  139 4 "AN ACT TO REGULATE THE COMMERCIAL INTERCOURSE BETWEEN THE        
+ 114  139 5 UNITED STATES AND CERTAIN BRITISH COLONIAL PORTS."                
+ 115  140 1 RD-2- -709B   J 19-1-340     HR        MAY 15, 1826               
+ 115  140 2 S191073       Y=24 N=14                HAYNE, S.C.                
+ 115  140 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE HOUSE BILL          
+ 115  140 4 (APP. 5-17-26), (4 STAT. L. 168), AN ACT SUPPLEMENTARY TO AN      
+ 115  140 5 ACT FOR THE GRADUAL INCREASE OF THE NAVY OF THE U.S.              
+ 116  141 1 RD-2- -720    J 19-1-345     HR        MAY 15, 1826               
+ 116  141 2 S191074       Y=21 N=16                HENDRICKS, IND.            
+ 116  141 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE HOUSE BILL          
+ 116  141 4 (APP. 5-17-26), (4 STAT. L. 169), WHICH PROVIDES FOR THE          
+ 116  141 5 SUBSCRIPTION OF STOCK IN THE DISMAL SWAMP CANAL CO.               
+ 117  142 1 RD-2- -754    J 19-1-353     HR        MAY 17, 1826               
+ 117  142 2 S191076       Y=22 N=11                ROWAN, KY.                 
+ 117  142 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE HOUSE BILL          
+ 117  142 4 (APP. 5-20-26), (4 STAT. L. 178), FOR THE ERECTION OF A           
+ 117  142 5 PENITENTIARY IN THE DISTRICT OF COLUMBIA.                         
+ 118  143 1 RD-2- -760    J 19-1-361     HR        MAY 18, 1826               
+ 118  143 2 S191077       Y=22 N=13                ROWAN, KY.                 
+ 118  143 3 TO PASS THE HOUSE BILL (APP. 5-20-26), (4 STAT. L. 178), FOR      
+ 118  143 4 THE ERECTION OF A PENITENTIARY IN THE DISTRICT OF COLUMBIA.       
+ 119  144 1 RD-2- -764    J 19-1-364     S         MAY 18, 1826               
+ 119  144 2 S191078       Y=25 N=14                WHITE, TENN.               
+ 119  144 3 TO AMEND THE SENATE BILL (APP. 5-22-26, 6 STAT. 6. 354), FOR      
+ 119  144 4 THE SETTLEMENT OF THE CLAIM OF JAMES MONROE AGAINST THE           
+ 119  144 5 U.S., SAID AMENDMENT PROVIDES THAT A CERTAIN SUM BE ALLOWED       
+ 119  144 6 MR. MONROE IN FULL SETTLEMENT OF ALL CLAIMS INSTEAD OF ANY        
+ 119  144 7 OTHER SUM HERETOFORE AGREED UPON.                                 
+ 120  145 1 RD-2- -765A   J 19-1-365     HR        MAY 18, 1826               
+ 120  145 2 S191079       Y=23 N=15                                           
+ 120  145 3 TO READ THE HOUSE BILL (APP. 3-2-27, 4 STAT. 6. 228), FOR         
+ 120  145 4 THE PRESERVATION AND REPAIR OF THE CUMBERLAND ROAD, FOR A         
+ 120  145 5 SECOND TIME.                                                      
+ 121  146 1 RD-2- -765B   J 19-1-371     HR        MAY 19, 1826               
+ 121  146 2 S191080       Y=21 N=8                 EATON, TENN.               
+ 121  146 3 TO AMEND THE HOUSE BILL (APP. 5-20-26, 4 STAT. 6. 180), TO        
+ 121  146 4 EXTEND THE WIDTH OF THE WASHINGTON CANAL, BY ELIMINATING THE      
+ 121  146 5 SECOND SECTION, WHICH EMPOWERS THE AFORESAID CANAL COMPANY        
+ 121  146 6 TO IMPOSE WHARFAGE CHARGES ON ALL ARTICLES, EXCEPT PUBLIC         
+ 121  146 7 PROPERTY, LANDED THEREON, ON TAKEN FROM THE WHARVES, OR TO        
+ 121  146 8 LEASE THE WHARVES AND COLLECT THE RENT THEREFROM.                 
+ 122  147 1 RD-2- -781    J 19-1-373     SCR       MAY 19, 1826               
+ 122  147 2 S191081       Y=26 N=14                HARRISON, OHIO             
+ 122  147 3 TO PASS THE SENATE CONNURNENT THAT BOTH HOUSES DO NOT             
+ 122  147 4 ADJOURN ON MONDAY, MAY 22, 1826, AND THAT THE RESOLUTION          
+ 122  147 5 PASSED TO THAT EFFECT BE REPEALED, THAT THE PRESIDENT OF THE      
+ 122  147 6 SENATE AND THE SPEAKER OF THE HOUSE OF REPRESENTATIVES BE         
+ 122  147 7 AUTHORIZED TO ADJOURN THEIR RESPECTIVE HOUSES ON THURSDAY,        
+ 122  147 8 MAY 25, 1826.                                                     
+ 123  148 1 RD-2- -782A   J 19-1-375     HR        MAY 19, 1826               
+ 123  148 2 S191082       Y=18 N=9                 SMITH, MD.                 
+ 123  148 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE HOUSE BILL          
+ 123  148 4 (APP. 5-20-26), (L STAT. 6. 346), FOR THE RELIEF OF               
+ 123  148 5 BENEDICT JOSEPH FLAGET, BISHOP OF BARDSTOWN, STATE OF KY.         
+ 124  149 1 RD-2- -782B   J 19-1-378     SRE       MAY 20, 1826               
+ 124  149 2 S191083       Y=14 N=19                BRANCH, N.C.               
+ 124  149 3 TO RECONSIDER THE VOTE TO EXTEND THE TIME FOR THE                 
+ 124  149 4 ADJOURNMENT OF CONGRESS UNTIL NEXT THURSDAY.                      
+ 125  150 1 RD-2- -787A   J 19-1-390     HR        MAY 20, 1826               
+ 125  150 2 S191084       Y=7 N=23                 HAYNE, S.C.                
+ 125  150 3 TO TABLE THE HOUSE BILL (APP. 5-20-1829, 4 STAT. 6. 194), TO      
+ 125  150 4 MAKE APPROPRIATIONS FOR THE PUBLIC BUILDING IN WASHINGTON.        
+ 126  151 1 RD-2- -787B   J 19-1-391     HR        MAY 20, 1826               
+ 126  151 2 S191085       Y=17 N=14                CHAMBERS, MD.              
+ 126  151 3 TO RECOMMIT THE PUBLIC BUILDINGS BILL TO THE COMMITTEE OF         
+ 126  151 4 THE DISTRICT OF COLUMBIA, WITH INSTRUCTIONS TO ADD AN AMEND-      
+ 126  151 5 -MENT MAKING AN APPROPRIATION OF $30,000 FOR THE REPAIR OF        
+ 126  151 6 THE CUMBERLAND ROAD.                                              
+ 127  152 1 RD-2- -       J 19-1-392     HR        MAY 20, 1826               
+ 127  152 2 S191086       Y=13 N=17                WOODBURY, N.H.             
+ 127  152 3 TO AMEND A COMMITTEE AMENDMENT TO THE PUBLIC BUILDINGS BILL,      
+ 127  152 4 SO AS TO PROVIDE THAT A SUM EQUAL TO THE $30,000 APPROPRIA-       
+ 127  152 5 TION, REMAINS UNEXPENDED OF THE 2% FUND RESERVED FOR MAKING       
+ 127  152 6 ROAD TO OHIO.  THE COMMITTEE AMENDMENT PROVIDES TO                
+ 127  152 7 APPROPRIATE $30,000 FOR REPAIRING THE CUMBERLAND ROAD.            
+ 128  153 1 RD-2- -787    J 19-1-392     HR        MAY 20, 1826               
+ 128  153 2 S191087       Y=17 N=14                BRANCH, N.C.               
+ 128  153 3 TO AGREE TO THE AMENDMENT TO THE PUBLIC BUILDINGS BILL, TO        
+ 128  153 4 APPROPRIATE $30,000 FOR REPAIRING THE CUMBERLAND ROAD.            
+ 129  154 1 RD-2- -787E   J 19-1-401     PROC      MAY 20, 1826               
+ 129  154 2 S191088A      Y=8 N=16                 TAZEWELL, VA.              
+ 129  154 3 TO ADJOURN.                                                       
+ 130  155 1 RD-2- -788A   J 19-1-404A    SRE       MAY 22, 1826               
+ 130  155 2 S191088B      Y=17 N=13                BENTON, MO.                
+ 130  155 3 TO CONSIDER THE SENATE RESOLUTION ON UNFINISHED BUSINESS,         
+ 130  155 4 WHICH PROVIDES THAT ALL BUSINESS PENDING AT THE END OF A          
+ 130  155 5 SESSION OF CONGRESS, WHICH IS NOT A LAST SESSION, SHALL           
+ 130  155 6 STAND CONTINUED OVER TO THE NEXT SESSION AND MAKE AVAILABLE       
+ 130  155 7 ON THE FIRST DAY OF THE SUCCEDING SESSION.                        
+ 131  156 1 RD-2- -788B   J 19-1-404B    SRE       MAY 22, 1826               
+ 131  156 2 S191089       Y=13 N=18                BENTON, MO.                
+ 131  156 3 TO PASS A RESOLUTION THAT ALL BUSINESS PENDING AT THE END         
+ 131  156 4 OF A SESSION OF CONGRESS, WHICH IS NOT A LAST SESSION, SHALL      
+ 131  156 5 NOT ABATE, BUT STAND CONTINUED OVER TO THE NEXT SESSION, AND      
+ 131  156 6 BE MADE AVAILABLE ON THE FIRST DAY OF THE SUCCEEDING              
+ 131  156 7 SESSION.                                                          
+ 132  157 1 RD- - -4      J 19-2-27      SRE       DEC. 8, 1826               
+ 132  157 2 S192001       Y=25 N=19                CHAMBERS, MD.              
+ 132  157 3 TO PASS THE RESOLUTION THAT, IN THE APPOINTMENT OF THE            
+ 132  157 4 STANDING COMMITTEES THE SENATE WILL PROCEED BY SEVERALLY          
+ 132  157 5 APPOINTING THE CHAIRMAN OF EACH COMMITTE, AND THEN BY ONE         
+ 132  157 6 BALLOT FOR THE OTHER MEMBERS NECESSARY TO COMPLETE THE SAME;      
+ 132  157 7 AND A MAJORITY OF THE WHOLE NUMBER OF VOTES GIVEN BE              
+ 132  157 8 NECESSARY TO THE CHOICE OF CHAIRMAN.                              
+ 133   69 1               EX J 3-550     SRE       DEC. 22, 1826              
+ 133   69 2 E192001A      Y=29 N=14                                           
+ 133   69 3 TO RETAIN THE FOLLOWING WORDS IN ARTICLE FOUR OF A TREATY         
+ 133   69 4 BETWEEN THE U.S. AND THE CHIPPEWA INDIANS= "JURISDICTION          
+ 133   69 5 AND."                                                             
+ 134   70 1               EX J 3-554     SRE       DEC. 26, 1826              
+ 134   70 2 E192001B      Y=34 N=0                 SANFORD, N.Y.              
+ 134   70 3 TO RATIFY A TREATY WITH THE UNITED KINGDOM OF GREAT BRITIAN       
+ 134   70 4 AND IRELAND.                                                      
+ 135   71 1               J 19-2-308 APP SRE       JAN. 5, 1827               
+ 135   71 2 E192001C      Y=27 N=14                                           
+ 135   71 3 TO RATIFY ARTICLE FOUR OF THE TREATY BETWEEN THE U.S. AND         
+ 135   71 4 THE CHIPPEWA INDIANS AS IN THE COMMITTEE OF THE WHOLE.            
+ 136   72 1               J 19-2-309A APPSRE       JAN. 11, 1827              
+ 136   72 2 E192001D      Y=28 N=15                BENTON, MO.                
+ 136   72 3 TO RATIFY ARTICLE FOUR OF THE TREATY BETWEEN THE U.S. AND         
+ 136   72 4 THE CHIPPEWA INDIANS.                                             
+ 137  158 1 RD- -65       J 19-2-97      S         JAN. 15, 1827              
+ 137  158 2 S192005       Y=35 N=10                JOHNSON, KY.               
+ 137  158 3 TO PASS THE SENATE BILL (APP. 3-2-27), (4 STAT. L. 239), TO       
+ 137  158 4 INCREASE THE SALARY OF THE POSTMASTER GENERAL.                    
+ 138   73 1               J 19-2-309B APPSRE       JAN. 16, 1827              
+ 138   73 2 E192001E      Y=26 N=18                BENTON, MO.                
+ 138   73 3 TO RATIFY THE FIFTH ARTICLE OF A TREATY BETWEEN THE U.S. AND      
+ 138   73 4 THE CHIPPEWA INDIANS.                                             
+ 139   74 1               J 19-2-310 APP SRE       JAN. 16, 1827              
+ 139   74 2 E192001F      Y=35 N=8                 BENTON, MO.                
+ 139   74 3 TO PASS A RESOLUTION RATIFYING A TREATY BETWEEN THE U.S. AND      
+ 139   74 4 THE CHIPPEWA INDIANS, AND THE SUPPLEMENTARY ARTICLES THERETO      
+ 139   74 5 WITH THE EXCEPTION OF THE FOURTH AND FIFTH ARTICLES.              
+ 140   75 1               J 19-2-311 APP SRE       JAN. 19, 1827              
+ 140   75 2 E192001G      Y=15 N=23                COBB, GA.                  
+ 140   75 3 TO RETAIN IN THE TREATY WITH THE POTTAWATAMIE INDIANS THAT        
+ 140   75 4 PART OF AN ARTICLE PROVIDING THAT THE INDIANA GENERAL             
+ 140   75 5 ASSEMBLY SHALL HAVE THE RIGHT TO LOCATE THE SAID ROAD, AND        
+ 140   75 6 APPLY THE SAID SECTIONS, OR THE PROCEEDS THEREOF, TO THE          
+ 140   75 7 MAKING OF SAME OR ANY PART THEREOF, AND SAID GRANT SHALL BE       
+ 140   75 8 AT THEIR SOLE DISPOSAL.                                           
+ 141   76 1               J 19-2-312A APPSRE       JAN. 19, 1827              
+ 141   76 2 E192001H      Y=33 N=6                 REED, MISS.                
+ 141   76 3 TO RATIFY THE SEVENTH ARTICLE AS IN COMMITTEE OF THE WHOLE,       
+ 141   76 4 OF A TREATY BETWEEN THE U.S. AND THE POTAWATAMIE INDIANS.         
+ 142   77 1               J 19-2-312B APPSRE       JAN. 19, 1827              
+ 142   77 2 E192001I      Y=31 N=8                 CHANDLER, MAINE            
+ 142   77 3 TO RETAIN THE FOLLOWING WORDS IN ARTICLE TWO OF A TREATY          
+ 142   77 4 WITH THE POTAWTAMIE INDIANS:  "FOR THE PURPOSE OF MAKING A        
+ 142   77 5 ROAD AFORESAID FROM LAKE MICHIGAN, BY THE WAY OF                  
+ 142   77 6 INDIANOPOLIS TO SOME CONVIENT POINT ON THE OHIO RIVER."           
+ 143   78 1               J 19-2-313 APP SRE       JAN. 19, 1827              
+ 143   78 2 E192001J      Y=19 N=20                COBB, GA.                  
+ 143   78 3 TO CONFIRM THE AMENDMENT TO THE TREATY WITH THE POTAWATOMIE       
+ 143   78 4 INDIANS WHICH WOULD GIVE COMPLETE AUTHORITY TO THE ASSEMBLY       
+ 143   78 5 OF INDIANA IN LOCATING, MAKING, AND FINANCING SAID ROAD FROM      
+ 143   78 6 A FEDERAL GRANT.                                                  
+ 144   79 1               J 19-2-314A APPSRE       JAN. 22, 1827              
+ 144   79 2 E192001K      Y=30 N=13                BENTON, MO.                
+ 144   79 3 TO RATIFY ARTICLE SIX OF A TREATY BETWEEN THE U.S. AND THE        
+ 144   79 4 POTAWATAMIE INDIANS.                                              
+ 145   80 1               J 19-2-314B APPSRE       JAN. 22, 1827              
+ 145   80 2 E192001L      Y=35 N=6                 BENTON, MO.                
+ 145   80 3 TO RATIFY THE TREATY WITH THE POTAWATAMIE INDIANS, EXCEPT         
+ 145   80 4 THAT PART OF ARTICLE TWO WHICH PROVIDES THAT THE ASSEMBLY OF      
+ 145   80 5 INDIANA SHALL HAVE SOLE AUTHORITY OVER THE BUILDING OF SAID       
+ 145   80 6 ROAD.                                                             
+ 146   81 1               J 19-2-315 AP  SRE       JAN. 23, 1827              
+ 146   81 2 E162001M      Y=34 N=7                 COBB, GA.                  
+ 146   81 3 TO DECIDE IF CERTAIN LANGUAGE IN A TREATY WITH THE MIAMI          
+ 146   81 4 INDIANS SHALL BE RETAINED; THE LANGUAGE APPROPRIATING SIX         
+ 146   81 5 CHAINS OF LAND FOR THE USE OF A CANAL.                            
+ 147   82 1               J 19-2-316 AP  SRE       JAN. 23, 1827              
+ 147   82 2 E192001N      Y=35 N=7                 BENTON, MO.                
+ 147   82 3 TO PASS A RESOLUTION RATIFYING A TREATY BETWEEN THE U.S. AND      
+ 147   82 4 THE MIAMI INDIANS.                                                
+ 148  159 1 RD-3- -76     J 19-2-112     HR        JAN. 23, 1827              
+ 148  159 2 S192014       Y=27 N=17                HARRISON, OHIO             
+ 148  159 3 TO PASS THE HOUSE BILL (APP. 1-24-27, 6 STAT. L. 356), APP-       
+ 148  159 4 -ROATING $20,000 FOR THE RELIEF OF THE INDIGENT SUFFERS OF        
+ 148  159 5 FIRE AT ALEXANDRIA.                                               
+ 149  160 1 RD-3- -122    J 19-2-119     S         JAN. 25, 1827              
+ 149  160 2 S192017       Y=19 N=26                BRANCH, N.C.               
+ 149  160 3 TO AMEND THE SENATE BILL TO ESTABLISH A UNIFORM SYSTEM OF         
+ 149  160 4 BANKRUPTCY THROUGHOUT THE UNITED STATES, BY ELIMINATING THE       
+ 149  160 5 93RD SECTION AS FOLLOWS, "THAT A DEBTOR WOULD HAVE POWER TO       
+ 149  160 6 ASSENT TO THE BANKRUPTCY OR NOT, WHICH EMBRACES THE PROVIS-       
+ 149  160 7 -IONS FOR THE VOLUNTARY BANKRUPTCY OF CLASES OTHER THAN           
+ 149  160 8 MERCHANTS AND TRADERS."                                           
+ 150  161 1 RD-3- -139    J 19-2-123     S         JAN. 26,1827               
+ 150  161 2 S192018       Y=16 N=32                BELL, N.H.                 
+ 150  161 3 TO AMEND THE BANKRUPTCY BILL BY ADDING:  "THAT NOTHING IN         
+ 150  161 4 THIS ACT SHALL BE CONSTRUED TO EXTEND TO ANY CONTRACT MADE        
+ 150  161 5 BEFORE THE PASSAGE OF THIS ACT."                                  
+ 151  162 1 RD-3- -165    J 19-2-124     S         JAN. 27, 1827              
+ 151  162 2 S192019       Y=19 N=26                BARTON, MO.                
+ 151  162 3 TO RECONSIDER THE VOTE TO ELIMINATE SECTION 93 OF THE             
+ 151  162 4 BANKRUPTCY BILL.                                                  
+ 152  163 1 RD-3- -174    J 19-2-130     S         JAN. 30, 1827              
+ 152  163 2 S192020       Y=17 N=20                HENDRICKS, IND.            
+ 152  163 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL         
+ 152  163 4 (APP. 3-3-27, 4 STAT. L. 244), TO AUTHORIZE THE PRESIDENT TO      
+ 152  163 5 CAUSE A ROAD TO BE OPENED FROM FORT SMITH IN ARKANSAS, TO         
+ 152  163 6 NATCHITOCHES IN LOUISIANA.                                        
+ 153  164 1 RD-3- -209    J 19-2-134     S         JAN. 31, 1827              
+ 153  164 2 S192022       Y=15 N=25                HAYNE, S.C.                
+ 153  164 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BANKRUPTCY          
+ 153  164 4 BILL.                                                             
+ 154  165 1 RD-3- -227    J 19-2-137     S         FEB. 1, 1827               
+ 154  165 2 S192023       Y=26 N=17                SANFORD, N.Y.              
+ 154  165 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BANKRUPTCY          
+ 154  165 4 BILL.                                                             
+ 155  166 1 RD-3- -254    J 19-2-143     S         FEB. 2, 1827               
+ 155  166 2 S192024       Y=22 N=20                SMITH, MD.                 
+ 155  166 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL TO      
+ 155  166 4 PROVIDE FOR THE REPEAL OF PART OF THE DUTY ON IMPORTED SALT.      
+ 156  167 1 RD-3- -237    J 19-2-146     S         FEB. 5, 1827               
+ 156  167 2 S192025       Y=24 N=21                SMITH, MD.                 
+ 156  167 3 TO PASS THE SENATE BILL TO PROVIDE FOR THE REPEAL IN PART OF      
+ 156  167 4 THE DUTY ON IMPORTED SALT.                                        
+ 157  168 1 RD-3- -277    J 19-2-154     S         FEB. 68 1827               
+ 157  168 2 S192026       Y=34 N=12                HAYNE, S.C.                
+ 157  168 3 TO AMEND THE BANKRUPTCY BILL BY ELIMINATING SECTION 90,           
+ 157  168 4 WHICH PROVIDES THAT NO PERSON SHALL BE DECLARED A BANKRUPT        
+ 157  168 5 WITHOUT HIS CONSENT.                                              
+ 158  169 1 RD-3- -279    J 19-2-155A    S         FEB. 6, 1827               
+ 158  169 2 S192027       Y=15 N=32                EATON, TENN.               
+ 158  169 3 TO AMEND THE BANKRUPTCY BILL BY INSERTING, IN LIEU OF THE         
+ 158  169 4 93RD SECTION, THE FOLLOWING, "THAT NO PERSON BY VIRTUE OF         
+ 158  169 5 THIS ACT, SHALL BE DISCHARGED FROM ANY CONTRACT ENTERED INTO      
+ 158  169 6 BY HIM, NO CERTIFICATE WHICH BANKRUPT MAY OBTAIN SHALL            
+ 158  169 7 DISCHARGE ANY CONTRACTS."                                         
+ 159  170 1 RD-3- -288A   J 19-2-155B    S         FEB. 6, 1827               
+ 159  170 2 S192028       Y=12 N=35                BRANCH, N.C.               
+ 159  170 3 TO REFER THE BANKRUPTCY BILL TO THE COMMITTEE ON THE              
+ 159  170 4 JUDICIARY WITH INSTRUCTIONS TO REPORT THE BILL BACK, INCLUD-      
+ 159  170 5 -ING BANKING CORPORATIONS WITHIN THE PROVISIONS OF THE BILL.      
+ 160  171 1 RD-3- -288B   J 19-2-156     S         FEB. 6, 1827               
+ 160  171 2 S192029       Y=21 N=27                HAYNE, S.C.                
+ 160  171 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BANKRUPTCY          
+ 160  171 4 BILL.                                                             
+ 161  172 1 RD-3- -309    J 19-2-165     S         FEB. 8, 1827               
+ 161  172 2 S192030A      Y=36 N=7                 KING, ALA.                 
+ 161  172 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL ON      
+ 161  172 4 PUBLIC LANDS, WHICH AUTHORIZES THOSE PERSONS WHO HAVE             
+ 161  172 5 RELINQUISHED LANDS, UNDER PROVISIONS OF SEVERAL ACTS FOR          
+ 161  172 6 RELIEF OF PURCHASES OF SAME, TO PURCHASE THEM AT PRIVATE          
+ 161  172 7 SALE AND AT A FIXED PRICE.                                        
+ 162   83 1               J 19-2-317 APP SRE       FEB. 12, 1827              
+ 162   83 2 E192001O      Y=37 N=7                                            
+ 162   83 3 TO CONFIRM THE NOMINATION OF JOHN BOYLE AS JUDGE OF THE U.S.      
+ 162   83 4 FOR THE DISTRICT OF KENTUCKY.                                     
+ 163   84 1               J 19-2-319 APP SRE       JAN. 30, 1827              
+ 163   84 2 E192001P      Y=14 N=23                VANBUREN, N.Y.             
+ 163   84 3 TO CONSENT TO THE APPOINTMENT OF ANDRES SCOTT AS JUDGE OF         
+ 163   84 4 THE SUPERIOR COURT OF THE TERRITORY OF ARKANSAS.                  
+ 164   85 1               EX J 3-567A    SRE       FEB. 12, 1827              
+ 164   85 2 E192001Q      Y=22 N=25                BENTON, MO.                
+ 164   85 3 TO PASS A RESOLUTION THAT IT IS INEXPEDIENT FOR THE U.S. TO       
+ 164   85 4 SEND ANY MINISTER IN THE PLACE OF R.C. ANDERSON, DECEASED,        
+ 164   85 5 TO THE CONGRESS OF AMERICAN NATIONA AT TACUBYA.                   
+ 165   86 1 RD-3- -335A   J 19-2-567C    SRE       FEB. 12, 1827              
+ 165   86 2 E192001R      Y=30 N=17                BENTON, MO.                
+ 165   86 3 TO PASS A RESOLUTION APPOINTING JOEL POINSLTT AS MINISTER         
+ 165   86 4 PLENOPOTENTIARY TO THE CONGRESS OF AMERICAN NATIONS AT            
+ 165   86 5 TACUBYA.                                                          
+ 166   87 1 RD-3- -334B   J 19-2-567B    SRE       FEB. 12, 1827              
+ 166   87 2 E1920015      Y=22 N=26                BENTON, MO.                
+ 166   87 3 TO PASS A RESOLUTION STATING:  "THAT WITHOUT EXPRESSING ITS       
+ 166   87 4 OPINION AS TO THE EXPEDIENCY OF THE U.S. BEING REPRESENTED        
+ 166   87 5 AT THE CONGRESS OF TACUBYA, THE SENATE ARE OF THE OPINION         
+ 166   87 6 THAT NO FURTHER STEPS OUGHT TO BE TAKEN IN THAT MISSION, OR       
+ 166   87 7 ANY FURTHER EXPENSE INCURRED.                                     
+ 167  173 1 RD- - -335    J 19-2-176     HR        FEB. 13, 1827              
+ 167  173 2 S192030B      Y=17 N=28                TAZEWELL, VA.              
+ 167  173 3 TO TABLE THE HOUSE BILL TO PROVIDE FOR THE ALTERATION OF THE      
+ 167  173 4 ACTS IMPOSING DUTIES IN IMPORTS.                                  
+ 168  174 1 RD- - -       J 19-2-177     HR        FEB. 13, 1827              
+ 168  174 2 S192030C      Y=25 N=21                DICKERSON, N.J.            
+ 168  174 3 TO REFER THE IMPORT BILL TO THE COMMITTEE ON MANUFACTURES.        
+ 169  175 1 RD-3- -338    J 19-2-179     S         FEB. 13, 1827              
+ 169  175 2 S192035       Y=28 N=14                HENDRICKS, IND.            
+ 169  175 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL         
+ 169  175 4 (APP. 3-2-27) (0), WHICH GRANTS A CERTAIN QUANTITY OF LAND        
+ 169  175 5 TO THE STATE OF IND., FOR THE PURPOSE OF AIDING SAID STATE        
+ 169  175 6 IN OPENING A CANAL TO CONNECT THE WATERS OF THE WABASH RIVER      
+ 169  175 7 WITH THOSE OF LAKE ERIE.                                          
+ 170  176 1 RD-3- -342    J 19-2-180     S         FEB. 13, 1827              
+ 170  176 2 S192036       Y=19 N=25                CHANDLER, MAINE            
+ 170  176 3 TO AMEND THE SENATE BILL PROVIDING FOR A REDUCTION ON DUTY        
+ 170  176 4 ON CERTAIN IMPORTED ARTICLES COMPRISING TEA, WINE, AND            
+ 170  176 5 COFFEE, BY ELIMINATING THE PART WHICH REDUCES DUTIES IN           
+ 170  176 6 IMPORTED WINES, THUS LEAVING THE PRESENT DUTIES IN EFFECT.        
+ 171  177 1 RD-3- -344    J 19-2-181     S         FEB. 13, 1827              
+ 171  177 2 S192037       Y=8 N=34                 RIDGELY, DEL.              
+ 171  177 3 TO AMEND THE TEA DUTY BILL BY ELIMINATING THAT PORTION IN         
+ 171  177 4 REFERENCE TO EXEMPTING OR REDUCING THE DUTIES ON TEA.             
+ 172  178 1 RD-3- -346A   J 19-2-185A    S         FEB. 14, 1827              
+ 172  178 2 S192038       Y=30 N=12                HENDRICKS, IND.            
+ 172  178 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL         
+ 172  178 4 (APP. 3-2-27, 4 STAT. L. 234), TO AUTHORIZE THE STATE OF          
+ 172  178 5 INDIANA TO LOCATE AND MAKE A ROAD THERIN.                         
+ 173  179 1 RD-3- -346B   J 19-2-185B    S         FEB. 14, 1827              
+ 173  179 2 S192039       Y=14 N=28                SEYMOUR, VT.               
+ 173  179 3 TO RECOMMIT THE TEA DUTY BILL TO THE COMMITTEE ON FINANCE         
+ 173  179 4 WITH INSTRUCTIONS TO ELIMINATE THE SECTION RELATING TO            
+ 173  179 5 DUTIES ON COFFEE.                                                 
+ 174  180 1 RD-3- -346C   J 19-2-186     S         FEB. 14, 1827              
+ 174  180 2 S192040       Y=28 N=14                SMITH, MD.                 
+ 174  180 3 TO PASS THE TEA DUTY BILL.                                        
+ 175  181 1 RD-3- -       J 19-2-187     S         FEB. 14, 1827              
+ 175  181 2 S192041       Y=21 N=21                BENTON, MO.                
+ 175  181 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL         
+ 175  181 4 TO PROVIDE FOR THE RELIEF OF JOHN SMITH AND                       
+ 175  181 5 WILSON HUNT.  (VICE PRESIDENT VOTING IN THE NEGATIVE).            
+ 176  182 1 RD-3- -376    J 19-2-193     S         FEB. 16, 1827              
+ 176  182 2 S192042       Y=22 N=24                SMITH, S.C.                
+ 176  182 3 TO AMEND THE SENATE BILL (APP. 3-3-27, 4 STAT. 6. 242), TO        
+ 176  182 4 PROVIDE FOR THE GRADUAL IMPROVEMENT OF THE NAVY BY ELIMINAT-      
+ 176  182 5 -ING THAT PART WHICH AUTHORIZES THE PRESIDENT TO CAUSE TO BE      
+ 176  182 6 ESTABLISHED A NAVAL ACADEMY WITH THE NECESSARY INSTRUCTORS        
+ 176  182 7 AND OFFICERS NOW IN THE ACTIVE NAVY TO BE ATTACHED THERETO        
+ 176  182 8 FROM TIME TO TIME.                                                
+ 177  183 1 RD-3- -376    J 19-2-196     S         FEB. 17, 1827              
+ 177  183 2 S192043       Y=27 N=18                HENDRICKS, IND.            
+ 177  183 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL         
+ 177  183 4 TO AUTHORIZE A SUBSCRIPTION OF STOCK ON THE PART OF THE           
+ 177  183 5 UNITED STATES, IN THE COLUMBUS AND SANDUSKY TURNPIKE CO.          
+ 178  184 1               J 19-2-197     S         FEB. 17, 1827              
+ 178  184 2 S192044       Y=28 N=18                HAYNE, S.C.                
+ 178  184 3 TO PASS THE NAVY BILL.                                            
+ 179  185 1 RD-3- -387    J 19-2-200A    HR        FEB. 19, 1827              
+ 179  185 2 S192045       Y=23 N=24                BERRIEN, GA.               
+ 179  185 3 TO REFER THE IMPORT BILL TO THE COMMITTEE ON FINANCE.             
+ 180  186 1 RD-3- -388    J 19-2-200B    HR        FEB. 19, 1827              
+ 180  186 2 S192046       Y=23 N=24                BENTON, MO.                
+ 180  186 3 TO RECOMMIT THE IMPORT BILL TO THE COMMITTEE ON MANUFACTURES      
+ 180  186 4 WITH INSTRUCTIONS TO MAKE THE PROPOSED DUTY ON IMPORTED           
+ 180  186 5 UNMANUFACTURED WOOL AND WOOL ON THE SKIN, EQUAL TO THE            
+ 180  186 6 HIGHEST DUTY PROPOSED ON WOOLEN CLOTHS.                           
+ 181  187 1 RD-3- -389    J 19-2-201     HR        FEB. 19, 1827              
+ 181  187 2 S192047       Y=22 N=25                BENTON, MO.                
+ 181  187 3 TO RECOMMIT THE IMPORT BILL TO THE COMMITTEE ON MANUFACTURE       
+ 181  187 4 WITH INSTRUCTIONS TO AMEND IT SO AS TO PROHIBIT THE               
+ 181  187 5 IMPORTATION OF FOREIGN WOOL, AND WOOL ON THE SKIN, FROM AND       
+ 181  187 6 AFTER JANUARY, 1, 1827.                                           
+ 182  188 1 RD-3- -389    J 19-2-202A    HR        FEB. 19, 1827              
+ 182  188 2 S192048       Y=22 N=25                REED, MISS.                
+ 182  188 3 TO RECOMMIT THE IMPORT BILL WITH INSTRUCTIONS TO REPORT TO        
+ 182  188 4 THE SENATE WHETHER THE INCREASE OF DUTIES PROPOSED ON WOOL,       
+ 182  188 5 IN THE BILL, WILL BE PROHIBTORY.                                  
+ 183  189 1 RD-3- -       J 19-2-203     HR        FEB. 19, 1827              
+ 183  189 2 S192049A      Y=23 N=24                JOHNSON, KY.               
+ 183  189 3 TO POSTPONE CONSIDERATION OF THE IMPORT BILL UNTIL THE DAY        
+ 183  189 4 AFTER TOMORROW.                                                   
+ 184  190 1 RD-3- -390C   J 19-2-204B    HR        FEB. 19, 1827              
+ 184  190 2 S192049B      Y=25 N=20                DICKERSON, N.J.            
+ 184  190 3 TO MAKE THE IMPORT BILL THE SPECIAL ORDER OF THE DAY FOR          
+ 184  190 4 TOMORROW.                                                         
+ 185  191 1 RD-3- -390A   J 19-2-202B    HR        FEB. 19, 1827              
+ 185  191 2 S192050       Y=20 N=26                MACON, N.C.                
+ 185  191 3 TO RECOMMIT THE IMPORT BILL TO THE COMMITTEE ON MANUFACTURES      
+ 185  191 4 WITH INSTRUCTIONS TO REPORT THE PROBABLE EFFECT IT MAY HAVE       
+ 185  191 5 ON THE REVENUE, COMMERCE, NAVIGATION, AND AGRICULTURE OF THE      
+ 185  191 6 UNITED STATES.                                                    
+ 186  192 1 RD-3- -390B   J 19-2-204A    HR        FEB. 19, 1827              
+ 186  192 2 S192052       Y=38 N=7                 DICKERSON, N.J.            
+ 186  192 3 TO POSTPONE CONSIDERATION OF THE IMPORT BILL.                     
+ 187  193 1 RD-3- -391    J 19-2-208     S         FEB. 20, 1827              
+ 187  193 2 S192053       Y=32 N=8                 JOHNSTON, LA.              
+ 187  193 3 TO AMEND THE SENATE BILL WHICH PROVIDES FOR THE TRIAL OF          
+ 187  193 4 CLAIMS TO LANDS IN THE STATES OF MISSOURI, LOUISIANA,             
+ 187  193 5 ALABAMA, MISSISSIPPI, AND TERRITORIES, OF ARKANSAS, AND           
+ 187  193 6 FLORIDA; SAID AMENDMENT TO INCLUDE IN THE TRIAL OF CLAIMS TO      
+ 187  193 7 LANDS, LANDS WHICH WERE GRANTED BY THE FRENCH AND SPANISH         
+ 187  193 8 GOVERNMENTS.                                                      
+ 188  194 1 RD-3- -397    J 19-2-209A    S         FEB. 20, 1827              
+ 188  194 2 S192054       Y=19 N=28                BARTON, MO.                
+ 188  194 3 TO TABLE THE LAND CLAIM BILL.                                     
+ 189  195 1 RD-3- -397    J 19-2-209B    S         FEB. 20, 1827              
+ 189  195 2 S192055       Y=22 N=20                EATON, TENN.               
+ 189  195 3 TO AMEND THE LAND CLAIM BILL BY INSERTING:  NO CLAIM SHALL        
+ 189  195 4 BE RECOGNIZED UNLESS THE CLAIMANT, OR THOSE FROM WHOM  HE         
+ 189  195 5 DERIVES TITLE, WERE INHABITANTS OF LOUISIANA AT THE TIME THE      
+ 189  195 6 TREATY WAS SIGNED, IN 1803, OR OF FLORIDA, AT THE SIGNING OF      
+ 189  195 7 THE TREATY AT WASHINGTON CITY BETWEEN THE U.S. AND SPAIN.         
+ 190  196 1 RD-3- -397    J 19-2-210     S         FEB. 20, 1827              
+ 190  196 2 S192056       Y=18 N=25                KANE, ILL.                 
+ 190  196 3 TO TABLE THE LAND CLAIM BILL.                                     
+ 191  197 1 RD-3- -397    J 19-2-211     S         FEB. 21, 1827              
+ 191  197 2 S192057       Y=26 N=19                JOHNSTON, LA.              
+ 191  197 3 TO CONSIDER THE SENATE BILL, ENTITLED THE COLONIAL TRADE          
+ 191  197 4 BILL, TO REGULATE THE COMMERCIAL INTERCOURSE BETWEEN THE          
+ 191  197 5 UNITED STATES AND THE COLONIES OF GREAT BRITIAN.                  
+ 192  198 1 RD-3- -430    J 19-2-215     S         FEB. 22, 1827              
+ 192  198 2 S192058       Y=13 N=32                HOLMES, MAINE              
+ 192  198 3 TO AMEND THE COLONIAL TRADE BILL BY ADDING THAT IF THE            
+ 192  198 4 PRESIDENT DOES NOT RECEIVE EVIDENCE THAT THE BRITISH              
+ 192  198 5 COLONIAL PORTS ARE OPEN TO UNITED STATES VESSELS ON THE SAME      
+ 192  198 6 BASIS AS BRITISH, THIS ACT SHALL CEASE TO OPERATE, AND            
+ 192  198 7 DISCRIMINATING DUTIES NOW IN EFFECT SHALL CONTINUE IN FORCE.      
+ 193  199 1 RD-3- -454    J 19-2-217     S         FEB. 23, 1827              
+ 193  199 2 S192059       Y=32 N=12                HOLMES, MAINE              
+ 193  199 3 TO AMEND THE COLONIAL TRADE BILL TO READ "AFTER SEPTEMBER 30      
+ 193  199 4 THE PORTS OF THE UNITED STATES SHALL BE CLOSED AGAINST ANY        
+ 193  199 5 VESSEL COMING OR ARRIVING FROM ANY PORT IN THE BRITISH            
+ 193  199 6 COLONIES OR POSSESSIONS."                                         
+ 194  200 1 RD-3- -454    J 19-2-218     S         FEB. 23, 1827              
+ 194  200 2 S162060       Y=22 N=22                EATON, TENN.               
+ 194  200 3 TO ADJOURN; MOTION MADE DURING CONSIDERATION OF THE               
+ 194  200 4 COLONIAL TRADE BILL.  (VICE PRESIDENT VOTING IN THE               
+ 194  200 5 AFFIRMATIVE)                                                      
+ 195  201 1 RD-3- -       J 19-2-220     S         FEB. 24, 1827              
+ 195  201 2 S19206U       Y=17 N=25                DICKERSON, N.J.            
+ 195  201 3 TO TABLE THE COLONIAL TRADE BILL.                                 
+ 196  202 1 RD-3- -486    J 19-2-224     S         FEB. 24, 1827              
+ 196  202 2 S192062       Y=29 N=19                SMITH, MD.                 
+ 196  202 3 TO AMEND THE COLONIAL TRADE BILL BY ELIMINATING ALL OF THE        
+ 196  202 4 BILL AFTER THE ENACTING CLAUSE.                                   
+ 197   88 1               EX J 3-571A    SRE       FEB. 26, 1827              
+ 197   88 2 E192002       Y=42 N=1                 SANFORD, N.Y.              
+ 197   88 3 TO PASS A RESOLUTION RATIFYING THE FIRST ARTICLE OF A TREATY      
+ 197   88 4 BETWEEN THE U.S. AND MEXICO.                                      
+ 198   89 1               EX J 3-571B    SRE       FEB. 26, 1827              
+ 198   89 2 E192003       Y=43 N=0                 SANFORD, N.Y.              
+ 198   89 3 TO PASS A RESOLUTION RATIFYING THE THIRD ARTICLE OF A TREATY      
+ 198   89 4 BETWEEN THE U.S. AND MEXICO ON CONDITION THAT THE SECOND          
+ 198   89 5 WORDS BE CHANGED FROM "INHABITANT" TO "CITIZENS."                 
+ 199   90 1               EX J 3-571C    SRE       FEB. 26, 1827              
+ 199   90 2 E192004       Y=44 N=1                 SANFORD, N.Y.              
+ 199   90 3 TO PASS A RESOLUTION RATIFYING ARTICLES 16 AND 17 OF THE          
+ 199   90 4 TREATY BETWEEN THE U.S. AND MEXICO ON CONDITION THAT THE          
+ 199   90 5 FOLLOWING BE ADDED TO END OF ARTICLE 16:  "THAT THE               
+ 199   90 6 STIPULATION IN THIS ARTICLE CONTAINED, DECLARING THAT THE         
+ 199   90 7 FLAG SHALL COVER THE PROPERTY  SHALL  BE UNDERSTOOD AS            
+ 199   90 8 APPLYING TO THE POWERS ONLY WHO REORGANIZE THIS PRINCIPLE;        
+ 199   90 9 BUT IF EITHER OF THE TWO CONTRACTING PARTIES SHALL BE AT WAR      
+ 199   9010 WITH A THIRD AND THE OTHER NEUTRAL, THE FLAG OF THE NEUTRAL       
+ 199   9011 SHALL COVER THE PROPERTY OF THE ENEMIES WHOSE GOVERNMENTS         
+ 199   9012 ACKNOWLEDGE THIS PRINCIPLE AND NOT OF OTHERS.                     
+ 200   91 1               EX J 3-572A    SRE       FEB. 26, 1827              
+ 200   91 2 E192005       Y=42 N=0                 SANFORD, N.Y.              
+ 200   91 3 TO RATIFY THE TREATY WITH MEXICO ON CONDITION THAT ITS            
+ 200   91 4 DURATION BE REDUCED FROM TWELVE TO SIX YEARS.                     
+ 201   92 1               EX J 3-572B    SRE       FEB. 26, 1827              
+ 201   92 2 E192006       Y=39 N=3                 SANFORD, N.Y.              
+ 201   92 3 TO PASS THE RESOLUTION TO RATIFY ALL THE ARTICLES OF THE          
+ 201   92 4 TREATY WITH MEXICO, EXCEPT THOSE ARTICLES WHICH HAVE BEEN         
+ 201   92 5 PARTICULARLY REJECTED OR MODIFIED.                                
+ 202   93 1               EX J 3-572C    SRE       FEB. 26, 1827              
+ 202   93 2 E192007       Y=17 N=25                SEYMOUR, VT.               
+ 202   93 3 TO CONSIDER THE VOTE DENYING THE APPOINTMENT OF ANDREW SCOTT      
+ 202   93 4 AS JUDGE OF THE SUPERIOR COURT OF THE ARKANSAS TERRITORY.         
+ 203  203 1 RD-3- -487    J 19-2-228     HR        FEB. 26, 1827              
+ 203  203 2 S192063       Y=22 N=19                HARRISON, OHIO             
+ 203  203 3 TO AMEND THE HOUSE BILL (APP. 3-2-27, 4 STAT. L. 214),            
+ 203  203 4 MAKING APPROPRIATIONS FOR THE MILITARY SERVICE FOR 1827, BY       
+ 203  203 5 ELIMINATING THE CLAUSE THAT ALL OFFICERS COMMANDING               
+ 203  203 6 GARRISONS AND MILITARY POSTS, BE ENTITLED TO DOUBLE RATIONS,      
+ 203  203 7 AND NONE OTHER.                                                   
+ 204  204 1 RD-3- -488A   J 19-2-229     HR        FEB. 26, 1827              
+ 204  204 2 S192065       Y=15 N=23                CHANDLER, MAINE            
+ 204  204 3 TO AMEND THE MILITARY BILL BY ELIMINATING THE APPROPRIATION       
+ 204  204 4 FOR THE SETTLEMENT OF CLAIMS OF THE MILITIA OF GEORGIA FOR        
+ 204  204 5 SERVICES RENDERED DURING THE YEARS 1792-4.                        
+ 205  205 1 RD-3- -488B   J 19-2-233A    HR        FEB. 27, 1827              
+ 205  205 2 S192066       Y=20 N=25                DICKERSON, N.J.            
+ 205  205 3 TO TABLE THE MILITARY BILL.                                       
+ 206  206 1 RD-3- -490    J 19-2-233B    HR        FEB. 27, 1827              
+ 206  206 2 S192067       Y=15 N=27                CHANDLER, MAINE            
+ 206  206 3 TO AMEND THE MILITARY BILL BY ELIMINATING THE APPROPRIATION       
+ 206  206 4 FOR THE CUMBERLAND ROAD TO JOIN THE WESTERN AND ATLANTIC          
+ 206  206 5 STATES.                                                           
+ 207  207 1 RD-3- -491A   J 19-2-234     HR        FEB. 27, 1827              
+ 207  207 2 S192068       Y=19 N=26                COBB, GA.                  
+ 207  207 3 TO AMEND THE MILITARY BILL BY ELIMINATING THE APPROPRIATION       
+ 207  207 4 TO DEFRAY THE EXPENSES FOR MAKING EXAMINATIONS AND SURVEYS,       
+ 207  207 5 AUTHORIZED BY THE ACT OF APRIL 30, 1824.                          
+ 208  208 1 RD-3- -491B   J 19-2-236     S         FEB. 27, 1827              
+ 208  208 2 S192069       Y=22 N=20                BERRIEN, GA.               
+ 208  208 3 TO AGREE TO THE AMENDMENT TO THE SENATE BILL (APP. 3-2-27,        
+ 208  208 4 4 STAT. 219), PROVIDING FOR THE ADJUSTMENT OF CLAIMS OF           
+ 208  208 5 PERSONS ENTITLED TO INDEMNIFICATION UNDER THE FIRST ARTICLE       
+ 208  208 6 OF THE TREATY OF GHENT, "TO ESTABLISH A COMMISSION OF THREE       
+ 208  208 7 MEMBERS INSTEAD OF ONE."                                          
+ 209  209 1 RD-3- -491C   J 19-2-237A    S         FEB. 27, 1827              
+ 209  209 2 S192070       Y=23 N=15                MACON, N.C.                
+ 209  209 3 TO AMEND THE GHENT BILL BY ELIMINATING THE FOLLOWING:  THAT       
+ 209  209 4 THE SECRETARY OF THE TREASURY INVEST THE MONEY RECEIVED FROM      
+ 209  209 5 THE BRITISH GOVERNMENT UNDER THE TREATY OF GHENT, IN ANY          
+ 209  209 6 SECURE FUND AT 4% INTEREST, OR TO USE THE MONEY FOR THE USE       
+ 209  209 7 OF THE U.S. AT 4% INTEREST PAYABLE TO THE CLAIMANTS.              
+ 210  210 1 RD-3- -491D   J 19-2-237B    S         FEB. 27, 1827              
+ 210  210 2 S192071       Y=22 N=21                BERRIEN, GA.               
+ 210  210 3 TO CONCUR IN THE FIRST AMENDMENT TO THE GHENT BILL, WHICH         
+ 210  210 4 AUTHORIZES THE APPOINTMENT OF THREE COMMISSIONERS INSTEAD OF      
+ 210  210 5 ONE.                                                              
+ 211  211 1 RD-3- -495A   J 19-2-239     S         FEB. 8, 1827               
+ 211  211 2 S192072       Y=18 N=25                CHAMBERS, MD.              
+ 211  211 3 TO AMEND THE COLONIAL TRADE BILL TO LEAVE THE DATE OPEN IN        
+ 211  211 4 THE AMENDMENT THAT PROVIDE THAT FROM AND AFTER THE 31ST DAY       
+ 211  211 5 OF DECEMBER, NO OTHER OR HIGHER DUTIES WILL BE PLACED ON          
+ 211  211 6 GOODS, IMPORTED FROM THE DECLARED FREE PORTS OF THE               
+ 211  211 7 BRITISH COLONIES.                                                 
+ 212  212 1 RD-3- -495B   J 19-2-241     S         FEB. 28, 1827              
+ 212  212 2 S192073       Y=16 N=26                CHAMBERS, ALA.             
+ 212  212 3 TO AMEND THE COLONIAL TRADE BILL BY PROVIDING TO CLOSE PORTS      
+ 212  212 4 OF THE U.S. TO ANY POWER WHOSE VESSELS RRIVE FROM ANY FREE        
+ 212  212 5 PORTS OR PLACE IN THE BRITISH POSSESSIONS FROM DEC. 31 ON,        
+ 212  212 6 UNLESS THE PRESIDENT HAS ISSUED HIS PROCLAMATION AS TO WHAT       
+ 212  212 7 PORTS SHALL BE CLOSED FROM THAT DATE.                             
+ 213  213 1 RD-3- -495C   J 19-2-243     S         FEB. 28, 1827              
+ 213  213 2 S192074       Y=32 N=10                SMITH, MD.                 
+ 213  213 3 TO AGREE TO THE AMENDMENT TO THE COLONIAL TRADE BILL WHICH        
+ 213  213 4 PROVIDES THAT AFTER DEC. 31ST NEXT NO OTHER OR HIGHER DUTIES      
+ 213  213 5 OF IMPORT OR TONNAGE, AND NO OTHER OR HIGHER DUTY OR CHANGE       
+ 213  213 6 OF ANY KIND, UPON ANY GOODS, WARES, OR MERCHANDISE IMPORTED       
+ 213  213 7 FROM FREE PORTS, OR SUCH AS MAY HEREAFTER BE DECLARED FREE        
+ 213  213 8 PORTS OF THE BRITISH COLONIES, IN BRITISH VESSELS, SHALL BE       
+ 213  213 9 LEVIED OR EXACTED IN ANY OF THE PORTS OF THE U.S., THAN UPON      
+ 213  21310 THE VESSELS OF THE U.S. UPON LIKE GOODS.                          
+ 214  214 1 RD-3- -496    J 19-2-245     HR        FEB. 28, 1827              
+ 214  214 2 S192075       Y=20 N=20                HAYNE, S.C.                
+ 214  214 3 TO TABLE IMPORT BILL.                                             
+ 215  215 1 RD-3- -       J 19-2-251     S         FEB. 28, 1827              
+ 215  215 2 S192076       Y=26 N=6                 COBB, GA.                  
+ 215  215 3 TO PASS THE SENATE BILL (APP. 3-3-27, 6 STAT. L. 369),            
+ 215  215 4 MAKING COMPENSATION TO PETER HAGNER, THIRD AUDITOR OF THE         
+ 215  215 5 TREASURY DEPARTMENT, FOR EXTRA SERVICES PERFORMED BY HIM.         
+ 216  216 1 RD-3- -497    J 19-2-255     HR        FEB. 2,, 1827              
+ 216  216 2 S192077       Y=15 N=28                WHITE, TENN.               
+ 216  216 3 TO RECEDE FROM THE SENATE AMENDMENT TO THE MILITARY BILL,         
+ 216  216 4 WHICH ELIMINATED PROVISION ENTITLING ALL OFFICERS COMMANDING      
+ 216  216 5 GARRISONS AND MILITARY POSTS, TO DOUBLE RATIONS.                  
+ 217  217 1               J 19-2-258     SRE       MARCH 1, 1827              
+ 217  217 2 S192078       Y=24 N=17                CHANDLER, MAINE            
+ 217  217 3 TO TABLE THE RESOLUTION THAT THE PRESIDENT BE REQUESTED TO        
+ 217  217 4 CAUSE THE ROUTE BY ST. LOUIS AND ON BOTH SIDES OF THE             
+ 217  217 5 MISSOURI RIVER, TO BE EXAMINED PREPARATORY TO THE LOCATION        
+ 217  217 6 OF A ROAD TO BE LAID OUT TO THE SEAT OF THE MISSOURI              
+ 217  217 7 GOVERNMENT.                                                       
+ 218  218 1 RD-3- -499    J 19-2-261     SRE       MARCH 1, 1827              
+ 218  218 2 S192079       G=44 S=3                 EATON, TENN.               
+ 218  218 3 TO ELECT A PUBLIC PRINTER VOTES FOR GREEN ARE CODED AS 1,         
+ 218  218 4 FOR "GALES AND SEATON" AS 2, AND OTHERS AS 8.                     
+ 219  219 1 RD-3- -499A   J 19-2-262     SRE       MARCH 1, 1827              
+ 219  219 2 S192080       Y=25 N=22                BENTON, MO.                
+ 219  219 3 TO END FURTHER BALLOTING ON THE ELECTION OF A PUBLIC              
+ 219  219 4 PRINTER.                                                          
+ 220  220 1               J 19-2-263     HR        MARCH 1, 1827              
+ 220  220 2 S192081       Y=33 N=8                 SMITH, MD.                 
+ 220  220 3 TO AMEND THE HOUSE BILL (APP. 3-2-27, 4 STAT. L. 214), TO         
+ 220  220 4 MAKE APPROPRIATIONS FOR THE NAVY FOR FISCAL 1827, BY              
+ 220  220 5 ELIMINATING THE CLAUSE RELATING TO THE POWER OF THE FOURTH        
+ 220  220 6 AUDITOR OF THE TREASURY TO BALANCE THE BOOKS AS OF                
+ 220  220 7 JAN. 1, 1827, IN ORDER TO CLOSE ACCOUNTS.                         
+ 221  221 1 RD-3- -499B   J 19-2-265     HR        MARCH 1, 1827              
+ 221  221 2 S192082       Y=22 N=15                HENDRICKS, IND.            
+ 221  221 3 TO ORDER THIRD READING OF THE HOUSE BILL (APP. 3-2-27,            
+ 221  221 4 4 STAT. L. 228), FOR THE PRESERVATION AND REPAIR OF THE           
+ 221  221 5 CUMBERLAND ROAD.                                                  
+ 222  222 1               J 19-2-266     HR        MARCH 1, 1827              
+ 222  222 2 S192083       Y=23 N=14                SMITH, MD.                 
+ 222  222 3 TO TABLE THE HOUSE BILL (APP. 3-2-27, 4 STAT. L. 231), TO         
+ 222  222 4 AUTHORIZE THE LAYING OUT AND OPENING OF CERTAIN ROADS IN THE      
+ 222  222 5 TERRITORY OF MICHIGAN.                                            
+ 223  223 1 RD-3- -500    J 19-2-271     HR        MARCH 2, 1827              
+ 223  223 2 S192084       Y=26 N=12                SMITH, MD.                 
+ 223  223 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE HOUSE BILL          
+ 223  223 4 (APP. 3-2-27, 4 STAT. L. 235), TO AUTHORIZE THE IMPORTATION       
+ 223  223 5 OF BRANDY IN CASKS, AND THE EXPORTATION OF SAME, FOR THE          
+ 223  223 6 BENEFIT OF A DRAWBACK OF THE DUTIES.                              
+ 223  223 7                                                                   
+ 224  224 1 RD-3- -501A   J 19-2-274     S         MARCH 2, 1827              
+ 224  224 2 S192085       Y=15 N=28                SMITH, MD.                 
+ 224  224 3 TO AGREE TO THE AMENDMENT TO THE NAVY BILL, WHICH AMENDMENT       
+ 224  224 4 PROPOSES TO INCREASE THE NUMBER OF DRY DOCKS FROM TWO TO          
+ 224  224 5 THREE.                                                            
+ 225  225 1 RD-3- -501B   J 19-2-275     S         MARCH 2, 1827              
+ 225  225 2 S192086A      Y=22 N=21                SMITH, MD.                 
+ 225  225 3 TO AGREE TO THE AMENDMENT TO THE NAVY BILL, WHICH AMENDMENT       
+ 225  225 4 WOULD ELIMINATE THE SECTION AUTHORIZING THE PRESIDENT TO          
+ 225  225 5 ESTABLISH A MILITARY ACADEMY.                                     
+ 226  226 1 RD-3- -501    J 19-2-278     S         MARCH 2, 1827              
+ 226  226 2 S192086B      Y=23 N=16                EATON, TENN.               
+ 226  226 3 TO INSIST ON DISAGREEING TO THE HOUSE AMENDMENT TO THE            
+ 226  226 4 NAVY BILL, WHICH AMENDMENT WOULD INCREASE THE NUMBER OF DRY       
+ 226  226 5 DOCKS FROM TWO TO THREE.                                          
+ 227  227 1 RD-3- -504A   J 19-2-281     S         MARCH 2, 1827              
+ 227  227 2 S192087       Y=20 N=25                BERRIEN, GA.               
+ 227  227 3 TO AMEND THE AMENDMENT OF THE HOUSE TO THE COLONIAL TRADE         
+ 227  227 4 BILL, BY ELIMINATING THE SECTION THAT PROPOSES THAT IF THE        
+ 227  227 5 PRESIDENT ISSUES NO PROCLAMATION THAT INJUSTICES TO U.S.          
+ 227  227 6 VESSELS HAD CEASED, THE ACTS OF 1818 AND 1820, SHALL BE           
+ 227  227 7 REVIVED AS RETALIATION AGAINST GREAT BRITIAN.                     
+ 228  228 1 RD-3- -504C   J 19-2-282     S         MARCH 2, 1827              
+ 228  228 2 S192088       Y=18 N=26                JOHNSTON, LA.              
+ 228  228 3 TO CONCUR IN THE HOUSE AMENDMENT TO THE COLONIAL TRADE BILL       
+ 228  228 4 WHICH PROPOSES REVIVAL OF ACTS AGAINST GREAT BRITIAN IF           
+ 228  228 5 INJUSTICES AGAINST U.S. SHIPS DO NOT CEASE.                       
+ 229  229 1               J 19-2-283     S         MARCH 2, 1827              
+ 229  229 2 S192089       Y=12 N=23                KANE, ILL.                 
+ 229  229 3 TO AMEND THE HOUSE BILL (APP. 3-2-27, 4 STAT. L. 235), TO         
+ 229  229 4 ESTABLISH A SEMINARY OF LEARNING IN THE TERRITORY OF              
+ 229  229 5 ARKANSAS, BY ADDING A SECTION RELATING TO CLAIMS ON LAND          
+ 229  229 6 DERIVED WHILE FRANCE OR SPAIN WERE POSSESSIORS OF THE PORT        
+ 229  229 7 OF LOUISIANA, WHICH IS NOW MISSOURI.                              
+ 230  230 1               J 19-2-285     S         MARCH 2, 1827              
+ 230  230 2 S192090       Y=14 N=25                HAYNE, S.C.                
+ 230  230 3 TO CONCUR IN THE CONFERENCE COMMITTEE REPORT, WHICH               
+ 230  230 4 PROPOSED THAT THE HOUSE RECEDE FROM THEIR AMENDMENT TO THE        
+ 230  230 5 NAVY BILL, WHICH WOULD INCREASE THE NUMBER OF DRY DOCKS, AND      
+ 230  230 6 TO ADD THE FOLLOWING CLAUSE TO THE BILL:  "AND AS SOON AS         
+ 230  230 7 THE TWO DRY DOCKS SHALL BE CONSTRUCTED, TWO MORE SHALL BE         
+ 230  230 8 CONSTRUCTED."                                                     
+ 231  231 1               J 19-2-294     HJR       MARCH 2, 1827              
+ 231  231 2 S192091       Y=22 N=16                SMITH, MD.                 
+ 231  231 3 TO AMEND THE HOUSE JOINT RESOLUTION, TO PROVIDE FOR THE           
+ 231  231 4 SUSPENSION OF THE 18TH JOINT RULE UNTIL AFTER THE PRESENT         
+ 231  231 5 SESSION OF CONGRESS, BY ADDING "SO FAR AS THE SAME RELATES        
+ 231  231 6 TO BILLS AND RESOLUTIONS, WHICH SHALL HAVE PASSED BOTH            
+ 231  231 7 HOUSES, BEFORE 12 O'CLOCK NOON, MARCH 3.                          
+ 232  232 1 RD-3- -505    J 19-2-299A    S         MARCH 3, 1827              
+ 232  232 2 S192092       Y=20 N=25                JOHNSTON, LA.              
+ 232  232 3 TO RECEDE FROM DISAGREEMENT TO THE AMENDMENT TO THE COLONIAL      
+ 232  232 4 TRADE BILL; SAID AMENDMENT PROPOSES TO REVIVE ACTS AGAINST        
+ 232  232 5 GREAT BRITIAN IF UNJUST TREATMENT OF U.S. VESSELS DOES NOT        
+ 232  232 6 CEASE.                                                            
+ 233  233 1 RD-3- -506    J 19-2-299B    S         MARCH 3, 1827              
+ 233  233 2 S192093       Y=25 N=20                TAZEWELL, VA.              
+ 233  233 3 TO ADHERE TO THE DISAGREEMENT TO THE HOUSE AMENDMENT TO THE       
+ 233  233 4 COLONIAL TRADE BILL; SAID AMENDMENT PROPOSES TO REVIVE ACTS       
+ 233  233 5 AGAINST GREAT BRITIAN OF UNJUST TREATMENT OF U.S. VESSELS         
+ 233  233 6 CONTINUES.                                                        
+ 234  234 1               J 19-2-303     SRE       MARCH 3, 1827              
+ 234  234 2 S192094       Y=20 N=21                EATON, TENN.               
+ 234  234 3 TO CONSIDER RESOLUTION THAT PROPOSES TO CHANGE THE                
+ 234  234 4 POSITION OF THE CHAIR OF THE PRESIDENT OF THE SENATE AND THE      
+ 234  234 5 SEATS OF THE SENATORS.                                            

@@ -1,0 +1,1680 @@
+   1    1 1                              SRE5      JAN. 03, 1957              
+   1    1 2 S851001       Y=46 N=49                                           
+   1    1 3 S.RES. 5.  ORGANIZATION OF SENATE.  AMENDMENT TO SUBSTITUTE       
+   1    1 4 REPUBLICAN FOR DEMOCRATIC ORGANIZATION OF THE SENATE.             
+   1    1 5 REJECTED.                                                         
+   2    2 1                              SRE       JAN. 04, 1957              
+   2    2 2 S851002       Y=55 N=38                                           
+   2    2 3 MOTION TO TABLE MOTION TO CONSIDER ADOPTION OF RULES              
+   2    2 4 FOR SENATE.  ORIGINAL MOTION WAS MOVE TO EASE RULES ON            
+   2    2 5 LIMITATION OF DEBATE, AS PRELUDE TO CIVIL RIGHTS                  
+   2    2 6 LEGISLATION.  AGREED TO.                                          
+   3    3 1                              HR4249    FEB. 18, 1957              
+   3    3 2 S851003       Y=32 N=49                                           
+   3    3 3 HR. 4249.  FISCAL 1957 DEFICIENCY APPROPRIATIONS FOR              
+   3    3 4 VARIOUS AGENCIES.  AMENDMENT TO MAKE PERMISSIVE, INSTEAD OF       
+   3    3 5 MANDATORY, FEDERAL AID IN PROCUREMENT OF COTTONSEED               
+   3    3 6 PRODUCTS FOR RANGE LIVESTOCK IN DROUGHT AREAS.  REJECTED.         
+   4    4 1                              HR4249    FEB. 18, 1957              
+   4    4 2 S851004       Y=64 N=17                                           
+   4    4 3 HR. 4249.  FISCAL 1957 DEFICIENCY APPROPRIATIONS FOR              
+   4    4 4 VARIOUS AGENCIES.  AMENDMENT TO PROVIDE $30 MILLION FOR           
+   4    4 5 STRATEGIC MINERALS PURCHASE PROGRAM.  AGREED TO.  YEA SUP-        
+   4    4 6 PORTS PRESIDENT'S POSITION.  (SEE CQ 26.)                         
+   5    5 1                              SJRE19    FEB. 28, 1957              
+   5    5 2 S851005       Y=82 N=0                                            
+   5    5 3 S.J.RES. 19.  COMMITTEE VERSION OF PRESIDENT'S MIDDLE EAST        
+   5    5 4 DOCTRINE AUTHORIZING PROGRAM OF MILITARY AND ECONOMIC             
+   5    5 5 COOPERATION WITH MIDDLE EAST NATIONS.  AMENDMENT TO HAVE          
+   5    5 6 TROOP EMPLOYMENT IN KEEPING WITH U. S. CONSTITUTION INSTEAD       
+   5    5 7 OF U. N. CHARTER. AGREED TO.                                      
+   6    6 1                              SJRE19    MAR. 02, 1957              
+   6    6 2 S851006       Y=28 N=58                                           
+   6    6 3 S.J.RES. 19.  AUTHORIZE PROGRAM OF MILITARY AND ECONOMIC          
+   6    6 4 COOPERATION WITH MIDDLE EASTERN NATIONS TO COUNTER-               
+   6    6 5 ACT COMMUNISM.  AMENDMENT TO ELIMINATE AUTHORIZATION FOR USE      
+   6    6 6 OF $200 MILLION FOR MILITARY AND ECONOMIC AID.                    
+   6    6 7 REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.                     
+   7    7 1                              SJRE19    MAR. 05, 1957              
+   7    7 2 S851007       Y=48 N=43                                           
+   7    7 3 S.J.RES. 19.  AUTHORIZE PROGRAM OF MILITARY AND                   
+   7    7 4 ECONOMIC COOPERATION WITH MIDDLE EASTERN NATIONS.  AMENDMENT      
+   7    7 5 URGING PRESIDENT TO CONTINUE TO SUPPORT U.N. EMERGENCY FORCE      
+   7    7 6 IN MIDDLE EAST.  AGREED TO.                                       
+   8    8 1                              SJRE19    MAR. 05, 1957              
+   8    8 2 S851008       Y=28 N=64                                           
+   8    8 3 S.J.RES. 19.  AUTHORIZE PROGRAM OF MILITARY AND ECONOMIC          
+   8    8 4 COOPERATION WITH MIDDLE EASTERN NATIONS.  AMENDMENT               
+   8    8 5 DIRECTING PRESIDENT TO NOTIFY CONGRESS BEFORE USING ARMED         
+   8    8 6 FORCES, OR TO SUBMIT ANY SUCH ACTION FOR CONGRESSIONAL            
+   8    8 7 APPROVAL.  REJECTED.                                              
+   9    9 1                              SJRE19    MAR. 05, 1957              
+   9    9 2 S851009       Y=30 N=58                                           
+   9    9 3 S.J.RES. 19.  AUTHORIZE PROGRAM OF MILITARY AND                   
+   9    9 4 ECONOMIC COOPERATION WITH MIDDLE EASTERN NATIONS.  AMENDMENT      
+   9    9 5 TO SET EXPIRATION DATE FOR PROGRAM AS MARCH 15, 1961.             
+   9    9 6 REJECTED.                                                         
+  10   10 1                              HJRE117   MAR. 05, 1957              
+  10   10 2 S851010       Y=72 N=19                                           
+  10   10 3 H.J.RES. 117.  PASSAGE OF HOUSE RESOLUTION, AS                    
+  10   10 4 AMENDED BY SENATE, AUTHORIZING PROGRAM OF MILITARY AND            
+  10   10 5 ECONOMIC COOPERATION WITH MIDDLE EASTERN NATIONS.  YEA            
+  10   10 6 SUPPORTS PRESIDENT'S POSITION.                                    
+  11   11 1                              S1451     MAR. 19, 1957              
+  11   11 2 S851011       Y=26 N=59                                           
+  11   11 3 S. 1451.  FINANCIAL INSTITUTIONS ACT OF 1957.                     
+  11   11 4 AMENDMENT TO PERMIT FEDERAL SAVINGS AND LOAN ASSOCIATION          
+  11   11 5 BRANCHES IN STATES THAT PERMIT COMMERCIAL BANKS TO HAVE           
+  11   11 6 BRANCHES.  REJECTED.                                              
+  12   12 1                              S1451     MAR. 21, 1957              
+  12   12 2 S851012       Y=27 N=58                                           
+  12   12 3 S. 1451.  FINANCIAL INSTITUTIONS ACT.  AMENDMENT TO               
+  12   12 4 REQUIRE CUMULATIVE VOTING IN ELECTIONS OF DIRECTORS OF            
+  12   12 5 NATIONAL BANKS.  REJECTED.                                        
+  13   13 1                              S1451     MAR. 21, 1957              
+  13   13 2 S851013       Y=28 N=58                                           
+  13   13 3 S. 1451.  FINANCIAL INSTITUTIONS ACT.  AMENDMENT TO MAKE          
+  13   13 4 PLAIN THAT NOTHING IN BILL SHOULD BE CONSTRUED AS APPROVING       
+  13   13 5 ANY MERGER THAT VIOLATES LAW, OR SHOULD BE A DEFENSE AGAINST      
+  13   13 6 PROHIBITED ANTI-TRUST ACTION.  REJECTED.                          
+  14   14 1                              HR4090    MAR. 27, 1957              
+  14   14 2 S851014       Y=33 N=52                                           
+  14   14 3 HR. 4090.  EXTEND CURRENT 52 PERCENT CORPORATE INCOME TAX         
+  14   14 4 RATE.  AMENDMENT TO AID SMALL CORPORATIONS THROUGH                
+  14   14 5 LOWERED TAXES FOR THEM AND HIGHER TAXES FOR LARGER                
+  14   14 6 FIRMS.  REJECTED.                                                 
+  15   15 1                              S497      MAR. 28, 1957              
+  15   15 2 S851015       Y=27 N=55                                           
+  15   15 3 S. 497.  RIVER AND HARBOR, BEACH EROSION CONTROL,                 
+  15   15 4 AND FLOOD CONTROL PROJECTS, 1957.  MOTION TO RECOMMIT TO          
+  15   15 5 SENATE PUBLIC WORKS COMMITTEE WITH INSTRUCTIONS TO REDUCE         
+  15   15 6 TOTAL AUTHORIZATION.  REJECTED.  YEA SUPPORTS PRESIDENT'S         
+  15   15 7 POSITION.                                                         
+  16   16 1                              S497      MAR. 28, 1957              
+  16   16 2 S851016       Y=42 N=22                                           
+  16   16 3 S. 497.  RIVER AND HARBOR ACT, 1957.  PASSED.  NAY                
+  16   16 4 SUPPORTS PRESIDENT'S POSITION.                                    
+  17   17 1                              SRE       APR. 01, 1957              
+  17   17 2 S851017       Y=70 N=2                                            
+  17   17 3 CONFIRMATION OF NOMINATION OF BRIGADIER GENERAL                   
+  17   17 4 ZWICKER TO BE BRIGADIER GENERAL IN REGULAR ARMY WITH              
+  17   17 5 TEMPORARY RANK OF MAJOR GENERAL.  YEA SUPPORTS PRESIDENT'S        
+  17   17 6 POSITION.                                                         
+  18   18 1                              S1314     APR. 01, 1957              
+  18   18 2 S851018       Y=23 N=54                                           
+  18   18 3 S. 1314.  EXTEND AGRICULTURAL TRADE DEVELOPMENT AND               
+  18   18 4 ASSISTANCE ACT OF 1954, UNDER WHICH AGRICULTURAL SURPLUSES        
+  18   18 5 ARE SOLD OR BARTERED TO FOREIGN NATIONS.  AMENDMENT TO RE-        
+  18   18 6 TAIN EXISTING BAN ON TRADE WITH COMMUNIST SATELLITES.  RE-        
+  18   18 7 JECTED.  NAY SUPPORTS PRESIDENT'S POSITION.                       
+  19   19 1                              S1771     APR. 10, 1957              
+  19   19 2 S851019       Y=35 N=45                                           
+  19   19 3 S. 1771.  ESTABLISH A 51 MILLION ACRE BASE FOR 1957               
+  19   19 4 COMMERCIAL CORN CROP AND REQUIRE THAT 15 PERCENT OF               
+  19   19 5 A PRODUCER'S BASE BE PUT IN SOIL BANK.  REJECTED.                 
+  20   20 1                              HJRE310   APR. 17, 1957              
+  20   20 2 S851020       Y=75 N=0                                            
+  20   20 3 H.J.RES. 310.  FISCAL 1957 DEFICIENCY APPROPRIATION               
+  20   20 4 INCLUDING PUBLIC ASSISTANCE GRANTS TO STATES.  COMMITTEE          
+  20   20 5 AMENDMENT INCREASING LIMIT ON FUNDS FOR STATE ADMINISTRATION      
+  20   20 6 OF PUBLIC ASSISTANCE GRANTS.  AGREED TO.                          
+  21   21 1                              SRE       MAY 08, 1957               
+  21   21 2 S851021       Y=22 N=54                                           
+  21   21 3 NOMINATION OF SCOTT MCLEOD AS AMBASSADOR TO IRELAND.              
+  21   21 4 MOTION TO RECOMMIT.  REJECTED.  NAY SUPPORTS PRESIDENT'S          
+  21   21 5 POSITION.                                                         
+  22   22 1                              SRE       MAY 09, 1957               
+  22   22 2 S851022       Y=60 N=20                                           
+  22   22 3 NOMINATION OF SCOTT MCLEOD AS AMBASSADOR TO                       
+  22   22 4 IRELAND.  CONFIRMED.  YEA SUPPORTS PRESIDENT'S POSITION.          
+  23   23 1                              SRE       MAY 13, 1957               
+  23   23 2 S851023       Y=82 N=0                                            
+  23   23 3 EXEC F, 85TH CONGRESS, 1ST SESSION.  PROTOCOL TO                  
+  23   23 4 1949 INTERNATIONAL CONVENTION FOR NORTHWEST ATLANTIC              
+  23   23 5 FISHERIES, AUTHORIZING MEETINGS OF FISHERIES COMMISSION           
+  23   23 6 OUTSIDE NORTH AMERICA.  REJECTED.  YEA SUPPORTS PRESIDENT'S       
+  23   23 7 POSITION.                                                         
+  24   24 1                              HR6871    MAY 15, 1957               
+  24   24 2 S851024       Y=61 N=15                                           
+  24   24 3 HR. 6871.  FISCAL 1958 APPROPRIATIONS FOR DEPARTMENTS             
+  24   24 4 OF STATE AND JUSTICE AND THE JUDICIARY AND USIA.  COMMITTEE       
+  24   24 5 AMENDMENT TO REDUCE USIA SALARIES AND EXPENSES.  ADOPTED.         
+  24   24 6 NAY SUPPORTS PRESIDENT'S POSITION.                                
+  25   25 1                              HR6871    MAY 15, 1957               
+  25   25 2 S851025       Y=77 N=0                                            
+  25   25 3 HR. 6871.  FISCAL 1958 APPROPRIATIONS FOR DEPARTMENTS OF          
+  25   25 4 STATE AND JUSTICE AND THE JUDICIARY AND USIA.  PASSED.            
+  25   25 5 (SEE CQ 31.)                                                      
+  26   26 1                              HR7221    MAY 20, 1957               
+  26   26 2 S851026       Y=61 N=17                                           
+  26   26 3 HR. 7221.  3RD FISCAL 1957 SUPPLEMENTAL APPROPRIATION.            
+  26   26 4 AMENDMENT TO PROVIDE $30 MILLION FOR ACQUISITION                  
+  26   26 5 OF STRATEGIC MINERALS.  ADOPTED.  YEA SUPPORTS PRESIDENT'S        
+  26   26 6 POSITION.                                                         
+  27   27 1                              HR7221    MAY 20, 1957               
+  27   27 2 S851027       Y=27 N=51                                           
+  27   27 3 HR. 7221.  3RD FISCAL 1957 SUPPLEMENTAL APPROPRIATION.            
+  27   27 4 AMENDMENT TO PROVIDE THAT APPROPRIATION FOR FEED                  
+  27   27 5 AND SEED IN DISASTER AREAS CAN BE USED ONLY BY THOSE              
+  27   27 6 STATES WHICH HAVE MATCHED IT WITH A 25 PERCENT STATE              
+  27   27 7 APPROPRIATION.  REJECTED.  YEA SUPPORTS PRESIDENT'S               
+  27   27 8 POSITION.                                                         
+  28   28 1                              HR7221    MAY 20, 1957               
+  28   28 2 S851028       Y=72 N=5                                            
+  28   28 3 HR. 7221.  3RD FISCAL 1957 SUPPLEMENTAL APPROPRIATION.            
+  28   28 4 PASSED.                                                           
+  29   29 1                              HR6659    MAY 28, 1957               
+  29   29 2 S851029       Y=17 N=61                                           
+  29   29 3 HR. 6659.  OMNIBUS HOUSING BILL OF 1957.  AMENDMENT               
+  29   29 4 TO INCREASE THE CAPITALIZATION OF THE OPERATIONS OF FNMA AND      
+  29   29 5 PROHIBIT DISCOUNTS ON GOVERNMENT-INSURED MORTGAGES.               
+  29   29 6 REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.                     
+  30   30 1                              HR6659    MAY 28, 1957               
+  30   30 2 S851030       Y=67 N=11                                           
+  30   30 3 HR. 6659.  OMNIBUS HOUSING BILL OF 1957.  AMENDMENT TO            
+  30   30 4 REDUCE AUTHORIZATIONS IN BILL AND LIMIT URBAN RENEWAL TO          
+  30   30 5 TWO YEARS.  ACCEPTED.  YEA SUPPORTS PRESIDENT'S POSITION.         
+  31   31 1                              HR6871    MAY 29, 1957               
+  31   31 2 S851031       Y=75 N=2                                            
+  31   31 3 HR. 6871.  FISCAL 1958 APPROPRIATIONS FOR DEPARTMENTS             
+  31   31 4 OF STATE AND JUSTICE, AND THE JUDICIARY, USIA, AND U. S.          
+  31   31 5 PARTICIPATION IN TRADE FAIRS AND CULTURAL EXCHANGES.              
+  31   31 6 ADOPTION OF CONFERENCE REPORT.                                    
+  32   32 1                              HR6659    MAY 29, 1957               
+  32   32 2 S851032       Y=20 N=54                                           
+  32   32 3 HR. 6659.  OMNIBUS HOUSING BILL OF 1957.  AMENDMENT TO            
+  32   32 4 AUTHORIZE ADDITIONAL LOW-COST HOUSING UNITS DURING FISCAL         
+  32   32 5 YEARS 1958 AND 1959.  REJECTED.  NAY SUPPORTS PRESIDENT'S         
+  32   32 6 POSITION.                                                         
+  33   33 1                              HR6659    MAY 29, 1957               
+  33   33 2 S851033       Y=16 N=54                                           
+  33   33 3 HR. 6659.  OMNIBUS HOUSING BILL OF 1957.  AMENDMENT TO            
+  33   33 4 PROVIDE INCREASED RATES OF INTEREST ON COLLEGE HOUSING            
+  33   33 5 LOANS.  REJECTED.  YEA SUPPORTS PRESIDENT'S POSITION.             
+  34   34 1                              HR6659    MAY 29, 1957               
+  34   34 2 S851034       Y=38 N=32                                           
+  34   34 3 HR. 6659.  OMNIBUS HOUSING BILL OF 1957.  AMENDMENT               
+  34   34 4 TO RETAIN FEDERAL CONTRIBUTION TO SLUM CLEARANCE PROGRAM          
+  34   34 5 AT 2/3 RATHER THAN 3/4 OF COST OF PROJECT.  ACCEPTED.             
+  35   35 1                              HR6659    MAY 29, 1957               
+  35   35 2 S851035       Y=69 N=1                                            
+  35   35 3 HR. 6659.  OMNIBUS HOUSING BILL OF 1957.  PASSED.                 
+  36   36 1                              HR6700    JUNE 03, 1957              
+  36   36 2 S851036       Y=67 N=0                                            
+  36   36 3 HR. 6700.  FISCAL 1958 APPROPRIATIONS FOR DEPARTMENT              
+  36   36 4 OF COMMERCE AND RELATED AGENCIES.  ADOPTION OF CONFERENCE         
+  36   36 5 REPORT.                                                           
+  37   37 1                              SRE       JUNE 06, 1957              
+  37   37 2 S851037       Y=85 N=0                                            
+  37   37 3 EXEC C, 85TH CONGRESS, 1ST SESSION.  PROTOCOL                     
+  37   37 4 INSTITUTING PROGRAM FOR CONSERVATION OF SOCKEYE SALMON IN         
+  37   37 5 COOPERATION WITH CANADA.  RATIFIED.  YEA SUPPORTS                 
+  37   37 6 PRESIDENT'S POSITION.                                             
+  38   38 1                              HR6500    JUNE 11, 1957              
+  38   38 2 S851038       Y=23 N=62                                           
+  38   38 3 HR. 6500.  FISCAL 1958 APPROPRIATIONS FOR D.C.                    
+  38   38 4 AMENDMENT TO INCREASE FEDERAL PAYMENT TO DISTRICT.                
+  38   38 5 REJECTED.  YEA SUPPORTS PRESIDENT'S POSITION.                     
+  39   39 1                              HR6500    JUNE 11, 1957              
+  39   39 2 S851039       Y=27 N=57                                           
+  39   39 3 HR. 6500.  FISCAL 1958 APPROPRIATIONS FOR D.C.                    
+  39   39 4 AMENDMENT TO INCREASE FUNDS FOR TEACHING PERSONNEL IN D.C.        
+  39   39 5 PUBLIC SCHOOLS.  REJECTED.                                        
+  40   40 1                              HR6500    JUNE 11, 1957              
+  40   40 2 S851040       Y=83 N=1                                            
+  40   40 3 HR. 6500.  FISCAL 1958 APPROPRIATIONS FOR D.C.                    
+  40   40 4 PASSED.                                                           
+  41   41 1                              HR7441    JUNE 11, 1957              
+  41   41 2 S851041       Y=40 N=38                                           
+  41   41 3 HR. 7441.  FISCAL 1958 APPROPRIATIONS FOR AGRICULTURE             
+  41   41 4 DEPARTMENT.  AMENDMENT TO ELIMINATE THE PROVISION LIMITING        
+  41   41 5 NATIONAL AVERAGE FOR CONSERVATION RESERVE PAYMENTS PER ACRE.      
+  41   41 6 ADOPTED.                                                          
+  42   42 1                              HR7441    JUNE 11, 1957              
+  42   42 2 S851042       Y=26 N=52                                           
+  42   42 3 HR. 7441.  FISCAL 1958 APPROPRIATIONS FOR AGRICULTURE             
+  42   42 4 DEPARTMENT.  AMENDMENT TO DECREASE LIMIT ON CONSERVATION          
+  42   42 5 RESERVE EXPENDITURES.  REJECTED.                                  
+  43   43 1                              HR7441    JUNE 11, 1957              
+  43   43 2 S851043       Y=7 N=71                                            
+  43   43 3 HR. 7441.  FISCAL 1958 APPROPRIATIONS FOR                         
+  43   43 4 AGRICULTURE DEPARTMENT.  AMENDMENT TO BAR USE OF FUNDS FOR        
+  43   43 5 AN ACREAGE RESERVE PROGRAM ON 1958 CROPS AND LIMIT RESERVE        
+  43   43 6 PAYMENTS PER PRODUCER.  REJECTED.  NAY SUPPORTS PRESIDENT'S       
+  43   43 7 POSITION.                                                         
+  44   44 1                              HR7441    JUNE 11, 1957              
+  44   44 2 S851044       Y=78 N=0                                            
+  44   44 3 HR. 7441.  FISCAL 1958 APPROPRIATIONS FOR AGRICULTURE             
+  44   44 4 DEPARTMENT.  PASSED.                                              
+  45   45 1                              HR6070    JUNE 12, 1957              
+  45   45 2 S851045       Y=72 N=0                                            
+  45   45 3 HR. 6070.  FISCAL 1958 APPROPRIATIONS FOR INDEPENDENT             
+  45   45 4 OFFICES.  PASSED.                                                 
+  46   46 1                              HR6287    JUNE 12, 1957              
+  46   46 2 S851046       Y=70 N=0                                            
+  46   46 3 HR. 6287.  FISCAL 1958 APPROPRIATIONS FOR DEPARTMENTS             
+  46   46 4 OF LABOR AND HEALTH, EDUCATION AND WELFARE.  PASSED.              
+  47   47 1                              S2130     JUNE 14, 1957              
+  47   47 2 S851047       Y=34 N=55                                           
+  47   47 3 S. 2130.  MUTUAL SECURITY ACT OF 1957.  AMENDMENT TO              
+  47   47 4 ELIMINATE FISCAL 1959 DEFENSE SUPPORT AUTHORIZATION IN ORDER      
+  47   47 5 TO REDUCE AUTHORIZATION TO ONE YEAR INSTEAD OF TWO YEARS.         
+  47   47 6 REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.                     
+  48   48 1                              S2130     JUNE 14, 1957              
+  48   48 2 S851048       Y=40 N=49                                           
+  48   48 3 S. 2130.  MUTUAL SECURITY ACT OF 1957.  AMENDMENT TO              
+  48   48 4 REDUCE DEFENSE SUPPORT FUNDS FOR FISCAL 1958.  REJECTED.          
+  48   48 5 NAY SUPPORTS PRESIDENT'S POSITION.                                
+  49   49 1                              S2130     JUNE 14, 1957              
+  49   49 2 S851049       Y=26 N=61                                           
+  49   49 3 S. 2130.  MUTUAL SECURITY ACT OF 1957.  AMENDMENT TO              
+  49   49 4 REDUCE MILITARY ASSISTANCE FUNDS FOR FISCAL 1958.  REJECTED.      
+  49   49 5 NAY SUPPORTS PRESIDENT'S POSITION.                                
+  50   50 1                              S2130     JUNE 14, 1957              
+  50   50 2 S851050       Y=33 N=52                                           
+  50   50 3 S.2130.  MUTUAL SECURITY ACT OF 1957.  AMENDMENT TO               
+  50   50 4 REDUCE MILITARY ASSISTANCE FUNDS FOR FISCAL 1958 (BY              
+  50   50 5 SMALLER AMOUNT THAN IN CQ 49).  REJECTED.  NAY SUPPORTS           
+  50   50 6 PRESIDENT'S POSITION.                                             
+  51   51 1                              S2130     JUNE 14, 1957              
+  51   51 2 S851051       Y=32 N=54                                           
+  51   51 3 S. 2130.  MUTUAL SECURITY ACT OF 1957.  AMENDMENT TO              
+  51   51 4 DELETE DEVELOPMENT LOAN FUND PROVISION AUTHORIZING                
+  51   51 5 BORROWING AUTHORITY FOR FISCAL YEAR 1959 AND 1960, AND TO         
+  51   51 6 ELIMINATE REVOLVING CHARACTER OF FUND.  REJECTED.  NAY            
+  51   51 7 SUPPORTS PRESIDENT'S POSITION.                                    
+  52   52 1                              S2130     JUNE 14, 1957              
+  52   52 2 S851052       Y=22 N=61                                           
+  52   52 3 S. 2130.  MUTUAL SECURITY ACT OF 1957.  AMENDMENT TO              
+  52   52 4 REDUCE SPECIAL AUTHORITY FUNDS USED AT PRESIDENT'S                
+  52   52 5 DISCRETION AND REQUIRE THAT HE NOTIFY CONGRESS BEFORE USING       
+  52   52 6 THESE FUNDS.  REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.       
+  53   53 1                              S2130     JUNE 14, 1957              
+  53   53 2 S851053       Y=31 N=53                                           
+  53   53 3 S. 2130.  MUTUAL SECURITY ACT OF 1957.  AMENDMENT REQUIRING       
+  53   53 4 THAT SECRETARY OF STATE KEEP CONGRESS INFORMED AS                 
+  53   53 5 TO ACTIVITIES OF GOVERNMENT DEPARTMENTS UNDER THE                 
+  53   53 6 PROVISIONS OF THE ACT.  REJECTED.                                 
+  54   54 1                              S2130     JUNE 14, 1957              
+  54   54 2 S851054       Y=57 N=25                                           
+  54   54 3 S. 2130.  MUTUAL SECURITY ACT OF 1957.  PASSED.  YEA              
+  54   54 4 SUPPORTS PRESIDENT'S POSITION.  (SEE CQ 100, 106.)                
+  55   55 1                              SRE       JUNE 18, 1957              
+  55   55 2 S851055       Y=31 N=55                                           
+  55   55 3 EXEC I, 85TH CONGRESS, 1ST SESSION.  STATUTE OF THE               
+  55   55 4 INTERNATIONAL ATOMIC ENERGY AGENCY.  AMENDMENT THAT U.S.          
+  55   55 5 SHALL NOT MAKE FISSIONABLE MATERIALS AVAILABLE TO THAT            
+  55   55 6 AGENCY EXCEPT UNDER AUTHORIZATION OF CONGRESS.  REJECT.           
+  56   56 1                              SRE       JUNE 18, 1957              
+  56   56 2 S851056       Y=67 N=19                                           
+  56   56 3 EXEC I, 85TH CONGRESS, 1ST SESSION.  STATUTE OF THE               
+  56   56 4 INTERNATIONAL ATOMIC ENERGY AGENCY.  RATIFICATION OF TREATY.      
+  56   56 5 YEA SUPPORTS PRESIDENT'S POSITION.                                
+  57   57 1                              HR6127    JUNE 20, 1957              
+  57   57 2 S851057       Y=39 N=45                                           
+  57   57 3 HR. 6127.  CIVIL RIGHTS ACT OF 1957.  POINT OF ORDER              
+  57   57 4 AGAINST OBJECTION BY KNOWLAND TO REFERRAL OF BILL TO              
+  57   57 5 JUDICIARY COMMITTEE. REJECTED. (BILL THUS BYPASSED THE            
+  57   57 6 JUDICIARY COMMITTEE.                                              
+  58   58 1                              HR6127    JUNE 20, 1957              
+  58   58 2 S851058       Y=49 N=36                                           
+  58   58 3 HR. 6127.  CIVIL RIGHTS ACT OF 1957.  MOTION TO                   
+  58   58 4 TABLE A MOTION TO RECONSIDER CQ 57.  PASSED.  (SEE CQ 66,         
+  58   58 5 73, 104.)                                                         
+  59   59 1                              S555      JUNE 21, 1957              
+  59   59 2 S851059       Y=45 N=38                                           
+  59   59 3 S. 555.  AUTHORIZE FEDERAL CONSTRUCTION OF HELLS                  
+  59   59 4 CANYON DAM.  PASSED.  YEA SUPPORTS PRESIDENT'S POSITION.          
+  60   60 1                              HR5189    JUNE 24, 1957              
+  60   60 2 S851060       Y=81 N=0                                            
+  60   60 3 HR. 5189.  FISCAL 1958 APPROPRIATIONS FOR DEPARTMENT              
+  60   60 4 OF INTERIOR, THE FOREST SERVICE AND RELATED AGENCIES.             
+  60   60 5 PASSED.                                                           
+  61   61 1                              HCRE204   JUNE 26, 1957              
+  61   61 2 S851061       Y=86 N=0                                            
+  61   61 3 H.CON.RES.204.  RESOLUTION THAT GENERAL ASSEMBLY OF               
+  61   61 4 U.N. SHOULD RECONVENE IMMEDIATELY TO CONSIDER THE U.N.            
+  61   61 5 SPECIAL COMMITTEE REPORT ON THE PROBLEM OF HUNGARY.  PASSED.      
+  62   62 1                              SRE       JULY 02, 1957              
+  62   62 2 S851062       Y=78 N=0                                            
+  62   62 3 EXEC H, 85TH CONGRESS, 1ST SESSION.  AGREEMENT AND                
+  62   62 4 PROTOCAL WITH AUSTRIA ON VALIDITY OF PRE-WORLD WAR II             
+  62   62 5 BONDS.  RATIFIED.  YEA SUPPORTS PRESIDENT'S POSITION.             
+  63   63 1                              HR7665    JULY 02, 1957              
+  63   63 2 S851063       Y=7 N=65                                            
+  63   63 3 HR. 7665.  FISCAL 1958 APPROPRIATIONS FOR DEPARTMENT              
+  63   63 4 OF DEFENSE.  AMENDMENT TO REDUCE NUMEROUS ITEMS AND               
+  63   63 5 PROVIDE FUNDS TO ESTABLISH ADDITIONAL ARMY AND MARINE COMBAT      
+  63   63 6 UNITS.  REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.             
+  64   64 1                              HR7665    JULY 02, 1957              
+  64   64 2 S851064       Y=24 N=49                                           
+  64   64 3 HR. 7665.  FISCAL 1958 APPROPRIATIONS FOR DEPARTMENT              
+  64   64 4 OF DEFENSE.  AMENDMENT TO REDUCE TOTAL FUNDS.  REJECTED.          
+  64   64 5 NAY SUPPORTS PRESIDENT'S POSITION.                                
+  65   65 1                              HR7665    JULY 02, 1957              
+  65   65 2 S851065       Y=74 N=0                                            
+  65   65 3 HR. 7665.  FISCAL 1958 APPROPRIATIONS FOR DEPARTMENT              
+  65   65 4 OF DEFENSE.  PASSED.                                              
+  66   66 1                              HR6127    JULY 16, 1957              
+  66   66 2 S851066       Y=71 N=18                                           
+  66   66 3 HR. 6127.  CIVIL RIGHTS ACT OF 1957.  MOTION TO CONSIDER          
+  66   66 4 THE BILL.  AGREED TO.  YEA SUPPORTS PRESIDENT'S                   
+  66   66 5 POSITION.                                                         
+  67   67 1                              HR6127    JULY 16, 1957              
+  67   67 2 S851067       Y=35 N=54                                           
+  67   67 3 HR. 6127.  CIVIL RIGHTS ACT OF 1957.  MOTION TO REFER BILL        
+  67   67 4 TO SENATE JUDCICIARY COMMITTEE, WITH INSTRUCTIONS TO              
+  67   67 5 REPORT THE BILL IN SEVEN DAYS, WITH OR WITHOUT AMENDMENTS.        
+  67   67 6 REJECTED.                                                         
+  68   68 1                              HR6127    JULY 22, 1957              
+  68   68 2 S851068       Y=90 N=0                                            
+  68   68 3 HR. 6127.  CIVIL RIGHTS ACT OF 1957.  AMENDMENT                   
+  68   68 4 REPEALING A STATUTE OF 1866 WHICH GAVE PRESIDENT POWER TO         
+  68   68 5 USE TROOPS TO ENFORCE EXISTING CIVIL RIGHTS LAWS.  ACCEPTED.      
+  69   69 1                              HR6127    JULY 23, 1957              
+  69   69 2 S851069       Y=29 N=61                                           
+  69   69 3 HR. 6127.  CIVIL RIGHTS ACT OF 1957.  AMENDMENT PERMITTING        
+  69   69 4 ATTORNEY GENERAL TO INSTITUTE CIVIL ACTION ONLY                   
+  69   69 5 WHEN DIRECTED TO DO SO BY PRESIDENT.  REJECTED.                   
+  70   70 1                              HR6127    JULY 23, 1957              
+  70   70 2 S851070       Y=8 N=81                                            
+  70   70 3 HR. 6127.  CIVIL RIGHTS ACT OF 1957.  AMENDMENT PERMITTING        
+  70   70 4 ATTORNEY GENERAL TO INSTITUTE CIVIL ACTION FOR                    
+  70   70 5 PREVENTIVE RELIEF WHEN CONSPIRACY HINDERS COMPLIANCE WITH         
+  70   70 6 AN ORDER OF U.S. COURT, ISSUED TO SECURE EQUAL PROTECTION         
+  70   70 7 OF THE LAWS.  REJECTED.                                           
+  71   71 1                              HR6127    JULY 24, 1957              
+  71   71 2 S851071       Y=52 N=38                                           
+  71   71 3 HR. 6127.  CIVIL RIGHTS ACT OF 1957.  AMENDMENT TO                
+  71   71 4 DELETE AUTHORITY FOR ATTORNEY GENERAL TO SEEK PREVENTIVE          
+  71   71 5 RELIEF IN CIVIL RIGHTS CASES UNDER THE 14TH AMENDMENT.            
+  71   71 6 ACCEPTED.  NAY SUPPORTS PRESIDENT'S POSITION.  (SEE CQ 73.)       
+  72   72 1                              HR7665    AUG. 01, 1957              
+  72   72 2 S851072       Y=89 N=0                                            
+  72   72 3 HR. 7665.  FISCAL 1958 DEPARTMENT OF DEFENSE                      
+  72   72 4 APPROPRIATIONS.  MOTION TO RECONSIDER CONFERENCE REPORT.          
+  72   72 5 AGREED TO. YEA SUPPORTS PRESIDENT'S POSITION.                     
+  73   73 1                              HR6127    AUG. 02, 1957              
+  73   73 2  851073       Y=51 N=42                                           
+  73   73 3 HR. 6127.  CIVIL RIGHTS ACT OF 1957.  AMENDMENT TO                
+  73   73 4 GUARANTEE JURY TRIALS IN ALL CASES OF CRIMINAL CONTEMPT AND       
+  73   73 5 PROVIDE UNIFORM METHODS FOR SELECTING FEDERAL COURT               
+  73   73 6 JURIES.  AGREED TO. NAY SUPPORTS PRESIDENT'S POSITION.            
+  74   74 1                              HR6127    AUG. 02, 1957              
+  74   74 2 S851074       Y=34 N=47                                           
+  74   74 3 HR. 6127.  CIVIL RIGHTS ACT OF 1957.  AMENDMENT TO                
+  74   74 4 MAKE A DISTRICT COURT'S JURISDICTION OVER RIGHT-TO-VOTE           
+  74   74 5 CASES PERMISSIVE RATHER THAN MANDATORY, WHEN ADMINISTRATIVE       
+  74   74 6 REMEDIES HAVE NOT BEEN EXHAUSTED.  REJECTED.  NAY SUPPORTS        
+  74   74 7 PRESIDENT'S POSITION.                                             
+  75   75 1                              HR6127    AUG. 07, 1957              
+  75   75 2 S851075       Y=72 N=18                                           
+  75   75 3 HR. 6127.  CIVIL RIGHTS ACT OF 1957.  PASSED.                     
+  76   76 1                              HR8090    AUG. 08, 1957              
+  76   76 2 S851076       Y=85 N=1                                            
+  76   76 3 HR. 8090.  FISCAL 1958 APPROPRIATIONS FOR ARMY CORPS OF           
+  76   76 4 ENGINEERS AND INTERIOR DEPARTMENT PUBLIC WORKS.  PASSED           
+  77   77 1                              SRE       AUG. 08, 1957              
+  77   77 2 S851077       Y=86 N=0                                            
+  77   77 3 EXEC D, 85TH CONGRESS, 1ST SESSION.  TREATY OF FRIENDSHIP,        
+  77   77 4 COMMERCE AND NAVIGATION WITH REPUBLIC OF KOREA.  RATIFIED.        
+  77   77 5 YEA SUPPORTS PRESIDENT'S POSITION.                                
+  78   78 1                              SRE       AUG. 08, 1957              
+  78   78 2 S851078       Y=86 N=0                                            
+  78   78 3 ****MISSING TEXT****                                              
+  79   79 1                              SRE       AUG. 08, 1957              
+  79   79 2 S851079       Y=86 N=0                                            
+  79   79 3 EXEC C, 84TH CONGRESS, 2ND SESSION.  CONVENTION FOR               
+  79   79 4 PROMOTION OF INTER-AMERICAN CULTURAL RELATIONS.  RATIFIED.        
+  79   79 5 YEA SUPPORTS PRESIDENT'S POSITION.                                
+  80   80 1                              SRE       AUG. 08, 1957              
+  80   80 2 S851080       Y=86 N=0                                            
+  80   80 3 EXECS E, J, AND M, 85TH CONGRESS, 1ST SESSION.                    
+  80   80 4 CONVENTIONS OF WHALING, CONSERVATION OF FUR SEALS, AND ON         
+  80   80 5 SAFETY AT SEA.  RATIFIED EN BLOC.  YEA SUPPORTS PRESIDENT'S       
+  80   80 6 POSITION.                                                         
+  81   81 1                              SRE       AUG. 08, 1957              
+  81   81 2 S851081       Y=86 N=0                                            
+  81   81 3 EXECS A, B, AND K, 85TH CONGRESS, 1ST SESSION.                    
+  81   81 4 CONVENTIONS WITH AUSTRIA, CANADA, AND JAPAN ON DOUBLE             
+  81   81 5 TAXATION.  RATIFIED EN BLOC.  YEA SUPPORTS PRESIDENT'S            
+  81   81 6 POSITION.                                                         
+  82   82 1                              S1869     AUG. 09, 1957              
+  82   82 2 S851082       Y=22 N=63                                           
+  82   82 3 S. 1869.  AUTHORIZE TVA TO FINANCE CONSTRUCTION OF NEW            
+  82   82 4 POWER FACILITIES BY ISSUING REVENUE BONDS.  MOTION TO             
+  82   82 5 RECOMMIT. REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.           
+  83   83 1                              S1869     AUG. 09, 1957              
+  83   83 2 S851083       Y=37 N=46                                           
+  83   83 3 S. 1869.  AUTHORIZE TVA TO FINANCE CONSTRUCTION OF                
+  83   83 4 NEW POWER FACILITIES BY ISSUING REVENUE BONDS.  AMENDMENT         
+  83   83 5 TO BAR ISSUE OR SALE OF TVA BONDS AND USE OF BOND REVENUES        
+  83   83 6 FOR NEW PROJECT WITHOUT BUDGET BUREAU AND CONGRESSIONAL           
+  83   83 7 AUTHORIZATION, AND TO MAKE ALL BOND FINANCING SUBJECT TO          
+  83   83 8 CORPORATIONS CONTROL ACT OF 1945.  REJECTED.  YEA SUPPORTS        
+  83   83 9 PRESIDENT'S POSITION.                                             
+  84   84 1                              S1869     AUG. 09, 1957              
+  84   84 2 S851084       Y=76 N=6                                            
+  84   84 3 S. 1869.  AUTHORIZE TVA TO FINANCE CONSTRUCTION OF NEW POWER      
+  84   84 4 FACILITIES BY ISSUING REVENUE BONDS.  AMENDMENT                   
+  84   84 5 REQUIRING TVA TO PAY AT LEAST $10 MILLION ANNUALLY TO             
+  84   84 6 REDUCE GOVERNMENT'S APPROPRIATION INVESTMENT AND TO MAKE          
+  84   84 7 INTEREST PAYMENTS ON REMAINING INVESTMENTS.  ACCEPTED.  YEA       
+  84   84 8 SUPPORTS PRESIDENT'S POSITION.                                    
+  85   85 1                              S1869     AUG. 09, 1957              
+  85   85 2 S851085       Y=61 N=20                                           
+  85   85 3 S. 1869.  AUTHORIZE TVA TO FINANCE CONSTRUCTION OF                
+  85   85 4 NEW POWER FACILITIES BY ISSUING REVENUE BONDS.  PASSED. YEA       
+  85   85 5 SUPPORTS PRESIDENT'S POSITION.                                    
+  86   86 1                              HR6517    AUG. 10, 1957              
+  86   86 2 S851086       Y=19 N=47                                           
+  86   86 3 HR. 6517.  RAISE CONTRIBUTIONS OF D.C. POLICE AND                 
+  86   86 4 FIREMEN TO THEIR PENSION SYSTEM.  MOTION TO RECOMMIT.             
+  86   86 5 REJECTED.                                                         
+  87   87 1                              HR6517    AUG. 10, 1957              
+  87   87 2 S851087       Y=30 N=32                                           
+  87   87 3 HR. 6517.  RAISE CONTRIBUTIONS OF D.C. POLICE AND                 
+  87   87 4 FIREMEN TO THEIR PENSION SYSTEM.  MOTION TO RECOMMIT WITH         
+  87   87 5 INSTRUCTIONS TO BRING RETIREMENT BENEFITS IN LINE WITH THOSE      
+  87   87 6 FOR EMPLOYEES UNDER CIVIL SERVICE SYSTEM WHO ARE ENGAGED          
+  87   87 7 IN HAZARDOUS WORK.  REJECTED.                                     
+  88   88 1                              HR6517    AUG. 10, 1957              
+  88   88 2 S851088       Y=45 N=19                                           
+  88   88 3 HR. 6517.  RAISE CONTRIBUTIONS OF D.C. POLICE AND                 
+  88   88 4 FIREMEN TO THEIR PENSION SYSTEM.  PASSED.                         
+  89   89 1                              S2229     AUG. 12, 1957              
+  89   89 2 S851089       Y=72 N=9                                            
+  89   89 3 S. 2229.  PROVIDE GOVERNMENT GUARANTEE OF PRIVATE                 
+  89   89 4 LOANS TO AIR CARRIERS FOR PURCHASE OF AIRCRAFT AND                
+  89   89 5 EQUIPMENT. PASSED.                                                
+  90   90 1                              HR8643    AUG. 12, 1957              
+  90   90 2 S851090       Y=30 N=48                                           
+  90   90 3 HR. 8643.  AUTHORIZE FEDERAL POWER COMMISSION TO                  
+  90   90 4 LICENSE NEW YORK STATE TO CONSTRUCT POWER PLANT AT NIAGARA        
+  90   90 5 FALLS.  CLARK AMENDMENT TO DELETE THE WORD 'REASONABLE' FROM      
+  90   90 6 PROVISION REQUIRING THAT POWER BE MADE AVAILABLE TO PUBLIC        
+  90   90 7 BODIES WIHIN 'REASONABLE ECONOMIC TRANSMISSION DISTANCE'.         
+  91   91 1                              SRE       AUG. 15, 1957              
+  91   91 2 S851091       Y=50 N=25                                           
+  91   91 3 NOMINATION OF JEROME K. KUYKENDALL TO A 2ND TERM ON               
+  91   91 4 FEDERAL POWER COMMISSION.  CONFIRMED.  YEA SUPPORTS               
+  91   91 5 PRESIDENT'S POSITION.                                             
+  92   92 1                              SRE       AUG. 15, 1957              
+  92   92 2 S851092       Y=42 N=32                                           
+  92   92 3 NOMINATION OF DON PAARLBERG AS AN ASSISTANT                       
+  92   92 4 SECRETARY OF AGRICULTURE.  CONFIRMED.  YEA SUPPORTS               
+  92   92 5 PRESIDENT'S POSITION.                                             
+  93   93 1                              S2674     AUG. 16, 1957              
+  93   93 2 S851093       Y=37 N=40                DWORSHAK, IDA.             
+  93   93 3 S. 2674.  SENATE VERSION OF HR. 8996, AUTHORIZING                 
+  93   93 4 APPROPRIATIONS FOR ATOMIC ENERGY COMMISSION.  DWORSHAK (R,        
+  93   93 5 IDAHO) AMENDMENT TO REDUCE APPROPRIATION FOR URANIUM              
+  93   93 6 REACTOR.  REJECTED.                                               
+  94   94 1                              S2674     AUG. 16, 1957              
+  94   94 2 S851094       Y=34 N=42                HICKENLOOPE, IOWA          
+  94   94 3 S. 2674.  SENATE VERSION OF HR. 8996,  AUTHORIZING                
+  94   94 4 APPROPRIATIONS FOR ATOMIC ENERGY COMMISSION.  HICKENLOOPER        
+  94   94 5 (R, IOWA) AMENDMENT TO REDUCE APPROPRIATION FOR URANIUM           
+  94   94 6 REACTOR AND PLUTONIUM PLANT.  REJECTED.                           
+  95   95 1                              S2674     AUG. 16, 1957              
+  95   95 2 S851095       Y=34 N=42                                           
+  95   95 3 S. 2674.  ATOMIC ENERGY COMMISSION APPROPRIATIONS.                
+  95   95 4 AMENDMENT TO AUTHORIZE COOPERATIVE POWER REACTOR                  
+  95   95 5 DEMONSTRATION PROGRAM AND TO ELIMINATE REQUIREMENT THAT           
+  95   95 6 ATOMIC ENERGY COMMISSION CONTRACT DIRECTLY WITH MANUFACTUR-       
+  95   95 7 ERS AND ENGINEERS FOR CONSTRUCTION, AND WITH COOPERATIVES         
+  95   95 8 FOR OPERATION, OF THE PLANTS.  REJECTED.                          
+  96   96 1                              S2792     AUG. 21, 1957              
+  96   96 2 S851096       Y=65 N=4                                            
+  96   96 3 S. 2792.  REVISION OF IMMIGRATION AND NATIONALITY LAW             
+  96   96 4 TO RELIEVE CERTAIN 'HARDSHIP' CASES.  PASSED.  YEA SUPPORTS       
+  96   96 5 PRESIDENT'S POSITION.                                             
+  97   97 1                              S939      AUG. 22, 1957              
+  97   97 2 S851097       Y=19 N=62                                           
+  97   97 3 S. 939.  BILL TO INSURE THAT RAILROADS CAN CONTINUE               
+  97   97 4 TO OFFER LOWER THAN PUBLISHED RATES FOR TRANSPORTING              
+  97   97 5 GOVERNMENT PERSONNEL AND FREIGHT.  MOTION TO DELAY ACTION         
+  97   97 6 ON CONFERENCE REPORT UNTIL SECOND SESSION.  REJECTED.             
+  98   98 1                              S2377     AUG. 26, 1957              
+  98   98 2 S851098       Y=30 N=45                                           
+  98   98 3 S. 2377.  AMEND U.S. CODE TO RESTRICT USE OF FBI FILES BY         
+  98   98 4 DEFENDANTS IN CRIMINAL CASES.  AMENDMENT TO                       
+  98   98 5 ELIMINATE REFERENCE TO FEDERAL RULES OF CRIMINAL PROCEDURE.       
+  98   98 6 REJECTED.                                                         
+  99   99 1                              S2377     AUG. 26, 1957              
+  99   99 2 S851099       Y=37 N=43                                           
+  99   99 3 S. 2377.  AMEND U.S. CODE TO RESTRICT USE OF FBI                  
+  99   99 4 FILES IN CRIMINAL CASES.  AMENDMENT TO PERMIT GOVERNMENT TO       
+  99   99 5 PRODUCE RECORDINGS RATHER THAN RECORDS OF WITNESSES' STATE-       
+  99   99 6 MENTS.  REJECTED.  (SEE CQ 1079)                                  
+ 100  100 1                              HR9302    AUG. 27, 1957              
+ 100  100 2 S851100       Y=59 N=28                                           
+ 100  100 3 HR. 9302.  MUTUAL SECURITY APPROPRIATIONS FOR FISCAL 1958.        
+ 100  100 4 AMENDMENT TO INCREASE MILITARY ASSISTANCE FUNDS.                  
+ 100  100 5 ACCEPTED.  YEA SUPPORTS PRESIDENT'S POSITION.                     
+ 101  101 1                              HR9302    AUG. 27, 1957              
+ 101  101 2 S851101       Y=62 N=25                                           
+ 101  101 3 HR. 9302.  MUTUAL SECURITY APPROPRIATIONS FOR FISCAL              
+ 101  101 4 1958.  PASSED.  YEA SUPPORTS PRESIDENT'S POSITION.                
+ 102  102 1                              HR4274    AUG. 27, 1957              
+ 102  102 2 S851102       Y=69 N=17                                           
+ 102  102 3 HR. 4274.  POSTAL PAY INCREASE BILL.  PASSED.  NAY                
+ 102  102 4 SUPPORTS PRESIDENT'S POSITION.                                    
+ 103  103 1                              HR2462    AUG. 27, 1957              
+ 103  103 2 S851103       Y=64 N=22                                           
+ 103  103 3 HR. 2462.  FEDERAL EMPLOYEES' SALARY INCREASE.                    
+ 103  103 4 PASSED.  NAY SUPPORTS PRESIDENT'S POSITION.                       
+ 104  104 1                              HR6127    AUG. 27, 1957              
+ 104  104 2 S851104       Y=18 N=66                                           
+ 104  104 3 HR. 6127.  CIVIL RIGHTS ACT OF 1957.  MOTION TO                   
+ 104  104 4 SEND HOUSE-MODIFIED JURY PROVISION TO SENATE JUDICIARY            
+ 104  104 5 COMMITTEE.  REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.         
+ 105  105 1                              HR6127    AUG. 29, 1957              
+ 105  105 2 S851105       Y=60 N=15                                           
+ 105  105 3 HR. 6127.  CIVIL RIGHTS ACT OF 1957.  MOTION THAT                 
+ 105  105 4 SENATE CONCUR IN HOUSE-APPROVED PROVISION PERMITTING A JURY       
+ 105  105 5 TRIAL IN SOME CRIMINAL CONTEMPT CASES INVOLVING VOTING            
+ 105  105 6 RIGHTS.  AGREED TO.  YEA SUPPORTS PRESIDENT'S POSITION.           
+ 106  106 1                              HR9302    AUG. 29, 1957              
+ 106  106 2 S851106       Y=59 N=19                                           
+ 106  106 3 HR. 9302.  MUTUAL SECURITY APPROPRIATIONS FOR FISCAL              
+ 106  106 4 1958.  CONFERENCE REPORT.  ADOPTED.  YEA SUPPORTS                 
+ 106  106 5 PRESIDENT'S POSITION.                                             
+ 107  107 1                              S2377     AUG. 30, 1957              
+ 107  107 2 S851107       Y=74 N=2                                            
+ 107  107 3 S. 2377.  AMEND U.S. CODE TO RESTRICT USE OF FBI                  
+ 107  107 4 FILES BY DEFENDANTS IN CRIMINAL CASES.  ADOPTION OF CON-          
+ 107  107 5 FERENCE REPORT.  YEA SUPPORTS PRESIDENT'S POSITION.               
+ 108  108 1                              HR10146   FEB. 03, 1958              
+ 108  108 2 S852001       Y=78 N=0                                            
+ 108  108 3 HR. 10146.  FISCAL 1958 SUPPLEMENTAL DEFENSE APPROPRI-            
+ 108  108 4 APTION BILL FOR ACCELERATED MISSLE-DEFENSE PROGRAM.               
+ 108  108 5 PASSED.  YEA SUPPORTS PRESIDENT'S POSITION.                       
+ 109  109 1                              SRE231    FEB. 05, 1958              
+ 109  109 2 S852002       Y=28 N=61                                           
+ 109  109 3 S.RES. 231.  RESOLUTION PROVIDING FUNDS FOR INVESTIGATIONS        
+ 109  109 4 BY SENATE SUBCOMMITTEE ON ANTITRUST AND MONOPOLY.                 
+ 109  109 5 AMEND. TO PROVIDE $250,000 INSTEAD OF $365,000.  REJECTED.        
+ 110  110 1                              SRE250    FEB. 05, 1958              
+ 110  110 2 S852003       Y=25 N=49                                           
+ 110  110 3 S. RES. 250.  FUNDS FOR INVESTIGATION BY SENATE RULES             
+ 110  110 4 AND ADMINISTRATION SUBCOMMITTEE ON PRIVILEGES AND ELECTIONS.      
+ 110  110 5 AMENDMENT TO LIMIT SUB-COMMITTEE TO THREE EMPLOYEES.              
+ 110  110 6 REJECTED.                                                         
+ 111  111 1                              SRE256    FEB. 06, 1958              
+ 111  111 2 S852004       Y=78 N=1                                            
+ 111  111 3 S. RES. 256.  ESTABLISH SENATE COMMITTEE ON                       
+ 111  111 4 AERONAUTICS AND SPACE EXPLORATION.  ADOPTED.                      
+ 112  112 1                              HR5822    FEB. 20, 1958              
+ 112  112 2 S852005       Y=14 N=70                                           
+ 112  112 3 HR. 5822.  PERMIT SUBSIDIZED AIRLINES TO RETAIN                   
+ 112  112 4 NET CAPITAL GAINS FROM SALE OF OLD EQUIPMENT FOR REINVEST-        
+ 112  112 5 MENT OF CAPITAL GAINS TO GOVERNMENT OVER SIX-YEAR PERIOD.         
+ 112  112 6 REJECTED.                                                         
+ 113  113 1                              HR9955    FEB. 24, 1958              
+ 113  113 2 S852006       Y=12 N=74                                           
+ 113  113 3 HR. 9955.  BILL TO INCREASE NATIONAL DEBT LIMIT                   
+ 113  113 4 TEMPORARILY BY $5 BILLION.  MOTION TO RECOMMIT. REJECTED.         
+ 113  113 5 NAY SUPPORTS PRESIDENT'S POSITION.                                
+ 114  114 1                              HR9955    FEB. 24, 1958              
+ 114  114 2 S852007       Y=27 N=56                                           
+ 114  114 3 HR. 9955.  INCREASE NATIONAL DEBT LIMIT TEMPORARILY.              
+ 114  114 4 AMENDMENT TO LIMIT INCREASE TO $3 BILLION.  REJECTED.             
+ 115  115 1                              HR5836    FEB. 26, 1958              
+ 115  115 2 S852008       Y=42 N=49                                           
+ 115  115 3 HR. 5836.  INCREASES IN POSTAL RATES.  AMEND TO SET               
+ 115  115 4 FOUR-CENT RATE ON ALL FIRST CLASS MAIL.  REJECTED.  NAY           
+ 115  115 5 SUPPORTS PRESIDENT'S POSITION.                                    
+ 116  116 1                              HR5836    FEB. 27, 1958              
+ 116  116 2 S852009       Y=33 N=57                                           
+ 116  116 3 HR. 5836.  INCREASES IN POSTAL RATES.  AMENDMENT TO               
+ 116  116 4 PLACE LIMIT ON SUBSIDY RECEIVED BY PUBLISHERS OF MAGAZINES        
+ 116  116 5 OR OTHER SECOND-CLASS MAIL ADVERTISING MATTER.  REJECTED.         
+ 117  117 1                              HR5836    FEB. 27, 1958              
+ 117  117 2 S852010       Y=40 N=48                                           
+ 117  117 3 HR. 5836.  INCREASES IN POSTAL RATES.  MOTION TO                  
+ 117  117 4 RECOMMIT WITH INSTRUCTIONS TO ELIMINATE FIVE CENT RATE ON         
+ 117  117 5 NON-LOCAL FIRST CLASS LETTERS.  REJECTED.  ANY SUPPORTS           
+ 117  117 6 PRESIDENT'S POSITION.                                             
+ 118  118 1                              HR5836    FEB. 27, 1958              
+ 118  118 2 S852011       Y=17 N=71                                           
+ 118  118 3 HR. 5836.  INCREASES IN POSTAL RATES.  AMENDMENT TO               
+ 118  118 4 RAISE SECOND CLASS RATES FOR ADVERTISING MATTER IN NEWS-          
+ 118  118 5 PAPERS AND MAGAZINES BY THREE ANNUAL INCREASES OF 30              
+ 118  118 6 PERCENT, RATHER THAN 20 PERCENT, OF CURRENT RATES.                
+ 118  118 7 REJECTED.                                                         
+ 119  119 1                              HR5836    FEB. 28, 1958              
+ 119  119 2 S852012       Y=35 N=49                                           
+ 119  119 3 HR. 5836.  INCREASES IN POSTAL RATES.  AMENDMENT TO               
+ 119  119 4 ELIMINATE 1/4 CENT INCREASE IN MINIMUM PIECE RATE ON NON-         
+ 119  119 5 PROFIT SECOND CLASS PUBLICATIONS.  REJECTED.                      
+ 120  120 1                              HR5836    FEB. 28, 1958              
+ 120  120 2 S852013       Y=6 N=79                                            
+ 120  120 3 HR. 5836.  POSTAL RATES INCREASES.  AMENDMENT TO                  
+ 120  120 4 PROVIDE TWO CENT RATE ON THIRD CLASS MAIL PREPARED IN A           
+ 120  120 5 PRESCRIBED MANNER.  REJECTED.                                     
+ 121  121 1                              HR5836    FEB. 28, 1958              
+ 121  121 2 S852014       Y=29 N=54                                           
+ 121  121 3 HR. 5836.  INCREASES IN POSTAL RATES.  AMENDMENT TO               
+ 121  121 4 ADD PAY INCREASE BILL FOR POSTAL WORKERS.  REJECTED.              
+ 122  122 1                              HR5836    FEB. 28, 1958              
+ 122  122 2 S85015        Y=50 N=31                                           
+ 122  122 3 HR. 5836.  INCREASES IN POSTAL RATES.  AMENDMENT TO               
+ 122  122 4 PROVIDE TEMPORARY COST-OF-LIVING PAY INCREASES FOR POSTAL         
+ 122  122 5 SUPERVISORS AND LOWER-LEVEL EMPLOYEES.  ACCEPTED.  (LATER         
+ 122  122 6 RECONSIDERED AND REJECTED BY VOICE VOTE.  SEE CQ 67.)             
+ 123  123 1                              HR10881   MAR. 10, 1958              
+ 123  123 2 S852016       Y=36 N=48                                           
+ 123  123 3 HR. 10881.  FISCAL 1958 SECOND SUPPLEMENTAL                       
+ 123  123 4 APPROPRIATIONS BILL.  MOTION TO SUSPEND RULES AND AMEND TO        
+ 123  123 5 ALLOW COTTON FARMERS TO WITHDRAW FROM SOIL BANK PROVIDED          
+ 123  123 6 THEY GIVE UP PRICE SUPPORT PAYMENT RIGHTS ON ADDITIONAL           
+ 123  123 7 COTTON ACREAGE.  TWO-THIRDS MAJORITY REQUIRED.  REJECTED.         
+ 124  124 1                              HR10881   MAR. 11, 1958              
+ 124  124 2 S852017       Y=30 N=59                                           
+ 124  124 3 HR. 10881.  FISCAL 1958 SECOND SUPPLEMENTAL                       
+ 124  124 4 APPROPRIATIONS BILL.  MOTION TO SUSPEND RULES AND AMEND TO        
+ 124  124 5 PROVIDE THAT PRICE SUPPORTS FOR DAIRY PRODUCTS FOR 1958           
+ 124  124 6 SHOULD NOT BE LESS THAN FOR 1957.  TWO-THIRDS MAJORITY            
+ 124  124 7 REQUIRED.  REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.          
+ 125  125 1                              HR10881   MAR. 11, 1958              
+ 125  125 2 S852018       Y=29 N=50                                           
+ 125  125 3 HR. 10881.  FISCAL 1958 SECOND SUPPLEMENTAL APPROPRI-             
+ 125  125 4 ATIONS BILL.  POINT OF ORDER AGAINST SECTION                      
+ 125  125 5 PROVIDING COMPENSTATION FOR CHAIRMAN OF FEDERAL POWER             
+ 125  125 6 COMMISSION BETWEEN EXPIRATION OF PRIOR APPOINTMENT AND            
+ 125  125 7 CONFIRMATION OF PRESENT APPOINTMENT.  REJECTED.                   
+ 126  126 1                              SCRE68    MAR. 12, 1958              
+ 126  126 2 S852019       Y=93 N=1                                            
+ 126  126 3 S.CON.RES. 68. RESOL. CALLING ON PRES. TO ACCELERATE              
+ 126  126 4 SPENDING OF FUNDS APPROPRIATED FOR CIVIL CONSTRUCTION             
+ 126  126 5 PROJECTS.  APPROVED                                               
+ 127  127 1                              S3148     MAR. 12, 1958              
+ 127  127 2 S852020       Y=47 N=47                                           
+ 127  127 3 S. 3148.  EMERGENCY HOUSING BILL.  AMENDMENT TO                   
+ 127  127 4 ELIMINATE RAISING OF INTEREST RATE ON GI LOANS.  REJECTED.        
+ 127  127 5 NAY SUPPORTS PRESIDENT'S POSITION.                                
+ 128  128 1                              S3148     MAR. 12, 1958              
+ 128  128 2 S852021       Y=47 N=47                                           
+ 128  128 3 S. 3148.  EMERGENCY HOUSING BILL.  MOTION TO TABLE                
+ 128  128 4 CAPEHART MOTION TO RECONSIDER THE VOTE ON MONRONEY AMENDMENT      
+ 128  128 5 (CQ 20).  NIXON VOTED YEA TO BREAK TIE.  YEA SUPPORTS             
+ 128  128 6 PRESIDENT'S POSITION.                                             
+ 129  129 1                              S3148     MAR. 12, 1958              
+ 129  129 2 S852022       Y=45 N=43                                           
+ 129  129 3 S. 3148.  EMERGENCY HOUSING BILL.  MOTION TO TABLE                
+ 129  129 4 AMENDMENT DECLARING IT THE SENSE OF CONGRESS THAT FEDERAL         
+ 129  129 5 RESERVE BOARD SHOULD STIMULATE FLOW OF MORTGAGE MONEY.            
+ 129  129 6 AGREED TO.                                                        
+ 130  130 1                              S3148     MAR. 12, 1958              
+ 130  130 2 S852023       Y=86 N=0                                            
+ 130  130 3 S. 3148.  EMERGENCY HOUSING BILL.  PASSED                         
+ 131  131 1                              SJRE162   MAR. 13, 1958              
+ 131  131 2 S852024       Y=50 N=43                                           
+ 131  131 3 S.J.RES. 162.  BAR REDUCTIONS IN PRICE SUPPORTS                   
+ 131  131 4 ACREAGE ALLOTMENTS FOR FARM COMMODITIES EXCEPT TOBACCO            
+ 131  131 5 (PROTECTED BY OTHER LEGISLATION) BELOW 1957 LEVEL.                
+ 131  131 6 PASSED.  NAY SUPPORTS PRESIDENT'S POSITION.  (SEE CQ 34.)         
+ 132  132 1                              SJRE163   MAR. 13, 1958              
+ 132  132 2 S852025       Y=43 N=50                                           
+ 132  132 3 S.J.RES. 163.  BAR REDUCTION IN PRICE SUPPORTS FOR                
+ 132  132 4 DAIRY PRODUCTS BELOW 1957 LEVEL.  REJECTED.  NAY SUPPORTS         
+ 132  132 5 PRESIDENT'S POSITION.                                             
+ 133  133 1                              HR10021   MAR. 13, 1958              
+ 133  133 2 S852026       Y=14 N=71                                           
+ 133  133 3 HR. 10021.  TAX INCOME OF INSURANCE COMPANIES                     
+ 133  133 4 ACCORDING TO 1955 FORMULA FOR TAXABLE YEARS BEGINNING IN          
+ 133  133 5 1957.  AMENDMENT TO CUT TAXES BY REDUCING INDIVIDUAL              
+ 133  133 6 INCOME TAX RATE AND REDUCING CERTAIN EXCISE TAXES.                
+ 133  133 7 REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.                     
+ 134  134 1                              HR10021   MAR. 14, 1958              
+ 134  134 2 S852027       Y=19 N=64                                           
+ 134  134 3 HR. 10021.  INSURANCE COMPANY TAXES.  AMENDMENT TO                
+ 134  134 4 INCREASE PERSONAL TAX EXEMPTION FOR INDIVIDUALS.  REJECTED.       
+ 134  134 5 NAY SUPPORTS PRESIDENT'S POSITION.                                
+ 135  135 1                              HR10021   MAR. 14, 1958              
+ 135  135 2 S852028       Y=61 N=19                                           
+ 135  135 3 HR. 10021.  INSURANCE COMPANY TAXES.  PASSED.                     
+ 136  136 1                              SCRE69    MAR. 14, 1958              
+ 136  136 2 S852029       Y=76 N=00                                           
+ 136  136 3 S.CON.RES. 69.  RESOLUTION CALLING ON PRESIDENT TO                
+ 136  136 4 ACCELERATE EXPENDITURE OF FUNDS ALREADY APPROPRIATED FOR          
+ 136  136 5 MILITARY CONSTRUCTION PROJECTS AS ANTI-RECESSION MEASURE.         
+ 136  136 6 ADOPTED.                                                          
+ 137  137 1                              S3420     MAR. 20, 1958              
+ 137  137 2 S852030       Y=44 N=39                                           
+ 137  137 3 S. 3420.  EXTEND AGRICULTURAL TRADE DEVELOPMENT AND               
+ 137  137 4 ASSISTANCE ACT UNDER WHICH AGRICULTURAL SURPLUSES ARE SOLD        
+ 137  137 5 AND BARTERED IN FOREIGN COUNTRIES.  AMENDMENT TO ELIMINATE        
+ 137  137 6 REQUIREMENT THAT SECRETARY BARTER UP TO $500 MILLION A YEAR       
+ 137  137 7 AND PERMIT DUTY-FREE ENTRY OF NON-STRATEGIC MATERIALS.            
+ 138  138 1                              S3420     MAR. 20, 1958              
+ 138  138 2 S852031       Y=25 N=58                                           
+ 138  138 3 S. 3420.  EXTENSION OF AGRICULTURAL TRADE DEVELOPMENT AND         
+ 138  138 4 ASSISTANCE ACT.  AMENDMENT TO GIVE CONGRESS CONTROL               
+ 138  138 5 OVER SPENDING FOREIGN CURRENCIES RECEIVED FROM SALE               
+ 138  138 6 OF FARM SURPLUSES.  REJECTED.                                     
+ 139  139 1                              S3420     MAR. 20, 1958              
+ 139  139 2 S852032       Y=24 N=53                                           
+ 139  139 3 S. 3420.  EXTENSION OF AGRICULTURAL TRADE DEVELOP-                
+ 139  139 4 MENT AND ASSISTANCE ACT.  AMENDMENT TO BAR SALES OF FARM          
+ 139  139 5 SURPLUSES TO COUNTRIES NOT PROMISING TO DENY SUPPORT TO           
+ 139  139 6 SOVIET UNION IN WAR AGAINST U.S. REJECTED.  NAY SUPPORTS          
+ 139  139 7 PRESIDENT'S POSITION.                                             
+ 140  140 1                              S3420     MAR. 20, 1958              
+ 140  140 2 S852033       Y=38 N=42                                           
+ 140  140 3 S. 3420.  EXTENSION OF AGRICULTURAL TRADE DEVELOPMENT             
+ 140  140 4 AND ASSISTANCE ACT.  AMENDMENT TO RESTRICT EXTENSION OF LAW       
+ 140  140 5 TO ONE YEAR.  REJECTED.  YEA SUPPORTS PRESIDENT'S POSITION.       
+ 141  141 1                              SJRE162   MAR. 21, 1958              
+ 141  141 2 S852034       Y=48 N=32                                           
+ 141  141 3 S.J.RES. 162.  FARM PRICE SUPPORT FREEZE.  MOTION TO              
+ 141  141 4 PREVENT THE LOWERING OF FARM SUPPORTS BELOW 1957 LEVEL.           
+ 141  141 5 ACCEPTED.  NAY SUPPORTS PRESIDENT'S POSITON.                      
+ 142  142 1                              S3414     MAR. 26, 1958              
+ 142  142 2 S852035       Y=31 N=58                                           
+ 142  142 3 S. 3414.  FEDERAL AID HIGHWAY ACT OF 1958.                        
+ 142  142 4 AMENDMENT TO PERMIT ERECTION OF SIGNS, AUTHORIZED BY              
+ 142  142 5 LAW, ALONG INTERSTATE HIGHWAYS.  REJECTED.                        
+ 143  143 1                              S3414     MAR. 26, 1958              
+ 143  143 2 S852036       Y=41 N=47                                           
+ 143  143 3 S. 3414.  FEDERAL-AID HIGHWAY ACT OF 1958.                        
+ 143  143 4 AMENDMENT TO STRIKE PROVISION FOR BONUS IN FEDERAL INTER-         
+ 143  143 5 STATE HIGHWAY FUNDS TO STATES THAT REGULATE BILLBOARD             
+ 143  143 6 ADVERTISING.  REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.       
+ 144  144 1                              S3414     MAR. 26, 1958              
+ 144  144 2 S852037       Y=47 N=38                                           
+ 144  144 3 S. 3414.  FEDERAL AID HIGHWAY ACT OF 1958.                        
+ 144  144 4 AMENDMENT TO RETAIN 90 PERCENT CEILING ON FEDERAL SHARE OF        
+ 144  144 5 HIGHWAY CONSTRUCTION COSTS. AGREE TO.                             
+ 145  145 1                              HR9821    MAR. 27, 1958              
+ 145  145 2 S852038       Y=84 N=4                                            
+ 145  145 3 HR. 9821.  SUBSTITUTE SENATE VERSION OF FEDERAL-AID               
+ 145  145 4 HIGHWAY ACT OF 1958 (S 3414) FOR HOUSE TEXT (HR 9821).            
+ 145  145 5 AMENDED BILL ACCEPTED.                                            
+ 146  146 1                              S3497     APR. 01, 1958              
+ 146  146 2 S852039       Y=36 N=41                MANSFIELD, MONT.           
+ 146  146 3 S. 3497.  COMMUNITY FACILITIES ACT OF 1958.                       
+ 146  146 4 MANSFIELD MOTION TO TABLE KNOWLAND MOTION TO POSTPONE             
+ 146  146 5 FURTHER CONSIDERATION OF S. 3497 UNTIL APRIL 14.  REJECTED.       
+ 147  147 1                              S3497     APR. 01, 1958              
+ 147  147 2 S852040       Y=40 N=40                THURMOND, S.C.             
+ 147  147 3 S. 3497.  COMMUNITY FACILITIES ACT.  THURMOND MOTION              
+ 147  147 4 TO AMEND KNOWLAND MOTION BY POSTPONING CONSIDERATION OF           
+ 147  147 5 S. 3497 UNTIL APRIL 2 RATHER THAN APRIL 14.  REJECTED             
+ 148  148 1                              S3497     APR. 01, 1958              
+ 148  148 2 S852041       Y=41 N=39                                           
+ 148  148 3 S. 3497.  COMMUNITY FACILITES ACT.  MOTION TO                     
+ 148  148 4 POSTPONE CONSIDERATION OF S 3497 UNTIL APRIL 14.  AGREED TO       
+ 148  148 5 (SEE CQ 43.)                                                      
+ 149  149 1                              S497      APR. 02, 1958              
+ 149  149 2 S852042       Y=52 N=11                                           
+ 149  149 3 S. 497.  RIVER AND HARBOR AND FLOOD CONTROL ACTS OF 1958.         
+ 149  149 4 AUTHORIZATION OF FUNDS FOR CONSTRUCTION.  CONFERENCE REPORT       
+ 149  149 5 AGREED TO.  NAY SUPPORTS PRESIDENT'S POSITION.                    
+ 149  149 6 (SEE CQ 108.)                                                     
+ 150  150 1                              S3497     APR. 15, 1958              
+ 150  150 2 S852043       Y=40 N=41                                           
+ 150  150 3 S. 3497.  COMMUNITY FACILITIES ACT OF 1958.  AMEND-               
+ 150  150 4 MENT TO LOWER INTEREST RATES ON LOANS TO STATES AND CITIES        
+ 150  150 5 FOR BUILDING PUBLIC FACILITIES.  REJECTED.  YEA SUPPORTS          
+ 150  150 6 PRESIDENT'S POSITION.                                             
+ 151  151 1                              S3497     APR. 15, 1958              
+ 151  151 2 S852044       Y=54 N=25                                           
+ 151  151 3 S. 3497.  COMMUNITY FACILITIES ACT OF 1958.                       
+ 151  151 4 AMENDMENT TO INCORPORATE PROVISIONS OF DAVIS-BACON ACT RE-        
+ 151  151 5 GARDING PREVAILING WAGES AND 40 HOUR WEEK.  AGREED T.             
+ 152  152 1                              S3497     APR. 16, 1958              
+ 152  152 2 S852045       Y=33 N=53                                           
+ 152  152 3 S. 3497.  COMMUNITY FACILITIES ACT OF 1958.  AMEND TO             
+ 152  152 4 SUBSTITUTE 'REASONABLE TERMS' FOR 'FAVORABLE TERMS' IN            
+ 152  152 5 PROVISION AUTHORIZING LOANS.  REJECTED.  YEA SUPPORTS             
+ 152  152 6 PRESIDENT'S POSITION.                                             
+ 153  153 1                              S3497     APR. 16, 1958              
+ 153  153 2 S852046       Y=33 N=52                                           
+ 153  153 3 S. 3497.  COMMUNITY FACILITIES ACT OF 1958.  REDUCE               
+ 153  153 4 THE FUNDS AUTHORIZED IN THE BILL.  REJECTED.  YEA SUPPORTS        
+ 153  153 5 PRESIDENT'S POSITION.                                             
+ 154  154 1                              S3497     APR. 16, 1958              
+ 154  154 2 S852047       Y=60 N=27                                           
+ 154  154 3 S. 3497.  COMMUNITY FACILITIES ACT OF 1958.  MOTION               
+ 154  154 4 TO TABLE AMENDMENT TO REQUIRE THAT 50 PERCENT OF FUNDS            
+ 154  154 5 AUTHORIZED BE USED FOR PUBLIC SCHOOL CONSTRUCTION.                
+ 154  154 6 AGREED TO.                                                        
+ 155  155 1                              S3497     APR. 16, 1958              
+ 155  155 2 S852048       Y=60 N=26                                           
+ 155  155 3 S. 3497.  COMMUNITY FACILITIES ACT OF 1958.                       
+ 155  155 4 INCREASE FUNDS FOR LOANS TO STATES AND CITIES TO BUILD            
+ 155  155 5 PUBLIC FACILITIES.  PASSED                                        
+ 156  156 1                              S2888     APR. 24, 1958              
+ 156  156 2 S852049       Y=28 N=59                                           
+ 156  156 3 S. 2888.  WELFARE AND PENSION PLANS DISCLOSURE ACT.               
+ 156  156 4 AMENDMENT TO EXEMPT PLANS ESTABLISHED ON 'LEVEL OF BENEFITS'      
+ 156  156 5 BASIS.  REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.             
+ 157  157 1                              S2888     APR. 25, 1958              
+ 157  157 2 S852050       Y=37 N=53                                           
+ 157  157 3 S. 2888.  WELFARE AND PENSION PLANS DISCLOSURE ACT.               
+ 157  157 4 AMENDMENT TO REQUIRE ELECTION OF UNION OFFICERS BY POPULAR        
+ 157  157 5 VOTE EVERY FOUR YEARS AND MAKE FAILURE TO COMPLY AN UNFAIR        
+ 157  157 6 LABOR PRACTICE PUNISHABLE BY LAW.  REJECTED.                      
+ 158  158 1                              S2888     APR. 25, 1958              
+ 158  158 2 S852051       Y=35 N=53                                           
+ 158  158 3 S. 2888.  WELFARE AND PENSION PLANS DISCLOSURE ACT.               
+ 158  158 4 AMENDMENT TO ESTABLISH CONDITIONS FOR TRUSTEESHIPS OVER           
+ 158  158 5 LOCAL UNIONS.  REJECTED.                                          
+ 159  159 1                              S2888     APR. 25, 1958              
+ 159  159 2 S852052       Y=35 N=52                                           
+ 159  159 3 S. 2888.  WELFARE AND PENSION PLANS DISCLOSURE ACT.               
+ 159  159 4 AMENDMENT TO MAKE ILLEGAL ANY PAYMENTS TO UNION                   
+ 159  159 5 REPRESENTATIVES BY AGENTS OF AN EMPLOYER.  REJECTED.  YEA         
+ 159  159 6 SUPPORTS PRESIDENT'S POSITION                                     
+ 160  160 1                              S2888     APR. 25, 1958              
+ 160  160 2 S852053       Y=33 N=53                                           
+ 160  160 3 S. 2888.  WELFARE AND PENSION PLANS DISCLOSURE ACT.               
+ 160  160 4 AMENDMENT TO MAKE PUBLIC UNION FINANCIAL AND OTHER REPORTS        
+ 160  160 5 AND NOTIFY ATTORNEY GENERAL OF FALSE INFORMATION FILED.           
+ 160  160 6 REJECTED.  YEA SUPPORTS PRESIDENT'S POSITION.                     
+ 161  161 1                              S2888     APR. 26, 1958              
+ 161  161 2 S852054       Y=28 N=53                                           
+ 161  161 3 S. 2888.  WELFARE AND PENSION PLANS DISCLOSURE ACT.               
+ 161  161 4 AMENDMENT TO BAR AS AN EXCLUSIVE BARGAINING AGENT A UNION         
+ 161  161 5 THAT REFUSES TO GRANT EQUAL RIGHTS AND PRIVILEGES TO ALL          
+ 161  161 6 MEMBERS.  REJECTED.                                               
+ 162  162 1                              S2888     APR. 28, 1958              
+ 162  162 2 S852055       Y=33 N=50                                           
+ 162  162 3 S. 2888.  WELFARE AND PENSION PLANS DISCLOSURE ACT                
+ 162  162 4 AMENDMENT TO ELIMINATE PROVISION BARRING PERMANENTLY              
+ 162  162 5 REPLACED STRIKERS FROM VOTING IN REPRESENTATION ELECTION.         
+ 162  162 6 REJECTED.  YEA SUPPORTS PRESIDENT'S POSITION.                     
+ 163  163 1                              S2888     APR. 28, 1958              
+ 163  163 2 S852056       Y=34 N=52                                           
+ 163  163 3 S. 2888.  WELFARE AND PENSION PLANS DISCLOSURE ACT.               
+ 163  163 4 AMENDMENT TO PERMIT NLRB TO CERTIFY BUILDING CONSTRUCTION         
+ 163  163 5 UNIONS AS EXCLUSIVE BARGAINING AGENTS WITHOUT PRIOR               
+ 163  163 6 ELECTION.  REJECTED.  YEA SUPPORTS PRESIDENT'S POSITION.          
+ 164  164 1                              S2888     APR. 28, 1958              
+ 164  164 2 S852057       Y=22 N=67                                           
+ 164  164 3 S. 2888.  WELFARE AND PENSION PLANS DISCLOSURE ACT.               
+ 164  164 4 AMENDMENT TO PUBLISH REPORTS ON VIOLATIONS OF S 2888 OR           
+ 164  164 5 MISHANDLING OF UNION FUNDS.  REJECTED.                            
+ 165  165 1                              S2888     APR. 28, 1958              
+ 165  165 2 S852058       Y=35 N=51                                           
+ 165  165 3 S. 2888.  WELFARE AND PENSION PLANS DISCLOSURE ACT.               
+ 165  165 4 AMEND TO PERMIT NLRB TO DECLINE JURISDICTION IN LABOR             
+ 165  165 5 DISPUTES NOT AFFECTING COMMERCE, PERMITTING STATES TO HAVE        
+ 165  165 6 JURISDICTION IN SUCH CASES.  REJECTED.  YEA SUPPORTS              
+ 165  165 7 PRESIDENT'S POSITION.                                             
+ 166  166 1                              S2888     APR. 28, 1958              
+ 166  166 2 S852059       Y=26 N=60                                           
+ 166  166 3 S. 2888.  WELFARE AND PENSION PLANS DISCLOSURE ACT.               
+ 166  166 4 AMEND TO TIGHTEN PROHIBITION AGAINST SECONDARY BOYCOTTS.          
+ 166  166 5 REJECTED.                                                         
+ 167  167 1                              S2888     APR. 28, 1958              
+ 167  167 2 S852060       Y=90 N=0                                            
+ 167  167 3 S. 2888.  WELFARE AND PENSION PLANS DISCLOSURE ACT.               
+ 167  167 4 AMENDMENT TO BAR ANYONE INELIGIBLE TO VOTE BECAUSE OF STATE       
+ 167  167 5 OR FEDERAL CONVICTION FOR SERVING AS WELFARE OR PENSION           
+ 167  167 6 FUND EMPLOYEE, MANAGER, OR TRUSTEE.  AGREED TO.                   
+ 168  168 1                              S2888     APR. 28, 1958              
+ 168  168 2 S852061       Y=35 N=53                                           
+ 168  168 3 S. 2888.  WELFARE AND PENSION PLANS DISCLOSURE ACT.               
+ 168  168 4 AMENDMENT TO INVALIDATE UNION ELECTION IN WHICH MEMBER IS         
+ 168  168 5 DEPRIVED OF HIS VOTE, IF VOTE DENIAL COULD HAVE AFFECTED          
+ 168  168 6 ELECTION.  REJECTED                                               
+ 169  169 1                              S2888     APR. 28, 1958              
+ 169  169 2 S852062       Y=88 N=0                                            
+ 169  169 3 S. 2888.  WELFARE AND PENSION PLANS DISCLOSURE ACT.               
+ 169  169 4 PASSED.  YEA SUPPORTS PRESIDENT'S POSITION.                       
+ 170  170 1                              HR11470   APR. 29, 1958              
+ 170  170 2 S852063       Y=87 N=0                                            
+ 170  170 3 HR. 11470.  RAISE PAY OF MILITARY PERSONNEL.  PASSED.             
+ 170  170 4 YEA SUPPORTS PRESIDENT'S POSITION.                                
+ 171  171 1                              S3683     MAY 13, 1958               
+ 171  171 2 S852064       Y=26 N=59                                           
+ 171  171 3 S. 3683.  AREA REDEVELOPMENT ACT.  PROVIDE LOANS AND GRANTS       
+ 171  171 4 FOR CHRONIC UNEMPLOYMENT AREAS.  AMEND TO PROHIBIT ANY            
+ 171  171 5 LOANS TO HELP AN INDUSTRY TO RELOCATE.  REJECTED.                 
+ 172  172 1                              S3683     MAY 13, 1958               
+ 172  172 2 S852065       Y=46 N=36                                           
+ 172  172 3 S.  3683.  AREA REDEVELOPMENT ACT.  PASSED.                       
+ 173  173 1                              SRE       MAY 14, 1958               
+ 173  173 2 S852066       Y=67 N=13                                           
+ 173  173 3 NOMINATION OF GORDON M. TIFFANY AS STAFF DIRECTOR OF              
+ 173  173 4 CIVIL RIGHTS COMMISSION.  CONFIRMED.  YEA SUPPORTS                
+ 173  173 5 PRESIDENT'S POSITION.                                             
+ 174  174 1                              HR5836    MAY 21, 1958               
+ 174  174 2 S852067       Y=88 N=0                                            
+ 174  174 3 HR. 5836.  POSTAL POLICY AND RATE INCREASE ACTS.                  
+ 174  174 4 INCREASE POSTAL RATES AND RAISE SALARIES.  CONFERENCE REPORT      
+ 174  174 5 AGREED TO.                                                        
+ 175  175 1                              HR12065   MAY 27, 1958               
+ 175  175 2 S852068       Y=21 N=63                                           
+ 175  175 3 HR. 12065.  TEMPORARY UNEMPLOYMENT COMPENSATION                   
+ 175  175 4 ACT OF 1958.  AMENDMENT TO EXTEND COVERAGE, INCREASE WEEKLY       
+ 175  175 5 BENEFITS, SET UNIFORM DURATION PERIOD FOR PAYMENTS, AND           
+ 175  175 6 PROVIDE BENEFITS FOR ONE YEAR.  REJECTED.  NAY SUPPORTS           
+ 175  175 7 PRESIDENT'S POSITION.                                             
+ 176  176 1                              HR12065   MAY 28, 1958               
+ 176  176 2 S852069       Y=27 N=56                                           
+ 176  176 3 HR. 12065.  TEMPORARY UNEMPLOYMENT COMPENSATION ACT.              
+ 176  176 4 AMEND TO EXTEND DURATION OF BENEFITS, PROVIDE FEDERAL ADMIN-      
+ 176  176 5 ISTRATION IF STATES DO NOT ACT, AND FORGIVE STATES FROM           
+ 176  176 6 REPAYING IF STATE PROGRAMS ARE LIBERLIZED OR IF STATE RE-         
+ 176  176 7 SERVE FUNDS ARE LOW.  REJECTED.  NAY SUPPORTS PRESIDENT'S         
+ 176  176 8 POSITION.                                                         
+ 177  177 1                              HR12065   MAY 28, 1958               
+ 177  177 2 S852070       Y=36 N=47                                           
+ 177  177 3 HR. 12065.  TEMPORARY UNEMPLOYMENT COMPENSATION ACT.              
+ 177  177 4 AMENDMENT TO EXTEND DURATION OF BENEFIT PAYMENTS AND PROVIDE      
+ 177  177 5 FEDERAL ADMINISTRATION IF STATES DO NOT ACT.  REJECTED.  NAY      
+ 177  177 6 SUPPORTS PRESIDENT'S POSITION.                                    
+ 178  178 1                              HR12065   MAY 28, 1958               
+ 178  178 2 S852071       Y=40 N=40                                           
+ 178  178 3 HR. 12065.  TEMPORARY UNEMPLOYMENT COMPENSATION ACT               
+ 178  178 4 OF 1958.  AMENDMENT TO INCREASE PUBLIC ASSISTANCE TO AGED,        
+ 178  178 5 BLIND, AND DISABLED BY RAISING FEDERAL SHARE OF THE COST.         
+ 178  178 6 REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.                     
+ 179  179 1                              HR12065   MAY 28, 1958               
+ 179  179 2 S852072       Y=41 N=38                                           
+ 179  179 3 HR. 12065.  TEMPORARY UNEMPLOYMENT COMPENSATION ACT               
+ 179  179 4 OF 1958.  MOTION TO TABLE MOTION TO RECONSIDER VOTE ON LONG       
+ 179  179 5 AMENDMENT (CQ 71).  AGREED TO.  YEA SUPPORTS PRESIDENT'S          
+ 179  179 6 POSITION.                                                         
+ 180  180 1                              HR12065   MAY 28, 1958               
+ 180  180 2 S852073       Y=26 N=54                                           
+ 180  180 3 HR. 12065.  TEMPORARY UNEMPLOYMENT COMPENSATION ACT               
+ 180  180 4 OF 1958.  AMENDMENT TO PROVIDE FEDERAL ADMINISTRATION OF          
+ 180  180 5 TEMPORARY BENEFIT PROGRAM IF STATES DO NOT ACT.                   
+ 180  180 6 REJECTED.                                                         
+ 181  181 1                              HR12065   MAY 28, 1958               
+ 181  181 2 S852074       Y=80 N=0                                            
+ 181  181 3 HR. 12065.  TEMPORARY UNEMPLOYMENT COMPENSATION ACT               
+ 181  181 4 OF 1958.  PASSED.  YEA SUPPORTS PRESIDENT'S POSITION.             
+ 182  182 1                              HR12181   JUNE 04, 1958              
+ 182  182 2  852075       Y=16 N=56                                           
+ 182  182 3 HR. 12181.  MUTUAL SECURITY ACT OF 1958.  AMENDMENT               
+ 182  182 4 TO PLACE FUNDS FOR MILITARY ASSISTANCE AND DEFENSE SUPPORT        
+ 182  182 5 UNDER DEPARTMENT OF DEFENSE BUDGET.  REJECTED.                    
+ 183  183 1                              HR12181   JUNE 05, 1958              
+ 183  183 2 S852076       Y=31 N=53                                           
+ 183  183 3 HR. 12181.  MUTUAL SECURITY ACT OF 1958.  AMENDMENT               
+ 183  183 4 TO CUT MILITARY ASSISTANCE AND DEFENSE SUPPORT FUNDS.  RE-        
+ 183  183 5 JECTED.  NAY SUPPORTS PRESIDENT'S POSITION.                       
+ 184  184 1                              HR12181   JUNE 05, 1958              
+ 184  184 2 S852077       Y=33 N=46                                           
+ 184  184 3 HR. 12181.  MUTUAL SECURITY ACT OF 1958.  AMENDMENT               
+ 184  184 4 TO BAR AID TO DOMINICAN REPUBLIC.  REJECTED.                      
+ 185  185 1                              HR12181   JUNE 05, 1958              
+ 185  185 2 S852078       Y=43 N=42                                           
+ 185  185 3 HR. 12181.  MUTUAL SECURITY ACT OF 1958.  AMENDMENT               
+ 185  185 4 TO STRIKE LANGUAGE GIVING THE PRESIDENT AUTHORITY TO APPROVE      
+ 185  185 5 AID TO COMMUNIST NATIONS OTHER THAN SOVIET UNION, COMMUNIST       
+ 185  185 6 CHINA AND NORTH KOREA.  AGREED TO. YEA SUPPORTS PRESIDENT'S       
+ 185  185 7 POSITION.                                                         
+ 186  186 1                              HR12181   JUNE 05, 1958              
+ 186  186 2 S852079       Y=45 N=39                                           
+ 186  186 3 HR. 12181.  MUTUAL SECURITY ACT OF 1958.  MOTION TO               
+ 186  186 4 TABLE MOTION TO RECONSIDER VOTE ON CQ 78.  AGREED TO. YEA         
+ 186  186 5 SUPPORTS PRESIDENT'S POSITION.                                    
+ 187  187 1                              HR12181   JUNE 06, 1958              
+ 187  187 2 S852080       Y=35 N=47                                           
+ 187  187 3 HR. 12181.  MUTUAL SECURITY ACT OF 1958.  AMENDMENT               
+ 187  187 4 TO ELIMINATE LANGUAGE STATING THAT U.S. SHOULD JOIN OTHER         
+ 187  187 5 NATIONS TO HELP INDIA COMPLETE CURRENT ECONOMIC DEVELOPMENT       
+ 187  187 6 PROGRAM.  REJECTED                                                
+ 188  188 1                              HR12181   JUNE 06, 1958              
+ 188  188 2 S852081       Y=22 N=54                                           
+ 188  188 3 HR. 12181.  MUTUAL SECURITY ACT OF 1958.  AMENDMENT               
+ 188  188 4 TO BAR AID TO YUGOSLAVIA AND POLAND.  REJECTED.  NAY              
+ 188  188 5 SUPPORTS PRESIDENT'S POSITION.                                    
+ 189  189 1                              HR12181   JUNE 06, 1958              
+ 189  189 2 S852082       Y=24 N=46                                           
+ 189  189 3 HR. 12181.  MUTUAL SECURITY ACT OF 1958.  AMENDMENT               
+ 189  189 4 TO REDUCE MILITARY ASSISTANCE FUNDS.  REJECTED.  NAY              
+ 189  189 5 SUPPORTS PRESIDENT'S POSITION.                                    
+ 190  190 1                              HR12181   JUNE 06, 1958              
+ 190  190 2 S852083       Y=43 N=28                                           
+ 190  190 3 HR. 12181.  MUTUAL SECURITY ACT OF 1958.  AMENDMENT               
+ 190  190 4 TO REQUIRE THAT MOST OF CUT IN COMBINED MILITARY ASSISTANCE       
+ 190  190 5 AND DEFENSE SUPPORT AUTHORIZATION BE TAKEN FROM MILITARY          
+ 190  190 6 ASSISTANCE.  AGREED TO. NAY SUPPORTS PRESIDENT'S POSITION.        
+ 191  191 1                              HR12181   JUNE 06, 1958              
+ 191  191 2 S852084       Y=51 N=17                                           
+ 191  191 3 HR. 12181.  MUTUAL SECURITY ACT OF 1958.  PASSED.                 
+ 191  191 4 YEA SUPPORTS PRESIDENT'S POSITION.  (SEE CQ 195.)                 
+ 192  192 1                              S3974     JUNE 12, 1958              
+ 192  192 2 S852085       Y=86 N=0                                            
+ 192  192 3 S. 3974.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE               
+ 192  192 4 ACT OF 1958.  AMENDMENT TO EMPOWER SECRETARY OF LABOR TO          
+ 192  192 5 SUBPOENA INDIVIDUALS AND RECORDS WHEN MAKING INVESTIGATIONS.      
+ 192  192 6 AGREED TO.  YEA SUPPORTS PRESIDENT'S POSITION.                    
+ 193  193 1                              S3974     JUNE 12, 1958              
+ 193  193 2 S852086       Y=85 N=0                                            
+ 193  193 3 S. 3974.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE               
+ 193  193 4 ACT OF 1958.  AMENDMENT TO REQUIRE THAT UNION REPORT TO MEM-      
+ 193  193 5 BERS THE SAME INFORMATION AS THE SECRETARY OF LABOR.  AGREED      
+ 193  193 6 TO. YEA SUPPORTS PRESIDENT'S POSITION.                            
+ 194  194 1                              S3974     JUNE 12, 1958              
+ 194  194 2 S852087       Y=86 N=0                                            
+ 194  194 3 S. 3974.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE               
+ 194  194 4 ACT OF 1958.  AMENDMENT TO BAR FROM UNION OFFICE PERSONS          
+ 194  194 5 FAILING TO FILE INFOMATION UNDER TITLE I OF THE ACT.              
+ 194  194 6 AGREED TO.                                                        
+ 195  195 1                              S3974     JUNE 12, 1958              
+ 195  195 2 S852088       Y=79 N=1                                            
+ 195  195 3 S. 3974.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE               
+ 195  195 4 ACT OF 1958.  AMENDMENT TO STRIKE PROVISION EXEMPTING UNIONS      
+ 195  195 5 WITH LESS THAN 200 MEMBERS FROM REPORTING AND DISCLOSURE          
+ 195  195 6 SECTIONS.  AGREED TO.  YEA SUPPORT PRESIDENT'S POSITION.          
+ 196  196 1                              S3974     JUNE 12, 1958              
+ 196  196 2 S852089       Y=38 N=47                                           
+ 196  196 3 S. 3974.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE               
+ 196  196 4 ACT OF 1958.  AMENDMENT TO STRIKE LANGUAGE NARROWING THE          
+ 196  196 5 DEFINITION OF SUPERVISOR UNDER TAFT-HARTLEY ACT.  REJECTED.       
+ 197  197 1                              S3974     JUNE 12, 1958              
+ 197  197 2 S852090       Y=83 N=2                                            
+ 197  197 3 S. 3974.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE               
+ 197  197 4 ACT OF 1958.  AMENDMENT TO MAKE CONFERENCES AND ASSOCIATIONS      
+ 197  197 5 OF LABOR REPRESENTATIVES SUBJECT TO ACT.  AGREED TO.  YEA         
+ 197  197 6 SUPPORTS PRESIDENT'S POSITION.                                    
+ 198  198 1                              S3974     JUNE 13, 1958              
+ 198  198 2 S852091       Y=27 N=60                                           
+ 198  198 3 S. 3974.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE               
+ 198  198 4 ACT OF 1958.  AMENDMENT TO PERMIT STATES TO REGULATE OR           
+ 198  198 5 PROHIBIT STRIKES IN PUBLIC UTILITIES.  REJECTED.                  
+ 199  199 1                              S3974     JUNE 13, 1958              
+ 199  199 2 S852092       Y=43 N=46                                           
+ 199  199 3 S. 3974.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE               
+ 199  199 4 ACT OF 1958.  AMENDMENT TO REQUIRE NLRB TO ASSERT JURISDIC-       
+ 199  199 5 TION IN CASES ARISING UNDER NATIONAL LABOR RELATIONS ACT.         
+ 199  199 6 REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.                     
+ 200  200 1                              S3974     JUNE 13, 1958              
+ 200  200 2 S852093       Y=37 N=53                                           
+ 200  200 3 S. 3974.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE               
+ 200  200 4 ACT OF 1958.  AMENDMENT TO PERMIT STATE JURISDICTION OVER         
+ 200  200 5 LABOR DISPUTES DECLINED BY NLRB.  REJECTED.  YEA SUPPORTS         
+ 200  200 6 PRESIDENT'S POSITION.                                             
+ 201  201 1                              S3974     JUNE 13, 1959              
+ 201  201 2 S852094       Y=42 N=47                                           
+ 201  201 3 S. 3974.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE               
+ 201  201 4 ACT OF 1958.  AMENDMENT TO IMPOSE FIDUCIARY RESPONSIBILITY        
+ 201  201 5 ON PERSONS HANDLING UNION MONIES AND PERMIT MEMBERS TO SUE        
+ 201  201 6 IN FEDERAL COURTS AGAINST MISUSE.  REJECTED.  YEA SUPPORT         
+ 201  201 7 PRESIDENT'S POSITION.                                             
+ 202  202 1                              S3974     JUNE 14, 1958              
+ 202  202 2 S852095       Y=30 N=53                                           
+ 202  202 3 S. 3974.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE               
+ 202  202 4 ACT OF 1958.  AMENDMENT TO BAR ACCESS TO NLRB TO UNIONS NOT       
+ 202  202 5 FILING WITH SECRETARY OF LABOR AND MAKING AVAILABLE ORGANI-       
+ 202  202 6 ZATIONAL AND FINANCIAL REPORTS AND CODUMENTS TO MEMBERS.          
+ 202  202 7 REJECTED.  YEA SUPPORTS PRESIDENT'S POSITION.                     
+ 203  203 1                              S3974     JUNE 14, 1958              
+ 203  203 2 S852096       Y=31 N=52                                           
+ 203  203 3 S. 3974.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE               
+ 203  203 4 ACT OF 1958.  AMENDMENT TO REQUIRE SECRET BALLOT REFERENDA        
+ 203  203 5 ON RECALL OF OFFICERS OR CHANGES IN CONSTITUTION AND BY-LAWS      
+ 203  203 6 ON PETITION OF 1/5 OF THE MEMBERS.  REJECTED                      
+ 204  204 1                              S3974     JUNE 14, 1958              
+ 204  204 2 S852097       Y=27 N=52                                           
+ 204  204 3 S. 3974.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE               
+ 204  204 4 ACT OF 1958.  AMENDMENT TO REQUIRE LOCAL UNIONS TO CONSIDER       
+ 204  204 5 REMOVING OFFICERS ON PETITION OF 1/3 OF THE MEMBERS.              
+ 204  204 6 REJECTED.                                                         
+ 205  205 1                              S3974     JUNE 14, 1958              
+ 205  205 2 S852098       Y=24 N=58                                           
+ 205  205 3 S. 3974.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE               
+ 205  205 4 ACT OF 1958.  AMENDMENT TO PROVIDE THAT OFFICERS MAY BE RE-       
+ 205  205 5 MOVED BY MAJORITY VOTE EQUAL TO AT LEAST 60 PERCENT OF TOTAL      
+ 205  205 6 VOTES CAST WHEN THE OFFICER WAS ELECTED.  REJECTED.               
+ 206  206 1                              S3974     JUNE 14, 1958              
+ 206  206 2 S852099       Y=78 N=4                                            
+ 206  206 3 S. 3974.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE               
+ 206  206 4 ACT OF 1958.  AMENDMENT TO REQUIRE SECRET BALLOT ELECTION         
+ 206  206 5 OF INTERNATIONAL UNION OFFICERS AT LEAST ONCE EVERY FOUR          
+ 206  206 6 YEARS, AND LOCAL OFFICERS AT LEAST ONCE EVERY THREE YEARS.        
+ 206  206 7 AGREED TO.  YEA SUPPORTS PRESIDENT'S POSITION.                    
+ 207  207 1                              S3974     JUNE 14, 1958              
+ 207  207 2 S852100       Y=47 N=35                                           
+ 207  207 3 S. 3974.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE               
+ 207  207 4 ACT OF 1958.  AMENDMENT TO INSURE MEMBERS THE RIGHT TO RE-        
+ 207  207 5 MOVE OFFICERS FOR CAUSE BY MAJORITY VOTE.  AGREED TO.             
+ 208  208 1                              S3974     JUNE 16, 1958              
+ 208  208 2 S852101       Y=66 N=20                                           
+ 208  208 3 S. 3974.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE               
+ 208  208 4 ACT OF 1958.  AMENDMENT TO REQUIRE EMPLOYERS TO SIGN NON-         
+ 208  208 5 COMMUNIST AFFIDAVITS TO GAIN ACCESS TO NLRB AND RETAIN            
+ 208  208 6 SIMILAR TAFT-HARTLEY REQUIREMENT FOR UNION OFFICERS.  AGREED      
+ 208  208 7 TO. NAY SUPPORTS PRESIDENT'S POSITION.                            
+ 209  209 1                              S3974     JUNE 16, 1958              
+ 209  209 2 S852102       Y=32 N=51                                           
+ 209  209 3 S. 3974.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE               
+ 209  209 4 ACT OF 1958.  AMENDMENT TO BAR "HOT CARGO" CONTRACTS AND          
+ 209  209 5 TO STRENGTHEN LAWS AGAINST SECONDARY BOYCOTTS, AND                
+ 209  209 6 RECOGNITION AND ORGANIZATIONAL PICKETING.  REJECTED.              
+ 210  210 1                              S3974     JUNE 16, 1958              
+ 210  210 2 S852103       Y=30 N=51                                           
+ 210  210 3 S. 3974.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE               
+ 210  210 4 ACT OF 1958.  AMENDMENT TO PERMIT SECRETARY OF LABOR TO           
+ 210  210 5 BRING SUIT, ON COMPLAINT OF A UNION MEMBER, FOR RECOVERY OF       
+ 210  210 6 THE MEMBER'S DUES IF UNION FUNDS ARE NOT USED SOLELY FOR          
+ 210  210 7 COLLECTIVE BARGAINING AND RELATED ACTIVITIES.  REJECTED.          
+ 211  211 1                              S3974     JUNE 17, 1958              
+ 211  211 2 S852104       Y=32 N=57                                           
+ 211  211 3 S. 3974.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE               
+ 211  211 4 ACT OF 1958.  AMENDMENT TO BAR UNION CONTRACT NO-STRIKE           
+ 211  211 5 CLAUSES UNLESS APPROVED BY MAJORITY OF MEMBERSHIP ON              
+ 211  211 6 SECRET BALLOT.  REJECTED.                                         
+ 212  212 1                              S3974     JUNE 17, 1958              
+ 212  212 2 S852105       Y=44 N=45                                           
+ 212  212 3 S. 3974.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE               
+ 212  212 4 ACT OF 1958.  AMENDMENT TO REQUIRE ELECTION SUPERVISION BY        
+ 212  212 5 BOARD OF REPRESENTATIVES FOR ALL CANDIDATES, EXCLUDING THE        
+ 212  212 6 CANDIDATES THEMSELVES AND OFFICERS.  REJECTED.                    
+ 213  213 1                              S3974     JUNE 17, 1958              
+ 213  213 2 S852106       Y=29 N=60                                           
+ 213  213 3 S. 3974.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE               
+ 213  213 4 ACT OF 1958.  AMENDMENT TO STRIKE PROVISION PERMITTING            
+ 213  213 5 BUILDING TRADES AND CONSTRUCTION EMPLOYERS TO CONCLUDE CON-       
+ 213  213 6 TRACTS WITH UNIONS NOT HAVING WON REPRESENTATION ELECTION.        
+ 213  213 7 REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.                     
+ 214  214 1                              S3974     JUNE 17, 1958              
+ 214  214 2 S852107       Y=88 N=1                                            
+ 214  214 3 S. 3974.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE               
+ 214  214 4 ACT OF 1958.  PASSED                                              
+ 215  215 1                              S3910     JUNE 17, 1958              
+ 215  215 2 S852108       Y=75 N=1                                            
+ 215  215 3 S. 3910.  RIVER AND HARBOR AND FLOOD CONTROL ACT                  
+ 215  215 4 OF 1958.  REVISED VERSION OF VETOED BILL, S. 497.  PASSED.        
+ 216  216 1                              HR12695   JUNE 18, 1958              
+ 216  216 2 S852109       Y=23 N=65                                           
+ 216  216 3 HR. 12695.  TAX RATE EXTENSION ACT OF 1958,                       
+ 216  216 4 PROVIDING FOR A ONE YEAR ENTENSION OF EXISTING CORPORATE AND      
+ 216  216 5 CERTAIN EXCISE TAXES.  AMENDMENT TO REDUCE TAXES BY CUTTING       
+ 216  216 6 PERSONAL INCOME TAX, REDUCING OR REPEALING CERTAIN EXCISE         
+ 216  216 7 TAXES, AND GIVING TAX RELIEF TO SMALL BUSINESSES.  REJECTED.      
+ 216  216 8 NAY SUPPORTS PRESIDENT'S POSITION.                                
+ 217  217 1                              HR12695   JUNE 19, 1958              
+ 217  217 2 S852110       Y=32 N=59                                           
+ 217  217 3 HR. 12695.  TAX RATE EXTENSION ACT OF 1958.  AMEND-               
+ 217  217 4 MENT TO REPEAL EXCISE TAX ON PASSENGER CARS AND AUTO PARTS,       
+ 217  217 5 AND REDUCE EXCISE TAX ON TRUCKS AND BUSES.  REJECTED.  NAY        
+ 217  217 6 SUPPORTS PRESIDENT'S POSITION.  (SEE CQ 112.)                     
+ 218  218 1                              SCRE94    JUNE 19, 1958              
+ 218  218 2 S852111       Y=91 N=0                                            
+ 218  218 3 S.CON.RES. 94.  EXPRESS CONGRESSIONAL INDIGNATION                 
+ 218  218 4 HUNGARIAN GOVERNMENT'S EXECUTION OF IMRE NAGY AND OTHER           
+ 218  218 5 LEADERS OF 1956 REVOLUTION.  ADOPTED.                             
+ 219  219 1                              HR12695   JUNE 19, 1958              
+ 219  219 2 S852112       Y=24 N=66                                           
+ 219  219 3 HR. 12695.  TAX RATE EXTENSION ACT OF 1958.  AMEND-               
+ 219  219 4 MENT TO RETURN TO MANUFACTURER HALF OF EXCISE TAX ON AUTOS,       
+ 219  219 5 IF PAID BY HIM TO ULTIMATE PURCHASER.  REJECTED.  NAY             
+ 219  219 6 SUPPORTS PRESIDENT'S POSITION.                                    
+ 220  220 1                              HR12695   JUNE 19, 1958              
+ 220  220 2 S852113       Y=59 N=25                                           
+ 220  220 3 HR. 12695.  TAX RATE EXTENSION ACT OF 1958.  AMENDMENT            
+ 220  220 4 TO REPEAL TAX ON FREIGHT TRANSPORTATION.  AGREED TO.              
+ 220  220 5 NAY SUPPORTS PRESIDENT'S POSITION.                                
+ 221  221 1                              HR12695   JUNE 19, 1958              
+ 221  221 2 S852114       Y=50 N=35                                           
+ 221  221 3 HR. 12695.  TAX RATE EXTENSION ACT OF 1958.  AMEND-               
+ 221  221 4 MENT TO REPEAL TAX ON PASSENGER TRANSPORTATION.  AGREED TO.       
+ 221  221 5 NAY SUPPORTS PRESIDENT'S POSITION.                                
+ 222  222 1                              HR12695   JUNE 20, 1958              
+ 222  222 2 S852115       Y=32 N=44                                           
+ 222  222 3 HR. 12695.  TAX RATE EXTENSION ACT OF 1958.  AMEND-               
+ 222  222 4 MENT TO REDUCE EXCISE TAX ON AUTOS.  REJECTED.  NAY SUPPORTS      
+ 222  222 5 PRESIDENT'S POSITION.                                             
+ 223  223 1                              HR12695   JUNE 20, 1958              
+ 223  223 2 S852116       Y=34 N=45                                           
+ 223  223 3 HR. 12695.  TAX RATE EXTENSION ACT OF 1958.  AMEND-               
+ 223  223 4 MENT TO REDUCE CORPORATE TAX RATES, REJECTED.  NAY SUPPORTS       
+ 223  223 5 PRESIDENT'S POSITION.                                             
+ 224  224 1                              HR12695   JUNE 20, 1958              
+ 224  224 2 S852117       Y=20 N=55                                           
+ 224  224 3 HR. 12695.  TAX RATE EXTENSION ACT OF 1958.  AMEND-               
+ 224  224 4 MENT TO REDUCE OR REPEAL CERTAIN EXCISE TAXES.  REJECTED          
+ 224  224 5 NAY SUPPORTS PRESIDENT'S POSITION.                                
+ 225  225 1                              HR12695   JUNE 20, 1958              
+ 225  225 2 S852118       Y=32 N=43                                           
+ 225  225 3 HR. 12695.  TAX RATE EXTENSION ACT OF 1958.  AMEND-               
+ 225  225 4 MENT TO REPEAL EXCISE TAX ON LOCAL TELEPHONE CALLS.               
+ 225  225 5 REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.                     
+ 226  226 1                              HR7999    JUNE 27, 1958              
+ 226  226 2 S852119       Y=29 N=50                                           
+ 226  226 3 HR. 7999.  STATEHOOD FOR ALASKA.  AMENDMENT TO SUB-               
+ 226  226 4 STITUTE BILL GRANTING COMMONWEALTH STATUS FOR THE STATEHOOD       
+ 226  226 5 BILL.  REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.              
+ 227  227 1                              HR7999    JUNE 27, 1958              
+ 227  227 2 S852120       Y=28 N=53                                           
+ 227  227 3 HR. 7999.  STATEHOOD FOR ALASKA.  POINT OF ORDER TO               
+ 227  227 4 DELETE PROVISION PERMITTING PRESIDENT TO WITHDRAW LANDS FOR       
+ 227  227 5 NATIONAL DEFENSE PURPOSES.  REJECTED.  NAY SUPPORTS PRES-         
+ 227  227 6 DENT'S POSITION.                                                  
+ 228  228 1                              HR7999    JUNE 30, 1958              
+ 228  228 2 S852121       Y=22 N=62                                           
+ 228  228 3 HR. 7999.  STATEHOOD FOR ALASKA.  POINT OF ORDER                  
+ 228  228 4 THAT THE ALASKA CONSTITUTION ENDORSED IN THE BILL VIOLATES        
+ 228  228 5 THE U.S. CONSTITUTION IN ITS PROVISIONS FOR THE ELECTION OF       
+ 228  228 6 SENATORS.  REJECTED.                                              
+ 229  229 1                              HR7999    JUNE 30, 1958              
+ 229  229 2 S852122       Y=31 N=55                                           
+ 229  229 3 HR. 7999.  STATEHOOD FOR ALASKA.  MOTION TO REFER                 
+ 229  229 4 BILL TO SENATE ARMED SERVICES COMMITTEE. REJECTED                 
+ 230  230 1                              HR7999    JUNE 30, 1958              
+ 230  230 2 S852123       Y=16 N=67                                           
+ 230  230 3 HR. 7999.  STATEHOOD FOR ALASKA.  AMENDMENT TO                    
+ 230  230 4 ELIMINATE PROVISION FOR NATIONAL DEFENSE WITHDRAWALS BY           
+ 230  230 5 ORDER OF PRESIDENT.  REJECTED.  NAY SUPPORT PRESIDENT'S           
+ 230  230 6 POSITION.                                                         
+ 231  231 1                              HR7999    JUNE 30, 1958              
+ 231  231 2 S852124       Y=64 N=20                                           
+ 231  231 3 HR. 7999.  STATEHOOD FOR ALASKA.  PASSED.  YEA                    
+ 231  231 4 SUPPORTS PRESIDENT'S POSITION.                                    
+ 232  232 1                              HR7963    JULY 01, 1958              
+ 232  232 2 S852125       Y=55 N=26                                           
+ 232  232 3 HR. 7963.  SMALL BUSINESS ACT OF 1958.  AMENDMENT TO              
+ 232  232 4 MAKE SMALL BUSINESS ADMINISTRATION A PERMANENT FEDERAL            
+ 232  232 5 AGENCY.  ACCEPTED.  YEA SUPPORTS PRESIDENT'S POSITION.            
+ 233  233 1                              HR11451   JULY 01, 1958              
+ 233  233 2 S852126       Y=51 N=20                                           
+ 233  233 3 HR. 11451.  AUTHORIZE FEDERAL CONSTRUCTION AND SALE               
+ 233  233 4 OF TWO SUPERLINERS.  CONFERENCE REPORT ELIMINATING                
+ 233  233 5 PROVISION BARRING REDUCED RATES FOR GOVERNMENT EMPLOYEES          
+ 233  233 6 TRAVELING ON U.S. FLAG SHIPS.  ADOPTED.                           
+ 234  234 1                              HR11451   JULY 01, 1958              
+ 234  234 2 S852127       Y=41 N=18                                           
+ 234  234 3 HR. 11451.  AUTHORIZE FEDERAL CONSTRUCTION AND SALE               
+ 234  234 4 OF TWO SUPERLINERS.  CONFERENCE REPORT ADOPTED AFTER              
+ 234  234 5 RECONSIDERATION.                                                  
+ 235  235 1                              SRE       JULY 09, 1958              
+ 235  235 2 S852128       Y=84 N=0                                            
+ 235  235 3 EXEC N, 85TH CONGRESS, 1ST SESSION, EXECS B AND C,                
+ 235  235 4 85TH CONGRESS, 2ND SESSION.  TAX TREATIES WITH PAKISTAN,          
+ 235  235 5 BELGIUM AND UNITED KINGDOM.  TWO-THIRDS MAJORITY REQUIRED.        
+ 235  235 6 RATIFIED EN BLOC.  YEA SUPPORTS PRESIDENT'S POSITION.             
+ 236  236 1                              S4036     JULY 11, 1958              
+ 236  236 2 S852129       Y=25 N=57                                           
+ 236  236 3 S. 4036.  DOMESTIC MINERALS STABILIZATION ACT OF                  
+ 236  236 4 1958, PROVIDING FIVE YEAR PRICE SUPPORT PROGRAM FOR CERTAIN       
+ 236  236 5 DOMESTICALLY MINED MINERALS AND A ONE-YEAR STOCK-PILE-            
+ 236  236 6 PURCHASE PLAN FOR COPPER.  AMENDMENT TO DELETE PRICE SUP-         
+ 236  236 7 PORTS FOR TUNGSTEN.  REJECTED.  NAY SUPPORTS PRESIDENT'S          
+ 236  236 8 POSITION.                                                         
+ 237  237 1                              S4036     JULY 11, 1958              
+ 237  237 2 S852130       Y=28 N=54                                           
+ 237  237 3 S. 4036.  DOMESTIC MINERALS STABILIZATION ACT OF                  
+ 237  237 4 1958.  AMENDMENT TO DELETE SECRETARY OF INTERIOR'S AUTHORITY      
+ 237  237 5 TO BORROW FROM TREASURY.  REJECTED.                               
+ 238  238 1                              S4036     JULY 11, 1958              
+ 238  238 2 S852131       Y=70 N=12                                           
+ 238  238 3 S. 4036.  DOMESTIC MINERALS STABILIZATION ACT OF                  
+ 238  238 4 1958.  PASSED.  YEA SUPPORTS PRESIDENT'S POSITION.                
+ 239  239 1                              HR12591   JULY 17, 1958              
+ 239  239 2 S852132       Y=4 N=85                                            
+ 239  239 3 HR. 12591.  SENATE COMMITTEE VERSION OF TRADE AGREE-              
+ 239  239 4 MENTS EXTENSION ACT OF 1958.  AMENDMENT TO MAKE THE               
+ 239  239 5 RECIPROCAL TRADE PROGRAM PERMANENT.  REJECTED.  (SEE CQ           
+ 239  239 6 134.)                                                             
+ 240  240 1                              HR12591   JULY 18, 1958              
+ 240  240 2 S852133       Y=80 N=0                                            
+ 240  240 3 HR. 12591.  DEPARTMENT OF DEFENSE REORGANIZATION                  
+ 240  240 4 ACT OF 1958.  PASSAGE OF SENATE VERSION.  YEA SUPPORTS            
+ 240  240 5 PRESIDENT'S POSITION.                                             
+ 241  241 1                              HR12591   JULY 22, 1958              
+ 241  241 2 S852134       Y=63 N=27                                           
+ 241  241 3 HR. 12591.  TRADE AGREEMENTS EXTENSION ACT OF 1958.               
+ 241  241 4 AMENDMENT TO DELETE PROVISION THAT PRESIDENTIAL VETO OF           
+ 241  241 5 TARIFF COMMISSION ESCAPE-CLAUSE FINDINGS SHALL BE IN-             
+ 241  241 6 EFFECTIVE UNLESS APPROVED WITHIN 90 DAYS BY MAJORITY OF           
+ 241  241 7 CONGRESS.  ACCEPTED.  YEA SUPPORTS PRESIDENT'S POSTION.           
+ 242  242 1                              HR12591   JULY 22, 1958              
+ 242  242 2 S852135       Y=34 N=57                                           
+ 242  242 3 HR. 12591.  TRADE AGREEMENTS EXTENSION ACT OF 1958.               
+ 242  242 4 AMENDMENT TO PROVIDE THAT CONGRESS MAY OVERRIDE PRESIDENTIAL      
+ 242  242 5 DISAPPROVAL OF TARIFF COMMISSION RECOMMENDATION WITHIN 60         
+ 242  242 6 DAYS BY A MAJORITY VOTE OF EACH CHAMBER.  REJECTED.  NAY          
+ 242  242 7 SUPPORTS PRESIDENT'S POSITION.                                    
+ 243  243 1                              HR12591   JULY 22, 1958              
+ 243  243 2 S852136       Y=44 N=46                                           
+ 243  243 3 HR. 12591.  TRADE AGREEMENTS EXTENSION ACT OF 1958.               
+ 243  243 4 AMENDMENT TO PROVIDE THAT TARIFF COMMISSION MAY BE BYPASSED       
+ 243  243 5 IN ANY INVESTIGATION OF IMPORT QUOTAS ON AGRICULTURAL             
+ 243  243 6 PRODUCTS TO ENABLE AGRICULTURE DEPARTMENT TO STUDY THE CASE.      
+ 243  243 7 REJECTED.                                                         
+ 244  244 1                              HR12591   JULY 22, 1958              
+ 244  244 2 S852137       Y=72 N=16                                           
+ 244  244 3 HR. 12591.  TRADE AGREEMENTS EXTENSION ACT OF 1958.               
+ 244  244 4 PASSED.  YEA SUPPORTS PRESIDENT'S POSITION.                       
+ 245  245 1                              SRE264    JULY 23, 1958              
+ 245  245 2 S852138       Y=40 N=47                                           
+ 245  245 3 S.RES. 264.  EXPRESS SENATE WISH FOR CABINET                      
+ 245  245 4 COMMITTEE STUDY OF PROPOSED INTERNATIONAL DEVELOPMENT             
+ 245  245 5 ASSOCIATION AS AFFILIATE OF WORLD BANK.  AMENDMENT TO PRO-        
+ 245  245 6 VIDE FOR STUDY OF ALL EXISTING INTERNATIONAL LOAN AGENCIES.       
+ 245  245 7 REJECTED.                                                         
+ 246  246 1                              SRE264    JULY 23, 1958              
+ 246  246 2 S852139       Y=62 N=25                                           
+ 246  246 3 S.RES. 264.  PROPOSED INTERNATIONAL DEVELOPMENT ASSOCIATION.      
+ 246  246 4 ADOPTED.                                                          
+ 247  247 1                              S4071     JULY 24, 1958              
+ 247  247 2 S852140       Y=67 N=9                                            
+ 247  247 3 S. 4071.  AGRICULTURAL ACT OF 1958.  AMENDMENT TO                 
+ 247  247 4 ADD FOUR-YEAR EXTENSION OF SUBSIDY PAYMENTS TO WOOL PRO-          
+ 247  247 5 DUCERS.  AGREED TO. YEA SUPPORTS PRESIDENT'S POSITION.            
+ 248  248 1                              S4071     JULY 25, 1958              
+ 248  248 2 S852141       Y=33 N=51                                           
+ 248  248 3 S. 4071.  AGRICULTURAL ACT.  AMENDMENT TO MAKE                    
+ 248  248 4 SUPPORT FLOORS ON COTTON, RICE AND CORN TEMPORARY.                
+ 248  248 5 REJECTED.                                                         
+ 249  249 1                              S4071     JULY 25, 1958              
+ 249  249 2 S852142       Y=20 N=57                                           
+ 249  249 3 S. 4071.  AGRICULTURAL ACT.  AMENDMENT TO ESTABLISH               
+ 249  249 4 A 'SELF-HELP DAIRY STABILIZATION PLAN'.  REJECTED.  NAY           
+ 249  249 5 SUPPORTS PRESIDENT'S POSITION                                     
+ 250  250 1                              S4071     JULY 25, 1958              
+ 250  250 2 S852143       Y=23 N=55                                           
+ 250  250 3 S. 4071.  AGRICULTURAL ACT.  AMENDMENT TO GIVE GRAIN              
+ 250  250 4 PRODUCERS A CHOICE OF PRICE SUPPORT PROGRAMS.  REJECTED.          
+ 250  250 5 NAY SUPPORTS PRESIDENT'S POSITION.                                
+ 251  251 1                              S4071     JULY 25, 1958              
+ 251  251 2 S852144       Y=24 N=49                                           
+ 251  251 3 S. 4071.  AGRICULTURAL ACT.  AMENDMENT TO ELIMINATE               
+ 251  251 4 COMMITTEE PROVISION ON CORN AND FEED GRAIN PRICE SUPPORTS         
+ 251  251 5 AND SUBSTITUTE SUPPORTS BETWEEN 60 AND 90 PERCENT OF PARITY.      
+ 251  251 6 REJECTED.                                                         
+ 252  252 1                              S4071     JULY 25, 1958              
+ 252  252 2 S852145       Y=24 N=49                                           
+ 252  252 3 S. 4071.  AGRICULTURAL ACT.  AMENDMENT TO INCREASE                
+ 252  252 4 DAIRY PRICE SUPPORTS FOR 1959.  REJECTED.  NAY SUPPORTS           
+ 252  252 5 PRESIDENTS POSITION.                                              
+ 253  253 1                              S4071     JULY 25, 1958              
+ 253  253 2 S852146       Y=62 N=11                                           
+ 253  253 3 S. 4071.  AGRICULTURAL ACT.  PASSED.  YEA SUPPORTS                
+ 253  253 4 PRESIDENT'S POSITION.                                             
+ 254  254 1                              S4100     JULY 29, 1958              
+ 254  254 2 S852147       Y=81 N=0                                            
+ 254  254 3 S. 4100.  ESTABLISH AN AGRICULTURAL RESEARCH AND                  
+ 254  254 4 INDUSTRIAL ADMINISTRATION IN DEPARTMENT OF AGRICULTURE.           
+ 254  254 5 PASSED.                                                           
+ 255  255 1                              HR8308    JULY 29, 1958              
+ 255  255 2 852148        Y=40 N=43                                           
+ 255  255 3 HR. 8308.  HUMANE SLAUGHTER.  COMMITTEE VERSION OF                
+ 255  255 4 BILL CALLING FOR TWO-YEAR STUDY OF HUMANE SLAUGHTER METHODS.      
+ 255  255 5 REJECTED.                                                         
+ 256  256 1                              HR8308    JULY 29, 1958              
+ 256  256 2 S852149       Y=44 N=38                                           
+ 256  256 3 HR. 8308.  HUMANE SLAUGHTER.  AMENDMENT STIPULATING               
+ 256  256 4 THAT HUMANE SLAUGHTER RULES SHALL NOT INTERFERE WITH              
+ 256  256 5 RELIGIOUS METHODS OF SLAUGHTERING.  ACCEPTED.                     
+ 257  257 1                              HR8308    JULY 29, 1958              
+ 257  257 2 S852150       Y=29 N=53                                           
+ 257  257 3 HR. 8308.  HUMANE SLAUGHTER.  MOTION TO RECOMMIT.                 
+ 257  257 4 REJECTED.                                                         
+ 258  258 1                              HR8308    JULY 29, 1958              
+ 258  258 2 S852151       Y=72 N=9                                            
+ 258  258 3 HR. 8308.  HUMANE SLAUGHTER.  HOUSE VERSION OF BILL               
+ 258  258 4 FORBIDDING GOVERNMENT AGENCIES FROM BUYING MEAT FROM              
+ 258  258 5 SLAUGHTERERS NOT USING HUMANE METHODS.  PASSED                    
+ 259  259 1                              HR13015   JULY 30, 1958              
+ 259  259 2 S852152       Y=80 N=0                                            
+ 259  259 3 HR. 13015.  AUTHORIZE MILITARY CONSTRUCTION FUNDS                 
+ 259  259 4 FOR FISCAL 1959.  PASSED.                                         
+ 260  260 1                              HR11574   JULY 30, 1958              
+ 260  260 2 S852153       Y=44 N=39                                           
+ 260  260 3 HR. 11574.  FISCAL 1959 APPROPRIATIONS FOR 16                     
+ 260  260 4 INDEPENDENT AGENCIES.  CONFERENCE STAGE.  MOTION TO CONCUR        
+ 260  260 5 IN HOUSE AMENDMENT APPROPRIATING $589 MILLION FOR CIVIL           
+ 260  260 6 SERVICE RETIREMENT AND DISABILITY FUND.  AGREED TO. NAY           
+ 260  260 7 SUPPORTS PRESIDENT'S POSITION.                                    
+ 261  261 1                              HR12738   JULY 30, 1958              
+ 261  261 2 S852154       Y=71 N=0                                            
+ 261  261 3 HR. 12738.  DEPARTMENT OF DEFENSE APPROPRIATION                   
+ 261  261 4 BILL FOR FISCAL 1959.  PASSED.                                    
+ 262  262 1                              SCRE109   JULY 31, 1958              
+ 262  262 2 S852155       Y=66 N=14                                           
+ 262  262 3 S. CON. RES. 109.  MOTION TO TABLE MOTION TO RE-                  
+ 262  262 4 CONSIDER CONGRESSIONAL RESOLUTION THAT U.N. SHOULD SET UP         
+ 262  262 5 PERMANENT POLICE FORCE.  AGREED TO.                               
+ 263  263 1                              HR8002    JULY 31, 1958              
+ 263  263 2 S852156       Y=68 N=6                                            
+ 263  263 3 HR. 8002.  PROVIDE THAT APPROPRIATION REQUESTS SENT TO CON-       
+ 263  263 4 GRESS HAVE PROPOSED LIMITATION ON ANNUAL ACCRUED                  
+ 263  263 5 EXPENDITURES.  PASSED.  YEA SUPPORTS PRESIDENT'S POSITION.        
+ 264  264 1                              S1846     AUG. 06, 1958              
+ 264  264 2 S852157       Y=17 N=63                                           
+ 264  264 3 S. 1846.  DISTRICT OF COLUMBIA CHARTER ACT.                       
+ 264  264 4 ESTABLISH D. C. CHARTER COMMISSION TO DRAFT A HOME RULE           
+ 264  264 5 CHARTER TO BE VOTED ON BY D. C. RESIDENTS.  REJECTED.  NAY        
+ 264  264 6 SUPPORTS PRESIDENT'S POSITION.                                    
+ 265  265 1                              S1846     AUG. 06, 1958              
+ 265  265 2 S852158       Y=61 N=22                                           
+ 265  265 3 S. 1846.  DISTRICT OF COLUMBIA CHARTER ACT.                       
+ 265  265 4 BILL TO SET UP TERRITORIAL GOVERNMENT FOR DISTRICT.               
+ 265  265 5 PASSED.  YEA SUPPORTS PRESIDENT'S POSITION.                       
+ 266  266 1                              HR12591   AUG. 11, 1958              
+ 266  266 2 S852159       Y=72 N=18                                           
+ 266  266 3 HR. 12591.  TRADE AGREEMENTS EXTENSION ACT OF 1958.               
+ 266  266 4 ADOPTION OF CONFERENCE REPORT.  YEA SUPPORTS PRESIDENT'S          
+ 266  266 5 POSITION.                                                         
+ 267  267 1                              HR7125    AUG. 11, 1958              
+ 267  267 2 S852160       Y=39 N=51                                           
+ 267  267 3 HR. 7125.  EXCISE TAX TECHNICAL CHANGES ACT OF 1958.              
+ 267  267 4 AMENDMENT TO STRIKE PROVISION FOR INCREASING PERIOD OF TAX        
+ 267  267 5 PAYMENT DEFERRAL ON WHISKEY IN BOND.  REJECTED.                   
+ 268  268 1                              HR7125    AUG. 11, 1958              
+ 268  268 2 S852161       Y=26 N=63                                           
+ 268  268 3 HR. 7125.  EXCISE TAX TECHNICAL CHANGES ACT OF 1958.              
+ 268  268 4 AMENDMENT TO REDUCE OIL AND GAS PERCENTAGE DEPLETION              
+ 268  268 5 ALLOWANCE.  REJECTED.                                             
+ 269  269 1                              HR7125    AUG. 11, 1958              
+ 269  269 2 S852162       Y=31 N=58                                           
+ 269  269 3 HR. 7125.  EXCISE TAX TECHNICAL CHANGES ACT OF 1958.              
+ 269  269 4 AMENDMENT TO FIX THE GAS PERCENTAGE DEPLETION ALLOWANCE.          
+ 269  269 5 REJECTED.                                                         
+ 270  270 1                              HR7125    AUG. 12, 1958              
+ 270  270 2 S852163       Y=39 N=51                                           
+ 270  270 3 HR. 7125.  EXCISE TAX TECHNICAL CHANGES ACT OF 1958.              
+ 270  270 4 AMENDMENT TO REDUCE CABARET TAX. REJECTED.                        
+ 271  271 1                              S2266     AUG. 12, 1958              
+ 271  271 2 S852164       Y=69 N=20                                           
+ 271  271 3 S. 2266.  NAVY YARD WAGES. MOTION TO PASS BILL OVER               
+ 271  271 4 PRESIDENTIAL VETO.  TWO-THIRDS VOTE REQUIRED.  PASSED.            
+ 271  271 5 NAY SUPPORTS PRESIDENT'S POSITION.                                
+ 272  272 1                              HR8381    AUG. 12, 1958              
+ 272  272 2 S852165       Y=32 N=52                                           
+ 272  272 3 HR. 8381.  TECHNICAL AMENDMENTS ACT OF 1958.  APPEAL              
+ 272  272 4 FROM RULING THAT POTTER AND MORSE AMENDMENTS (TO ADD THE          
+ 272  272 5 TEXT OF THE SELF-EMPLOYED INDIVIDUALS' RETIREMENT ACT             
+ 272  272 6 (HR. 10) TO HR. 8381) WERE GERMANE TO THE BILL.  RULING RE-       
+ 272  272 7 JECTED, THEREBY MAKING CONSIDERATION OF THE AMENDMENTS OUT        
+ 272  272 8 OF ORDER.                                                         
+ 273  273 1                              SRE       AUG. 13, 1958              
+ 273  273 2 S852166       Y=90 N=0                                            
+ 273  273 3 EXEC A, 85TH CONGRESS, 2D SESSION.  TAX TREATY WITH               
+ 273  273 4 UNITED KINGDOM.  TWO-THIRDS MAJORITY REQUIRED.  RATIFIED.         
+ 273  273 5 YEA SUPPORTS PRESIDENT'S POSITION.                                
+ 274  274 1                              HR13247   AUG. 13, 1958              
+ 274  274 2 S852167       Y=30 N=61                                           
+ 274  274 3 HR. 13247.  NATIONAL DEFENSE EDUCATION ACT.  FEDERAL              
+ 274  274 4 GRANTS AND LOANS AUTHORIZED FOR 7 YEAR AID PROGRAM TO             
+ 274  274 5 STUDENTS AND SCHOOLS.  AMENDMENT TO ADD ANNUAL GRANTS FOR         
+ 274  274 6 PUBLIC SCHOOL CONSTRUCTION.  REJECTED.  NAY SUPPORTS              
+ 274  274 7 PRESIDENT'S POSITION.                                             
+ 275  275 1                              HR13247   AUG. 13, 1958              
+ 275  275 2 S852168       Y=20 N=69                                           
+ 275  275 3 HR. 13247.  NATIONAL DEFENSE EDUCATION ACT.                       
+ 275  275 4 AMENDMENT TO ADD FUNDS TO EACH SCHOLARSHIP FOR USE BY             
+ 275  275 5 UNIVERSITY ATTENDED BY SCHOLARSHIP HOLDER.  REJECTED.             
+ 276  276 1                              HR13247   AUG. 13, 1958              
+ 276  276 2 S852169       Y=46 N=42                                           
+ 276  276 3 HR. 13247.  NATIONAL DEFENSE EDUCATION ACT.  AMEND                
+ 276  276 4 TO REDUCE NATIONAL DEFENSE SCHOLARSHIPS AND ANNUAL                
+ 276  276 5 AUTHORIZATION FOR SCHOLARSHIP PROGRAM.  AGREED TO.                
+ 277  277 1                              HR13247   AUG. 13, 1958              
+ 277  277 2 S852170       Y=62 N=26                                           
+ 277  277 3 HR. 13247.  NATIONAL DEFENSE EDUCATION ACT.  PASSED.              
+ 277  277 4 YEA SUPPORTS PRESIDENT'S POSITION.  (SEE CQ 193.)                 
+ 278  278 1                              S2883     AUG 14, 1958               
+ 278  278 2 S852171       Y=32 N=47                                           
+ 278  278 3 S. 2883.  RECONSTRUCTION OF U.S. CAPITOL.  AMENDED                
+ 278  278 4 BILL TO BLOCK EXTENSION OF EAST FRONT.  REJECTED.                 
+ 279  279 1                              HR13450   AUG. 14, 1958              
+ 279  279 2 S852172       Y=31 N=47                                           
+ 279  279 3 HR. 13450.  FIRST SUPPLEMENTAL APPROPRIATION BILL                 
+ 279  279 4 FOR FISCAL 1959.  AMENDMENT TO ADD FUNDS FOR FARM HOUSING         
+ 279  279 5 RESEARCH BY LAND GRANT COLLEGES.  REJECTED.  NAY SUPPORTS         
+ 279  279 6 PRESIDENT'S POSITION.                                             
+ 280  280 1                              HR13450   AUG. 15, 1958              
+ 280  280 2 S852173       Y=88 N=2                                            
+ 280  280 3 HR. 13450.  FIRST SUPPLEMENTAL APPROPRIATION BILL                 
+ 280  280 4 FOR FISCAL 1959.  AMENDMENT TO BAR FUNDS FOR STUDY OF U.S.        
+ 280  280 5 SURRENDER TO FOREIGN POWER.  AGREED TO.                           
+ 281  281 1                              HR13450   AUG. 15, 1958              
+ 281  281 2 S852174       Y=23 N=59                                           
+ 281  281 3 HR. 13450.  FIRST SUPPLEMENTAL APPROPRIATION BILL                 
+ 281  281 4 FOR FISCAL 1959.  AMENDMENT TO DELETE $5 MILLION FOR              
+ 281  281 5 INFORMATION MEDIA GUARANTY FUND, USIA.  REJECTED. NAY             
+ 281  281 6 SUPPORTS PRESIDENT'S POSITION.                                    
+ 282  282 1                              HR1359    AUG. 16, 1958              
+ 282  282 2 S852175       Y=32 N=53                                           
+ 282  282 3 HR. 1359.  SOCIAL SECURITY AMENDMENTS OF 1958 TO                  
+ 282  282 4 INCREASE OLD AGE, SURVIVORS, AND DISABILITY PAYMENTS AND          
+ 282  282 5 FEDERAL SHARE OF PUBLIC ASSISTANCE PAYMENTS.  AMENDMENT TO        
+ 282  282 6 INCREASE OASI BENEFITS.  REJECTED. NAY SUPPORTS PRESIDENT'S       
+ 282  282 7 POSITION.                                                         
+ 283  283 1                              HR13549   AUG. 16, 1958              
+ 283  283 2 S852176       Y=79 N=0                                            
+ 283  283 3 HR. 13549.  SOCIAL SECURITY AMENDMENTS OF 1958.                   
+ 283  283 4 PASSED.  NAY SUPPORTS PRESIDENT'S POSITION.                       
+ 284  284 1                              SRE362    AUG. 18, 1958              
+ 284  284 2 S852177       Y=87 N=0                                            
+ 284  284 3 S.RES. 362-374.  CITE 13 PERSONS FOR CONTEMPT OF                  
+ 284  284 4 CONGRESS FOR REFUSING TO ANSWER QUESTIONS OF THE SENATE           
+ 284  284 5 SELECT COMMITTEE ON IMPROPER ACTIVITIES IN THE LABOR OR           
+ 284  284 6 MANAGEMENT FIELD.  ADOPTED EN BLOC.                               
+ 285  285 1                              HR469     AUG. 18, 1958              
+ 285  285 2 S852178       Y=36 N=47                                           
+ 285  285 3 HR. 469.  TEXTILE FIBER PRODUCTS IDENTIFICATION ACT.              
+ 285  285 4 MOTION TO RECOMMIT. REJECTED.                                     
+ 286  286 1                              SRE       AUG. 18, 1958              
+ 286  286 2 S852179       Y=56 N=20                                           
+ 286  286 3 NOMINATION OF W. WILSON WHITE AS ASSISTANT ATTORNEY               
+ 286  286 4 GENERAL.  CONFIRMED.  YEA SUPPORTS PRESIDENT'S POSITION.          
+ 287  287 1                              HR11477   AUG. 19, 1958              
+ 287  287 2 S852180       Y=41 N=39                                           
+ 287  287 3 HR. 11477.  SENATE VERSION OF 'MALLORY RULE'  BILL TO             
+ 287  287 4 AMEND FEDERAL RULES OF CRIMINAL PROCEDURE.  COMMITTEE AMEND-      
+ 287  287 5 MENT TO INSERT 'REASONABLE' BEFORE 'DELAY'.  ACCEPTED.            
+ 288  288 1                              HR11477   AUG. 19, 1958              
+ 288  288 2 S852181       Y=18 N=62                                           
+ 288  288 3 HR. 11477.  'MALLORY RULE' BILL TO AMEND FEDERAL                  
+ 288  288 4 RULES OF CRIMINAL PROCEDURE.  AMENDMENT EMPOWERING JUDGE TO       
+ 288  288 5 DETERMINE WHETHER DELAY IN ARRAIGNMENT IS REASONABLE.             
+ 288  288 6 REJECTED.                                                         
+ 289  289 1                              HR11477   AUG. 19, 1958              
+ 289  289 2 S852182       Y=13 N=64                                           
+ 289  289 3 HR. 11477.  'MALLORY RULE' BILL TO AMEND FEDERAL                  
+ 289  289 4 RULES OF CRIMINAL PROCEDURE.  AMENDMENT TO BAR INTERROGATION      
+ 289  289 5 OR ADMISSIBILITY OF STATEMENT OF SUSPECT UNLESS HE IS             
+ 289  289 6 INFORMED OF NATURE OF ACCUSATION AND HIS RIGHTS.  REJECTED.       
+ 290  290 1                              HR11477   AUG. 19, 1958              
+ 290  290 2 S852183       Y=65 N=12                                           
+ 290  290 3 HR. 11477.  'MALLORY RULE' BILL TO AMEND FEDERAL                  
+ 290  290 4 RULES OF CRIMINAL PROCEDURE.  PASSED.                             
+ 291  291 1                              HR6789    AUG. 20, 1958              
+ 291  291 2 S852184       Y=49 N=41                                           
+ 291  291 3 HR. 6789.  MINOR COURT BILL.  MOTION TO TABLE                     
+ 291  291 4 AMENDMENT LIMITING APPELLATE JURISDICTION OF SUPREME COURT.       
+ 291  291 5 AGREED TO.                                                        
+ 292  292 1                              HR13450   AUG. 20, 1958              
+ 292  292 2 S852185       Y=86 N=0                                            
+ 292  292 3 HR. 13450.  FIRST SUPPLEMENTAL APPROPRIATION BILL                 
+ 292  292 4 FOR FISCAL 1959.  CONFERENCE REPORT.  MOTION TO INSIST ON         
+ 292  292 5 SENATE AMENDMENT BARRING FUNDS FOR NATIONAL AERONAUTICS           
+ 292  292 6 AND SPACE ADMINISTRATION WITHOUT AUTHORIZATION BY CONGRESS.       
+ 292  292 7 AGREED TO.                                                        
+ 293  293 1                              S654      AUG. 20, 1958              
+ 293  293 2 S852186       Y=39 N=46                                           
+ 293  293 3 S. 654.  PERMIT STATES TO ENACT LAWS BARRING                      
+ 293  293 4 SUBVERSIVE ACTIVITIES.  HENNINGS MOTION TO TABLE MCCLELLAN        
+ 293  293 5 AMENDMENT PROVIDING THAT NO ACT OF CONGRESS SHOULD BE CON-        
+ 293  293 6 STRUED AS NULLIFYING ANY STATE LAW ON SAME SUBJECT UNLESS         
+ 293  293 7 CONGRESS SO SPECIFIES.  REJECTED.  YEA SUPPORTS PRESIDENT'S       
+ 293  293 8 POSITION.                                                         
+ 294  294 1                              S654      AUG. 20, 1958              
+ 294  294 2 S852187       Y=47 N=40                                           
+ 294  294 3 S. 654.  PERMIT STATES TO ENACT LAWS BARRING                      
+ 294  294 4 SUBVERSIVE ACTIVITIES.  MOTION TO TABLE MOTION TO RECONSIDER      
+ 294  294 5 REJECTED HENNINGS MOTION (CQ 186) ON THE TABLING OF THE           
+ 294  294 6 MCCLELLAN AMENDMENT.  ADOPTED.  NAY SUPPORTS PRESIDENTS           
+ 294  294 7 POSITION.  (SEE CQ 189.)                                          
+ 295  295 1                              PROC      AUG. 20, 1958              
+ 295  295 2 S852188       Y=70 N=18                                           
+ 295  295 3 MOTION TO ADJOURN UNTIL AUGUST 21.  ADOPTED.                      
+ 296  296 1                              S654      AUG. 21, 1958              
+ 296  296 2 S852189       Y=41 N=40                                           
+ 296  296 3 S. 654.  PERMIT STATES TO ENACT LAWS BARRING SUBVERSIVE           
+ 296  296 4 ACTIVITIES.  MOTION TO RECOMMIT.  ADOPTED.                        
+ 297  297 1                              HR12728   AUG. 22, 1958              
+ 297  297 2 S852190       Y=80 N=2                                            
+ 297  297 3 HR. 12728.  MINOR LONGSHOREMEN'S AND HARBOR WORKERS'              
+ 297  297 4 COMPENSATION ACT.  MORSE AMENDMENT SUBSTITUTING AN ENTIRELY       
+ 297  297 5 NEW TEXT FOR S. 1313 WHICH WAS PENDING AS AN AMENDMENT TO         
+ 297  297 6 THE COMMITTEE AMENDMENTS TO HR. 12728.  THE MORSE TEXT WOULD      
+ 297  297 7 RAISE RAILROAD RETIREMENT AND UNEMPLOYMENT BENEFITS BY 10         
+ 297  297 8 AND 20 PERCENT RESPECTIVELY.  AGREED TO.                          
+ 298  298 1                              HR12728   AUG. 22, 1958              
+ 298  298 2 S852191       Y=68 N=14                                           
+ 298  298 3 HR. 12728.  MINOR LONGSHOREMEN'S AND HARBOR WORKERS'              
+ 298  298 4 COMPENSATION ACT.  AMENDMENT TO ADD MORSE TEXT (CQ 190) TO        
+ 298  298 5 COMMITTEE AMENDMENTS. AGREED TO.                                  
+ 299  299 1                              HR12728   AUG. 22, 1958              
+ 299  299 2 S852192       Y=71 N=12                                           
+ 299  299 3 HR. 12728.  MINOR LONGSHOREMEN'S AND HARBOR WORKERS'              
+ 299  299 4 COMPENSATION ACT.  PASSED.                                        
+ 300  300 1                              HR13247   AUG. 22, 1958              
+ 300  300 2 S852193       Y=66 N=15                                           
+ 300  300 3 HR. 13247.  NATIONAL DEFENSE EDUCATION ACT.                       
+ 300  300 4 AUTHORIZATION OF $1 BILLION IN FEDERAL AID FOR STUDENTS AND       
+ 300  300 5 SCHOOLS.  CONFERENCE REPORT AGREED TO.  YEA SUPPORTS PRESI        
+ 300  300 6 DENT'S POSITION.                                                  
+ 301  301 1                              HR13580   AUG. 22, 1958              
+ 301  301 2 S852194       Y=57 N=20                                           
+ 301  301 3 HR. 13580.  INCREASE BOTH PERMANENT AND TEMPORARY                 
+ 301  301 4 PUBLIC DEBT LIMITS.  PASSED.  YEA SUPPORTS PRESIDENT'S            
+ 301  301 5 POSITION.                                                         
+ 302  302 1                              HR13192   AUG. 23, 1958              
+ 302  302 2 S852195       Y=36 N=45                                           
+ 302  302 3 HR. 13192.  MUTUAL SECURITY APPROPRIATIONS FOR                    
+ 302  302 4 FISCAL 1959.  AMENDMENT TO REDUCE MILITARY ASSISTANCE FUNDS.      
+ 302  302 5 REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.                     
+ 303  303 1                              HR13192   AUG. 23, 1958              
+ 303  303 2 S852196       Y=36 N=41                                           
+ 303  303 3 HR. 13192.  MUTUAL SECURITY APPROPRIATIONS FOR                    
+ 303  303 4 FISCAL 1959.  AMENDMENT TO REDUCE DEFENSE SUPPORT FUNDS.          
+ 303  303 5 REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.                     
+ 304  304 1                              HR13856   AUG. 23, 1958              
+ 304  304 2 S852197       Y=30 N=45                                           
+ 304  304 3 HR. 13856.  INDEPENDENT OFFICES APPROPRIATION FOR                 
+ 304  304 4 FISCAL 1959.  MOTION TO SUSPEND RULES AND CONSIDER AMENDMENT      
+ 304  304 5 ASKING PRESIDENT TO REDUCE FEDERAL EXPENDITURES ON DEFENSE        
+ 304  304 6 AND OTHER APPROPRIATIONS.  TWO-THIRDS VOTE NECESSARY.             
+ 305  305 1                              HR29      AUG. 24, 1958              
+ 305  305 2 S852198       Y=29 N=28                                           
+ 305  305 3 HR. 29  AUTHORIZE THREE-YEAR PROGRAM TESTING EFFECT               
+ 305  305 4 OF WATER DIVERSION FROM LAKE MICHIGAN INTO ILLINOIS WATER-        
+ 305  305 5 WAY.  MCNAMARA AMENDMENT TO PROVIDE SPECIFICALLY THAT WATER       
+ 305  305 6 DIVERSION TEST BE FOR ONE-YEAR PERIOD.  ADOPTED.                  
+ 306  306 1                              HR2       AUG. 24, 1958              
+ 306  306 2 S852199       Y=28 N=30                                           
+ 306  306 3 HR. 2.  AUTHORIZE THREE-YEAR PROGRAM TESTING EFFECT               
+ 306  306 4 OF WATER DIVERSION FROM LAKE MICHIGAN INTO ILLINOIS WATER-        
+ 306  306 5 WAY.  MOTION TO TABLE THE BILL.  REJECTED.                        
+ 307  307 1                              HR2       AUG. 24, 1958              
+ 307  307 2 S852200       Y=28 N=28                                           
+ 307  307 3 HR. 2.  AUTHORIZE THREE-YEAR PROGRAM TESTING EFFECT               
+ 307  307 4 OF WATER DIVERSION FROM LAKE MICHIGAN INTO ILLINOIS WATER-        
+ 307  307 5 WAY.  MOTION TO TABLE A DOUGLAS MOTION TO RECOMMIT WITH IN-       
+ 307  307 6 STRUCTIONS FOR REMOVAL OF MCNAMARA AMENDMENT (CQ 198).            
+ 307  307 7 REJECTED.                                                         

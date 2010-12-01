@@ -1,0 +1,2028 @@
+   1    1 1                              PROC      JAN. 07, 1959              
+   1    1 2 S861001       Y=73 N=23                                           
+   1    1 3 SENATE RULES:  MOTION TO ADJOURN TO PREVENT MOTION TO ADOPT       
+   1    1 4 NEW SENATE RULES.                                                 
+   2    2 1                              SRE       JAN. 09, 1959              
+   2    2 2 S861002       Y=60 N=36                                           
+   2    2 3 SENATE RULES:  MOTION TO TABLE MOTION TO CONSIDER                 
+   2    2 4 ADOPTION OF RULES.                                                
+   3    3 1                              SRE5      JAN. 12, 1959              
+   3    3 2 S861003       Y=28 N=67                                           
+   3    3 3 S.RES. 5.  PROPOSAL TO ENABLE 2/3 OF SENATORS VOTING              
+   3    3 4 INSTEAD OF 2/3 MEMBERSHIP TO SHUT OFF DEBATE:  AMEND. TO          
+   3    3 5 ENABLE MAJORITY TO LIMIT DEBATE.                                  
+   4    4 1                              SRE5      JAN. 12, 1959              
+   4    4 2 S861004       Y=36 N=58                                           
+   4    4 3 S. RES. 5.  AMEND TO 3/5 INSTEAD OF 2/3 VOTE TO SHUT OFF          
+   4    4 4 DEBATE.                                                           
+   5    5 1                              SRE5      JAN. 12, 1959              
+   5    5 2 S861005        Y=72 N=22                                          
+   5    5 3 S.RES. 5.  ADOPTED.                                               
+   6    6 1                              S57       FEB. 04, 1959              
+   6    6 2 S861006       Y=32 N=58                                           
+   6    6 3 S. 57.  HOUSING ACT:  SUBSTITUTE FOR DEMOC-SPONSORED              
+   6    6 4 BILL CUTTING AUTHORIZATION.                                       
+   7    7 1                              S57       FEB. 04, 1959              
+   7    7 2 S861007       Y=37 N=50                                           
+   7    7 3 S. 57.  AMEND TO DELETE AUTHORIZATION OF 35,000 PUBLIC            
+   7    7 4 HOUSING UNITS.                                                    
+   8    8 1                              S57       FEB. 05, 1959              
+   8    8 2 S861008       Y=39 N=53                                           
+   8    8 3 S. 57.  AMEND TO REDUCE AUTHORITY FOR ADDITIONAL                  
+   8    8 4 PUBLIC HOUSING.                                                   
+   9    9 1                              S57       FEB. 05, 1959              
+   9    9 2 S861009       Y=34 N=56                                           
+   9    9 3 S. 57.  AMEND TO SUBSTITUTE EISENHOWER REVISED URBAN RE-          
+   9    9 4 NEWAL PROVISIONS.                                                 
+  10   10 1                              S57       FEB. 05, 1959              
+  10   10 2 S861010       Y=33 N=56                                           
+  10   10 3 S. 57.  AMEND TO PROVIDE $450 MILLION ANNUALLY FOR                
+  10   10 4 URBAN RENEWAL.                                                    
+  11   11 1                              S57       FEB. 05, 1959              
+  11   11 2 S861011       Y=27 N=58                                           
+  11   11 3 S. 57.  HOUSING ACT.  AMEND TO PREVENT RAISING OF GI LOAN         
+  11   11 4 INTEREST RATE.                                                    
+  12   12 1                              S57       FEB. 05, 1959              
+  12   12 2 S861012       Y=60 N=28                                           
+  12   12 3 S. 57.  PASSAGE OF AMENDED BILL AUTHORIZING $2.7 BILLION          
+  12   12 4 FOR HOUSING.                                                      
+  13   13 1                              S1        FEB. 06, 1959              
+  13   13 2 S861013       Y=35 N=53                                           
+  13   13 3 S. 1.  AUTHORIZE FEDERAL GRANTS ON MATCHING BASIS FOR             
+  13   13 4 AIRPORT CONSTRUCTION:  AMEND. TO CONTINUE EXISTING PROGRAM.       
+  14   14 1                              S1        FEB. 06, 1959              
+  14   14 2 S861014       Y=33 N=53                                           
+  14   14 3 S. 1.  AMEND RESTRICTING GRANTS TO AIRPORT BUILDINGS              
+  14   14 4 HAVING AIR SAFETY FACILITIES.                                     
+  15   15 1                              S1        FEB. 06, 1959              
+  15   15 2 S861015       Y=37 N=48                                           
+  15   15 3 S. 1.  AMEND TO REDUCE AUTHORIZATION FOR AIRPORT                  
+  15   15 4 CONSTRUCTION.                                                     
+  16   16 1                              S1        FEB. 06, 1959              
+  16   16 2 S861016       Y=63 N=22                                           
+  16   16 3 S. 1.  AUTHORIZE FED. GRANTS OF $465 MILLION FOR AIRPORT          
+  16   16 4 CONSTRUCTION PROJECTS.                                            
+  17   17 1                              S1096     MAR. 10, 1959              
+  17   17 2 S861017       Y=91 N=00                                           
+  17   17 3 S. 1096.  APPROPRIATIONS FOR NAT. AERONATUICS                     
+  17   17 4 AND SPACE ADMIN.                                                  
+  18   18 1                              HR2260    MAR. 11, 1959              
+  18   18 2 S861018       Y=24 N=68                                           
+  18   18 3 HR. 2260.  EXTENSION OF DRAFT FOR 4 YEARS:  AMEND TO ESTAB-       
+  18   18 4 LISH COMM. ON MILITARY MANPOWER TO STUDY CURRENT TRAINING         
+  18   18 5 PROGRAMS AND ALTERNATIVES TO THE DRAFT.                           
+  19   19 1                              HR2260    MAR. 11, 1959              
+  19   19 2 S861019       Y=24 N=67                                           
+  19   19 3 HR. 2260.  AMEND TO LIMIT DRAFT EXTENSION TO 2 YEARS.             
+  20   20 1                              HR2260    MAR. 11, 1959              
+  20   20 2 S861020       Y=90 N=01                                           
+  20   20 3 HR. 2260.  PASSAGE.                                               
+  21   21 1                              S50       MAR. 11, 1959              
+  21   21 2 S861021       Y=76 N=15                                           
+  21   21 3 S. 50.  STATEHOOD FOR HAWAII:  PASSAGE.                           
+  22   22 1                              HR1       MAR. 18, 1959              
+  22   22 2 S861022       Y=49 N=21                                           
+  22   22 3 HR. 1.  AUTHORIZE 3 YR. STUDY OF DIVERSION OF LAKE                
+  22   22 4 MICHIGAN WATERS INTO CHICAGO CANAL SYSTEM:  APPEAL FROM           
+  22   22 5 RULING OF THE CHAIR REFFERING BILL TO PUBLIC WORKS COMM:          
+  22   22 6 CHAIR SUSTAINED.                                                  
+  23   23 1                              S1094     MAR. 19, 1959              
+  23   23 2 S861023       Y=58 N=25                                           
+  23   23 3 S. 1094.  BILL TO INCREASE U.S. SUBSCRIPTIONS TO                  
+  23   23 4 INTERNATIONAL MONETARY FUND AND WORLD BANK:  AMEND TO MAKE        
+  23   23 5 MONET.  FUND AUTHORIZATION AVAILABLE IN 1960.                     
+  24   24 1                              S1094     MAR. 19, 1959              
+  24   24 2 S861024       Y=73 N=10                                           
+  24   24 3 S. 1094.  PASSAGE.                                                
+  25   25 1                              S722      MAR. 23, 1959              
+  25   25 2 S861025       Y=43 N=52                                           
+  25   25 3 S. 722.  AUTHOR. FED. LOANS AND GRANTS FOR REDEVEL. OF            
+  25   25 4 DEPRESSED RURAL AND INDUSTRIAL AREAS:  AMEND TO SUBSTITUTE        
+  25   25 5 INDUSTRIAL REDEVEL. ONLY.                                         
+  26   26 1                              S722      MAR. 23, 1959              
+  26   26 2 S861026       Y=24 N=70                                           
+  26   26 3 S. 722.  AMEND TO AUTHORIZE $200 MILLION INSTEAD OF               
+  26   26 4 $389.5 MILLION.                                                   
+  27   27 1                              S722      MAR. 23, 1959              
+  27   27 2 S861027       Y=33 N=60                                           
+  27   27 3 S. 722.  AMEND TO TIGHTEN PROVISION PROHIBITING                   
+  27   27 4 INDUSTRY FROM MOVING INTO DEPRESSED AREA IF IT WOULD              
+  27   27 5 CAUSE UNEMPLOYMENT.                                               
+  28   28 1                              S722      MAR. 23, 1959              
+  28   28 2 S861028       Y=49 N=46                                           
+  28   28 3 S. 722.  PASSAGE.                                                 
+  29   29 1                              HR5640    MAR. 25, 1959              
+  29   29 2 S861029       Y=38 N=49                                           
+  29   29 3 HR. 5640.  EXTEND PROVISIONS OF TEMP.  UNEMPLOYMENT               
+  29   29 4 COMPENSATION ACT:  AMEND TO EXTEND ALL PROVISIONS, UNTIL          
+  29   29 5 JULY 1, 1960.                                                     
+  30   30 1                              HR5640    MAR. 25, 1959              
+  30   30 2 S861030       Y=52 N=32                                           
+  30   30 3 HR. 5640.  AMEND. TO EXTEND ALL PROVISIONS UNTIL                  
+  30   30 4 JULY 1, 1959.                                                     
+  31   31 1                              S144      APR. 08, 1959              
+  31   31 2 S861031       Y=13 N=74                                           
+  31   31 3 S. 144.  BILL TO GIVE ADMINISTRATOR OF RURAL                      
+  31   31 4 ELECTRIFICATION ADMIN. FINAL AUTHORITT TO APPROVE                 
+  31   31 5 REA LOANS:  AMEND TO MAKE REA AN INDEPENDENT AGENCY.              
+  32   32 1                              S144      APR. 08, 1959              
+  32   32 2 S861032       Y=60 N=27                                           
+  32   32 3 S. 144.  PASSAGE.                                                 
+  33   33 1                              SRE       APR. 21, 1959              
+  33   33 2 S861033       Y=93 N=00                                           
+  33   33 3 NOMINATION OF HERTER AS SECY OF STATE TO SUCCEED DULLES.          
+  34   34 1                              S155      APR. 21, 1959              
+  34   34 2 S861034       Y=27 N=67                                           
+  34   34 3 S. 1555.  LABOR-MANAGEMENT REPORTING AND DISCLOSURE ACT:          
+  34   34 4 AMEND TO LIMIT BILL TO ANTI-CORRUPTION PROVISIONS BY              
+  34   34 5 STRIKING TITLE VI.                                                
+  35   35 1                              S1555     APR. 21, 1959              
+  35   35 2 S861035       Y=24 N=67                                           
+  35   35 3 S. 1555.  AMEND TO SUBSTITUTE ADMIN'S PROPOSALS FOR AMENDING      
+  35   35 4 TAFT-HARTLEY ACT.                                                 
+  36   36 1                              S1555     APR. 22, 1959              
+  36   36 2 S861036       Y=47 N=46                                           
+  36   36 3 S. 1555.  AMEND TO ADD NEW SECTION PROVIDING PROTECTION           
+  36   36 4 FOR UNION MEMBERS AGAINST UNFAIR ACTIONS BY THEIR UNIONS.         
+  37   37 1                              S1555     APR. 22, 1959              
+  37   37 2 S861037       Y=45 N=45                                           
+  37   37 3 S. 1555.  MOTION TO TABLE MOTION TO RECONSIDER VOTE ON            
+  37   37 4 MCCLELLAN AMENDMENT (36).  NIXON VOTED "YEA" TO BREAK TIE.        
+  38   38 1                              S1555     APR. 23, 1959              
+  38   38 2 S861038       Y=39 N=52                                           
+  38   38 3 S. 1555.  AMEND TO PERMIT STATE AGENCIES TO HANDLE                
+  38   38 4 LABOR DISPUTES DECLINED BY NLRB.                                  
+  39   39 1                              S1555     APR. 24, 1959              
+  39   39 2 S861039       Y=40 N=53                                           
+  39   39 3 S. 1555.  AMEND TO PERMIT STATE AGENCIES TO HANDLE DISPUTES       
+  39   39 4 IF THEY APPLY FED. LABOR LAW.                                     
+  40   40 1                              S1555     APR. 24, 1959              
+  40   40 2 S861040       Y=78 N=15                                           
+  40   40 3 S. 1555.  AMEND TO PERMIT STATE LABOR RELATIONS AGENCIES          
+  40   40 4 BUT NOT STATE COURTS TO HANDLE LABOR DISPUTES.                    
+  41   41 1                              S1555     APR. 24, 1959              
+  41   41 2 S861041       Y=25 N=67                                           
+  41   41 3 S. 1555.  AMEND TO REVISE MCCLELLAN AMEND. SO AS NOT TO BAR       
+  41   41 4 PEACEFUL ORGANIZATIONAL PICKETING.                                
+  42   42 1                              S1555     APR. 24, 1959              
+  42   42 2 S861042       Y=30 N=59                                           
+  42   42 3 S. 1555.  AMEND TO BAR ORGANIZATIONAL PICKETING                   
+  42   42 4 WHERE MAJORITY OF EMPLOYEES HAD NOT SOUGHT RECOGNITION OF         
+  42   42 5 UNION, AND TO BAR SHAKEDOWN PICKETING.                            
+  43   43 1                              S1555     APR. 24, 1959              
+  43   43 2 S861043       Y=41 N=50                                           
+  43   43 3 S. 1555.  AMEND TO REVISE BAN ON SECONDARY BOYCOTTS.              
+  44   44 1                              S1555     APR. 24, 1959              
+  44   44 2 S861044       Y=86 N=04                                           
+  44   44 3 S. 1555.  MODIFIED AMENDMENT TO BAR PICKETING IF EMPLOYER         
+  44   44 4 HAS RECOGNIZED ANOTHER UNION.                                     
+  45   45 1                              S1555     APR. 24, 1959              
+  45   45 2 S861045       Y=41 N=51                                           
+  45   45 3 S. 1555.  AMEND TO PERMIT UNION TRUSTEESHIPS OVER LOCALS          
+  45   45 4 FOR ONLY 1 YR.                                                    
+  46   46 1                              S1555     APR. 24, 1959              
+  46   46 2 S861046       Y=28 N=60                                           
+  46   46 3 S. 1555.  AMEND TO REQUIRE SECRET BALLOT STRIKE VOTES BEFORE      
+  46   46 4 STRIKE CAN TAKE PLACE.                                            
+  47   47 1                              S1555     APR. 24, 1959              
+  47   47 2 S861047       Y=07 N=85                                           
+  47   47 3 S. 1555.  AMEND TO PERMIT UNIONS TO PAY DEFENSE COSTS BUT         
+  47   47 4 NOT COURT FINES OF AGENTS PROSECUTED FOR VIOLATION OF             
+  47   47 5 BILL.                                                             
+  48   48 1                              S1555     APR. 25, 1959              
+  48   48 2 S861048       Y=77 N=14                                           
+  48   48 3 S. 1555.  AMEND TO MAKE CLEAR THAT GUARANTEE OF EQUALITY          
+  48   48 4 OF PRIVILEGES APPLIED ONLY TO VOTING AND OTHER                    
+  48   48 5 ORGANIZATIONAL RIGHTS, NOT TO SOCIAL EQUALITY; STRIKE             
+  48   48 6 PROVISION PERMITTING SECY OF LABOR TO SEEK FED.                   
+  48   48 7 INJUNCTIONS AGAINST DENIAL OF EQUAL VOTING RIGHTS.                
+  49   49 1                              S1555     APR. 25, 1959              
+  49   49 2 S861049       Y=27 N=64                                           
+  49   49 3 S. 1555.  AMEND TO PERMIT STATES TO REGULATE STRIKES              
+  49   49 4 IN PUBLIC UTILITIES.                                              
+  50   50 1                              S1555     APR. 25, 1959              
+  50   50 2 S861050       Y=90 N=01                                           
+  50   50 3 PASSAGE.                                                          
+  51   51 1                              SRE       APR. 28, 1959              
+  51   51 2 S861051       Y=79 N=11                                           
+  51   51 3 NOMINATION OF MRS. CLAIRE BOOTHE LUCE AS                          
+  51   51 4 AMBASSADOR TO BRAZIL.                                             
+  52   52 1                              SRE       APR. 28, 1959              
+  52   52 2 S861052       Y=89 N=00                                           
+  52   52 3 EXEC. A, 86TH CONGRESS, 1ST SESSION.  TREATY OF                   
+  52   52 4 AMITY WITH SULTAN OF MUSCAT AND OMAN.                             
+  53   53 1                              S144      APR. 28, 1959              
+  53   53 2 S861053       Y=64 N=29                                           
+  53   53 3 S. 144.  BILL TO GIVE ADMIN. OF REA FINAL AUTHORITY               
+  53   53 4 OVER REA LOANS:  PASSAGE OVER PRESIDENT'S VETO.                   
+  54   54 1                              HR5916    APR. 29, 1959              
+  54   54 2 S861054       Y=34 N=55                                           
+  54   54 3 HR. 5916.  SECOND SUPPLEMENTAL APPROP. BILL:  AMEND               
+  54   54 4 TO ELIMINATE FUNDS FOR FURNISHING NEW SENATE OFFICE BLDG.         
+  55   55 1                              HR5916    APR. 29, 1959              
+  55   55 2 S861055       Y=39 N=43                                           
+  55   55 3 HR. 5916.  AMEND TO ELIMINATE $4 MILLION FOR EXTENSION            
+  55   55 4 OF SENATE SUBWAY SYSTEM                                           
+  56   56 1                              HR5916    APR. 30, 1959              
+  56   56 2 S861056       Y=24 N=54                                           
+  56   56 3 HR. 5916.  AMEND TO CUT DEVELOPMENT LOAN FUND APPOP.              
+  56   56 4 BY $100 MILLION.                                                  
+  57   57 1                              HR5916    APR. 30, 1959              
+  57   57 2 S861057       Y=80 N=01                                           
+  57   57 3 HR. 5916.  PASSAGE.                                               
+  58   58 1                              SRE       MAY 05, 1959               
+  58   58 2 S861058       Y=70 N=17                                           
+  58   58 3 NOMINATION OF POTTER STEWART AS ASSOC. JUSTICE OF                 
+  58   58 4 SUPREME COURT.                                                    
+  59   59 1                              S44       MAY 12, 1959               
+  59   59 2 S861059       Y=24 N=57                                           
+  59   59 3 S. 44.  AUTHORIZE FED. CONSTRUCTION OF SAN LUIS DAM IN            
+  59   59 4 SAN JOQUIN VALLEY, CALIF:  MOTION TO RECOMMIT (KILL).             
+  60   60 1                              S1062     MAY 14, 1959               
+  60   60 2 S861060       Y=29 N=55                                           
+  60   60 3 S. 1062.  STRENGTHEN FED. REGULATION OF BANK MERGERS:  AMEND      
+  60   60 4 TO PROHIBIT CONSENT WHERE MONOPOLY MIGHT BE CREATED.              
+  61   61 1                              HR5916    MAY 14, 1959               
+  61   61 2 S861061       Y=33 N=45                                           
+  61   61 3 HR. 5916.  SECOND SUPPLEMENTAL APPROP. BILL:  MOTION TO           
+  61   61 4 RECONSIDER VOICE VOTE AGREEING TO CONFERENCE REPORT.              
+  62   62 1                              SJRE41    MAY 20, 1959               
+  62   62 2 S861062       Y=63 N=17                                           
+  62   62 3 S.J.RES. 41.  INTERNATIONAL HEALTH AND MEDICAL RESEARCH ACT.      
+  63   63 1                              S1968     MAY 22, 1959               
+  63   63 2 S861063       Y=24 N=52                HUMPHREY, MINN             
+  63   63 3 S. 1968.  BILL TO PROVIDE NEW WHEAT PROGRAM:  HUMPHREY            
+  63   63 4 MOTION TO AMEND BELOW AMENDMENT TO LIMIT $35,000 ANY              
+  63   63 5 PRICE SUPPORT LOAN ON ANY ONE AGRICULTURAL COMMODITY.             
+  64   64 1                              S1968     MAY 22, 1959               
+  64   64 2 S861064       Y=57 N=20                WILLIAMS, DEL              
+  64   64 3 S. 1968.  WILLIAMS-BUSH AMEND. TO LIMIT TO $35,000 THE            
+  64   64 4 TOTAL AMOUNT OF PRICE SUPPORT LOANS TO ANY PERSON FOR             
+  64   64 5 ANY ONE YEAR'S PRODUCTION OF AGRICULTURAL COMMODITIES.            
+  65   65 1                              S1968     MAY 22, 1959               
+  65   65 2 S861065       Y=30 N=48                HUMPHREY, MINN             
+  65   65 3 S. 1968.  HUMPHREY AMEND. TO PROVIDE PRICE SUPPORTS OF 85%        
+  65   65 4 OF PARITY TO WHEAT FARMERS REDUCING ACREAGE BY 20%.               
+  66   66 1                              S1968     MAY 22, 1959               
+  66   66 2 S861066       Y=05 N=69                CAPEHART, IND              
+  66   66 3 S. 1968.  CAPEHART AMEND. TO REPEAL ALL AGRICULTURAL PRICE        
+  66   66 4 SUPPORT PROGRAMS & FREEZE FARM SURPLUSES CURRENTLY                
+  66   66 5 HELD BY THE GOV'T                                                 
+  67   67 1                              HR5676    MAY 28, 1959               
+  67   67 2 S861067       Y=23 N=47                DOUGLAS, ILL               
+  67   67 3 HR. 5676.  PROVIDE $241,702,402 FOR 1960 BUDGET OF D.C.,          
+  67   67 4 INCLUSING $29,351,000 IN FEDERAL PAYMENTS.                        
+  67   67 5 DOUGLAS AMEND. TO ELIMINATE APPROPRIATION OF $880,000 TO          
+  67   67 6 BEGIN CONSTRUCTION OF THE GLOVER-ARCHBOLD PARKWAY.                
+  68   68 1                              HR5676    MAY 28, 1959               
+  68   68 2 S861068       Y=68 N=00                                           
+  68   68 3 HR. 5676.  PASSAGE                                                
+  69   69 1                              HR5805    MAY 28, 1959               
+  69   69 2 S861069       Y=30 N=34                JOHNSTON, SC               
+  69   69 3 HR. 5805.  APPROPRIATE $4,664,027,600 FOR TREASURY &              
+  69   69 4 POST OFFICE DEPTS. AND THE TAX COURT. JOHNSTON AMEND.             
+  69   69 5 TO DELETE $36.4 MILLION AS THE PUBLIC SERVICE COSTS OF THE        
+  69   69 6 POST OFFICE.                                                      
+  70   70 1                              HR5805    MAY 28, 1959               
+  70   70 2 S861070       Y=25 N=31                CLARK, PA                  
+  70   70 3 HR. 5805.  CLARK AMEND. TO INCREASE INTERNAL REVENUE              
+  70   70 4 SERVICE FUNDS FOR ADDITIONAL ENFORCEMENT PERSONNEL.               
+  71   71 1                              HR5805    MAY 28, 1959               
+  71   71 2 S861071       Y=53 N=03                                           
+  71   71 3 HR. 5805.  PASSAGE.                                               
+  72   72 1                              HR7175    JUNE 02, 1959              
+  72   72 2 S861072       Y=26 N=51                WILLIAMS, DEL              
+  72   72 3 HR. 7175.  FISCAL 1960 AGRICULTURE DEPT. APPROPRIATION:           
+  72   72 4 WILLIAMS AMEND. TO REDUCE THE CALENDAR 1960 ADVANCE               
+  72   72 5 AUTHORIZATION FOR AGRICULTURAL CONSERVATION PROGRAM FROM          
+  72   72 6 $250 MILLION TO $100 MILLION.                                     
+  73   73 1                              HR7175    JUNE 03, 1959              
+  73   73 2 S861073       Y=37 N=48                WILLIAMS, DEL              
+  73   73 3 HR. 7175.  WILLIAMS AMEND. TO REDUCE THE CALENDAR 1960            
+  73   73 4 ADVANCE AUTHORIZATION FOR THE SOIL BANK RESERVE PROGRAM           
+  73   73 5 FROM $450 MILLION TO $375 MILLION.                                
+  74   74 1                              HR7175    JUNE 03, 1959              
+  74   74 2 S861074       Y=74 N=10                                           
+  74   74 3 HR. 7175.  PASSAGE.                                               
+  75   75 1                              HR7007    JUNE 04, 1959              
+  75   75 2 S861075       Y=81 N=01                                           
+  75   75 3 HR. 7007.  AUTHORIZE $485,300,00 IN 1960                          
+  75   75 4 APPROPRIATIONS FOR N.A.S.A.                                       
+  76   76 1                              SRE       JUNE 04, 1959              
+  76   76 2 S861076       Y=80 N=00                                           
+  76   76 3 EXECUTIVE B, 86TH CONG., 1ST SESS:  TREATY FOR THE                
+  76   76 4 CONSERVATION OF SHRIMP, SIGNED W/CUBA.                            
+  77   77 1                              HR5915    JUNE 08, 1959              
+  77   77 2 S861077       Y=82 N=00                                           
+  77   77 3 HR. 5915.  APPROPRIATE $478,785,025 FOR THE INTERIOR              
+  77   77 4 DEPT., THE AGRICULTURE DEPT'S FOREST SERVICE & OTHER              
+  77   77 5 RELATED AGENCIES IN FISCAL 1960.                                  
+  78   78 1                              S1        JUNE 15, 1959              
+  78   78 2 S861078       Y=27 N=54                DIRKSEN, ILL               
+  78   78 3 S. 1.  EXTENSION OF THE FEDERAL AIRPORT CONSTRUCTION ACT.         
+  78   78 4 DIRKSEN AMEND. TO LIMIT FEDERAL PARTICIPATION IN THE              
+  78   78 5 CONSTRUCTION OF AIRPORT BUILDINGS TO THOSE PORTIONS THAT          
+  78   78 6 WOULD HOUSE AIR SAFETY FACILITIES.                                
+  79   79 1                              S1        JUNE 15, 1959              
+  79   79 2 S861079       Y=71 N=11                                           
+  79   79 3 S. 1.  PASSAGE.                                                   
+  80   80 1                              HR7349    JUNE 17, 1959              
+  80   80 2 S861080       Y=23 N=42                WILLIAMS, DEL              
+  80   80 3 HR. 7349.  APPROPRIATE $715,328,500 FOR DEPT. OF COMMERCE.        
+  80   80 4 WILLIAMS AMEND. TO REDUCE TO 2,265 THE NUMBER OF SHIP             
+  80   80 5 VOYAGES FOR WHICH THE FED. MARITIME BOARD CAN CONTRACT            
+  80   80 6 TO PAY SHIP OPERATING SUBSIDIES.                                  
+  81   81 1                              HR7349    JUNE 17, 1959              
+  81   81 2 S861081       Y=43 N=22                                           
+  81   81 3 HR. 7349.  COMMITTEE AMEND. INCREASING TO 2,600--FROM THE         
+  81   81 4 HOUSE-APPROVED 2,040--THE NUMBER OF SUBSIDIZED VOYAGES.           
+  82   82 1                              HR7349    JUNE 17, 1959              
+  82   82 2 S861082       Y=20 N=42                DOUGLAS, ILL               
+  82   82 3 HR. 7349.  DOUGLAS AMEND. TO DELETE $1,250,000 FOR PAYMENT        
+  82   82 4 TO SHIPOWNERS FOR THE COST OF DESIGNING TWO SUPERLINERS.          
+  83   83 1                              HR7349    JUNE 18, 1959              
+  83   83 2 S861083       Y=89 N=04                                           
+  83   83 3 HR. 7349.  PASSAGE                                                
+  84   84 1                              HR7453    JUNE 18, 1959              
+  84   84 2 S861084       Y=92 N=01                                           
+  84   84 3 HR. 7453.  APPROPRIATE $128,797,380 FOR CONGRESS AND RELATED      
+  84   84 4 AGENCIES IN 1960.                                                 
+  85   85 1                              SRE       JUNE 19, 1959              
+  85   85 2 S861085       Y=46 N=49                                           
+  85   85 3 NOMINATION OF LEWIS STRAUSS AS SECRETARY OF COMMERCE.             
+  86   86 1                              S57       JUNE 22, 1959              
+  86   86 2 S861086       Y=56 N=31                                           
+  86   86 3 S. 57.  HOUSING ACT OF 1959, AUTHORIZING $1.4 BILLION FOR         
+  86   86 4 VARIOUS PROGRAMS, INCLUDING PUBLIC HOUSING & URBAN RENEWAL.       
+  86   86 5 ADOPTION OF CONFERENCE REPORT.                                    
+  87   87 1                              S1968     JUNE 22, 1959              
+  87   87 2 S861087       Y=44 N=40                                           
+  87   87 3 S. 1968.  BILL TO PROVIDE NEW WHEAT PROGRAM FOR 1960 & 1961       
+  87   87 4 CROPS.  JOHNSON MOTION TO ACCEPT THE HOUSE VERSION.               
+  88   88 1                              HR7343    JUNE 23, 1959              
+  88   88 2 S861088       Y=15 N=74                JAVITS, NY                 
+  88   88 3 HR. 7343.  APPROPRIATE $645,668,200 FOR THE DEPTS. OF             
+  88   88 4 STATE & JUSTICE AND THE JUDICIARY.  JAVITS AMEND.                 
+  88   88 5 TO INCREASE BY $500,000 PAYMENTS TO THE USIA MEDIA                
+  88   88 6 GUARANTY FUND.                                                    
+  89   89 1                              HR7343    JUNE 23, 1959              
+  89   89 2 S861089       Y=90 N=00                                           
+  89   89 3 HR. 7343.  PASSAGE                                                
+  90   90 1                              HR7040    JUNE 23, 1959              
+  90   90 2 S861090       Y=89 N=01                                           
+  90   90 3 HR. 7040.  APPROPRIATE $6,559,348,600 IN FISCAL                   
+  90   90 4 1960 FOR 16 INDEPENDENT FEDERAL AGENCIES AND THE OFFICE           
+  90   90 5 OF CIVIL & DEFENSE MOBILIZATION                                   
+  91   91 1                              HR6769    JUNE 24, 1959              
+  91   91 2 S861091       Y=26 N=70                DIRKSEN, ILL               
+  91   91 3 HR. 6769.  APPROPRIATE $4,056,746,581 FOR DEPTS OF LABOR &        
+  91   91 4 HEW.  DIRKSEN MOTION TO RECOMMIT TO APPROPRIATIONS COMM.          
+  91   91 5 W/INSTRUCTIONS TO REPORT BACK WITH TOTAL NOT                      
+  91   91 6 EXCEEDING THE $3,691,685,581 BUDGET REQUEST                       
+  92   92 1                              HR6769    JUNE 24, 1959              
+  92   92 2 S861092       Y=84 N=10                                           
+  92   92 3 HR. 6769.  PASSAGE.                                               
+  93   93 1                              HR7176    JUNE 24, 1959              
+  93   93 2 S861093       Y=05 N=75                DOUGLAS, ILL               
+  93   93 3 HR. 7176.  APPROPRIATE $13,568,500 FOR THE EX. OFFICE.            
+  93   93 4 DOUGLAS AMEND TO REDUCE SALARIES & EXPENSES APPROPRIATIONS        
+  93   93 5 FOR THE WHO AND BUREAU OF THE BUDGET BY $300,000.                 
+  94   94 1                              HR7176    JUNE 24, 1959              
+  94   94 2 S861094       Y=79 N=02                                           
+  94   94 3 HR. 7176.  PASSAGE.                                               
+  95   95 1                              HR7523    JUNE 25, 1959              
+  95   95 2 S861095       Y=47 N=31                MCCARTHY, MINN             
+  95   95 3 HR. 7523.  TAX RATE EXTENSION ACT OF 1959, EXTENDING              
+  95   95 4 FOR ADDITIONAL YEAR CORPORATE & CERTAIN EXCISE TAX RATES.         
+  95   95 5 MCCARTHY AMEND TO REPEAL THE 4% TAX CREDIT ON DIVIDEND            
+  95   95 6 INCOME.                                                           
+  96   96 1                              HR7523    JUNE 25, 1959              
+  96   96 2 S861096       Y=34 N=44                CLARK, PA                  
+  96   96 3 HR. 7523.  CLARK AMEND. TO DENY DEDUCTION FOR CERTAIN ENTER-      
+  96   96 4 TAINMENT, GIFT, & TRAVEL EXPENSES.                                
+  97   97 1                              HR7523    JUNE 25, 1959              
+  97   97 2 S861097       Y=52 N=26                SMATHERS, FLA              
+  97   97 3 HR. 7523.  SMATHERS MOTION TO TABLE MOTION TO RECONSIDER          
+  97   97 4 THE VOICE VOTE BY WHICH THE COMMITTEE AMENDMENT REPEALING         
+  97   97 5 THE 10% TRANSPORTATION TAX WAS AGREED TO.                         
+  98   98 1                              HR7523    JUNE 25, 1959              
+  98   98 2 S861098       Y=21 N=54                DOUGLAS, ILL               
+  98   98 3 HR. 7523.  DOUGLAS AMEND. TO REDUCE, ON A GRADUATED SCALE,        
+  98   98 4 DEPLETION ALLOWANCE ON OIL AND GAS WELLS.                         
+  99   99 1                              HR7523    JUNE 25, 1959              
+  99   99 2 S861099       Y=42 N=36                LONG, LA                   
+  99   99 3 HR. 7523.  LONG AMEND TO INCREASE FEDERAL PUBLIC ASSISTANCE       
+  99   99 4 PAYMENTS TO THE STATES.                                           
+ 100  100 1                              HR7523    JUNE 25, 1959              
+ 100  100 2 S861100       Y=33 N=46                NEUBERGER, ORE             
+ 100  100 3 HR. 7523.  NEUBERGER AMEND. TO INCREASE BY 1 AND 1/2              
+ 100  100 4 CENTS PER GALLON THE FEDERAL EXCISE TAX ON MOTOR FUELS.           
+ 101  101 1                              HR7523    JUNE 25, 1959              
+ 101  101 2 S861101       Y=32 N=47                GORE, TENN                 
+ 101  101 3 HR. 7523.  GORE AMEND. TO DIVERT FROM THE GENERAL                 
+ 101  101 4 REVENUES TO THE HIGHWAY TRUST FUND CERTAIN PERCENTAGES OF         
+ 101  101 5 THE TAXES ON SALES OF TRUCKS, BUSES, AUTOMOBILES,                 
+ 101  101 6 LUBRICATING OIL, AND AUTOMOBILE PARTS.                            
+ 102  102 1                              HR7523    JUNE 25, 1959              
+ 102  102 2 S861102       Y=79 N=00                                           
+ 102  102 3 HR. 7523.  PASSAGE.                                               
+ 103  103 1                              HR7523    JUNE 29, 1959              
+ 103  103 2 S861103       Y=57 N=35                                           
+ 103  103 3 HR.  7523.  ADOPTION OF THE CONFERENCE REPORT.                    
+ 104  104 1                              HR5674    JUNE 30, 1959              
+ 104  104 2 S861104       Y=89 N=03                                           
+ 104  104 3 HR. 5674.  AUTHORIZE $1,211,480,000 FOR MILITARY                  
+ 104  104 4 CONSTRUCTION.  PASSAGE.                                           
+ 105  105 1                              S1451     JULY 01, 1959              
+ 105  105 2 S861105       Y=42 N=48                AIKEN, VT                  
+ 105  105 3 S. 1451.  MUTUAL SECURITY ACT OF 1959.  AIKEN MOTION TO           
+ 105  105 4 TABLE CASE APPEAL FROM A RULING THAY THE FOREING RELATIONS        
+ 105  105 5 COMMITTEE'S PROVISION FOR FINANCING THE DEVELOPMENT               
+ 105  105 6 LOAN FUND BY TREASURY BORROWING WAS PERMISSIBLE UNDER SENATE      
+ 105  105 7 RULES.                                                            
+ 106  106 1                              S1451     JULY 02, 1959              
+ 106  106 2 S861106       Y=39 N=44                JOHNSTON, S.C.             
+ 106  106 3 S. 1451.  JOHNSTON (S.C.) AMEND. TO PROHIBIT AID TO ANY           
+ 106  106 4 COUNTRY THAT EXPROPRIATES U.S. - OWNED PROPERTY W/OUT             
+ 106  106 5 ADEQUATE COMPENSATION.                                            
+ 107  107 1                              S1451     JULY 02, 1959              
+ 107  107 2 S861107       Y=30 N=50                ELLENDER, LA               
+ 107  107 3 S9 1451.  ELLENDER AMEND. TO AUTHORIZE APPROPRIATION OF           
+ 107  107 4 $700 MILLION FOR THE DEVELOPMENT LOAN FUND.                       
+ 108  108 1                              S1451     JULY 07, 1959              
+ 108  108 2 S861108       Y=38 N=55                ELLENDER, LA               
+ 108  108 3 S. 1451.  ELENDER AMEND. TO REDUCE MILITARY ASSISTANCE            
+ 108  108 4 AUTHORIZATION FROM $1,600,000,000 TO $1,050,000,000.              
+ 109  109 1                              S1451     JULY 07, 1959              
+ 109  109 2 S861109       Y=52 N=41                ELLENDER, LA               
+ 109  109 3 S. 1451.  ELLENDER AMENDMENT TO REDUCE MILITARY ASSISTANCE        
+ 109  109 4 AUTHORIZATION TO $1.3 BILLION                                     
+ 110  110 1                              S1451     JULY 07, 1959              
+ 110  110 2 S861110       Y=40 N=53                ELLENDER, LA               
+ 110  110 3 S. 1451.  ELLENDER AMEND. TO REDUCE DEFENSE SUPPORT               
+ 110  110 4 AUTHORIZATION FROM $835 MILLION TO $600 MILLION.                  
+ 111  111 1                              S1451     JULY 07, 1959              
+ 111  111 2 S861111       Y=56 N=37                DODD, CONN                 
+ 111  111 3 S. 1451.  DODD AMEND. PROVIDING THAT APPROPRIATIONS FOR           
+ 111  111 4 MILITARY ASSISTANCE BE INCLUDED IN THE REGULAR DEFENSE            
+ 111  111 5 DEPT. BUDGET.                                                     
+ 112  112 1                              S1451     JULY 07, 1959              
+ 112  112 2 S861112       Y=37 N=53                GRUENING, ALASKA           
+ 112  112 3 S. 1451.  GRUENING AMEND. REQUIRING THAT DETAILED BUDGETS         
+ 112  112 4 ON A COUNTRY-BY COUNTRY BASIS BE SUBMITTED TO THE                 
+ 112  112 5 CONGRESSIONAL COMMITTEES CONCERNED.                               
+ 113  113 1                              S1451     JULY 07, 1959              
+ 113  113 2 S861113       Y=49 N=43                CHURCH, IDAHO              
+ 113  113 3 S. 1451.  CHURCH AMEND. TO REDUCE DEFENSE SUPPORT                 
+ 113  113 4 AUTHORIZATION FROM $835 MILLION TO $751.5 MILLION.                
+ 114  114 1                              S1451     JULY 08, 1959              
+ 114  114 2 S861114       Y=40 N=51                MORSE, ORE                 
+ 114  114 3 S. 1451.  MORSE AMEND. TO REDUCE SPECIAL ASSISTANCE               
+ 114  114 4 AUTHORIZATION FROM $244,620,00 TO $200 MILLION.                   
+ 115  115 1                              S1451     JULY 08, 1959              
+ 115  115 2 S861115       Y=38 N=52                ELLENDER, LA               
+ 115  115 3 S. 1451.  ELLENDER AMEND. TO REDUCE AUTHORIZATION FOR THE         
+ 115  115 4 PRESIDENT'S CONTINGENCY FUND FROM $180 MILLION TO $150            
+ 115  115 5 MILLION.                                                          
+ 116  116 1                              S1451     JULY 08, 1959              
+ 116  116 2 S861116       Y=59 N=32                BRIDGES, NH                
+ 116  116 3 S. 1451.  BRIDGES-JOHNSTON AMEND. TO SUSPEND AID TO ANY           
+ 116  116 4 COUNTRY DETERMINED TO BE EXPROPRIATING U.S.-OWNED                 
+ 116  116 5 PROPERTY WITHOUT ADEQUATE COMPENSATION.                           
+ 117  117 1                              S1451     JULY 08, 1959              
+ 117  117 2 S861117       Y=43 N=47                MORSE, ORE                 
+ 117  117 3 S. 1451.  MORSE AMEND. BARRING AID TO COUNTRIES WHICH             
+ 117  117 4 PRACTICE RACIAL OR RELIGIOUS DISCRIMINATION AGAINST               
+ 117  117 5 AMERICANS                                                         
+ 118  118 1                              HR7500    JULY 08, 1959              
+ 118  118 2 S861118       Y=65 N=26                                           
+ 118  118 3 HR. 7500.  SENATE-AMENDED VERSION OF HOUSE'S MUTUAL               
+ 118  118 4 SECURITY ACT.  PASSAGE.                                           
+ 119  119 1                              HR3460    JULY 09, 1959              
+ 119  119 2 S861119       Y=17 N=73                COTTON, NH                 
+ 119  119 3 HR. 3460.  AUTHORIZE TVA TO ISSUE UP TO $750 MILLION              
+ 119  119 4 WORTH OF REVENUE BONDS TO FINANCE NEW POWER FACILITIES.           
+ 119  119 5 COTTON MOTION TO RECOMMIT TO PUBLIC WORKS COMMITTEE.              
+ 120  120 1                              HR7509    JULY 09, 1959              
+ 120  120 2 S861120       Y=17 N=72                WILLIAMS, DEL              
+ 120  120 3 HR. 7509.  FISCAL 1960 PUBLIC WORKS BILL, APPROPRIATING           
+ 120  120 4 $1,256,836,300 FOR ARMY ENGINEERS, INTERIOR DEPT. RECLAMA-        
+ 120  120 5 TION BUREAU AND TVA.  WILLIAMS MOTION TO RECOMMIT WITH            
+ 120  120 6 INSTRUCTIONS TO REDUCE TO TOTAL RECOMMENDED IN PRESIDENT'S        
+ 120  120 7 BUDGET.                                                           
+ 121  121 1                              HR7509    JULY 09, 1959              
+ 121  121 2 S861121       Y=82 N=07                                           
+ 121  121 3 HR. 7509.  PASSAGE.                                               
+ 122  122 1                              HR7454    JULY 13, 1959              
+ 122  122 2 S861122       Y=43 N=48                SYMINGTON, MO              
+ 122  122 3 HR. 7454.  DEPT. OF DEFENSE APPROPRIATION BILL:  SYMINGTON        
+ 122  122 4 AMEND TO INCREASE ARMY PROCUREMENT FUNDS & DESIGNATE $453         
+ 122  122 5 MILLION OF THE TOTAL FOR MODERNIZING ARMY COMBAT                  
+ 122  122 6 EQUIPMENT.                                                        
+ 123  123 1                              HR7454    JULY 14, 1959              
+ 123  123 2 S861123       Y=46 N=46                THURMOND, SC               
+ 123  123 3 HR. 7454.  THURMOND AMEND. TO REDUCE FUNDS FOR MILITARY AIR       
+ 123  123 4 TRANSPORT SERVICE & TO HIRE SUPPLEMENTARY COMMERCIAL              
+ 123  123 5 AIR CARRIERS.                                                     
+ 124  124 1                              HR7454    JULY 14, 1959              
+ 124  124 2 S861124       Y=90 N=00                                           
+ 124  124 3 HR. 7454.  PASSAGE.                                               
+ 125  125 1                              S1681     JULY 15, 1959              
+ 125  125 2 S861125       Y=15 N=80                                           
+ 125  125 3 S. 1681.  PROVIDE ELECTED MAYOR, CITY COUNCIL & NON-              
+ 125  125 4 VOTING DELEGATE TO THE HOUSE FOR THE D.C. CASE (S.D.) AMEND.      
+ 125  125 5 TO SUBSTITUTE FOR THE BILL A PROPOSED CONSTITUTIONAL              
+ 125  125 6 AMEND.                                                            
+ 126  126 1                              SRE       JULY 15, 1959              
+ 126  126 2 S861126       Y=92 N=01                                           
+ 126  126 3 INTERNATIONAL WHEAT AGREEMENT PROVIDING FOR US PARTICIPATION      
+ 126  126 4 IN A THREE-YEAR EXTENSION OF THE INTERNATIONAL WHEAT              
+ 126  126 5 AGREEMENT.                                                        
+ 127  127 1                              S1928     JULY 15, 1959              
+ 127  127 2 S861127       Y=89 N=03                                           
+ 127  127 3 S. 1928.  PROVIDE FOR US PARTICIPATION IN INTER-AMERICAN          
+ 127  127 4 DEVELOPMENT BANK & AUTHORIZE APPROPRIATION OF $450 MILLION.       
+ 128  128 1                              S2162     JULY 16, 1959              
+ 128  128 2 S861128       Y=81 N=04                                           
+ 128  128 3 S. 2162.  PROVIDE COMPREHENSIVE HEALTH INSURANCE PLAN             
+ 128  128 4 FOR CIVILIAN EMPLOYEES OF FED. GOV'T.                             
+ 129  129 1                              S1138     JULY 21, 1959              
+ 129  129 2 S861129       Y=49 N=39                LONG, LA                   
+ 129  129 3 S. 1138.  ESTABLISH PROGRAM OF READJUSTMENT ASSISTANCE FOR        
+ 129  129 4 VETERANS ENTERING ARMED SERVICES BETWEEN FEB. 1, 1955 AND         
+ 129  129 5 JULY 1, 1963.  LONG AMEND. PROVIDING GRANT PROGRAM FOR            
+ 129  129 6 COLLEGE AND NON-COLLEGE TRAINING.                                 
+ 130  130 1                              S1138     JULY 21, 1959              
+ 130  130 2 S861130       Y=57 N=31                                           
+ 130  130 3 S. 1138.  PASSAGE.                                                
+ 131  131 1                              SRE       JULY 21, 1959              
+ 131  131 2 S861131       Y=85 N=02                                           
+ 131  131 3 INTERNATIONAL SUGAR AGREEMENT PROVIDING FOR U.S.                  
+ 131  131 4 PARTICIPATION IN INTERNATIONAL SUGAR AGREEMENT.                   
+ 132  132 1                              S819      JULY 23, 1959              
+ 132  132 2 S861132       Y=39 N=54                DIRKSEN, ILL               
+ 132  132 3 S. 819.  AMEND NDEA OF 1958 BY ELIMINATING LOYALTY OATH           
+ 132  132 4 REQUIREMENT.  DIRKSEN MOTION TO TABLE JAVITS AMEND.               
+ 132  132 5 REQUIRING STUDENTS TO  TAKE OATHS OF ALLEGIANCE BUT NOT           
+ 132  132 6 TO FILE AFFIDAVITS THAT THEY DID NOT SUPPORT SUBVERSIVE           
+ 132  132 7 ORGANIZATIONS.                                                    
+ 133  133 1                              S819      JULY 23, 1959              
+ 133  133 2 S861133       Y=46 N=45                JAVITS, NY                 
+ 133  133 3 S. 819.  JAVITS LOYALTY OATH AMEND.                               
+ 134  134 1                              S819      JULY 23, 1959              
+ 134  134 2 S861134       Y=50 N=42                BUSH, CONN                 
+ 134  134 3 S. 819.  BUSH MOTION TO TABLE JAVITS MOTION TO                    
+ 134  134 4 RECONSIDER VOTE ON JAVITS AMEND.                                  
+ 135  135 1                              S819      JULY 23, 1959              
+ 135  135 2 S861135       Y=49 N=42                LONG, LA                   
+ 135  135 3 S. 819.  LONG MOTION TO RECOMMIT.                                 
+ 136  136 1                              HR6596    JULY 27, 1959              
+ 136  136 2 S861136       Y=27 N=56                ALLOTT, COLO               
+ 136  136 3 HR. 6596.  ESTABLISH COAL RESEARCH & DEVELOPMENT                  
+ 136  136 4 COMMISSION.  ALLOTT AMEND TO HAVE RESEARCH PROGRAM CONDUCTED      
+ 136  136 5 BY BUREAU OF MINES RATHER THAN PROPOSED INDEPENDENT               
+ 136  136 6 COMMISSION.                                                       
+ 137  137 1                              S690      JULY 27, 1959              
+ 137  137 2 S861137       Y=76 N=07                                           
+ 137  137 3 S. 690.  ESTABLISH AGRICULTURAL RESEARCH & INDUSTRIAL             
+ 137  137 4 ADMINISTRATION IN THE DEPARTMENT OF AGRICULTURE.                  
+ 138  138 1                              S107      JULY 28, 1959              
+ 138  138 2 S861138       Y=48 N=41                                           
+ 138  138 3 S. 107.  AMEND. MERCHANT MARINE ACT OF 1936 TO INCLUDE            
+ 138  138 4 FLOATING DRYDOCKS IN LIST OF VESSELS ELIGIBLE FOR FED. SHIP       
+ 138  138 5 MORTGAGE INSURANCE.                                               
+ 139  139 1                              S716      JULY 29, 1959              
+ 139  139 2 S861139       Y=61 N=27                DIRKSEN, ILL               
+ 139  139 3 S. 716.  AUTHORIZE ATTY. GEN . TO COMPEL BUSINESSES TO            
+ 139  139 4 PRODUCE DOCUMENTARY EVIDENCE REQUIRED IN THE INVESTIGATION        
+ 139  139 5 OF CIVIL ANTITRUST SUITS.  DIRKSEN AMEND. AUTHORIZING OWNER       
+ 139  139 6 OF DOCUMENTS TO SEEK A DISTRICT COURT ORDER TO PROHIBIT           
+ 139  139 7 OR LIMIT EXAMINATION OF PRIVILEGED MATERIAL BY AN ANTITRUST       
+ 139  139 8 AGENCY OTHER THAN JUSTICE DEPT. OR CONGRESSIONAL COMMITTEES.      
+ 140  140 1                              HR7040    JULY 30, 1959              
+ 140  140 2 S861140       Y=12 N=71                YOUNG, ND                  
+ 140  140 3 HR. 7040.  INDEPENDENT OFFICES APPROPRIATIONS;  ADOPTION          
+ 140  140 4 OF CONFERENCE REPORT.  YOUNG MOTION THAT SENATE RECEDE            
+ 140  140 5 FROM ITS AMEND. TO INCREASE HOUSE-APPROVED FUNDS FOR FED.         
+ 140  140 6 CONTRIBUTIONS TO THE STATES FOR CIVIL DEFENSE PROGRAM.            
+ 141  141 1                              HR7040    JULY 30, 1959              
+ 141  141 2 S861141       Y=76 N=08                MAGNUSON, WASH             
+ 141  141 3 HR. 7040.  MAGNUSON MOTION THAT SENATE INSIST ON ITS              
+ 141  141 4 AMEND.  AND REQUEST FURTHER CONFERENCE WITH THE HOUSE.            
+ 142  142 1                              HR5674    JULY 30, 1959              
+ 142  142 2 S861142       Y=85 N=00                                           
+ 142  142 3 HR. 5674.  AUTHORIZE $1,225,475 FOR MILITARY CONSTRUCTION IN      
+ 143  143 1                              HR6769    JULY 30, 1959              
+ 143  143 2 S861143       Y=69 N=14                                           
+ 143  143 3 HR. 6769.  APPROPRIATE $3,950,933,981 FOR DEPTS                   
+ 143  143 4 LABOR & HEW.  ADOPTION OF CONFERENCE REPORT.                      
+ 144  144 1                              SRE       JULY 30, 1959              
+ 144  144 2 S861144       Y=83 N=00                                           
+ 144  144 3 EXEC. C, 86TH CONG., 1ST SESS.  PROTOCOL AMENDING THE 1944        
+ 144  144 4 CONVENTION ON INTER-AMERICAN INSTITUTE OF AGRICULTURAL            
+ 144  144 5 SCIENCES TO REVISE FINANCING OF THE INSTITUTE & PLADE             
+ 144  144 6 MORE AGRICULTURAL EXPERTS ON ITS BOARD OF DIRECTORS.              
+ 145  145 1                              SRE       JULY 30, 1959              
+ 145  145 2 S861145       Y=81 N=00                                           
+ 145  145 3 EXEC. F, 86TH CONG., 1ST SESS.  PROTOCOL SUPPLEMENTING            
+ 145  145 4 1928 CONVENTION ON DUTIES & RIGHTS OF STATES IN THE EVENT         
+ 145  145 5 OF CIVIL STRIFE TO STRENGTHEN PROVISIONS OBLIGATING               
+ 145  145 6 EACH PARTICIPANT TO PREVENT USE OF ITS TERRITORY FOR THE          
+ 145  145 7 FORMENTING OF CIVIL STRIFE IN ANOTHER COUNTRY.                    
+ 146  146 1                              HR7978    AUG. 03, 1959              
+ 146  146 2 S861146       Y=79 N=00                                           
+ 146  146 3 HR. 7978.  FISCAL 1960 SUPPLEMENTAL APPROPRIATIONS  BILL,         
+ 146  146 4 APPROPRIATING $1,076,186,108 FOR VARIOUS FED. DEPTS. &            
+ 146  146 5 AGENCIES.                                                         
+ 147  147 1                              HR8283    AUG. 03, 1959              
+ 147  147 2 S861147       Y=79 N=00                                           
+ 147  147 3 HR. 8283.  APPROPRIATE $2,680,414,000 FOR THE AEC.                
+ 148  148 1                              HR7454    AUG. 04, 1959              
+ 148  148 2 S861148       Y=85 N=00                                           
+ 148  148 3 HR. 7454.  APPROPRIATE $39,228,239,000 FOR DEPT. OF DEFENSE.      
+ 148  148 4 ADOPTION OF CONFERENCE REPORT.                                    
+ 149  149 1                              HR6940    AUG. 04, 1959              
+ 149  149 2 S861149       Y=32 N=55                ALLOTT, COLO               
+ 149  149 3 HR. 6940.  INCREASE ACREAGE LIMITATIONS ON OIL AND GAS            
+ 149  149 4 LEASES IN ALASKA.  ALLOTT MOTION TO RECOMMIT.                     
+ 150  150 1                              S57       AUG. 12, 1959              
+ 150  150 2 S861150       Y=55 N=40                                           
+ 150  150 3 S. 57.  HOUSING ACT OF 1959.  PASSAGE OVER PRESIDENT'S            
+ 150  150 4 VETO.  FAILED.                                                    
+ 151  151 1                              S747      AUG. 12, 1959              
+ 151  151 2 S861151       Y=13 N=83                MORSE, ORE                 
+ 151  151 3 S. 747.  TRANSFER 2,500 ACRES HELD BY ARMY AS PART OF JOLIET      
+ 151  151 4 ARSENAL TO THE STATE OF ILLINOIS FOR $286,638 FOR                 
+ 151  151 5 RECREATION & WILDLIFE CONSERVATION USE.                           
+ 151  151 6 MORSE MOTION TO RECOMMIT TO GOVERNMENT OPERATIONS                 
+ 151  151 7 COMMITTEE FOR ONE WEEK.                                           
+ 152  152 1                              SRE       AUG. 12, 1959              
+ 152  152 2 S861152       Y=93 N=00                                           
+ 152  152 3 EXEC. G, 86TH CONG., 1ST SESS.; EXEC. D, 85TH CONG.,              
+ 152  152 4 1ST SESS.  EXEC. G, TREATY ON TELEGRAPH REGULATIONS.              
+ 152  152 5 EXEC. D, TAX TREATY WITH NORWAY.                                  
+ 153  153 1                              S812      AUG. 13, 1959              
+ 153  153 2 S861153       Y=47 N=45                                           
+ 153  153 3 S. 812.  CREATE 15,000-MEMBER FED. YOUTH CONSERVATION             
+ 153  153 4 CORPS TO WORK ON FED. & STATE CONSERVATION                        
+ 153  153 5 PROJECTS.                                                         
+ 154  154 1                              HR7650    AUG. 13, 1959              
+ 154  154 2 S861154       Y=75 N=20                KERR, OKLA                 
+ 154  154 3 HR. 7650.  VETERANS' PENSION ACT OF 1959:  KERR AMEND. TO         
+ 154  154 4 DELETE SEVERAL CUTS MADE BY FINANCE COMM.  AND INSERT MORE        
+ 154  154 5 LIBERAL HOUSE PROVISIONS.                                         
+ 155  155 1                              HR7650    AUG. 13, 1959              
+ 155  155 2 S861155       Y=14 N=79                MORSE, ORE                 
+ 155  155 3 HR. 7650.  MORSE AMEND. PROVIDING FLAT PAYMENTS OF $75            
+ 155  155 4 & $90 MONTHLY TO WW I VETERANS IN LIEU OF SLIDING SCALE           
+ 155  155 5 BENEFITS PROVIDED IN THE BILL.                                    
+ 156  156 1                              HR7650    AUG. 13, 1959              
+ 156  156 2 S861156       Y=86 N=06                                           
+ 156  156 3 HR. 7650.  PASSAGE.                                               
+ 157  157 1                              HR7509    AUG. 17, 1959              
+ 157  157 2 S861157       Y=82 N=09                                           
+ 157  157 3 HR. 7509.  PUBLIC WORKS BILL, APPROPRIATING $1,206,748,549        
+ 157  157 4 FOR THE ARMY ENGINEERS, INTERIOR DEPT. RECLAMATION BUREAU         
+ 157  157 5 AND TVA.  ADOPTION OF CONFERENCE REPORT.                          
+ 158  158 1                              S2539     AUG. 17, 1959              
+ 158  158 2 S861158       Y=40 N=53                ROBERTSON, VA              
+ 158  158 3 S. 2539.  HOUSING ACT OF 1959.  ROBERTSON AMEND. TO               
+ 158  158 4 ELIMNATE $50 MILLION COLLEGE LOAN FUND FOR CONSTRUCTION           
+ 158  158 5 OF NON-DORM FACILITIES.                                           
+ 159  159 1                              S2539     AUG. 17, 1959              
+ 159  159 2 S861159       Y=41 N=53                BUSH, CONN                 
+ 159  159 3 S. 2539.  BUSH AMEND. TO ELIMINATE CLASSROOM CONSTRUCTION         
+ 159  159 4 PROGRAM & ADD THE $50 MILLION TO THE AUTHORIZATION FOR            
+ 159  159 5 COLLEGE HOUSING LOANS.                                            
+ 160  160 1                              S2539     AUG. 17, 1959              
+ 160  160 2 S861160       Y=37 N=56                BENNETT, UTAH              
+ 160  160 3 S. 2539.  BENNETT AMEND. TO EXTEND FHA'S GENERAL MORTGAGE         
+ 160  160 4 INSURANCE AUTHORIZATION TO OCT. 1, 1961 INSTEAD OF OCT. 1,        
+ 160  160 5 1960.                                                             
+ 161  161 1                              S2539     AUG. 17, 1959              
+ 161  161 2 S861161       Y=40 N=51                FREAR, DEL                 
+ 161  161 3 S. 2539.  FREAR AMEND. TO REDUCE PUBLIC HOUSING UNITS             
+ 161  161 4 AUTHORIZED IN THE BILL.                                           
+ 162  162 1                              S2539     AUG. 18, 1959              
+ 162  162 2 S861162       Y=56 N=39                BENNETT, UTAH              
+ 162  162 3 S. 2539.  BENNETT AMEND. ELIMINATING SECTION REQUIRING            
+ 162  162 4 DEFENSE DEPT. TO BUY UP WHERRY RENTAL HOUSING FOR THE             
+ 162  162 5 MILITARY WHERE THERE IS NO CAPEHART MILITARY HOUSING.             
+ 163  163 1                              S2539     AUG. 18, 1959              
+ 163  163 2 S861163       Y=28 N=67                BENNETT, UTAH              
+ 163  163 3 S.2539.  BENNETT AMEND. TO RECOMMIT.                              
+ 164  164 1                              S2539     AUG. 18, 1959              
+ 164  164 2 S861164       Y=71 N=24                                           
+ 164  164 3 S. 2539.  PASSAGE.                                                
+ 165  165 1                              S2524     AUG. 19, 1959              
+ 165  165 2 S861165       Y=46 N=47                KERR, OKLA                 
+ 165  165 3 S. 2524.  PROVIDE CERTAIN EXCEPTIONS TO STATE TAXATION OF         
+ 165  165 4 INTERSTATE COMMERCE & ESTABLISH A COMMISSION ON                   
+ 165  165 5 INTER-GOVERNMENTAL TAXATION PROBLEMS.  KERR MOTION TO TABLE       
+ 165  165 6 GORE AMEND. PROVIDING FOR A STUDY BY SENATE FINANCE COMM.         
+ 165  165 7 RATHER THAN BY THE COMMISSION.                                    
+ 166  166 1                              S2524     AUG. 19, 1959              
+ 166  166 2 S861166       Y=48 N=46                DIRKSEN, ILL               
+ 166  166 3 S. 2524.  DIRKSON MOTION TO RECONSIDER VOTE ON KERR               
+ 166  166 4 TABLING MOTION.                                                   
+ 167  167 1                              S2524     AUG. 19, 1959              
+ 167  167 2 S861167       Y=49 N=45                                           
+ 167  167 3 S. 2524.  RECONSIDERATION OF KERR MOTION.                         
+ 168  168 1                              S2524     AUG. 20, 1959              
+ 168  168 2 S861168       Y=65 N=29                TALMADGE, GA               
+ 168  168 3 S. 2524.  TALMADGE AMEND. ELIMINATING TAX EXEMPTION               
+ 168  168 4 FOR BUSINESSES WHICH MAINTAIN OFFICES SOLELY FOR SALESMEN         
+ 168  168 5 WHO SEND ORDERS TO BE FILLED OUTSIDE OF THE STATE.                
+ 169  169 1                              S2524     AUG. 20, 1959              
+ 169  169 2 S861169       Y=31 N=62                MCCARTHY, MINN             
+ 169  169 3 S. 2524.  MCCARTHY AMEND. TO ELIMINATE ALL LANGUAGE               
+ 169  169 4 PROVIDING TAX EXEMPTIONS, LEAVING ONLY THAT ESTABLISHING          
+ 169  169 5 THE COMMISSION.                                                   
+ 170  170 1                              S2524     AUG. 20, 1959              
+ 170  170 2 S861170       Y=37 N=57                SPARKMAN, ALA              
+ 170  170 3 S. 2524.  SPARKMAN AMEND. TO LIMIT THE EFFECTIVENESS              
+ 170  170 4 OF THE ACT TO TAXABLE YEARS BEGINNING BEFORE JULY 1, 1962.        
+ 171  171 1                              S2524     AUG. 20, 1959              
+ 171  171 2 S861171       Y=32 N=62                CARROLL, COLO              
+ 171  171 3 S. 2524.  CARROLL MOTION TO POSTPONE FURTHER ACTION UNTIL         
+ 171  171 4 MARCH 1, 1960.                                                    
+ 172  172 1                              SRE130    AUG. 20, 1959              
+ 172  172 2 S861172       Y=51 N=38                JOHNSON, TEXAS             
+ 172  172 3 S. RES. 130.  EXPRESSING DISAPPROVAL OF PRESIDENT'S               
+ 172  172 4 PROPOSAL TO REDUCE BUDGET EXPENDITURES BY $335 MILLION            
+ 172  172 5 THROUGH AN EXCHANGE OF FED. NATIONAL MORTGAGE ASSN.               
+ 172  172 6 MORTGAGES FOR LONG-TERM GOV'T BONDS HELD BY PRIVATE               
+ 172  172 7 OWNERS.  JOHNSON MOTION TO TABLE DIRKSEN MOTION TO RECOMMIT       
+ 172  172 8 THE RESOLUTION.                                                   
+ 173  173 1                              SRE130    AUG. 20, 1959              
+ 173  173 2 S861173       Y=34 N=54                DIRKSEN, ILL               
+ 173  173 3 S. RES. 130.  DIRKSEN MOTION TO TABLE.                            
+ 174  174 1                              SRE130    AUG. 20, 1959              
+ 174  174 2 S861174       Y=33 N=55                BENNETT, UTAH              
+ 174  174 3 S. RES. 130.  BENNETT MOTION TO POSTPONE FURTHER                  
+ 174  174 4 CONSIDERATION UNTIL FEB. 15, 1960.                                
+ 175  175 1                              SRE130    AUG. 20, 1959              
+ 175  175 2 S861175       Y=88 N=00                GORE, TENN                 
+ 175  175 3 S. RES. 130.  GORE AMEND. EXPRESSING SENSE OF SENATE ON           
+ 175  175 4 GOV'T'S OBLIGATIONS IN MANAGEMENT & LIQUIDATION OF                
+ 175  175 5 FNMA'S PORTFOLIO.                                                 
+ 176  176 1                              SRE130    AUG. 20, 1959              
+ 176  176 2 S861176       Y=33 N=55                SALTONSTALL, MASS          
+ 176  176 3 S. RES. 130.  SALTONSTALL AMEND. TO ELIMINATE ORIGINAL            
+ 176  176 4 LANGUAGE OF S. RES. 130 & RETAIN ONLY GORE AMEND.                 
+ 177  177 1                              SRE130    AUG. 20, 1959              
+ 177  177 2 S861177       Y=56 N=29                                           
+ 177  177 3 S. RES. 130.  ADOPTION.                                           
+ 178  178 1                              HR8575    AUG. 21, 1959              
+ 178  178 2 S861178       Y=89 N=00                                           
+ 178  178 3 HR. 8575.  APPROPRIATE $1,428,178,700 IS FISCAL 1960              
+ 178  178 4 FOR CONSTRUCTION AT MILITARY INSTALLATIONS IN U.S. AND            
+ 178  178 5 ABROAD.                                                           
+ 179  179 1                              HR2411    AUG. 25, 1959              
+ 179  179 2 S861179       Y=64 N=23                YARBOROUGH, TEXAS          
+ 179  179 3 HR. 2411.  PERMIT DUTY-FREE IMPORTS OF TOURIST                    
+ 179  179 4 LITERATURE & CERTAIN WORKS OF ART.  YARBOROUGH AMEND.             
+ 179  179 5 TO DELETE FINANCE COMM. AMEND. INCREASING TARIFF                  
+ 179  179 6 RATE ON WOODEN MOLDINGS.                                          
+ 180  180 1                              HR1       AUG. 26, 1959              
+ 180  180 2 S861180       Y=66 N=21                MANSFIELD, MONT            
+ 180  180 3 HR. 1. AUTHORIZE FOR ONE YEAR THE DIVERSION OF ADDITIONAL         
+ 180  180 4 WATER FROM LAKE MICHIGAN INTO THE CHICAGO SANITARY CANAL          
+ 180  180 5 SYSTEM.  MANSFIELD MOTION TO TABLE LAUSCHE MOTION                 
+ 180  180 6 TO DEFER CONSIDERATION FOR ONE DAY.                               
+ 181  181 1                              HR1       AUG. 26, 1959              
+ 181  181 2 S861181       Y=72 N=19                MANSFIELD, MONT            
+ 181  181 3 HR. 1.  MANSFIELD MOTION TO PROCEED WITH CONSIDERATION.           
+ 182  182 1                              HR1       AUG. 28, 1959              
+ 182  182 2 S861182       Y=26 N=41                AIKEN, VT                  
+ 182  182 3 HR. 1.  AIKEN MOTION TO TABLE.                                    
+ 183  183 1                              PROC      AUG. 28, 1959              
+ 183  183 2 S861183       Y=   N=                  MANSFIELD, MONT            
+ 183  183 3 HR. 1.  MANSFIELD MOTION THAT THE SENATE RECESS UNTIL             
+ 183  183 4 10 A.M., AUG. 29, 1959.                                           
+ 184  184 1                              HR1       AUG. 31, 1959              
+ 184  184 2 S861184       Y=38 N=42                MANSFIELD, MONT            
+ 184  184 3 HR. 1.  MANSFIELD MOTION TO TABLE CASE (S.D.) MOTION TO           
+ 184  184 4 REFER HR. 1 TO FOREIGN RELATIONS COMMITTEE.                       
+ 185  185 1                              HR1       AUG. 31, 1959              
+ 185  185 2 S861185       Y=41 N=46                CASE, NJ                   
+ 185  185 3 HR. 1.  CASE MOTION TO REFER TO FOREIGN RELATIONS COMMITTEE       
+ 185  185 4 & REPORT BACK NOT LATER THAN APRIL 1, 1960.                       
+ 186  186 1                              HR1       SEPT. 02, 1959             
+ 186  186 2 S861186       Y=54 N=34                BUTLER, MD                 
+ 186  186 3 HR. 1.  BUTLER MOTION TO REFER TO  FOREIGN RELATIONS              
+ 186  186 4 COMMITTEE.                                                        
+ 187  187 1                              S1555     SEPT. 03, 1959             
+ 187  187 2 S861187       Y=95 N=02                                           
+ 187  187 3 S. 1555.  LABOR-MANAGEMENT REPORTING & DISCLOSURE ACT OF          
+ 187  187 4 1959.  ADOPTION OF THE CONFERENCE REPORT.                         
+ 188  188 1                              S2539     SEPT. 04, 1959             
+ 188  188 2 S861188       Y=58 N=36                                           
+ 188  188 3 S. 2539.  HOUSING ACT OF 1959.  PASSAGE OVER PRESIDENT'S          
+ 188  188 4 VETO.  FAILED.                                                    
+ 189  189 1                              S1748     SEPT. 04, 1959             
+ 189  189 2 S861189       Y=47 N=38                                           
+ 189  189 3 S. 1748.  EXTEND FOR ONE YEAR THE AGRICULTURAL TRADE              
+ 189  189 4 DEFELOPMENT & ASSISTANCE ACT.  AGRICULTURE AND FORESTRY           
+ 189  189 5 COMMITTEE AMEND. TO EXTEND FOR THREE YEARS TITLE I                
+ 189  189 6 AND III.                                                          
+ 190  190 1                              S1748     SEPT. 04, 1959             
+ 190  190 2 S861190       Y=39 N=48                HUMPHREY, MINN             
+ 190  190 3 S. 1748.  ADDITIONAL COMMITTEE AMENDMENT, AS MODIFIED BY          
+ 190  190 4 HUMPHREY, TO ENTITLE THE BILL THE "FOOD AND FIBER FOR PEACE       
+ 190  190 5 ACT OF 1959."                                                     
+ 191  191 1                              S1748     SEPT. 04, 1959             
+ 191  191 2 S861191       Y=42 N=46                                           
+ 191  191 3 S. 1748.  AMEND. TITLE I TO PERMIT GRANTS OF SURPLUS              
+ 191  191 4 AGRICULTURAL COMMODITIES TO UNDERDEVELOPED COUNTRIES              
+ 191  191 5 FOR ESTABLISHMENT OF NATIONAL FOOD RESERVES.                      
+ 192  192 1                              S1748     SEPT. 04, 1959             
+ 192  192 2 S861192       Y=41 N=46                HUMPHREY, MINN             
+ 192  192 3 S. 1748.  HUMPHREY AMEND. TO DIRECT SECY. OF AGRICULTURE          
+ 192  192 4 TO ESTABLISH DEMONSTRATION FOOD STAMP PROGRAMS                    
+ 192  192 5 AND TO IMPROVE CERTAIN FOODS DONATED TO THE SCHOOL LUNCH          
+ 192  192 6 PROGRAM.                                                          
+ 193  193 1                              HR8678    SEPT. 05, 1959             
+ 193  193 2 S861193       Y=35 N=50                GORE, TENN                 
+ 193  193 3 HR. 8678.  FEDERAL-AID HIGHWAY ACT OF 1959, RAISING FED.          
+ 193  193 4 TAX ON GAS FROM 3 CENTS TO 4 CENTS PER GALLON.  GORE AMEND.       
+ 193  193 5 TO DELETE GAS TAX INCREASE & SUBSTITUTE PROVISIONS TO             
+ 193  193 6 REPEAL THE 4% TAX CREDIT ON DIVIDED INCOME AND DIVERT FROM        
+ 193  193 7 GENERAL REVENUES TO THE HIGHWAY TRUST FUND CERTAIN                
+ 193  193 8 PORTIONS OF THE FED. EXCISE TAX ON NEW AUTOS.                     
+ 194  194 1                              HR8678    SEPT. 05, 1959             
+ 194  194 2 S861194       Y=07 N=77                MCNAMARA, MICH             
+ 194  194 3 HR. 8678.  MCNAMARA AMEND. TO REDUCE THE FED. EXCISE              
+ 194  194 4 TAX ON AUTOS IN THREE STEPS.                                      
+ 195  195 1                              HR8678    SEPT. 05, 1959             
+ 195  195 2 S861195       Y=40 N=43                MCCARTHY, MINN             
+ 195  195 3 HR. 8678.  MCCARTHY AMEND. TO REPEAL TAX CREDIT ON                
+ 195  195 4 DIVIDED INCOMES & DIVERT TO THE HIGHWAY TRUST FUND                
+ 195  195 5 CERTAIN PORTIONS OF THE FED. TAX ON AUTOS, IN ADDITION            
+ 195  195 6 TO RAISING THE TAX ON GAS.                                        
+ 196  196 1                              HR8678    SEPT 05, 1959              
+ 196  196 2 S861196       Y=39 N=44                NEUBERGER, ORE             
+ 196  196 3 HR. 8678.  NEUBERGER AMEND. TO DELETE A PROVISION EXEMPTING       
+ 196  196 4 COMMERCIAL & INDUSTRIAL AREAS FROM THE FED. AID HIGHWAY           
+ 196  196 5 ACT'S BILLBOARD REGULATION PROVISION.                             
+ 197  197 1                              HR8678    SEPT. 05, 1959             
+ 197  197 2 S861197       Y=70 N=11                                           
+ 197  197 3 HR. 8678.  PASSAGE.                                               
+ 198  198 1                              S1748     SEPT. 07, 1959             
+ 198  198 2 S861198       Y=44 N=38                HUMPHREY, MINN             
+ 198  198 3 S. 1748.  EXTENSION OF FARM SURPLUS LAW.  HUMPHREY AMEND.         
+ 198  198 4 DIRECTING SEC. OF AGRICULTURE TO ESTABLISH                        
+ 198  198 5 DEMONSTRATION  FOOD STAMP PROGRAMS AND AUTHORIZE                  
+ 198  198 6 APPROPRIATION OF $15 MILLION.                                     
+ 199  199 1                              S1748     SEPT. 07, 1959             
+ 199  199 2 S861199       Y=37 N=44                BUTLER, MD                 
+ 199  199 3 S. 1748.  BUTLER-BRIDGES AMEND. REQUIRING SHIPMENTS OF            
+ 199  199 4 SURPLUS FARM COMMODITIES BE DELIVERED DIRECTLY TO EXPORT          
+ 199  199 5 VESSEL AT A U.S. PORT.                                            
+ 200  200 1                              S1748     SEPT. 07, 1959             
+ 200  200 2 S861200       Y=18 N=64                HART, MICH                 
+ 200  200 3 S. 1748.  HART AMEND. TO TRANSFER FROM DEPT. OF AGRICULTURE       
+ 200  200 4 TO DEPT. OF HEW RESPONSIBILITY FOR DISTRIBUTION OF FOOD TO        
+ 200  200 5 THE NEEDY & AUTHORIZE $150 MILLION TO PURCHASE FOODS NOT          
+ 200  200 6 HELD BY THE COMMODITY CREDIT CORP.                                
+ 201  201 1                              HR8609    SEPT. 07, 1959             
+ 201  201 2 S861201       Y=68 N=14                                           
+ 201  201 3 HR. 8609.  PASSAGE OF SENATE VERSION OF HOUSE-PASSED BILL         
+ 201  201 4 TO EXTEND PL 480.                                                 
+ 202  202 1                              HR9035    SEPT. 08, 1959             
+ 202  202 2 S861202       Y=45 N=41                ANDERSON, NM               
+ 202  202 3 HR. 9035.  PERMIT INCREASE IN INTEREST RATE ON SERIES E & H       
+ 202  202 4 GOV'T SAVINGS BONDS.  ANDERSON AMEND. TO SET                      
+ 202  202 5 MAXIMUM INTEREST RATE AT 4.25 PER CENT.                           
+ 203  203 1                              HR9035    SEPT. 08, 1959             
+ 203  203 2 S861203       Y=86 N=01                                           
+ 203  203 3 HR. 9035.  PASSAGE                                                
+ 204  204 1                              HR9105    SEPT. 08, 1959             
+ 204  204 2 S861204       Y=73 N=15                                           
+ 204  204 3 HR. 9105.  REVISED PUBLIC WORKS APPROPRIATION BILL,               
+ 204  204 4 MAKING ACROSS-THE-BOARD CUT OF 2 AND 1/2 PER CENT IN THE          
+ 204  204 5 FUNDS PROVIDED IN THE VETOED BILL (HR 7509), BUT                  
+ 204  204 6 RETAINING 67 PROJECTS THAT WERE NOT IN THE PRESIDENT'S            
+ 204  204 7 BUDGET.                                                           
+ 205  205 1                              S2654     SEPT. 09, 1959             
+ 205  205 2 S861205       Y=86 N=07                                           
+ 205  205 3 S. 2654.  HOUSING ACT OF 1959:  PASSAGE.                          
+ 206  206 1                              HR4002    SEPT 09, 1959              
+ 206  206 2 S861206       Y=53 N=34                                           
+ 206  206 3 HR. 4002.  PERMIT SHIPS PURCHASED FROM FED. GOV'T. FOR            
+ 206  206 4 EXCLUSIVE USE ON THE GREAT LAKES TO OPERATE ON OPEN SEAS.         
+ 206  206 5 ADOPTION OF CONFERENCE REPORT.                                    
+ 207  207 1                              HR3610    SEPT. 09, 1959             
+ 207  207 2 S861207       Y=61 N=27                                           
+ 207  207 3 HR. 3610.  AMEND 1948 WATER POLLUTION CONTROL ACT &               
+ 207  207 4 RAISE THE ANNUAL CEILING FOR FED. GRANTS FOR CONSTRUCTION         
+ 207  207 5 OF SEWAGE PLANTS.                                                 
+ 208  208 1                              HR9105    SEPT. 10, 1959             
+ 208  208 2 S861208       Y=72 N=23                                           
+ 208  208 3 HR. 9105.  REVISED PUBLIC WORKS APPROPRIATION BILL.               
+ 208  208 4 PASSAGE OVER PRESIDENT'S VETO.                                    
+ 209  209 1                              HR5421    SEPT. 11, 1959             
+ 209  209 2 S861209       Y=55 N=30                                           
+ 209  209 3 HR. 5421.  AUTHORIZE THREE-YEAR, $15 MILLION PROGRAM              
+ 209  209 4 OF CONSTRUCTION SUBSIDIES FOR FISHING VESSELS.                    
+ 210  210 1                              S1697     SEPT. 12, 1959             
+ 210  210 2 S861210       Y=49 N=40                                           
+ 210  210 3 S. 1697.  GIVE PRESIDENT AUTHORITY TO APPROVE ECONOMIC AID        
+ 210  210 4 FOR COMMUNIST-DOMINATED COUNTRIES OTHER THAN SOVIET UNION         
+ 210  210 5 & THOSE IN THE FAR EAST WHEN IMPORTANT FOR NATIONAL SECURITY      
+ 211  211 1                              HR8385    SEPT 12, 1959              
+ 211  211 2 S861211       Y=37 N=53                ELLENDER, LA               
+ 211  211 3 HR. 8385.  SENATE VERSION OF THE MUTUAL SECURITY                  
+ 211  211 4 APPROPRIATION BILL, APPROPRIATING $3,281,813,000 FOR              
+ 211  211 5 MUTUAL SECURITY IN FISCAL 1960 AND $410,449,137 FOR               
+ 211  211 6 VARIOUS FEDERAL AGENCIES.  ELLENDER AMEND. TO REDUCE              
+ 211  211 7 MILITARY ASSISTANCE FUNDS BY $100 MILLION- TO $1.2 BILLION.       
+ 212  212 1                              HR8385    SEPT 12, 1959              
+ 212  212 2 S861212       Y=49 N=38                BRIDGES, NH                
+ 212  212 3 HR. 8385.  BRIDGES AMEND. TO EARMARK $50 MILLION IN               
+ 212  212 4 DEFENSE SUPPORT FUNDS FOR SPAIN.                                  
+ 213  213 1                              HR8385    SEPT. 14, 1959             
+ 213  213 2 S861213       Y=71 N=18                HAYDEN, ARIZ               
+ 213  213 3 HR. 8385.  HAYDEN MOTION TO SUSPEND THE RULES SO AS TO            
+ 213  213 4 PERMIT LEGISLATION TO EXTEND LIFE OF THE CIVIL RIGHTS             
+ 213  213 5 COMMISSION TO BE ADDED TO THE APPROPRIATION BILL.                 
+ 214  214 1                              HR8385    SEPT. 14, 1959             
+ 214  214 2 S861214       Y=71 N=18                HAYDEN, ARIZ               
+ 214  214 3 HR. 8385.  HAYDEN AMEND. TO EXTEND LIFE OF CIVIL                  
+ 214  214 4 RIGHTS COMMISSION TWO YEARS.                                      
+ 215  215 1                              HR8385    SEPT. 14, 1959             
+ 215  215 2 S861215       Y=64 N=25                                           
+ 215  215 3 HR. 8385.  PASSAGE OF MUTUAL SECURITY AND OTHER AGENCIES'         
+ 215  215 4 APPROPRIATION BILL.                                               
+ 216  216 1                              S2436     JAN 19, 1960               
+ 216  216 2 S862001       Y=50 N=39                KEATING, NY                
+ 216  216 3 S. 2436.  PREVENT CORRUPT PRACTICES IN FEDERAL ELECTIONS BY       
+ 216  216 4 LIMITING CAMPAIGN FUNDS AND REQUIRING CERTAIN REPORTS.            
+ 216  216 5 HENNINGS AND KEATING AMEND. TO REQUIRE REPORTS ON CAMPAIGN        
+ 216  216 6 CONTRIBUTIONS & SPENDING FOR CANDIDATES AND COMMITTEES            
+ 216  216 7 IN PRIMARY ELECTIONS AND CONVENTIONS OR CAUCUSES.                 
+ 217  217 1                              S2436     JAN 20, 1960               
+ 217  217 2 S862002       Y=53 N=37                HENNINGS, MO               
+ 217  217 3 S. 2436.  HENNINGS AMEND. TO REQUIRE POLITICAL COMMITTEES         
+ 217  217 4 OPERATING W/IN ONE STATE TO REPORT CONTRIBUTIONS                  
+ 217  217 5 AND EXPENDITURES IN FED. ELECTIONS WHICH EXCEED $2,500            
+ 217  217 6 ANNUALLY.                                                         
+ 218  218 1                              S2436     JAN. 25, 1960              
+ 218  218 2 S862003       Y=59 N=22                                           
+ 218  218 3 S. 2436.  PASSAGE.                                                
+ 219  219 1                              SJRE39    FEB. 02, 1960              
+ 219  219 2 S862004       Y=72 N=16                HOLLAND, FLA               
+ 219  219 3 S. J. RES. 39.  AMEND THE CONSTITUTION TO AUTHORIZE               
+ 219  219 4 GOVERNORS TO FILL TEMPORARY VACANCIES IN THE HOUSE.               
+ 219  219 5 HOLLAND AMEND. TO ELIMINATE THE REQUIREMENT OF PAYMENT OF         
+ 219  219 6 THE POLL TAX OR PROPERTY QUALIFICATION FOR VOTING.                
+ 220  220 1                              SJRE39    FEB. 02, 1960              
+ 220  220 2 S862005       Y=50 N=37                                           
+ 220  220 3 S. J. RES. 39.  MOTION TO TABLE AMEND. IN NATURE OF A             
+ 220  220 4 SUBSTITUTE FOR BILL TO MAKE UNLAWFUL ANY REQUIREMENT THAT         
+ 220  220 5 POLL TAX BE PAID AS PREREQUISITE TO VOTING IN                     
+ 220  220 6 NATIONAL ELECTION.                                                
+ 221  221 1                              SJRE39    FEB. 02, 1960              
+ 221  221 2 S862006       Y=63 N=25                KEATING, NY                
+ 221  221 3 S. J. RES. 39.  KEATING AMEND. IN NATURE OF SUBSTITUE             
+ 221  221 4 BY ADDING A CONSTITUTIONAL AMEND. RESPECTING THE                  
+ 221  221 5 ELECTION FROM D.C. OF DELEGATES TO THE HOUSE AND ELECTORS         
+ 221  221 6 FOR PRES. AND VICE PRES.                                          
+ 222  222 1                              SJRE39    FEB. 02, 1960              
+ 222  222 2 S862007       Y=70 N=18                                           
+ 222  222 3 S. J. RES. 39.  PASSAGE.                                          
+ 223  223 1                              S8        FEB. 03, 1960              
+ 223  223 2 S862008       Y=18 N=71                                           
+ 223  223 3 S. 8.  SCHOOL CONSTRUCTION ASSISTANCE ACT OF 1960.                
+ 223  223 4 AMEND. AUTHORIZING APPROPRIATIONS ANNUALLY OF SUCH                
+ 223  223 5 SUMS AS NECESSARY TO PAY PRINCIPAL AND INTEREST                   
+ 223  223 6 ANNUALLY COMING DUE ON SCHOOL CONSTRUCTION                        
+ 223  223 7 OBLIGATIONS IN THE AGGREGATE PRINCIPAL OF $4                      
+ 223  223 8 BILLION AND ALLOCATING FOR EACH OF THE NEXT 4 YEARS               
+ 223  223 9 $1 BILLION FOR SCHOOL PURPOSES.                                   
+ 224  224 1                              S8        FEB. 03. 1960              
+ 224  224 2 S862009       Y=33 N=54                CLARK, PA                  
+ 224  224 3 S. 8.  CLARK AMEND. TO AMEND. BELOW TO INCREASE                   
+ 224  224 4 AUTHORIZED APPROPRIATION TO $15 PER SCHOOL-AGE CHILD              
+ 225  225 1                              S8        FEB. 03, 1960              
+ 225  225 2 S862010       Y=44 N=44                                           
+ 225  225 3 S. 8.  AMEND. TO INCREASE AUTHORIZED APPROPRIATIONS FROM          
+ 225  225 4 $500 MILLION FOR EACH OF NEXT 2 FISCAL YEARS TO $25 PER           
+ 225  225 5 SCHOOL-AGE CHILD FOR EACH SUCCEEDING FISCAL YEAR, AND TO          
+ 225  225 6 BE USED FOR EITHER SCHOOL CONSTRUCTION OR TEACHER'S               
+ 225  225 7 SALARIES.                                                         
+ 226  226 1                              S8        FEB. 03, 1960              
+ 226  226 2 S862011       Y=44 N=44                DIRKSEN, ILL               
+ 226  226 3 S. 8.  DIRKSEN MOTION TO LAY THE JOHNSON MOTION TO RE-            
+ 226  226 4 CONSIDER THE VOTE DISAGREEING TO THE AMENDMENTS ON THE            
+ 226  226 5 TABLE.                                                            
+ 227  227 1                              S8        FEB. 04, 1960              
+ 227  227 2 S862012       Y=54 N=35                CLARK, PA                  
+ 227  227 3 S. 8.  CLARK AMEND. TO MAKE AUTHORIZED APPROPRIATIONS.            
+ 227  227 4 AVAILABLE FOR EITHER SCHOOL CONSTRUCTION OR TEACHER'S             
+ 227  227 5 SALARIES, OR BOTH, AND TO LIMIT SUCH AUTHORIZATIONS TO THE        
+ 227  227 6 NEXT 2 FISCAL YEARS INSTEAD OF FOUR.                              
+ 228  228 1                              S8        FEB. 04, 1960              
+ 228  228 2 S862013       Y=37 N=49                MORSE, ORE                 
+ 228  228 3 S. 8.  MORSE AMEND. AUTHORIZING APPROPRIATIONS OF UP TO $75       
+ 228  228 4 MILLION FOR EACH OF NEXT 2 FISCAL YEARS FOR LOANS TO PRIVATE      
+ 228  228 5 NONPROFIT ELEMENTARY AND SECONDARY SCHOOL CONSTRUCTION            
+ 228  228 6 IN EACH OF THE NEXT 5 FISCAL YEARS.                               
+ 229  229 1                              S8        FEB. 04, 1960              
+ 229  229 2 S862014       Y=25 N=61                DIRKSEN, ILL               
+ 229  229 3 S. 8.  DIRKSEN AMEND. AUTHORIZING ALLOCATION OF UP TO             
+ 229  229 4 $600 MILLION FOR SCHOOL CONSTRUCTION IN EACH OF THE               
+ 229  229 5 THE NEXT 5 FISCAL YEARS.                                          
+ 230  230 1                              S8        FEB. 04, 1960              
+ 230  230 2 S862015       Y=51 N=34                                           
+ 230  230 3 S. 8.  PASSAGE.                                                   
+ 231  231 1                              SRE       FEB. 16, 1960              
+ 231  231 2 S862016       Y=28 N=61                RUSSELL, GA.               
+ 231  231 3 CIVIL RIGHTS PROPOSALS.  RUSSELL (GA.) MOTION TO                  
+ 231  231 4 POSTPONE FURTHER CONSIDERATION OF CIVIL RIGHTS PROPOSALS          
+ 231  231 5 UNTIL FEB. 23, 1960.                                              
+ 232  232 1                              SRE       FEB. 16, 1960              
+ 232  232 2 S867017       Y=04 N=68                MORSE, ORE                 
+ 232  232 3 CIVIL RIGHTS PROPOSALS.  MORSE RESOLUTION (S RES 273) TO          
+ 232  232 4 DISCHARGE THE SENATE JUDICIARY COMM. OF FURTHER                   
+ 232  232 5 CONSIDERATION OF A SUBCOMMITTEE-APPROVED BILL.                    
+ 233  233 1                              SRE       FEB. 23, 1960              
+ 233  233 2 S862018       Y=76 N=14                                           
+ 233  233 3 EX. 1, 86TH CONG., 1ST SESS.  THE 31-NATION FLORENCE              
+ 233  233 4 AGREEMENT, PROVIDING FOR DUTY-FREE ENTRY OF EDUCATIONAL,          
+ 233  233 5 SCIENTIFIC AND CULTURAL MATERIALS.                                
+ 234  234 1                              SRE       FEB. 23, 1960              
+ 234  234 2 S862019       Y=76 N=08                                           
+ 234  234 3 EX. A, 82ND CONG. 1ST SESS.; EX. G, 85TH CONG., 1ST               
+ 234  234 4 SESS.  EXEC A, THE NORTH AMERICAN REGIONAL BROADCASTING           
+ 234  234 5 AGREEMENT ASSIGNS AM RADIO FREQUENCY PRIORITIES AMONG             
+ 234  234 6 SIX COUNTRIES.  EXEC G PROVIDES SIMILAR PRIORITES                 
+ 234  234 7 FOR U.S. AND MEXICAN BROADCASTING STATIONS.                       
+ 235  235 1                              PROC      FEB. 26, 1960              
+ 235  235 2 S862020       Y=10 N=67                JOHNSON, TEXAS             
+ 235  235 3 CIVIL RIGHTS PROPOSALS.  JOHNSON MOTION THAT THE SENATE           
+ 235  235 4 ADJOURN AT 5 P.M. ON FEB. 29 RATHER THAN HOLD AN AROUND-THE-      
+ 235  235 5 CLOCK SESSION.                                                    
+ 236  236 1                              PROC      MAR. 01, 1960              
+ 236  236 2 S862021       Y=06 N=55                MORSE, ORE                 
+ 236  236 3 CIVIL RIGHTS PROPOSALS.  MORSE TEST MOTION THAT THE               
+ 236  236 4 SENATE ADJOURN AT 8 P.M. ON MARCH 1.                              
+ 237  237 1                              PROC      MAR. 01, 1960              
+ 237  237 2 S862022       Y=55 N=05                JOHNSON, TEXAS             
+ 237  237 3 CIVIL RIGHTS PROPOSALS.  JOHNSON MOTION TO DIRECT THE             
+ 237  237 4 SERGEANT AT ARMS TO REQUEST ATTENDANCE OF ABSENT                  
+ 237  237 5 SENATORS IN ORDER TO PRODUCE A QUORUM.                            
+ 238  238 1                              PROC      MAR. 02, 1960              
+ 238  238 2 S862023       Y=62 N=07                JOHNSON, TEXAS             
+ 238  238 3 CIVIL RIGHTS PROPOSALS.  JOHNSON MOTION TO DIRECT THE             
+ 238  238 4 SERGEANT AT ARMS TO REQUEST ATTENDANCE OF ABSENT                  
+ 238  238 5 SENATORS IN ORDER TO PRODUCE A QUORUM.                            
+ 239  239 1                              PROC      MAR. 02, 1960              
+ 239  239 2 S862024       Y=64 N=06                JOHNSON, TEXAS             
+ 239  239 3 CIVIL RIGHTS PROPOSALS.  JOHNSON MOTION TO TABLE AN               
+ 239  239 4 ELLENDER MOTION THAT THE SENATE ADJOURN AT NOON ON MARCH 2.       
+ 240  240 1                              PROC      MAR. 02, 1960              
+ 240  240 2 S862025       Y=65 N=07                JOHNSON, TEXAS             
+ 240  240 3 CIVIL RIGHTS PROPOSALS.  JOHNSON MOTION TO TABLE ERVIN            
+ 240  240 4 MOTION THAT THE SENATE ADJOURN UNTIL NOON THE FOLLOWING DAY.      
+ 241  241 1                              SRE       MAR. 02, 1960              
+ 241  241 2 S862026       Y=64 N=08                JOHNSON, TEXAS             
+ 241  241 3 CIVIL RIGHTS PROPOSALS.  JOHNSON MOTION TO TABLE                  
+ 241  241 4 LONG AMEND. SPECIFYING THAT THE DIRKSEN AMEND. ON                 
+ 241  241 5 OBSTRUCTION OF COURTS' SCHOOL DESEGREGATION ORDERS COULD          
+ 241  241 6 NOT BE INTERPRETED AS PREVENTING FREEDOM OF SPEECH TO             
+ 241  241 7 ADVOCATE SEPARATION OF THE RACES.                                 
+ 242  242 1                              SRE       MAR. 03, 1960              
+ 242  242 2 S862027       Y=56 N=01                JOHNSON, TEXAS             
+ 242  242 3 CIVIL RIGHTS PROPOSALS.  JOHNSON MOTION TO DIRECT THE             
+ 242  242 4 SERGEANT AT ARMS TO REQUEST ATTENDANCE OF ABSENT SENATORS IN      
+ 242  242 5 ORDER TO PRODUCE A QUORUM.                                        
+ 243  243 1                              PROC      MAR. 04, 1960              
+ 243  243 2 S862028       Y=56 N=00                JOHNSON, TEXAS             
+ 243  243 3 CIVIL RIGHTS PROPOSALS.  JOHNSON MOTION THAT THE SENATE           
+ 243  243 4 GO INTO EXECUTIVE SESSION TO CONSIDER A NOMINATION.               
+ 244  244 1                              PROC      MAR. 04, 1960              
+ 244  244 2 S862029       Y=52 N=00                JOHNSON, TEXAS             
+ 244  244 3 CIVIL RIGHTS PROPOSALS. JOHNSON MOTION TO DIRECT THE              
+ 244  244 4 SERGEANT AT ARMS TO REQUEST ATTENDANCE OF ABSENT SENATORS IN      
+ 244  244 5 ORDER TO PRODUCE A QUORUM.                                        
+ 245  245 1                              PROC      MAR. 04, 1960              
+ 245  245 2 S862030       Y=56 N=02                JOHNSON, TEXAS             
+ 245  245 3 CIVIL RIGHTS PROPOSALS.  JOHNSON MOTION TO DIRECT THE             
+ 245  245 4 SERGEANT AT ARMS TO REQUEST ATTENDANCE OF ABSENT                  
+ 245  245 5 SENATORS IN ORDER TO PRODUCE A QUORUM.                            
+ 246  246 1                              PROC      MAR. 08, 1960              
+ 246  246 2 S862031       Y=53 N=03                JOHNSON, TEXAS             
+ 246  246 3 CIVIL RIGHTS PROPOSALS.  JOHNSON MOTION TO DIRECT THE             
+ 246  246 4 SERGEANT AT AMRS TO REQUEST ATTENDANCE OF ABSENT                  
+ 246  246 5 SENATORS.                                                         
+ 247  247 1                              PROC      MAR. 08, 1960              
+ 247  247 2 S862032       Y=53 N=03                JOHNSON, TEXAS             
+ 247  247 3 CIVIL RIGHTS PROPOSALS.  JOHNSON MOTION TO DIRECT THE             
+ 247  247 4 SERGEANT AT ARMS TO REQUEST ATTENDANCE OF ABSENT SENATORS.        
+ 248  248 1                              PROC      MAR. 08, 1960              
+ 248  248 2 S862033       Y=53 N=04                JOHNSON, TEXAS             
+ 248  248 3 CIVIL RIGHTS PROPOSALS.  JOHNSON MOTION (AT 3:53 A.M.)            
+ 248  248 4 THAT THE SENATE ADJOURN UNTIL 4:05 A.M.                           
+ 249  249 1                              PROC      MAR. 10, 1960              
+ 249  249 2 S862034       Y=42 N=53                DOUGLAS, ILL               
+ 249  249 3 CIVIL RIGHTS PROPOSALS.  DOUGLAS-JAVITS MOTION TO LIMIT           
+ 249  249 4 DEBATE BY INVOKING CLOTURE.                                       
+ 250  250 1                              SRE       MAR. 10, 1960              
+ 250  250 2 S862035       Y=55 N=38                JOHNSON, TEXAS             
+ 250  250 3 CIVIL RIGHTS PROPOSALS.  JOHNSON MOTION TO TABLE CASE             
+ 250  250 4 (R S.D.) AMEND. TO THE PENDING ADMIN. BILL TO ADD PART III,       
+ 250  250 5 EMPOWERING THE ATTY. GEN. TO SEEK INJUNCTIONS TO PROTECT          
+ 250  250 6 ANY CIVIL RIGHTS.                                                 
+ 251  251 1                              SRE       MAR. 10, 1960              
+ 251  251 2 S862036       Y=89 N=00                ERVIN, NC                  
+ 251  251 3 CIVIL RIGHTS PROPOSALS.  ERVIN AMEND. TO THE FIRST SECTION        
+ 251  251 4 OF THE ADMIN. BILL, REDUCING PENALTIES FOR OBSTRUCTING            
+ 251  251 5 COURT ORDERS ON SCHOOL DESEGRATION TO A $1,000 FINE               
+ 251  251 6 AND/OR ONE YEAR IN PRISON.                                        
+ 252  252 1                              SRE       MAR. 11, 1960              
+ 252  252 2 S862037       Y=65 N=19                LAUSCHE, OHIO              
+ 252  252 3 CIVIL RIGHTS PROPOSALS.  LAUSCHE AMEND. TO FIRST SECTION          
+ 252  252 4 OF THE ADMIN. BILL, MAKING OBSTRUCTION OF ALL COURT               
+ 252  252 5 ORDERS A FEDERAL CRIME.                                           
+ 253  253 1                              SRE       MAR. 11, 1960              
+ 253  253 2 S862038       Y=49 N=35                MORSE, ORE                 
+ 253  253 3 CIVIL RIGHTS PROPOSALS.  MORSE MOTION TO TABLE THE                
+ 253  253 4 FIRST SECTION OF THE ADMIN. BILL AS AMENDED BY                    
+ 253  253 5 LAUSCHE.                                                          
+ 254  254 1                              SRE       MAR. 14, 1960              
+ 254  254 2 S862039       Y=85 N=01                GOLDWATER, ARIZ            
+ 254  254 3 CIVIL RIGHTS PROPOSALS.  GOLDWATER AMEND. TO SECOND               
+ 254  254 4 SECTION OF THE ADMIN. BILL TO MAKE THE PROVISION                  
+ 254  254 5 APPLICABLE TO BOMBING OF ANY BUILDING OR VEHICLE.                 
+ 255  255 1                              SRE       MAR. 17, 1960              
+ 255  255 2 S862040       Y=87 N=00                KEATING, NY                
+ 255  255 3 CIVIL RIGHTS PROPOSALS.  KEATING AMEND. TO SECOND SECTION,        
+ 255  255 4 OUTLAWING TRANSPORTATION OR POSSESSION OF EXPLOSIVES              
+ 255  255 5 W/INTENT TO USE THEM TO BLOW UP ANY BUILDING OR                   
+ 255  255 6 VEHICLE AND MAKING FALSE BOMB SCARES A CRIME.                     
+ 256  256 1                              SRE       MAR. 17, 1960              
+ 256  256 2 S862041       Y=86 N=01                                           
+ 256  256 3 CIVIL RIGHTS PROPOSALS.  ADOPTION OF SECOND SECTION OF THE        
+ 256  256 4 ADMIN. BILL AS AMENDED BY THE GOLDWATER & KEATING                 
+ 256  256 5 AMENDMENTS.                                                       
+ 257  257 1                              SRE       MAR. 18, 1960              
+ 257  257 2 S862042       Y=53 N=24                DIRKSEN, ILL               
+ 257  257 3 CIVIL RIGHTS PROPOSALS.  DIRKSEN MOTION TO TABLE                  
+ 257  257 4 DOUGLAS-JAVITS AMEND. TO THE THIRD SECTION, TO PROVIDE            
+ 257  257 5 FOR PRESIDENTIAL APPOINTMENT OF FEDERAL REGISTRARS TO             
+ 257  257 6 ENROLL NEGROES AFTER THE PRES. RECEIVED 50 COMPLAINTS OF          
+ 257  257 7 DISCRIMINATION AND INVESTIGATED THEM.                             
+ 258  258 1                              PROC      MAR. 23, 1960              
+ 258  258 2 S862043       Y=85 N=01                JOHNSON, TEXAS             
+ 258  258 3 CIVIL RIGHTS PROPOSALS.  JOHNSON MOTION THAT THE SENATE           
+ 258  258 4 RECESS UNTIL NOON THE FOLLOWING DAY.                              
+ 259  259 1                              SRE       MAR. 24, 1960              
+ 259  259 2 S862044       Y=51 N=43                MORSE, ORE                 
+ 259  259 3 CIVIL RIGHTS PROPOSALS.  MORSE MOTION TO TABLE A                  
+ 259  259 4 JAVITS-CLARK AMEND. TO THE THIRD SECTION, TO PROVIDE FOR          
+ 259  259 5 COURT-APPOINTED REFEREES OR PRESIDENTIALLY APPOINTED              
+ 259  259 6 ENROLLMENT OFFICERS TO REGISTER NEGROES AFTER A COURT HAS         
+ 259  259 7 FOUND A PATTERN OR PRACTICE OF DISCRIMINATION                     
+ 260  260 1                              SRE       MAR. 24, 1960              
+ 260  260 2 S862045       Y=19 N=72                EASTLAND, MISS             
+ 260  260 3 CIVIL RIGHTS PROPOSALS.  EASTLAND MOTION THAT THE                 
+ 260  260 4 HOUSE-PASSED CIVIL RIGHTS BILL (HR 8601) BE REFERRED TO THE       
+ 260  260 5 JUDICIARY COMM. W/OUT ANY TIME LIMIT FOR SENDING IT BACK TO       
+ 260  260 6 THE SENATE.                                                       
+ 261  261 1                              SRE       MAR. 24, 1960              
+ 261  261 2 S862046       Y=86 N=05                JOHNSON, TEXAS             
+ 261  261 3 CIVIL RIGHTS PROPOSALS.  JOHNSON MOTION THAT HR. 8601             
+ 261  261 4 BE REFERRED TO THE JUDICIARY COMM. W/INSTRUCTIONS                 
+ 261  261 5 THAT IT BE REPORTED BACK NO LATER THAN MARCH 29.                  
+ 262  262 1                              HR10233   MAR. 24, 1960              
+ 262  262 2 S862047       Y=85 N=00                                           
+ 262  262 3 HR. 10233.  PROVIDE $240,089,152 FOR FISCAL 1961                  
+ 262  262 4 BUDGET OF D.C., INCLUDING $28,533,000 IN FEDERAL                  
+ 262  262 5 PAYMENTS.                                                         
+ 263  263 1                              HR10743   MAR. 24, 1960              
+ 263  263 2 S862048       Y=79 N=02                                           
+ 263  263 3 HR. 10743.  FISCAL 1960 SECOND SUPPLEMENTAL APPROPRIATIONS        
+ 263  263 4 BILL, APPROPRIATING $995,441,103 FOR VARIOUS FED.                 
+ 263  263 5 DEPARTMENTS AND AGENCIES.                                         
+ 264  264 1                              HJRE261   MAR. 24, 1960              
+ 264  264 2 S862049       Y=82 N=00                                           
+ 264  264 3 H. J. RES. 261.  FISCAL 1960 NASA SUPPLEMENTAL                    
+ 264  264 4 APPROPRIATIONS, APPROPRIATING $23 MILLION TO NASA AND             
+ 264  264 5 $79,000 TO THE JOINT AEC OF CONGRESS.                             
+ 265  265 1                              HR10401   MAR. 29, 1960              
+ 265  265 2 S862050       Y=47 N=37                SYMINGTON, MO              
+ 265  265 3 HR. 10401.  FISCAL 1961 INTERIOR DEPT. APPROPRIATIONS.            
+ 265  265 4 SYMINGTON-HENNINGS AMEND. TO INCREASE THE FED. CONTRIBUTION       
+ 265  265 5 TO THE JEFFERSON NATIONAL EXPANSION MEMORIAL PROJECT              
+ 265  265 6 IN ST. LOUIS.                                                     
+ 266  266 1                              HR10234   MAR. 29, 1960              
+ 266  266 2 S862051       Y=28 N=54                WILLIAMS, DEL              
+ 266  266 3 HR. 10234.  FISCAL 1961 APPROPRIATIONS FOR THE COMMERCE           
+ 266  266 4 DEPT. AND RELATED AGENCIES.  WILLIAMS AMEND. TO REDUCE            
+ 266  266 5 SUBSIDIZED SHIP VOYAGES FROM 2,400 TO 2,225, AT AN                
+ 266  266 6 ESTIMATED SAVING OF $20 MILLION.                                  
+ 267  267 1                              HR10234   MAR. 29, 1960              
+ 267  267 2 S862052       Y=79 N=02                                           
+ 267  267 3 HR. 10234.  PASSAGE.                                              
+ 268  268 1                              HR10401   MAR. 29, 1960              
+ 268  268 2 S862053       Y=78 N=00                                           
+ 268  268 3 HR. 10401.  INTERIOR DEPT. APPROPRIATION.  PASSAGE.               
+ 269  269 1                              SRE       MAR. 30, 1960              
+ 269  269 2 S862054       Y=71 N=17                JOHNSON, TEXAS             
+ 269  269 3 CIVIL RIGHTS PROPOSALS.  JOHNSON MOTION TO BEGIN                  
+ 269  269 4 CONSIDERATION OF THE COMMITTEE-REPORTED VERSION OF HR 8601.       
+ 270  270 1                              HR8601    MAR. 31, 1960              
+ 270  270 2 S862055       Y=68 N=20                                           
+ 270  270 3 HR. 8601.  SENATE COMMITTEE AMEND. TO EXTEND TITLE I,             
+ 270  270 4 OUTLAWING OBSTRUCTION OF COURT ORDERS FOR SCHOOL                  
+ 270  270 5 DESEGREGATION, TO APPLY TO ALL COURT ORDERS.                      
+ 271  271 1                              HR8601    APR. 01, 1960              
+ 271  271 2 S862056       Y=69 N=22                CARROLL, COLO              
+ 271  271 3 HR. 8601.  CARROLL AMEND. TO THE KEFAUVER AMEND.                  
+ 271  271 4 RESTORING LANGUAGE THAT THE REFEREES' HEARINGS BE EX PARTE        
+ 271  271 5 AND ALLOWING THE COURT TO SET THE TIME AND PLACE OF THE           
+ 271  271 6 HEARINGS.                                                         
+ 272  272 1                              HR8601    APR. 01, 1960              
+ 272  272 2 S862057       Y=48 N=38                DIRKSEN, ILL               
+ 272  272 3 HR. 8601.  DIRKSEN MOTION TO TABLE JAVITS AMEND. TO               
+ 272  272 4 ESTABLISH A PERMANENT COMMISSION ON EQUAL JOB OPPORTUNITY.        
+ 273  273 1                              HR8601    APR. 04, 1960              
+ 273  273 2 S862058       Y=61 N=30                MANSFIELD, MONT            
+ 273  273 3 HR. 8601.  MANSFIELD MOTION TO TABLE KEATING AMEND.               
+ 273  273 4 PROVIDING TECHNICAL ASSISTANCE TO AREAS DESEGREGATING             
+ 273  273 5 THERI SCHOOLS & ENDORSING THE S.C. 1954 DECISION AND              
+ 273  273 6 COOPER AMEND. DELETING THE ENDORSEMENT.                           
+ 274  274 1                              HR8601    APR. 04, 1960              
+ 274  274 2 S862059       Y=56 N=34                DIRKSEN, ILL               
+ 274  274 3 HR. 8601.  DIRKSEN MOTION TO TABLE JAVITS AMEND. TO ALLOW         
+ 274  274 4 THE ATTY. GEN. TO ENTER PRIVATE SUITS FOR SCHOOL                  
+ 274  274 5 DESEGREGATION AND MCNAMARA AMEND TO ADD PART III.                 
+ 275  275 1                              HR8601    APR. 04, 1960              
+ 275  275 2 S862060       Y=52 N=38                DIRKSEN, ILL               
+ 275  275 3 HR. 8601.  DIRKSEN MOTION TO TABLE HART AMEND. TO THE             
+ 275  275 4 REFEREES PLAN, REQUIRING THAT A NEGRO MUST PROVE ONLY             
+ 275  275 5 THAT HE IS QUALIFIED TO VOTE.                                     
+ 276  276 1                              HR8601    APR. 04, 1960              
+ 276  276 2 S862061       Y=58 N=26                DIRKSEN, ILL               
+ 276  276 3 HR. 8601.  DIRKSEN MOTION TO TABLE HENNINGS AMEND. TO             
+ 276  276 4 REFEREES SECTION, ADDING A PLAN FOR PRESIDENTIALLY APPOINTED      
+ 276  276 5 ENROLLMENT OFFICERS TO REGISTER NEGROES.                          
+ 277  277 1                              HR8601    APR. 05, 1960              
+ 277  277 2 S862062       Y=29 N=64                MCCLELLAN, ARK             
+ 277  277 3 HR. 8601.  EVIN-MCCLELLAN AMEND. TO THE REFEREE PLAN,             
+ 277  277 4 REQUIRING THAT IF JUDGES HEAR NEGROES' APPLICATIONS FOR           
+ 277  277 5 VOTING CERTIFICATES THEY MUST FOLLOW THE FED. RULES OF            
+ 277  277 6 CIVIL PROCEDURE BY CALLING OPPONENTS TO THE APPLICATIONS.         
+ 277  277 7 AND HOLDING ADVERSARY PROCEEDINGS.                                
+ 278  278 1                              HR8601    APR. 06, 1960              
+ 278  278 2 S862063       Y=72 N=16                KUCHEL, CALIF              
+ 278  278 3 HR. 8601.  KUCHEL MOTION TO TABLE ERVIN AMEND. TO LIMIT THE       
+ 278  278 4 IMPLEMENTATION OF THE REFEREES PLAN TO CONGRESSIONAL              
+ 278  278 5 ELECTIONS.                                                        
+ 279  279 1                              HR8601    APR. 06, 1960              
+ 279  279 2 S862064       Y=68 N=18                DIRKSEN, ILL               
+ 279  279 3 HR. 8601.  DIRKSEN MOTION TO TABLE JOHNSTON AMEND. TO             
+ 279  279 4 EXEMPT THE RECORDS FOR PRIMARY AND SPECIAL ELECTIONS              
+ 279  279 5 FROM THE REQUIREMENT THAT VOTING RECORDS MUST BE PRESERVED        
+ 279  279 6 FOR 22 MONTHS.                                                    
+ 280  280 1                              HR8601    APR. 06, 160               
+ 280  280 2 S862065       Y=62 N=32                DIRKSEN, ILL               
+ 280  280 3 HR. 8601.  DIRKSEN MOTION TO TABLE CARROLL AMEND.                 
+ 280  280 4 TO PERMIT THE COURTS TO WAIVE THE REQUIREMENTS THAT               
+ 280  280 5 A NEGRO SEEKING A COURT CERTIFICATE TO VOTE                       
+ 280  280 6 MUST PROVE HE TRIED TO REGISTER W/STATE AUTHORITIES AND WAS       
+ 280  280 7 REJECTED AFTER A PATTERN OF DISCRIMINATION WAS FOUND              
+ 280  280 8 BY THE COURTS.                                                    
+ 281  281 1                              HR8601    APR. 07, 1960              
+ 281  281 2 S862066       Y=73 N=18                DIRKSEN, ILL               
+ 281  281 3 HR. 8601.  DIRKSEN MOTION TO TABLE ELLENDER AMEND.                
+ 281  281 4 TO STRIKE THE VOTING REFEREES PROVISION FROM THE BILL.            
+ 282  282 1                              HR8601    APR. 07, 1960              
+ 282  282 2 S862069       Y=79 N=12                DIRKSEN, ILL               
+ 282  282 3 HR. 8601.  DIRKSEN AMEND. TO SPECIFY THAT A COURT SHOULD          
+ 282  282 4 NOT ALLOW A NEGRO WHOSE APPLICATION HAD BEEN CHALLENGED           
+ 282  282 5 BY STATE OFFICIALS TO VOTE PROVISIONALLY UNLESS THE               
+ 282  282 6 COURT WAS SATISFIED THAT THE NEGRO MET STATE QUALIFICATIONS       
+ 282  282 7 FOR VOTING.                                                       
+ 283  283 1                              HR8601    APR. 08, 1960              
+ 283  283 2 S862068       Y=70 N=19                DIRKSEN, ILL               
+ 283  283 3 HR. 8601.  DIRKSEN MOTION TO TABLE EASTLAND MOTION TO             
+ 283  283 4 RECOMMIT BILL TO JUDICIARY COMM.                                  
+ 284  284 1                              HR8601    APR. 08, 1960              
+ 284  284 2 S862069       Y=71 N=18                                           
+ 284  284 3 HR. 8601.  PASSAGE OF AMENDED BILL.                               
+ 285  285 1                              SRE       APR. 20, 1960              
+ 285  285 2 S862070       Y=69 N=15                                           
+ 285  285 3 NOMINATION OF JAMES DURFEE TO BE JUDGE OF THE U.S. COURT          
+ 285  285 4 OF CLAIMS.                                                        
+ 286  286 1                              HR10569   APR. 25, 1960              
+ 286  286 2 S862071       Y=75 N=00                                           
+ 286  286 3 HR. 10569.  APPROPRIATE $4,877,014,000 FOR THE TREASURY           
+ 286  286 4 AND POST OFFICE DEPTS. AND U.S. TAX COURT IN FISCAL 1961.         
+ 287  287 1                              S743      APR. 27, 1960              
+ 287  287 2 S862072       Y=80 N=04                                           
+ 287  287 3 S. 743.  AMEND THE FED. COAL MINE SAFETY ACT TO REMOVE            
+ 287  287 4 THE EXEMPTION OF MINES EMPLOYING LESS THAN 15 PERSONS FROM        
+ 287  287 5 THE INSPECTION REQUIREMENTS.                                      
+ 288  288 1                              S3058     APR. 27, 1960              
+ 288  288 2 S862073       Y=68 N=00                WILLIAMS, DEL              
+ 288  288 3 S. 3058.  MUTUAL SECURITY ACT OF 1960.  WILLIAMS AMEND. TO        
+ 288  288 4 REQUIRE PUBLIC REPORTING OF THE SPENDING OF COUNTERPART AND       
+ 288  288 5 DOLLAR FUNDS BY INDIVIDUAL MEMBERS AND EMPLOYEES OF               
+ 288  288 6 CONGRESSIONAL COMMITTEE.                                          
+ 289  289 1                              S3058     APR. 28, 1960              
+ 289  289 2 S867074       Y=71 N=05                SMATHERS, FLA              
+ 289  289 3 S. 3058.  SMATHERS AMEND. TO AUTHORIZE THE SEC. OF                
+ 289  289 4 STATE TO SUBMIT TO CONGRESS A PLAN FOR A WESTERN HEMISPHERE       
+ 289  289 5 CENTER FOR CULTURAL AND TECHNICAL INTERCHANGE IN                  
+ 289  289 6 PUERTO RICO.                                                      
+ 290  290 1                              S3058     APR. 28, 1960              
+ 290  290 2 S862075       Y=33 N=44                BUTLER, MD                 
+ 290  290 3 S. 3058.  BUTLER AMEND. TO DELETE LANGUAGE PERMITTING.            
+ 290  290 4 THE PRES. TO WAIVE, FOR PURPOSES OF CARRYING OUT                  
+ 290  290 5 U.S. COMMITMENTS TO THE INDUS RIVER BASIN PROJECT, REQUIRE-       
+ 290  290 6 MENTS THAT 50% OF GOODS SHIPPED UNDER THE MUTUAL SECURITY         
+ 290  290 7 PROGRAM BE CARRIED IN U.S. VESSELS.                               
+ 291  291 1                              S3058     APR. 28, 1960              
+ 291  291 2 S862076       Y=32 N=44                BUTLER, MD                 
+ 291  291 3 S. 3058.  BUTLER AMEND. TO REQUIRE THAT IF THE PRES. WAIVES       
+ 291  291 4 THE 50-50 SHIPPING REQUIREMENT FOR THE INDUS PROJECT, U.S.        
+ 291  291 5 VESSELS BE GIVEN COMPENSATING ALLOWANCES ON SHIPMENTS TO THE      
+ 291  291 6 SAME AREA UNDER OTHER PARTS OF THE FOREIGN AID PROGRAM.           
+ 292  292 1                              S3058     APR. 28, 1960              
+ 292  292 2 S862077       Y=45 N=25                DOUGLAS, ILL               
+ 292  292 3 S. 3058.  DOUGLAS AMEND. TO EXPRESS U.S. SUPPORT OF               
+ 292  292 4 FREEDOM OF NAVIGATION IN INTERNATIONAL WATERWAYS AND, IN          
+ 292  292 5 EFFECT, URGE THE PRES TO CUT OFF AID TO THE UAR                   
+ 292  292 6 UNTIL IT OPENED THE SUEZ CANAL TO ISRAELI SHIPPING.               
+ 293  293 1                              S3058     APR. 28, 1960              
+ 293  293 2 S862078       Y=40 N=29                JOHNSON, TEXAS             
+ 293  293 3 S. 3058.  JOHNSON MOTION TO TABLE MOTION TO RECONSIDER THE        
+ 293  293 4 VOTE ON THE DOUGLAS AMEND.                                        
+ 294  294 1                              S3058     APR. 28, 1960              
+ 294  294 2 S862079       Y=27 N=32                CHURCH, IDAHO              
+ 294  294 3 S. 3058.  CHURCH AMEND. TO PLACE A $1.8 BILLION CEILING ON        
+ 294  294 4 MILITARY ASSISTANCE IN FISCAL 1961.                               
+ 295  295 1                              S3058     MAY 02, 1960               
+ 295  295 2 S862080       Y=40 N=45                GRUENING, ALASKA           
+ 295  295 3 S. 3058 GRUENING AMEND. TO REQUIRE THAT NON-MILITARY              
+ 295  295 4 FLOOD CONTROL, RECLAMATION AND SIMILAR PROJECTS                   
+ 295  295 5 RECEIVING MUTUAL SECURITY AID MEET THE ENGINEERING                
+ 295  295 6 AND COST STANDARDS OF U.S. WATER PROJECTS.                        
+ 296  296 1                              S3058     MAY 02, 1960               
+ 296  296 2 S862081       Y=32 N=52                GRUENING, ALASKA           
+ 296  296 3 S. 3058.  GRUENING AMEND. TO REQUIRE SEPARATE CONGRESSIONAL       
+ 296  296 4 AUTHORIZATION FOR EACH PUBLIC WORKS PROJECT THAT WOULD COST       
+ 296  296 5 $1 MILLION OR MORE IN MUTUAL SECURITY FUNDS.                      
+ 297  297 1                              S3058     MAY 02, 1960               
+ 297  297 2 S862082       Y=45 N=38                ELLENDER, LA               
+ 297  297 3 S. 3058.  ELLENDER AMEND. TO DELETE A PROVISION AUTHORIZING       
+ 297  297 4 GRANTS OF SURPLUS AGRICULTURAL COMMODITIES TO PROMOTE             
+ 297  297 5 ECONOMIC DEVELOPMENT IN UNDERDEVELOPED AREAS.                     
+ 298  298 1                              S3058     MAY 02, 1960               
+ 298  298 2 S862083       Y=28 N=57                ELLENDER, LA               
+ 298  298 3 S. 3058.  ELLENDER AMEND. TO DELETE A PROVISION PERMITTING        
+ 298  298 4 RE-USE, FOR MUTUAL SECURITY ASSISTANCE, OF EQUIPMENT AND          
+ 298  298 5 OTHER MATERIALS TRANSFERRED TO THE U.S. AS PAYMENT FOR            
+ 298  298 6 LOANS AND OTHER ASSISTANCE.                                       
+ 299  299 1                              S3058     MAY 02, 1960               
+ 299  299 2 S862084       Y=43 N=43                ELLENDER, LA               
+ 299  299 3 S. 3058.  ELLENDER AMEND. TO LIMIT THE PRESIDENT'S USE OF         
+ 299  299 4 HIS CONTINGENCY FUND TO SITUATIONS THAT WERE                      
+ 299  299 5 ENTIRELY UNFORESEEN.                                              
+ 300  300 1                              S3058     MAY 02, 19600              
+ 300  300 2 S862085       Y=44 N=44                KUCHEL, CALIF              
+ 300  300 3 S. 3058.  KUCKEL MOTION TO TABLE A MOTION TO RECONSIDER THE       
+ 300  300 4 VOTE ON THE ELLENDER AMEND.  (NIXON VOTED YEA TO BREAK 44-44      
+ 300  300 5 TIE).                                                             
+ 301  301 1                              S3058     MAY 02, 1960               
+ 301  301 2 S862086       Y=48 N=40                LONG, LA                   
+ 301  301 3 S. 3058.  LONG AMEND. TO REDUCE THE PROPOSED $175 MILLION         
+ 301  301 4 AUTHORIZATION FOR THE PRESIDENT'S CONTINGENCY FUND TO             
+ 301  301 5 $155 MILLION.                                                     
+ 302  302 1                              S3058     MAY 02, 1960               
+ 302  302 2 S862087       Y=38 N=49                ELLENDER, LA               
+ 302  302 3 S. 3058.  ELLENDER AMEND. TO DELETE A PROVISION RAISING TO        
+ 302  302 4 $4,250,000 THE CEILING ON AMOUNTS AVAILABLE FOR LIVING            
+ 302  302 5 QUARTERS FOR PERSONNEL IN FOREIGN COUNTRIES.                      
+ 303  303 1                              S3058     MAY 02, 1960               
+ 303  303 2 S862088       Y=26 N=60                LAUSCHE, OHIO              
+ 303  303 3 S. 3058.  LAUSCHE AMEND. TO DELETE A PROVISION ENCOURAGING        
+ 303  303 4 DEVELOPMENT OF PILOT HOUSING PROJECTS IN LATIN                    
+ 303  303 5 AMERICA THROUGH THE DEVELOPMENT LOAN FUND.                        
+ 304  304 1                              S3058     MAY 02, 1960               
+ 304  304 2 S862089       Y=40 N=44                LAUSCHE, OHIO              
+ 304  304 3 S. 3058.  LAUSCHE AMEND. TO DELETE A PROVISION AUTHORIZING        
+ 304  304 4 U.S. AID TO AN INTERNATIONAL PROJECT TO PRESERVE CULTURAL         
+ 304  304 5 MONUMENTS ON THE UPPER NILE.                                      
+ 305  305 1                              S3058     MAY 02, 1960               
+ 305  305 2 S862090       Y=29 N=54                GRUENING, ALASKA           
+ 305  305 3 S. 3058.  GRUENING AMEND. TO REQUIRE SUBMISSION TO CONGRESS,      
+ 305  305 4 W/IN 90 DAYS AFTER ENACTMENT OF THE BILL, OF DETAILED             
+ 305  305 5 COUNTRY-BY-COUNTRY BUDGETS EARMARKING                             
+ 305  305 6 FUNDS FOR DEFENSE SUPPORT, TECHNICAL COOPERATION AND SPECIAL      
+ 305  305 7 ASSISTANCE.                                                       
+ 306  306 1                              S3058     MAY 02, 1960               
+ 306  306 2 S862091       Y=45 N=39                JOHNSON, TEXAS             
+ 306  306 3 S. 3058.  JOHNSON MOTION TO TABLE A FULBRIGHT AMEND.              
+ 306  306 4 SPECIFYING THAT THE PRES. NEED NOT APPLY THE FREEDOM OF           
+ 306  306 5 NAVIGATION PRINCIPLES IN SITUATIONS WHERE NATIONS RECEIVING       
+ 306  306 6 U.S. AID ARE ENGAGED IN ACTIONS DETRIMENTAL TO THE                
+ 306  306 7 U.S. PEACE EFFORTS.                                               
+ 307  307 1                              HR11510   MAY 02, 1960               
+ 307  307 2 S862092       Y=60 N=25                                           
+ 307  307 3 HR. 11510.  HOUSE VERSION OF THE MUTUAL SECURITY ACT OF           
+ 307  307 4 1960.  PASSAGE AS AMENDED BY SENATE                               
+ 308  308 1                              HR10809   MAY 03, 1960               
+ 308  308 2 S862093       Y=78 N=00                                           
+ 308  308 3 HR. 10809.  AUTHORIZE $970 MILLION IN FISCAL 1961 FOR             
+ 308  308 4 NASA.                                                             
+ 309  309 1                              HR10234   MAY 04, 1960               
+ 309  309 2 S862094       Y=38 N=46                WILLIAMS, DEL              
+ 309  309 3 HR. 10234.  DEPT. OF COMMERCE AND RELATED AGENCIES                
+ 309  309 4 APPROPRIATIONS.  WILLIAMS MOTION THAT THE SENATE INSIST ON        
+ 309  309 5 ITS AMENDMENT TO PROHIBIT U.S.-FLAG SHIPPING COMPANIES            
+ 309  309 6 FROM OFFERING FREE OR REDUCED-RATE TRAVEL TO OFFICIALS            
+ 309  309 7 OR EMPLOYEES OF THE U.S. GOV'T. EXCEPT THROUGH                    
+ 309  309 8 GOV'T-NEGOTIATED CONTRACTS OR IN THE CASE OF EMERGENCIES          
+ 309  309 9 AT SEA.                                                           
+ 310  310 1                              SRE285    MAY 04, 1960               
+ 310  310 2 S862095       Y=55 N=16                JOHNSON, TEXAS             
+ 310  310 3 S. RES. 285.  AUTHORIZE A SENATE INVESTIGATION OF                 
+ 310  310 4 DREW PEARSON'S REPORTS OF POLITICAL DEALS INVOLVING               
+ 310  310 5 REP. ADAM C. POWELL. JOHNSON MOTION TO REFER TO RULES AND         
+ 310  310 6 ADMIN. COMMITTEE.                                                 
+ 311  311 1                              S2857     MAY 05, 1960               
+ 311  311 2 S862096       Y=19 N=38                WILLIAMS, DEL              
+ 311  311 3 S. 2857.  AMEND THE CIVIL SERVICE RETIREMENT ACT TO PROVIDE       
+ 311  311 4 THAT CIVIL SERVICE EMPLOYEES OR MEMBERS OF CONGRESS WHO           
+ 311  311 5 DID NOT RETIRE WHEN THEY BECAME ELIGIBLE FOR MAXIMUM              
+ 311  311 6 BENEFITS WOULD, UPON RETIREMENT, BE REFUNDED THE MONEY            
+ 311  311 7 PAID INTO THE FUND DURING THE INTERVENING PERIOD.  WILLIAMS       
+ 311  311 8 AMEND. TO FREEZE RETIREMENT BENEFITS AT THE MAXIMUM               
+ 311  311 9 LEVEL AND REQUIRE EMPLOYEES TO CONTINUE PAYMENT AS LONG AS        
+ 311  31110 THEY RECEIVED FULL SALARY.                                        
+ 312  312 1                              HR9862    MAY 05, 1960               
+ 312  312 2 S862097       Y=31 N=23                HARTKE, IND                
+ 312  312 3 HR. 9862.  CONTINUE SUSPENSION OF IMPORT DUTIES ON CERTAIN        
+ 312  312 4 SHOE LATHES FOR TWO YEARS AND ON CASEIN FOR THREE YEARS.          
+ 312  312 5 HARTKE AMEND. PROHIBITING THE DUTY-FREE ENTRY OF THE CASEIN       
+ 312  312 6 INTENDED FOR HUMAN CONSUMPTION.                                   
+ 313  313 1                              S722      MAY 06, 1960               
+ 313  313 2 S862098       Y=45 N=32                                           
+ 313  313 3 S. 722.  AREA REDEVELOPMENT ACT.  AUTHORIZE FED. LOANS AND        
+ 313  313 4 GRANTS TOTALING $251 MILLION FOR THE RELIEF OF ECONOMICALLY       
+ 313  313 5 DEPRESSED RURAL AND INDUSTRIAL AREAS.  MOTION TO CONCUR IN        
+ 313  313 6 THE HOUSE VERSION.                                                
+ 314  314 1                              S910      MAY 11, 1960               
+ 314  314 2 S862099       Y=24 =53                 MUNDT, SD                  
+ 314  314 3 S. 910.  PAYMENTS TO LOCAL GOV'TS ACT OF 1960.  MUNDT             
+ 314  314 4 SUBSTITUTE, PROPOSING THAT A COMMISSION STUDY THE PROBLEMS        
+ 314  314 5 OF COMMUNITIES SUFFERING FROM THE TAX-EXEMPT STATUS OF FED.       
+ 314  314 6 PROPERTY.                                                         
+ 315  315 1                              S910      MAY 12, 1960               
+ 315  315 2 S862100       Y=30 N=52                DIRKSEN, ILL               
+ 315  315 3 S. 910.  DIRKSEN MOTION TO RECOMMIT THE BILL, WHICH PROPOSED      
+ 315  315 4 A LIMITED PROGRAM OF FED. PAYMENTS IN LIEU OF TAXES TO            
+ 315  315 5 COMMUNITIES AND A COMPREHENSIVE STUDY OF THE TAXING               
+ 315  315 6 PROBLEM.                                                          
+ 316  316 1                              S2653     MAY 18, 1960               
+ 316  316 2 S862101       Y=39 N=38                MONRONEY, OKLA             
+ 316  316 3 S. 2653.  REQUIRE THE LICENSING AND REGULATION OF COMMUNITY       
+ 316  316 4 ANTENNA TELEVISON SYSTEMS BY THE FCC.                             
+ 316  316 5 MONRONEY MOTION TO RECOMMIT.                                      
+ 317  317 1                              S2653     MAY 18, 1960               
+ 317  317 2 S862102       Y=38 N=36                KERR, OKLA                 
+ 317  317 3 S. 2653.  KERR MOTION TO TABLE A DIRKSEN MOTION TO                
+ 317  317 4 RECONSIDER THE VOTE THAT RECOMMITED THE BILL.                     
+ 318  318 1                              S722      MAY 24, 1960               
+ 318  318 2 S862103       Y=45 N=39                                           
+ 318  318 3 S. 722.  AREA REDEVELOPMENT ACT OF 1960.  PASSAGE OVER            
+ 318  318 4 PRESIDENT'S VETO.  (FAILED)                                       
+ 319  319 1                              HR12117   MAY 24, 1960               
+ 319  319 2 S862104       Y=74 N=01                                           
+ 319  319 3 HR. 12117.  APPROPRIATE $4,005,222,683 FOR DEPT. OF               
+ 319  319 4 AGRICULTURE IN FISCAL 1961.  PASSAGE.                             
+ 320  320 1                              S2168     MAY 26, 1960               
+ 320  320 2 S862105       Y=48 N=32                PROXMIRE, WISC             
+ 320  320 3 S. 2168.  AMEND THE NAVY RATION ACT TO PERMIT THE NAVY            
+ 320  320 4 TO SERVE MARGARINE. PROXMIRE-PROUTY AMEND.  TO PERMIT THE         
+ 320  320 5 NAVY TO USE MARGARINE ONLY IN YEARS WHEN THE GOV'T DOES NOT       
+ 320  320 6 PURCHASE MILK OR DAIRY PRODUCTS UNDER ITS PRICE-SUPPORT           
+ 320  320 7 PROGRAM.                                                          
+ 321  321 1                              SRE       MAY 26, 1960               
+ 321  321 2 S862106       Y=77 N=04                                           
+ 321  321 3 EXEC. V., 81ST CONG, 2ND SESS. (AN AGREEMENT ON THE               
+ 321  321 4 CIRCULATION OF EDUCATIONAL MATERIALS), AND EXEC. J, K, L, M,      
+ 321  321 5 & N, 86TH CONG, 1ST SESS (FOUR CONVENTIONS ON THE LAW OF THE      
+ 321  321 6 SEA AND A PROTOCOL ON THE SETTLEMENT OF DISPUTES).                
+ 322  322 1                              SRE       MAY 26, 1960               
+ 322  322 2 S862107       Y=49 N=30                                           
+ 322  322 3 EXECUTIVE N, 86TH CONG., 1ST SESS.  "OPTIONAL PROTOCOL OF         
+ 322  322 4 SIGNATURE CONCERNING THE COMPULSORY SETTLEMENT OF DISPUTES."      
+ 323  323 1                              HR10087   JUNE 01, 1960              
+ 323  323 2 S862108       Y=24 N=58                GORE, TENN                 
+ 323  323 3 HR. 10087.  PERMIT U.S. FIRMS W/FOREIGN HOLDING TO CLAIM          
+ 323  323 4 CREDITS AGAINS T U.S. TAXES FOR TAXES PAID TO FOREIGN             
+ 323  323 5 TAXES COLLECTIVELY.  GORE MOTION TO RECOMMIT.                     
+ 324  324 1                              HR11045   JUNE 02, 1960              
+ 324  324 2 S862109       Y=75 N=00                                           
+ 324  324 3 HR. 11045.  PERMIT VETERANS HOLDING NATIONAL SERVICE LIFE         
+ 324  324 4 INSURANCE TO CONVERT TO NEW POLICIES AT LOWER PREMIUM             
+ 324  324 5 PAYMENTS.  SENATE COMM.  AMEND. TO OFFER VETERANS OF              
+ 324  324 6 WWII AND KOREA A NEW OPPORTUNITY TO TAKE OUT NSLI                 
+ 324  324 7 POLICIES.                                                         
+ 325  325 1                              S3074     JUNE 02, 1960              
+ 325  325 2 S862110       Y=39 N=33                WILLIAMS, DEL              
+ 325  325 3 S. 3074.  AUTHORIZE U.S. MEMBERSHIP IN THE INTERNATIONAL          
+ 325  325 4 DEVELOPMENT ASSN.  WILLIAMS AMEND. PROHIBITING U.S. FROM          
+ 325  325 5 MAKING "GIFT" DONATIONS OF U.S.-OWNED FOREIGN CURRENCIES TO       
+ 325  325 6 THE IDA W/OUT PRIOR CONGRESSIONAL APPROVAL.                       
+ 326  326 1                              HR10569   JUNE 06, 1960              
+ 326  326 2 S862111       Y=25 N=49                ROBERTSON, VA              
+ 326  326 3 HR. 10569.  APPROPRIATE $4,841,914,000 FOR THE TREASURY           
+ 326  326 4 AND POST OFFICE DEPTS. AND U.S. TAX COURT IN                      
+ 326  326 5 FISCAL 1961.  ROBERTSON MOTION THAT SENATE AGREE TO HOUSE         
+ 326  326 6 PROVISION URGING THE POST OFFICE DEPT. TO AUTHORIZE               
+ 326  326 7 DELIVERY OF MAIL UNDER CONGRESSIONAL FRANK                        
+ 326  326 8 ADDRESSED TO "OCCUPANT."                                          
+ 327  327 1                              S2584     JUNE 07, 1960              
+ 327  327 2 S862112       Y=24 N=62                LAUSCHE, OHIO              
+ 327  327 3 S. 2584.  AUTHORIZE, FOR TWO YEARS, AN INCREASE FROM 50 TO        
+ 327  327 4 55% IN THE CEILING ON GOV'T SUBSIDIES FOR DOMESTIC MERCHANT       
+ 327  327 5 MARINE SHIP CONSTRUCTION.  LAUSCHE AMEND. PROVIDING THAT          
+ 327  327 6 WHEN THE DIFFERENCE BETWEEN DOMESTIC AND FOREIGN                  
+ 327  327 7 SHIPBUILDING COSTS EXCEEDED 50%, THE GOV'T WOULD PAY ONLY         
+ 327  327 8 ONE-HALF OF EACH ADDITIONAL PERCENT UP TO THE 55% CEILING.        
+ 328  328 1                              S2584     JUNE 07, 1960              
+ 328  328 2 S862113       Y=88 N=00                WILLIAMS, DEL              
+ 328  328 3 S. 2584.  WILLIAMS AMEND. TO BAN FREE OR REDUCED-RATE             
+ 328  328 4 TRAVEL BY GOV'T EMPLOYEES AND OFFICIALS ON US MERCHANT            
+ 328  328 5 MARINE SHIPS.                                                     
+ 329  329 1                              HR10644   JUNE 07, 1960              
+ 329  329 2 S862114       Y=60 N=26                                           
+ 329  329 3 HR. 10644.  PASSAGE OF THE AMENDED SENATE VERSION OF A            
+ 329  329 4 HOUSE BILL AUTHORIZING, FOR TWO YEARS, AN INCREASE TO 55% IN      
+ 329  329 5 THE CEILING ON GOV'T SUBSIDIES FOR SHIP CONSTRUCTION.             
+ 330  330 1                              HR5421    JUNE 07, 1960              
+ 330  330 2 S862115       Y=59 N=26                                           
+ 330  330 3 HR. 5421.  PROVIDE A THREE-YEAR, $7.5 MILLION PROGRAM             
+ 330  330 4 OF SUBSIDIES FOR CONSTRUCTION OF FISHING VESSELS.  ADOPTION       
+ 330  330 5 OF CONFERENCE REPORT.                                             
+ 331  331 1                              S2759     JUNE 09, 1960              
+ 331  331 2 S862116       Y=32 N=59                HICKENLOOPER, IOWA         
+ 331  331 3 S. 2759.  WHEAT ACT OF 1960, SETTING WHEAT PRICE SUPPORTS         
+ 331  331 4 AND CUTTING TOTAL WHEAT ACREAGE 20%.  HIKENLOOPER AMEND. TO       
+ 331  331 5 EXTEND THE CONVERVATION RESERVE PROGRAM THROUGHT 1963             
+ 331  331 6 AND EXPAND IT TO 60 MILLION ACRES.                                
+ 332  332 1                              S2759     JUNE 09, 1960              
+ 332  332 2 S862117       Y=45 N=41                ELLENDER, LA               
+ 332  332 3 S. 2759.  ELLENDER AMEND. TO SET PRICE SUPPORTS AT 75% IN         
+ 332  332 4 1961, 70% IN 1962, AND 65% IN 1963 AND CUT ACREAGE 20%            
+ 333  333 1                              S2759     JUNE 09, 1960              
+ 333  333 2 S862118       Y=41 N=45                HOLLAND, FLA               
+ 333  333 3 S. 2759.  HOLLAND MOTION TO TABLE ELLENDER MOTION TO              
+ 333  333 4 RECONSIDER PREVIOUS VOTE ON ELLENDER AMEND.                       
+ 334  334 1                              S2759     JUNE 09, 1960              
+ 334  334 2 S862119       Y=45 N=42                ELLENDER, LA               
+ 334  334 3 S. 2759.  ELLENDER MOTION TO RECONSIDER THE VOTE BY WHICH         
+ 334  334 4 THE ELLENDER AMEND. WAS AGREED TO.                                
+ 335  335 1                              S2759     JUNE 09, 1960              
+ 335  335 2 S862120       Y=39 N=46                                           
+ 335  335 3 S. 2759.  RECONSIDERATION OF ELLENDER AMEND.                      
+ 336  336 1                              S2759     JUNE 09, 1960              
+ 336  336 2 S862121       Y=48 N=34                ELLENDER, LA               
+ 336  336 3 S. 2759.  ELLENDER AMEND. TO CONTINUE EXISTING PRICE              
+ 336  336 4 SUPPORTS AT 75% OF PARITY FOR CROP YEARS 1961-63, TO CUT          
+ 336  336 5 TOTAL ACREAGE BY 20% AND TO AUTHORIZE PAYMENTS-IN-KIND            
+ 336  336 6 EQUAL TO 50% UNDER THE ACREAGE CUT.                               
+ 337  337 1                              S2759     JUNE 09, 1960              
+ 337  337 2 S862122       Y=44 N=36                                           
+ 337  337 3 S. 2759.  PASSAGE AS AMENDED BY ELLENDER.                         
+ 338  338 1                              SJRE170   JUNE 15, 1960              
+ 338  338 2 S862123       Y=51 N=44                                           
+ 338  338 3 S. J. RES. 170.  AUTHORIZE APPOINTMENT JOINTLY BY THE SENATE      
+ 338  338 4 & HOUSE OF A PRIVATE CITIZEN U.S. COMMISSION ON NATO,             
+ 338  338 5 PROVIDE FOR THE COMMISSION'S PARTICIPATION IN AN                  
+ 338  338 6 INTERNATIONAL CONVENTION OF CITIZENS FROM NATO NATIONS, AND       
+ 338  338 7 AUTHORIZE $300,000 FOR COMMISSION EXPENSES.                       
+ 339  339 1                              HR11998   JUNE 16, 1960              
+ 339  339 2 S862124       Y=85 N=00                                           
+ 339  339 3 HR. 11998.  APPROPRIATE $40,514,997,000 FOR THE DEPT.             
+ 339  339 4 OF DEFENSE FOR FISCAL 1961.                                       
+ 340  340 1                              S3670     JUNE 16, 1960              
+ 340  340 2 S862125       Y=38 N=42                CLARK, PA                  
+ 340  340 3 S. 3670.  HOUSING ACT OF 1960.  CLARK AMEND. TO                   
+ 340  340 4 AUTHORIZE CONSTRUCTION OF AN ADDITIONAL 37,000 PUBLIC             
+ 340  340 5 HOUSING UNITS.                                                    
+ 341  341 1                              S3670     JUNE 16, 1960              
+ 341  341 2 S862126       Y=42 N=39                CLARK, PA                  
+ 341  341 3 S. 3670.  CLARK AMEND. TO AUTHORIZE CONSTRUCTION OF AN            
+ 341  341 4 ADDITIONAL 25,000 PUBLIC HOUSING UNITS.                           
+ 342  342 1                              S3670     JUNE 16, 1960              
+ 342  342 2 S862127       Y=44 N=37                BENNETT, UTAH              
+ 342  342 3 S. 3670.  BENNETT AMEND. TO ELIMINATE A PROVISION REQUIRING       
+ 342  342 4 AN ANNUAL ESTIMATE BY THE PRES. OF THE NATIONS'S HOUSING          
+ 342  342 5 NEEDS.                                                            
+ 343  343 1                              S3670     JUNE 16, 1960              
+ 343  343 2 S862128       Y=64 N=16                                           
+ 343  343 3 S. 3670.  PASSAGE.                                                
+ 344  344 1                              HR9883    JUNE 17, 1960              
+ 344  344 2 S862129       Y=28 N=54                CARLSON, KAN               
+ 344  344 3 HR. 9883.  POSTAL AND FED. EMPLOYEES' SALARY INCREASE             
+ 344  344 4 ACTS OF 1960, PROVIDING A MINIMUM, ACROSS-THE BOARD 7 AND         
+ 344  344 5 1/2 PER CENT PAY INCREASE FOR 1.6 MILLION POSTAL, CLASSIFIED      
+ 344  344 6 AND OTHER FED. EMPLOYEES.  CARLSON AMEND.                         
+ 344  344 7 TO REDUCE THE PAY RAISE TO 6%                                     
+ 345  345 1                              HR9883    JUNE 17, 1960              
+ 345  345 2 S862131       Y=19 N=63                ELLENDER, LA               
+ 345  345 3 HR. 9883.  ELLENDER AMEND. TO CONFINE THE PAY RAISE TO            
+ 345  345 4 EMPLOYEES EARNING LESS THAN $10,000 ANNUALLY.                     
+ 346  346 1                              HR9883    JUNE 17, 1960              
+ 346  346 2 S862130       Y=23 N=58                ELLENDER, LA               
+ 346  346 3 HR. 9883.  ELLENDER AMEND. TO OMIT EMPLOYEES OF THE LEG.          
+ 346  346 4 BRANCH FROM THE 7 AND 1/2 PER CENT PAY RAISE.                     
+ 347  347 1                              HR9883    JUNE 17, 1960              
+ 347  347 2 S862132       Y=22 N=58                CHURCH, IDAHO              
+ 347  347 3 HR. 9883.  CHURCH AMEND. TO LIMIT THE PAY INCREASES TO            
+ 347  347 4 POSTAL WORKERS.                                                   
+ 348  348 1                              HR9883    JUNE 17, 1960              
+ 348  348 2 S862133       Y=11 N=70                DIRKSEN, ILL               
+ 348  348 3 HR. 9883.  DIRKSEN AMEND., SUBSTITUTING FOR THE 7 AND             
+ 348  348 4 1/2 PER CENT PAY INCREASE A PLAN WHEREBY THE PRES.                
+ 348  348 5 WOULD ADJUST FED. PAY RATES SO THAT THEY WERE COMPARABLE          
+ 348  348 6 TO WAGE IN PRIVATE INDUSTRY.                                      
+ 349  349 1                              HR9883    JUNE 17, 1960              
+ 349  349 2 S862134       Y=21 N=56                ERVIN, NC                  
+ 349  349 3 HR. 9883.  ERVIN MOTION TO RECOMMIT TO THE SENATE POST            
+ 349  349 4 OFFICE AND CIVIL SERVICE COMM. W/INSTRUCTIONS TO REPORT           
+ 349  349 5 BACK TWO BILLS PROVIDING, SEPARATELY, FOR PAY INCREASES           
+ 349  349 6 FOR POSTAL WORKERS AND OTHER FEDERAL EMPLOYEES.                   
+ 350  350 1                              HR9883    JUNE 17, 1960              
+ 350  350 2 S862135       Y=62 N=17                                           
+ 350  350 3 HR. 9883.                                                         
+ 351  351 1                              HR7634    JUNE 17, 1960              
+ 351  351 2 S862136       Y=70 N=05                                           
+ 351  351 3 HR. 7634.  RIVER AND HARBOR FLOOD CONTROL ACTS OF 1960.           
+ 351  351 4 PASSAGE.                                                          
+ 352  352 1                              HR11390   JUNE 17, 1960              
+ 352  352 2 S862137       Y=13 N=57                DIRKSEN, ILL               
+ 352  352 3 HR. 11390.  APPROPRIATE $4,482,539,931 IN DIRECT                  
+ 352  352 4 APPROPRIATIONS FOR THE DEPTS OF LABOR AND HEW AND                 
+ 352  352 5 RELATED AGENCIES.  DIRKSEN MOTION TO RECOMMIT TO                  
+ 352  352 6 APPROPRIATIONS COMM. W/ORDERS TO CUT $250 MILLION                 
+ 352  352 7 FROM HEW FUNDS OTHER THAN THOSE FOR PUBLIC ASSISTANCE             
+ 352  352 8 GRANTS TO THE STATES.                                             
+ 353  353 1                              HR11390   JUNE 17, 1960              
+ 353  353 2 S862138       Y=63 N=06                                           
+ 353  353 3 HR. 11390.  PASSAGE.                                              
+ 354  354 1                              HR12381   JUNE 18, 1960              
+ 354  354 2 S862139       Y=39 N=26                JOHNSON, TEXAS             
+ 354  354 3 HR. 12381.  PROVIDE A ONE-YEAR INCREASE IN THE NATIONAL           
+ 354  354 4 DEBT CEILING FROM ITS PERMANENT LEVEL OF $285 BILLION TO          
+ 354  354 5 $293 BILLION AND EXTEND FOR ONE YEAR THE CURRENT 52%              
+ 354  354 6 CORPORATE INCOME TAX RATE AND THE 10% TAXES ON LOCAL              
+ 354  354 7 CALLS AND PASSENGER TRANSPORTATION.  JOHNSON-MOTION TO            
+ 354  354 8 TABLE GORE AMEND.  WHICH WOULD ADD A PROVISION TO PREVENT         
+ 354  354 9 EXCESSIVE DEPLETION DEDUCTIONS OF CERTAIN MINERALS.               
+ 355  355 1                              HR12381   JUNE 20, 1960              
+ 355  355 2 S862140       Y=30 N=54                                           
+ 355  355 3 HR. 12381.  FINANCE COMM. AMEND. TO REPEAL THE 10% TAX ON         
+ 355  355 4 LOCAL TELEPHONE CALLS AND ON DOMESTIC TELEGRAMS.                  
+ 356  356 1                              HR12381   JUNE 20, 1960              
+ 356  356 2 S862141       Y=29 N=55                                           
+ 356  356 3 HR. 12381.  FINANCE COMM. AMEND. TO REPEAL THE 10% TAX ON         
+ 356  356 4 PASSENGER TRANSPORTATION.                                         
+ 357  357 1                              HR12381   JUNE 20, 1960              
+ 357  357 2 S862142       Y=42 N=41                MCCARTHY, MINN             
+ 357  357 3 HR. 12381.  MCCARTHY AMEND. TO REPEAL THE 4 PER CENT TAX          
+ 357  357 4 CREDIT ON DIVIDENT INCOME EXCEEDING $50 FROM DOMESTIC             
+ 357  357 5 CORPORATIONS.                                                     
+ 358  358 1                              HR12381   JUNE 20, 1960              
+ 358  358 2 S862143       Y=87 N=00                GORE, TENN                 
+ 358  358 3 HR. 12381.  GORE AMEND. TO PREVENT EXCESSIVE DEPLETION            
+ 358  358 4 DEDUCTIONS RESULTING FROM THE COMPUTATION OF PERCENTAGE           
+ 358  358 5 DEPLETION ALLOWANCES ON THE SELLING PRICE OF FINISHED             
+ 358  358 6 CLAY AND OTHER MINERAL PRODUCTS.                                  
+ 359  359 1                              HR12381   JUNE 20, 1960              
+ 359  359 2 S862144       Y=24 N=62                PROXMIRE, WISC             
+ 359  359 3 HR. 12381.  PROXMIRE AMEND. TO ESTABLISH A 20% WITHHOLDING        
+ 359  359 4 TAX ON INCOME FROM INTEREST AND DIVIDENDS.                        
+ 360  360 1                              SRE       JUNE 20, 1960              
+ 360  360 2 S862145       Y=45 N=39                CLARK, PA                  
+ 360  360 3 CLARK AMEND. TO PROHIBIT TAX DEDUCTIONS FOR BUSINESS              
+ 360  360 4 ENTERTAINMENT EXPENSES, EXCEPT FOR FOOD AND BEVERAGES, TO         
+ 360  360 5 LIMIT TO $10 PER PERSON THE AMOUNT OF A BUSINESS GIFT THAT        
+ 360  360 6 IS TAX DEDUCTIBLE AND PROHIBIT DEDUCTIONS FOR DUES OR             
+ 360  360 7 INITIATION FEES TO SOCIAL, ATHLETIC OR SPORTING CLUBS.            
+ 361  361 1                              HR12381   JUNE 20, 1960              
+ 361  361 2 S862146       Y=16 N=69                CLARK, PA                  
+ 361  361 3 HR. 12381.  CLARK AMEND. TO TAX CERTAIN GAINS FROM THE            
+ 361  361 4 SALE OF DEPRECIABLE BUSINESS EQUIPMENT AT ORDINARY TAX            
+ 361  361 5 RATES INSTEAD OF AT CAPITAL GAINS RATES.                          
+ 362  362 1                              HR12381   JUNE 20, 1960              
+ 362  362 2 S862147       Y=30 N=56                DOUGLAS, ILL               
+ 362  362 3 HR. 12381.  DOUGLAS AMEND. TO REDUCE THE ACROSS-THE-BOARD         
+ 362  362 4 27.5% DEPLETION ALLOWANCE FOR OIL AND GAS PRODUCERS AND           
+ 362  362 5 SUBSTITUTE THE FOLLOWING SCALE:  27.5% FOR PRODUCERS              
+ 362  362 6 AND SUBSTITUTE THE FOLLOWING SCALE:  27.5% FOR                    
+ 362  362 7 PRODUCERS EARNING LESS THAN $1 MILLION A YEAR, 21% FOR            
+ 362  362 8 PRODUCERS EARNING BETWEEN $1 AND $5 MILLION A YEAR, AND 15%       
+ 362  362 9 FOR PRODUCERS EARNING MORE THAN $5 MILLION A YEAR.                
+ 363  363 1                              HR12381   JUNE 20, 1960              
+ 363  363 2 S862148       Y=37 N=45                LONG, LA                   
+ 363  363 3 HR. 12381.  LONG AMEND. TO INCREASE FED. PUBLIC ASSISTANCE        
+ 363  363 4 GRANTS TO THE STATES BY $144 MILLION A YEAR.                      
+ 364  364 1                              HR12381   JUNE 20, 1960              
+ 364  364 2 S862149       Y=84 N=00                                           
+ 364  364 3 HR. 12381.  PASSAGE.                                              
+ 365  365 1                              HR12232   JUNE 20, 1960              
+ 365  365 2 S862150       Y=56 N=23                WILLIAMS, DEL              
+ 365  365 3 HR. 12232.  LEGISLATIVE APPROPRIATIONS FOR FISCAL 1961.           
+ 365  365 4 WILLIAMS-SMITH AMEND. TO SUBSTITUTE FOR A STENNIS                 
+ 365  365 5 AMEND. THAT APPLIED TO ONLY SENATORS AND SENATE EMPLOYEES,        
+ 365  365 6 A REQUIREMENT FOR ANNUAL ITEMIZED PUBLIC STATEMENTS ON            
+ 365  365 7 DOLLAR AND COUNTERPART FUNDS SPENT ON TRIPS ABROAD BY IN-         
+ 365  365 8 DIVIDUAL SENATORS, REPRESENTATIVES, AND COMMITTEE STAFF           
+ 365  365 9 MEMBERS.                                                          
+ 366  366 1                              HR12232   JUNE 20, 1960              
+ 366  366 2 S862151       Y=81 N=00                                           
+ 366  366 3 HR. 12232.  PASSAGE.                                              
+ 367  367 1                              SRE       JUNE 22, 1960              
+ 367  367 2 S862152       Y=90 N=02                                           
+ 367  367 3 EXEC. E, 86TH CONG, 2ND SESS.  TREATY OF MUTUAL                   
+ 367  367 4 COOPERATION AND SECURITY BETWEEN THE U.S. AND JAPAN.              
+ 368  368 1                              HR11776   JUNE 22, 1960              
+ 368  368 2 S862153       Y=58 N=29                MAGNUSON, WASH             
+ 368  368 3 HR. 11776.  APPROPRIATE $8,459,412,900 FOR INDEPENDENT            
+ 368  368 4 FEDERAL AGENCIES IN FISCAL 1961.  MAGNUSON MOTION TO TABLE        
+ 368  368 5 JAVITS AMEND. PROHIBITING THE USE OF FUNDS FOR THE                
+ 368  368 6 CONSTRUCTION OF AIRPORT FACILITIES WHICH WOULD CONTAIN            
+ 368  368 7 SEGREGATED FACILITIES.                                            
+ 369  369 1                              HR11776   JUNE 22, 1960              
+ 369  369 2 S862154       Y=75 N=08                                           
+ 369  369 3 HR. 11776.  PASSAGE.                                              
+ 370  370 1                              HR11389   JUNE 22, 1960              
+ 370  370 2 S862155       Y=81 N=01                                           
+ 370  370 3 HR. 11389.  APPROPRIATE $14,572,500 FOR THE EX. OFFICE OF         
+ 370  370 4 THE PRES. AND VARIOUS INDEPENDENT AGENCIES FOR FISCAL 1961.       
+ 371  371 1                              SRE       JUNE 23, 1960              
+ 371  371 2 S862156       Y=73 N=18                                           
+ 371  371 3 NOMINATION OF MAJ. GEN. JOHN S. BRAGDON AS A MEMBER OF            
+ 371  371 4 THE CIVIL AERONAUTICS BOARD.                                      
+ 372  372 1                              SRE       JUNE 23, 1960              
+ 372  372 2 S862157       Y=68 N=19                                           
+ 372  372 3 NOMINATION OF VICE ADM. RALPH WILSON AS A MEMBER OF THE           
+ 372  372 4 FEDERAL MARITIME BOARD.                                           
+ 373  373 1                              SRE       JUNE 23, 1960              
+ 373  373 2 S862158       Y=64 N=19                                           
+ 373  373 3 NOMINATION OF ROBERT E. LEE AS MEMBER OF THE FCC.                 
+ 374  374 1                              HR12231   JUNE 27, 1960              
+ 374  374 2 S,62159       Y=81 N=00                                           
+ 374  374 3 HR. 12231.  APPROPRIATE $1,067,227,000 IN FISCAL 1961 FOR         
+ 374  374 4 CONSTRUCTION OF MILITARY INSTALLATIONS IN THE U.S. AND            
+ 374  374 5 ABROAD.                                                           
+ 375  375 1                              HR12381   JUNE 28, 1960              
+ 375  375 2 S862160       Y=61 N=32                                           
+ 375  375 3 HR. 12381.  PUBLIC DEBT LIMIT AND TAX EXTENSION ACT OF            
+ 375  375 4 1960.  ADOPTION OF CONFERENCE REPORT.                             
+ 376  376 1                              S3483     JUNE 28, 1960              
+ 376  376 2 S862161       Y=45 N=41                WILEY                      
+ 376  376 3 S. 3483.  PROFESSIONAL SPORTS ANTITRUST ACT OF 1960, PROVID-      
+ 376  376 4 ING LIMITED EXEMPTIONS FOR PROF. TEAM SPORTS FROM THE             
+ 376  376 5 ANTITRUST LAWS AND OPENING THE MAJOR LEAGUE BASEBALL              
+ 376  376 6 ROSTERS TO AN ANNUAL PLAYER DRAFT.  WILEY AMEND                   
+ 376  376 7 TO PROVIDE EXEMPTIONS FOR BASEBALL AS WELL AS FOOTBALL,           
+ 376  376 8 BASKETBALL, AND HOCKEY.                                           
+ 377  377 1                              S3483     JUNE 28, 1960              
+ 377  377 2 S862162       Y=73 N=12                CARROLL, COLO              
+ 377  377 3 S. 3483.  CARROLL MOTION TO RECOMMIT TO THE JUDICARY              
+ 377  377 4 COMMITTEE.                                                        
+ 378  378 1                              HR10495   JUNE 29, 1960              
+ 378  378 2 S862163       Y=80 N=00                                           
+ 378  378 3 HR. 10495.  FEDERAL HIGHWAY ACT OF 1960.  PASSAGE.                
+ 379  379 1                              SCRE112   JUNE 30, 1960              
+ 379  379 2 S862164       Y=63 N=26                JOHNSON, TEXAS             
+ 379  379 3 S. CON. RES. 112.  JOHNSON RESOLUTION TO ADJOURN JULY 2,          
+ 379  379 4 SO THAT MEMBERS COULD ATTEND THE NATIONAL POLITICAL               
+ 379  379 5 CONVENTION, AND RECONVENE AUG. 8.                                 
+ 380  380 1                              HR11998   JUNE 30, 1960              
+ 380  380 2 S862165       Y=83 N=03                                           
+ 380  380 3 HR. 11998.  APPROPRIATE $39,996,608,000 TO THE DEPT.              
+ 380  380 4 OF DEFENSE FOR FISCAL 1961.  ADOPTION OF CONFERENCE               
+ 380  380 5 REPORT                                                            
+ 381  381 1                              HR11666   JUNE 30, 1960              
+ 381  381 2 S862166       Y=70 N=10                                           
+ 381  381 3 HR. 11666.  APPROPRIATE $712,494,147 FOR THE DEPTS OF STATE       
+ 381  381 4 AND JUSTICE, THE JUDICIARY AND RELATED AGENCIES IN                
+ 381  381 5 FISCAL 1961, PLUS $5,550,000 IN INDEFINITE APPROPRIATIONS         
+ 381  381 6 FROM SPECIAL ACCOUNTS IN THE TREASURY.                            
+ 382  382 1                              HR9883    JULY 01, 1960              
+ 382  382 2 S862167       Y=74 N=24                                           
+ 382  382 3 HR. 9883.  POSTAL AND FED. EMPLOYEES' SALARY INCREASE ACTS        
+ 382  382 4 OF 1960.  PASSAGE OVER PRESIDENT'S VETO.                          
+ 383  383 1                              HR12740   JULY 01, 1960              
+ 383  383 2 S862168       Y=90 N=02                                           
+ 383  383 3 HR. 12740.  APPROPRIATE $166,324,740 IN SUPPLEMENTAL              
+ 383  383 4  UNDS FOR VARIOUS GOV'T AGENCIES DURING FISCAL 1960 AND           
+ 383  383 5 1961.                                                             
+ 384  384 1                              SJRE217   JULY 02, 1960              
+ 384  384 2 S862169       Y=84 N=00                                           
+ 384  384 3 S. J. RES. 217.  AUTHORIZE THE PRES. TO CUT THE CUBAN             
+ 384  384 4 SUGAR QUOTA FOR 1960.                                             
+ 385  385 1                              HR12311   JULY 03, 1960              
+ 385  385 2 S862170       Y=50 N=07                ANDERSON, NM               
+ 385  385 3 HR. 12311.  EXTEND THE SUGAR ACT OF 1948 FOR ONE YEAR, AND        
+ 385  385 4 AUTHORIZE THE PRES. TO CUT AND REDISTRIBUTE THE QUOTA FOR         
+ 385  385 5 CUBA.  ANDERSON AMEND. RESTRICTING PROVISIONS TO 1960             
+ 385  385 6 AUTHORIZING BROADER PRESIDENTIAL DESCRETION IN                    
+ 385  385 7 REDISTRIBUTING QUOTAS.                                            
+ 386  386 1                              HR12311   JULY 03, 1960              
+ 386  386 2 S862171       Y=29 N=30                MORSE, ORE                 
+ 386  386 3 HR. 12311.  MORSE AMEND. TO SUBSTITUTE THE LANUAGE OF             
+ 386  386 4 S. J. RES. 217.                                                   
+ 387  387 1                              HR12311   JULY 03, 1960              
+ 387  387 2 S862172       Y=32 N=24                                           
+ 387  387 3 HR. 12311.  ADOPTION OF CONFERENCE REPORT.                        
+ 388  388 1                              S3823     AUG. 09, 1960              
+ 388  388 2 S862173       Y=54 N=28                CLARK, PA                  
+ 388  388 3 S. 3823.  BILL PROVIDING FOR THE ESTABLISHMENT OF A               
+ 388  388 4 PRESIDENT'S COMMISSION ON EQUAL JOB OPPORTUNITY AND               
+ 388  388 5 AUTHORIZING FEDERAL ASSISTANCE TO AREAS DESEGREGATING             
+ 388  388 6 SCHOOLS.  CLARK MOTION TO TABLE.                                  
+ 389  389 1                              SRE       AUG. 10, 1960              
+ 389  389 2 S862174       Y=29 N=56                ENGLE, CALIF               
+ 389  389 3 EXEC. B, 86TH CONG., 2ND SESS. THE ANTARTIC TREATY.               
+ 389  389 4 ENGLE MOTION TO DEFER FURTHER CONSIDERATION UNTIL                 
+ 389  389 5 JAN. 25, 1961.                                                    
+ 390  390 1                              SRE       AUG. 10, 1960              
+ 390  390 2 S862175       Y=66 N=21                                           
+ 390  390 3 EXEC. B, 86TH CONG., 2ND SESS. RATIFICATION.                      
+ 391  391 1                              HR12326   AUG. 10, 1960              
+ 391  391 2 S862176       Y=86 N=00                                           
+ 391  391 3 HR. 12326.  APPROPRIATE $4,030,010,605 FOR PUBLIC WORKS           
+ 391  391 4 PROJECTS AND FOR THE AEC FOR FISCAL 1961.                         
+ 392  392 1                              S3758     AUG. 16, 1960              
+ 392  392 2 S862177       Y=18 N=80                COOPER, KY                 
+ 392  392 3 S. 3758.  INCREASE MINIMUM WAGE AND OVERTIME PROTECTION AND       
+ 392  392 4 EXTEND COVERAGE UNDER THE FAIR LABOR STANDARDS ACT OF             
+ 392  392 5 1938.  COOPER SUBSTITUTE FOR PENDING HOLLAND AMEND.               
+ 392  392 6 PROHIBITING THE SEC. OF LABOR FROM REGULATING CONDITIONS          
+ 392  392 7 OF EMPLOYMENT OF MIGRANT AGRICULTURAL WORKERS WHO                 
+ 392  392 8 DID NOT MOVE FROM STATE TO STATE.                                 
+ 393  393 1                              S3758     AUG. 16, 1960              
+ 393  393 2 S862178       Y=42 N=56                HOLLAND, FLA               
+ 393  393 3 S. 3758.  HOLLAND AMEND. TO PROHIBIT THE SEC. OF LABOR FROM       
+ 393  393 4 REGULATING THE CONDITIONS OF EMPLOYMENT OF ALL                    
+ 393  393 5 U.S. MIGRANT AGRICULTURAL WORKERS.                                
+ 394  394 1                              S3758     AUG. 17, 1960              
+ 394  394 2 S862179       Y=39 N=56                HOLLAND, FLA               
+ 394  394 3 S. 3758.  HOLLAND AMEND. TO REDUCE THE NUMBER OF NEW WORKERS      
+ 394  394 4 TO BE COVERED FROM ABOUT 5 MILLION TO ABOUT 280,000.              
+ 395  395 1                              SRE       AUG. 17, 1960              
+ 395  395 2 S862180       Y=95 N=00                                           
+ 395  395 3 EXEC D, 86TH CONG., AND 2ND SESS. (CONVENTION OF PARIS FOR        
+ 395  395 4 PROTECTION OF INDUSTRIAL PROPERTY OF MARCH 10, 1883).             
+ 395  395 5 REVISION BROADENED THE CONVENTION'S PROTECTIVE FRAMEWORK AND      
+ 395  395 6 REMOVED CERTAIN AMBIGUITIES.                                      
+ 396  396 1                              SRE       AUG. 17, 1960              
+ 396  396 2 S862181       Y=94 =01                                            
+ 396  396 3 EXEC. F, 86TH CONG., 2ND SESS. (TREATY OF FRIENDSHIP              
+ 396  396 4 AND COMMERCE BETWEEN THE U.S. AND PAKISTAN) AND                   
+ 396  396 5 EXEC G, 86TH CONG, 2ND SESS.  (CONVENTION OF ESTABLISHMENT        
+ 396  396 6 BETWEEN THE U.S. AND FRANCE).                                     
+ 397  397 1                              S3758     AUG. 17, 1960              
+ 397  397 2 S862182       Y=39 N=54                DIRKSEN, ILL               
+ 397  397 3 S. 3758.  DIRKSEN AMEND. TO PROVIDE A MINIMUM WAGE                
+ 397  397 4 RAISE TO $1.15 AND EXTEND $1 MINIMUM WAGE BUT NOT OVERTIME        
+ 397  397 5 PROTECTION TO WORKERS EMPLOYED BY RETAIL OR SERVICE CHAINS        
+ 397  397 6 HAVING FIVE OR MORE ESTABLISHMENTS AND OPERATING IN TWO OR        
+ 397  397 7 MORE STATES.                                                      
+ 398  398 1                              S3758     AUG. 17, 1960              
+ 398  398 2 S862183       Y=41 N=56                PROUTY, VT                 
+ 398  398 3 S. 3758.  PROUTY AMEND. TO RETAIN THE PROPOSED $1.25              
+ 398  398 4 MINIMUM WAGE BUT PROVIDE $1.10 FOR NEWLY COVERED                  
+ 398  398 5 WORKERS AND LIMIT EXTENSION OF COVERAGE.                          
+ 399  399 1                              S3758     AUG. 18, 1960              
+ 399  399 2 S862184       Y=50 N=48                MORSE, ORE                 
+ 399  399 3 S. 3758.  MORSE MOTION TO TABLE MONRONEY AMEND. TO                
+ 399  399 4 LIMIT COVERAGE EXTENSION TO RETAIL AND SERVICE                    
+ 399  399 5 EMPLOYEES IN CHAINS OPERATING IN TWO OR MORE STATES,              
+ 399  399 6 REGARDLESS OF THE EMPLOYER'S VOLUME OF BUSINESS.                  
+ 400  400 1                              S3758     AUG. 18, 1960              
+ 400  400 2 S862185       Y=87 N=08                ANDERSON, NM               
+ 400  400 3 S. 3758.  ANDERSON AMEND., AS AMENDED BY ALLOT, EXCLUDING         
+ 400  400 4 FROM COVERAGE EMPLOYEES OF HOTELS, MOTELS, RESTAURANTS            
+ 400  400 5 AND AUTOMOBILE AND FARM IMPLEMENT RETAIL ESTABLISHMENTS.          
+ 401  401 1                              S3758     AUG. 18, 1960              
+ 401  401 2 S862186       Y=50 N=46                COOPER, KY                 
+ 401  401 3 S. 3758.  COOPER AMEND. TO RETAIN EXISTING OVERTIME               
+ 401  401 4 EXEMPTIONS FOR CERTAIN WORKERS IN INDUSTRIES PROCESSING           
+ 401  401 5 AGRICULTURAL COMMODITIES.                                         
+ 402  402 1                              HR12677   AUG. 18, 1960              
+ 402  402 2 S862187       Y=62 N=34                                           
+ 402  402 3 HR. 12677.  SENATE-AMENDED VERSION OF THE HOUSE'S                 
+ 402  402 4 MINIMUM WAGE BILL.  PASSAGE.                                      
+ 403  403 1                              HR8860    AUG. 19, 1960              
+ 403  403 2 S862188       Y=59 N=28                                           
+ 403  403 3 HR. 8860.  AUTHORIZE SUBSIDIES TO SMALL LEAD AND ZINC             
+ 403  403 4 PRODUCERS.                                                        
+ 404  404 1                              S3861     AUG. 19, 1960              
+ 404  404 2 S862189       Y=54 N=19                                           
+ 404  404 3 S. 3861.  AUTHORIZE $500 MILLION TO AID THE SOCIAL                
+ 404  404 4 DEVELOPMENT AND ECONOMIC GROWTH OF LATIN AMERICA AND              
+ 404  404 5 $100 MILLION TO AID CHILEAN RECOVERY FROM RECENT                  
+ 404  404 6 EARTHQUAKES.                                                      
+ 405  405 1                              S3855     AUG. 19, 1960              
+ 405  405 2 S862190       Y=59 N=14                                           
+ 405  405 3 S. 3855.  INCREASE BY $100 MILLION THE FISCAL 1961                
+ 405  405 4 AUTHORIZATION FOR THE PRESIDENT'S MUTUAL SECURITY                 
+ 405  405 5 CONTINGENCY FUND.                                                 
+ 406  406 1                              HR12580   AUG. 23, 1960              
+ 406  406 2 S862191       Y=28 N=67                JAVITS, NY                 
+ 406  406 3 HR. 12580.  SOCIAL SECURITY AMENDMENTS OF 1960.  JAVITS           
+ 406  406 4 SUBSTITUTE FOR PENDING ANDERSON AMEND. (BELOW)                    
+ 406  406 5 PROVIDING A CHOICE OF SPECIFIED MINIMUM MEDICAL BENEFITS,         
+ 406  406 6 FINANCED BY FEDERAL-STATE MATCHING GRANTS, FOR PERSONS            
+ 406  406 7 OVER 65 IN STATES CHOOSING TO                                     
+ 406  406 8 TO PARTICIPATE IN THE PROGRAM.                                    
+ 407  407 1                              HR12580   AUG. 23, 1960              
+ 407  407 2 S862192       Y=44 N=51                ANDERSON, NM               
+ 407  407 3 HR. 12580.  ANDERSON AMEND. PROVIDING MEDICAL BENEFITS            
+ 407  407 4 FOR ALL SOCIAL SECURITY RETIREES 68 AND OVER, TO                  
+ 407  407 5 BE FINANCED BY AN INCREASE IN THE SOCIAL SECURITY PAYROLL         
+ 407  407 6 TAX.                                                              
+ 408  408 1                              HR12580   AUG. 23, 1960              
+ 408  408 2 S862193       Y=51 N=38                LONG, LA                   
+ 408  408 3 HR. 12580.  LONG AMEND. TO INCLUDE COVERAGE OF MENTAL             
+ 408  408 4 AND TUBERCULOSIS PATIENTS IN STATE PROGRAMS FOR THE MEDICAL-      
+ 408  408 5 LY NEEDY.                                                         
+ 409  409 1                              HR12580   AUG. 23, 1960              
+ 409  409 2 S862194       Y=91 N=02                                           
+ 409  409 3 HR. 12580.  PASSAGE.                                              
+ 410  410 1                              HR12619   AUG. 24, 1960              
+ 410  410 2 S862195       Y=67 N=26                                           
+ 410  410 3 HR. 12619.  MUTUAL SECURITY AND RELATED AGENCIES                  
+ 410  410 4 APPROPRIATIONS FOR FISCAL 1961.                                   
+ 411  411 1                              HR12619   AUG. 26, 1960              
+ 411  411 2 S862196       Y=57 N=24                                           
+ 411  411 3 HR. 12619.  ADOPTION OF CONFERENCE REPORT.                        
+ 412  412 1                              HR12580   AUG. 29, 1960              
+ 412  412 2 S862197       Y=74 N=11                                           
+ 412  412 3 HR. 12580.  SOCIAL SECURITY AMENDMENTS OF 1960.                   
+ 412  412 4 ADOPTION OF CONFERENCE REPORT.                                    
+ 413  413 1                              HR13161   AUG. 29, 1960              
+ 413  413 2 S862198       Y=56 N=31                                           
+ 413  413 3 HR. 13161.  SECOND SUPPLEMENTAL APPROPRIATION ACT FOR             
+ 413  413 4 FISCAL 1961.  COMMITTEE AMENDMENTS PROVIDING $190                 
+ 413  413 5 MILLION FOR THE MUTUAL SECURITY PROGRAM.                          
+ 414  414 1                              HR13161   AUG. 29, 1960              
+ 414  414 2 S862199       Y=67 N=21                                           
+ 414  414 3 HR. 13161.  SECOND SUPPLEMENTAL APPROPRIATION ACT,                
+ 414  414 4 PROVIDING $305,042,731 FOR VARIOUS AGENCIES AND PROGRAMS.         
+ 415  415 1                              SRE334    AUG. 29, 1960              
+ 415  415 2 S862200       Y=33 N=52                KEATING, NY                
+ 415  415 3 S.RES. 334.  EXPRESSING THE SENSE OF THE SENATE THAT THE          
+ 415  415 4 PRES. SHOULD NOT MAKE RECESS APPOINTMENTS TO THE SUPREME          
+ 415  415 5 COURT, EXCEPT TO PREVENT OR END A BREAKDOWN IN THE                
+ 415  415 6 ADMINISTRATION OF THE COURT'S BUSINESS.  KEATING MOTION TO        
+ 415  415 7 RECOMMIT TO JUDICARY COMM.                                        
+ 416  416 1                              SRE334    AUG. 29, 1960              
+ 416  416 2 S862201       Y=48 N=37                                           
+ 416  416 3 S.RES. 334.  ADOPTION OF THE RESOLUTION.                          
+ 417  417 1                              S3713     AUG. 29, 1960              
+ 417  417 2 S862202       Y=50 N=21                MORSE, ORE                 
+ 417  417 3 S. 3713 (HR 13053) BILL TO INCREASE SALARIES OF D.C.              
+ 417  417 4 POLICE, FIREMAN AND U.S. PARK AND WHITE HOUSE POLICE              
+ 417  417 5 7 AND 1/2 PERCENT AND PERMIT FBI DIRECTOR HOOVER TO               
+ 417  417 6 RETIRE AT FULL PAY.  MORSE MOTION TO TABLE WILLIAMS AMEND.        
+ 417  417 7 TO INCREASE THE DC SALES TAX FROM 2 PER CENT TO 3 PER CENT.       
+ 418  418 1                              HR4384    SEPT. 01, 1960             
+ 418  418 2 S862203       Y=33 N=47                KEATING, NY                
+ 418  418 3 HR. 4384.  AMEND THE TARIFF ACT OF 1930 TO PROVIDE                
+ 418  418 4 FOR THE FREE IMPORTATION OF CERTAIN RELIGIOUS ARTICLES.           
+ 418  418 5 KEATING MOTION TO TABLE BOTH THE CLARK AMEND. DIRECTING THE       
+ 418  418 6 FED. GOV'T TO W/HOLD CITY WAGE TAXES IN CITIES W/A                
+ 418  418 7 POPULATION OVER 75,000 FROM SALARIES OF FED. EMPLOYEES            
+ 418  418 8 WHO LIVE IN THE SAME STATE AS THE CITY IMPOSING THE               
+ 418  418 9 TAX, AND THE COTTON AMEND. TO THE CLARK AMEND. PROHIBITING        
+ 418  41810 THE FED. EMPLOYEES NOT LIVING W/IN THE STATE IN WHICH             
+ 418  41811 THEY WORK.                                                        
+ 419  419 1                              HR4384    SEPT. 01, 1960             
+ 419  419 2 S862204       Y=48 N=33                KERR, OKLA                 
+ 419  419 3 HR. 4384.  KERR MOTION TO TABLE COTTON AMEND. (ABOVE).            
+ 420  420 1                              HR4384    SEPT. 01, 1960             
+ 420  420 2 S862205       Y=50 N=32                CLARK, PA                  
+ 420  420 3 HR. 4384.  CLARK AMEND. (ABOVE)                                   
+ 421  421 1                              HR13062   SEPT. 01, 1960             
+ 421  421 2 S862206       Y=62 N=17                DIRKSEN, ILL               
+ 421  421 3 HR. 13062.  EXTEND SUGAR ACT AND AUTHORIZE PRES. TO CUT THE       
+ 421  421 4 SUGAR QUOTA OF THE DOMINICAN REPUBLIC, PROVIDED THE OAS           
+ 421  421 5 VOTED ECONOMIC SANCTIONS ON THE DOMICAN REPUBLIC BY OCT. 15.      
+ 421  421 6 DIRKSEN SUBSTITUTE AMEND. TO GRANT THE PRES. AUTHORITY            
+ 421  421 7 TO CUT THE DOMINICAN QUOTA W/OUT REGARD TO ANY OAS ACTION.        
+ 422  422 1                              HR4384    SEPT. 01, 1960             
+ 422  422 2 S862207       Y=78 N=01                JOHNSON, TEXAS             
+ 422  422 3 HR. 4384.  JOHNSON MOTION TO RESUME CONSIDERATION OF THE          
+ 422  422 4 BILL.                                                             

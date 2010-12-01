@@ -1,0 +1,1425 @@
+   1    1 1               EX J 4-7       SRE       MAR. 7, 1829               
+   1    1 2 E210001       Y=25 N=20                BIBB, KY.                  
+   1    1 3 TO ADOPT THE RESOLUTION TO ADVISE AND CONSENT TO THE              
+   1    1 4 NOMINATION OF ANDREW DUNLOP AS U.S. ATTORNEY FOR THE              
+   1    1 5 DISTRICT OF MASSACHUSETTS.                                        
+   2    2 1               EX J 4-9       SRE       MAR. 9, 1829               
+   2    2 2 E210002       Y=41 N=0                 TAZEWELL, VA.              
+   2    2 3 TO ADOPT THE RESOLUTION:  THAT THE SENATE, HAVING                 
+   2    2 4 RE-EXAMINED THE TREATY OF COMMERCE AND NAVIGATION                 
+   2    2 5 (STAT. 8 L. 378), CONCLUDED MAY, 1828, WITH THE KING OF           
+   2    2 6 PRUSSIA, DO AGAIN CONSENT THERETO, AND ADVISE THE PRESIDENT       
+   2    2 7 TO PROCEED TO THE EXCHANGE OF THE RATIFICATION OF SAME, NOT       
+   2    2 8 WITHSTANDING THE EXPIRATION OF TIME STIPULATED FOR EXCHANGE       
+   2    2 9 BY TERMS OF TREATY.                                               
+   3    3 1               EX J 4-10      HRE       MAR. 10, 1829              
+   3    3 2 E210003       Y=37 N=0                 TAZEWELL, VA.              
+   3    3 3 TO ADOPT THE RESOLUTION THAT THE SENATE ADVISE AND CONSENT        
+   3    3 4 TO THE RATIFICATION OF THE TREATY WITH THE EMPEROR OF             
+   3    3 5 BRAZIL, CONCLUDED AT RIO DE JANIERO, DECEMBER, 1828,              
+   3    3 6 (STAT. 8 L 390)                                                   
+   4    4 1               EX J 4-12      SRE       MAR. 11, 1829              
+   4    4 2 E210004       Y=25 N=15                WHITE, TENN.               
+   4    4 3 TO TABLE THE RESOLUTION TO AUTHORIZE A SUBSCRIPTION FOR A         
+   4    4 4 CERTAIN NUMBER OF COPIES OF THE CONGRESSIONAL DOCUMENTS,          
+   4    4 5 PROPOSED TO BE PUBLISHED BY GALES AND SEATON.                     
+   5    5 1               EX J 4-17      SRE       MAR. 11, 1829              
+   5    5 2 E21005        Y=33 N=3                                            
+   5    5 3 TO CONSENT TO THE NOMINATION OF THOMAS MCCRATE, COLLECTOR OF      
+   5    5 4 CUSTOMS FOR THE DISTRICT, AND INSPECTOR OF THE REVENUE FOR        
+   5    5 5 THE PORT OF WISCASSET, MAINE.                                     
+   6    6 1               EX J 4-21      SRE       MAR. 13, 1829              
+   6    6 2 E210006A      Y=21 N=12                                           
+   6    6 3 TO ADOPT THE RESOLUTION THAT THE SENATE ADVISE AND CONSENT        
+   6    6 4 TO THE NOMINATION OF THOMAS MOORE, AS ENVOY EXTRAORDINARY         
+   6    6 5 AND MINISTER PLENPOTENTIARY TO THE U.S. OF COLUMBIA.              
+   7    7 1               EX J 4-22      SRE       MAR. 13, 1829              
+   7    7 2 E210006B      Y=6 N=30                 SMITH, S.C.                
+   7    7 3 TO TABLE THE PANAMA RESOLUTION.                                   
+   8    8 1               EX J 4-23A     SRE       MAR. 14, 1829              
+   8    8 2 E210007       Y=16 N=19                BELL, N.H.                 
+   8    8 3 TO ELIMINATE THE SUBJECT IN THE NOMINATION OF                     
+   8    8 4 JOHN CRITTENDEN, AND OTHERS, IN ORDER TO SUBSTITUTE AS            
+   8    8 5 FOLLOWS:  THAT THE INJUNCTION OF SECRECY BE, AND IT IS HERE-      
+   8    8 6 BY REMOVED FROM THE PROCEEDINGS OF THE SENATE ON THE SEVERAL      
+   8    8 7 NOMINATIONS MADE BY THE PRESIDENT AT THE LAST AND PRESENT         
+   8    8 8 SESSION OF THE SENATE.                                            
+   9    9 1               EX J 4-23B     SRE       MAR. 14, 1829              
+   9    9 2 E210008       Y=4 N=31                 MCKINLEY, ALA.             
+   9    9 3 TO TABLE THE RESOLUTION TO REMOVE THE INJUNCTION OF SECRECY       
+   9    9 4 FROM THE PROCEEDINGS OF THE SENATE REGARDING THE NOMINATION       
+   9    9 5 OF JOHN CRITTENDEN, AND OTHERS.                                   
+  10   10 1               EX J 4-23C     SRE       MAR. 14, 1829              
+  10   10 2 E210009       Y=27 N=8                 MCLANE, DEL.               
+  10   10 3 TO ADOPT THE RESOLUTION TO REMOVE THE INJUNCTION OF SECRECY       
+  10   10 4 FROM THE CONSIDERATION OF THE NOMINATION OF JOHN CRITTENDEN       
+  10   10 5 AND OTHERS.                                                       
+  11   11 1               EX J 4-25A     SRE       MAR. 16, 1829              
+  11   11 2 E210010       Y=13 N=19                WEBSTER, MASS.             
+  11   11 3 TO AMEND THE PANAMA RESOLUTION BY STRIKING OUT THE ENTIRE         
+  11   11 4 RESOLUTION AND INSERTING:  "THAT THE MESSAGE OF THE               
+  11   11 5 PRESIDENT, TRANSMITTING THE INSTRUCTIONS GIVEN TO THE             
+  11   11 6 MINISTERS OF THE U.S. AT THE CONGRESS OF PANAMA AND THE           
+  11   11 7 DOCUMENTS ACCOMPANYING IT, BE TRANSFERRED TO THE LEGISLATIVE      
+  11   11 8 JOURNAL OF THE SENATE."                                           
+  12   12 1               EX J 4-25B     SRE       MAR. 16, 1829              
+  12   12 2 E210011       Y=9 N=23                 TAZEWELL, VA.              
+  12   12 3 TO AMEND THE PANAMA RESOLUTION AS FOLLOWS: SINCE THE              
+  12   12 4 SENATE CAN NOT DISCOVER ANY POSSIBLE BENEFIT FROM PUBLICAT-       
+  12   12 5 ION OF THE PRESIDENT'S INSTRUCTIONS, THEY SHOULD BE               
+  12   12 6 RETURNED TO THE DEPARTMENT OF STATE.                              
+  13   13 1               EX J 4-26A     SRE       MAR. 16, 1829              
+  13   13 2 E210012       Y=13 N=19                RUGGLES, OHIO              
+  13   13 3 TO AMEND THE PROPOSED AMENDMENT TO THE PANAMA RESOLUTION BY       
+  13   13 4 ELIMINATING THE FOLLOWING: "IT BEING HEREBY DECLARED THAT         
+  13   13 5 SUCH TRANSFER IS NOT TO BE CONSIDERED AS THE EXPRESSION OF        
+  13   13 6 THE OPINION ON THE PART OF THE SENATE, OF THE PROPRIETY OF        
+  13   13 7 THE SAID MESSAGE, OR OF THE LANGUAGE USED, THE PRINCIPLES         
+  13   13 8 AVOWED, OR MEASURES SUGGESTED IN SAID INSTRUCTIONS."              
+  14   14 1               EX J 4-26B     SRE       MAR. 13, 1829              
+  14   14 2 E210013       Y=21 N=11                WEBSTER, MASS.             
+  14   14 3 TO AMEND THE AMENDMENT TO THE PANAMA RESOLUTION, WHICH            
+  14   14 4 DISAVOWS SENATE APPROVAL OF THE PRESIDENT'S MESSAGE TO THE        
+  14   14 5 MINISTERS, BY INSERTING, AFTER THE WORD "PROPRIETY", THE          
+  14   14 6 WORDS, "OR IMPROPRIETY."                                          
+  15   15 1               EX J 4-26C     SRE       MAR. 16, 1829              
+  15   15 2 E210014       Y=22 N=9                 MCLANE, DEL.               
+  15   15 3 TO AGREE TO THE AMENDED PANAMA RESOLUTION.                        
+  16   16 1               EX J 4-27      SRE       MAR. 16, 1829              
+  16   16 2 E210015       Y=13 N=18                SEYMOUR, VT.               
+  16   16 3 TO PRINT THE PRESIDENT'S MESSAGES AND INSTRUCTIONS TO THE         
+  16   16 4 U.S. MINISTERS TO THE CONGRESS AT PANAMA.                         
+  17   17 1               EX J 4-30      SRE       DEC. 29, 1829              
+  17   17 2 E211001       Y=12 N=25                FORSYTH, GA.               
+  17   17 3 TO MAINTAIN THE SIXTH ARTICLE, OF THE TREATY WITH THE             
+  17   17 4 WINNEBAYGO INDIANS (STAT. 7 L. 323):  THAT THE U.S. AGREE         
+  17   17 5 (BY REQUEST OF SAID INDIANS) TO APPOINT A SUBAGENT FOR THEM       
+  17   17 6 ON THE WATERS OF ROCK RIVER, AND ALSO CONTINUE THE PRESENT        
+  17   17 7 SUBAGENCY AT FORT WINNEBAYGO.                                     
+  18   18 1               EX J 4-31      SRE       DEC. 29, 1829              
+  18   18 2 E211002       Y=12 N=25                WHITE, TENN.               
+  18   18 3 TO AMEND THE SIXTH ARTICLE OF THE TREATY WITH THE                 
+  18   18 4 WINNEBAYGO INDIANS TO PROVIDE THAT REJECTION OF THIS ARTICLE      
+  18   18 5 BY THE SENATE IS NOT TO AFFECT THE VALIDITY OF THIS TREATY.       
+  19   19 1               EX J 4-32A     SRE       DEC. 30, 1829              
+  19   19 2 E211003       Y=38 N=1                 WHITE, TENN.               
+  19   19 3 TO ADOPT THE RESOLUTION TO MAINTAIN THE SIXTH ARTICLE OF THE      
+  19   19 4 TREATY WITH THE WINNEBAYGO INDIANS.                               
+  20   20 1               EX J 4-32B     SRE       DEC. 30, 1829              
+  20   20 2 E211004       Y=35 N=1                 WHITE, TENN.               
+  20   20 3 TO RATIFY THE TREATIES WITH THE CHIPPEWA, OTTAWA, AND             
+  20   20 4 POTTAWATTAMIE INDIANS.  (STAT. 7 L. 320).                         
+  21   21 1               EX J 4-33      SRE       DEC. 31, 1829              
+  21   21 2 E211005       Y=37 N=0                 WHITE, TENN.               
+  21   21 3 TO RATIFY THE TREATY WITH THE DELAWARE INDIANS UPON THE           
+  21   21 4 SANDUSKY RIVER, MADE AT LITTLE SANDUSKY, AUG., 1829.              
+  21   21 5 (STAT. 7 L. 326)                                                  
+  22   22 1               EX J 4-43A     SRE       JAN. 5, 1830               
+  22   22 2 E211006       Y=20 N=22                BARTON, MO.                
+  22   22 3 TO PRINT THE MEMORIAL OF BEVERLEY ALLEN, PRAYING TO BE            
+  22   22 4 ADVISED OF THE CAUSE OF HIS REMOVAL FROM THE OFFICE OF U.S.       
+  22   22 5 ATTORNEY FOR THE DISTRICT OF MISSOURI.                            
+  23  113 1               J 21-1-65      HJR       JAN. 5, 1830               
+  23  113 2 S21-1-65      Y=29 N=10                                           
+  23  113 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE HOUSE JOINT         
+  23  113 4 RESOLUTION (APP. 1013-30), (4 STAT. L 429), TO GRANT USE          
+  23  113 5 OF LIBRARY OF CONGRESS BOOKS TO DEPARTMENT HEADS, CERTAIN         
+  23  113 6 CONGRESSIONAL OFFICERS, AND TO FORMER PRESIDENTS.                 
+  24   23 1               EX J 4-43B     SRE       JAN. 6, 1830               
+  24   23 2 E211007       Y=41 N=2                                            
+  24   23 3 TO ADVISE AND CONSENT TO THE NOMINATION OF HENRY BALDWIN TO       
+  24   23 4 BE ASSOCIATE JUSTICE OF THE SUPREME COURT.                        
+  25  114 1               J 21-1-80A     S         JAN. 12, 1830              
+  25  114 2 S211002       Y=23 N=20                BENTON, MO.                
+  25  114 3 TO RECONSIDER THE VOTE BY WHICH THE SENATE REJECTED AN            
+  25  114 4 AMEND. TO S. 18, (APP. 5-31, 4 STAT. L. 428), FOR THE RELIEF      
+  25  114 5 OF U.S. CITIZENS WHO LOST PROPERTY BY DEPREDATIONS OF             
+  25  114 6 CERTAIN INDIAN TRIBES; SAID AMENDMENT TO AUTHORIZE THE            
+  25  114 7 SECRETARY OF WAR TO DECIDE AMOUNT OF PAYMENT TO EACH CITIZEN      
+  25  114 8 WHO PROVES LOSS THROUGH INDIAN DEPREDATION.                       
+  26  115 1               J 21-1-80B     S         JAN. 12, 1830              
+  26  115 2 S211003       Y=27 N=16                BENTON, MO.                
+  26  115 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 18.                  
+  26  115 4 (APP. 5-31-30, 4 STAT. L. 428), FOR THE RELIEF OF U.S.            
+  26  115 5 CITIZENS WHO HAVE LOST THEIR PROPERTY BY THE DEPREDATIONS OF      
+  26  115 6 CERTAIN INDIAN TRIBES.                                            
+  27  116 1               J 21-1-83      S         JAN. 13, 1830              
+  27  116 2 S211004       Y=29 N=12                MCKINLEY, ALA.             
+  27  116 3 TO PASS S. 19, (APP. 5-29-30, 4 STAT. L. 420), TO GRANT           
+  27  116 4 PRE-EMPTION RIGHTS TO SETTLERS ON THE PUBLIC LANDS.               
+  28  117 1               J 21-1-97A     SRE       JAN. 21, 1830              
+  28  117 2 S211005       Y=40 N=1                                            
+  28  117 3 TO CONCUR IN THE FIRST CLAUSE OF AN AMENDMENT TO THE              
+  28  117 4 RESOLUTION DIRECTING THE SECRETARY OF THE SENATE TO               
+  28  117 5 SUBSCRIBE FOR AND TO DISTRIBUTE, THE USUAL NUMBER OF COPIES       
+  28  117 6 OF COMPILATION OF PUBLIC DOCUMENTS TO BE PRINTED BY               
+  28  117 7 GALES & SEATON; SAID AMENDMENT TO LIMIT THE NUMBER OF             
+  28  117 8 VOLUMES TO THIRTY, AND TO MAKE THE SENATE SECRETARY               
+  28  117 9 RESPONSIBLE FOR SELECTION OF THE DOCUMENTS.                       
+  29  118 1               J 21-1-97B     SRE       JAN. 21, 1830              
+  29  118 2 S211006       Y=20 N=21                                           
+  29  118 3 TO CONCUR IN THE SECOND CLAUSE OF AN AMENDMENT TO THE PUBLIC      
+  29  118 4 DOCUMENT RESOLUTION WHICH CLAUSE PROVIDES THAT THE PRICE          
+  29  118 5 SHALL NOT EXCEED THE ESTABLISHED RATE OF PUBLIC PRINTING.         
+  30  119 1               J 21-1-111A    SRE       JAN. 29, 1830              
+  30  119 2 S211007       Y=17 N=22                HAYNE, S.C.                
+  30  119 3 TO POSTPONE CONSIDERATION OF THE PUBLIC DOCUMENT RESOLUTION,      
+  30  119 4 AND TO MAKE IT THE ORDER OF THE DAY FOR NEXT MONDAY.              
+  31  120 1 RD-6- -94     J 21-1-111B    SRE       JAN. 29, 1830              
+  31  120 2 S211008       Y=17 N=21                FORSYTH, GA.               
+  31  120 3 TO REFER THE PUBLIC DOCUMENTS RESOLUTION TO THE JOINT             
+  31  120 4 COMMITTEE ON THE LIBRARY OF CONGRESS, IN ORDER TO PERMIT          
+  31  120 5 FURTHER CONSIDERATION AND AMENDMENT.                              
+  32  121 1               J 21-1-111C    SRE       JAN. 2, 1830               
+  32  121 2 S211009       Y=17 N=21                WOODBURY, N.H.             
+  32  121 3 TO REFER THE PUBLIC DOCUMENTS RESOLUTION TO THE COMMITTEE ON      
+  32  121 4 AUDIT AND CONTROL OF CONTINGENT SENATE EXPENSES, WITH             
+  32  121 5 INSTRUCTIONS TO DETERMINE A REASONABLE PRICE LIMIT FOR SAME.      
+  33  122 1               J 21-1-111D    SRE       JAN. 29, 1830              
+  33  122 2 S211010       Y=17 N=21                GRUNDY, TENN.              
+  33  122 3 TO ADJOURN; MOTION MADE DURING CONSIDERATION OF THE PUBLIC        
+  33  122 4 DOCUMENT RESOLUTION.                                              
+  34  123 1               J 21-1-112     SRE       JAN. 29, 1830              
+  34  123 2 S211011       Y=16 N=21                WOODBURY, N.H.             
+  34  123 3 TO REFER THE PUBLIC DOCUMENT RESOLUTION TO THE COMMITTEE ON       
+  34  123 4 FINANCE.                                                          
+  35  124 1               J 21-1-112B    SRE       JAN. 29, 1830              
+  35  124 2 S211012       Y=16 N=21                WOODBURY, N.H.             
+  35  124 3 TO REFER THE PUBLIC DOCUMENT RESOLUTION TO THE COMMITTEE ON       
+  35  124 4 AUDIT AND CONTROL OF CONTINGENT SENATE EXPENSES.                  
+  36  125 1               J 21-1-112C    SRE       JAN. 29, 1830              
+  36  125 2 S211013       Y=21 N=16                LIVINGSTON, LA.            
+  36  125 3 TO PASS THE AMENDED PUBLIC DOCUMENT RESOLUTION.                   
+  37   24 1               EX J 4-57A     SRE       FEB. 10, 1830              
+  37   24 2 E211008       Y=46 N=0                 TAZEWELL, VA.              
+  37   24 3 TO RATIFY THE TREATY OF COMMERCE AND NAVIGATION WITH HIS          
+  37   24 4 MAJESTY, THE EMPEROR OF AUSTRIA, CONCLUDED AT WASHINGTON,         
+  37   24 5 AUGUST, 1829.  (STAT 8 L 398)                                     
+  38   25 1               EX J 4-57B     SRE       FEB. 10, 1830              
+  38   25 2 E211009       Y=25 N=21                WOODBURY, N.H.             
+  38   25 3 TO TABLE THE NOMINATION OF JOHN MCNEIL TO BE SURVEYOR AND         
+  38   25 4 INSPECTOR OF THE DISTRICT AND PORT OF BOSTON.                     
+  39   26 1               EX J 4-57C     SRE       FEB. 10, 1830              
+  39   26 2 E211010       Y=26 N=21                                           
+  39   26 3 TO ADVISE AND CONSENT TO THE NOMINATION OF                        
+  39   26 4 CORNELIUS VAN NESS TO BE ENVOY EXTRAORDINARY AND MINISTER         
+  39   26 5 PELNIPOTANTIARY OF THE U.S. AT THE COURT OF                       
+  39   26 6 HIS CATHOLIC MAJESTY, IN PLACE OF ALEXANDER EVERETT,              
+  39   26 7 RECALLED.                                                         
+  40  126 1               J 21-1-135     SRE       FEB. 11, 1830              
+  40  126 2 S211014       Y=13 N=27                FORSYTH, GA.               
+  40  126 3 TO TABLE THE RESOLUTION TO INSTRUCT THE COMMITTEE ON              
+  40  126 4 INDIAN AFFAIRS TO INQUIRE AND REPORT ON WHAT FURTHER PROVIS-      
+  40  126 5 IONS MAY BE NECESSARY TO PREVENT ENROACHMENTS UPON LANDS          
+  40  126 6 BELONGING TO, OR IN POSSESSION OF, ANY INDIANS, WHETHER           
+  40  126 7 GUARANTEED TO THEM BY TREATY OR IN WHICH THE INDIAN'S TITLE       
+  40  126 8 HAS NOT BEEN EXTINGUISHED.                                        
+  41   27 1               EX J 4-58      SRE       FEB. 15, 1830              
+  41   27 2 E211011       Y=39 N=6                                            
+  41   27 3 TO ADVISE AND CONSENT TO THE NOMINATION OF JOHN ELLIOT TO BE      
+  41   27 4 U.S. ATTORNEY FOR THE SOUTHERN DISTRICT OF ALA.                   
+  42   28 1               EX J 4-59      SRE       FEB. 15, 1830              
+  42   28 2 E211012       Y=25 N=22                WOODBURY, N.H.             
+  42   28 3 TO ADVISE AND CONSENT TO THE NOMINATION OF                        
+  42   28 4 JOHN MC NEIL JR. TO BE SURVEYOR AND COLLECTOR FOR THE PORT        
+  42   28 5 OF BOSTON.                                                        
+  43   29 1               EX J 4-62      SRE       FEB. 17, 1830              
+  43   29 2 E211013       Y=11 N=34                WOODBURY, N.H.             
+  43   29 3 TO ADVISE AND CONSENT TO THE NOMINATION OF LEMUEL WILLIAMS        
+  43   29 4 TO BE COLLECTOR OF CUSTOMS FOR THE DISTRICT OF                    
+  43   29 5 NEW BEDFORD, MASSASSHUSSETS.                                      
+  44  138 1               J 21-1-219     S         MAR. 1, 1830               
+  44  138 2 S211025A      Y=19 N=24                FORSYTH, GA.               
+  44  138 3 TO CONCUR IN AN AMENDMENT TO THE BILL S. 48, ENABLING THE         
+  44  138 4 PRESIDENT TO EXTINGUISH INDIAN TITLE WITHIN THE STATE OF          
+  44  138 5 INDIANA, WHICH AMENDMENT PROHIBITS SECRET GIFTS TO THE            
+  44  138 6 LEADERS OF TRIBES WITH WHICH TREATY IS MADE.                      
+  45   30 1               EX J 4-66A     SRE       MAR. 4, 1830               
+  45   30 2 E211014       Y=26 N=20                WOODBURY, N.H.             
+  45   30 3 TO BRING UP AGAIN FOR PASSAGE, THE NOMINATION OF                  
+  45   30 4 LEMUEL WILLIAMS TO BE COLLECTOR OF CUSTOMS FOR THE                
+  45   30 5 DISTRICT OF NEW BEDFORD.                                          
+  46  127 1               J 21-1-169     HR        MAR. 5, 1830               
+  46  127 2 S211015       Y=22 N=23                SMITH, MD.                 
+  46  127 3 TO AGREE TO AN AMENDMENT TO H.R. 102, (APP. 3-18-30,              
+  46  127 4 4 STAT. L. 377), MAKING APPROPRIATIONS FOR THE SUPPORT OF         
+  46  127 5 GOVERNMENT FOR THE YEAR 1830, WHICH AMENDMENT, MADE AS IN         
+  46  127 6 COMMITTEE OF THE WHOLE, ELIMINATES IN THE FIRST PART THE          
+  46  127 7 PROVISION THAT NO PART OF THIS APPROPRIATION BE APPLIED TO        
+  46  127 8 ANY PRINTING, OTHER THAN SUCH DOCUMENTS OR PAPERS AS ARE          
+  46  127 9 CONNECTED WITH THE ORDINARY PROCEEDING OF EITHER OF THE           
+  46  12710 SAID HOUSES.                                                      
+  47  128 1               J 21-1-170     HR        MAR. 5, 1830               
+  47  128 2 S211016A      Y=22 N=23                SMITH, MD.                 
+  47  128 3 TO AMEND H.R. 102 BY ELIMINATING THE SECOND CLAUSE OF A           
+  47  128 4 PROPOSED AMENDMENT, WHICH CLAUSE READS: "AND EXECUTED BY THE      
+  47  128 5 PUBLIC PRINTERS, AGREEABLE TO THEIR CONTRACTS, UNLESS             
+  47  128 6 AUTHORIZED BY AN ACT OR A JOINT RESOLUTION."                      
+  48  129 1               J 21-1-171     HR        MAR. 6, 1830               
+  48  129 2 S211016B      Y=3 N=39                 CHAMBERS, MD.              
+  48  129 3 TO AMEND H.R. 102 TO ELIMINATE THE WORDS: "FOR OUTFITS OF         
+  48  129 4 MINISTERS OF THE U.S. TO GREAT BRITIAN, FRANCE, SPAIN, AND        
+  48  129 5 COLUMBIA, AND A CHARGE D'AFFAIRES TO MEXICO."                     
+  49   31 1               EX J 4-66B     SRE       MAR. 10, 1830              
+  49   31 2 E211015       Y=0 N=46                 TAZEWELL, VA.              
+  49   31 3 TO ADVISE AND CONSENT TO THE NOMINATION OF HENRY LEE AS           
+  49   31 4 CONSUL GENERAL OF THE U.S., AT ALGIERS.                           
+  50  130 1               J 21-1-177     S         MAR. 10, 1830              
+  50  130 2 S211017       Y=32 N=9                 SILSBEE, MASS.             
+  50  130 3 TO AMEND S. 49, CONCERNING COINS AND THE MINT, TO ELIMINATE       
+  50  130 4 THE FOURTH SECTION WHICH PROVIDES THAT NO FOREIGN COIN SHALL      
+  50  130 5 BE A LEGAL TENDER FOR THE PAYMENT OF ANY DEBT.                    
+  51  131 1               J 21-1-181A    S         MAR. 11, 1830              
+  51  131 2 S211018       Y=27 N=18                HENDRICKS, IND.            
+  51  131 3 TO PASS S. 68, TO IMPROVE THE MAIL ROAD BETWEEN LOUISVILLE        
+  51  131 4 AND ST. LOUIS.                                                    
+  52  132 1 RD-6- -246A   J 21-1-181B    S         MAR. 11, 1830              
+  52  132 2 S211019       Y=9 N=33                 BARTON, MO.                
+  52  132 3 TO PASS S. 69, TO RECOMPENSE THE HEIRS OF ROBERT FULTON, BY       
+  52  132 4 PROVIDING A GRANT OF A PORTION OF THE PUBLIC LANDS.               
+  53   32 1               EX J 4-68      SRE       MAR. 12, 1830              
+  53   32 2 E211016       Y=35 N=12                                           
+  53   32 3 TO ADVISE AND CONSENT TO THE NOMINATION OF ANTHONY BUTLER AS      
+  53   32 4 CHARGE D'AFFAIRS OF THE U.S. AT MEXICO.                           
+  54  133 1 RD-6- -246B   J 21-1-184     S         MAR. 12, 1830              
+  54  133 2 S211020       Y=23 N=18                ROWAN, KY.                 
+  54  133 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 74, TO               
+  54  133 4 AUTHORIZE A SUBSCRIPTION OF STOCK ON THE PART OF THE U.S. IN      
+  54  133 5 THE LOUISVILLE AND PORTLAND CANAL COMPANY.                        
+  55   33 1               EX J 4-70A     SRE       MAR. 16, 1830              
+  55   33 2 E211017       Y=19 N=27                BARTON, MO.                
+  55   33 3 TO TABLE THE RESOLUTION TO ADVISE AND CONSENT TO THE NOMINA-      
+  55   33 4 TION OF WILLIAM FULTON AS SECRETARY FOR THE ARKANSAS TERR.        
+  56  134 1               J 21-1-188     S         MAR. 16, 1830              
+  56  134 2 S211021       Y=30 N=14                ROWAN, KY.                 
+  56  134 3 TO PASS S. 73, (APP. 3-2-31, 6 STAT. L. 459), FOR THE             
+  56  134 4 RELEASE ROM PAYMENT OF A JUDGEMENT OBTAINED BY THE U.S.           
+  56  134 5 AGAINST GEORGE JOHNSTON, AS A SURETY OF BENJAMIN F. BOURNE,       
+  56  134 6 A PURSER IN THE NAVY.                                             
+  57   34 1               EX J 4-70B     SRE       MAR. 17, 1830              
+  57   34 2 E211018       Y=17 N=25                BARTON, MO.                
+  57   34 3 TO REFER THE NOMINATION OF WILLIAM FULTON TO THE COMMITTEE        
+  57   34 4 ON JUDICIARY WITH INSTRUCTIONS TO INQUIRE INTO THE CAUSE          
+  57   34 5 OF THE REMOVAL OF ROBERT CRITTENDEN, FROM THE OFFICE OF           
+  57   34 6 SECRETARY OF THE TERRITORY OF ARKANSAS.                           
+  58   35 1               EX J 4-71A     SRE       MAR. 17, 1830              
+  58   35 2 E211019       Y=17 N=25                BARTON, MO.                
+  58   35 3 TO REFER TO THE PRESIDENT, THE NOMINATION OF                      
+  58   35 4 WILLIAM FULTON WITH A REQUEST THAT HE INFORM THE SENATE OF        
+  58   35 5 THE CAUSE OF REMOVAL OF ROBERT CRITTENDEN FROM THE OFFICE OF      
+  58   35 6 SECRETARY OF THE TERRITORY OF ARKANSAS.                           
+  59   36 1               EX J 4-71B     SRE       MAR. 17, 1830              
+  59   36 2 E211020       Y=26 N=17                WOODBURY, N.H.             
+  59   36 3 TO ADOPT THE RESOLUTION TO ADVISE AND CONSENT TO THE              
+  59   36 4 APPOINTMENT OF WILLIAM FULTON AS THE SECRETARY OF THE             
+  59   36 5 TERRITORY OF ARKANSAS.                                            
+  60   37 1               EX J 4-71C     SRE       MAR. 17, 1830              
+  60   37 2 E211021       Y=28 N=15                                           
+  60   37 3 TO ADVISE AND CONSENT TO THE NOMINATION OF JOHN PATTERSON AS      
+  60   37 4 U.S. MARSHALL FOR THE DISTRICT OF OHIO.                           
+  61   38 1               EX J 4-74A     SRE       MAR. 19, 1830              
+  61   38 2 E211022       Y=21 N=25                SPRAGUE, MAINE             
+  61   38 3 TO ADVISE AND CONSENT TO THE NOMINATION OF JOSHUA CARPENTER       
+  61   38 4 AS COLLECTOR OF CUSTOMS AT PENOBSCOT, MAINE.                      
+  62   39 1               EX J 4-74B     SRE       MAR. 19, 1830              
+  62   39 2 E211023       Y=27 N=19                WOODBURY, N.H.             
+  62   39 3 TO RECONSIDER THE RESOLUTION TO ADVISE AND CONSENT TO THE         
+  62   39 4 APPOINTMENT OF JOSHUA CARPENTER AS COLLECTOR OF CUSTOMS AT        
+  62   39 5 PENOBSCOT, MAINE.                                                 
+  63   40 1               EX J 4-74      SRE       MAR. 22, 1830              
+  63   40 2 E211024       Y=20 N=26                MARKS, PA.                 
+  63   40 3 TO REQUEST THE PRESIDENT TO GIVE THE SENATE INFORMATION OF        
+  63   40 4 THE CAUSE OF REMOVAL OF WILLIAM CLARKE FROM THE OFFICE OF         
+  63   40 5 U.S. TREASURER.                                                   
+  64   41 1               EX J 4-76A     SRE       MAR. 22, 1830              
+  64   41 2 E211025       Y=26 N=20                                           
+  64   41 3 TO ADVISE AND CONSENT TO THE NOMINATION OF JOHN CAMPBELL AS       
+  64   41 4 AGENT TO THE CREEK INDIANS.                                       
+  65   42 1               EX J 4-76B     SRE       MAR. 23, 1830              
+  65   42 2 E211026       Y=19 N=26                WILLEY, CONN.              
+  65   42 3 TO REQUEST THE PRESIDENT TO COMMUNICATE TO THE SENATE THE         
+  65   42 4 REASON FOR THE REMOVAL OF NATHAN SMITH FROM THE OFFICE OF         
+  65   42 5 ATTORNEY FOR THE DISTRICT OF CONNECTICUT.                         
+  66   43 1               EX J 4-77A     SRE       MAR. 23, 1830              
+  66   43 2 E211027       Y=22 N=23                ROWAN, KY.                 
+  66   43 3 TO ADVISE AND CONSENT TO THE NOMINATION OF SAMUEL HERRICK TO      
+  66   43 4 BE U.S. ATTORNEY FOR THE DISTRICT OF OHIO.                        
+  67   44 1               EX J 4-77B     SRE       MAR. 23, 1830              
+  67   44 2 E211028       Y=25 N=21                WOODBURY, N.H.             
+  67   44 3 TO ADVISE AND CONSENT TO THE NOMINATION OF MARTIN GORDON AS       
+  67   44 4 COLLECTOR OF CUSTOMS FOR THE DISTRICT OF MISSISSIPPI, LA.         
+  68   45 1               EX J 4-78      SRE       MAR. 23, 1830              
+  68   45 2 E211029       Y=23 N=22                CHAMBERS, MD.              
+  68   45 3 TO TABLE THE RESOLUTION TO NOMINATE DABNEY CARR AS NAVAL          
+  68   45 4 OFFICER FOR THE DISTRICT OF BALTIMORE.                            
+  69   46 1               EX J 4-79A     SRE       MAR. 24, 1830              
+  69   46 2 E211030       Y=19 N=27                CHAMBERS, MD.              
+  69   46 3 TO REQUEST THE PRESIDENT TO INFORM THE SENATE OF REASONS FOR      
+  69   46 4 THE REMOVAL OF WILLIAM BARNEY FROM OFFICE OF NAVAL OFFICER        
+  69   46 5 FOR THE PORT OF BALTIMORE.                                        
+  70   47 1               EX J 4-79B     SRE       MAR. 24, 1830              
+  70   47 2 E211031       Y=24 N=21                WOODBURY, N.H.             
+  70   47 3 TO ADVISE AND CONSENT TO THE NOMINATION OF SAMUEL PHILLIPS        
+  70   47 4 AS COLLECTOR OF CUSTOMS FOR THE DISTRICT OF                       
+  70   47 5 NEWBURYPORT, MASS.                                                
+  71   48 1               EX J 4-79C     SRE       MAR. 24, 1830              
+  71   48 2 E211032       Y=25 N=19                                           
+  71   48 3 TO ADVISE AND CONSENT TO THE NOMINATION OF JOHN BOYD AS           
+  71   48 4 NAVAL OFFICER OF BOSTON AND CHARLESTOWN.                          
+  72   49 1               EX J 4-81A     SRE       MAR. 25, 1830              
+  72   49 2 E211033       Y=25 N=21                ROWAN, KY.                 
+  72   49 3 TO ADVISE AND CONSENT TO THE NOMINATION OF JAMES WESTERVELT       
+  72   49 4 TO BE SECRETARY FOR THE TERRITORY OF FLORIDA.                     
+  73   50 1               EX J 4-81B     SRE       MAR. 25, 1830              
+  73   50 2 E211034       Y=14 N=26                HOLMES, MAINE              
+  73   50 3 TO RECOMMIT THE NOMINATION OF WILLIAM KING AS COLLECTOR OF        
+  73   50 4 CUSTOMS AT BATH, MAINE, TO THE COMMITTEE OF COMMERCE WITH         
+  73   50 5 INSTRUCTIONS TO TAKE TESTIMONY AND TO INVESTIGATE WITH FULL       
+  73   50 6 AUTHORITY CHARGES AGAINST KING, AND TO MAKE A DETAILED            
+  73   50 7 REPORT ON ALL FACTS PROVED.                                       
+  74   51 1               EX J 4-81C     SRE       MAR. 25, 1830              
+  74   51 2 E211035       Y=25 N=17                WOODBURY, N.H.             
+  74   51 3 TO ADVISE AND CONSENT TO THE NOMINATION OF WILLIAM KING AS        
+  74   51 4 COLLECTOR OF CUSTOMS AT BATH, MAINE.                              
+  75   52 1               EX J 4-82      SRE       MAR. 26, 1830              
+  75   52 2 E211036       Y=24 N=22                ROWAN, KY.                 
+  75   52 3 TO ADVISE AND CONSENT TO THE NOMINATION OF GEORGE REED AS         
+  75   52 4 U.S. ATTORNEY FOR THE DISTRICT OF DELAWARE.                       
+  76  135 1               J 21-1-205     HR        MAR. 26, 1830              
+  76  135 2 S211022       Y=19 N=17                FOOTE, CONN.               
+  76  135 3 TO ORDER SECOND READING OF H.R. 248, DECLARATORY OF THE           
+  76  135 4 SEVERAL ACTS PROVIDING FOR CERTAIN PERSONS ENGAGED IN THE         
+  76  135 5 LAND AND NAVAL SERVICE OF THE U.S. DURING THE REVOLUTIONARY       
+  76  135 6 WAR.                                                              
+  77  136 1               J 21-1-206     SRE       MAR. 26, 1830              
+  77  136 2 S211023       Y=29 N=17                SMITH, S.C.                
+  77  136 3 TO PROVIDE THAT WHEN THE SENATE ADJOURN TODAY, IT DO SO           
+  77  136 4 UNTIL NEXT MONDAY.                                                
+  78   53 1               EX J 4-83      SRE       MAR. 29, 1830              
+  78   53 2 E211037       Y=1 N=43                 WOODBURY, N.H.             
+  78   53 3 TO ADVISE AND CONSENT TO THE NOMINATION OF JOHN P. DECATUR        
+  78   53 4 TO BE COLLECTOR OF CUSTOMS FOR THE DISTRICT OF                    
+  78   53 5 PORTSMOUTH, N.H.                                                  
+  79   54 1               EX J 4-84A     SRE       MAR. 29, 1830              
+  79   54 2 E211038       Y=25 N=21                WOODBURY, N.H.             
+  79   54 3 TO ADVISE AND CONSENT TO THE NOMINATION OF SAMUEL SWARTOUT        
+  79   54 4 TO BE COLLECTOR OF CUSTOMS AT NEW YORK, N.Y.                      
+  80   55 1               EX J 4-84B     SRE       MAR. 29, 1830              
+  80   55 2 E211039       Y=9 N=36                                            
+  80   55 3 TO ADVISE AND CONSENT TO THE NOMINATION OF SAMUEL CUSHMAN AS      
+  80   55 4 U.S. ATTORNEY FOR THE DISTRICT OF NEW HAMPSHIRE.                  
+  81  137 1               J 21-1-212     SRE       MAR. 30, 1830              
+  81  137 2 S211024       Y=25 N=20                WHITE, TENN.               
+  81  137 3 TO AMEND AN AMENDMENT TO THE RESOLUTION AUTHORIZING THE           
+  81  137 4 PRINTING OF 3,000 COPIES OF THE SECRETARY OF WAR'S REPORT         
+  81  137 5 ON THE STATE OF CIVILIZATION AMONG THE INDIANS, BY ADDING,        
+  81  137 6 TO THE AMENDMENT THAT THIS REPORT BE PRINTED FOR USE OF THE       
+  81  137 7 SENATE, A PROVISION TO INCLUDE THEREIN TWO LETTERS                
+  81  137 8 ADDRESSED TO PRYOR LEA BY ABRAHAM HEARD AND CALEB STARR.          
+  82  139 1               J 21-1-221     S         APR. 2, 1830               
+  82  139 2 S211025B      Y=37 N=0                 WHITE, TENN.               
+  82  139 3 TO PASS S. 48, TO ENABLE THE PRESIDENT TO EXTINGUISH              
+  82  139 4 INDIAN TITLE TO LANDS IN INDIANA.                                 
+  83  140 1               J 21-1-225     S         APR. 5, 1830               
+  83  140 2 S211026       Y=28 N=9                 MCKINLEY, ALA.             
+  83  140 3 TO PASS S. 92, TO GRANT TO THE STATE OF ALA., CERTAIN LANDS       
+  83  140 4 FOR THE PURPOSE OF IMPROVING THE NAVIGATION OF THE                
+  83  140 5 COOSA RIVER AND TO CONNECT ITS WATERS WITH THOSE OF THE           
+  83  140 6 TENNESSEE RIVER BY A CANAL.                                       
+  84  141 1 RD-6- -309    J 21-1-232     S         APR. 8, 1830               
+  84  141 2 S211027       Y=34 N=10                HAYNE, S.C.                
+  84  141 3 TO PASS S. 98, TO REGULATE THE DUTIES AND PROVIDING FOR THE       
+  84  141 4 COMPENSATION OF PURSERS IN THE NAVY.                              
+  85  142 1               J 21-1-235     SRE       APR. 9, 1830               
+  85  142 2 S211028       Y=18 N=27                HOLMES, MAINE              
+  85  142 3 TO PROVIDE THAT WHEN THE SENATE ADJOURNS TODAY, IT DO SO          
+  85  142 4 UNTIL MONDAY.                                                     
+  86  143 1 RD-6- -322    J 21-1-239     S         APR. 10, 1830              
+  86  143 2 S211029       Y=36 N=6                 HAYNE, S.C.                
+  86  143 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 95, TO               
+  86  143 4 ESTABLISH THE OFFICE OF SURGEON GENERAL OF THE NAVY.              
+  87   56 1               EX J 4-89A     SRE       APR. 12, 1830              
+  87   56 2 E211040       Y=26 N=22                WOODBURY, N.H.             
+  87   56 3 TO ADVISE AND CONSENT TO THE NOMINATION OF DAVID HENSHAW TO       
+  87   56 4 BE COLLECTOR OF CUSTOMS FOR THE DISTRICT OF BOSTON AND            
+  87   56 5 CHARLESTOWN.                                                      
+  88   57 1               EX J 4-89B     SRE       APR. 12, 1830              
+  88   57 2 E211041       Y=24 N=23                                           
+  88   57 3 TO ADVISE AND CONSENT TO THE NOMINATION OF DABUEY CARR TO BE      
+  88   57 4 NAVAL OFFICER FOR THE DISTRICT OF BALTIMORE, MARYLAND.            
+  89   58 1               EX J 4-90A     SRE       APR. 12, 1830              
+  89   58 2 E211042       Y=23 N=25                FORSYTH, GA.               
+  89   58 3 TO POSTPONE FURTHER CONSIDERATION OF THE NOMINATION OF            
+  89   58 4 ISAAC HILL TO BE SECOND COMPTROLLER OF THE TREASURY.              
+  90   59 1               EX J 4-90B     SRE       APR. 12, 1830              
+  90   59 2 E211043       Y=15 N=33                ROWAN, KY.                 
+  90   59 3 TO ADVISE AND CONSENT TO THE NOMINATION OF ISAAC HILL AS          
+  90   59 4 SECOND COMPTROLLER OF THE TREASURY.                               
+  91  144 1               J 21-1-245     S         APR. 15, 1830              
+  91  144 2 S211030       Y=18 N=22                ROWAN, KY.                 
+  91  144 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 87, TO               
+  91  144 4 REORGANIZE THE ESTABLISHMENT OF THE OFFICE OF ATTORNEY            
+  91  144 5 GENERAL, AND TO CHANGE IT INTO AN EXECUTIVE DEPARTMENT.           
+  92  145 1 RD-6- -340    J 21-1-247     HR        APR. 16, 1830              
+  92  145 2 S211031       Y=26 N=16                HENDRICKS, IND.            
+  92  145 3 TO CONCUR IN THE AMENDMENT TO H.R. 279, (APP. 5-31-30,            
+  92  145 4 4 STAT. L. 427), TO APPROPRIATE FOR EXAMINATIONS AND              
+  92  145 5 SURVEYS, ALSO FOR CERTAIN WORKS OF INTERNAL IMPROVEMENTS;         
+  92  145 6 SAID AMENDMENT TO APPROPRIATE $232,4000 FOR VARIOUS               
+  92  145 7 PROJECTS CONCERNING THE CUMBERLAND ROAD, WITH STIPULATIONS        
+  92  145 8 FOR SOURCE OF SUCH FUNDS, AND SUPERVISION OF SUCH PROJECTS.       
+  93  146 1 RD- - -343    J 21-1-248     HR        APR. 16, 1830              
+  93  146 2 S211032       Y=15 N=31                DICKERSON, N.J.            
+  93  146 3 TO AMEND H.R. 279, BY ELIMINATING $10,400 APPROPRIATION FOR       
+  93  146 4 COMPLETING SURVEY AND ESTIMATE OF A CANAL TO CONNECT THE          
+  93  146 5 ATLANTIC OCEAN WITH THE GULF OF MEXICO, TOGETHER WITH THE         
+  93  146 6 REPORT FROM THE SECRETARY OF WAR.                                 
+  94  147 1               J 21-1-249     S         APR. 17, 1830              
+  94  147 2 S211033       Y=20 N=23                NOBLE, IND.                
+  94  147 3 TO POSTPONE INDEFINITELY S. 62, FOR THE BENEFIT OF THE            
+  94  147 4 NEW YORK INSTITUTION FOR THE INSTRUCTION OF THE DEAF AND          
+  94  147 5 DUMB.                                                             
+  95  148 1               J 21-1-250A    S         APR. 17, 1830              
+  95  148 2 S211034       Y=22 N=21                BARTON, MO.                
+  95  148 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 62.                  
+  96  149 1               J 21-1-250B    HR        APR. 17, 1830              
+  96  149 2 S211035       Y=26 N=17                HENDRICKS, IND.            
+  96  149 3 TO PASS H.R. 279.                                                 
+  97  150 1               J 21-1-253     S         APR. 20, 1830              
+  97  150 2 S211036       Y=24 N=18                DICKERSON, N.J.            
+  97  150 3 TO RECONSIDER THE VOTE WHICH REJECTED ENGROSSMENT OF S. 87.       
+  98  151 1               J 21-1-254     S         APR. 20, 1830              
+  98  151 2 S211037       Y=24 N=17                BARTON, MO.                
+  98  151 3 TO PASS S. 62.                                                    
+  99  152 1               J 21-1-266A    S         APR. 24, 1830              
+  99  152 2 S211038       Y=20 N=27                FRELINGHUYS, N.J.          
+  99  152 3 TO AMEND S. 102 (APP. 5-28-30, 4 STAT. L. 411), TO PROVIDE        
+  99  152 4 FOR AN EXCHANGE OF LANDS WITH THE INDIANS RESIDING IN ANY         
+  99  152 5 OF THE STATES OR TERRITORIES, AND FOR THEIR REMOVAL TO THE        
+  99  152 6 WEST OF THE MISSISSIPPI RIVER, BY INSERTING THE PROVISO:          
+  99  152 7 THAT UNTIL THE SAID TRIBES OF NATIONS SHALL CHOOSE TO             
+  99  152 8 REMOVE... THEY SHALL BE PROTECTED IN THEIR PRESENT                
+  99  152 9 POSSESSIONS, AND IN THE ENJOYMENT OF ALL THEIR RIGHTS OF          
+  99  15210 TERRITORY AND GOVERNMENT AS HERETOFORE EXERCISED AND              
+  99  15211 ENJOYED FROM ALL INTERRUPTIONS AND ENCROACHMENTS, AND             
+  99  15212 GUARANTEED BY TREATIES HERETOFORE MADE.                           
+ 100  153 1 RD-6- -546    J 21-1-266B    S         APR. 24, 1830              
+ 100  153 2 S211039       Y=19 N=28                FRELINGHUYS, N.J.          
+ 100  153 3 TO AMEND S. 102 BY PROVIDING THAT BEFORE ANY REMOVAL OF ANY       
+ 100  153 4 OF THE TRIBES OR NATIONS, AND BEFORE ANY EXCHANGE OF LANDS        
+ 100  153 5 THE RIGHTS OF ANY SUCH TRIBES OR NATIONS IN THE PREMISES          
+ 100  153 6 SHALL BE STIPULATED FOR, SECURED AND GRARANTEED BY TREATY OR      
+ 100  153 7 TREATIES, AS HERETOFORE MADE.                                     
+ 101  154 1               J 21-1-267A    S         APR. 24, 1830              
+ 101  154 2 S211040       Y=20 N=27                SPRAGUE, MAINE             
+ 101  154 3 TO AMEND S. 10, BY ADDING A PROVISO THAT, UNTIL THE SAID          
+ 101  154 4 TRIBES OR NATIONS SHALL CHOOSE TO REMOVE AS BY THIS ACT IS        
+ 101  154 5 CONTEMPLATED, THEY SHALL BE PROTECTED IN THEIR PRESENT            
+ 101  154 6 POSSESSIONS AND IN THE ENJOYMENT OF ALL THEIR RIGHTS OF           
+ 101  154 7 TERRITORY AND GOVERNMENT, AS PROMISED OR GUARANTEED TO THEM       
+ 101  154 8 BY TREATIES WITH THE U.S. ACCORDING TO THE TRUE INTENT AND        
+ 101  154 9 MEANING OF SUCH TREATIES.                                         
+ 102  155 1               J 21-1-267B    S         APR. 24, 1830              
+ 102  155 2 S211041       Y=20 N=27                FRELINGHUYS, N.J.          
+ 102  155 3 TO AMEND S. 102 BY INSERTING A PROVISO THAT NOTHING HEREIN        
+ 102  155 4 CONTAINED SHALL BE CONSTRUED TO AUTHORIZE THE DEPARTURE FROM      
+ 102  155 5 ANY TREATY HERETOFORE ENTERED INTO BETWEEN THE U.S. AND THE       
+ 102  155 6 CHEROKEE INDIANS.                                                 
+ 103  156 1               J 21-1-268A    S         APR. 24, 1830              
+ 103  156 2 S211042       Y=10 N=37                SANFORD, N.Y.              
+ 103  156 3 TO AMEND AN AMENDMENT TO S. 102, BY STIPULATING THAT THE          
+ 103  156 4 U.S. SHALL BEAR NONE OF THE EXPENSE CONNECTED WITH                
+ 103  156 5 EXTINGUISHING LAND TITLES, NOR PAYING FOR IMPROVEMENT OF          
+ 103  156 6 LANDS, NOR REMOVAL OF, NOR FIRST YEAR'SS RESIDENCE OF             
+ 103  156 7 INDIANS AS REFERRED TO IN THIS BILL.                              
+ 104  157 1 RD-6- -383    J 21-1-268B    S         APR. 24, 1830              
+ 104  157 2 S211043       Y=28 N=19                WHITE, TENN.               
+ 104  157 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 102.                 
+ 105  158 1 RD-6- -385    J 21-1-270     SRE       APR. 26, 1830              
+ 105  158 2 S211044       Y=22 N=15                KANE, ILL.                 
+ 105  158 3 TO TABLE THE RESOLUTION REQUESTING THE PRESIDENT TO INFORM        
+ 105  158 4 THE SENATE FOR WHAT CAUSE OF UNFITNESS, OR FOR WHAT ACT OF        
+ 105  158 5 OFFICIAL MISCONDUCT, WILLIAM CARSON HAS BEEN REMOVED FROM         
+ 105  158 6 THE OFFICE OF REGISTER OF THE LAND OFFICE AT PALMYRA, MO.,        
+ 105  158 7 BEFORE THE EXPIRATION OF HIS LEGAL TERM OF SERVICE.               
+ 106   60 1               EX J 4-96      SRE       APR. 27, 1830              
+ 106   60 2 E211044       Y=26 N=19                HAYNE, S.C.                
+ 106   60 3 TO ADVISE AND CONSENT TO THE NOMINATION OF NASH LEGRAND AS        
+ 106   60 4 NAVAL AGENT FOR THE PORT OF NORFOLK.                              
+ 107  159 1 RD-6- -396    J 21-1-273     SRE       APR. 28, 1830              
+ 107  159 2 S211045       Y=24 N=21                GRUNDY, TENN.              
+ 107  159 3 TO POSTPONE THE RESOLUTION REQUESTING THE PRESIDENT TO            
+ 107  159 4 COMMUNICATE TO THE SENATE THE NUMBER, NAMES AND OFFICES OF        
+ 107  159 5 THE OFFICERS REMOVED BY HIM SINCE THE LAST SESSION OF THE         
+ 107  159 6 SENATE, WITH THE REASONS FOR EACH REMOVAL.                        
+ 108  160 1               J 21-1-278A    S         APR. 30, 1830              
+ 108  160 2 S211046       Y=24 N=22                ROWAN, KY.                 
+ 108  160 3 TO AGREE TO AN AMENDMENT TO S. 87, IN THE NATURE OF A SUB-        
+ 108  160 4 STITUTE; SAID AMENDMENT TO CREATE AN EXECUTIVE DEPARTMENT TO      
+ 108  160 5 BE KNOWN AS THE LAW DEPARTMENT, OF WHICH THE ATTORNEY             
+ 108  160 6 GENERAL SHALL BE THE CHIEF OFFICER, AND ALL THE RIGHTS,           
+ 108  160 7 POWERS AND DUTIES NOW VESTED IN, AND REQUIRED FROM THE            
+ 108  160 8 AGENT OF THE TREASURY, SHALL BE TRANSFERRED TO THE                
+ 108  160 9 ATTORNEY GENERAL.                                                 
+ 109  161 1 RD-6- -404B   J 21-1-278B    S         APR. 30, 1830              
+ 109  161 2 S211047       Y=29 N=17                WEBSTER, MASS.             
+ 109  161 3 TO TABLE S. 87, AS AMENDED.                                       
+ 110  162 1 RD-6- -405    J 21-1-278C    HR        APR. 30, 1830              
+ 110  162 2 S211048       Y=25 N=20                FORSYTH, GA.               
+ 110  162 3 TO POSTPONE INDEFINITELY, H.R. 248, TO PROVIDE PENSIONS           
+ 110  162 4 FOR CERTAIN PERSONS ENGAGED IN THE LAND AND NAVAL SERVICE         
+ 110  162 5 OF THE U.S. IN THE REVOLUTIONARY WAR, TOGETHER WITH THE           
+ 110  162 6 AMENDMENTS REPORTED.                                              
+ 111  163 1 RD-6- -       J 21-1-280     SRE       APR. 30, 1830              
+ 111  163 2 S211049       Y=23 N=22                SMITH, S.C.                
+ 111  163 3 TO AGREE THAT WHEN THE SENATE ADJOURNS, IT BE UNTIL NEXT          
+ 111  163 4 MONDAY.                                                           
+ 112  164 1               J 21-1-284     S         MAY 4, 1830                
+ 112  164 2 S211050       Y=23 N=17                DICKERSON, N.J.            
+ 112  164 3 TO AMEND S. 120, A BILL TO REORGANIZE THE NAVY OF THE U.S.        
+ 112  164 4 BY ELIMINATING THE WORDS "SIX ADMIRALS" FROM THE BILL.            
+ 112  164 5 THEREBY REDUCING THE NUMBER OF ADMIRALS.                          
+ 113  165 1 RD- - -421A     J 21-1-286A  S         MAY 5, 1830                
+ 113  165 2 S211051       Y=20 N=25                CLAYTON, DEL.              
+ 113  165 3 TO POSTPONE INDEFINITELY, S. 5, A BILL TO GRADUATE THE PRICE      
+ 113  165 4 OF THE PUBLIC LANDS TO MAKE PROVISIONS FOR ACTUAL SETTLERS,       
+ 113  165 5 AND TO CEDE THE REMAINDER OF THE LANDS, UPON EQUITABLE TERMS      
+ 113  165 6 AND FOR MERITORIOUS OBJECTS, TO THE STATE IN WHICH THEY LIE.      
+ 114  166 1               J 21-1-286B    S         MAY 5, 1830                
+ 114  166 2 S211052       Y=22 N=23                BELL, N.H.                 
+ 114  166 3 TO TABLE, AND PRINT, S. 5.                                        
+ 115  167 1 RD- -421B     J 21-1-286C    S         MAY 5, 1830                
+ 115  167 2 S211053       Y=24 N=22                BENTON, MO.                
+ 115  167 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 5.                   
+ 116  168 1 RD-423        J 21-1-290     S         MAY 7, 1830                
+ 116  168 2 S211054       Y=39 N=4                 BARTON, MO.                
+ 116  168 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 134,                 
+ 116  168 4 (APP. 5-30-33, 4 STAT. L 422_, A BILL FOR THE RELIEF OF           
+ 116  168 5 CERTAIN OFFICERS AND SOLDIERS OF THE VIRGINIA LINE DURING         
+ 116  168 6 THE REVOLUTIONARY WAR.                                            
+ 117  169 1 RD- -427A     J 21-1-291     S         MAY 7, 1830                
+ 117  169 2 S211055       Y=8 N=37                 FOOTE, CONN.               
+ 117  169 3 TO REFER S. 5 TO THE COMMISSIONER OF THE GENERAL LAND             
+ 117  169 4 OFFICE WITH INSTRUCTIONS TO REPORT, AT THE NEXT SESSION,          
+ 117  169 5 INFORMATION REGARDING QUANTITIES OF LAND OFFERED FOR SALE IN      
+ 117  169 6 EACH DISTRICT AND STILL UNSOLD, AND THE EFFECT OF THE BILL        
+ 117  169 7 ON THE PRESENT LAND SYSTEM, AND ON REVENUE DERIVED FROM THE       
+ 117  169 8 SALE OF PUBLIC LANDS.                                             
+ 118  170 1 RD- -427B     J 21-1-292     S         MAY 7, 1830                
+ 118  170 2 S211056       Y=24 N=22                BENTON, MO.                
+ 118  170 3 TO PASS S. 5.                                                     
+ 119  171 1               J 21-1-293A    SRE       MAY 8, 1830                
+ 119  171 2 S211057       Y=21 N=22                WEBSTER, MASS.             
+ 119  171 3 TO TABLE THE PUBLIC DOCUMENT RESOLUTION UNTIL AN                  
+ 119  171 4 APPROPRIATION SHALL BE MADE BY CONGRESS FOR THE SUBSCRIPTION      
+ 119  171 5 TO THE COMPILATION OF PUBLIC DOCUMENTS PROPOSED TO BE             
+ 119  171 6 PUBLISHED BY GALES AND SEATON, AND WHICH SUBSCRIPTION IS          
+ 119  171 7 AUTHORIZED IN THE RESOLUTION.                                     
+ 120  172 1               J 21-1-293B    SRE       MAY 8, 1830                
+ 120  172 2 S211058       Y=23 N=22                HOLMES, MAINE              
+ 120  172 3 TO TABLE THE PUBLIC DOCUMENT RESOLUTION UNTIL AN APPROPRIAT-      
+ 120  172 4 ION SHALL BE MADE BY CONGRESS FOR THAT PURPOSE; AND TO MAKE       
+ 120  172 5 THE SAME THE ORDER OF THE DAY FOR NEXT MONDAY.                    
+ 121   61 1               EX J 4-101A    SRE       MAY 10, 1830               
+ 121   61 2 E211045       Y=24 N=24                CHAMBERS, MD.              
+ 121   61 3 TO ADVISE AND CONSENT TO THE NOMINATION OF AMOS KENDALL AS        
+ 121   61 4 FOURTH AUDITOR OF THE TREASURY.  (VICE PRESIDENT VOTING IN        
+ 121   61 5 THE AFFIRMATIVE.)                                                 
+ 122   62 1               EX J 4-101B    SRE       MAY 10, 1830               
+ 122   62 2 E211046       Y=23 N=25                WOODBURY, N.H.             
+ 122   62 3 TO ADVISE AND CONSENT TO THE NOMINATION OF MORDECAI NASH TO       
+ 122   62 4 BE SURVEYOR AND INSPECTOR FOR THE PORT OF NEW YORK, N.Y.          
+ 123   63 1               EX J 4-101C    SRE       MAY 10, 1830               
+ 123   63 2 E211047       Y=0 N=46                 BARTON, MO.                
+ 123   63 3 TO ADVISE AND CONSENT TO THE NOMINATION OF JAMES GARDNER AS       
+ 123   63 4 REGISTER OF THE LAND OFFICE.                                      
+ 124   64 1               EX J 4-102     SRE       MAY 10, 1830               
+ 124   64 2 E211048       Y=5 N=42                 KANE, ILL.                 
+ 124   64 3 TO ADVISE AND CONSENT TO THE NOMINATION OF MOSES DAWSON AS        
+ 124   64 4 RECEIVER OF PUBLIC MONEYS AT CINCINNATI, OHIO.                    
+ 125  173 1 RD- -427      J 21-1-295     S         MAY 10, 1830               
+ 125  173 2 S211059       Y=27 N=19                HENDRICKS, IND.            
+ 125  173 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 27, TO               
+ 125  173 4 AUTHORIZE A SUBSCRIPTION OF STOCK IN THE WASHINGTON               
+ 125  173 5 TURNPIKE COMPANY.                                                 
+ 126  174 1 RD- -428A     J 21-1-295B    HR        MAY 10, 1830               
+ 126  174 2 S211060       Y=19 N=28                GRUNDY, TENN.              
+ 126  174 3 TO TABLE H.R. 207, (APP. 5-20-30, J STAT. L 403), A BILL TO       
+ 126  174 4 PROVIDE FOR A REDUCTION IN DUTIES ON COFFEE, TEA AND COCOA,       
+ 126  174 5 TOGETHER WITH AMENDMENTS.                                         
+ 127  175 1 RD- -428B     J 21-1-296     HR        MAY 11, 1830               
+ 127  175 2 S211061       Y=20 N=26                SMITH, S.C.                
+ 127  175 3 TO AGREE TO THE AMENDMENT TO H.R. 207, (APP. 5-20-30,             
+ 127  175 4 4 STAT. L 403), TO REDUCE THE DUTIES ON COFFEE, TEA AND           
+ 127  175 5 COCOA,; SAID AMENDMENT TO FIX THE DUTY ON SALT ON 10 CENTS        
+ 127  175 6 PER 56 POUNDS, BEGINING DECEMBER 31, 1830.                        
+ 128  176 1 RD- -432      J 21-1-297A    HR        MAY 12, 1830               
+ 128  176 2 S211062       Y=16 N=30                GRUNDY, TENN.              
+ 128  176 3 TO RECOMMIT H.R. 304, A BILL TO MAKE APPROPRIATIONS FOR           
+ 128  176 4 BUILDING LIGHT-HOUSES, LIGHT BOATS, BEACONS AND MONUMENTS;        
+ 128  176 5 PLACING BUOYS,; AND FOR IMPROVING HARBORS AND DIRECTING           
+ 128  176 6 SURVEYS, TO THE COMMITTEE ON COMMERCE.                            
+ 129  177 1 RD- -433A     J 21-1-297B    HR        MAY 12, 1830               
+ 129  177 2 S211063       Y=21 N=25                WOODBURY, N.H.             
+ 129  177 3 TO AMEND AN AMENDMENT TO H.R. 304 IN ORDER TO LEAVE BLANK         
+ 129  177 4 THE APPROPRIATION IN THE AMENDMENT TO APPROPRIATE A SUM FOR       
+ 129  177 5 THE IMPROVEMENT OF THE NAVIGATION OF BLACK CREEK.                 
+ 130  178 1 RD- -433B     J 21-1-297C    HR        MAY 12, 1830               
+ 130  178 2 S211064       Y=26 N=21                BARNARD, PA.               
+ 130  178 3 TO AMEND AN AMENDMENT TO H.R. 304 BY APPROPRIATING                
+ 130  178 4 FORTY-THOUSAND DOLLARS FOR IMPROVEMENTS OF THE NAVIGATION OF      
+ 130  178 5 BLACK CREEK, IN MARYLAND.                                         
+ 131  179 1 RD            J 21-1-299A    S         MAY 13, 1830               
+ 131  179 2 S211065       Y=21 N=24                BROWN, N.C.                
+ 131  179 3 TO TABLE S. 187, (APP. 5-29-30, 4 STAT. L 414), TO PROVIDE        
+ 131  179 4 FOR THE APPOINTMENT OF A SOLICITOR OF THE TREASURY.               
+ 132  180 1 RD            J 21-1-299B    S         MAY 13, 1830               
+ 132  180 2 S211066       Y=13 N=32                DICKERSON, N.J.            
+ 132  180 3 TO REFER S. 187, TO THE COMMITTEE ON THE JUDICIARY WITH           
+ 132  180 4 INSTRUCTIONS TO REPORT AN AMENDMENT ASSIGNING THE DUTIES OF       
+ 132  180 5 THE SOLICITOR OF THE TREASURY TO THE ATTORNEY-GENERAL.            
+ 133  181 1 RD            J 21-1-299C    S         MAY 13, 1830               
+ 133  181 2 S211067       Y=21 N=24                WEBSTER, MASS.             
+ 133  181 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 187.                 
+ 134  182 1 RD            J 21-1-300A    S         MAY 13, 1830               
+ 134  182 2 S211068       Y=24 N=20                HAYNE, S.C.                
+ 134  182 3 TO AMEND S. 120, BY FILLING IN THE BLANK IN THE FIRST SECT-       
+ 134  182 4 ION WITH THE WORDS:  "ONE VICE ADMIRAL, AND TWO REAR              
+ 134  182 5 ADMIRALS."                                                        
+ 135  183 1 RD            J 21-1-300B    S         MAY 13, 1830               
+ 135  183 2 S211069       Y=22 N=22                HAYNE, S.C.                
+ 135  183 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 120.                 
+ 136  184 1 RD            J 21-1-304A    S         MAY 14, 1830               
+ 136  184 2 S211070       Y=5 N=37                 FORSYTH, GA.               
+ 136  184 3 TO AMEND S. 120 TO AUTHORIZE THE PRESIDENT TO REDUCE THE          
+ 136  184 4 NUMBER OF NAVAL OFFICERS, RATHER THAN TO ALLOW REDUCTION          
+ 136  184 5 THROUGH RESIGNATION, DEATH, OR OTHERWISE.                         
+ 137  185 1 RD            J 21-1-304B    HR        MAY 14, 1830               
+ 137  185 2 S211071       Y=18 N=25                FORSYTH, GA.               
+ 137  185 3 TO AMEND H.R. 285, TO AUTHORIZE SUBSCRIPTION OF STOCK IN THE      
+ 137  185 4 MAYSVILLE, WASHINGTON, PARIS, AND LEXINGTON TURNPIKE ROAD         
+ 137  185 5 COMPANY, BY ELIMINATING THE FIRST SECTION THAT AUTHORIZES         
+ 137  185 6 THE SECRETARY OF THE TREASURY TO SUBSCRIBE 1500 SHARES OF         
+ 137  185 7 STOCK TO BE PAID FOR OUT OF MONEY IN THE TREASURY.                
+ 138  186 1 RD            J 21-1-306     HR        MAY 15, 1830               
+ 138  186 2 S211072       Y=24 N=18                HENDRICKS, IND.            
+ 138  186 3 TO ORDER ENGROSSMENT AND THIRD READING OF H.R. 285, TO            
+ 138  186 4 AUTHORIZE A SUBSCRIPTION OF STOCK IN THE MAYSVILLE,               
+ 138  186 5 WASHINGTON, PARIS, AND LEXINGTON TURNPIKE ROAD COMPANY.           
+ 139  187 1 RD            J 21-1-308A    SRE       MAY 17, 1830               
+ 139  187 2 S211073       Y=21 N=24                CHAMBERS, MD.              
+ 139  187 3 TO TABLE THE RESOLUTION TO REPEAL THE PUBLIC DOCUMENT             
+ 139  187 4 RESOLUTION, AUTHORIZING A SUBSCRIPTION TO THE PROPOSED            
+ 139  187 5 PRINTING BY GALES AND SEATON OF A COMPILATION OF THE PUBLIC       
+ 139  187 6 DOCUMENTS.                                                        
+ 140  188 1 RD            J 21-1-308B    SRE       MAY 17, 1830               
+ 140  188 2 S211074       Y=21 N=24                CHAMBERS, MD.              
+ 140  188 3 TO POSTPONE INDEFINITELY THE RESOLUTION TO REPEAL THE             
+ 140  188 4 PUBLIC DOCUMENT RESOLUTION.                                       
+ 141  189 1 RD-6- -       J 21-1-308C    SRE       MAY 17, 1830               
+ 141  189 2 S211075       Y=21 N=24                CHAMBERS, MD.              
+ 141  189 3 TO POSTPONE, UNTIL TOMORROW, THE RESOLUTION TO REPEAL THE         
+ 141  189 4 PUBLIC DOCUMENTS RESOLUTION.                                      
+ 142  190 1 RD-6          J 21-1-308D    SRE       MAY 17, 1830               
+ 142  190 2 S211076       Y=24 N=21                GRUNDY, TENN.              
+ 142  190 3 TO AGREE TO RESOLUTION TO RECIND THE PUBLIC DOCUMENTS             
+ 142  190 4 RESOLUTION.                                                       
+ 143   65 1               EX J 4-104     SRE       MAY 18, 1830               
+ 143   65 2 E211049       Y=20 N=21                ROWAN, KY.                 
+ 143   65 3 TO ADVISE AND CONSENT TO THE NOMINATION OF SAMUEL MCROBERTS       
+ 143   65 4 AS U.S. ATTORNEY FOR THE DISTRICT OF ILLINOIS.                    
+ 144  191 1 RD-6          J 21-1-312A    HR        MAY 19, 1830               
+ 144  191 2 S211077       Y=25 N=17                CHAMBERS, MD.              
+ 144  191 3 TO ORDER THIRD READING OF H.R. 184, (APP. 5-28-30), A BILL        
+ 144  191 4 TO INCORPORATE THE ALEXANDRIA CANAL COMPANY.                      
+ 145  192 1 RD-6          J 21-1-312B    HR        MAY 19, 1830               
+ 145  192 2 S211078       Y=18 N=24                CHAMBERS, MD.              
+ 145  192 3 TO AMEND H.R. 164, (APP. 5-28-30, 4 STAT. L. 409), AN ACT         
+ 145  192 4 FOR THE MORE EFFECTIVE COLLECTION OF THE IMPORT DUTIES; SAID      
+ 145  192 5 AMENDMENT TO INSERT IN SECTION THREE, THE PROVISION THAT          
+ 145  192 6 IT SHALL BE THE DUTY OF THE APPRAISERS TO ADOPT THE VALUE         
+ 145  192 7 OF THE ARTICLE OF SAME PRICE IN THE INVOICE, AS THE AVERAGE       
+ 145  192 8 VALUE OF THE WHOLE.                                               
+ 146  193 1 RD-6          J 21-1-313A    HR        MAY 19, 1830               
+ 146  193 2 S211079       Y=28 N=14                WOODBURY, N.H.             
+ 146  193 3 TO ORDER ENGROSSMENT AND THIRD READING OF H.R. 164,               
+ 146  193 4 (APP. 5-28-30, 4 STAT. L 409), A BILL TO PROVIDE FOR THE          
+ 146  193 5 MORE EFFECTUAL COLLECTION OF THE IMPORT DUTIES.                   
+ 147   66 1               EX J 4-105     SRE       MAY 20, 1830               
+ 147   66 2 E211050       Y=21 N=23                WHITE, TENN.               
+ 147   66 3 TO ADVISE AND CONSENT TO THE NOMINATION OF WHARTON RECTOR AS      
+ 147   66 4 AGENT FOR THE SHAWNEY AND DELAWARE INDIANS.                       
+ 148  194 1 RD-6          J 21-1-313B    S         MAY 20, 1830               
+ 148  194 2 S211080       Y=22 N=20                MCKINLEY, ALA.             
+ 148  194 3 TO AMEND S. 187 TO PROVIDE THAT IS SHALL BE THE DUTY OF THE       
+ 148  194 4 ATTORNEY GENERAL TO ADVISE AND DIRECT THE SAID SOLICITOR AS       
+ 148  194 5 TO THE MANNER OF CONDUCTING THE SUITS, PROCEEDINGS AND            
+ 148  194 6 PROSECUTIONS AFORESAID.  THE ATTORNEY GENERAL SHALL RECEIVE       
+ 148  194 7 IN ADDITION TO HIS PRESENT SALARY, THE SUM OF $500.00 PER         
+ 148  194 8 ANNUM.                                                            
+ 149  195 1 RD-6          J 21-1-314     S         MAY 20, 1830               
+ 149  195 2 S211081       Y=28 N=14                WEBSTER, MASS.             
+ 149  195 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 187.                 
+ 150  196 1 RD-6          J 21-1-316A    HR        MAY 21, 1830               
+ 150  196 2 S211082       Y=16 N=27                WOODBURY, N.H.             
+ 150  196 3 TO RECOMMIT H.R. 141, (APP. 5-26-30, 4 STAT. L. 405), A BILL      
+ 150  196 4 TO PROVIDE FOR THE RELIEF OF A PURCHASERS OF LAND BETWEEN         
+ 150  196 5 THE LINES OF LUDLOW AND ROBERTS, TO THE COMMITTEE ON PUBLIC       
+ 150  196 6 LANDS.                                                            
+ 151  197 1 RD-6          J 21-1-316B    HR        MAY 21, 1830               
+ 151  197 2 S211083       Y=31 N=13                BARTON, MO.                
+ 151  197 3 TO PASS H.R. 141, (APP. 5-26-30, 4 STAT. L 405), A BILL TO        
+ 151  197 4 PROVIDE FOR THE RELIEF OF PURCHASERS OF PUBLIC LANDS BETWEEN      
+ 151  197 5 THE LINES OF LUDLOW AND ROBERTS.                                  
+ 152  198 1 RD-6          J 21-1-317A    S         MAY 21, 1830               
+ 152  198 2 S211084       Y=20 N=22                BENTON, MO.                
+ 152  198 3 TO TABLE S. 133, TO AUTHORIZE A SUBSCRIPTION OF STOCK IN THE      
+ 152  198 4 BALTIMORE AND OHIO RAIL ROAD COMPANY.                             
+ 153  199 1 RD-6          J 21-1-317B    S         MAY 21, 1830               
+ 153  199 2 S211085       Y=11 N=32                DUDLEY, N.Y.               
+ 153  199 3 TO POSTPONE S. 133.                                               
+ 154  200 1 RD-6- -453A   J 21-1-319A    S         MAY 22, 1830               
+ 154  200 2 S211086       Y=16 N=26                MCKINLEY, ALA.             
+ 154  200 3 TO TABLE S. 145, A BILL TO EXEMPT MERCHANDISE IMPORTED UNDER      
+ 154  200 4 CERTAIN CIRCUMSTANCES FROM THE OPERATION OF THE ACT OF            
+ 154  200 5 MAY 19, 1828, ENTITLED, "AN ACT IN ALTERATION OF THE SEVERAL      
+ 154  200 6 ACTS IMPOSING DUTIES IN IMPORTS."                                 
+ 155  201 1 RD-6- -453B   J 21-1-319B    S         MAY 22, 1830               
+ 155  201 2 S211087       Y=20 N=22                SMITH, MD.                 
+ 155  201 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 145, TO              
+ 155  201 4 PROVIDE FOR THE EXEMPTION OF MERCHANDISE IMPORTED UNDER           
+ 155  201 5 CERTAIN CIRCUMSTANCES.                                            
+ 156  202 1 RD-6- -455    J 21-1-320     S         MAY 22, 1830               
+ 156  202 2 S211088       Y=21 N=19                MCKINLEY, ALA.             
+ 156  202 3 TO TABLE S. 133.                                                  
+ 157  203 1 RD-6          J 21-1-323     S         MAY 24, 1830               
+ 157  203 2 S211089       Y=21 N=17                CHASE, VT.                 
+ 157  203 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 174,                 
+ 157  203 4 (APP. 5-31-30, 6 STAT. L 450), TO PROVIDE FOR A PENSION FOR       
+ 157  203 5 ISAAC PINNEY, A REVOLUTIONARY SOLDIER, AND OTHERS.                
+ 158  204 1 RD-6          J 21-1-324     S         MAY 24, 1830               
+ 158  204 2 S211090       Y=16 N=24                SMITH, MD.                 
+ 158  204 3 TO TABLE S. 147, TO SECURE IN OFFICE THE FAITHFUL COLLECTORS      
+ 158  204 4 AND DISBURSERS OF THE REVENUE AND TO DISPLACE DEFAULTERS.         
+ 159  205 1               J 21-1-324B    S         MAY 24, 1830               
+ 159  205 2 S211091       Y=17 N=22                BROWN, N.C.                
+ 159  205 3 TO TABLE S. 147.                                                  
+ 160  206 1               J 21-1-325A    S         MAY 24, 1830               
+ 160  206 2 S211092       Y=20 N=23                WOODBURY, N.H.             
+ 160  206 3 TO POSTPONE S. 147, UNTIL THE NEXT SESSION OF CONGRESS.           
+ 161  207 1               J 21-1-325B    S         MAY 24, 1830               
+ 161  207 2 S211093       Y=20 N=23                BIBB, KY.                  
+ 161  207 3 TO TABLE S. 147.                                                  
+ 162   67 1               EX J 4-107     SRE       MAY 25, 1830               
+ 162   67 2 E211051       Y=27 N=15                BARTON, MO.                
+ 162   67 3 TO ADVISE AND CONSENT TO THE NOMINATION OF FINIS EWING TO BE      
+ 162   67 4 REGISTER OF THE LAND OFFICE AT LEXINGTON, MISSOURI.               
+ 163   68 1               EX J 4-108     SRE       MAY 25, 1830               
+ 163   68 2 E211052       Y=23 N=20                ADAMS, MISS.               
+ 163   68 3 TO RECONSIDER THE VOTE TO ADVISE AND CONSENT TO THE NOMINAT-      
+ 163   68 4 ION OF SAMUEL MCROBERTS AS U.S. ATTORNEY FOR THE DISTRICT OF      
+ 163   68 5 ILLINOIS.                                                         
+ 164   69 1               EX J 4-109A    SRE       MAY 26, 1830               
+ 164   69 2 E211053       Y=31 N=15                                           
+ 164   69 3 TO ADVISE AND CONSENT TO THE NOMINATION OF JOHN HAMM TO BE        
+ 164   69 4 CHARGE D'AFFAIRS TO CENTRAL AMERICA.                              
+ 165   70 1               EX J 4-109B    SRE       MAY 26, 1830               
+ 165   70 2 E211054       Y=24 N=22                ROWAN, KY.                 
+ 165   70 3 TO ADVISE AND CONSENT TO THE NOMINATION OF SAMUEL MCROBERTS       
+ 165   70 4 AS U.S. ATTORNEY FOR THE DISTRICT OF ILLINOIS.                    
+ 166   71 1               EX J 4-110     SRE       MAY 26, 1830               
+ 166   71 2 E211055       Y=24 N=20                WOODBURY, N.H.             
+ 166   71 3 TO ADVISE AND CONSENT TO THE NOMINATION OF JEROME JOHNSON TO      
+ 166   71 4 BE APPRAISER OF GOODS FOR THE PORT OF NEW YORK.                   
+ 167  208 1 RD-6- -456A   J 21-1-327     S         MAY 26, 1830               
+ 167  208 2 S211094       Y=19 N=24                CLAYTON, DEL.              
+ 167  208 3 TO POSTPONE UNTIL THE NEXT DAY CONSIDERATION OF THE HOUSE         
+ 167  208 4 OF REPRESENTATIVES AMENDMENTS TO S. 102 (4 STAT. 411,             
+ 167  208 5 APP. 5-28-30), A BILL PROVIDING FOR AN EXCHANGE OF LANDS          
+ 167  208 6 WITH THE INDIANS RESIDING IN ANY STATE OR TERRITORY, AND FOR      
+ 167  208 7 THEIR REMOVAL WEST OF THE MISSISSIPPI RIVER.                      
+ 168  209 1 RD-6- -456B   J 21-1-328A    S         MAY 26, 1830               
+ 168  209 2 S211095       Y=18 N=25                FRELINGHUYS, N.J.          
+ 168  209 3 TO AMEND THE AMENDMENT TO S. 102, TO ELIMINATE THE WORD           
+ 168  209 4 "STATE" FROM THE AMENDMENT WHICH READS:  "AND THAT, UNTIL         
+ 168  209 5 THEY SHALL CHOOSE TO REMOVE, THE SAID TRIBES BE PROTECTED         
+ 168  209 6 FROM ALL STATE ENCROACHMENTS, ACCORDING TO THE PROVISIONS         
+ 168  209 7 OF SAID TREATIES."                                                
+ 169  210 1 RD- - 456C    J 21-1-328B    S         MAY 26, 1830               
+ 169  210 2 S211096       Y=17 N=26                FRELINGHUYS, N.J.          
+ 169  210 3 TO AMEND THE AMENDMENT TO S. 102 TO PROVIDE THAT "UNTIL THEY      
+ 169  210 4 SHALL CHOOSE TO REMOVE, THE SAID TRIBES BE PROTECTED FROM         
+ 169  210 5 ALL STATE ENCROACHMENTS, ACCORDING TO THE PROVISION OF SUCH       
+ 169  210 6 TREATIES."                                                        
+ 170  211 1 RD- - -456D   J 21-1-328C    S         MAY 26, 1830               
+ 170  211 2 S211097       Y=18 N=24                FRELINGHUYS, N.J.          
+ 170  211 3 TO AMEND THE AMENDMENT TO S. 102 TO PROVIDE THAT "ALL SUCH        
+ 170  211 4 TRIBES BE PROTECTED, ACCORDING TO THE PROVISIONS OF SAID          
+ 170  211 5 TREATIES, UNTIL THEY SHALL CHOOSE TO REMOVE."                     
+ 171  212 1 RD- - -456E   J 21-1-329A    S         MAY 26, 1830               
+ 171  212 2 S211098       Y=18 N=24                SPRAGUE, MAINE             
+ 171  212 3 TO AMEND THE AMENDMENT TO S. 102 BY ADDING A CLAUSE THAT          
+ 171  212 4 SUCH TREATIES SHALL BE EXECUTED AND FULFILLED ACCORDING TO        
+ 171  212 5 THE TRUE INTENT AND MEANING THEREOF.                              
+ 172  213 1               J 21-1-329B    S         MAY 26, 1830               
+ 172  213 2 S211099       Y=18 N=24                CLAYTON, DEL.              
+ 172  213 3 TO AMEND THE AMENDMENT TO S. 102 BY LIMITING THE PROVISIONS       
+ 172  213 4 OF THIS ACT TO THE INDIANS RESIDING WITHIN THE STATE OF           
+ 172  213 5 GEORGIA ONLY                                                      
+ 173  214 1               J 21-1-332     HR        MAY 27, 1830               
+ 173  214 2 S211100       Y=22 N=6                 HOLMES, MAINE              
+ 173  214 3 TO ORDER A THIRD READING OF H.R. 50, (APP. 5-28-30,               
+ 173  214 4 6 STAT. L. 434), TO PROVIDE FOR THE PAYMENT OF $1140.00 BY        
+ 173  214 5 THE TREASURY; THAT BEING THE AMOUNT OF THE ARREARS OF             
+ 173  214 6 PENSION DUE WILLIAM TIPTON, FROM THE U.S., AS AN INVALID          
+ 173  214 7 PENSIONER FROM JANUARY 1, 1784, AT WHICH TIME THE PAYMENT         
+ 173  214 8 OF HIS PENSION CEASED.                                            
+ 174   72 1               EX J 4-113     SRE       MAY 28, 1830               
+ 174   72 2 E211056       Y=22 N=22                CLAYTON, DEL.              
+ 174   72 3 TO INDEFINITELY POSTPONE CONSIDERATION OF THE NOMINATION OF       
+ 174   72 4 M.M. NASH TO BE SURVEYOR AND INSPECTOR OF THE                     
+ 174   72 5 PORT OF NEW YORK.                                                 
+ 175   73 1               EX J 4-114     SRE       MAY 28, 1830               
+ 175   73 2 E211057       Y=22 N=22                WOODBURY, N.H.             
+ 175   73 3 TO ADVISE AND CONSENT TO THE NOMINATION OF M.M. NASH TO BE        
+ 175   73 4 SURVEYOR AND INSPECTOR FOR THE PORT OF PORT OF N.Y.               
+ 175   73 5 (VICE-PRESIDENT VOTING IN THE AFFIRMATIVE.)                       
+ 176  215 1               J 21-1-338     S         MAY 28, 1830               
+ 176  215 2 S211101       Y=24 N=15                BARTON, MO.                
+ 176  215 3 TO CONCUR IN THE HOUSE AMENDMENTS TO S. 134, (APP. 5-30-30,       
+ 176  215 4 4 STAT. L. 422), A BILL FOR THE RELIEF OF CERTAIN OFFICERS        
+ 176  215 5 AND SOLDIERS OF THE VIRGINIA STATE LINE, DURING THE               
+ 176  215 6 REVOLUTIONARY WAR.                                                
+ 177   74 1               EX J 4-116A    SRE       MAY 29, 1830               
+ 177   74 2 E211058       Y=39 N=0                 SANFORD, N.Y.              
+ 177   74 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE CONVENTION       
+ 177   74 4 BETWEEN THE U.S. AND HIS MAJESTY, THE KING OF DENMARK,            
+ 177   74 5 CONCLUDED AT COPENHAGEN, MARCH, 1830.  (STAT. 8 L. 402)           
+ 178   75 1               EX J 4-116B    SRE       MAY 29, 1830               
+ 178   75 2 E211059       Y=21 N=19                BARTON, MO.                
+ 178   75 3 TO ADVISE AND CONSENT TO THE NOMINATION OF JOSEPH H. LARVILL      
+ 178   75 4 AS RECEIVER OF MONEYS AT TIFFIN, OHIO.                            
+ 179   76 1               EX J 4-116C    SRE       MAY 29, 1830               
+ 179   76 2 E211060       Y=20 N=21                WHITE, TENN.               
+ 179   76 3 TO ADVISE AND CONSENT TO THE NOMINATION OF WHARTON RECTOR TO      
+ 179   76 4 BE AGENT TO THE SHAWNEE AND DELAWARE INDIANS.                     
+ 180   77 1               EX J 4-118A    SRE       MAY 29, 1830               
+ 180   77 2 E211061       Y=20 N=16                BARTON, MO.                
+ 180   77 3 TO ADVISE AND CONSENT TO THE NOMINATION OF FREDERICK CONWAY       
+ 180   77 4 TO BE RECORDER OF LAND TITLES IN MISSOURI.                        
+ 181   78 1               EX J 4-118B    SRE       MAY 29, 1830               
+ 181   78 2 E211062       Y=18 N=17                HAYNE, S.C.                
+ 181   78 3 TO ADVISE AND CONSENT TO THE NOMINATION OF DANIEL BROADHEAD       
+ 181   78 4 TO BE NAVAL AGENT AT BOSTON.                                      
+ 182   79 1               EX J 4-119     SRE       MAY 29, 1830               
+ 182   79 2 E211063       Y=5 N=25                 BIBB, KY.                  
+ 182   79 3 TO POSTPONE CONSIDERATION OF ADJOURNMENT; MOTION MADE DURING      
+ 182   79 4 CONSIDERATION OF THE RATIFICATION OF THE TREATY WITH THE          
+ 182   79 5 DELAWARE INDIANS.  (STAT. 7 6. 327)                               
+ 183   80 1               EX J 4-120A    SRE       MAY 29, 1830               
+ 183   80 2 E211064       Y=27 N=4                 WHITE, TENN.               
+ 183   80 3 TO ADOPT THE AMENDED RESOLUTION:  TO ADVISE AND CONSENT TO        
+ 183   80 4 THE RATIFICATION OF THE SUPPLEMENTARY ARTICLE, CONCLUDED AT       
+ 183   80 5 THE COUNCIL CAMP, ON JAMES FORK AT WHITE RIVER, IN THE STATE      
+ 183   80 6 OF MISSOURI, SEPTEMBER, 1829, TO A TREATY BETWEEN THE U.S.        
+ 183   80 7 AND THE DELAWARE INDIANS, MADE OCTOBER, 1818.                     
+ 184   81 1               EX J 4-120B    SRE       MAY 29, 1830               
+ 184   81 2 E211065       Y=12 N=18                MCKINLEY, ALA.             
+ 184   81 3 TO ADJOURN; MOTION MADE DURING CONSIDERATION OF A RESOLUTION      
+ 184   81 4 AGAINST THE EXPEDIENCY OF HAVING A CONSUL APPOINTED TO            
+ 184   81 5 VIENNA, AUSTRIA.                                                  
+ 185  216 1               J 21-1-345A    HR        MAY 29, 1830               
+ 185  216 2 S211102       Y=25 N=12                SMITH, MD.                 
+ 185  216 3 TO CONSIDER H.R. 474, (APP. 5-29-30, 4 STAT. L. 419), AN ACT      
+ 185  216 4 TO REDUCE THE DUTY ON SALT.                                       
+ 186  217 1               J 21-1-345B    HR        MAY 29, 1830               
+ 186  217 2 S211103       Y=13 N=24                SANFORD, N.Y.              
+ 186  217 3 TO POSTPONE INDEFINITELY CONSIDERATION OF H.R. 474.               
+ 187  218 1               J 21-1-345C    HR        MAY 29, 1830               
+ 187  218 2 S211104       Y=14 N=20                SILSBEE, MASS.             
+ 187  218 3 TO AMEND H.R. 474 IN THE FORM OF A SUBSTITUTE:  THAT FROM         
+ 187  218 4 AND AFTER JUNE 30, 1832, THE DUTY ON SALT SHALL BE TWELVE         
+ 187  218 5 AND A HALF CENTS PER BUSHEL OF 56 POUNDS AND NO MORE.             
+ 188  219 1               J 21-1-346A    HR        MAY 29, 1830               
+ 188  219 2 S211105       Y=24 N=15                SMITH, MD.                 
+ 188  219 3 TO PASS H.R. 474, AS AMENDED.                                     
+ 189  220 1               J 21-1-346B    HR        MAY 29, 1830               
+ 189  220 2 S211106       Y=30 N=8                 SMITH, MD.                 
+ 189  220 3 TO ORDER A THIRD READING OF H.R. 479, (APP. 5-29-39,              
+ 189  220 4 STAT. 4 L. 419), A BILL TO PROVIDE FOR THE REDUCTION OF           
+ 189  220 5 DUTIES ON MOLASSES AND TO ALLOW FOR A DRAWBACK ON SPIRITS         
+ 189  220 6 DISTILLED FROM FOREIGN MATERIALS.                                 
+ 190  221 1               J 21-1-354     PROC      MAY 29, 1830               
+ 190  221 2 S211107       Y=8 N=14                 BIBB, KY.                  
+ 190  221 3 TO ADJOURN.                                                       
+ 191  222 1               J 21-1-355     PROC      MAY 29, 1830               
+ 191  222 2 S211108       Y=7 N=14                 SMITH, S.C.                
+ 191  222 3 TO ADJOURN.                                                       
+ 192   82 1               EX J 4-121     SRE       MAY 31, 1830               
+ 192   82 2 E211066       Y=17 N=22                JOHNSTON, LA.              
+ 192   82 3 TO TABLE THE RESOLUTION TO REMOVE THE INJUNCTION OF SECRECY       
+ 192   82 4 FROM THE JOURNAL OF THE EXECUTIVE PROCEEDINGS, AS FAR AS          
+ 192   82 5 RELATES TO ALL NOMINATIONS ACTED UPON DURING THE PRESENT          
+ 192   82 6 SESSION.                                                          
+ 193  223 1               J 21-1-359     PROC      MAY 31, 1830               
+ 193  223 2 S211109       Y=23 N=13                CHAMBERS, MD.              
+ 193  223 3 TO GO INTO EXECUTIVE SESSION.                                     
+ 194  224 1 RD- -456A     J 21-1-382     S         MAY 31, 1830               
+ 194  224 2 S211110       Y=21 N=17                HENDRICKS, IND.            
+ 194  224 3 TO PASS S. 27, A BILL TO PROVIDE FOR A SUBSCRIPTION OF 4500       
+ 194  224 4 SHARES OF CAPITAL STOCK OF THE WASHINGTON TURNPIKE ROAD           
+ 194  224 5 COMPANY, OVER THE PRESIDENT'S VETO.                               
+ 195  225 1 RD-7- -8      J 21-2-40      SRE       DEC. 15, 1830              
+ 195  225 2 S212001       Y=18 N=20                WHITE, TENN.               
+ 195  225 3 TO REFER TO THE COMMITTEE ON POST OFFICES AND POST ROADS,         
+ 195  225 4 THE RESOLUTION PROVIDING THAT A COMMITTEE BE APPOINTED TO         
+ 195  225 5 EXAMINE AND REPORT THE PRESENT CONDITION OF THE POST OFFICE       
+ 195  225 6 DEPARTMENT, IN WHAT MANNER THE LAWS REGULATING THAT               
+ 195  225 7 DEPARTMENT ARE ADMINISTERED, THE DISTRIBUTION OF LABOR, THE       
+ 195  225 8 NUMBER OF CLERKS, AND DUTIES ASSIGNED TO EACH; THE NUMBER         
+ 195  225 9 OF AGENTS AND WHERE AND HOW EMPLOYED; THE COMPENSATION OF         
+ 195  22510 CONTRACTORS, AND, IN GENERAL, THE ENTIRE MANAGEMENT.              
+ 196   83 1               EX J 4-130     SRE       DEC. 16, 1830              
+ 196   83 2 E212001       Y=36 N=1                                            
+ 196   83 3 TO ADVISE AND CONSENT TO THE APPOINTMENT OF PHILIP BARBOUR,       
+ 196   83 4 AS JUDGE OF THE U.S., FOR THE EASTERN DISTRICTS OF VIRGINIA,      
+ 196   83 5 IN PLACE OF GEORGE HAY, DECEASED.                                 
+ 197  104 1               J 21-2-328 APP IMP       DEC. 22, 1830              
+ 197  104 2 I212001       Y=19 N=23                                           
+ 197  104 3 TO DECIDE IF A QUESTION MAY BE PUT TO THE WITNESS,                
+ 197  104 4 LUKE EDWARD LAWLESS, DURING THE IMPEACHMENT TRIAL OF              
+ 197  104 5 JAMES H. PECK, JUDGE OF THE U.S. DISTRICT COURT FOR THE           
+ 197  104 6 DISTRICT OF MISSOURI, BECAUSE OF HIS ACTIONS IN THE CASE          
+ 197  104 7 OF JULIA SOULARD, WIDOW OF ANTOINE SOULARD AND HIS CHILDREN       
+ 197  104 8 AND HEIRS, FOR THE CONFIRMATION OF THEIR CLAIM UNDER THE ACT      
+ 197  104 9 TO CERTAIN LANDS, SITUATED IN THE STATE OF MISSOURI; THE          
+ 197  10410 QUESTION BEING:  "WHAT WAS YOUR CONTRACT FOR PROFESSIONAL         
+ 197  10411 COMPENSATION IN THE CASE OF SOULARD'S HEIRS".                     
+ 198  105 1               J 21-2-329 APP IMP       DEC. 23, 1830              
+ 198  105 2 I212002       Y=32 N=10                                           
+ 198  105 3 TO DECIDE IF THE QUESTION MAY BE PUT TO THE WITNESS, IN THE       
+ 198  105 4 TRIAL OF JAMES PECK; THE QUESTION BEING: "THE WITNESS IS          
+ 198  105 5 ASKED TO REFER TO SUCH PARTS OF THE OPINION OF THE RESPON-        
+ 198  105 6 DENT IN SOULARD'S CASE AS SUPPORT THE FIRST SPECIFICATION IN      
+ 198  105 7 THE ARTICLE SIGNED "A CITIZEN"."                                  
+ 199  226 1               J 21-2-53      S         DEC. 23, 1830              
+ 199  226 2 S212002       Y=22 N=6                 HOLMES, MAINE              
+ 199  226 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 27,                  
+ 199  226 4 (APP. 3-2-31, STAT. 6 L. 460), TO AUTHORIZE AND DIRECT THE        
+ 199  226 5 SECRETARY OF WAR TO PLACE HENRY BECKER ON THE LIST OF             
+ 199  226 6 INVALID PENSIONERS.                                               
+ 200  106 1               J 21-2-331 APP IMP       JAN. 7, 1831               
+ 200  106 2 I212003       Y=7 N=35                                            
+ 200  106 3 TO DECIDE IF THE QUESTION MAY BE PUT TO THE WITNESS,              
+ 200  106 4 ROBERT WASH, IN THE TRIAL OF JAMES PECK; QUESTION BEING:          
+ 200  106 5 "WHEN YOU READ THE STRICTURES SIGNED "A CITIZEN" DID THEY         
+ 200  106 6 STRIKE YOU AS MISREPRESENTING THE OPINION OF THE COURT IN A       
+ 200  106 7 MANNER CALCULATED TO AWAKEN THE CONTEMPT AND INDIGNATION          
+ 200  106 8 OF THE PEOPLE OF MISSOURI, AND TO IMPAIR THE CONFIDENCE OF        
+ 200  106 9 THE SUITORS IN THAT COURT IN THE INTELLIGENCE AND                 
+ 200  10610 INTEGRITY OF THE TRIBUNAL."                                       
+ 201  107 1               J 21-2-332A APPIMP       JAN. 10, 1831              
+ 201  107 2 I212004       Y=1 N=39                                            
+ 201  107 3 TO DECIDE IF THE QUESTION MAY BE PUT TO THE WITNESS,              
+ 201  107 4 ROBERT WASH, IN THE TRIAL OF JAMES PEC; QUESTION BEING:           
+ 201  107 5 "DO YOU THINK THAT THE PUBLICATION SIGNED "A CITIZEN" WAS         
+ 201  107 6 CALCULATED TO INCENSE THE CLAIMANTS AGAINST THE COURT, AND        
+ 201  107 7 TO IMPAIR, IN THEIR MINDS, THEIR CONFIDENCE AND RESPECT FOR       
+ 201  107 8 THE COURT."                                                       
+ 202  108 1               J 21-2-332B APPIMP       JAN. 10, 1831              
+ 202  108 2 I212005       Y=3 N=39                                            
+ 202  108 3 TO DECIDE IF THE QUESTION MAY BE PUT TO THE WITNESS,              
+ 202  108 4 JOSIAH SPAULDING, DURING THE TRIAL OF JAMES PECK; QUESTION        
+ 202  108 5 BEING:  "WHAT ARE THE TERMS IN WHICH MR. LAWLESS, ACCORDING       
+ 202  108 6 TO GENERAL REPUTATION, IS IN THE HABIT OF SPEAKING OF             
+ 202  108 7 COURTS, BOTH IN THEIR PRESENCE AND OUT OF COURT."                 
+ 203  109 1               J 21-2-333 APP IMP       JAN. 11, 1831              
+ 203  109 2 I212006       Y=14 N=27                                           
+ 203  109 3 TO DECIDE IF THE QUESTION MAY BE PUT TO THE WITNESS,              
+ 203  109 4 ROBERT WASH, IN THE TRIAL OF JAMES PECK; QUESTION BEING:          
+ 203  109 5 "DO YOU KNOW THAT AT AND BEFORE THE TIME OF THE PUBLICATION       
+ 203  109 6 THERE WAS A GENERAL BELIEF IN THE STATE OF MO., THAT MANY         
+ 203  109 7 CLAIMS TO LANDS IN THAT STATE, UNDER SPANISH GRANTS, WERE         
+ 203  109 8 FRAUDULENT."                                                      
+ 204  110 1               J 21-2-334A APPIMP       JAN. 11, 1831              
+ 204  110 2 I212007       Y=40 N=0                                            
+ 204  110 3 TO DECIDE, DURING THE TRIAL OF JAMES PECK, WHETHER TO             
+ 204  110 4 RECEIVE IN EVIDENCE, AN ABSTRACT OF COMPLETE TITLES, UNDER        
+ 204  110 5 THE SPANISH GOVERNMENT, OF LANDS IN A PART OF THE PROVINCE        
+ 204  110 6 OF LOUISIANA, FROM 1771 TO THE CESSION OF THE U.S., A BOOK        
+ 204  110 7 CONTAINING REPORTS OF CONFIRMATIONS BY THE RECORDER IN THE        
+ 204  110 8 STATE OF MISSOURI, AND REPORTS OF LAND CLAIMS IN THE              
+ 204  110 9 WESTERN PART OF THE PROVINCE OF LOUISIANA, BY THE                 
+ 204  11010 COMMISSIONERS FOR THE ADJUSTMENTS OF SAID CLAIMS.                 
+ 205  111 1               J 21-2-334B APPIMP       JAN. 11, 1831              
+ 205  111 2 I212008       Y=28 N=13                                           
+ 205  111 3 TO DECIDE IF THE QUESTION MAY BE PUT TO THE WITNESS,              
+ 205  111 4 LUKE LAWLESS, IN THE TRIAL OF JAMES PECK,; QUESTION BEING:        
+ 205  111 5 "ARE YOU THE AUTHOR OF ALL OR EITHER OF THE ARTICLES              
+ 205  111 6 CONTAINED IN THE NEWSPAPERS NOW HANDED TO YOU, RELATING TO        
+ 205  111 7 THE RESPONDENT."                                                  
+ 206   84 1               EX J 4-144     SRE       JAN. 12, 1831              
+ 206   84 2 E212002       Y=25 N=19                TAZEWELL, VA.              
+ 206   84 3 TO ADVISE AND CONSENT TO THE APPOINTMENT OF                       
+ 206   84 4 JOHN RANDOLPH CLAY AS SECRETARY OF THE LEGATION AT                
+ 206   84 5 ST. PETERSBURG.                                                   
+ 207  227 1               J 21-2-92      S         JAN. 14, 1831              
+ 207  227 2 S212003       Y=26 N=18                SMITH, MD.                 
+ 207  227 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 57,                  
+ 207  227 4 (APP. 3-2-31, STAT. 6 L. 457), DIRECTING THE SECRETARY OF         
+ 207  227 5 THE TREASURY TO PAY JOHN PETERS AND SABIN POND FOR THE SALE       
+ 207  227 6 OF THE PETITIONERS' SCHOONER AND CARGO, WHICH WAS SEIZED AND      
+ 207  227 7 CONDEMNED FOR A VIOLATION OF THE REVENUE LAWS, BY THE U.S.        
+ 207  227 8 DISTRICT COURT OF GEORGIA, IN 1814.                               
+ 208  228 1 RD-7- -33     J 21-2-93      S         JAN. 17, 1831              
+ 208  228 2 S212004       Y=26 N=13                LIVINGSTON, LA.            
+ 208  228 3 TO PASS S. 87, APPROPRIATING $15,000 TO ENABLE THE                
+ 208  228 4 PRESIDENT TO EMPLOY TWO OR MORE VESSELS TO CRUISE OFF THE         
+ 208  228 5 COASTS OF THE U.S. TO HELP VESSELS IN DISTRESS.                   
+ 209  112 1               J 21-2-341 APP IMP       JAN. 31, 1831              
+ 209  112 2 I212009       Y=21 N=22                TAZEWELL, VA.              
+ 209  112 3 TO DECIDE IF THE DEFENDANT IS GUILTY, IN THE TRIAL OF             
+ 209  112 4 JAMES PECK.                                                       
+ 210   85 1               EX J 4-148     SRE       FEB. 1, 1831               
+ 210   85 2 E212004       Y=22 N=23                LIVINGSTON, LA.            
+ 210   85 3 TO AMEND THE RESOLUTION TO RATIFY THE TREATY OF COMMERCE AND      
+ 210   85 4 NAVIGATION WITH THE SUBLIME PORTE, TOGETHER WITH A                
+ 210   85 5 SEPARATE AND SECRET ARTICLE, CONCLUDED AT CONSTANTINOPLE,         
+ 210   85 6 MAY, 1830; SAID AMENDMENT IS TO STIPULATE THAT THE MINISTER       
+ 210   85 7 OR OTHER DIPLOMATIC AGENT OF THE U.S. SHALL GIVE ONLY HIS         
+ 210   85 8 ADVICE AND ASSISTANCE IN FRAMING ANY CONTRACT THE SUBLIME         
+ 210   85 9 PORTE MAY WISH TO MAKE WITH CITIZENS OF THE U.S. UNDER THE        
+ 210   8510 SEPARATE AND SECRET ARTICLE, AND THAT THIS COUNTRY WILL NOT       
+ 210   8511 COMPLY WITH THE STIPULATIONS OF THIS ARTICLE IF COMPLIANCE        
+ 210   8512 SHOULD INDANGER ITS NEUTRAL RELATIONS.                            
+ 211   86 1               EX J 4-149A    SRE       FEB. 1, 1831               
+ 211   86 2 E212005       Y=18 N=27                TAZEWELL, VA.              
+ 211   86 3 TO RATIFY THE SEPERATE AND SECRET ARTICLE OF THE TREATY OF        
+ 211   86 4 COMMERCE AND NAVIGATION WITH THE SUBLIME PORTE, CONCLUDED AT      
+ 211   86 5 CONSTANTINOPLE ON MAY 7, 1829.  (STAT. 8, L. 408)                 
+ 212   87 1               EX J 4-149B    SRE       FEB. 1, 1831               
+ 212   87 2 E212006       Y=12 N=28                ROBBINS, R.I.              
+ 212   87 3 TO AMEND THE SEVENTH ARTICLE OF THE TREATY WITH TURKEY, TO        
+ 212   87 4 GIVE THE MOST FAVORED NATION STATUS TO THE SHIPS OF THE U.S.      
+ 212   87 5 ENTERING THE BLACK SEA FOR COMMERCE.  (STAT. 8 L. 408)            
+ 213   88 1               EX J 4-149C    SRE       FEB. 1, 1831               
+ 213   88 2 E212007       Y=42 N=1                 TAZEWELL, VA.              
+ 213   88 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY           
+ 213   88 4 BETWEEN THE U.S. AND THE OTTOWMAN PORTE, CONCLUDED AT             
+ 213   88 5 CONSTANTINOPLE, MAY 1830, EXCEPTING THE SEPERATE AND SECRET       
+ 213   88 6 ARTICLE.  (STAT. 8 L. 408)                                        
+ 214  229 1 RD-7- -78     J 21-2-125     SJR       FEB. 2, 1831               
+ 214  229 2 S212005       Y=20 N=23                BENTON, MO.                
+ 214  229 3 TO CONSIDER THE SENATE JOINT RESOLUTION THAT DECLARES IT TO       
+ 214  229 4 BE THE SENSE OF CONGRESS, THAT THE CHARTER OF THE BANK OF         
+ 214  229 5 THE U.S. OUGHT NOT TO BE RENEWED.                                 
+ 215  230 1 RD-7          J 21-2-126     SRE       FEB. 2, 1831               
+ 215  230 2 S212006       Y=23 N=20                JOHNSTON, LA.              
+ 215  230 3 TO ADOPT THE RESOLUTION TO DIRECT THE SECRETARY OF STATE TO       
+ 215  230 4 PROCURE FIFTY COPIES OF THE DEBATES IN THE STATE CONVENTIONS      
+ 215  230 5 ON THE ADOPTION OF THE FEDERAL CONSTITUTION IN 1787, AND TO       
+ 215  230 6 DELIVER ONE COPY TO EACH SENATOR.                                 
+ 216   89 1               EX J 4-147     SRE       FEB. 3, 1831               
+ 216   89 2 E212008       Y=22 N=10                POINDEXTER, MISS.          
+ 216   89 3 TO ADOPT THE RESOLUTION, MADE DURING CONSIDERATION OF THE         
+ 216   89 4 NOMINATION OF HENRY ASHTON, AS MARSHALL FOR THE DISTRICT OF       
+ 216   89 5 COLUMBIA; SAID RESOLUTION TO DECLARE IT INEXPEDIENT TO            
+ 216   89 6 APPOINT A CITIZEN OF ONE STATE TO AN OFFICE IN ANOTHER STATE      
+ 216   89 7 OF THE UNION, WHEREIN HE DOES NOT RESIDE, WITHOUT SOME            
+ 216   89 8 EVIDENT NECESSITY.                                                
+ 217  231 1 RD-7- -85     J 21-2-128     HR        FEB. 3, 1831               
+ 217  231 2 S212007A      Y=33 N=9                 WHITE, TENN.               
+ 217  231 3 TO ORDER THIRD READING OF H.R. 481, (APP. 2-19-31,                
+ 217  231 4 STAT. 4 L. 442), A BILL TO GRANT AN ANNUITY TO THE SENECA         
+ 217  231 5 INDIANS.                                                          
+ 218   90 1               EX J 4-151     SRE       FEB. 4, 1831               
+ 218   90 2 E212009       Y=34 N=6                 TYLER, VA.                 
+ 218   90 3 TO ADVISE AND CONSENT TO THE NOMINATION OF HENRY ASHTON AS        
+ 218   90 4 MARSHALL FOR THE DISTRICT OF COLUMBIA.                            
+ 219   91 1               EX J 4-153     SRE       FEB. 8, 1831               
+ 219   91 2 E212010       Y=6 N=37                 WOODBURY, N.H.             
+ 219   91 3 TO ADVISE AND CONSENT TO THE NOMINATION OF FREDERICK LIST AS      
+ 219   91 4 CONSUL OF THE U.S. FOR THE PORT OF HAMBURG.                       
+ 220   92 1               EX J 4-157     SRE       FEB. 5, 1831               
+ 220   92 2 E212011       Y=32 N=0                 WHITE, TENN.               
+ 220   92 3 TO ADOPT THE RESOLUTION TO RATIFY TWO TREATIES, ONE OF            
+ 220   92 4 PEACE, THE OTHER OF CESSION, CONCLUDED AT                         
+ 220   92 5 PRAIRIE DU CHIEN, JULY 10 AND 15, 1830, BETWEEN THE U.S. AND      
+ 220   92 6 THE CONFEDERATED TRIBES OF INDIANS RESIDING ON THE UPPER          
+ 220   92 7 MISSISSIPPI.  (STAT. 7 L. 328)                                    
+ 221  232 1 RD-7- -194    J 21-2-142     SRE       FEB. 11, 1831              
+ 221  232 2 S212008       Y=17 N=27                BENTON, MO.                
+ 221  232 3 TO PROVIDE THAT LEAVE BE GRANTED TO INTRODUCE A BILL FOR          
+ 221  232 4 THE GRADUAL ABOLITION OF THE DUTY ON ALUM SALT AND TO             
+ 221  232 5 CHANGE THE LEVY OF THE DUTY, WHILE IT CONTINUES, FROM THE         
+ 221  232 6 WEIGHTED, TO THE MEASURED BUSHEL.                                 
+ 222  233 1 RD-7- -208A   J 21-2-149     SRE       FEB. 15, 1831              
+ 222  233 2 S212009       Y=43 N=3                 FRELINGHUYS, N.J.          
+ 222  233 3 TO PASS THE RESOLUTION TO REQUEST THE PRESIDENT TO INFORM         
+ 222  233 4 THE SENATE WHETHER THE PROVISIONS OF THE ACT ENTITLED             
+ 222  233 5 "AN ACT TO REGULATE TRADE AND INTERCOURSE WITH THE INDIAN         
+ 222  233 6 TRIBES AND TO PRESERVE PEACE ON THE FRONTIERS," PASSED            
+ 222  233 7 MARCH, 1802, HAVE BEEN FULLY COMPLIED WITH ON THE PART OF         
+ 222  233 8 THE U.S. GOVERNMENT; IF NOT, TO INFORM THE SENATE OF THE          
+ 222  233 9 REASONS.                                                          
+ 223  234 1 RD-7- -208B   J 21-2-150     SRE       FEB. 15, 1831              
+ 223  234 2 S212010       Y=24 N=21                GRUNDY, TENN.              
+ 223  234 3 TO PASS THE RESOLUTION THAT THE SELECT COMMITTEE APPOINTED        
+ 223  234 4 LAST DECEMBER 15 TO INQUIRE INTO THE CONDITION OF THE POST        
+ 223  234 5 OFFICE DEPARTMENT IS NOT AUTHORIZED TO INQUIRE INTO THE           
+ 223  234 6 REASONS WHICH HAVE INDUCED THE POSTMASTER GENERAL TO              
+ 223  234 7 REMOVE ANY OF HIS DEPUTIES.                                       
+ 224   93 1               EX J 4-159     SRE       FEB. 19, 1831              
+ 224   93 2 E212012       Y=11 N=32                HENDRICKS, IND.            
+ 224   93 3 TO DECIDE IF THE PREAMBLE TO THE TREATY CONCLUDED WITH THE        
+ 224   93 4 CHOCTAW TRIBE OF INDIANS, SEPTEMBER, 1830 AT DANCING RABBIT       
+ 224   93 5 CREEK, SHALL STAND AS PART OF THE TREATY.  (STAT. 7 L. 333)       
+ 225   94 1               EX J 4-161A    SRE       FEB. 21, 1831              
+ 225   94 2 E212013       Y=25 N=19                BARTON, MO.                
+ 225   94 3 TO ADVISE AND CONSENT TO THE NOMINATION OF STARKLEY HAYS          
+ 225   94 4 AS SURVEYOR GENERAL OF PUBLIC LANDS SOUTH OF TENNESSEE.           
+ 226   95 1               EX J 4-161B    SRE       FEB. 21, 1831              
+ 226   95 2 E212014       Y=19 N=25                KNIGHT, R.I.               
+ 226   95 3 TO AMEND THE TREATY WITH THE CHOCTAW INDIANS                      
+ 226   95 4 (STAT. 7 L. 333) IN ORDER TO DISAVOW THE ASSERTION BY THE         
+ 226   95 5 COMMISSIONERS THAT THE PRESIDENT CAN NOT PROTECT THE              
+ 226   95 6 CHOCTAW PEOPLE'S PROPERTY, RIGHTS, AND POSSESSIONS IN THE         
+ 226   95 7 STATE OF MISSISSIPPI.                                             
+ 227   96 1               EX J 4-161C    SRE       FEB. 21, 1831              
+ 227   96 2 E212015       Y=33 N=12                WHITE, TENN.               
+ 227   96 3 TO RATIFY THE TREATY WITH THE CHOCTAW INDIANS.                    
+ 227   96 4 (STAT. 7 L. 333)                                                  
+ 228  235 1               J 21-2-168     SRE       FEB. 23, 1831              
+ 228  235 2 S212011       Y=20 N=19                POINDEXTER, MISS.          
+ 228  235 3 TO HAVE PRINTED 3,000 ADDITIONAL COPIES OF PRESIDENT              
+ 228  235 4 ANDREW JACKSON'S MESSAGE IN REPLY TO A SENATE RESOLUTION          
+ 228  235 5 REQUESTING INFORMATION REGARDING TRADE AND INTERCOURSE WITH       
+ 228  235 6 THE INDIAN TRIBES.                                                
+ 229  236 1 RD-7- -310A   J 21-2-177     HR        FEB. 25, 1831              
+ 229  236 2 S212012       Y=22 N=21                KANE, ILL.                 
+ 229  236 3 TO AMEND H.R. 528, (APP. 3-2-31, STAT. 4 L. 452), A BILL          
+ 229  236 4 TO MAKE APPROPRIATIONS FOR SUPPORT OF THE GOVERNMENT FOR          
+ 229  236 5 1831, WHICH AMENDMENT PROVIDES AN ADDITIONAL $15,000 FOR THE      
+ 229  236 6 COMPENSATION OF FORMER LEGATION EMPLOYEES IN TURKEY,              
+ 229  236 7 SUPPLEMENTAL TO THE SUM APPROPRIATED BY THE ACT FOR               
+ 229  236 8 CONTINGENT EXPENSES OF FOREIGN INTERCOURSE.                       
+ 230  237 1 RD-7- -310B   J 21-2-178     HR        FEB. 25, 1831              
+ 230  237 2 S212013       Y=25 N=18                TYLER, VA.                 
+ 230  237 3 TO AMEND AN AMENDMENT TO H.R. 528, BY PROVIDING THAT THE          
+ 230  237 4 PRESIDENT SHALL NOT APPOINT COMMISSIONERS TO NEGOTIATE A          
+ 230  237 5 TREATY WITH TURKEY DURING THE SENATE RECESS, NOR WITHOUT ITS      
+ 230  237 6 ADVICE AND CONSENT.                                               
+ 231  238 1 RD-7- -311    J 21-2-179     HR        FEB. 25, 1831              
+ 231  238 2 S212014       Y=37 N=7                 WEBSTER, MASS.             
+ 231  238 3 TO AMEND H.R. 528, TO REDUCE THE APPROPRIATION FOR OUTFIT,        
+ 231  238 4 SALARY AND CONTINGENT EXPENSES OF A CHARGE D'AFFAIRES AT          
+ 231  238 5 CONSTANTINOPLE, AND REDUCE THE ALLOWANCE FOR SERVICES AND         
+ 231  238 6 CONTINGENT EXPENSES OF THE LEGATION IN TURKEY.                    
+ 232  239 1 RD-7- -312    J 21-2-182A    S         FEB. 26, 1831              
+ 232  239 2 S212015       Y=29 N=7                 BURNET, OHIO               
+ 232  239 3 TO PASS S. 165, (APP. 3-2-31, STAT. 4 L. 483), DECLARING THE      
+ 232  239 4 ASSENT OF CONGRESS TO AN ACT OF THE GENERAL ASSEMBLY OF OHIO      
+ 232  239 5 FOR ERECTING TOLL GATES, AND OTHERWISE PROVIDING FOR THE          
+ 232  239 6 PRESERVATION AND REPAIR OF ROADS WITHIN THE LIMITS OF THAT        
+ 232  239 7 STATE.                                                            
+ 233  240 1 RD-7          J 21-2-182B    SRE       FEB. 26, 1831              
+ 233  240 2 S212016       Y=42 N=0                 HAYNE, S.C.                
+ 233  240 3 TO PRINT A REPORT FROM A SELECT COMMITTEE TO WHICH HAD BEEN       
+ 233  240 4 REFERRED MEMORIALS FOR A REDUCTION OF THE DUTY ON IRON AND        
+ 233  240 5 OTHER MEMORIALS REMONSTRATING AGAINST ANY SUCH REDUCTION.         
+ 234  241 1 RD-7- -317    J 21-2-183A    SRE       FEB. 26, 1831              
+ 234  241 2 S212017       Y=23 N=20                WEBSTER, MASS.             
+ 234  241 3 TO TABLE THE REPORT OF A SELECT COMMITTEE FAVORING A              
+ 234  241 4 REDUCTION OF DUTIES ON IRON.                                      
+ 235  242 1 RD-7- -       J 21-2-183B    HR        FEB. 26, 1831              
+ 235  242 2 S212018       Y=20 N=22                POINDEXTER, MISS.          
+ 235  242 3 TO AMEND H.R. 528, TO PROVIDE A SUM FOR SURVEYING U.S. LANDS      
+ 235  242 4 ACQUIRED BY THE CHOCTAW TREATY OF SEPTEMBER, 1830.                
+ 236  243 1 RD-7- -319A   J 21-2-184A    HR        FEB. 26, 1831              
+ 236  243 2 S212019       Y=29 N=13                HAYNE, S.C.                
+ 236  243 3 TO AMEND AN AMENDMENT TO H.R. 528, TO ELIMINATE THE SALARY        
+ 236  243 4 OF $1,500 FOR A STUDENT OF LANGUAGES AT THE LEGATION IN           
+ 236  243 5 CONSTANTINOPLE.                                                   
+ 237  244 1 RD-7- -319B   J 21-2-184B    HR        FEB. 26, 1831              
+ 237  244 2 S212020       Y=39 N=4                 HAYNE, S.C.                
+ 237  244 3 TO CONCUR IN THE AMENDED AMENDMENT TO H.R. 528, WHICH             
+ 237  244 4 PROVIDES $36,500 FOR THE LEGATION AT CONSTANTINOPLE, WITH         
+ 237  244 5 THE EXCEPTION OF A STUDENT OF LANGUAGES.                          
+ 238  245 1 RD-7- -319C   J 21-2-185A    HR        FEB. 26, 1831              
+ 238  245 2 S212021       Y=19 N=23                KING, ALA.                 
+ 238  245 3 TO AMEND AN AMENDMENT TO H.R. 528, TO ELIMINATE THE PROVISO       
+ 238  245 4 THAT THE PRESIDENT ALONE SHALL NOT APPOINT COMMISSIONERS TO       
+ 238  245 5 NEGOTIATE A TREATY WITH TURKEY DURING THE SENATE'S RECESS         
+ 238  245 6 NOR WITHOUT ITS ADVICE AND CONSENT.                               
+ 239  246 1 RD-7- -319D   J 21-2-185B    HR        FEB. 26, 1831              
+ 239  246 2 S212022       Y=17 N=25                BIBB, KY.                  
+ 239  246 3 TO AMEND AN AMENDMENT TO H.R. 528, TO ELIMINATE THE PROVISO       
+ 239  246 4 THAT THE PRESIDENT ALONE SHALL NOT APPOINT COMMISSIONERS TO       
+ 239  246 5 NEGOTIATE A TREATY WITH TURKEY DURING THE SENATE'S RECESS         
+ 239  246 6 NOR WITHOUT ITS ADVICE AND CONSENT.                               
+ 240  247 1 RD-7- -321    J 21-2-186     SRE       FEB. 28, 1831              
+ 240  247 2 S212023       Y=15 N=20                GRUNDY, TENN.              
+ 240  247 3 TO TABLE THE MOTION TO HAVE READ THE REPORT OF THE MINORITY       
+ 240  247 4 OF A SELECT COMMITTEE TO WHICH HAD BEEN REFERRED A MEMORIAL       
+ 240  247 5 FOR THE REDUCTION OF DUTIES ON IRON, AND OTHER MEMORIALS          
+ 240  247 6 REMONSTRATING AGAINST ANY SUCH REDUCTION.                         
+ 241  248 1 RD-7          J 21-2-193     SRE       FEB. 28, 1831              
+ 241  248 2 S212024       Y=9 N=21                 KING, ALA.                 
+ 241  248 3 TO ADJOURN; MOTION MADE DURING DEBATE ON A RESOLUTION             
+ 241  248 4 DISPOSING OF CERTAIN PUBLIC DOCUMENTS PRINTED BY CONGRESS.        
+ 242  249 1 RD-7- -323    J 21-2-194     SRE       MAR. 1, 1831               
+ 242  249 2 S212025       Y=19 N=18                DICKERSON, N.J.            
+ 242  249 3 TO RECEIVE AND PRINT THE REPORT OF MINORITY AND MAJORITY OF       
+ 242  249 4 A SELECT COMMITTEE ON MEMORIALS FOR AND AGAINST THE REDUCT-       
+ 242  249 5 ION OF DUTIES ON IRON.                                            
+ 243  250 1 RD-7- -325    J 21-2-195     HR        MAR. 1, 1831               
+ 243  250 2 S212026       Y=16 N=25                CLAYTON, DEL.              
+ 243  250 3 TO AMEND H.R. 539, (APP. 3-2-31, STAT. 4 L. 465), MAKING          
+ 243  250 4 MILITARY SERVICE APPROPRIATIONS FOR 1831, WHICH AMENDMENT         
+ 243  250 5 PROVIDES $30,000 FOR PURCHASE OF SMALL ARMS FOR THE MILITIA,      
+ 243  250 6 THAT AMOUNT HAVING BEEN WITHDRAWN FROM THE FUND FOR ARMING        
+ 243  250 7 THE MILITIA IN ORDER TO ARM THE ARTILLERY.                        
+ 244  251 1 RD-7- -326B   J 21-2-198A    HR        MAR. 1, 1831               
+ 244  251 2 S212027       Y=16 N=27                HAYNE, S.C.                
+ 244  251 3 TO REFER H.R. 652, (APP. 3-2-31, STAT. 4 L. 471), A BILL TO       
+ 244  251 4 PROVIDE FOR A SUBSCRIPTION TO A COMPILATION OF TO                 
+ 244  251 5 CONGRESSIONAL DOCUMENTS, TO THE COMMITTEE ON THE JUDICIARY.       
+ 245  252 1 RD-7- -326A   J 21-2-198B    HR        MAR. 1, 1831               
+ 245  252 2 S212028       Y=20 N=23                SMITH, MARYLAND            
+ 245  252 3 TO TABLE H.R. 652.                                                
+ 246  253 1 RD-7- -326C   J 21-2-198C    HR        MAR. 1, 1831               
+ 246  253 2 S212029       Y=21 N=23                WOODBURY, N.H.             
+ 246  253 3 TO TABLE H.R. 652.                                                
+ 247  254 1 RD-7- -326E   J 21-2-199A    HR        MAR. 1, 1831               
+ 247  254 2 S212030A      Y=21 N=23                POINDEXTER, MISS.          
+ 247  254 3 TO AMEND H.R. 652, TO CONFINE THE SELECTION TO DOCUMENTS          
+ 247  254 4 WHICH HAVE BEEN PRINTED.                                          
+ 248  255 1 RD-7- -326D   J 21-2-199B    HR        MAR. 1, 1831               
+ 248  255 2 S212030B      Y=17 N=27                KING, ALA.                 
+ 248  255 3 TO REFER H.R. 652 TO THE COMMITTEE ON THE CONTINGENT FUND OF      
+ 248  255 4 THE SENATE.                                                       
+ 249  256 1 RD-7- -327A   J 21-2-199C    HR        MAR. 1, 1831               
+ 249  256 2 S212031       Y=19 N=24                HAYNE, S.C.                
+ 249  256 3 TO AMEND H.R. 652, TO ELIMINATE THE SPECIFIED 750 COPIES AS       
+ 249  256 4 THE NUMBER TO BE PRINTED.                                         
+ 250  257 1 RD-7- -327B   J 21-2-199D    HR        MAR. 18 1831               
+ 250  257 2 S212032       Y=18 N=23                WOODBURY, N.H.             
+ 250  257 3 TO AMEND H.R. 652, TO REDUCE THE PRICE OF THE PROPOSED            
+ 250  257 4 PRINTING 20% BELOW THAT PAID TO THE GOVERNMENT PRINTER.           
+ 251  258 1 RD-7- -327C   J 21-2-200A    HR        MAR. 1, 1831               
+ 251  258 2 S212033       Y=20 N=23                HAYNE, S.C.                
+ 251  258 3 TO AMEND H.R. 652, TO LIMIT TO FIFTEEN THE NUMBER OF              
+ 251  258 4 VOLUMES TO BE PRINTED.                                            
+ 252  259 1 RD-7- -327D   J 21-2-200B    HR        MAR. 1, 1831               
+ 252  259 2 S212034       Y=9 N=31                 POINDEXTER, MISS.          
+ 252  259 3 TO AMEND H.R. 652, TO ADD A NEW SECTION TO PROVIDE FOR A          
+ 252  259 4 SUBSCRIPTION TO A PROPOSED PUBLICATION OF A STEREOTYPE            
+ 252  259 5 EDITION OF THE LAWS.                                              
+ 253  260 1 RD-7- -327E   J 21-2-201     HR        MAR. 1, 1831               
+ 253  260 2 S212035       Y=24 N=19                                           
+ 253  260 3 TO ORDER THIRD READING OF H.R. 652.                               
+ 254  261 1 RD-7          J 21-2-202     SRE       MAR. 1, 1831               
+ 254  261 2 S212036       Y=20 N=20                FOOT, CONN.                
+ 254  261 3 TO POSTPONE THE ORDERS OF THE DAY IN ORDER TO CONSIDER A          
+ 254  261 4 BILL SUPPLEMENTARY TO AN ACT FOR THE RELIEF OF CERTAIN            
+ 254  261 5 WIDOWED OFFICERS AND SOLDIERS OF THE REVOLUTION.                  
+ 255  262 1 RD-7          J 21-2-203     HR        MAR. 1, 1831               
+ 255  262 2 S212037       Y=19 N=20                KING, ALA.                 
+ 255  262 3 TO CONCUR IN THE HOUSE AMENDMENTS TO H.R. 528.                    
+ 256   97 1               EX J 4-168A    SRE       MAR. 2, 1831               
+ 256   97 2 E212016       Y=5 N=35                 MCKINLEY, ALA.             
+ 256   97 3 TO ADVISE AND CONSENT TO THE NOMINATION OF JOHN LEIB AS           
+ 256   97 4 U.S. MARSHALL FOR THE MICHIGAN TERRITORY.                         
+ 257   98 1               EX J 4-168B    SRE       MAR. 2, 1831               
+ 257   98 2 E212017       Y=18 N=25                TAZEWELL, VA.              
+ 257   98 3 TO ADVISE AND CONSENT TO THE NOMINATION OF STEPHAN SIMPSON,       
+ 257   98 4 AS U.S. COMMISSIONER, UNDER THE TREATY WITH DENMARK OF            
+ 257   98 5 MARCH, 1830.                                                      
+ 258   99 1               EX J 4-169     SRE       MAR. 2, 1831               
+ 258   99 2 E212018       Y=18 N=19                BARTON, MO.                
+ 258   99 3 TO ADVISE AND CONSENT TO THE NOMINATION OF JOHN SHELDON AS        
+ 258   99 4 RECEIVER OF PUBLIC MONIES FOR THE DISTRICT LANDS SUBJECT TO       
+ 258   99 5 SALE AT MONROE, IN THE TERRITORY OF MICHIGAN.                     
+ 259  100 1               EX J 4-171     SRE       MAR. 2, 1831               
+ 259  100 2 E212019       Y=34 N=0                 BENTON, MO.                
+ 259  100 3 TO RATIFY THE CONVENTION BETWEEN THE U.S. OF A. AND THE           
+ 259  100 4 CHIEFS AND WARRIORS OF THE SENACA TRIBE ON INDIANS OF OHIO,       
+ 259  100 5 CONCLUDED AT WASHINGTON ON FEB. 28 TO 1831.                       
+ 259  100 6 (STAT. 7 L. 348)                                                  
+ 260  263 1 RD-7- -333    J 21-2-206     HR        MAR. 2, 1831               
+ 260  263 2 S212038       Y=22 N=15                HAYNE, S.C.                
+ 260  263 3 TO ORDER THIRD READING OF H.R. 330, (APP. 3-2-31,                 
+ 260  263 4 STAT. 6 L. 457), TO PROVIDE FOR THE ADJUSTMENT OF THE CLAIM       
+ 260  263 5 OF JAMES MONROE, WHILE SERVING AS MINISTER TO FRANCE.             
+ 261  264 1 RD-7- -334A   J 21-2-211A    HR        MAR. 2, 1831               
+ 261  264 2 S212039       Y=36 N=2                 HENDRICKS, IND.            
+ 261  264 3 TO AMEND H.R. 584, (APP. 3-2-31, STAT. 4 L. 462), TO MAKE         
+ 261  264 4 APPROPRIATIONS FOR CARRYING ON CERTAIN ROADS AND WORKS OF         
+ 261  264 5 INTERNAL IMPORVEMENT, AND PROVIDING FOR SURVEYS; SAID             
+ 261  264 6 AMENDMENT TO ELIMINATE CERTAIN WORDS FROM THE BILL AS IT          
+ 261  264 7 CAME FROM THE HOUSE, AND TO INSERT AN APPROPRIATION OF            
+ 261  264 8 $150,000 FOR IMPROVING THE NAVIGATION OF THE OHIO AND             
+ 261  264 9 MISSISSIPPI RIVERS, FROM PITTSBURG TO NEW ORLEANS, AND ALSO       
+ 261  26410 REQUIRING A $300,000 BOND FROM THE SUPERINTENDENT OF THE          
+ 261  26411 WORK.                                                             
+ 262  265 1 RD-7- -334B   J 21-2-211B    HR        MAR. 2, 1831               
+ 262  265 2 S212040       Y=29 N=9                 POINDEXTER, MISS.          
+ 262  265 3 TO AMEND H.R. 584 TO PROVIDE THAT AN ENGINEER BE ASSOCIATED       
+ 262  265 4 WITH THE SUPERINTENDENT IN IMPROVING THE OHIO AND                 
+ 262  265 5 MISSISSIPPI RIVERS FROM PITTSBURGH TO NEW ORLEANS.                
+ 263  266 1 RD-7- -334C   J 21-2-212A    HR        MAR. 2, 1831               
+ 263  266 2 S212041       Y=18 N=19                KING, ALA.                 
+ 263  266 3 TO AMEND H.R. 584, TO REDUCE A PROVISION FOR FURTHER SURVEYS      
+ 263  266 4 FROM $25,000 TO $5,000.                                           
+ 264  267 1 RD-7- -       J 21-2-212B    HR        MAR. 2, 1831               
+ 264  267 2 S212042       Y=26 N=10                HENDRICKS, IND.            
+ 264  267 3 TO ORDER ENGROSSMENT AND THIRD READING OF H.R. 584.               
+ 265  268 1 RD-7- -334D   J 21-2-214A    HR        MAR. 2, 1831               
+ 265  268 2 S212043       Y=28 N=6                 HENDRICKS, IND.            
+ 265  268 3 TO ORDER ENGROSSMENT AND THIRD READING OF H.R. 584.               
+ 266  269 1 RD-7- -334E   J 21-2-214B    SRE       MAR. 2, 1831               
+ 266  269 2 S212044       Y=16 N=18                WOODBURY, N.H.             
+ 266  269 3 TO SUSTAIN THE RULING OF THE CHAIR THAT A MOTION TO SUSPEND       
+ 266  269 4 A RULE MUST LIE ON THE TABLE ONE DAY, UNLESS THE SENATE           
+ 266  269 5 UNANIMOUSLY AGREES TO SUSPEND THE RULES.                          
+ 267  270 1 RD-7- -335A   J 21-2-220     SRE       MAR. 2, 1831               
+ 267  270 2 S212045       Y=10 N=26                KING, ALA.                 
+ 267  270 3 TO ADJOURN; MOTION MADE DURING DEBATE ON THE RESOLUTION           
+ 267  270 4 (APP. 3-2-31), (STAT. 4 L. 495), DIRECTING THE SECRETARY          
+ 267  270 5 OF STATE TO SUBSCRIBE FOR SEVENTY COPIES OF PETERS'               
+ 267  270 6 CONDENSED REPORT OF THE SUPREME COURT.                            
+ 268  271 1 RD-7- -335B   J 21-2-224A    HR        MAR. 2, 1831               
+ 268  271 2 S212046       Y=6 N=19                 FORSYTH, GA.               
+ 268  271 3 TO TABLE H.R. 564, A BILL TO ALTER THE DRAWBRIDGE OVER THE        
+ 268  271 4 POTOMAC RIVER.                                                    
+ 269  272 1 RD-7- -335    J 21-2-224B    HR        MAR. 2, 1831               
+ 269  272 2 S212047       Y=9 N=20                 FORSYTH, GA.               
+ 269  272 3 TO ADJOURN; MOTION MADE DURING DEBATE ON H.R. 564.                
+ 270  273 1 RD-7- -335C   J 21-2-224C    HR        MAR. 2, 1831               
+ 270  273 2 S212048       Y=5 N=19                 FORSYTH, GA.               
+ 270  273 3 TO ADJOURN, MOTION MADE DURING DEBATE ON H.R. 564.                
+ 271  274 1 RD-7- -335D   J 21-2-225A    HR        MAR. 2, 1831               
+ 271  274 2 S212049       Y=7 N=21                 KING, ALA.                 
+ 271  274 3 TO ADJOURN; MOTION MADE DURING CONSIDERATION OF H.R. 564.         
+ 272  275 1 RD-7- -335E   J 21-2-225B    HR        MAR. 2, 1831               
+ 272  275 2 S212050       Y=7 N=18                 TYLER, VA.                 
+ 272  275 3 TO ADJOURN; MOTION MADE DURING CONSIDERATION OF H.R. 564.         
+ 273  276 1 RD-7          J 21-2-225C    HR        MAR. 2, 1831               
+ 273  276 2 S212051       Y=12 N=10                FOOT, CONN.                
+ 273  276 3 TO READ A MEMORIAL OF THE CORPORATION OF GEORGETOWN               
+ 273  276 4 CONCERNING H.R. 564.                                              
+ 274  277 1 RD-7          J 21-2-226     HR        MAR. 2, 1831               
+ 274  277 2 S212052       Y=5 N=20                 FORSYTH, GA.               
+ 274  277 3 TO ADJOURN; MOTION MADE DURING CONSIDERATION OF H.R. 564.         
+ 275  101 1               EX J 4-173A    SRE       MAR. 3, 1831               
+ 275  101 2 E212020       Y=18 N=20                WHITE, TENN.               
+ 275  101 3 TO ADVISE AND CONSENT TO THE NOMINATION OF                        
+ 275  101 4 SAMUEL C. STAMBOUGH AS INDIAN AGENT AT GREEN BAY.                 
+ 276  102 1               EX J 4-173B    SRE       MAR. 3, 1831               
+ 276  102 2 E212021       Y=17 N=13                KING, ALA.                 
+ 276  102 3 TO TABLE THE NOMINATION OF JOHN ZANDTZINGER AS MASTER             
+ 276  102 4 COMMANDANT IN THE NAVY.                                           
+ 277  103 1               EX J 4-174     SRE       MAR. 3, 1831               
+ 277  103 2 E212022       Y=15 N=16                WEBSTER, MASS.             
+ 277  103 3 TO TABLE THE REMAINING, VARIOUS, NOMINATIONS FOR PROMOTIONS       
+ 277  103 4 IN THE NAVY.                                                      

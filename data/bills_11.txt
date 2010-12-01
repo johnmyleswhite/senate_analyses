@@ -1,0 +1,961 @@
+   1    1 1               EX J 11-1-119A SRE       MAR. 7, 1809               
+   1    1 2 E111001       Y=17 N=15                LLOYD, MASS.               
+   1    1 3 TO ADOPT A RESOLUTION THAT IT IS INEXPEDIENT AT THIS TIME,        
+   1    1 4 TO APPOINT A MINISTER FROM THE U.S. TO THE COURT OF RUSSIA.       
+   2    2 1               EX J 11-1-119B SRE       MAR. 7, 1809               
+   2    2 2 E111002       Y=27 N=3                                            
+   2    2 3 TO CONFIRM THE NOMINATION OF THOMAS SUMPTER AS MINISTER           
+   2    2 4 PLENIPOTENTIARY TO THE COURT OF RIO JANERIO.                      
+   3   29 1 A 20- -25     J 11-1-381     SRE       JUNE 6, 1809               
+   3   29 2 S111001       Y=19 N=6                 GILES, VA.                 
+   3   29 3 TO ADOPT THE RESOLUTION TO PERMIT HORACAL SAMUAL SMITH,           
+   3   29 4 APPOINTED AS SENATOR, FROM MARYLAND, TO HOLD SAID OFFICE          
+   3   29 5 DURING SESSION OF LEGISLATURE, UNLESS SUCH LEGISLATURE FILL       
+   3   29 6 SAID VACANCY.                                                     
+   4   30 1 A 20- -37A    J 11-1-388A    S         JUNE 16, 1809              
+   4   30 2 S111002       Y=19 N=9                 REED, MD.                  
+   4   30 3 TO AMEND THE BILL, (APP. 6/28/1809, 2 STAT L. 549), TO            
+   4   30 4 REMIT CERTAIN PENALTIES AND FORFEITURES, AND FOR OTHER            
+   4   30 5 PURPOSES, BY ELIMINATING THE SECOND SECTION WHICH PRESERVES       
+   4   30 6 THE EXERCISE OF CERTAIN PROPERTY RIGHTS OF OWNERSHIP OF           
+   4   30 7 SLAVES OVER THE SAME AS IF THE ACT AFORESAID HAD NEVER BEEN       
+   4   30 8 PASSED, UNTIL THE LEGISLATURE OF THE SEVERAL STATES WITHIN        
+   4   30 9 WHICH ANY SUCH SLAVES MAY HAVE BEEN BROUGHT                       
+   4   3010 SHALL HAVE DISPOSED OF SAME ACCORDING TO THE PROVISIONS OF        
+   4   3011 THE ACT.                                                          
+   5   31 1 A 20- -37B    J 11-1-388B    S         JUNE 16, 1809              
+   5   31 2 S111003       Y=20 N=5                 GILES, VA.                 
+   5   31 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL         
+   5   31 4 (APP. 6/28/1809, 2 STAT L. 549), FOR THE REMISSION OF             
+   5   31 5 CERTAIN PENALTIES AND FORFIETURES, AND FOR OTHER PURPOSES.        
+   6   32 1 A 20- -39     J 11-1-390     S         JUNE 19, 1809              
+   6   32 2 S111004       Y=29 N=0                 GILES, VA.                 
+   6   32 3 TO PASS THE BILL (2 STAT L. 550, 6/28/1809), TO AMEND AND         
+   6   32 4 CONTINUE IN FORCE, THE ACT ENTITLED, "AN ACT TO INTERDICT         
+   6   32 5 THE COMMERCIAL INTERCOURSE BETWEEN THE UNITED STATES AND          
+   6   32 6 GREAT BRITAIN, AND FRANCE, AND THEIR DEPENDENCIES, AND FOR        
+   6   32 7 OTHER PURPOSES.                                                   
+   7   33 1 A 20- -40     J 11-1-391     S         JUNE 20, 1809              
+   7   33 2 S111005       Y=15 N=13                BRENT, VA.                 
+   7   33 3 TO POSTPONE UNTIL THE FIRST MONDAY IN DECEMBER,                   
+   7   33 4 CONSIDERATION OF THE BILL APPROPRIATING CERTAIN PUBLIC            
+   7   33 5 GROUND IN THE CITY OF WASHINGTON FOR THE ERECTION OF              
+   7   33 6 PUBLIC BATHS.                                                     
+   8   34 1 A 20- -41     J 11-1-392     SRE       JUNE 21, 1809              
+   8   34 2 S111006       Y=9 N=19                 REED, MD.                  
+   8   34 3 TO POSTPONE CONSIDERATION OF THE RESOLUTION TO APPOINT A          
+   8   34 4 COMMITTEE TO INQUIRE INTO AND REPORT ON THE EXPEDIENCY OF         
+   8   34 5 PROVIDING FOR THE EXCLUSION OF FOREIGN ARMED VESSELS FROM         
+   8   34 6 THE PORTS AND HARBORS OF THE UNITED STATES.                       
+   9   35 1 A 20- -45     J 11-1-395     S         JUNE 24, 1809              
+   9   35 2 S111007       Y=17 N=10                ANDERSON, TENN.            
+   9   35 3 TO AMEND THE BILL (APP. 6/28/1809, 2 STAT L. 552), MAKING         
+   9   35 4 APPROPRIATIONS FOR DEFRAYING THE EXPENSES OF STATIONARY           
+   9   35 5 PRINTING AND OTHER CONTINGENT EXPENSES OF THE SENATE AND          
+   9   35 6 HOUSE DURING THE PRESENT SESSION OF CONGRESS, AND OF BOOKS,       
+   9   35 7 MAPS, AND CHARTS FOR THE LIBRARY OF CONGRESS, BY ELIMINATING      
+   9   35 8 AN ADDITIONAL APPROPRIATION OF $4,000 FOR THE PURCHASE OF         
+   9   35 9 BOOKS, MAPS, AND CHARTS FOR THE LIBRARY OF CONGRESS.              
+  10   36 1 A 20- -47A    J 11-1-396A    S         JUNE 26, 1809              
+  10   36 2 S111008       Y=3 N=25                 LLOYD, MASS.               
+  10   36 3 TO AMEND THE BILL (APP. 6/28/1809, 2 STAT L. 551), MAKING         
+  10   36 4 FURTHER PROVISION FOR THE SUPPORT OF PUBLIC CREDIT AND FOR        
+  10   36 5 THE REDEMPTION OF THE PUBLIC DEBT, BY ADDING A NEW SECTION        
+  10   36 6 EMPOWERING THE SECRETARY OF THE TREASURY TO BORROW A SUM,         
+  10   36 7 NOT EXCEEDING THREE AND A HALF MILLION DOLLARS, ON THE            
+  10   36 8 CREDIT OF THE UNITED STATES IN ORDER TO PROVIDE FOR THE           
+  10   36 9 EXPENSES OF THE GOVERNMENT.                                       
+  11   37 1 A 20- -47B    J 11-1-396B    S         JUNE 26, 1809              
+  11   37 2 S111009       Y=18 N=10                THRUSTON, KY.              
+  11   37 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE CREDIT       
+  11   37 4 BILL.                                                             
+  12    3 1               EX J 11-1-127A SRE       JUNE 27, 1809              
+  12    3 2 E111003       Y=5 N=22                                            
+  12    3 3 TO CONFIRM THE NOMINATION OF LEONARD H. GANSEVORT AS              
+  12    3 4 MILITARY AGENT FOR THE NORTHERN DEPARTMENT.                       
+  13    4 1               EX J 11-1-127B SRE       JUNE 27, 1809              
+  13    4 2 E111004       Y=7 N=19                                            
+  13    4 3 TO CONSENT TO THE NOMINATION OF NANNING J. VISCHER AS             
+  13    4 4 CAPTAIN IN THE REGIMENT OF RIFLEMEN.                              
+  14    5 1               EX J 11-1-127C SRE       JUNE 27, 1809              
+  14    5 2 E111005       Y=19 N=7                                            
+  14    5 3 TO CONSENT TO THE NOMINATION OF JOHN Q. ADAMS AS MINISTER         
+  14    5 4 PLENIPOTENTIARY TO THE COURT OF ST. PETERSBURGH.                  
+  15   38 1 A 20- -47C    J 11-1-397     S         JUNE 27, 1809              
+  15   38 2 S111010       Y=9 N=15                 HILLHOUSE, CONN.           
+  15   38 3 TO POSTPONE CONSIDERATION OF THE SENATE CREDIT BILL UNTIL         
+  15   38 4 THE FIRST MONDAY IN NOV. NEXT.                                    
+  16   39 1 A 20- -48     J 11-1-398     S         JUNE 28, 1809              
+  16   39 2 S111011       Y=17 N=9                 THRUSTON, KY.              
+  16   39 3 TO PASS THE SENATE CREDIT BILL, AS AMENDED.                       
+  17   40 1 A 20- -511    J 11-2-412     JRE       DEC. 11, 1809              
+  17   40 2 S112001       Y=20 N=4                 GILES, VA.                 
+  17   40 3 TO ADOPT THE JOINT RESOLUTION (2 STAT L. 612, 1/12/1810),         
+  17   40 4 RELATING TO OFFICIAL CORRESPONDENCE BETWEEN THE SECRETARY OF      
+  17   40 5 STATE AND FRANCES J. JACKSON, MINISTER PLENIPOTENTIARY OF         
+  17   40 6 HIS BRITANNIC MAJESTY.                                            
+  18   41 1 A 20- -516    J 11-2-417     S         DEC. 20, 1809              
+  18   41 2 S112002       Y=20 N=2                 GILES, VA.                 
+  18   41 3 TO PASS THE BILL TO PREVENT THE ABUSE OF THE PRIVILEGES AND       
+  18   41 4 IMMUNITIES ENJOYED BY FOREIGN MINISTERS WITHIN THE U.S.           
+  19    6 1               EX J 11-1-135A SRE       JAN. 2, 1810               
+  19    6 2 E112001       Y=20 N=0                 BRADLEY, VT.               
+  19    6 3 TO RATIFY THE TREATY BETWEEN THE UNITED STATES AND THE            
+  19    6 4 DELAWARE, POTAWATTAMIE, MIAMI, AND EEL RIVER INDIAN TRIBES,       
+  19    6 5 TOGETHER WITH THE SEPARATE ARTICLE ENTERED INTO AT THE SAME       
+  19    6 6 TIME AND PLACE WITH THE MIAMI AND EEL RIVER TRIBES, MADE AND      
+  19    6 7 CONCLUDED AT FORT WAYNE, 9/30/1809.                               
+  20    7 1               EX J 11-1-135B SRE       JAN. 2, 1810               
+  20    7 2 E112002       Y=20 N=0                 BRADLEY, VT.               
+  20    7 3 TO RATIFY THE CONVENTION BETWEEN THE U.S. AND THE WEEA TRIBE      
+  20    7 4 OF INDIANS, MADE AND CONCLUDED AT VINCENNES ON 10/26/1809.        
+  21    8 1               EX J 11-1-136  SRE       JAN. 3, 1810               
+  21    8 2 E112003       Y=18 N=9                 BRADLEY, VT.               
+  21    8 3 TO CONSENT TO THE NOMINATION OF NANNING VISCHER TO BE             
+  21    8 4 CAPTAIN IN THE REGIMENT OF RIFLEMEN.                              
+  22   42 1 A 20- -532    J 11-2-429A    S         JAN. 23, 1810              
+  22   42 2 S112003       Y=13 N=18                ANDERSON, TENN.            
+  22   42 3 TO POSTPONE CONSIDERATION OF THE BILL AUTHORIZING THE             
+  22   42 4 FITTING OUT, OFFICERING, AND MANNING OF THE FRIGATES              
+  22   42 5 BELONGING TO THE UNITED STATES, UNTIL THE SECOND MONDAY OF        
+  22   42 6 FEBRUARY NEXT.                                                    
+  23   43 1 A 20- -547    J 11-2-429B    S         JAN. 24, 1810              
+  23   43 2 S112004       Y=25 N=6                 GILES, VA.                 
+  23   43 3 TO PASS THE BILL AUTHORIZING THE FITTING OUT, OFFICERING,         
+  23   43 4 AND MANNING OF THE FRIGATES BELONGING TO THE UNITED STATES.       
+  24   44 1 A 20- -551    J 11-2-432     SRE       JAN. 29, 1810              
+  24   44 2 S112005       Y=7 N=24                 PICKERING, MASS.           
+  24   44 3 TO ADOPT THE RESOLUTION REQUESTING THAT THE PRESIDENT             
+  24   44 4 GIVE THE SENATE ANY INFORMATION HE MAY POSSESS AS TO THE          
+  24   44 5 NECCESSITY FOR THE UNITED STATES TO AUGMENT ITS MILITARY          
+  24   44 6 FORCE.                                                            
+  25   45 1 A 20- -553A   J 11-2-434A    S         FEB. 5, 1810               
+  25   45 2 S112006       Y=16 N=16                GREGG, PA.                 
+  25   45 3 TO AMEND THE BILL ENGAGING FOR A SHORT PERIOD, A CORPS OF         
+  25   45 4 VOLUNTEERS IN THE SERVICE OF THE UNITED STATES, BY STRIKING       
+  25   45 5 OUT FROM SECTION 3, LINE4, THE WORDS: "IMMEDIATELY                
+  25   45 6 THEREAFTER".                                                      
+  26   46 1 A 20- -553B   J 11-2-434B    S         FEB. 5, 1810               
+  26   46 2 S112007       Y=21 N=12                GREGG, PA.                 
+  26   46 3 TO AMEND THE BILL ENGAGING FOR A SHORT PERIOD, A CORPS OF         
+  26   46 4 VOLUNTEERS IN THE SERVICE OF THE UNITED STATES, BY                
+  26   46 5 INSERTING IN THE SECOND BRANCH OF THE AMENDMENT THE WORDS,        
+  26   46 6 "UPON ENTERING INTO THE SERVICE".                                 
+  27   47 1 A 20- -573A   J 11-2-440A    SRE       FEB. 16, 1810              
+  27   47 2 S112008       Y=19 N=10                GILES, VA.                 
+  27   47 3 TO AMEND THE RESOLUTION (5/1/1810, 2 STAT L. 605),                
+  27   47 4 REQUESTING THE PRESIDENT TO LAY BEFORE THE SENATE                 
+  27   47 5 INFORMATION AS TO THE ENFORCEMENT OF THE LAWS INTERDICTING        
+  27   47 6 THE COMMERCIAL INTERCOURSE BETWEEN THE UNITED STATES AND          
+  27   47 7 GREAT BRITAIN AND FRANCE, BY ELIMINATING ALL AFTER THE WORD       
+  27   47 8 "INFORMATION".                                                    
+  28   48 1 A 20- -573B   J 11-2-440B    SRE       FEB. 16, 1810              
+  28   48 2 S112009       Y=29 N=1                 GILES, VA.                 
+  28   48 3 TO AMEND A RESOLUTION (APP. 5/1/1810, 2 STAT L. 605),             
+  28   48 4 REQUESTING THE PRESIDENT TO LAY BEFORE THE SENATE                 
+  28   48 5 INFORMATION AS TO THE ENFORCEMENT OF THE LAWS INTERDICTING        
+  28   48 6 THE COMMERCIAL INTERCOURSE BETWEEN THE UNITED STATES AND          
+  28   48 7 GREAT BRITAIN AND FRANCE, BY INSERTING A NEW CLAUSE TO            
+  28   48 8 INQUIRE WHETHER IN THE EXECUTION OF THE SAID LAWS, EXPORTS        
+  28   48 9 TO AND IMPORTS FROM GREAT BRITAIN OR FRANCE HAVE BEEN OR ARE      
+  28   4810 NOW PERMITTED AND WHETHER COLLECTORS OF DISTRICTS IN THE          
+  28   4811 UNITED STATES DO NOT ADMIT TO AN ENTRY, GOODS OF THE GROWTH       
+  28   4812 OR MANUFACTURE OF GREAT BRITAIN OR FRANCE, ALSO THE               
+  28   4813 INSTRUCTIONS UNDER WHICH SUCH COLLECTORS HAVE ACTED.              
+  29   49 1 A 20- -575    J 11-2-442     S         FEB. 19, 1810              
+  29   49 2 S112010       Y=8 N=22                 LLOYD, MASS.               
+  29   49 3 TO AMEND AN AMENDMENT TO THE BILL (APP. 2/26/1810,                
+  29   49 4 2 STAT L. 557), PROVIDING FOR MAKING APPROPRIATIONS FOR THE       
+  29   49 5 SUPPORT OF THE GOVERNMENT DURING 1810, BY STRIKING OUT            
+  29   49 6 APPROPRIATION OF $100,000, DUE TO THE BANK OF THE                 
+  29   49 7 UNITED STATES FOR ADVANCE TO THE LATE COLLECTOR OF                
+  29   49 8 NEW ORLEANS TO ENABLE HIM TO PAY DRAWBACKS.                       
+  30   50 1 A 20- -576    J 11-2-443A    S         FEB. 20, 1810              
+  30   50 2 S112011       Y=8 N=25                 GILES, VA.                 
+  30   50 3 TO POSTPONE FURTHER CONSIDERATION OF THE BILL                     
+  30   50 4 (APP. 5/1/1810, 2 STAT L. 605), RESPECTING THE LAW                
+  30   50 5 ENFORCEMENT OF COMMERCIAL INTERCOURSE BETWEEN THE UNITED          
+  30   50 6 STATES, GREAT BRITAIN, AND FRANCE, AND FOR OTHER PURPOSES,        
+  30   50 7 UNTIL MONDAY NEXT.                                                
+  31   51 1 A 20- -577    J 11-2-443B    S         FEB. 21, 1810              
+  31   51 2 S112012       Y=16 N=11                SMITH, MD.                 
+  31   51 3 TO AMEND THE BILL BY STRIKING OUT SECTIONS 3,4,5,6,7,8,9,         
+  31   51 4 AND 11.                                                           
+  32   52 1 A 20- -582A   J 11-2-445A    S         FEB. 22, 1810              
+  32   52 2 S112013       Y=13 N=20                CLAY, KY.                  
+  32   52 3 TO RECOMMIT THE BILL TO A COMMITTEE FOR FURTHER                   
+  32   52 4 INVESTIGATION, PROPOSING EITHER A TOTAL NONIMPORTATION, OR,       
+  32   52 5 TO ARM OUR MERCHANTMEN AND AUTHORIZE CONVEYS.                     
+  33   53 1 A 20- -582B   J 11-2-445B    S         FEB. 22, 1810              
+  33   53 2 S112014       Y=26 N=7                 SMITH, MD.                 
+  33   53 3 TO PASS THE BILL ON COMMERCIAL INTERCOURSE.                       
+  34   54 1 A 20- -583    J 11-2-446     S         FEB. 23, 1810              
+  34   54 2 S112015       Y=16 N=14                LEIB, PA.                  
+  34   54 3 TO REFER TO A SELECT COMMITTEE THE BILL (APP. 3/2/1810,           
+  34   54 4 2 STAT L. 562), PROVIDING APPROPRIATIONS FOR THE SUPPORT OF       
+  34   54 5 THE NAVY FOR 1810.                                                
+  35   55 1 A 20- -585    J 11-2-448     S         FEB. 26, 1810              
+  35   55 2 S112016       Y=21 N=9                 HILLHOUSE, CONN.           
+  35   55 3 TO AMEND THE BILL AUTHORIZING THE REMOVAL OF THE SLAVES           
+  35   55 4 FROM ONE PART OF THE DISTRICT OF COLUMBIA TO ANOTHER, BY          
+  35   55 5 ELIMINATING THE FIRST SECTION OF THE BILL.                        
+  36   56 1 A 20- -586    J 11-2-449     S         FEB. 27, 1810              
+  36   56 2 S112017       Y=16 N=14                SMITH, MD.                 
+  36   56 3 TO CONCUR IN COMMITTEE AMENDMENT TO THE BILL FOR THE RELIEF       
+  36   56 4 OF JOSEPH SUMMERL, SIMON PHILIPSON, WILLIAM HAMON,                
+  36   56 5 ARCHIBALD MCCALL AND ISSAC CLASON, SAID AMENDMENT TO EXTEND       
+  36   56 6 RELIEF ALSO TO JOSEPH SHOEMAKER.                                  
+  37   57 1 A 20- -587A   J 11-2-450A    S         FEB. 28, 1810              
+  37   57 2 S112018       Y=12 N=19                BAYARD, DEL.               
+  37   57 3 TO POSTPONE CONSIDERATION OF THE BILL (APP. 3/30/1810,            
+  37   57 4 2 STAT L. 569), MAKING APPROPRIATIONS FOR THE EXPERIMENTS         
+  37   57 5 WITH TORPEDOES.                                                   
+  38   58 1 A 20- -587B   J 11-2-450B    S         FEB. 28, 1810              
+  38   58 2 S112019       Y=15 N=15                ANDERSON, TENN.            
+  38   58 3 TO RECOMMIT THE BILL (APP. 3/30/1810, 2 STAT L. 569),             
+  38   58 4 MAKING APPROPRIATIONS TO EXPERIMENT WITH TORPEDOES IN ORDER       
+  38   58 5 TO OBTAIN CERTAIN INFORMATION FROM THE NAVY DEPARTMENT.           
+  39   59 1 A 20- -588A   J 11-2-451A    S         MAR. 1, 1810               
+  39   59 2 S112020       Y=13 N=18                LEIB, PA.                  
+  39   59 3 TO POSTPONE FURTHER CONSIDERATION OF THE HOUSE BILL, (N.P.)       
+  39   59 4 FOR THE RELIEF OF JOSEPH SUMMERL, SIMON PHILIPSON,                
+  39   59 5 WILLIAM HAMON, ARCHIBALD MCCALL, AND ISSAC CLASON, UNTIL THE      
+  39   59 6 FIRST MONDAY IN DECEMBER NEXT.                                    
+  40   60 1 A 20- -588B   J 11-2-451B    S         MAR. 1, 1810               
+  40   60 2 S112021       Y=16 N=14                BRADLEY, VT.               
+  40   60 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL                
+  40   60 4 (APP. 3/30/1810, 2 STAT L. 569), WHICH PROVIDES FOR MAKING        
+  40   60 5 APPROPRIATIONS FOR EXPERIMENTS WITH TORPEDOES.                    
+  41   61 1 A 20- -589A   J 11-2-452A    S         MAR. 2, 1810               
+  41   61 2 S112022       Y=18 N=13                BRADLEY, VT.               
+  41   61 3 TO PASS THE BILL (APP. 3/30/1810, 2 STAT L. 569), MAKING AN       
+  41   61 4 APPROPRIATION OF $5,000 FOR EXPERIMENTS WITH TORPEDOES.           
+  42   62 1 A 20- -589B   J 11-2-452B    S         MAR. 2, 1810               
+  42   62 2 S112023       Y=23 N=2                 ANDERSON, TENN.            
+  42   62 3 TO AMEND THE BILL (APP. 3/30/1810, 2 STAT L. 569), MAKING         
+  42   62 4 APPROPRIATIONS FOR THE EXPERIMENT WITH TORPEDOES, BY              
+  42   62 5 CHANGING THE TITLE TO READ "AN ACT MAKING AN APPROPRIATION        
+  42   62 6 FOR THE PURPOSE OF TRYING THE PRACTICAL USE OF THE                
+  42   62 7 TORPEDOES, OR SUB-MARINE EXPLOSIONS".                             
+  43    9 1               EX J 11-1-140  SRE       MAR. 5, 1810               
+  43    9 2 E112004       Y=29 N=0                 BRADLEY, VT.               
+  43    9 3 TO RATIFY THE TREATY BETWEEN THE UNITED STATES AND THE            
+  43    9 4 KICKAPOO TRIBE OF INDIANS, MADE AND CONCLUDED ON 12/9/1809.       
+  44   63 1 A 20- -590    J 11-2-453     HRE       MAR. 5, 1810               
+  44   63 2 S112024       Y=10 N=21                LEIB, PA.                  
+  44   63 3 TO POSTPONE CONSIDERATION OF THE HOUSE RESOLUTION                 
+  44   63 4 DISAGREEING WITH THE SENATE AMENDMENTS TO THE COMMERCIAL          
+  44   63 5 INTERCOURSE BILL, UNTIL NEXT MONDAY.                              
+  45   64 1 A 20- -594    J 11-2-456     S         MAR. 8, 1810               
+  45   64 2 S112025       Y=18 N=10                BAYARD, DEL.               
+  45   64 3 TO AMEND THE BILL ENTITLED "THE DISTRICT COURT ESTABLISHED        
+  45   64 4 IN THE TERRITORY OF ORLEANS," BY STRIKING OUT THE FIRST           
+  45   64 5 SECTION OF THE ORIGINAL BILL.                                     
+  46   65 1 A 20- -600    J 11-2-460     S         MAR. 15, 1810              
+  46   65 2 S112026       Y=20 N=12                SMITH, MD.                 
+  46   65 3 TO AMEND THE BILL WHICH PROVIDES TO IMPROVE THE UNITED            
+  46   65 4 STATES BY PUBLIC ROADS AND CANALS, BY STRIKING OUT THE WORDS      
+  46   65 5 "ONE-HALF" FROM SECTION 1, LINE 9, AND INSERTING                  
+  46   65 6 "TWO-THIRDS".                                                     
+  47   10 1               EX J 11-1-141  SRE       MAR. 16, 1810              
+  47   10 2 E112005       Y=23 N=8                 BRADLEY, VT.               
+  47   10 3 TO CONSENT TO THE NOMINATION OF STANLEY GRISWOLD TO BE            
+  47   10 4 JUDGE OF THE ILLINOIS TERRITORY.                                  
+  48   66 1 A 20- -602    J 11-2-461     S         MAR. 19, 1810              
+  48   66 2 S112027       Y=15 N=18                LEIB, PA.                  
+  48   66 3 TO POSTPONE FURTHER CONSIDERATION OF THE MANAGERS REPORT          
+  48   66 4 ON THE COMMERCIAL INTERCOURSE BILL, UNTIL MONDAY NEXT.            
+  49   67 1 A 20- -611A   J 11-2-462     S         MAR. 19, 1810              
+  49   67 2 S112028       Y=17 N=15                ANDERSON, TENN.            
+  49   67 3 TO ADHERE TO THE SENATE AMENDMENT TO THE COMMERCIAL               
+  49   67 4 INTERCOURSE BILL.                                                 
+  50   68 1 A 20- -611B   J 11-2-463     S         MAR. 20, 1810              
+  50   68 2 S112029       Y=11 N=19                BRADLEY, VT.               
+  50   68 3 TO POSTPONE FURTHER CONSIDERATION OF THE BILL WHICH               
+  50   68 4 PROVIDES FOR THE IMPROVEMENTS OF THE U.S., BY BUILDING            
+  50   68 5 PUBLIC ROADS AND CANALS.  UNTIL THE FIRST MON. IN DEC. NEXT.      
+  51   69 1 A 20- -613A   J 11-2-464     S         MAR. 21, 1810              
+  51   69 2 S112030       Y=11 N=19                LEIB, PA.                  
+  51   69 3 TO AMEND THE BILL PROVIDING TO IMPROVE THE UNITED STATES          
+  51   69 4 BY PUBLIC ROADS AND CANALS, BY ELIMINATING THE 1ST ARTICLE        
+  51   69 5 OF THE BILL WHICH AUTHORIZES THE PRESIDENT TO SUBSCRIBE TO        
+  51   69 6 THE STOCK OF THE MASSACHUSETTS COMPANY WHEN FORMED, FOR THE       
+  51   69 7 CUTTING, CONSTRUCTION AND MAKING OF SUCH ROADS AND CANALS.        
+  52   70 1 A 20- -613B   J 11-2-465     S         MAR. 21, 1810              
+  52   70 2 S112031       Y=7 N=23                 LEIB, PA.                  
+  52   70 3 TO AMEND THE BILL TO IMPROVE THE U.S. BY PUBLIC ROADS AND         
+  52   70 4 CANALS, BY ELIMINATING THE SECOND ARTICLE OF THE BILL, WHICH      
+  52   70 5 AUTHORIZES THE PRESIDENT TO SUBSCRIBE TO THE STOCK OF THE         
+  52   70 6 NEW JERSEY COMPANY, WHEN FORMED, FOR THE CUTTING,                 
+  52   70 7 CONSTRUCTION AND MAKING OF SUCH ROADS AND CANALS.                 
+  53   71 1 A 20- -613C   J 11-2-465B    S         MAR. 21, 1810              
+  53   71 2 S112032       Y=18 N=11                GILES, VA.                 
+  53   71 3 TO POSTPONE THE BILL WHICH PROVIDES FOR THE IMPROVEMENT OF        
+  53   71 4 THE UNITED STATES BY ROADS AND CANALS, UNTIL THE FIRST            
+  53   71 5 MONDAY IN DECEMBER NEXT.                                          
+  54   72 1 A 20- -624    J 11-2-467     S         MAR. 23, 1810              
+  54   72 2 S112033       Y=18 N=10                ANDERSON, TENN.            
+  54   72 3 TO AMEND THE BILL FOR FIXING THE MILITARY PEACE                   
+  54   72 4 ESTABLISHMENT OF THE UNITED STATES BY EXCLUDING FROM THE          
+  54   72 5 RESTRICTIONS AS TO NO ADDITIONAL RATIONS, ANY OFFICER ABOVE       
+  54   72 6 THE RANK OF COLONEL AND THE COMMANDER OF THE MARINE CORPS.        
+  55   73 1 A 20- -630    J 11-2-468     S         MAR. 26, 1810              
+  55   73 2 S112034       Y=9 N=22                 LLOYD, MASS.               
+  55   73 3 TO AMEND THE BILL PROVIDING FOR THE APPROPRIATION OF A SUM        
+  55   73 4 OF MONEY FOR PROCURING MUNITIONS OF WAR, BY STRIKING OUT          
+  55   73 5 APPROPRIATIONS FOR FURNISHING THE NAVY WITH CERTAIN ITEMS         
+  55   73 6 AND THE MARINE CORPS WITH CLOTHING.                               
+  56   74 1 A 20- -631    J 11-2-469     S         MAR. 27, 1810              
+  56   74 2 S112035       Y=26 N=4                 GERMAN, N.Y.               
+  56   74 3 TO AMEND THE BILL (APP. 5/1/1810), GRANTING A RIGHT OF            
+  56   74 4 PRE-EMPTION TO PURCHASERS OF PUBLIC LANDS IN CERTAIN CASES,       
+  56   74 5 BY STRIKING OUT ALL OF THE BILL EXCEPT THE ENACTING CLAUSE        
+  56   74 6 AND THE THIRD SECTION.                                            
+  57   75 1 A 20- -637    J 11-2-475A    S         APR. 3, 1810               
+  57   75 2 S112036       Y=14 N=15                BAYARD, DEL.               
+  57   75 3 TO AMEND THE BILL (APP. 4/30/1810, 2 STAT L. 592),                
+  57   75 4 REGULATING THE POST OFFICE ESTABLISHMENT, BY STRIKING OUT         
+  57   75 5 PART OF THE 10TH SECTION.                                         
+  58   76 1 A 20- -638    J 11-2-475B    S         APR. 3, 1810               
+  58   76 2 S112037       Y=22 N=5                 GOODRICH, CONN.            
+  58   76 3 TO AMEND THE BILL (APP. 4/30J1810, 2 STAT L. 592),                
+  58   76 4 REGULATING THE POST OFFICE ESTABLISHMENT, SAID AMENDMENT TO       
+  58   76 5 QUALIFY IT AS REGARDS "WATER COMMUNICATIONS".                     
+  59   77 1 A 20- -640A   J 11-2-476A    S         APR. 3, 1810               
+  59   77 2 S112038       Y=2 N=25                 REED, MD.                  
+  59   77 3 TO AMEND THE BILL (APP. 4/30/1810, 2 STAT L. 592), FOR            
+  59   77 4 REGULATING THE POST OFFICE ESTABLISHMENT BY STRIKING OUT          
+  59   77 5 REFERENCE TO ADDITIONAL COMPENSATIONS TO THE DEPUTY               
+  59   77 6 POSTMASTER OF THE CITY OF WASHINGTON.                             
+  60   78 1 A 20- -640B   J 11-2-476B    S         APR. 3, 1810               
+  60   78 2 S112039       Y=10 N=17                FRANKLIN, N.C.             
+  60   78 3 TO AGREE TO THE REPORT OF THE SELECT COMMITTEE ON THE BILL        
+  60   78 4 (APP. 4/30/1810, 2 STAT L. 592), FOR REGULATING THE POST          
+  60   78 5 OFFICE ESTABLISHMENT SAID REPORT TO ELIMINATE THE FRANKING        
+  60   78 6 PRIVILEGES OF THE ADJUTANT GENERALS OF THE RESPECTIVE             
+  60   78 7 STATES.                                                           
+  61   79 1 A 20- -641    J 11-2-476     S         APR. 5, 1810               
+  61   79 2 S112040       Y=21 N=6                 HILLHOUSE, CONN.           
+  61   79 3 TO AMEND THE BILL (APP. 4/20/1810, 2 STAT L. 592), FOR            
+  61   79 4 REGULATING THE POST OFFICE ESTABLISHMENT BY ELIMINATING THE       
+  61   79 5 PROVISION FOR THE APPOINTMENT OF AGENTS.                          
+  62   80 1 A 20- -642A   J 11-2-476     S         APR. 5, 1810               
+  62   80 2 S112041       Y=7 N=20                 REED, MD.                  
+  62   80 3 TO AMEND SECTION 17 OF THE BILL (APP. 4/20/1810,                  
+  62   80 4 2 STAT L. 592), FOR REGULATING THE POST OFFICE ESTABLISHMENT      
+  62   80 5 BY INCLUDING A STIPULATION REGARDING CARGO VESSELS PLYING         
+  62   80 6 FROM ONE PORT OR PLACE TO ANOTHER.                                
+  63   81 1 A 20- -642B   J 11-2-477     S         APR. 5, 1810               
+  63   81 2 S112042       Y=15 N=16                HORSEY, DEL.               
+  63   81 3 TO AMEND THE BILL (APP. 4/20/1810, 2 STAT L. 592), FOR            
+  63   81 4 REGULATING THE POST OFFICE ESTABLISHMENT, BY PROVIDING FOR        
+  63   81 5 SECURING RECEIPTS AND DELIVERY OF MAIL IN CERTAIN CITIES          
+  63   81 6 OR TOWNS EACH DAY OF THE WEEK AT HOURS SPECIFIED BY THE           
+  63   81 7 POSTMASTER GENERAL.                                               
+  64   82 1 A 20- -643    J 11-2-478     S         APR. 6, 1810               
+  64   82 2 S112043       Y=10 N=18                REED, MD.                  
+  64   82 3 TO AMEND THE BILL (APP. 4/30/1810, 2 STAT L. 592),                
+  64   82 4 REGULATING THE POST OFFICE ESTABLISHMENT, SAID AMENDMENT          
+  64   82 5 PROPOSING THAT THIS ACT SHALL NOT APPLY TO ANY PACKET, BOAT,      
+  64   82 6 OR OTHER VESSEL, TO PLY REGULARLY FROM ONE PLACE TO ANOTHER,      
+  64   82 7 BETWEEN WHICH A REGULAR COMMUNICATION BY WATER SHALL BE           
+  64   82 8 ESTABLISHED BY THE UNITED STATES.                                 
+  65   83 1 A 20- -644    J 11-2-479A    JRE       APR. 7, 1810               
+  65   83 2 S112044       Y=23 N=7                                            
+  65   83 3 TO ADOPT THE JOINT RESOLUTION AUTHORIZING THE PRESIDENT OF        
+  65   83 4 THE SENATE AND THE SPEAKER OF THE HOUSE OF REPRESENTATIVES        
+  65   83 5 TO ADJOURN THEIR RESPECTIVE HOUSES ON THE 23RD OF APRIL.          
+  66   84 1 A 20- -645    J 11-2-479B    S         APR. 7, 1810               
+  66   84 2 S112045       Y=9 N=19                 LLOYD, MASS.               
+  66   84 3 TO AMEND THE BILL (APP. 5/1/1810, 2 STAT L. 608), TO FIX THE      
+  66   84 4 COMPENSATION OF PUBLIC MINISTERS AND OF CONSULS RESIDING ON       
+  66   84 5 THE COAST OF BARBARY, AND FOR OTHER PURPOSES, BY REDUCING         
+  66   84 6 THE ANNUAL COMPENSATION FOR SECRETARIES OF LEGATION, OR FOR       
+  66   84 7 SECRETARIES OF ANY MINISTER PLENIPOTENTIARY, TO $1,350 FROM       
+  66   84 8 $2,000.                                                           
+  67   85 1 A 20- -646    J 11-2-481A    S         APR. 9, 1810               
+  67   85 2 S112046       Y=15 N=16                LEIB, PA.                  
+  67   85 3 TO AMEND THE BILL WHICH PROVIDES FOR THE RELIEF OF                
+  67   85 4 JOSEPH SUMMERL, SIMON PHILIPSON, WILLIAM HARMON,                  
+  67   85 5 ARCHIBALD MCCALL, AND ISSAC CLASON, BY STRIKING OUT THE           
+  67   85 6 CLAIM OF ARCHIBALD MCCALL.                                        
+  68   86 1 A 20- -647    J 11-2-481B    S         APR. 9, 1810               
+  68   86 2 S112047       Y=16 N=16                BRADLEY, VT.               
+  68   86 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL                
+  68   86 4 PROVIDING FOR THE RELIEF OF SUMMERL AND OTHERS.                   
+  69   87 1 A 20- -648    J 11-2-483D    S         APR. 10, 1810              
+  69   87 2 S112048       Y=14 N=11                SMITH, MD.                 
+  69   87 3 TO POSTPONE UNTIL THE FIRST MONDAY IN DECEMBER NEXT,              
+  69   87 4 CONSIDERATION OF THE BILL TO AMEND AN ACT SUPPLEMENTARY TO        
+  69   87 5 AN ACT TO INCORPORATE THE INHABITANTS OF THE CITY OF              
+  69   87 6 WASHINGTON IN THE DISTRICT OF COLUMBIA.                           
+  70   88 1 A 20- -649A   J 11-2-482A    S         APR. 10, 1810              
+  70   88 2 S112049       Y=17 N=14                POPE, KY.                  
+  70   88 3 TO FILL IN THE FIRST BLANK IN THE BILL (APP. 4/30/1810,           
+  70   88 4 2 STAT L. 592), REGULATING THE POST OFFICE ESTABLISHMENT          
+  70   88 5 WITH THE WORD "SIXTY," THEREBY LIMITING THE NUMBER OF             
+  70   88 6 FRANKED LETTERS TO SIXTY.                                         
+  71   89 1 A 20- -649B   J 11-2-482B    S         APR. 10, 1810              
+  71   89 2 S112050       Y=21 N=9                 BAYARD, DEL.               
+  71   89 3 TO FILL IN THE SECOND BLANK IN THE BILL (APP. 4/30/1810,          
+  71   89 4 2 STAT L. 592), REGULATING THE POST OFFICE ESTABLISHMENT          
+  71   89 5 WITH THE WORD "FORTY".                                            
+  72   90 1 A 20- -649C   J 11-2-483A    S         APR. 10, 1810              
+  72   90 2 S112051       Y=19 N=10                BAYARD, DEL.               
+  72   90 3 TO FILL IN THE FOURTH BLANK IN THE BILL (APP. 4/30/18108          
+  72   90 4 2 STAT L. 592), REGULATING THE POST OFFICE ESTABLISHMENT          
+  72   90 5 WITH THE WORD "TWENTY".                                           
+  73   91 1 A 20- -649D   J 11-2-483B    S         APR. 10, 1810              
+  73   91 2 S112052       Y=12 N=18                SMITH, MD.                 
+  73   91 3 TO FILL IN THE FIFTH BLANK IN THE BILL (APP. 4/30/1810,           
+  73   91 4 2 STAT L. 592), REGULATING THE POST OFFICE ESTABLISHMENT          
+  73   91 5 WITH THE WORDS "TWENTY-FIVE HUNDRED," THEREBY LIMITING THE        
+  73   91 6 SALARIES OF POSTMASTERS TO NO MORE THAN $2,500 PER ANNUM.         
+  74   92 1 A 20- -649E   J 11-2-483C    S         APR. 10, 1810              
+  74   92 2 S112053       Y=26 N=4                 CRAWFORD, GA.              
+  74   92 3 TO PASS THE BILL (APP. 4/30/1810, 2 STAT L. 592),                 
+  74   92 4 REGULATING THE POST OFFICE ESTABLISHMENT.                         
+  75   93 1 A 20- -650    J 11-2-484     S         APR. 10, 1810              
+  75   93 2 S112054       Y=14 N=18                BRADLEY, VT.               
+  75   93 3 TO PASS THE BILL FOR THE RELIEF OF SUMMERL AND OTHERS.            
+  76   94 1 A 20- -652    J 11-2-486     SRE       APR. 12, 1810              
+  76   94 2 S112055       Y=16 N=18                GILES, VA.                 
+  76   94 3 TO POSTPONE UNTIL THE NEXT SESSION OF CONGRESS, THE               
+  76   94 4 RESOLUTION SUGGESTING THAT THE CONSTITUTION BE AMENDED BY         
+  76   94 5 PROVIDING THAT IF ANY CITIZEN SHALL ACCEPT ANY TITLE OF           
+  76   94 6 NOBILITY FROM ANY KING, ETC., OF FOREIGN STATES, SUCH             
+  76   94 7 CITIZEN SHALL BE INCAPABLE OF HOLDING ANY OFFICE OF HONOR OR      
+  76   94 8 PROFIT IN THE UNITED STATES.                                      
+  77   11 1               EX J 11-1-144  SRE       APR. 14, 1810              
+  77   11 2 E112006       Y=3 N=20                 PICKERING, MASS.           
+  77   11 3 TO POSTPONE FURTHER CONSIDERATION OF THE NOMINATION OF            
+  77   11 4 CONSTANT TABOR TO BE NAVY AGENT AT NEWPORT, RHODE ISLAND,         
+  77   11 5 UNTIL THE FIRST MONDAY OF DEC. NEXT.                              
+  78   12 1               EX J 11-1-145  SRE       APR. 14, 1810              
+  78   12 2 E112007       Y=20 N=2                 LEIB, PA.                  
+  78   12 3 TO CONSENT TO THE NOMINATION OF CONSTANT TABOR TO BE NAVY         
+  78   12 4 AGENT AT NEWPORT, RHODE ISLAND.                                   
+  79   95 1 A 20- -656A   J 11-2-489     HR        APR. 14, 1810              
+  79   95 2 S112056       Y=17 N=14                ANDERSON, TENN.            
+  79   95 3 TO AMEND THE H.R. BILL TO EXAMINE INTO THE TITLE OF THE           
+  79   95 4 BATTURE IN FRONT OF THE SUBURB OF ST. MARY AT NEW ORLEANS,        
+  79   95 5 BY ELIMINATING THE WORDS, "TOGETHER WITH THEIR OPINION            
+  79   95 6 THEREON, RESPECTING THE TITLE AFORESAID," FROM THE REPORT         
+  79   95 7 OF EXAMINATION.                                                   
+  80   96 1 A 20- -656B   J 11-2-490A    HR        APR. 14, 1810              
+  80   96 2 S112057       Y=18 N=13                CLAY, KY.                  
+  80   96 3 TO AMEND THE H.R. BILL TO EXAMINE INTO THE TITLE OF THE           
+  80   96 4 BATTURE IN FRONT OF THE SUBURB OF ST. MARY AT NEW ORLEANS,        
+  80   96 5 BY INSERTING "TOGETHER WITH THE LAWS, USAGE, EDICTS, OR           
+  80   96 6 CUSTOMS, UPON WHICH THE SAID TITLE MAY DEFEND AND WHICH           
+  80   96 7 THEY SHALL ALSO CORRECT AND ARRANGE" IN THE REPORT OF             
+  80   96 8 EXAMINATION.                                                      
+  81   97 1 A 20- -656C   J 11-2-490B    HR        APR. 14, 1810              
+  81   97 2 S112058       Y=15 N=15                WHITESIDE, TENN.           
+  81   97 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE H.R. BILL TO        
+  81   97 4 EXAMINE INTO THE TITLE OF THE BATTURE IN FRONT OF THE SUBURB      
+  81   97 5 OF ST. MARY, AT NEW ORLEANS.                                      
+  82   98 1 A 20- -657    J 11-2-491     HR        APR. 16, 1810              
+  82   98 2 S112059       Y=16 N=15                WHITESIDE, TENN.           
+  82   98 3 TO PASS THE AMENDED H.R. BILL TO EXAMINE INTO THE TITLE OF        
+  82   98 4 THE BATTURE IN FRONT OF THE SUBURB OF ST. MARY AT                 
+  82   98 5 NEW ORLEANS.                                                      
+  83   99 1 A 20- -660A   J 11-2-493A    HR        APR. 18, 1810              
+  83   99 2 S112060       Y=13 N=17                WHITESIDE, TENN.           
+  83   99 3 TO POSTPONE FURTHER CONSIDERATION OF H.R. BILL TO EXAMINE         
+  83   99 4 INTO THE TITLE OF BATTURE IN FRONT OF THE SUBURB OF ST. MARY      
+  83   99 5 AT NEW ORLEANS, TOGETHER WITH SENATE AMENDMENTS THERETO,          
+  83   99 6 DISAGREED TO BY THE HOUSE, UNTIL THE FIRST MONDAY IN              
+  83   99 7 DECEMBER NEXT.                                                    
+  84  100 1 A 20- -660B   J 11-2-493B    HR        APR. 18, 1810              
+  84  100 2 S112061       Y=10 N=22                CLAY, KY.                  
+  84  100 3 TO RECEDE FROM THE FIRST AMENDMENT TO THE H.R. BILL WHICH         
+  84  100 4 PROVIDES TO EXAMINE INTO THE TITLE OF THE BATTURE IN FRONT        
+  84  100 5 OF THE SUBURB OF ST. MARY AT NEW ORLEANS, SAID AMENDMENT TO       
+  84  100 6 ELIMINATE THE WORDS "TOGETHER WITH THEIR OPINION THEREON,         
+  84  100 7 RESPECTING THE TITLE AFORESAID".                                  
+  85  101 1 A 20- -660C   J 11-2-493C    HR        APR. 18, 1810              
+  85  101 2 S112062       Y=13 N=19                CLAY, KY.                  
+  85  101 3 TO RECEDE FROM THE SENATE AMENDMENT TO THE H.R. BILL              
+  85  101 4 (H.R., N.P.), WHICH PROVIDES TO EXAMINE INTO THE TITLE OF         
+  85  101 5 THE BATTURE IN FRONT OF THE SUBURB OF ST. MARY AT                 
+  85  101 6 NEW ORLEANS, SAID AMENDMENT TO INSERT THE WORDS "TOGETHER         
+  85  101 7 WITH THE LAWS, USAGE, EDICTS OR CUSTOMS, UPON WHICH THE SAID      
+  85  101 8 TITLE MAY DEPEND AND WHICH THEY SHALL ALSO CORRECT AND            
+  85  101 9 ARRANGE".                                                         
+  86  102 1 A 20- -660D   J 11-2-493D    S         APR. 18, 1810              
+  86  102 2 S112063       Y=21 N=8                 CAMPBELL, OHIO             
+  86  102 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL,               
+  86  102 4 (5/11/1813, 6 STAT L. 108), WHICH PROVIDES FOR THE RELIEF OF      
+  86  102 5 JOHN THOMPSON.                                                    
+  87  103 1 A 20- -661    J 11-2-494     S         APR. 18, 1810              
+  87  103 2 S112064       Y=15 N=15                HILLHOUSE, CONN.           
+  87  103 3 TO STRIKE OUT THE FIRST SECTION OF HOUSE BILL PROVIDING FOR       
+  87  103 4 THE ESTABLISHMENT OF A NATIONAL BANK, WHICH SECTION PROPOSES      
+  87  103 5 THAT THE BANK OF THE UNITED STATES SHALL BE ESTABLISHED, THE      
+  87  103 6 CAPITAL STOCK NOT TO EXCEED $20,000,000, DIVIDED INTO             
+  87  103 7 SHARES, EACH SHARE BEING $400 TO BE DISTRIBUTED AMONG THE         
+  87  103 8 VARIOUS STATES, UNDER THE SUPERINTENDENCE IN EACH STATE OF        
+  87  103 9 NOT LESS THAN THREE PERSONS APPOINTED BY THE PRESIDENT.           
+  88  104 1 A 20- -662    J 11-2-495     S         APR. 19, 1810              
+  88  104 2 S112065       Y=14 N=13                WHITESIDE, TENN.           
+  88  104 3 TO PASS THE BILL TO SUPPLEMENT AN ACT FOR THE RELIEF OF           
+  88  104 4 PERSONS IMPRISIONED FOR DEBT.                                     
+  89  105 1 A 20- -664    J 11-2-497     HR        APR. 20, 1810              
+  89  105 2 S112066       Y=17 N=12                CLAY, KY.                  
+  89  105 3 TO AMEND THE HOUSE BILL (APP. 2/20/1811, 2 STAT L. 641),          
+  89  105 4 WHICH ENABLES THE PEOPLE OF THE TERRITORY OF ORLEANS TO           
+  89  105 5 FORM A CONSTITUTION AND STATE GOVERNMENT, AND FOR THE             
+  89  105 6 ADMISSION OF SUCH STATE INTO THE UNION ON AN EQUAL FOOTING        
+  89  105 7 WITH THE ORIGINAL STATES, AND FOR OTHER PURPOSES, BY              
+  89  105 8 INCLUDING AN ARTICLE IN THE STATE CONSTITUTION THAT THE LAWS      
+  89  105 9 JUDICIAL, AND LEGISLATIVE PROCEEDINGS, AND OTHER RECORDS OF       
+  89  10510 THE STATE, SHALL BE IN THE ENGLISH LANGUAGE.                      
+  90  106 1 A 20- -665    J 11-2-498     HR        APR. 21, 1810              
+  90  106 2 S112067       Y=10 N=18                HILLHOUSE, CONN.           
+  90  106 3 TO AMEND THE HOUSE BILL WHICH PROVIDES FOR MAKING                 
+  90  106 4 PROVISIONS FOR THE ESTABLISHMENT OF A NATIONAL BANK, BY           
+  90  106 5 PROVIDING FOR A STATED DEPOSIT IN DOLLARS FOR THE VALIDITY        
+  90  106 6 OF SUBSCRIPTIONS TO THE SHARES OF THE BANK, EXCEPT FROM THE       
+  90  106 7 UNITED STATES AND INDIVIDUAL STATES, AND FOR THE RETURN OF        
+  90  106 8 DEPOSITS ON SUPERNUMERARY SHARES.                                 
+  91  107 1 A 20- -666    J 11-2-499     S          APR. 23, 1810             
+  91  107 2 S112068       Y=12 N=16                CRAWFORD, GA.              
+  91  107 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL         
+  91  107 4 FOR THE RELIEF OF ELIZABETH HAMILTON.                             
+  92  108 1 A 20- -667    J 11-2-500A    HR        APR. 24, 1810              
+  92  108 2 S112069       Y=15 N=17                BAYARD, DEL.               
+  92  108 3 TO AMEND THE HOUSE BILL MAKING PROVISIONS FOR THE                 
+  92  108 4 ESTABLISHMENT OF A NATIONAL BANK, BY FIXING AT 18 THE             
+  92  108 5 NUMBER OF DIRECTORS TO BE ELECTED BY STOCKHOLDERS.                
+  93  109 1 A 20- -668A   J 11-2-500B    HR        APR. 24, 1810              
+  93  109 2 S112070       Y=5 N=24                 LEIB, PA.                  
+  93  109 3 TO AMEND THE HOUSE BILL MAKING PROVISIONS FOR THE                 
+  93  109 4 ESTABLISHMENT OF A NATIONAL BANK, BY REQUIRING THAT               
+  93  109 5 STATEMENTS BE FURNISHED ANNUALLY TO CONGRESS AT THE               
+  93  109 6 COMMENCEMENT OF EACH SESSION.                                     
+  94  110 1 A 20- -668B   J 11-2-500C    HR        APR. 24, 1810              
+  94  110 2 S112071       Y=6 N=19                 POPE, KY.                  
+  94  110 3 TO AMEND THE HOUSE BILL MAKING PROVISIONS FOR THE                 
+  94  110 4 ESTABLISHMENT OF A NATIONAL BANK, BY STRIKING OUT THE             
+  94  110 5 RESIDUE OF THE 13TH SECTION AND THE WHOLE OF THE 14TH             
+  94  110 6 SECTION.                                                          
+  95  111 1 A 20- -668C   J 11-2-501A    S         APR. 25, 1810              
+  95  111 2 S112072       Y=12 N=17                BAYARD, DEL.               
+  95  111 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL         
+  95  111 4 PROVIDING FOR THE RELIEF OF ISSAC CLASON.                         
+  96  112 1 A 20- -669    J 11-2-501B    HR        APR. 25, 1810              
+  96  112 2 S112073       Y=17 N=14                BAYARD, DEL.               
+  96  112 3 TO POSTPONE FURTHER CONSIDERATION OF THE HOUSE BILL               
+  96  112 4 PROVIDING FOR THE ESTABLISHMENT OF A NATIONAL BANK, UNTIL         
+  96  112 5 THE FIRST MONDAY IN DECEMBER NEXT.                                
+  97  113 1 A 20- -670A   J 11-2-502     S         APR. 26, 1810              
+  97  113 2 S112074       Y=8 N=20                 HILLHOUSE, CONN.           
+  97  113 3 TO AMEND THE TERRITORY OF ORLEANS BILL, BY MAKING ADMISSION       
+  97  113 4 AS A STATE DEPENDENT ON THE ASSENT OF THE OTHER STATES, OR        
+  97  113 5 ON AN AMENDMENT TO THE CONSTITUTION OF THE UNITED STATES          
+  97  113 6 AUTHORIZING CONGRESS TO ADMIT SAID STATE INTO THE UNION.          
+  98  114 1 A 20- -670B   J 11-2-503A    S         APR. 26, 1810              
+  98  114 2 S112075       Y=18 N=9                 BAYARD, DEL.               
+  98  114 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE TERRITORY OF        
+  98  114 4 ORLEANS BILL.                                                     
+  99  115 1 A 20- -670C   J 11-2-503B    SRE       APR. 26, 1810              
+  99  115 2 S112076       Y=8 N=20                                            
+  99  115 3 TO POSTPONE FURTHER CONSIDERATION OF THE RESOLUTION               
+  99  115 4 REGARDING ACCEPTANCE OF FOREIGN NOBILITY BY U.S. CITIZENS.        
+ 100  116 1 A 20- -671A   J 11-2-503C    SRE       APR. 26, 1810              
+ 100  116 2 S112077       Y=26 N=1                 REED, MD.                  
+ 100  116 3 TO AMEND THE RESOLUTION REGARDING ACCEPTANCE OF FOREIGN           
+ 100  116 4 NOBILITY BY U.S. CITIZENS, SAID AMENDMENT TO DEPRIVE ANY          
+ 100  116 5 PERSON OF U.S. CITIZENSHIP WHO CLAIMS, RECEIVES, OR RETAINS       
+ 100  116 6 ANY TITLE OF NOBILITY, OR ACCEPTS, WITHOUT THE CONSENT OF         
+ 100  116 7 CONGRESS, ANY PRESENT, PENSION, OFFICE OR EMOLUMENT FROM ANY      
+ 100  116 8 RULER OR FOREIGN POWER.                                           
+ 101  117 1 A 20- -671B   J 11-2-503D    SRE       APR. 26, 1810              
+ 101  117 2 S112078       Y=12 N=14                POPE, KY.                  
+ 101  117 3 TO AMEND THE RESOLUTION REGARDING ACCEPTANCE OF FOREIGN           
+ 101  117 4 NOBILITY BY U.S. CITIZENS, SAID AMENDMENT MAKING THE              
+ 101  117 5 DISOBEYING CITIZEN SUBJECT ALSO TO SUCH OTHER PENALTIES AND       
+ 101  117 6 DISABILITIES AS MAY BE PROVIDED BY LAW.                           
+ 102  118 1 A 20- -672    J 11-2-506B    SRE       APR. 27, 1810              
+ 102  118 2 S112079       Y=19 N=5                 REED, MD.                  
+ 102  118 3 TO ADOPT THE RESOLUTION REGARDING ACCEPTANCE OF FOREIGN           
+ 102  118 4 NOBILITY BY U.S. CITIZENS AS AMENDED.                             
+ 103  119 1 A 20- -673A   J 11-2-504     S         APR. 27, 1810              
+ 103  119 2 S112080       Y=18 N=9                 SMITH, MD.                 
+ 103  119 3 TO AMEND THE COMMERCIAL INTERCOURSE BILL, BY STRIKING OUT         
+ 103  119 4 THE 4TH SECTION OF THE BILL.                                      
+ 104  120 1 A 20- -673B   J 11-2-505A    S         APR. 27, 1810              
+ 104  120 2 S112081       Y=20 N=8                 SMITH, MD.                 
+ 104  120 3 TO AMEND THE COMMERCIAL INTERCOURSE BILL, BY AUTHORIZING THE      
+ 104  120 4 PRESIDENT, WHENEVER EXPEDIENT, TO EMPLOY THE NAVY FOR THE         
+ 104  120 5 PROTECTION OF THE COMMERCE OF THE COUNTRY IN ACCORDANCE           
+ 104  120 6 WITH INTERNATIONAL LAW.                                           
+ 105  121 1 A 20- -673C   J 11-2-505B    S         APR. 27, 1810              
+ 105  121 2 S112082       Y=7 N=20                 HILLHOUSE, CONN.           
+ 105  121 3 TO AMEND THE COMMERCIAL INTERCOURSE BILL, BY STRIKING OUT         
+ 105  121 4 THE AMENDED 5TH SECTION OF THE BILL.                              
+ 106  122 1 A 20- -674A   J 11-2-505C    S         APR. 27, 1810              
+ 106  122 2 S112083       Y=9 N=19                 WHITESIDE, TENN.           
+ 106  122 3 TO AMEND THE COMMERCIAL INTERCOURSE BILL BY INCREASING FROM       
+ 106  122 4 THE TIME OF PASSAGE OF THIS BILL, IMPORT DUTIES, AND BY           
+ 106  122 5 REGULATING THE COLLECTION THEREOF.                                
+ 107  123 1 A 20- -674B   J 11-2-505D    S         APR. 27, 1810              
+ 107  123 2 S112084       Y=21 N=7                 SMITH, MD.                 
+ 107  123 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE COMMERCIAL          
+ 107  123 4 INTERCOURSE BILL.                                                 
+ 108  124 1 A 20- -674C   J 11-2-506A    S         APR. 27, 1810              
+ 108  124 2 S112085       Y=15 N=8                 GILES, VA.                 
+ 108  124 3 TO PASS THE TERRITORY OF ORLEANS BILL.                            
+ 109   13 1               EX J 11-1-145  SRE       APR. 28, 1810              
+ 109   13 2 E112008       Y=23 N=0                 BRADLEY, VT.               
+ 109   13 3 TO RATIFY THE TREATY BETWEEN THE UNITED STATES AND THE            
+ 109   13 4 GREAT AND LITTLE OSAGE INDIANS, MADE AND CONCLUDED                
+ 109   13 5 11/10/1808, AT FORT CLARK.                                        
+ 110  125 1 A 20- -676    J 11-2-508     S         APR. 30, 1810              
+ 110  125 2 S112086       Y=15 N=13                CRAWFORD, GA.              
+ 110  125 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL                
+ 110  125 4 RESPECTING THE RELIEF OF MARGARET LAPSLEY, GROVE POMEROY,         
+ 110  125 5 ARTHUR ST.CLAIR, DAVID BLACKWELL, LUCY DIXON, AND                 
+ 110  125 6 JOHN MURRAY.                                                      
+ 111   14 1               EX J 11-1-154  SRE       MAY 1, 1810                
+ 111   14 2 E113001       Y=3 N=23                 LEIB, PA.                  
+ 111   14 3 TO CONSENT TO THE NOMINATION OF JAMES B. WILKINSON TO BE          
+ 111   14 4 COLLECTOR FOR THE DISTRICT OF MOBILE, AND INSPECTOR OF            
+ 111   14 5 REVENUE FOR THE PORT OF THE SAME DISTRICT.                        
+ 112   15 1               EX J 11-1-155  SRE       MAY 1, 1810                
+ 112   15 2 E113007       Y=5 N=15                 ANDERSON, TENN.            
+ 112   15 3 TO CONSENT TO THE NOMINATION OF HARRIS H. HICKMAN TO BE           
+ 112   15 4 COLLECTOR OF CUSTOMS FOR THE DISTRICT OF MICHILLIMACKINAC,        
+ 112   15 5 AND REVENUE INSPECTOR FOR THE PORT OF SAID DISTRICT.              
+ 113  126 1 A 20- -678A   J 11-2-510A    S         MAY 1, 1810                
+ 113  126 2 S112087       Y=15 N=14                CRAWFORD, GA.              
+ 113  126 3 TO RECOMMIT TO A SELECT COMMITTEE FOR FURTHER CONSIDERATION       
+ 113  126 4 AND REPORT THEREON, THE BILL RESPECTING THE RELIEF OF             
+ 113  126 5 MARGARET LAPSLEY, GROVE POMEROY, ARTHUR ST.CLAIR,                 
+ 113  126 6 DAVID BLACKWELL, LUCY DIXON, AND JOHN MURRAY.                     
+ 114  127 1 A 20- -678B   J 11-2-510B    S         MAY 1, 1810                
+ 114  127 2 S112088       Y=11 N=14                CRAWFORD, GA.              
+ 114  127 3 TO RECEDE FROM THE 4TH SENATE AMENDMENT TO THE COMMERCIAL         
+ 114  127 4 INTERCOURSE BILL.                                                 
+ 115   16 1               EX J 11-1-158  SRE       DEC. 20, 1810              
+ 115   16 2 E113003       Y=16 N=9                 BRADLEY, VT.               
+ 115   16 3 TO CONSENT TO THE NOMINATION OF GEORGE W. EWING AS SPECIAL        
+ 115   16 4 MINISTER TO THE COURT OF DENMARK, ON THE SUBJECT OF               
+ 115   16 5 SPOILATIONS COMMITTED UNDER THE DANISH FLAG ON THE COMMERCE       
+ 115   16 6 OF THE UNITED STATES.                                             
+ 116  128 1 A 22- -28A    J 11-3-531     S         DEC. 21, 1810              
+ 116  128 2 S113001       Y=5 N=17                 LLOYD, MASS.               
+ 116  128 3 TO REFER TO A COMMITTEE, THE BILL PROVIDING THAT THE LAWS         
+ 116  128 4 NOW IN FORCE IN THE TERRITORY OF ORLEANS BE EXTENDED, AND         
+ 116  128 5 HAVE FULL FORCE, TO THE RIVER PERDIDO, PURSUANT TO THE            
+ 116  128 6 TREATY CONCLUDED AT PARIS ON 4/30/1803 AND FOR OTHER              
+ 116  128 7 PURPOSES, WITH INSTRUCTIONS THAT SAID COMMITTEE REPORT THEIR      
+ 116  128 8 OPINION ON THE TITLE OF THE UNITED STATES TO THE TERRITORY        
+ 116  128 9 IN QUESTION AND THE GROUNDS ON WHICH THAT OPINION MAY BE          
+ 116  12810 FOUNDED.                                                          
+ 117  129 1 A 22- -28B    J 11-3-532     S         DEC. 21, 1810              
+ 117  129 2 S113002       Y=7 N=13                 HORSEY, DEL.               
+ 117  129 3 TO REQUEST THE PRESIDENT TO LAY BEFORE THE SENATE ALL THE         
+ 117  129 4 DOCUMENTS, PAPERS, AND OTHER EVIDENCE IN HIS POSSESSION,          
+ 117  129 5 RELATING TO THE TITLE OF THE UNITED STATES TO THE TERRITORY       
+ 117  129 6 SOUTH OF THE MISSISSIPPI TERRITORY, AND EASTWARD TO THE           
+ 117  129 7 MISSISSIPPI RIVER, AND TO THE PERDIDO RIVER AND TO THE            
+ 117  129 8 BOUNDARIES OF SAID TERRITORY.                                     
+ 118  130 1 A 22- -83     J 11-3-536     SRE       JAN. 2, 1811               
+ 118  130 2 S113003       Y=20 N=7                 CLAY, KY.                  
+ 118  130 3 TO ADOPT THE RESOLUTION AS AMENDED, REBUKING PICKERING FOR        
+ 118  130 4 READING A CONFIDENTIAL DOCUMENT IN OPEN SENATE AND ADMITTING      
+ 118  130 5 HAVING VIOLATED THE RULES.                                        
+ 119   17 1               EX J 11-1-176  S         JAN. 7, 1811               
+ 119   17 2 E113004       Y=14 N=16                CRAWFORD, GA.              
+ 119   17 3 TO INSTRUCT THE SECRETARY OF THE SENATE TO FURNISH TO EACH        
+ 119   17 4 SENATOR REQUESTING IT, A MANUSCRIPT COPY OF THE BILL              
+ 119   17 5 ENABLING THE PRESIDENT TO TAKE POSSESSION OF THE COUNTRY          
+ 119   17 6 LYING EAST OF THE PERDIDO, AND SOUTH OF THE STATE OF              
+ 119   17 7 GEORGIA, AND THE MISSISSIPPI TERRITORY.                           
+ 120   18 1               EX J 11-1-177A SRE       JAN. 7, 1811               
+ 120   18 2 E113005       Y=7 N=23                 BAYARD, DEL.               
+ 120   18 3 TO ADOPT THE RESOLUTION THAT THE SECRETARY OF THE SENATE BE       
+ 120   18 4 INSTRUCTED TO PRINT FOR EACH MEMBER OF THE SENATE, ONE COPY       
+ 120   18 5 OF THE BILL AND DECLARATION THIS DAY REPORTED TO THE SENATE       
+ 120   18 6 BY THE SELECT COMMITTEE, AND TO ADOPT SUCH MEASURES AS WILL       
+ 120   18 7 ENSURE THE SAME BEING PRINTED WITHOUT DANGER OF DISCLOSING        
+ 120   18 8 THE SECRET PROCEEDINGS OF THE SENATE ON THE SUBJECT.              
+ 121   19 1               EX J 11-1-177B S         JAN. 8, 1811               
+ 121   19 2 E113006       Y=20 N=12                BAYARD, DEL.               
+ 121   19 3 TO AMEND THE SENATE BILL ENABLING THE PRESIDENT OF THE            
+ 121   19 4 UNITED STATES TO TAKE POSSESSION OF THE COUNTRY LYING EAST        
+ 121   19 5 OF THE PERDIDO AND SOUTH OF THE STATE OF GEORGIA AND THE          
+ 121   19 6 MISSISSIPPI TERRITORY, SAID AMENDMENT PROVIDING THAT IN           
+ 121   19 7 TAKING OVER THE COUNTRY AS ABOVE STATED, IT SHALL BE              
+ 121   19 8 GOVERNED BY AN ARRANGEMENT MADE, OR TO BE MADE, WITH THE          
+ 121   19 9 LOCAL AUTHORITY OF THE SAID TERRITORY, FOR DELIVERING UP THE      
+ 121   1910 POSSESSION OF THE SAME TO THE UNITED STATES, INSTEAD OF           
+ 121   1911 BEING GOVERNED BY SUCH ARRANGEMENT AS SHALL HAVE BEEN MADE        
+ 121   1912 WITH THE LOCAL AUTHORITY WHICH MAY THEN EXIST.                    
+ 122   20 1               EX J 11-1-178  S         JAN. 8, 1811               
+ 122   20 2 E113007       Y=11 N=20                BAYARD, DEL.               
+ 122   20 3 TO AMEND THE SENATE BILL, BY ELIMINATING THE PROVISION THAT       
+ 122   20 4 THE U.S. GOVERNMENT WILL TAKE STEPS AGAINST ANY FOREIGN           
+ 122   20 5 GOVERNMENT THAT MAY ATTEMPT TO OCCUPY THE COUNTRY AS              
+ 122   20 6 DESCRIBED ABOVE.                                                  
+ 123   21 1               EX J 11-1-179  S         JAN. 9, 1811               
+ 123   21 2 E113008       Y=10 N=19                FRANKLIN, N.C.             
+ 123   21 3 TO AMEND THE SENATE BILL, BY ELIMINATING THE PROVISION THAT       
+ 123   21 4 THE U.S. GOVERNMENT WILL TAKE STEPS AGAINST ANY FOREIGN           
+ 123   21 5 GOVERNMENT THAT MAY ATTEMPT TO OCCUPY THE COUNTRY AS              
+ 123   21 6 DESCRIBED ABOVE.                                                  
+ 124   22 1               EX J 11-1-180A S         JAN. 9, 1811               
+ 124   22 2 S113009       Y=6 N=24                 CHAMPLIN, R.I.             
+ 124   22 3 TO REMOVE THE INJUNCTION OF SECRECY CONCERNING DISCUSSION OF      
+ 124   22 4 THE SENATE BILL.                                                  
+ 125   23 1               EX J 11-1-180B SRE       JAN. 9, 1811               
+ 125   23 2 E113010       Y=20 N=6                 ANDERSON, TENN.            
+ 125   23 3 TO ADOPT THE RESOLUTION THAT THE SUBJECT MATTER OF THE            
+ 125   23 4 SENATE BILL BE KEPT INVIOLATELY SECRET BY THE MEMBERS OF THE      
+ 125   23 5 SENATE UNTIL THE SENATE SHALL, BY RESOLUTION, TAKE OFF THE        
+ 125   23 6 INJUNCTION OF SECRECRY.                                           
+ 126   24 1               EX J 11-1-181  S         JAN. 10, 1811              
+ 126   24 2 E113011       Y=23 N=7                 CLAY, KY.                  
+ 126   24 3 TO PASS THE SENATE BILL, AS AMENDED, AND APPROPRIATE              
+ 126   24 4 $100,000 THEREFORE.                                               
+ 127   25 1               EX J 11-1-182  SRE       JAN. 11, 1811              
+ 127   25 2 E113012       Y=9 N=18                 CHAMPLIN, R.I.             
+ 127   25 3 TO ADOPT THE RESOLUTION REQUESTING THE PRESIDENT TO LAY           
+ 127   25 4 BEFORE THE SENATE, SUCH COMMUNICATIONS AS MAY HAVE BEEN           
+ 127   25 5 MADE TO HIM BY LOUIS DE ONIS, IN RELATION TO HIS                  
+ 127   25 6 APPOINTMENT AS A SPECIAL MINISTER TO THE UNITED STATES BY         
+ 127   25 7 THE SUPREME CENTRAL JUNTA OF SPAIN, AND ALSO REGARDING THE        
+ 127   25 8 PARTICULAR OBJECT OF HIS APPOINTMENT.                             
+ 128   26 1               EX J 11-1-183  HRE       JAN. 12, 1811              
+ 128   26 2 E113013       Y=23 N=6                 ANDERSON, TENN.            
+ 128   26 3 TO ADOPT THE CONFIDENTIAL HOUSE RESOLUTION AS AMENDED BY          
+ 128   26 4 THE SENATE, AND RELATIVE TO THE TERRITORY ADJOINING THE           
+ 128   26 5 SOUTHERN BORDER OF THE UNITED STATES, SO THAT IT READS, THAT      
+ 128   26 6 THE UNITED STATES, UNDER THE PECULIAR CIRCUMSTANCES OF THE        
+ 128   26 7 EXISTING CRISIS, CANNOT, WITHOUT SERIOUS DISTURBANCE, SEE         
+ 128   26 8 ANY PART OF THE SAID TERRITORY PASS INTO THE HANDS OF ANY         
+ 128   26 9 FOREIGN POWER, AND THAT DUE REGARD TO SAFETY COMPELS U.S. TO      
+ 128   2610 PROVIDE FOR THE TEMPORARY OCCUPATION OF THE SAID TERRITORY,       
+ 128   2611 SUBJECT TO FUTURE NEGOTIATIONS.                                   
+ 129  131 1 A 22- -94     J 11-3-542     S         JAN. 12, 1811              
+ 129  131 2 S113004       Y=16 N=13                BRENT, VA.                 
+ 129  131 3 TO RECOMMIT THE BILL ENTITLED "CORPS OF ENGINEERS" TO A           
+ 129  131 4 SELECT COMMITTEE OF FIVE MEMBERS, FOR FURTHER CONSIDERATION       
+ 129  131 5 AND REPORT THEREON.                                               
+ 130  132 1 A 22- -101    J 11-3-548     S         JAN. 21, 1811              
+ 130  132 2 S113005       Y=10 N=16                CLAY, KY.                  
+ 130  132 3 TO RECONSIDER VOTE POSTPONING CONSIDERATION OF THE BILL           
+ 130  132 4 ESTABLISHING A QUARTERMASTERS DEPARTMENT.                         
+ 131  133 1 A 22- -105    J 11-3-552     S         JAN. 28, 1811              
+ 131  133 2 S113006       Y=21 N=9                 CRAWFORD, GA.              
+ 131  133 3 TO AMEND THE TERRITORY OF ORLEANS BILL, BY STIPULATING THAT       
+ 131  133 4 THE AREA OF THE TERRITORY OF ORLEANS SHOULD NOT BE BOUND AS       
+ 131  133 5 DEFINED IN THE AMENDMENT PROPOSED BY THE COMMITTEE.               
+ 132  134 1 A 22- -107A   J 11-3-553A    S         JAN. 29, 1811              
+ 132  134 2 S113007       Y=9 N=22                 TAIT, GA.                  
+ 132  134 3 TO AMEND THE TERRITORY OF ORLEANS BILL, BY STIPULATING THAT       
+ 132  134 4 THE GOVERNMENT HEREBY RETAINS THE POWER OF ATTACHING TO           
+ 132  134 5 SAID STATE, ANY PART OF THE TERRITORY LYING EAST OF THE           
+ 132  134 6 MISSISSIPPI RIVER, SOUTH OF THE MISSISSIPPI TERRITORY, AND        
+ 132  134 7 WEST OF RIVER MOBILE.                                             
+ 133  135 1 A 22- -107B   J 11-3-553B    S         JAN. 29, 1811              
+ 133  135 2 S113008       Y=24 N=8                 TAIT, GA.                  
+ 133  135 3 TO AGREE TO THE REPORT OF THE SELECT COMMITTEE ON THE             
+ 133  135 4 TERRITORY OF ORLEANS BILL, SAID REPORT STATING THAT ONLY          
+ 133  135 5 WHITE MALE CITIZENS SHOULD HAVE A RIGHT TO FORM A NEW STATE.      
+ 134  136 1 A 22- -109    J 11-3-554     SRE       JAN. 30, 1811              
+ 134  136 2 S113009       Y=12 N=17                BAYARD, DEL.               
+ 134  136 3 TO AGREE TO THE RESOLUTION RELATIVE TO THE TERRITORY              
+ 134  136 4 COMPREHENDED WITHIN LIMITS OF LOUISIANA AS CEDED BY FRANCE        
+ 134  136 5 TO THE UNITED STATES BY TREATY OF APRIL, 1803, SAID               
+ 134  136 6 RESOLUTION PROVIDING THAT THE SENATE REQUEST THE PRESIDENT        
+ 134  136 7 TO LAY BEFORE THE SENATE ANY CORRESPONDENCE WHICH CAN BE          
+ 134  136 8 MADE PUBLIC, PASSING BETWEEN THE UNITED STATES GOVERNMENT,        
+ 134  136 9 FRANCE, AND SPAIN REGARDING THIS SUBJECT.                         
+ 135  137 1 A 22- -110    J 11-3-555A    S         JAN. 30, 1811              
+ 135  137 2 S113010       Y=10 N=18                DANA, CONN.                
+ 135  137 3 TO AMEND THE TERRITORY OF ORLEANS BILL, BY PROVIDING THAT         
+ 135  137 4 THIS ACT SHALL NOT BE UNDERSTOOD TO ADMIT SUCH STATE INTO         
+ 135  137 5 THE UNION WITHOUT UNANIMOUS CONSENT OF OTHER STATES.              
+ 136  138 1 A 22- -111A   J 11-3-555B    S         JAN. 30, 1811              
+ 136  138 2 S113011       Y=8 N=17                 DANA, CONN.                
+ 136  138 3 TO AMEND THE TERRITORY OF ORLEANS BILL, BY PROVIDING THAT         
+ 136  138 4 THIS ACT SHALL NOT BE UNDERSTOOD TO ADMIT SUCH STATE INTO         
+ 136  138 5 THE UNION AS AFORESAID, UNLESS THERE SHALL BE A                   
+ 136  138 6 CONSTITUTIONAL AMENDMENT EMPOWERING THE CONGRESS TO ADMIT         
+ 136  138 7 INTO THE UNION NEW STATES, FORMED BEYOND THE BOUNDARIES OF        
+ 136  138 8 THE UNITED STATES.                                                
+ 137  139 1 A 22- -111B   J 11-3-555C    S         JAN. 30, 1811              
+ 137  139 2 S113012       Y=17 N=10                TAIT, GA.                  
+ 137  139 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE TERRITORY OF        
+ 137  139 4 ORLEANS BILL, AS AMENDED.                                         
+ 138  140 1 A 22- -111C   J 11-3-556     S         JAN. 31, 1811              
+ 138  140 2 S113013       Y=10 N=20                BAYARD, DEL.               
+ 138  140 3 TO POSTPONE FURTHER CONSIDERATION OF THE TERRITORY OF             
+ 138  140 4 ORLEANS BILL UNTIL THE FIRST MONDAY IN DECEMBER NEXT.             
+ 139  141 1 A 22- -114    J 11-3-558     S         FEB. 1, 1811               
+ 139  141 2 S113014       Y=15 N=17                SMITH, MD.                 
+ 139  141 3 TO AMEND THE BILL FOR MAKING FURTHER PROVISIONS FOR THE           
+ 139  141 4 CORPS OF ENGINEERS, BY INSERTING AFTER THE WORD "BUILDINGS,"      
+ 139  141 5 THE WORDS, "AT SUCH PLACE AS SHALL BE DESIGNATED BY THE           
+ 139  141 6 PRESIDENT".                                                       
+ 140  142 1 A 22- -117A   J 11-3-560A    S         FEB. 4, 1811               
+ 140  142 2 S113015       Y=16 N=17                GREGG, PA.                 
+ 140  142 3 TO AMEND AN AMENDMENT TO THE BILL MAKING FURTHER PROVISIONS       
+ 140  142 4 FOR THE CORPS OF ENGINEERS, BY STRIKING OUT THE 6TH SECTION       
+ 140  142 5 BUT TO RETAIN AMENDMENT TO SAME STIPULATING THAT THE              
+ 140  142 6 PRESIDENT BE AUTHORIZED TO REMOVE THE MILITARY ACADEMY FROM       
+ 140  142 7 WEST POINT, AND ESTABLISH SAME AT CARLISLE IN PENNSYLVANIA.       
+ 141  143 1 A 22- -117B   J 11-3-560B    S         FEB. 4, 1811               
+ 141  143 2 S113016       Y=19 N=14                SMITH, MD.                 
+ 141  143 3 TO AGREE TO THE REPORT OF THE SELECT COMMITTEE RELATIVE TO        
+ 141  143 4 THE BILL MAKING FURTHER PROVISIONS FOR THE CORPS OF               
+ 141  143 5 ENGINEERS, SAID REPORT TO ELIMINATE THE 6TH SECTION OF            
+ 141  143 6 ORIGINAL BILL, AND SUBSTITUTE AN AMENDED AMENDMENT                
+ 141  143 7 PROVIDING THAT THE 27TH SECTION OF THE ACT FIXING THE             
+ 141  143 8 MILITARY PEACE ESTABLISHMENT (APP. 3/16/1802), AND SO MUCH        
+ 141  143 9 OF THE 26TH SECTION AS CONFINES THE SELECTION OF THE              
+ 141  14310 COMMANDER OF THE CORPS OF ENGINEERS TO SAID CORPS, BE             
+ 141  14311 REPEALED.                                                         
+ 142  144 1 A 22- -117C   J 11-3-560C    S         FEB. 4, 1811               
+ 142  144 2 S113017       Y=15 N=18                SMITH, MD.                 
+ 142  144 3 TO AMEND THE AMENDMENT TO THE BILL MAKING FURTHER PROVISION       
+ 142  144 4 FOR THE CORPS OF ENGINEERS, BY STRIKING OUT FROM THE              
+ 142  144 5 AMENDMENT THE PROVISION TO REPEAL THE 27TH SECTION OF THE         
+ 142  144 6 ACT FIXING THE MILITARY ESTABLISHMENT (APP. 3/16/1802).           
+ 143  145 1 A 22- -117D   J 11-3-560D    S         FEB. 4, 1811               
+ 143  145 2 S113018       Y=17 N=15                BRADLEY, VT.               
+ 143  145 3 TO AMEND THE BILL MAKING FURTHER PROVISION FOR THE CORPS OF       
+ 143  145 4 ENGINEERS, BY INSERTING A PROVISION THAT THE PRESIDENT SHALL      
+ 143  145 5 DESIGNATE THE LOCATION OF THE MILITARY ACADEMY BUILDINGS.         
+ 144  146 1 A 22- -127    J 11-3-564     S         FEB. 7, 1811               
+ 144  146 2 S113019       Y=22 N=10                TAIT, GA.                  
+ 144  146 3 TO PASS THE TERRITORY OF ORLEANS BILL AS AMENDED.                 
+ 145  147 1 A 22- -128    J 11-3-566     S         FEB. 8, 1811               
+ 145  147 2 S113020       Y=14 N=17                LEIB, PA.                  
+ 145  147 3 TO AMEND AN AMENDMENT TO THE BILL MAKING FURTHER PROVISION        
+ 145  147 4 FOR THE CORPS OF ENGINEERS, BY SEEKING TO HAVE THE MILITARY       
+ 145  147 5 ACADEMY BUILDINGS LOCATED AT CARLISLE, PENNSYLVANIA,              
+ 145  147 6 INSTEAD OF HAVING THE LOCATION SELECTED BY THE PRESIDENT.         
+ 146  148 1 A 22- -130    J 11-3-567     S         FEB. 11, 1811              
+ 146  148 2 S113021       Y=19 N=10                SMITH, MD.                 
+ 146  148 3 TO PASS THE BILL MAKING FURTHER PROVISION FOR THE CORPS OF        
+ 146  148 4 ENGINEERS.                                                        
+ 147  149 1 A 22- -131    J 11-3-568     S         FEB. 8, 1811               
+ 147  149 2 S113022       Y=23 N=2                 GILES, VA.                 
+ 147  149 3 TO PASS THE BILL ADDITIONAL TO AN ACT TO AMEND THE                
+ 147  149 4 JUDICIAL SYSTEM.                                                  
+ 148  150 1 A 22- -151    J 11-3-570A    S         FEB. 12, 1811              
+ 148  150 2 S113023       Y=11 N=19                TAIT, GA.                  
+ 148  150 3 TO RECEDE FROM AMENDMENT DISAGREED TO BY THE HOUSE, TO            
+ 148  150 4 TERRITORY OF ORLEANS BILL, SAID AMENDMENT SEEKS TO DEFINE         
+ 148  150 5 THE BOUNDARIES OF THE TERRITORY IN QUESTION.                      
+ 149  151 1 A 22- -152    J 11-3-570B    S         FEB. 8, 1811               
+ 149  151 2 S113024       Y=13 N=15                ANDERSON, TENN.            
+ 149  151 3 TO PASS THE BILL AUTHORIZING THE SALE AND GRANTING OF PUBLIC      
+ 149  151 4 LAND TO HAVRE DE GRACE BRIDGE CO.                                 
+ 150   27 1               EX J 11-1-167  SRE       FEB. 13, 1811              
+ 150   27 2 E113014       Y=9 N=24                 BRADLEY, VT.               
+ 150   27 3 TO CONSENT TO THE NOMINATION OF ALEXANDER WOLCOTT TO BE           
+ 150   27 4 ASSOCIATE JUSTICE OF THE UNITED STATES SUPREME COURT.             
+ 151  152 1 A 22- -174    J 11-3-573     S         FEB. 14, 1811              
+ 151  152 2 S113025       Y=5 N=22                 BRENT, VA.                 
+ 151  152 3 TO POSTPONE INDEFINITELY, BILL (APP. 2/18/1811,                   
+ 151  152 4 2 STAT L. 636), TO INCORPORATE THE UNION BANK OF GEORGETOWN.      
+ 152  153 1 A 22- -294    J 11-3-576     S         FEB. 19, 1811              
+ 152  153 2 S113026       Y=22 N=2                 WORTHINGTON, OHIO          
+ 152  153 3 TO AMEND THE BILL MAKING FURTHER PROVISION FOR THE DISPOSAL       
+ 152  153 4 OF SECTIONS OF LAND HERETOFORE RESERVED FOR THE FUTURE            
+ 152  153 5 DISPOSITION OF CONGRESS AND FOR OTHER PURPOSES, BY                
+ 152  153 6 ELIMINATING THE PROVISION THAT DEPOSIT MONEY WILL BE              
+ 152  153 7 FORFEITED UNLESS FULL PRICE IS PAID ON LAND PURCHASED WITHIN      
+ 152  153 8 THREE MONTHS, OTHERWISE THE LAND WILL REVERT TO THE UNITED        
+ 152  153 9 STATES, THE SAME AS IN THE CASE OF PURCHASERS OF PUBLIC LAND      
+ 152  15310 FAILING TO COMPLETE THEIR FIRST INSTALLMENTS.                     
+ 153  154 1 A 22- -346    J 11-3-578     S         FEB. 20, 1811              
+ 153  154 2 S113027       Y=17 N=17                CRAWFORD, GA.              
+ 153  154 3 TO AMEND AND CONTINUE IN FORCE, THE BILL TO INCORPORATE THE       
+ 153  154 4 SUBSCRIBERS TO THE BANK OF THE UNITED STATES. VICE PRESIDENT      
+ 153  154 5 VOTING AFFIRMATIVE.                                               
+ 154  155 1 A 22- -349    J 11-3-580     S         FEB. 22, 1811              
+ 154  155 2 S113028       Y=8 N=17                 ANDERSON, TENN.            
+ 154  155 3 TO POSTPONE CONSIDERATION OF THE BILL AUTHORIZING THE             
+ 154  155 4 PAYMENT OF CERTAIN CERTIFICATES, CREDITS, AND PENSIONS,           
+ 154  155 5 UNTIL THE FIRST MONDAY IN DECEMBER NEXT.                          
+ 155  156 1 A 22- -350    J 11-3-582A    S         FEB. 23, 1811              
+ 155  156 2 S113029       Y=13 N=14                GILES, VA.                 
+ 155  156 3 TO POSTPONE THE BILL AUTHORIZING THE ELECTION OF SHERIFFS IN      
+ 155  156 4 INDIANA TERRITORY UNTIL THE FIRST MONDAY IN DECEMBER NEXT.        
+ 156  157 1 A 22- -351    J 11-3-582B    S         FEB. 23, 1811              
+ 156  157 2 S113030       Y=13 N=14                CAMPBELL, OHIO             
+ 156  157 3 TO PASS THE BILL AUTHORIZING THE ELECTION OF SHERIFFS IN THE      
+ 156  157 4 INDIANA TERRITORY.                                                
+ 157  158 1 A 22- -353    J 11-3-584     S         FEB. 25, 1811              
+ 157  158 2 S113031       Y=14 N=12                CRAWFORD, GA.              
+ 157  158 3 TO PASS THE BILL AUTHORIZING THE PAYMENT OF CERTAIN               
+ 157  158 4 CERTIFICATES, CREDITS, AND PENSIONS.                              
+ 158   28 1               EX J 11-1-172  SRE       FEB. 27, 1811              
+ 158   28 2 E113015       Y=21 N=11                                           
+ 158   28 3 TO CONSENT TO THE NOMINATION OF JOEL BARLOW TO BE MINISTER        
+ 158   28 4 PLENIPOTENTIARY TO THE FRENCH GOVERNMENT.                         
+ 159  159 1 A 22- -356    J 11-3-588A    SRE       MAR. 1, 1811               
+ 159  159 2 S113032       Y=10 N=17                BRADLEY, VT.               
+ 159  159 3 TO DETERMINE THE TIME FOR THE NEXT MEETING OF CONGRESS AS         
+ 159  159 4 THE THIRD MONDAY OF MAY NEXT.                                     
+ 160  160 1 A 22- -357A   J 11-3-588B    S         MAR. 1, 1811               
+ 160  160 2 S113033       Y=7 N=19                 LLOYD, MASS.               
+ 160  160 3 TO AMEND THE BILL (APP. 3/2/1811, 2 STAT L. 651),                 
+ 160  160 4 SUPPLEMENTARY TO THE ACT RESPECTING COMMERCIAL INTERCOURSE        
+ 160  160 5 BETWEEN THE UNITED STATES, GREAT BRITAIN, AND FRANCE AND          
+ 160  160 6 THEIR DEPENDENCIES, BY ENACTING THAT NO GOODS SHALL BE            
+ 160  160 7 LIABLE TO FORFEITURE WHICH MAY BE IMPORTED FROM ANY PORT OF       
+ 160  160 8 GREAT BRITAIN, OR HER DEPENDENCIES, ON OR BEFORE MAY 1ST, IF      
+ 160  160 9 SUCH GOODS SHALL BE CONCLUSIVELY PROVED TO HAVE BELONGED TO       
+ 160  16010 A CITIZEN OF THE UNITED STATES PRIOR TO FEBRUARY 2ND LAST.        
+ 161  161 1 A 22- -357B   J 11-3-588C    S         MAR. 1, 1811               
+ 161  161 2 S113034       Y=7 N=21                 PICKERING, MASS.           
+ 161  161 3 TO AMEND THE COMMERCIAL INTERCOURSE BILL, BY ELIMINATING          
+ 161  161 4 FROM SECTION 2 THE PROVISION THAT ANY SUCH PROCLAMATION           
+ 161  161 5 SHALL BE ADMITTED AS EVIDENCE, AND NO OTHER EVIDENCE SHALL        
+ 161  161 6 BE ADMITTED, OF SUCH REVOCATION OR MODIFICATION IN ANY SUIT       
+ 161  161 7 OR PROSECUTION WHICH MAY BE INSTITUTED UNDER THE 4TH              
+ 161  161 8 SECTION OF THE ACT TO WHICH THIS BILL IS SUPPLEMENTARY.           
+ 162  162 1 A 22- -357C   J 11-3-589A    S         MAR. 1, 1811               
+ 162  162 2 S113035       Y=8 N=20                 LLOYD, MASS.               
+ 162  162 3 TO AMEND THE COMMERCIAL INTERCOURSE BILL, BY ADDING AT THE        
+ 162  162 4 END OF THE BILL, "NOR THE PROCEEDS OF SHIPMENTS WHOLLY            
+ 162  162 5 OWNED BY A CITIZEN OR CITIZENS OF THE UNITED STATES, WHICH        
+ 162  162 6 SHIPMENTS HAD BEEN MADE TO THE BRITISH POSSESSIONS IN THE         
+ 162  162 7 WEST INDIES PRIOR TO FEB. 2ND LAST, AND THE PROCEEDS WHEREOF      
+ 162  162 8 MAY BE IMPORTED INTO THE UNITED STATES ON OR BEFORE MAY 1ST       
+ 162  162 9 NEXT."                                                            
+ 163  163 1 A 22- -358A   J 11-3-589B    S         MAR. 1, 1811               
+ 163  163 2 S113036       Y=9 N=19                 BAYARD, DEL.               
+ 163  163 3 TO POSTPONE FURTHER CONSIDERATION OF THE COMMERCIAL               
+ 163  163 4 INTERCOURSE BILL UNTIL TOMORROW.                                  
+ 164  164 1 A 22- -358B   J 11-3-589C    S         MAR. 1, 1811               
+ 164  164 2 S113037       Y=20 N=6                 LLOYD, MASS.               
+ 164  164 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE COMMERCIAL          
+ 164  164 4 INTERCOURSE BILL.                                                 
+ 165  165 1 A 22- -360A   J 11-3-593     SRE       MAR. 2, 1811               
+ 165  165 2 S113038       Y=8 N=14                 PICKERING, MASS.           
+ 165  165 3 TO AGREE TO THE RESOLUTION THAT THE INJUNCTION OF SECRECY ON      
+ 165  165 4 THE PAPERS COMMUNICATED CONFIDENTIALLY TO THE SENATE IN THE       
+ 165  165 5 YEARS 1803-1805, RELATIVE TO LOUISIANA AND WEST FLORIDA, OR       
+ 165  165 6 ANY PART THEREOF, SO FAR AS SUCH PAPERS RESPECT THE TITLE         
+ 165  165 7 OR CLAIM OF THE UNITED STATES TO THOSE TERRITORIES, BE            
+ 165  165 8 RESCINDED.                                                        
+ 166  166 1 A 22- -360B   J 11-3-591     S         MAR. 2, 1811               
+ 166  166 2 S113039       Y=9 N=20                 BRADLEY, VT.               
+ 166  166 3 TO REFER TO A SELECT COMMITTEE THE COMMERCIAL INTERCOURSE         
+ 166  166 4 BILL WITH INSTRUCTIONS TO INSERT THAT IF IT APPEARS TO THE        
+ 166  166 5 PRESIDENT THAT THE DECREES OF FRANCE HAVE NOT BEEN SO             
+ 166  166 6 REVOKED, OR MODIFIED, TO CEASE TO VIOLATE NEUTRAL U.S.            
+ 166  166 7 COMMERCE FROM AND AFTER 2/2/1811, THE PRESIDENT SHALL MAKE        
+ 166  166 8 A PROCLAMATION WHICH SHALL BE CONCLUSIVE EVIDENCE OF THE          
+ 166  166 9 FACT, AND THEREUPON THE OPERATION OF THE ACT SHALL CEASE.         
+ 167  167 1 A 22- -361    J 11-3-592     S         MAR. 2, 1811               
+ 167  167 2 S113040       Y=20 N=7                                            
+ 167  167 3 TO PASS THE COMMERCIAL INTERCOURSE BILL.                          

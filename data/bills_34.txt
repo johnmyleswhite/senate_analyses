@@ -1,0 +1,2357 @@
+   1   37 1 G 25-1-133    J 34-1-48      SRE       JAN. 3, 1856               
+   1   37 2 S341001       Y=18 N=23                TOUCEY, CONN.              
+   1   37 3 TO TABLE THE RESOLUTION TO PRINT 10,500 EXTRA COPIES              
+   1   37 4 OF THE ANNUAL REPORT ON THE STATE OF THE GOVERNMENT FINANCES      
+   1   37 5 FOR USE OF THE SENATE, AND TREASURY DEPARTMENT.                   
+   2   38 1 G 25-1-322    J 34-1-77A     SRE       JAN. 31, 1856              
+   2   38 2 S341002       Y=26 N=25                FITZPATRICK, ALA.          
+   2   38 3 TO SUSPEND THE ORDER OF BUSINESS AND PROCEED TO THE ELECTION      
+   2   38 4 OF A PRINTER FOR THE SENATE.                                      
+   3   39 1 G 25-1-323    J 34-1-77B     SRE       JAN. 31, 1856              
+   3   39 2 S341003       Y=24 N=28                PRATT, MD.                 
+   3   39 3 TO POSTPONE THE ELECTION OF A PRINTER FOR THE SENATE UNTIL        
+   3   39 4 NEXT MONDAY.                                                      
+   4   40 1 G 25-1-357    J 34-1-87      SRE       FEB. 5, 1856               
+   4   40 2 S341004       Y=24 N=17                IVERSON, GA.               
+   4   40 3 TO TABLE THE RESOLUTION TO FURNISH FIREWOOD TO THE POOR IN        
+   4   40 4 THE DISTRICT OF COLUMBIA.                                         
+   5   41 1 G 25-1-364    J 34-1-95      SJR       FEB. 6, 1856               
+   5   41 2 S341005       Y=28 N=21                CLAYTON, DEL.              
+   5   41 3 TO ORDER ENGROSSMENT AND THIRD READING OF S.J. RES. 21, A         
+   5   41 4 RESOLUTION FOR THE RELIEF OF THE POOR OF WASHINGTON AND           
+   5   41 5 GEORGETOWN.                                                       
+   6    1 1               EX J 10-45     SRE       FEB. 11, 1856              
+   6    1 2 E341001       Y=21 N=23                JONES, TENN.               
+   6    1 3 TO REMOVE THE INJUNCTION OF SECRECY FROM THE PROCEEDINGS OF       
+   6    1 4 THE SENATE ON THE NOMINATION OF A.G. SEAMAN TO BE                 
+   6    1 5 SUPERINTENDENT OF PUBLIC PRINTING.                                
+   7   42 1 G 25-1-394    J 34-1-106     SRE       FEB. 12, 1856              
+   7   42 2 S341006       Y=33 N=11                MASON, VA.                 
+   7   42 3 TO POSTPONE INDEFINITELY, THE RESOLUTION SETTING A DATE TO        
+   7   42 4 ELECT ON NEXT MONDAY, THE SECRETARY, SARGEANT-AT-ARMS AND         
+   7   42 5 ASSISTANT DOORKEEPER OF THE SENATE AND PROVIDING THAT IN THE      
+   7   42 6 FUTURE THEY BE CHOSEN ON THE SECOND MONDAY OF THE FIRST           
+   7   42 7 SESSION.                                                          
+   8    2 1               EX J 10-49A    SRE       FEB. 19, 1856              
+   8    2 2 E341002       Y=12 N=31                HALE, N.H.                 
+   8    2 3 TO RECOMMIT TO THE COMMITTEE ON TERRITORIES, THE NOMINATION       
+   8    2 4 OF WILSON SHANNON TO BE GOVERNOR OF KANSAS.                       
+   9    3 1               EX J 10-49B    SRE       FEB. 19, 1856              
+   9    3 2 E341003       Y=31 N=12                JONES, TENN.               
+   9    3 3 TO CONSENT TO THE NOMINATION OF WILSON SHANNON, MADE BY THE       
+   9    3 4 PRESIDENT, TO BE GOVERNOR OF KANSAS.                              
+  10   43 1 G 25-1-466    J 34-1-123     SRE       FEB. 20, 1856              
+  10   43 2 S341007       Y=18 N=19                WELLER, CAL.               
+  10   43 3 TO AMEND THE RESOLUTION AMENDING THE RULES OF SENATE BY           
+  10   43 4 PROVIDING THAT THE CALL FOR PETITIONS SHALL BE BY STATES IN       
+  10   43 5 THEIR ALPHABETICAL ORDER, INSTEAD OF MERELY CALLING FOR           
+  10   43 6 PETITIONS.                                                        
+  11    4 1               EX J 10-53     SRE       FEB. 21, 1856              
+  11    4 2 E341004       Y=31 N=2                 SEBASTIAN, ARK.            
+  11    4 3 TO AGREE TO THE RATIFICATION OF THE ARTICLES OF AGREEMENT         
+  11    4 4 AND CONVENTION BETWEEN THE UNITED STATES AND THE CHOCTAW          
+  11    4 5 AND CHICKASAW TRIBES OF INDIANS, MADE AND CONCLUDED IN            
+  11    4 6 WASHINGTON, 6/22/1845.                                            
+  12   44 1 G 25-1-518    J 34-1-144     S102      FEB. 27, 1856              
+  12   44 2 S341008       Y=28 N=10                HUNTER, VA.                
+  12   44 3 TO RECOMMIT TO THE COMMITTEE ON MILITARY AFFAIRS, S. 102, A       
+  12   44 4 BILL MAKING APPROPRIATIONS FOR FORTIFICATIONS IN FLORIDA,         
+  12   44 5 TEXAS, AND CALIFORNIA, WITH INSTRUCTIONS TO REPORT SUCH NEW       
+  12   44 6 WORK FOR FORTIFICATIONS AS THEY THINK NECESSARY FOR DEFENSE       
+  12   44 7 OF THE COUNTRY.                                                   
+  13   45 1 G 25-1-528    J 34-1-148     SRE       FEB. 28, 1856              
+  13   45 2 S341009       Y=26 N=10                MASON, VA.                 
+  13   45 3 TO RECONSIDER THE VOTE BY WHICH THE SENATE AGREED THAT            
+  13   45 4 WHEN IT ADJOURNS TODAY, IT BE TO MEET ON MONDAY.                  
+  14   46 1 G 25-1-545    J 34-1-153     S119      MAR. 3, 1856               
+  14   46 2 S341010       Y=35 N=8                 MALLORY, FLA.              
+  14   46 3 TO ENGROSS FOR THIRD READING, S. 119, A BILL PROVIDING FOR        
+  14   46 4 THE CONSTRUCTION OF TEN SLOOPS OF WAR.                            
+  15   47 1 G 25-1-584    J 34-1-161     SRE       MAR. 5, 1856               
+  15   47 2 S341011       Y=35 N=8                 CRITTENDEN, KY.            
+  15   47 3 TO ADOPT THE RESOLUTION THAT LYMAN TRUMBULL OF ILL. WAS           
+  15   47 4 ELECTED AS A SENATOR FROM THAT STATE AND IS ENTITLED TO HIS       
+  15   47 5 SEAT FOR THE SIX YEAR TERM BEGINNING 3/4/1855.                    
+  16   48 1 G 25-1-618    J 34-1-171     S124      MAR. 10, 1856              
+  16   48 2 S341012       Y=22 N=12                WELLER, CAL.               
+  16   48 3 TO ENGROSS FOR THIRD READING, S. 124, A BILL APPROPRIATING        
+  16   48 4 $3,000,000 FOR INCREASING THE ARMY'S EFFICIENCY.                  
+  17   49 1 G 25-1-665    J 34-1-186A    S1        MAR. 17, 1856              
+  17   49 2 S341013       Y=29 N=8                 CASS, MICH.                
+  17   49 3 TO PASS S. 1 (PASSED OVER VETO, 7/8/1856), (11 STAT. L. 25),      
+  17   49 4 A BILL APPROPRIATING $45,000 FOR DEEPENING THE CHANNEL            
+  17   49 5 OVER THE ST. CLAIR FLATS, MICHIGAN.                               
+  18   50 1 G 25-1-665    J 34-1-186B    S2        MAR. 17, 1856              
+  18   50 2 S341014       Y=32 N=8                 CASS, MICH.                
+  18   50 3 TO PASS S. 2, (PASSED OVER VETO, 7/8/1856, 11 STAT. L. 25),       
+  18   50 4 A BILL APPROPRIATING $100,000 FOR DEEPENING THE CHANNEL OF        
+  18   50 5 THE ST. MARYS RIVER, MICH.                                        
+  19   51 1 G 25-1-666    J 34-1-187     S14       MAR. 17, 1856              
+  19   51 2 S341015       Y=32 N=3                 SLIDELL, LA.               
+  19   51 3 TO PASS S. 14 (PASS OVER VETO, 7/8/1856, 11 STAT. L. 25), A       
+  19   51 4 BILL APPROPRIATING $300,000 FOR REMOVING ONSTRUCTIONS IN THE      
+  19   51 5 MISSISSIPPI RIVER AT THE SOUTHWEST PASS AND                       
+  19   51 6 PASSE A L' OUTRE.                                                 
+  20   52 1 G 25-1-682    J 34-1-194A    HR68      MAR. 19, 1856              
+  20   52 2 S341016       Y=27 N=15                STUART, MICH.              
+  20   52 3 TO AMEND AN AMENDMENT TO H.R. 68,                                 
+  20   52 4 (APP. 5/15/1856, 11 STAT. L. 10), A BILL SUPPLYING                
+  20   52 5 DEFICIENCIES IN APPROPRIATIONS FOR 1856, BY INCREASING            
+  20   52 6 THE SALARY OF THE GOVERNOR OF THE TERRITORY OF NEW MEXICO,        
+  20   52 7 UNDER AN ACT OF 7/27/1854, AND PROVIDING THAT AFTER               
+  20   52 8 6/30/1856, HIS SALARY AS GOVERNOR SHALL BE $2,000 A YEAR AND      
+  20   52 9 $1,000 AS SUPERINTENDANT OF INDIAN AFFAIRS.                       
+  21   53 1 G 25-1-682    J 34-1-194B    HR68      MAR. 19, 1856              
+  21   53 2 S341017       Y=34 N=5                 HUNTER, VA.                
+  21   53 3 TO AGREE TO THE AMENDMENT TO H.R. 68, WHICH AMENDMENT             
+  21   53 4 APPROPRIATIVE $300,000 FOR CONTINUING WORKS ON THE                
+  21   53 5 WASHINGTON AQUEDUCT.                                              
+  22   54 1 G 25-1-704    J 34-1-202     HR68      MAR. 24, 1856              
+  22   54 2 S341018       Y=14 N=30                HUNTER, VA.                
+  22   54 3 TO AMEND THE AMENDMENT TO H.R. 68, BY INCREASING FROM             
+  22   54 4 $5,000 TO $11,000, THE APPROPRIATION FOR REPAIRING THE            
+  22   54 5 NAVY YARD AND UPPER BRIDGES ON THE POTOMAC RIVER.                 
+  23   55 1 G 25-1-705    J 34-1-203A    HR68      MAR. 24, 1856              
+  23   55 2 S341019       Y=16 N=21                ADAMS, MISS.               
+  23   55 3 TO AMEND AN AMENDMENT TO H.R. 68, BY RELINQUISHING THE TITLE      
+  23   55 4 OF THE U.S. TO THE NAVY YARD AND UPPER BRIDGES OF THE             
+  23   55 5 EASTERN BRANCH OF THE POTOMAC RIVER TO THE CITY OF                
+  23   55 6 WASHINGTON.                                                       
+  24   56 1 G 25-1-705    J 34-1-203B    HR68      MAR. 24, 1856              
+  24   56 2 S341020       Y=20 N=20                PRATT, MD.                 
+  24   56 3 TO AMEND H.R. 68, BY APPROPRIATING $5,000 FOR REPAIRING THE       
+  24   56 4 NAVY YARD AND UPPER BRIDGES OF THE EASTERN BRANCH OF THE          
+  24   56 5 POTOMAC RIVER.                                                    
+  25   57 1 G 25-1-726    J 34-1-206     HR68      MAR. 25, 1856              
+  25   57 2 S341021       Y=20 N=19                WELLER, CAL.               
+  25   57 3 TO AMEND AMENDMENT TO H.R. 68, BY APPROPRIATING $49,200 FOR       
+  25   57 4 ENGRAVING TO THE SATISFACTION OF THE SECRETARY OF WAR, THE        
+  25   57 5 MAPS AND DRAWINGS ACCOMPANYING THE REPORTS OF SURVEY MADE TO      
+  25   57 6 DETERMINE A PACIFIC RAILROAD ROUTE.                               
+  26   58 1 G 25-1-727    J 34-1-207     HR68      MAR. 25, 1856              
+  26   58 2 S341022       Y=22 N=12                HUNTER, VA.                
+  26   58 3 TO AMEND H.R. 68, BY APPROPRIATING $57,000 FOR PRINTING AND       
+  26   58 4 PAPER ORDERED BY FIRST SESSION, 33RD CONGRESS, $244,188.95        
+  26   58 5 FOR DEFICIENCIES IN APPROPRIATIONS FOR PRINTING OF THE            
+  26   58 6 SECOND SESSION, 33RD CONGRESS AND $49,200 OR AS MUCH              
+  26   58 7 THEREOF AS NECESSARY, TO ENGRAVE MAPS TO DETERMINE A PACIFIC      
+  26   58 8 RAILROAD ROUTE.                                                   
+  27   59 1 G 25-1-738    J 34-1-210     HR68      MAR. 26, 1856              
+  27   59 2 S341023       Y=24 N=17                BAYARD, DEL.               
+  27   59 3 TO AMEND H.R. 68, BY APPROPRIATING $150,000 FOR COMPLETING        
+  27   59 4 THE PATENT OFFICE BUILDING.                                       
+  28   60 1 G 25-1-743    J 34-1-211A    HR68      MAR. 26, 1856              
+  28   60 2 S341024       Y=17 N=27                WELLER, CAL.               
+  28   60 3 TO AMEND H.R. 68, BY APPROPRIATING AN ADDITIONAL $50,000          
+  28   60 4 FOR CONSTRUCTING A BARRACKS AND QUARTERS OF A MILITARY POST       
+  28   60 5 TO BE ESTABLISHED IN MINNESOTA TERRITORY.                         
+  29   61 1 G 25-1-745    J 34-1-211B    HR68      MAR. 26, 1856              
+  29   61 2 S341025       Y=19 N=26                HUNTER, VA.                
+  29   61 3 TO AMEND AN AMENDMENT TO H.R. 68, BY APPROPRIATING $11,000        
+  29   61 4 INSTEAD OF $5,000 FOR REPAIR OF THE POTOMAC BRIDGE AND THE        
+  29   61 5 NAVY YARD AND UPPER BRIDGES OF THE EASTERN BRANCH OF THE          
+  29   61 6 POTOMAC.                                                          
+  30   62 1 G 25-1-745    J 34-1-212A    HR68      MAR. 26, 1856              
+  30   62 2 S341026       Y=26 N=16                PRATT, MD.                 
+  30   62 3 TO AMEND H.R. 68, BY APPROPRIATING $5,000 FOR REPAIR OF THE       
+  30   62 4 NAVY YARD AND UPPER BRIDGES OF THE EASTERN BRANCH OF THE          
+  30   62 5 POTOMAC.                                                          
+  31   63 1 G 25-1-746    J 34-1-212B    HR68      MAR. 26, 1856              
+  31   63 2 S341027       Y=23 N=11                HUNTER, VA.                
+  31   63 3 TO PASS H.R. 68.                                                  
+  32   64 1 G 25-1-755    J 34-1-213     SRE       MAR. 27, 1856              
+  32   64 2 S341028       Y=10 N=27                WELLER, CAL.               
+  32   64 3 TO PRINT 5000 ADDITIONAL COPIES OF THE ADVERSE REPORT OF THE      
+  32   64 4 COMMITTEE ON MILITARY AFFAIRS REGARDING THE RESOLUTION            
+  32   64 5 PROVIDING FOR THE PRESENTATION OF A SWORD TO                      
+  32   64 6 COLONEL BENJAMIN S. ROBERTS.                                      
+  33   65 1 G 25-2-850    J 34-1-244A    SRE       APR. 10, 1856              
+  33   65 2 S341029       Y=17 N=25                STUART, MICH.              
+  33   65 3 TO POSTPONE DEBATE ON THE PRINTING OF THE MEMORIAL OF             
+  33   65 4 PERSONS REPRESENTING THEMSELVES AS MEMBERS OF THE GENERAL         
+  33   65 5 ASSEMBLY OF KANSAS, IN ORDER TO PROCEED TO CONSIDERATION          
+  33   65 6 OF THE RIVERS AND HARBORS BILL.                                   
+  34   66 1 G 25-2-864    J 34-1-244B    SRE       APR. 10, 1856              
+  34   66 2 S341030       Y=32 N=3                 MASON, VA.                 
+  34   66 3 TO ADOPT THE RESOLUTION WHICH PROVIDES THAT THE ORDER             
+  34   66 4 REFERRING THE MEMORIAL OF PERSONS PURPORTING TO BE MEMBERS        
+  34   66 5 OF THE KANSAS LEGISLATURE TO THE COMMITTEE ON TERRITORIES,        
+  34   66 6 BE RESCINDED AND THAT THE COMMITTEE ON PRINTING BE                
+  34   66 7 DISCHARGED FROM CONSIDERATION OF THE MOTION TO PRINT SAID         
+  34   66 8 MEMORIAL.                                                         
+  35   67 1 G 25-2-       J 34-1-250     SRE       APR. 14, 1856              
+  35   67 2 S341031       Y=30 N=11                STUART, MICH.              
+  35   67 3 TO TABLE THE MOTION TO RECEIVE THE PETITION OF JAMES H. LANE      
+  35   67 4 TO PRESENT A MEMORIAL FROM THE LEGISLATURE OF KANSAS THAT HE      
+  35   67 5 HAS BEEN ELECTED AS A SENATOR FROM KANSAS UPON ITS                
+  35   67 6 ADMISSION AS A STATE INTO THE UNION.                              
+  36   68 1 G 25-2-912    J 34-1-256     SJR13     APR. 15, 1856              
+  36   68 2 S341032       Y=30 N=13                HAMLIN, ME.                
+  36   68 3 TO RECOMMIT TO THE COMMITTEE ON THE DISTRICT OF COLUMBIA,         
+  36   68 4 S.J.R. 13, A RESOLUTION CHANGING THE LOCATION OF THE              
+  36   68 5 DISTRICT ARMORY FROM THE MALL TO JUDICIARY SQUARE WITH            
+  36   68 6 INSTRUCTIONS TO REPORT A BILL REPEALING THE ACT                   
+  36   68 7 APPROPRIATING MONEY FOR CONSTRUCTING AN ARMORY AND                
+  36   68 8 PROVIDING FOR PAYMENT OF CONDEMNED PROPERTY.                      
+  37   69 1 G 25-2-929    J 34-1-259     HR8       APR. 16, 1856              
+  37   69 2 S341033       Y=19 N=21                IVERSON, GA.               
+  37   69 3 TO AMEND H.R. 8 (APP. 5/14/1856, 11 STAT. L. 8), A BILL           
+  37   69 4 IN ADDITION TO THE ACT APPROVED 3/3/1855 GRANTING BOUNTY          
+  37   69 5 LANDS TO SOLDIERS OF THE U.S., BY PROVIDING THAT, IN              
+  37   69 6 COMPUTING THE LENGTH OF SOLDIER'S SERVICE THEY BE ALLOWED         
+  37   69 7 ONE DAY FOR EACH 20 MILES THEY MARCHED AT OFFICIAL COMMAND        
+  37   69 8 AND IN REGULAR FORMATION FROM THE PLACE THEY WERE ORGANIZED       
+  37   69 9 TO WHERE THEY WERE MUSTERED INTO THE SERVICE AND THE SAME         
+  37   6910 ALLOWANCE ON THIER RETURN TO BE DISCHARGED.                       
+  38   70 1 G 25-2-945    J 34-1-262     HR8       APR. 17, 1856              
+  38   70 2 S341034       Y=12 N=23                HAMLIN, ME.                
+  38   70 3 TO AMEND H.R. 8, BY ADDING A PROVISION THAT WHEN A LAND           
+  38   70 4 WARRANT IS ISSUED AFTER APPLICANT'S DEATH, LEAVING NO WIDOW       
+  38   70 5 OR CHILDREN, SAID WARRANT MAY BE ASSIGNED TO DECEDENT'S           
+  38   70 6 ADMINISTRATOR OR EXECUTOR.                                        
+  39   71 1 G 25-2-950    J 34-1-263     HR8       APR. 17, 1856              
+  39   71 2 S341035       Y=20 N=17                IVERSON, GA.               
+  39   71 3 TO AMEND H.R. 8, BY PROVIDING THAT THE PRESENT PROVISION          
+  39   71 4 REQUIRING RECORD EVIDENCE OF SERVICE BE REPEALED AND THAT         
+  39   71 5 VERBAL TESTIMONY BE ADMITTED TO PROVE SUCH SERVICE UNDER          
+  39   71 6 SUCH RULES AS THE PENSION OFFICE MAY DIRECT.                      
+  40    5 1               EX J 10-79     SRE       APR. 18, 1856              
+  40    5 2 E340005       Y=28 N=5                 SEBASTIAN, ARK.            
+  40    5 3 TO AGREE TO RATIFICATION OF THE ARTICLES OF AGREEMENT MADE        
+  40    5 4 AND CONCLUDED AT STOCKBRIDGE, WISCONSIN, 2/5/1856 BETWEEN         
+  40    5 5 THE U.S. AND THE STOCKBRIDGE AND MUNSEE TRIBES OF INDIANS.        
+  41   72 1 G 25-2-994    J 34-1-272     HR8       APR. 22, 1856              
+  41   72 2 S341036       Y=15 N=26                PUGH, OHIO                 
+  41   72 3 TO AMEND H.R. 8, BY PROVIDING THAT CLAIMS TO SUCH LANDS MAY       
+  41   72 4 BE BASED ON VERBAL EVIDENCE, IF NO RECORDS EXIST UNDER SUCH       
+  41   72 5 REGULATIONS AS COMMISSIONER OF PENSIONS MAY PRESCRIBE.            
+  42   73 1 G 25-2-995A   J 34-1-273A    HR8       APR. 22, 1856              
+  42   73 2 S341037       Y=22 N=19                IVERSON, GA.               
+  42   73 3 TO AMEND AN AMENDMENT TO H.R. 8, BY REPEALING THE PROVISION       
+  42   73 4 REQUIRING RECORD OF MILITARY OR NAVAL SERVICE AND                 
+  42   73 5 STIPULATING THAT VERBAL TESTIMONY BE ADMITTED TO PROVE SUCH       
+  42   73 6 SERVICE UNDER THE RULES WHICH THE PENSION OFFICE MAY              
+  42   73 7 PRESCRIBE.                                                        
+  43   74 1 G 25-2-995B   J 34-1-273B    HR8       APR. 22, 1856              
+  43   74 2 S341038       Y=19 N=18                IVERSON, GA.               
+  43   74 3 TO AMEND H.R. 8, BY ADDING A PROVISION THAT WHEN AN               
+  43   74 4 ORGANIZED BODY OF SOLDIERS MARCHED MORE THAN 20 MILES TO THE      
+  43   74 5 PLACE WHERE THEY WERE MUSTERED INTO SERVICE OR WERE               
+  43   74 6 DISCHARGED MORE THAN 20 MILES FROM THE PLACE OF THEIR             
+  43   74 7 ORGANIZATION, EACH MEMBER BE ALLOWED ONE DAY FOR EACH SUCH        
+  43   74 8 20 MILES IN COMPUTING THE LENGTH OF THEIR SERVICE.                
+  44   75 1 G 25-2-997    J 34-1-274     HR8       APR. 22, 1856              
+  44   75 2 S341039       Y=23 N=10                STUART, MICH.              
+  44   75 3 TO PASS H.R. 8.                                                   
+  45   76 1 G 25-2-1022   J 34-1-281     S143      APR. 25, 1856              
+  45   76 2 S341040       Y=27 N=12                WELLER, CAL.               
+  45   76 3 TO ORDER ENGROSSMENT AND THIRD READING, OF S. 143, A BILL         
+  45   76 4 TO PAY THE CLAIMS OF GEORGE P. MARSH FOR JUDICIAL SERVICE         
+  45   76 5 WHILE MINISTER RESIDENT AT CONSTANTINOPLE.                        
+  46   77 1 G 25-2-1023   J 34-1-282     S220      APR. 25, 1856              
+  46   77 2 S341041       Y=21 N=13                FOSTER, CONN.              
+  46   77 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 220, A BILL          
+  46   77 4 TO PAY TO HANNAH F. NILES OR HER LEGAL REPRESENTATIVE             
+  46   77 5 $3,000 IN CONSIDERATION OF THE MERITORIOUS SERVICE OF HER         
+  46   77 6 FATHER, CAPTAIN ROBERT NILES, DURING THE REVOLUTIONARY WAR.       
+  47   78 1 G 25-2-1040   J 34-1-285     HR68      APR. 28, 1856              
+  47   78 2 S341072A      Y=7 N=32                 PUGH, OHIO                 
+  47   78 3 TO RECEDE FROM AMENDMENT OF THE SENATE TO H.R. 68, WHICH          
+  47   78 4 AMENDMENT APPROPRIATED $300,000 TO CONTINUE WORK ON THE           
+  47   78 5 WASHINGTON AQUEDUCT.                                              
+  48   79 1 G 25-2-1043   J 34-1-287     S123      APR. 28, 1856              
+  48   79 2 S341042B      Y=19 N=22                STUART, MICH.              
+  48   79 3 TO POSTPONE CONSIDERATION OF THE NAVAL BILL IN ORDER TO           
+  48   79 4 TAKE UP S. 123, A BILL AMENDING AN ACT PASSED 3/3/1855, FOR       
+  48   79 5 THE IMPROVEMENT OF THE SAVANNAH RIVER.                            
+  49   80 1 G 25-2-1051   J 34-1-289     HRE       APR. 29, 1856              
+  49   80 2 S341073       Y=34 N=5                 HUNTER, VA.                
+  49   80 3 TO AMEND THE RESOLUTION TO PRINT 10,000 COPIES, IN ADDITION       
+  49   80 4 TO THE REGULAR NUMBER, OF THE REPORT OF THE EXPLORATION OF        
+  49   80 5 THE SOURCES OF THE BIG WACHITA AND BRAZOS RIVERS IN 1854 BY       
+  49   80 6 CAPT. R.B. MARCY TOGETHER WITH MAPS AND PLATES NECESSARY TO       
+  49   80 7 ILLUSTRATE THE SAME, BY ELIMINATING THE PROVISION FOR             
+  49   80 8 10,000 ADDITIONAL COPIES.                                         
+  50   81 1 G 25-2-1064   J 34-1-293     HJR12     APR. 30, 1856              
+  50   81 2 S341044       Y=13 N=23                HUNTER, VA.                
+  50   81 3 TO TABLE UNTIL TOMORROW H.J.R. 12,                                
+  50   81 4 (APP. 5/9/1856, 11 STAT. L. 143), A RESOLUTION PROVIDING FOR      
+  50   81 5 THE ENLARGEMENT OF THE CUSTOMS HOUSE, POST OFFICE AND             
+  50   81 6 COURT HOUSE AT CLEVELAND OHIO.                                    
+  51   82 1 G 25-2-1072   J 34-1-294     HR121     MAY 1, 1856                
+  51   82 2 S341045       Y=35 N=2                 SLIDELL, LA.               
+  51   82 3 TO PASS H.R. 121, (APP. 5/9/1856, 11 STAT. L. 7), A BILL          
+  51   82 4 TRANSFERRING AND SURRENDERING TO THE STATE OF ILLINOIS ALL        
+  51   82 5 THE PORTION OF THE CUMBERLAND ROAD LYING IN THAT STATE.           
+  51   82 6 (THE GLOBE READS, TO ORDER THIRD READING.)                        
+  52   83 1 G 25-2-1092A  J 34-1-297     SJR17     MAY 2, 1856                
+  52   83 2 S341046       Y=25 N=11                JONES, IOWA                
+  52   83 3 TO AMEND S.J. 17, A RESOLUTION FOR ENLARGING THE CUSTOMS          
+  52   83 4 HOUSE, POST OFFICE AND COURT HOUSE AT MILWAUKEE, WISCONSIN        
+  52   83 5 AND DETROIT, MICHIGAN, BY APPROPRIATING FOR A SIMILAR             
+  52   83 6 BUILDING AT DUBUQUE, IOWA.                                        
+  53   84 1 G 25-2-1092B  J 34-1-298     SJR17     MAY 2, 1856                
+  53   84 2 S341047       Y=22 N=12                DODGE, WIS.                
+  53   84 3 TO ADOPT S.J. 17, A RESOLUTION TO CONSTRUCT A CUSTOM HOUSE,       
+  53   84 4 POST OFFICE AND COURT HOUSE AT MILWAUKEE, DETROIT, AND            
+  53   84 5 DUBUQUE, IOWA.                                                    
+  54   85 1 G 25-2-1147   J 34-1-313     SRE       MAY 8, 1856                
+  54   85 2 S341048       Y=24 N=9                 MASON, VA.                 
+  54   85 3 TO CONSIDER THE RESOLUTION PROVIDING THAT THE NOTICE BY THE       
+  54   85 4 PRESIDENT OF DENMARK, ABROGATING THE TREATY WITH DENMARK          
+  54   85 5 RELATING TO SOUND DUES, IS SUFFICIENT TO CAUSE SUCH               
+  54   85 6 ABROGATION WITHOUT FURTHER LEGISLATION.                           
+  55   86 1 G 25-2-1167   J 34-1-316A    HR56      MAY 9, 1856                
+  55   86 2 S341049       Y=23 N=11                JONES, IOWA                
+  55   86 3 TO CONSIDER H.R. 56, (APP. 5/15/1856, 11 STAT. L. 9), A           
+  55   86 4 BILL GRANTING LAND TO IOWA TO AID IN THE CONSTRUCTION OF          
+  55   86 5 CERTAIN RAILROADS. (GLOBE READS, TO POSTPONE THE SPECIAL          
+  55   86 6 ORDER OF THE DAY TO CONSIDER H.R. 56.)                            
+  56   87 1 G 25-2-1173A  J 34-1-317B    HR56      MAY 9, 1856                
+  56   87 2 S341050       Y=16 N=14                HALE, N.H.                 
+  56   87 3 TO ADJOURN.                                                       
+  57   88 1 G 25-2-1173B  J 34-1-317     PROC      MAY 9, 1856                
+  57   88 2 S341051       Y=31 N=9                 JONES, IOWA                
+  57   88 3 TO PASS H.R. 56.                                                  
+  58   89 1 G 25-2-1220   J 34-1-325     HR56      MAY 14, 1856               
+  58   89 2 S341052       Y=15 N=19                CRITTENDEN, KY.            
+  58   89 3 TO RECONSIDER THE VOTE BY WHICH H.R. 56 WAS PASSED.               
+  59   90 1 G 25-2-1278   J 34-1-350     SJR12     MAY 22, 1856               
+  59   90 2 S341053       Y=33 N=4                 MASON, VA.                 
+  59   90 3 TO ADOPT S.J.R. 12, (APP. 8/30/1856, 11 STAT. L. 152),A           
+  59   90 4 RESOLUTION TO PROVIDE THAT CONGRESS CONSENT THAT DR. KANE         
+  59   90 5 OF THE U.S. NAVY AND SUCH OFFICERS WHO WERE WITH HIM IN THE       
+  59   90 6 ARCTIC SEA IN SEARCH OF SIR JOHN FRANKLIN ACCEPT SUCH TOKEN       
+  59   90 7 OF ACKNOWLEDGEMENT FROM GREAT BRITIAN AS MAY BE OFFERED.          
+  60   91 1 G 25-2-1284   J 34-1-355     S269      MAY 23, 1856               
+  60   91 2 S341054       Y=23 N=15                BRODHEAD, PA.              
+  60   91 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 269, A BILL          
+  60   91 4 PAYING JOHN HASTINGS MONEYS STOLEN FROM HIM WHILE ACTING          
+  60   91 5 AS COLLECTOR OF THE PORT OF PITTSBURG.                            
+  61   92 1 G 25-2-1288   J 34-1-356     S301      MAY 23, 1856               
+  61   92 2 S341055       Y=14 N=19                BROWN, MISS.               
+  61   92 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 301, A BILL          
+  61   92 4  AUTHORIZING COMMISSIONER OF PATENTS TO GRANT HEARING TO          
+  61   92 5 CYRUS MCCORMICK ON HIS APPLICATION FOR RENEWAL OF PATENT ON       
+  61   92 6 REAPING MACHINE DATED 6/21/1834 AND TO EXTEND IT FOR 7            
+  61   92 7 YEARS IF JUSTIFIED.                                               
+  62   93 1 G 25-2-1300   J 34-1-359     S172      MAY 26, 1856               
+  62   93 2 S341056       Y=22 N=19                MALLORY, FLA.              
+  62   93 3 TO POSTPONE UNTIL FRIDAY NEXT, FURTHER CONSIDERATION OF           
+  62   93 4 S. 172, A BILL AUTHORIZING THE PEOPLE OF THE TERRITORY OF         
+  62   93 5 KANSAS TO FORM A CONSTITUTION AND STATE GOVERNMENT.               
+  63   94 1 G 25-2-1306   J 34-1-361     SRE       MAY 27, 1856               
+  63   94 2 S341057       Y=11 N=29                HALE, N.H.                 
+  63   94 3 TO POSTPONE THE SPECIAL ORDER CONSIDERING S. 14, A BILL FOR       
+  63   94 4 THE IMPROVEMENT OF THE MOUTH OF THE MISSISSIPPI, IN ORDER         
+  63   94 5 TO CONTINUE CONSIDERATION OF THE RESOLUTION CONCERNING THE        
+  63   94 6 ASSAULT UPON MR. CHAS. SUMNER.                                    
+  64   95 1 G 25-2-1425   J 34-1-383     HJR4      JUNE 19, 1856              
+  64   95 2 S341058       Y=20 N=12                PEARCE, MD.                
+  64   95 3 TO ADOPT H.J.R. 4, A RESOLUTION TO SUPPLY NEW MEMBERS OF THE      
+  64   95 4 SENATE AND THE HOUSE WITH BOOKS OF A PUBLIC CHARACTER AS          
+  64   95 5 HAVE BEEN HERETOFORE SUPPLIED.                                    
+  65   96 1 G 25-2-1438   J 34-1-386     SRE       JUNE 23, 1856              
+  65   96 2 S341059A      Y=20 N=15                FISH, N.Y.                 
+  65   96 3 TO DECIDE WHETHER A LETTER FROM GEORGE SUMNER RELATIVE TO         
+  65   96 4 THE ASSAULT ON CHARLES SUMNER SHALL BE READ.                      
+  66   97 1 G 38-2-1499                  S271      JUNE 27, 1856              
+  66   97 2 S341059B      Y=26 N=5                 ADAMS, MISS.               
+  66   97 3 TO TAKE UP FOR CONSIDERATION S. 271, A BILL AUTHORIZING AN        
+  66   97 4 ADDITIONAL NUMBER OF ARMS FOR THE USE OF CALIFORNIA; NO           
+  66   97 5 QUORUM VOTING.                                                    
+  67   98 1 G 38-2-1512                  S308      JUNE 30, 1856              
+  67   98 2 S341059C      Y=21 N=8                 ADAMS, MISS.               
+  67   98 3 TO ENGROSS S. 308, A BILL FOR THE RELIEF OF JOHN H. SCRANTON      
+  67   98 4 AND JAMES M. HUNT, OWNERS OF THE STEAMER MAJOR TOMPKINS, IN       
+  67   98 5 THE SUM OF $9,600 FOR DAMAGES INCURRED WHILE SAVING               
+  67   98 6 PASSENGERS, U.S. MAIL AND TREASURE STRANDED NEAR PUGET            
+  67   98 7 SOUND FROM THE WRECK OF THE STEAMSHIP SOUTHERNER. NO              
+  67   98 8 QUORUM VOTING.                                                    
+  68   99 1 G 25-2-1518   J 34-1-405A    S308      JULY 1, 1856               
+  68   99 2 S341060       Y=25 N=10                YULEE, FLA.                
+  68   99 3 TO ENGROSS S. 308,(APP. 8/18/1856, 11 STAT. L. 472), A BILL       
+  68   99 4 PROVIDING FOR PAYMENT OF THE CLAIMS OF JOHN H. SCRANTON AND       
+  68   99 5 JAMES M. HUNT OWNERS OF THE STEAMER "MAJOR TOMPKINS".             
+  69  100 1 G 25-2-1519   J 34-1-405B    HR13      JULY 1, 1856               
+  69  100 2 S341061       Y=17 N=24                BENJAMIN, LA.              
+  69  100 3 TO POSTPONE SPECIAL ORDER OF THE DAY.                             
+  70  101 1 G 25-2-1538   J 34-1-407A    HR13      JULY 2, 1856               
+  70  101 2 S341062       Y=23 N=17                JONES, TENN.               
+  70  101 3 TO ORDER THIRD READING OF H.R. 13,                                
+  70  101 4 (APP. 7/14/1856, 11 STAT. L. 452), A BILL GRANTING RIGHT OF       
+  70  101 5 WAY TO ST. LOUIS AND IRON MOUNTAIN RAILROAD THROUGH THE           
+  70  101 6 ARSENAL, MAGAZINE AND JEFFERSON BARRACKS TRACTS.                  
+  71  102 1 G 25-APP-761  J 34-1-407B    S356      JULY 2, 1856               
+  71  102 2 S341063       Y=22 N=15                ADAMS, MISS.               
+  71  102 3 TO AMEND S. 356, A BILL AUTHORIZING THE PEOPLE OF THE             
+  71  102 4 TERRITORY OF KANSAS TO FORM A CONSTITUTION AND STATE              
+  71  102 5 GOVERNMENT PREPARATORY TO THEIR ADMISSION INTO THE UNION,         
+  71  102 6 BY ELIMINATING THE PROVISION THAT THE PEOPLE OF SAID              
+  71  102 7 TERRITORY WHO ARE NOT CITIZENS BUT WHO HAVE FILED THEIR           
+  71  102 8 INTENTION TO BECOME SUCH, ARE ENTITLED TO VOTE; NO QUORUM         
+  71  102 9 VOTING.                                                           
+  72  103 1 G 25-APP-796  J 34-1-408     S356      JULY 2, 1856               
+  72  103 2 S341064       Y=9 N=34                 TRUMBULL, ILL.             
+  72  103 3 TO AMEND S. 356, BY DECLARING FREE ANY SLAVE WHO GOES TO          
+  72  103 4 KANSAS.                                                           
+  73  104 1 G 25-APP-799A J 34-1-409A    S356      JULY 2, 1856               
+  73  104 2 S341065       Y=11 N=34                TRUMBULL, ILL.             
+  73  104 3 TO AMEND S. 356, BY ALLOWING THE PEOPLE OF SAID TERRITORY         
+  73  104 4 TO EXCLUDE SLAVERY OR REGULATE IT THEMSELVES.                     
+  74  105 1 G 25-APP.-799BJ 34-1-409     S356      JULY2, 1856                
+  74  105 2 S341066       Y=11 N=36                TRUMBULL, ILL.             
+  74  105 3 TO AMEND S. 356, BY PROVIDING THAT ALL ACTS AND PROCEEDINGS       
+  74  105 4 OF ANY BODY OF MEN ASSEMBLED IN SAID TERRITORY AND                
+  74  105 5 CLAIMING TO HAVE AUTHORITY TO PASS LAWS BE DECLARED NULL          
+  74  105 6 AND VOID.                                                         
+  75  106 1 G 25-APP-800  J 34-1-410A    S356      JULY 2, 1856               
+  75  106 2 S341067       Y=34 N=11                GEYER, MO.                 
+  75  106 3 TO AMEND AN AMENDMENT TO S. 356, BY PROVIDING THAT NO LAWS        
+  75  106 4 SHALL HAVE EFFECT IN SAID TERRITORY WHICH SHALL REQUIRE A         
+  75  106 5 TEST OATH OR AN OATH TO SUPPORT ANY ACT OF CONGRESS AS A          
+  75  106 6 QUALIFICATION FOR ANY CIVIL SERVICE OFFICE, PUBLIC TRUST,         
+  75  106 7 OR THE RIGHT TO VOTE.                                             
+  76  107 1 G 25-APP-803  J 34-1-410B    S356      JULY 2, 1856               
+  76  107 2 S341068       Y=40 N=3                 GEYER, MO.                 
+  76  107 3 TO PASS AMENDMENT TO S. 356 WHICH PROVIDES THAT NO LAW            
+  76  107 4 SHALL BE MADE OR HAVE FORCE OF EFFECT IN SAID TERRITORY           
+  76  107 5 WHICH SHALL REQUIRE A TEST OATH OR AN OATH TO SUPPORT ANY         
+  76  107 6 ACT OF CONGRESS, OR SHALL IMPOSE A TAX UPON THE RIGHT OF          
+  76  107 7 SUFFRAGE BY ANY QUALIFIED VOTER.                                  
+  77  108 1 G 25-APP-804A J 34-1-411     S356      JULY 2, 1856               
+  77  108 2 S341069       Y=13 N=32                FOSTER, CONN.              
+  77  108 3 TO AMEND S. 356, BY PROVIDING THAT WHILE KANSAS IS A              
+  77  108 4 TERRITORY, THE LAWS TO PUNISH PERSONS STATING THEIR               
+  77  108 5 DISBELIEF IN THE RIGHT TO HOLD SLAVES IN SAID TERRITORY, BY       
+  77  108 6 A TERM OF TWO YEARS IN PRISON AT HARD LABOR, SHALL BE NULL        
+  77  108 7 AND VOID.                                                         
+  78  109 1 G 25-APP-804B J 34-1-412A    S356      JULY 2, 1856               
+  78  109 2 S341070       Y=10 N=35                COLLAMER, VT.              
+  78  109 3 TO AMEND S. 356, BY PROVIDING THAT THERE SHALL BE NEITHER         
+  78  109 4 SLAVERY NOR INVOLUNTARY SERVITUDE IN SAID TERRITORY,              
+  78  109 5  PROVIDED HOWEVER THAT ANY SLAVE ESCAPING INTO THIS               
+  78  109 6 TERRITORY MAY BE RECLAIMED AND CONVEYED BACK TO HIS OWNER.        
+  79  110 1 G 25-APP-804C J 34-1-412B    S356      JULY 2, 1856               
+  79  110 2  S341071      Y=11 N=31                HALE, N.H.                 
+  79  110 3 TO AMEND S. 356, BY CHANGING THE DATE ON WHICH PERSONS MUST       
+  79  110 4 BE RESIDENTS OF KANSAS IN ORDER TO VOTE, FROM 7/4/1856 TO         
+  79  110 5 4/1/1857.                                                         
+  80  111 1 G 25-APP-804D J 34-1-412C    S356      JULY 2, 1856               
+  80  111 2 S341072       Y=8 N=35                 WILSON, MASS.              
+  80  111 3 TO AMEND S. 356, BY ELIMINATING THE ENTIRE BILL AFTER THE         
+  80  111 4 ENACTING CLAUSE AND INSERTING A PROVISION ABROGATING AND          
+  80  111 5 VOIDING ALL ACTS PASSED BY THE LEGISLATURE OF THAT                
+  80  111 6 TERRITORY.                                                        
+  81  112 1 G 25-2-1544   J 34-1-418     S14       JULY 2, 1856               
+  81  112 2 S341073       Y=31 N=12                SLIDELL, LA.               
+  81  112 3 TO PASS S. 14 (PASSED OVER VETO 7/8/1856, 11 STAT. L. 24), A      
+  81  112 4 BILL REMOVING OBSTRUCTIONS TO NAVIGATION AT THE MOUTH OF THE      
+  81  112 5 MISSISSIPPI RIVER AT THE SOUTHWEST PASS AND                       
+  81  112 6 PASS A L' OUTRE.                                                  
+  82  113 1 G 25-APP-805A J 34-1-414A    S356      JULY 2, 1856               
+  82  113 2 S341074       Y=11 N=36                SEWARD, N.Y.               
+  82  113 3 TO AMEND S. 356, BY PRESCRIBING THE BOUNDARIES OF KANSAS          
+  82  113 4 AS A STATE.                                                       
+  83  114 1 G 25-APP-805B J 34-1-414B    S356      JULY 2, 1856               
+  83  114 2 S341075       Y=33 N=12                DOUGLAS, ILL.              
+  83  114 3 TO PASS S. 356.                                                   
+  84  115 1 G 25-2-1550A  J 34-1-419A    S14       JULY 7, 1856               
+  84  115 2 S341077       Y=34 N=7                 MASON, VA.                 
+  84  115 3 TO SUSTAIN THE CHAIR'S DECISION MADE DURING DEBATE OF S. 14       
+  84  115 4 (PASSED OVER VETO 7/8/1856, 11 STAT. L. 24), A BILL               
+  84  115 5 PROVIDING FOR THE REMOVAL OF OBSTRUCTIONS AT THE MOUTH OF         
+  84  115 6 THE MISSISSIPPI, WHICH DECISION HELD THAT IT REQUIRES 2/3RDS      
+  84  115 7 OF THOSE PRESENT AND NOT 2/3RDS OF THE ENTIRE SENATE, TO          
+  84  115 8 PASS SAID BILL OVER THE PRESIDENT'S VETO.                         
+  85  116 1 G 25-2-1550B  J 34-1-419B    S2        JULY 7, 1856               
+  85  116 2 S341078       Y=28 N=10                CASS, MICH.                
+  85  116 3 TO PASS S. 2,(PASSED OVER VETO 7/8/1856, 11 STAT. L. 25), A       
+  85  116 4 BILL MAKING APPROPRIATIONS FOR DEEPENING THE CHANNEL OVER         
+  85  116 5  THE FLATS OF ST. MARYS RIVER IN MICHIGAN.                        
+  86  117 1 G 25-2-1550C  J 34-1-420     S1        JULY 7, 1856               
+  86  117 2 S341079       Y=28 N=8                 CASS, MICH.                
+  86  117 3 TO PASS S. 1, (PASSED OVER VETO 7/8/1856, 11 STAT. L. 25), A      
+  86  117 4 BILL MAKING APPROPRIATIONS FOR DEEPENING THE CHANNEL OVER         
+  86  117 5 THE ST. CLAIR'S FLATS IN MICHIGAN.                                
+  87  118 1 G 25-2-1574A  J 34-1-423     HR411     JULY 8, 1856               
+  87  118 2 S341080       Y=13 N=32                HALE, N.H.                 
+  87  118 3 TO AMEND THE AMENDMENT TO H.R. 411, A BILL AUTHORIZING THE        
+  87  118 4 INHABITANTS OF KANSAS TO FORM A CONSTITUTION AND STATE            
+  87  118 5 GOVERNMENT FOR ADMISSION INTO THE UNION, BY CHANGING THE          
+  87  118 6 DATE ON WHICH PERSONS MUST BE RESIDENTS IN ORDER TO BE            
+  87  118 7 COUNTED, FROM JULY 4, 1856 TO APR. 1, 1857.                       
+  88  119 1 G 25-2-1574B  J 34-1-424B    HR411     JULY 8, 1856               
+  88  119 2 S341081       Y=12 N=32                TRUMBULL, ILL.             
+  88  119 3 TO AMEND AN AMENDMENT TO H.R. 411, BY PROVIDING THAT ALL          
+  88  119 4 ACTS OR PROCEEDINGS OF ANY BODY OF MEN CLAIMING TO BE A           
+  88  119 5 LEGISLATIVE ASSEMBLY IN SAID TERRITORY WITH POWER TO PASS         
+  88  119 6 LAWS, SHALL BE MADE NULL AND VOID.                                
+  89  120 1 G 25-2-1574C  J 34-1-424A    HR411     JULY 8, 1856               
+  89  120 2 S341082       Y=12 N=30                COLLAMER, VT.              
+  89  120 3 TO AMEND AN AMENDMENT TO H.R. 411, BY PROHIBITING SLAVERY         
+  89  120 4 IN THE TERRITORY CEDED BY FRANCE TO THE U.S. CALLED               
+  89  120 5 "LOUISIANA" AND NOT INCLUDED IN THE STATE OF MISSOURI.            
+  90  121 1 G 25-2-1574D  J 34-1-430     HR411     JULY 8, 1856               
+  90  121 2 S341083       Y=32 N=13                DOUGLAS, ILL.              
+  90  121 3 TO AMEND H.R. 411, BY ELIMINATING ALL AFTER THE ENACTING          
+  90  121 4 CLAUSE AND INSERTING NEW SECTIONS TO PROVIDE FOR                  
+  90  121 5 CONFIRMATION OF THE ELECTION FRANCHISE TO CITIZENS OF THE         
+  90  121 6 U.S. AND THOSE ENTITLED TO VOTE IN THE STATE FROM WHICH           
+  90  121 7 THEY CAME.                                                        
+  91  122 1 G 25-2-1574E  J 34-1-431     HR411     JULY 8, 1856               
+  91  122 2 S341084       Y=30 N=13                DOUGLAS, ILL.              
+  91  122 3 TO PASS H.R. 411.                                                 
+  92  123 1 G 25-3-1608   J 34-1-440     S301      JULY 11, 1856              
+  92  123 2 S341085       Y=15 N=23                JAMES, R.I.                
+  92  123 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 301, A BILL          
+  92  123 4 TO EXTEND THE PARENT OF CYRUS H. MCCORMICK ON HIS REAPER.         
+  93  124 1 G 25-3-1622A  J 34-1-446A    S113      JULY 14, 1856              
+  93  124 2 S341086       Y=17 N=23                BAYARD, DEL.               
+  93  124 3 TO AMEND, AS IN COMMITTEE OF THE WHOLE, S. 113, A BILL            
+  93  124 4 PROMOTING EFFICIENCY IN THE NAVY, BY ELIMINATING THE RIGHT        
+  93  124 5 OF A COURT OF INQUIRY TO INVEATIGATE THE MORAL CHARACTER OF       
+  93  124 6 NAVAL OFFICERS.                                                   
+  94  125 1 G 25-3-1622B  J 34-1-446B    S113      JULY 14, 1856              
+  94  125 2 S341087       Y=15 N=28                TOOMBS, GA.                
+  94  125 3 TO AMEND S. 113, BY PROVIDING FOR ELEVATION OF OFFICERS TO        
+  94  125 4 HIGHER RANKS, WHENEVER VACANCIES IN ACTION LIST EXISTS, BY        
+  94  125 5 REGULAR PROMOTION IN ORDER OF RANKS AND SENIORITY.                
+  95  126 1 G 25-3-1624   J 34-1-447     S113      JULY 14, 1856              
+  95  126 2 S341088       Y=17 N=29                HUNTER, VA.                
+  95  126 3 TO AMEND S. 113, BY GRANTING TO OFFICERS ON THE RETIRED           
+  95  126 4 LIST, WHETHER DROPPED OR RETIRED, THE RIGHT TO APPLY FOR          
+  95  126 5 REINSTATEMENT.                                                    
+  96  127 1 G 25-3-1625   J 34-1-447B    S113      JULY 14, 1856              
+  96  127 2 S341089       Y=13 N=26                HALE, N.H.                 
+  96  127 3 TO ADJOURN.                                                       
+  97  128 1 G 25-3-1626A  J 34-1-448A    S113      JULY 14, 1856              
+  97  128 2 S341090       Y=10 N=28                CRITTENDEN, KY.            
+  97  128 3 TO ADJOURN.                                                       
+  98  129 1 G 25-3-1626B  J 34-1-448B    S113      JULY 14, 1856              
+  98  129 2 S341091       Y=20 N=18                CRITTENDEN, KY.            
+  98  129 3 TO ADJOURN.                                                       
+  99  130 1 G 25-3-1632A  J 34-1-450A    HR417     JULY 15, 1856              
+  99  130 2 S341092       Y=18 N=24                CLAY, ALA.                 
+  99  130 3 TO AMEND H.R. 417, (APP. 7/22/1856, 11 STAT. L. 27), A BILL       
+  99  130 4 PROVIDING FOR THE CONSTRUCTION OF A ROAD FROM FORT RIDGELEY,      
+  99  130 5 MINNESOTA, TO THE SOUTH PASS OF THE ROCKIES IN NEBRASKA,          
+  99  130 6 BY ENSTRUCTING THIS WORK TO THE SECRETARY OF WAR IN PLACE         
+  99  130 7 OF THE SECRETARY OF THE INTERIOR.                                 
+ 100  131 1 G 25-3-1632B  J 34-1-150B    HR417     JULY 15, 1856              
+ 100  131 2 S341093       Y=28 N=17                WELLER, CAL.               
+ 100  131 3 TO PASS H.R. 417, (APP. 7/22/1856, 11 STAT. L. 27), A BILL        
+ 100  131 4 FOR THE CONSTRUCTION OF A ROAD FROM FORT RIDGELEY, MINN.,         
+ 100  131 5 TO THE SOUTH PASS OF THE ROCKIES IN NEBRASKA.                     
+ 101  132 1 G 25-3-1636A  J 34-1-451A    S113      JULY 15, 1856              
+ 101  132 2 S341094       Y=10 N=33                IVERSON, GA.               
+ 101  132 3 TO AMEND S. 113, BY ELIMINATING THE PROVISION THAT CAPTAINS       
+ 101  132 4 IN COMMAND OF SQUADRONS SHALL BE DENOMINATED FLAG OFFICERS.       
+ 102  133 1 G 25-3-1636B  J 34-1-451B    S113      JULY 15, 1856              
+ 102  133 2 S341095       Y=16 N=20                IVERSON, GA.               
+ 102  133 3 TO AMEND S. 113, BY A PROVISION THAT THE PRESIDENT BE             
+ 102  133 4 EMPOWERED TO CALL A COURT OF INQUIRY FOR THE PURPOSE OF           
+ 102  133 5 INQUIRING INTO THE CAPACITY OF OFFICERS TO PERFORM THEIR          
+ 102  133 6 DUTIES.                                                           
+ 103  134 1 G 25-3-1636C  J 34-1-451C    S113      JULY 15, 1856              
+ 103  134 2 S341096       Y=18 N=24                BAYARD, DEL.               
+ 103  134 3 TO AMEND S. 113, BY STRIKING OUT THE FIRST SECTION:               
+ 103  134 4 "PHYSICAL, MENTAL, AND PROFESSIONAL, AND MORAL FITNESS OF         
+ 103  134 5 OFFICERS FOR NAVAL SERVICE" AND INSERTING, "THE CAPACITY          
+ 103  134 6 AND FITNESS OF SUCH OFFICERS FOR THE PERFORMANCE OF HIS           
+ 103  134 7 DUTIES"; SO THAT THE LATTER  SHALL BE QUESTIONS FOR THE           
+ 103  134 8 BOARD OF INQUIRY TO DETERMINE.                                    
+ 104  135 1 G 25-3-1637   J 34-1-453     S113      JULY 15, 1856              
+ 104  135 2 S341097       Y=18 N=25                TOOMBS, GA.                
+ 104  135 3 TO AMEND, IN THE NATURE OF A SUBSTITUTE, S. 113, BY               
+ 104  135 4 CREATING A NAVAL BOARD OF INQUIRY TO DETERMINE PHYSICAL AND       
+ 104  135 5 MENTAL FITNESS AND STATUS OF ALL NAVAL OFFICERS, DISRATED         
+ 104  135 6 OR DROPPED PURSUANT TO THE ACT OF 2/28/1855.                      
+ 105  136 1 G 25-3-1638   J 34-1-454     S113      JULY 15, 1856              
+ 105  136 2 S341098       Y=26 N=11                MALLORY, FLA.              
+ 105  136 3 TO PASS S. 113.                                                   
+ 106    6 1               EX J 10-122    SRE       JULY 16, 1856              
+ 106    6 2 E341006       Y=22 N=20                MALLORY, FLA.              
+ 106    6 3 TO PROCEED TO CONSIDERATION OF THE RESOLUTION TO PROMOTE          
+ 106    6 4 GARRETT J. PENDERGAST AND OTHER OFFICERS OF THE NAVY.             
+ 107    7 1               EX J 10-123A   PROC      JULY 16, 1856              
+ 107    7 2 E341007       Y=16 N=22                MASON, VA.                 
+ 107    7 3 TO ADJOURN, DURING DEBATE ON PROMOTION OF                         
+ 107    7 4 GARRETT J. PENDERGAST TO CAPT. IN THE NAVY.                       
+ 108    8 1               EX J 10-123B   PROC      JULY 16, 1856              
+ 108    8 2 E341008       Y=11 N=26                WELLER, CAL.               
+ 108    8 3 TO TABLE THE NOMINATION OF GARRETT J. PENDERGAST AS CAPT.         
+ 108    8 4 IN THE NAVY.                                                      
+ 109    9 1               EX J 10-123C   SRE       JULY 16, 1856              
+ 109    9 2 E341009       Y=29 N=8                 MALLORY, FLA.              
+ 109    9 3 TO CONSENT TO THE APPOINTMENT OF GARRETT J. PENDERGAST AS         
+ 109    9 4 CAPT. IN THE NAVY.                                                
+ 110   10 1               EX J 10-124A   PROC      JULY 16, 1856              
+ 110   10 2 E341010       Y=17 N=21                WELLER, CAL.               
+ 110   10 3 TO ADJOURN, DURING DEBATE ON THE APPOINTMENT OF                   
+ 110   10 4 WILLIAM C. NICHOLSON TO CAPT. IN THE NAVY.                        
+ 111   11 1               EX J 10-124B   PROC      JULY 16, 1856              
+ 111   11 2 E341011       Y=8 N=26                 WELLER, CAL.               
+ 111   11 3 TO TABLE THE NOMINATION OF WILLIAM C. NICHOLSON TO CAPT.          
+ 111   11 4 IN THE NAVY.                                                      
+ 112   12 1               EX J 10-124C   SRE       JULY 17, 1856              
+ 112   12 2 E341012       Y=27 N=7                 MALLORY, FLA.              
+ 112   12 3 TO CONSENT TO THE APPOINTMENT OF JOSEPH B. HULL AS CAPT.          
+ 112   12 4 IN THE NAVY.                                                      
+ 113   13 1               EX J 10-126    SRE       JULY 17, 1856              
+ 113   13 2 E341013       Y=30 N=7                 MALLORY, FLA.              
+ 113   13 3 TO CONSENT TO THE PROMOTION AND APPOINTMENT OF JOHN KELLEY,       
+ 113   13 4 WILLIAM GARDNER, DAVID FARRAGUT, STEPHEN B. WILSON AND 450        
+ 113   13 5 OTHERS IN THE NAVY.                                               
+ 114  137 1 G 25-3-1656   J 34-1-459     S252      JULY 17, 1856              
+ 114  137 2 S341099       Y=18 N=13                BROWN, MISS.               
+ 114  137 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 252, A BILL          
+ 114  137 4 REPEALING SO MUCH OF THE ACT OF 3/3/1855 AS PROVIDES FOR          
+ 114  137 5 THE ERECTION OF AN ARMORY IN THE CITY OF WASHINGTON. NO           
+ 114  137 6 QUORUM VOTING.                                                    
+ 115  138 1 G 25-3-1659   J 34-1-462A    S252      JULY 18, 1856              
+ 115  138 2 S341100       Y=20 N=16                BROWN, MISS.               
+ 115  138 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 252, A BILL          
+ 115  138 4 REPEALING SO MUCH OF THE ACT OF 3/3/1855 AS PROVIDES FOR          
+ 115  138 5 THE ERECTION OF AN ARMORY IN THE CITY OF WASHINGTON.              
+ 116  139 1 G 25-3-1660   J 34-1-462B    HR272     JULY 18, 1856              
+ 116  139 2 S341101       Y=13 N=25                WELLER, CAL.               
+ 116  139 3 TO PASS H.R. 272, A BILL PAYING $1879.06 TO THE HEIRS OF          
+ 116  139 4 COLONEL JOHN HARDIN, THE BALANCE AGREED TO BE DUE ON HIS          
+ 116  139 5 CLAIM BY GENERAL WILKINSON.                                       
+ 117  140 1 G 25-3-1676A  J 34-1-465     S124      JULY 21, 1856              
+ 117  140 2 S341102       Y=27 N=10                WELLER, CAL.               
+ 117  140 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 124, A BILL          
+ 117  140 4 PROVIDING FOR AN APPROPRIATION OF $1,800,000 TO INCREASE          
+ 117  140 5 THE EFFICIENCY OF THE U.S. ARMY.                                  
+ 118  141 1 G 25-3-1676B  J 34-1-466     S54       JULY 21, 1856              
+ 118  141 2 S341103       Y=24 N=8                 FESSENDEN, ME.             
+ 118  141 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 54, A BILL           
+ 118  141 4 APPROPRIATING FUNDS TO REPAIR CERTAIN HARBORS IN MAINE.           
+ 119  142 1 G 25-3-1676C  J 34-1-467A    S36       JULY 21, 1856              
+ 119  142 2 S341104       Y=21 N=12                DODGE, WIS.                
+ 119  142 3 TO PASS S. 36, A BILL MAKING APPROPRIATIONS FOR THE               
+ 119  142 4 CONSTRUCTION OF A HARBOR AT MARQUETTE, ON LAKE SUPERIOR,          
+ 119  142 5 MICHIGAN. (GLOBE READS, TO ORDER ENGROSSMENT AND THIRD            
+ 119  142 6 READING.)                                                         
+ 120  143 1 G 25-3-1676D  J 34-1-467B    S88       JULY 21, 1856              
+ 120  143 2 S341105       Y=23 N=11                DODGE, WIS.                
+ 120  143 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 88, A BILL           
+ 120  143 4 APPROPRIATING $68,780.92 FOR THE CONTINUED IMPROVEMENT OF         
+ 120  143 5 THE HARBOR OF MANITOWOC, WISCONSIN.                               
+ 121  144 1 G 25-3        J 34-1-469     SRE       JULY 22, 1856              
+ 121  144 2 S341106       Y=16 N=20                MASON, VA.                 
+ 121  144 3 TO CONSIDER THE RESOLUTION THAT THE NOTICE GIVEN TO DENMARK       
+ 121  144 4 BY THE PRESIDENT TO TERMINATE THE TREATY RELATING TO SOUND        
+ 121  144 5 DUES, IS SUFFICIENT AND NO LEGISLATION IS NECESSARY.              
+ 122  145 1 G 25-3-1700B  J 34-1-470A    S89       JULY 22, 1856              
+ 122  145 2 S341107       Y=24 N=12                DODGE, WIS.                
+ 122  145 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 89, A BILL           
+ 122  145 4 APPROPRIATING $32,992.45 FOR THE CONTINUED IMPROVEMENT OF         
+ 122  145 5 RACINE HARBOR, WISCONSIN.                                         
+ 123  146 1 G 25-3-1709A  J 34-1-470B    S90       JULY 22, 1856              
+ 123  146 2 S341108       Y=18 N=15                DODGE, WIS.                
+ 123  146 3 TO AMEND S. 90, A BILL MAKING APPROPRIATIONS FOR CONTINUED        
+ 123  146 4 IMPROVEMENT OF THE HARBOR AT KENOSHA, WISCONSIN, BY               
+ 123  146 5 INCREASING THE APPROPRIATION FROM $15,500 TO $31,353.70.          
+ 124  147 1 G 25-3-1709B  J 34-1-471     S90       JULY 22, 1856              
+ 124  147 2 S341109       Y=20 N=13                DODGE, WIS.                
+ 124  147 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 90, A BILL           
+ 124  147 4 PROVIDING FOR THE CONTINUED IMPROVEMENT OF THE HARBOR AT          
+ 124  147 5 KENOSHA, WISCONSIN.                                               
+ 125  148 1 G 25-3-1716   J 34-1-473     SJR30     JULY 23, 1856              
+ 125  148 2 S341110       Y=25 N=10                MALLORY, FLA.              
+ 125  148 3 TO ADOPT S.J.R. 30, (APP. 8/30/1856, 11 STAT. L. 151), A          
+ 125  148 4 RESOLUTION AUTHORIZING CERTAIN NAVAL OFFICERS TO ACCEPT           
+ 125  148 5 MEDALS FROM CERTAIN FOREIGN GOVERNMENTS.                          
+ 126  149 1 G 25-3-1719   J 34-1-474A    S340      JULY 23, 1856              
+ 126  149 2 S341111       Y=28 N=10                WELLER, CAL.               
+ 126  149 3 TO PASS S. 340, A BILL PROVIDING PAYMENT OF THE CLAIM OF          
+ 126  149 4 DAN PRATT FOR $2,114, BEING THE DIFFERENCE IN SALARY DUE          
+ 126  149 5 HIM AS ACTING CHARGE D'AFFAIR AND AS SECRETARY OF THE             
+ 126  149 6 LEGATION IN PARIS.                                                
+ 127  150 1 G 25-3-1723   J 34-1-474B    S90       JULY 23, 1856              
+ 127  150 2 S341112       Y=25 N=11                DODGE, WIS.                
+ 127  150 3 TO PASS S. 90, A BILL MAKING APPROPRIATIONS FOR THE               
+ 127  150 4 CONTINUED IMPROVEMENT OF KENOSHA HARBOR, IN WISCONSIN.            
+ 128  151 1 G 25-3-1728   J 34-1-475     S92       JULY 23, 1856              
+ 128  151 2 S341113       Y=14 N=3                 DODGE, WIS.                
+ 128  151 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 92, A BILL           
+ 128  151 4 MAKING APPROPRIATIONS FOR THE IMPROVEMENT OF MILWAUKEE            
+ 128  151 5 HARBOR. NO QUORUM VOTING.                                         
+ 129  152 1 G 25-3-1743A  J 34-1-477     S92       JULY 24, 1856              
+ 129  152 2 S341114       Y=26 N=10                DODGE, WIS.                
+ 129  152 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 92, A BILL           
+ 129  152 4 MAKING APPROPRIATIONS FOR THE CONTINUED IMPROVEMENT OF            
+ 129  152 5 MILWAUKEE HARBOR.                                                 
+ 130  153 1 G 25-3-1743B  J 34-1-478A    S37       JULY 24, 1856              
+ 130  153 2 S341115       Y=22 N=11                STUART, MICH.              
+ 130  153 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 37, A BILL           
+ 130  153 4 MAKING APPROPRIATIONS OF $50,000 FOR THE CONSTRUCTION OF A        
+ 130  153 5 HARBOR AT THE MOUTH OF THE KALAMAKOO RIVER IN MICHIGAN.           
+ 131  154 1 G 25-3-1744   J 34-1-478B    S38       JULY 24, 1856              
+ 131  154 2 S341116       Y=27 N=5                 WILSON, MASS.              
+ 131  154 3 TO TABLE S. 38, A BILL APPROPRIATING $40,000 FOR THE              
+ 131  154 4 CONSTRUCTION OF A HARBOR AT THE MOUTH OF SOUTH BLACK RIVER,       
+ 131  154 5 MICH., UNTIL THE RETURN OF THE SENATOR FROM MICH.                 
+ 132  155 1 G 25-3-1776A  J 34-1-481     S332      JULY 25, 1856              
+ 132  155 2 S341117       Y=12 N=21                BENJAMIN, LA.              
+ 132  155 3 TO REFER TO THE COMMITTEE OF CLAIMS S. 332, A BILL TO PAY         
+ 132  155 4 CLAIM OF $2,915.18 TO JOHN BRONSON FOR LOSS OF MERCHANDISE        
+ 132  155 5 TO GREAT BRITAIN IN 1813.                                         
+ 133  156 1 G 25-3-1776B  J 34-1-482     PROC      JULY 25, 1856              
+ 133  156 2 S341118       Y=28 N=4                 MALLORY, FLA.              
+ 133  156 3 TO ADJOURN.                                                       
+ 134  157 1 G 25-3-1797   J 34-1-485     S368      JULY 28, 1856              
+ 134  157 2 S341119       Y=28 N=12                MASON, VA.                 
+ 134  157 3 TO CONSIDER S. 368, (APP. 8/18/1856, 11 STAT. L. 52), A           
+ 134  157 4 BILL AMENDING AN ACT TO REMODEL THE CONSULAR AND DIPLOMATIC       
+ 134  157 5 SYSTEM OF THE U.S.                                                
+ 135  158 1 G 25-3-1803   J 34-1-488A    S39       JULY 28, 1856              
+ 135  158 2 S341120       Y=22 N=17                STUART, MICH.              
+ 135  158 3 TO ENGROSS FOR THIRD READING S. 39, A BILL MAKING AN              
+ 135  158 4 APPROPRIATION FOR THE CONSTRUCTION OF A HARBOR AT THE MOUTH       
+ 135  158 5 OF THE GRAND RIVER IN MICHIGAN.                                   
+ 136  159 1 G 25-3-1811A  J 34-1-488B    S40       JULY 28, 1856              
+ 136  159 2 S341121       Y=14 N=24                MASON, VA.                 
+ 136  159 3 TO ADJOURN, WHILE DEBATING S. 40, A BILL MAKING AN                
+ 136  159 4 APPROPRIATION FOR THE CONSTRUCTION OF A HARBOR AT BLACK LAKE      
+ 136  159 5 MICHIGAN.                                                         
+ 137  160 1 G 25-3-1811B  J 34-1-488C    S40       JULY 28, 1856              
+ 137  160 2 S341122       Y=23 N=15                HAMLIN, ME.                
+ 137  160 3 TO ENGROSS FOR THIRD READING S. 40, A BILL MAKING AN              
+ 137  160 4 APPROPRIATION FOR THE CONSTRUCTION OF A HARBOR AT BLACK           
+ 137  160 5 LAKE IN MICHIGAN.                                                 
+ 138  161 1 G 25-3-1820A  J 34-1-492A    S327      JULY 29, 1856              
+ 138  161 2 S341123       Y=14 N=23                COLLAMER, VT.              
+ 138  161 3 TO ENGROSS FOR THIRD READING S. 327, A BILL CONSIDERING THE       
+ 138  161 4 PRACTICABILITY AND USEFULNESS OF THE ATMOSPHERIC TELEGRAPH.       
+ 139  162 1 G 25-3-1820B  J 34-1-492B    HR12      JULY 29, 1856              
+ 139  162 2 S341124       Y=22 N=12                DODGE, WIS.                
+ 139  162 3 TO CONSIDER H.R. 12, (PASSED OVER VETO 8/16/1856,                 
+ 139  162 4 11 STAT L. 51), A BILL APPROPRIATING $200,000 FOR THE             
+ 139  162 5 IMPROVEMENT OF THE DES MOINES RAPIDS ON THE MILLISSIPPI           
+ 139  162 6 RIVER.                                                            
+ 140  163 1 G 25-3-1822   J 34-1-492C    S41       JULY 29, 1856              
+ 140  163 2 S341125       Y=17 N=21                STUART, MICH.              
+ 140  163 3 TO ENGROSS FOR THIRD READING S. 41, A BILL MAKING                 
+ 140  163 4 AN APPROPRIATION OF $40,000 FOR THE CONSTRUCTION OF A HARBOR      
+ 140  163 5 AT NEW BUFFALO, MICHIGAN.                                         
+ 141  164 1 G 25-3-1827A  J 34-1-493A    S42       JULY 29, 1856              
+ 141  164 2 S341126       Y=24 N=17                DODGE, WIS.                
+ 141  164 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 42, A BILL           
+ 141  164 4 MAKING AN APPROPRIATION OF $10,000 FOR THE CONSTRUCTION OF        
+ 141  164 5 A HARBOR AT THE MOUTH OF THE CLINTON RIVER IN MICHIGAN.           
+ 142  165 1 G 25-3-1827B  J 34-1-493B    PROC      JULY 29, 1856              
+ 142  165 2 S341127       Y=15 N=26                MASON, VA.                 
+ 142  165 3 TO PROCEED TO CONSIDERATION OF EXECUTIVE BUSINESS.                
+ 143  166 1 G 25-3-1829A  J 34-1-494A    S43       JULY 29, 1856              
+ 143  166 2 S341128       Y=27 N=14                STUART, MICH.              
+ 143  166 3 TO PASS S. 43, A BILL APPROPRIATING $20,000 FOR THE               
+ 143  166 4 CONSTRUCTION OF A HARBOR AT ST. JOSEPH, MICHIGAN.                 
+ 144  167 1 G 25-3-1829B  J 34-1-494B    SRE       JULY 29, 1856              
+ 144  167 2 S341129       Y=14 N=28                BROWN, MISS.               
+ 144  167 3 TO ADJOURN.                                                       
+ 145  168 1 G 25-3-1829C  J 34-1-494C    S44       JULY 29, 1856              
+ 145  168 2 S341130       Y=26 N=13                DODGE, WIS.                
+ 145  168 3 TO ENGROSS FOR THIRD READING S. 44, A BILL MAKING                 
+ 145  168 4 AN APPROPRIATION OF $10,000 FOR THE CONSTRUCTION OF A             
+ 145  168 5 HARBOR AT MONROE, MICHIGAN.                                       
+ 146  169 1 G 25-3-1835A  J 34-1-497     S146      JULY 30, 1856              
+ 146  169 2 S341131       Y=18 N=17                TRUMBULL, ILL.             
+ 146  169 3 TO CONSIDER S. 146, A BILL PROVIDING FOR COMPENSATION OF          
+ 146  169 4 AGENTS FOR PAYING PENSIONS AND PRESCRIBING THE TIME AND           
+ 146  169 5 MANNER OF SETTLING THEIR ACCOUNTS.                                
+ 147  170 1 G 25-3-1835B  J 34-1-498     PROC      JULY 30, 1856              
+ 147  170 2 S341132       Y=6 N=24                 YULEE, FLA                 
+ 147  170 3 TO ADJOURN, DURING CONSIDERATION OF S. 10, A BILL                 
+ 147  170 4 CONTINUING THE IMPROVEMENTS IN THE HARBOR OF NEWARK, N.J.;        
+ 147  170 5 NO QUORUM VOTING.                                                 
+ 148  171 1 G 25-3-1848A  J 34-1-501     S15       JULY 318 1856              
+ 148  171 2 S341133       Y=28 N=11                WADE, OHIO                 
+ 148  171 3 TO PASS S. 15, A BILL CONTINUING THE IMPROVEMENTS OF THE          
+ 148  171 4 HARBOR AT CONNEANT, OHIO                                          
+ 149  172 1 G 25-3-1848B  J 34-1-502A    S16       JULY 31, 1856              
+ 149  172 2 S341134       Y=24 N=12                WADE, OHIO                 
+ 149  172 3 TO PASS S. 16, A BILL PROVIDING AN APPROPRIATION OF $13,500       
+ 149  172 4 FOR THE CONTINUED IMPROVEMENT OF HURON HARBOR, OHIO.              
+ 150  173 1 G 25-3-1849A  J 34-1-502B    S17       JULY 31, 1856              
+ 150  173 2 S341135       Y=25 N=8                 WADE, OHIO                 
+ 150  173 3 TO PASS S. 17, A BILL APPROPRIATING $13,500 TO CONTINUE THE       
+ 150  173 4 IMPROVEMENT OF THE HARBOR AT ASHTABULA, OHIO.                     
+ 151  174 1 G 25-3-1849B  J 34-1-503     S20       JULY 31, 1856              
+ 151  174 2 S341136       Y=24 N=11                DODGE, WIS.                
+ 151  174 3 TO PASS S. 20, A BILL APPROPRIATING $10,000 TO CONTINUE THE       
+ 151  174 4 IMPROVEMENT OF THE HARBOR AT THE MOUTH OF THE BLACK RIVER,        
+ 151  174 5 OHIO. (GLOBE READS, TO ENGROSS AND ORDER THIRD READING.)          
+ 152  175 1 G 25-3-1849C  J 34-1-504A    S21       JULY 31, 1856              
+ 152  175 2 S341137       Y=23 N=9                 WADE, OHIO                 
+ 152  175 3 TO PASS S. 21, A BILL APPROPRIATING $13,000 FOR THE               
+ 152  175 4 CONTINUED IMPROVEMENT OF THE HARBOR AT FAIRPORT, OHIO.            
+ 153  176 1 G 25-3-1849D  J 34-1-504B    S22       JULY 31, 1856              
+ 153  176 2 S341138       Y=25 N=9                 SEWARD, N.Y.               
+ 153  176 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 22, A BILL           
+ 153  176 4 APPROPRIATING $14,500 FOR THE CONTINUED IMPROVEMENT OF THE        
+ 153  176 5 HARBOR AT THE MOUTH OF OAK ORCHARD CREEK, NEW YORK.               
+ 154  177 1 G 25-3-1849E  J 34-1-504C    S23       JULY 31, 1856              
+ 154  177 2 S341139       Y=27 N=8                 SEWARD, N.Y.               
+ 154  177 3 TO PASS S. 23, A BILL APPROPRIATING $33,000 FOR THE               
+ 154  177 4 CONTINUED IMPROVEMENT OF THE HARBOR AT BUFFALO, NEW YORK.         
+ 155  178 1 G 25-3-1849F  J 34-1-505A    S24       JULY 31, 1856              
+ 155  178 2 S341140       Y=24 N=10                SEWARD, N.Y.               
+ 155  178 3 TO PASS S. 24, A BILL APPROPRIATING $30,000 FOR THE               
+ 155  178 4 CONTINUED IMPROVEMENT OF THE HARBOR AT DUNKIRK, NEW YORK.         
+ 156  179 1 G 25-3-1850A  J 34-1-505B    S25       JULY 31, 1856              
+ 156  179 2 S341141       Y=25 N=10                SEWARD, N.Y.               
+ 156  179 3 TO PASS S. 25, A BILL APPROPRIATING $15,000 FOR THE               
+ 156  179 4 CONTINUED IMPROVEMENT OF THE HARBOR AT SODUS BAY, NEW YORK.       
+ 157  180 1 G 25-3-1850B  J 34-1-506A    S26       JULY 31, 1856              
+ 157  180 2 S341142       Y=24 N=11                SEWARD, N.Y.               
+ 157  180 3 TO PASS S. 26, A BILL APPROPRIATING $10,000 FOR THE               
+ 157  180 4 CONTINUED IMPROVEMENT OF THE HARBOR AT BIG SODUS BAY, WAYNE       
+ 157  180 5 COUNTY, NEW YORK.                                                 
+ 158  181 1 G 25-3-1851A  J 34-1-506B    S27       JULY 31, 1856              
+ 158  181 2 S341143       Y=24 N=8                 SEWARD, N.Y.               
+ 158  181 3 TO PASS S. 27, A BILL APPROPRIATING $21,000 FOR THE               
+ 158  181 4 CONTINUED IMPROVEMENT OF OSWEGO HARBOR, NEW YORK.                 
+ 159  182 1 G 25-3-1851B  J 34-1-507A    S28       JULY 31, 1856              
+ 159  182 2 S341144       Y=23 N=13                SEWARD, N.Y.               
+ 159  182 3 TO PASS S. 28, A BILL APPROPRIATING $7,500 FOR THE                
+ 159  182 4 OPERATION OF A STEAM DREDGE ON LAKE ONTARIO, NEW YORK.            
+ 160  183 1 G 25-3-1852A  J 34-1-507B    S29       JULY 31, 1856              
+ 160  183 2 S341145       Y=16 N=22                CLAY, ALA.                 
+ 160  183 3 TO AMEND S. 29, A BILL APPROPRIATING $36,000 FOR THE              
+ 160  183 4 CONTINUATION AND COMPLETION OF THE HARBOR AT BURLINGTON ON        
+ 160  183 5 LAKE CHAMPLAIN, BY REDUCING THE APPROPRIATION TO $15,202.88       
+ 161  184 1 G 25-3-1852B  J 34-1-508A    S29       JULY 31, 1856              
+ 161  184 2 S341146       Y=26 N=14                FOOT, VT.                  
+ 161  184 3 TO ENGROSS FOR THIRD READING S. 29, A BILL APPROPRIATING          
+ 161  184 4 $36,000 FOR THE CONTINUATION AND COMPLETION OF THE HARBOR         
+ 161  184 5 AT BURLINGTON ON LAKE CHAMPLAIN.                                  
+ 162  185 1 G 25-3-1854   J 34-1-508     S52       JULY 31, 1856              
+ 162  185 2 S341147       Y=27 N=12                GEYER, MO.                 
+ 162  185 3 TO PASS S. 52, A BILL APPROPRIATING $40,000 FOR CONTINUING        
+ 162  185 4 THE IMPROVEMENT OF THE MISSOURI RIVER.                            
+ 163  186 1 G 25-3-1855   J 34-1-509     S69       JULY 31, 1856              
+ 163  186 2 S341148       Y=22 N=11                SEBASTIAN, ARK.            
+ 163  186 3 TO PASS S. 69, A BILL APPROPRIATING $40,000 FOR THE               
+ 163  186 4 CONTINUED IMPROVEMENT OF THE ARKANSAS RIVER.                      
+ 164  187 1 G 25-3-1856A  J 34-1-510A    S95       JULY 31, 1856              
+ 164  187 2 S341149       Y=21 N=11                BAYARD, DEL.               
+ 164  187 3 TO PASS S. 95, A BILL PROVIDING AN APPROPRIATION OF $30,000       
+ 164  187 4 TO CONTINUE CONSTRUCTION ON THE HARBOR AT REEDY ISLAND, DEL.      
+ 165  188 1 G 25-3-1856B  J 34-1-510B    PROC      JULY 31, 1856              
+ 165  188 2 S341150       Y=19 N=14                CRITTENDEN, KY.            
+ 165  188 3 TO ADJOURN.                                                       
+ 166  189 1 G 25-3-1904   J 34-1-517A    S66       AUG. 4, 1856               
+ 166  189 2 S341151       Y=26 N=12                SUMNER, MASS.              
+ 166  189 3 TO PASS S. 66, A BILL APPROPRIATING $90,000 TO CONTINUE           
+ 166  189 4 PUBLIC WORK IN MASSACHUSETTS AND TO PRESERVE THE HARBOR ON        
+ 166  189 5 ITS COAST.                                                        
+ 167  190 1 G 25-3-1909   J 34-1-517B    S71       AUG. 4, 1856               
+ 167  190 2 S341152       Y=25 N=12                GEYER, MO.                 
+ 167  190 3 TO PASS S. 71, A BILL APPROPRIATING $100,000 FOR THE              
+ 167  190 4 IMPROVEMENT OF THE MISSISSIPPI RIVER BELOW DES MOINES             
+ 167  190 5 RAPIDS.                                                           
+ 168  191 1 G 25-3-1910A  J 34-1-518A    S71       AUG. 4, 1856               
+ 168  191 2 S341153       Y=12 N=21                JONES, IOWA                
+ 168  191 3 TO AMEND S. 71, A BILL APPROPRIATING $200,000 TO CONTINUE         
+ 168  191 4 THE IMPROVEMENT OF DES MOINES AND ROCK RIVER RAPIDS IN THE        
+ 168  191 5 MISSISSIPPI RIVER, BY REDUCING THE APPROPRIATION TO               
+ 168  191 6 $100,000.                                                         
+ 169  192 1 G 25-3-1910B  J 34-1-518B    S71       AUG. 4, 1856               
+ 169  192 2 S341154       Y=21 N=12                JONES, IOWA                
+ 169  192 3 TO PASS S. 71, A BILL AS AMENDED APPROPRIATING $50,000 TO         
+ 169  192 4 CONTINUE THE IMPROVEMENT OF THE ROCK RIVER RAPIDS IN THE          
+ 169  192 5 MISSISSIPPI RIVER.                                                
+ 170  193 1 G 25-3-1911A  J 34-1-519A    S148      AUG. 4, 1856               
+ 170  193 2 S341155       Y=21 N=13                BELL, TENN.                
+ 170  193 3 TO PASS S. 148, A BILL AS AMENDED, APPROPRIATING $50,000          
+ 170  193 4 FOR THE CONTINUED IMPROVEMENT OF THE TENNESSEE RIVER.             
+ 171  194 1 G 25-3-1911B  J 34-1-519B    S128      AUG. 4, 1856               
+ 171  194 2 S341156       Y=18 N=14                HOUSTON, TEX.              
+ 171  194 3 TO ADJOURN, DURING DEBATE ON S. 128, A BILL PROVIDING FOR         
+ 171  194 4 THE IMPROVEMENT OF THE HARBOR OF DUBUQUE, IOWA.                   
+ 172  195 1 G 25-3-1931   J 34-1-523     HR153     AUG. 5, 1856               
+ 172  195 2 S341157       Y=18 N=26                HUNTER, VA.                
+ 172  195 3 TO POSTPONE ALL PRIOR ORDERS AND TAKE UP CONSIDERATION OF         
+ 172  195 4 H.R. 153, (APP. 8/30/1856, 11 STAT. L. 147), A BILL MAKING        
+ 172  195 5 APPROPRIATIONS FOR THE SUPPORT OF THE ARMY FOR 1857.              
+ 173  196 1 G 25-3-1932   J 34-1-524A    S128      AUG. 5, 1856               
+ 173  196 2 S341158       Y=15 N=20                CLAY, ALA.                 
+ 173  196 3 TO AMEND S. 128, A BILL APPROPRIATING FOR THE IMPROVEMENT         
+ 173  196 4 OF THE HARBOR AT DUBUQUE, IOWA, BY PROVIDING THAT THIS            
+ 173  196 5 IMPROVEMENT SHALL BE TO THE LANDING INSTEAD OF TO THE             
+ 173  196 6 HARBOR.                                                           
+ 174  197 1 G 25-3-1934   J 34-1-524B    S128      AUG. 5, 1856               
+ 174  197 2 S341159       Y=12 N=28                JONES, IOWA                
+ 174  197 3 TO PASS S. 128, A BILL APPROPRIATING FOR THE HARBOR AT            
+ 174  197 4 DUBUQUE, IOWA.                                                    
+ 175  198 1 G 25-3-1935   J 34-1-525A    S153      AUG. 5, 1856               
+ 175  198 2 S341160       Y=25 N=15                STUART, MICH.              
+ 175  198 3 TO PASS S. 153, A BILL APPROPRIATING $19,000 FOR THE              
+ 175  198 4 CONTINUED IMPROVEMENT OF THE HARBOR AT MICHIGAN CITY, IND.        
+ 176  199 1 G 25-3-1941A  J 34-1-525B    S132      AUG. 5, 1856               
+ 176  199 2 S341161       Y=11 N=30                BROWN, MISS.               
+ 176  199 3 TO AMEND S. 132, A BILL PROVIDING FOR THE IMPROVEMENT OF          
+ 176  199 4 THE NAVIGATION OF THE OHIO RIVER, BY PROVIDING THAT INTEREST      
+ 176  199 5 AT 6% ON THE STOCK OF THE LOUISVILLE AND PORTLAND CANAL HELD      
+ 176  199 6 BY THE GOVERNMENT BE ADDED TO THE ITEMS WHICH ARE TO BE           
+ 176  199 7 PAID FROM THE TOLLS COLLECTED FOR THE USE OF SAID CANAL.          
+ 177  200 1 G 25-3-1941B  J 34-1-526A    S132      AUG. 5, 1856               
+ 177  200 2 S341162       Y=30 N=10                BRODHEAD, PA.              
+ 177  200 3 TO PASS S. 132, A BILL PROVIDING FOR THE IMPROVEMENT OF THE       
+ 177  200 4 NAVIGATION OF THE OHIO RIVER.                                     
+ 178  201 1 G 25-3-1943A  J 34-1-526B    PROC      AUG. 5, 1856               
+ 178  201 2 S341163       Y=12 N=21                BUTTER                     
+ 178  201 3 TO ADJOURN.                                                       
+ 179  202 1 G 25-3-1943B  J 34-1-527A    S166      AUG. 5, 1856               
+ 179  202 2 S341164A      Y=16 N=17                TRUMBULL, ILL.             
+ 179  202 3 TO PASS S. 166, A BILL FOR CONTINUING THE IMPROVEMENT ON          
+ 179  202 4 THE HARBOR AT WAUKEGAN, ILLINOIS.                                 
+ 180  203 1 G 25-3-1943C  J 34-1-527B    S173      AUG. 5, 1856               
+ 180  203 2 S341164B      Y=18 N=12                MALLORY, FLA.              
+ 180  203 3 TO PASS S. 173, A BILL MAKING AN APPROPRIATION OF $32,000         
+ 180  203 4 FOR THE IMPROVEMENT OF THE HARBOR AT APPALACHIEALA, FLA.          
+ 181  204 1 G 25-3-1952   J 34-1-530A    HR154     AUG. 6, 1856               
+ 181  204 2 S341165       Y=23 N=19                EVANS, S.C.                
+ 181  204 3 TO TAKE UP CONSIDERATION OF H.R. 154, A BILL PROVIDING FOR        
+ 181  204 4 THE SETTLEMENT OF THE CLAIMS OF OFFICERS IN THE                   
+ 181  204 5 REVOLUTIONARY ARMY AND THE WIDOWS AND ORPHANS OF THOSE WHO        
+ 181  204 6 DIED IN SERVICE.                                                  
+ 182  205 1 G 25-3-1954A  J 34-1-530B    HR153     AUG. 6, 1856               
+ 182  205 2 S341166       Y=21 N=24                HUNTER, VA.                
+ 182  205 3 TO POSTPONE ALL PRIOR ORDERS IN ORDER TO TAKE UP H.R. 153,        
+ 182  205 4 (APP. 8/30/1856, 11 STAT. L. 147), A BILL MAKING                  
+ 182  205 5 APPROPRIATIONS FOR THE SUPPORT OF THE ARMY FOR 1857.              
+ 183  206 1 G 25-3-1954B  J 34-1-531A    S173      AUG. 6, 1856               
+ 183  206 2 S341167       Y=27 N=16                MALLORY, FLA.              
+ 183  206 3 TO PASS S. 173, A BILL PROVIDING AN APPROPRIATION OF              
+ 183  206 4 $32,000 FOR THE IMPROVEMENT OF THE HARBOR OF APPALACHIEALA,       
+ 183  206 5 FLORIDA.                                                          
+ 184  207 1 G 25-3-1955   J 34-1-531B    S174      AUG. 6, 1856               
+ 184  207 2 S341168       Y=27 N=14                BELL, TENN.                
+ 184  207 3 TO PASS S. 174, A BILL PROVIDING AN APPROPRIATION OF              
+ 184  207 4 $50,000 FOR THE IMPROVEMENT OF THE HARBOR OF CHARLESTON,          
+ 184  207 5 SOUTH CAROLINA.                                                   
+ 185  208 1 G 25-3-1958A  J 34-1-532     S164      AUG. 6, 1856               
+ 185  208 2 S341169       Y=23 N=15                TRUMBULL, ILL.             
+ 185  208 3 TO PASS S. 164, A BILL PROVIDING AN APPROPRIATION OF              
+ 185  208 4 $20,000 TO CONTINUE THE IMPROVEMENT OF THE ILLINOIS RIVER.        
+ 186  209 1 G 25-3-1958B  J 34-1-533A    S70       AUG. 6, 1856               
+ 186  209 2 S341170       Y=27 N=9                 SEBASTIAN, ARK.            
+ 186  209 3 TO PASS S. 70, A BILL PROVIDING AN APPROPRIATION OF $100,000      
+ 186  209 4 FOR THE CONTINUANCE AND COMPLETION OF THE IMPROVEMENT OF          
+ 186  209 5 THE RED RIVER AT AND AROUND THE RAFT.                             
+ 187  210 1 G 25-3-1958C  J 34-1-533B    S231      AUG. 6, 1856               
+ 187  210 2 S341171       Y=16 N=19                SUMNER, MASS.              
+ 187  210 3 TO PASS S. 231, A BILL PROVIDING A $20,000 APPROPRIATION FOR      
+ 187  210 4 THE IMPROVEMENT OF THE TAUNTON RIVER BELOW TAUNTON, MASS.         
+ 188  211 1 G 25-3-1964   J 34-1-534     S227      AUG. 6, 1856               
+ 188  211 2 S341172       Y=24 N=9                 REID, N.C.                 
+ 188  211 3 TO PASS S. 227, A BILL APPROPRIATING $140,000 FOR IMPROVING       
+ 188  211 4 THE CAPE FEAR RIVER, NORTH CAROLINA.                              
+ 189  212 1 G 25-3-1966   J 34-1-538     S423      AUG. 6, 1856               
+ 189  212 2 S341173       Y=10 N=7                 FITZPATRICK, ALA.          
+ 189  212 3 TO ADJOURN, IN ORDER TO END DEBATE ON S. 423, A BILL              
+ 189  212 4 ALLOWING THE WIDOW OF GENERAL THOMAS L. HAMER FIVE YEARS          
+ 189  212 5 HALF PAY.                                                         
+ 190  213 1 G 25-3-1969A  J 34-1-543A    HR153     AUG. 7, 1856               
+ 190  213 2 S341174       Y=35 N=4                 HUNTER, VA.                
+ 190  213 3 TO POSTPONE ALL PRIOR ORDERS TO CONSIDER H.R. 153,                
+ 190  213 4 (APP. 8/30/1856, 11 STAT. L. 147), A BILL MAKING                  
+ 190  213 5 APPROPRIATIONS FOR THE SUPPORT OF THE ARMY FOR 1857.              
+ 191  214 1 G 25-3-1969B  J 34-1-543B    HR153     AUG. 7, 1856               
+ 191  214 2 S341175       Y=13 N=28                FESSENDEN, ME.             
+ 191  214 3 TO AMEND H.R. 153 BY PROVIDING FOR THE RECALL OF GOVERNMENT       
+ 191  214 4 ARMS HERETOFORE DISTRIBUTED TO THE MILITIA AND PEOPLE OF          
+ 191  214 5 THE TERRITORY OF KANSAS, INSTEAD OF PROVIDING TO DISARM           
+ 191  214 6 THE PRESENT ORGANIZED MILITIA AND RECALLING SUCH ARMS             
+ 191  214 7 FROM THE PEOPLE.                                                  
+ 192  215 1 G 25-3-1969C  J 34-1-544A    HR153     AUG. 7, 1856               
+ 192  215 2 S341176       Y=29 N=9                 HUNTER, VA.                
+ 192  215 3 TO AMEND H.R. 153 BY ELIMINATING THE PROVISION PROVIDING          
+ 192  215 4 THAT NO PART OF THE MILITARY FORCE BE EMPLOYED IN ENFORCING       
+ 192  215 5 ENACTMENTS OF ALLEGED LEGISLATIVE ASSEMBLY OF THE TERRITORY       
+ 192  215 6 OF KANSAS, DISARMING PRESENT ORGANIZED MILITIA, AND               
+ 192  215 7 RECALLING ALL ARMS DISTRIBUTED THERE BY THE GOVERNMENT.           
+ 193  216 1 G 25-3-1969D  J 34-1-544B    HR153     AUG. 7, 1856               
+ 193  216 2 S341177       Y=27 N=8                 HUNTER, VA.                
+ 193  216 3 TO PASS H.R. 153.                                                 
+ 194  217 1 G 25-3-1979   J 34-1-545     HR553     AUG. 8, 1856               
+ 194  217 2 S341178       Y=22 N=11                BROWN, MISS.               
+ 194  217 3 TO PASS H.R. 553, (APP. 8/7/1856, 11 STAT. L. 30), A BILL         
+ 194  217 4 GRANTING PUBLIC LANDS IN ALTERNATE SECTIONS TO THE STATE OF       
+ 194  217 5 MISSISSIPPI TO AID IN THE CONSTRUCTION OF RAILROADS.              
+ 195  218 1 G 25-3-1984A  J 34-1-548A    SRE       AUG. 8, 1856               
+ 195  218 2 S341179       Y=17 N=17                SEBASTIAN, ARK.            
+ 195  218 3 TO RECOMMIT TO THE COMMITTEE ON INDIAN AFFAIRS ITS                
+ 195  218 4 UNFAVORABLE REPORT REGARDING THE CLAIM OF                         
+ 195  218 5 RICHARD W. THOMPSON FOR SERVICE RENDERED TO THE MENOMONEE         
+ 195  218 6 INDIANS, WITH INSTRUCTIONS TO REPORT AN AMENDMENT TO THE          
+ 195  218 7 GENERAL APPROPRIATION BILL FIXING REASONABLE COMPENSATION         
+ 195  218 8 FOR SUCH SERVICES WITH ASSENT OF MENOMONEE INDIANS.               
+ 196  219 1 G 25-3-1984B  J 34-1-548B    SRE       AUG. 8, 1856               
+ 196  219 2 S341180A      Y=18 N=16                TOOMBS, GA.                
+ 196  219 3 TO AGREE TO THE REPORT OF THE COMMITTEE ON INDIAN AFFAIRS         
+ 196  219 4 THAT RICHARD W. THOMPSON BE PAID APPROXOMATELY $40,000,           
+ 196  219 5 APPROPRIATED BY THE 27TH SECTION OF THE CIVIL AND                 
+ 196  219 6 DIPLOMATIC ACT (APP. 3/3/1855), FOR SERVICES IN DEALING           
+ 196  219 7 WITH MENOMONEE INDIANS.                                           
+ 197  220 1 G   -3-1984   J 34-1-549     S186      AUG. 8, 1856               
+ 197  220 2 S341180B      Y=20 N=8                 WELLER, CAL.               
+ 197  220 3 TO CONSIDER S. 186, A BILL TO AUTHORIZE AND FACILITATE            
+ 197  220 4 CONSTRUCTION OF A RAILROAD AND MAGNETIC TELEGRAPH THROUGH         
+ 197  220 5 THE TERRITORIES OF THE U.S.; NO QUORUM VOTING.                    
+ 198   14 1               EX J 10-139    PROC      AUG. 9, 1856               
+ 198   14 2 E341014       Y=20 N=14                MASON, VA.                 
+ 198   14 3 TO AGREE TO RATIFICATION OF THE TREATY BETWEEN THE U.S. AND       
+ 198   14 4 THE KING OF "TWO SICILIES," CONCLUDED AT NAPLES, 10/1/1855.       
+ 199  221 1 G 25-3-2019   J 34-1-554     HR75      AUG. 11, 1856              
+ 199  221 2 S341181       Y=35 N=12                DOUGLAS, ILL.              
+ 199  221 3 TO TABLE H.R. 75, A BILL REORGANIZING THE TERRITORY OF            
+ 199  221 4 KANSAS.                                                           
+ 200  222 1 G 25-3-2020A  J 34-1-557     SRE       AUG. 11, 1856              
+ 200  222 2 S341182       Y=29 N=14                BIGLER, PA.                
+ 200  222 3 TO CONSIDER THE RESOLUTION REQUESTING THE PRESIDENT TO            
+ 200  222 4 SEND TO THE SENATE COPIES OF THE LETTERS AND VOUCHERS             
+ 200  222 5 FILED IN THE VARIOUS DEPARTMENTS IN SUPPORT OF THE CLAIM OF       
+ 200  222 6 JOHN C. FREMONT.                                                  
+ 201  223 1 G 25-3-2020B  J 34-1-558A    SRE       AUG. 11, 1856              
+ 201  223 2 S341183       Y=22 N=24                WELLER, CAL.               
+ 201  223 3 TO POSTPONE UNTIL THE NEXT DAY THE RESOLUTION REQUESTING          
+ 201  223 4 THE PRESIDENT TO SEND TO THE SENATE COPIES OF THE LETTERS         
+ 201  223 5 AND VOUCHERS SUBMITTED IN SUPPORT OF THE CLAIM OF                 
+ 201  223 6 JOHN C. FREMONT, IN ORDER TO TAKE UP S. 186.                      
+ 202  224 1 G 25-3-2023A  J 34-1-558B    SRE       AUG. 11, 1856              
+ 202  224 2 S341184       Y=9 N=34                 TRUMBULL, ILL.             
+ 202  224 3 TO AMEND THE RESOLUTION CONCERNING COLONEL FREMONT'S              
+ 202  224 4 ACCOUNTS, BY REQUESTING THE PRESIDENT TO SEND THE SENATE          
+ 202  224 5 INFORMATION REGARDING ALL TRANSACTIONS OF JAMES BUCHANAN AS       
+ 202  224 6 AN OFFICER OF THE GOVERNMENT AND MONIES PAID TO HIM.              
+ 203  225 1 G 25-3-2023B  J 34-1-560A    S186      AUG. 11, 1856              
+ 203  225 2 S341185       Y=17 N=24                WELLER, CAL.               
+ 203  225 3 TO POSTPONE ALL PRIOR ORDERS IN ORDER TO TAKE UP S. 186,          
+ 203  225 4 A BILL AUTHORIZING AND FACILITATING THE CONSTRUCTION OF A         
+ 203  225 5 RAILROAD AND MAGNETIC TELEGRAPH THROUGH U.S. TERRITORIES.         
+ 204  226 1 G 25-3-2024   J 34-1-560B    HR202     AUG. 11, 1856              
+ 204  226 2 S341186       Y=30 N=11                HUNTER, VA.                
+ 204  226 3 TO AMEND H.R. 202 (APP. 8/18/1856, 11 STAT. L. 102), A BILL       
+ 204  226 4 MAKING APPROPRIATIONS FOR THE EXPENSES OF THE LEGISLATIVE,        
+ 204  226 5 EXECUTIVE AND JUDICIAL DEPARTMENTS OF THE GOVERNMENT FOR          
+ 204  226 6 1856, BY ELIMINATING THE PROVISION THAT NO MONEY BE PAID          
+ 204  226 7 OUT OF ANY APPROPRIATION UNTIL ALL PENDING CRIMINAL               
+ 204  226 8 PROSECUTIONS IN THE TERRITORY OF KANSAS AGAINST PERSONS           
+ 204  226 9 CHARGED WITH TREASON SHALL BE DISMISSED.                          
+ 205  227 1 G 25-3-2025A  J 34-1-561A    HR202     AUG. 11, 1856              
+ 205  227 2 S341187       Y=30 N=12                HUNTER, VA.                
+ 205  227 3 TO AMEND H.R. 202, BY PROVIDING $20,000 FOR COMPENSATION          
+ 205  227 4 AND MILEAGE AND CONTINGENT EXPENSES OF THE MEMBERS OF THE         
+ 205  227 5 KANSAS LEGISLATIVE ASSEMBLY OFFICERS AND CLERKS.                  
+ 206  228 1 G 25-3-2025B  J 34-1-561B    HR202     AUG. 11, 1856              
+ 206  228 2 S341188       Y=30 N=11                HUNTER, VA.                
+ 206  228 3 TO AMEND H.R. 202, BY ELIMINATING THE PROVISION FORBIDDING        
+ 206  228 4 EXPENDITURES FOR PROSECUTING OR DETAINING PERSONS CHARGED         
+ 206  228 5 WITH TREASON OR OTHER POLITICAL OFFENSES IN THE TERRITORY         
+ 206  228 6 OF KANSAS, FOR ANY PROSECUTIONS PREVIOUSLY INSTITUTED             
+ 206  228 7 FOR POLITICAL OFFENSES.                                           
+ 207  229 1 G 25-3-2027   J 34-1-561C    HR202     AUG. 11, 1856              
+ 207  229 2 S341189       Y=5 N=33                 HALE, N.H.                 
+ 207  229 3 TO AMEND H.R. 202, BY ELIMINATING THE SALARY OF THE JUDGE         
+ 207  229 4 OF THE CRIMINAL COURT IN THE DISTRICT OF COLUMBIA.                
+ 208  230 1 G 25-3-2029   J 34-1-562     HR202     AUG. 11, 1856              
+ 208  230 2 S341190       Y=5 N=34                 SLIDELL, LA.               
+ 208  230 3 TO AMEND H.R. 202, BY PROVIDING TO PAY PETER PARKER, LATE         
+ 208  230 4 ACTING CHARGE D' AFFAIRS AT CANTON, CHINA, $2,610.04, THE         
+ 208  230 5 DIFFERENCE BETWEEN HIS SALARY AS SECRETARY AND AS                 
+ 208  230 6 CHARGE D' AFFAIRS.                                                
+ 209  231 1 G 25-3-2032A  J 34-1-563A    HR202     AUG. 11, 1856              
+ 209  231 2 S341191       Y=32 N=2                 BAYARD, DEL.               
+ 209  231 3 TO AMEND H.R. 202, BY ELIMINATING AN APPROPRIATION OF             
+ 209  231 4 $182,765.85, FOR PROVIDING BOOKS FOR MEMBERS OF THE HOUSE.        
+ 210  232 1 G 25-3-2032B  J 34-1-563B    HR202     AUG. 11, 1856              
+ 210  232 2 S341192       Y=13 N=19                SEWARD, N.Y.               
+ 210  232 3 ON CONCURRING IN AMENDMENT TO H.R. 202 WHICH AMENDMENT IS,        
+ 210  232 4 TO PAY $1,500 ADDITIONAL SALARY TO JOHN HOSFORD SMITH, LATE       
+ 210  232 5 CONSUL AT BEIRUT.                                                 
+ 211  233 1 G 25-3-2032C  J 34-1-563C    HR202     AUG. 11, 1856              
+ 211  233 2 S341193       Y=17 N=17                WELLER, CAL.               
+ 211  233 3 TO AMEND H.R. 202, BY INCREASING THE SALARY OF THE JUDGE OF       
+ 211  233 4 THE SOUTHERN DISTRICT OF CALIFORNIA FROM $4,000 TO $4,500.        
+ 212  234 1 G 25-3-2032D  J 34-1-564A    HR202     AUG. 11, 1856              
+ 212  234 2 S341194       Y=21 N=13                TOOMBS, GA.                
+ 212  234 3 TO AMEND H.R. 202 BY INCREASING THE SALARY OF THE CHIEF           
+ 212  234 4 JUSTICE OF THE CIRCUIT COURT FOR THE DISTRICT OF COLUMBIA         
+ 212  234 5 FROM $2,750 TO $3,750, AND RAISING SALARIES OF OTHER D.C.         
+ 212  234 6 JUDGES.                                                           
+ 213  235 1 G 25-3-2033   J 34-1-564B    HR202     AUG. 11, 1856              
+ 213  235 2 S341195       Y=17 N=16                REID, N.C.                 
+ 213  235 3 TO RECONSIDER THE VOTE REJECTING THE AMENDMENT TO H.R. 202,       
+ 213  235 4 WHICH AMENDMENT SOUGHT TO INCREASE THE SALARY OF THE              
+ 213  235 5 JUDGES OF THE SOUTHERN DISTRICT OF CALIFORNIA FROM $4,000         
+ 213  235 6 TO $4,500.                                                        
+ 214  236 1 G 25-3-2034A  J 34-1-564C    HR202     AUG. 11, 1856              
+ 214  236 2 S341196       Y=14 N=18                WELLER, CAL.               
+ 214  236 3 TO AMEND H.R. 202 BY INCREASING THE SALARY OF THE JUDGE OF        
+ 214  236 4 THE SOUTHERN DISTRICT OF CALIFORNIA FROM $4,000 TO $4,500         
+ 214  236 5 PER YEAR.                                                         
+ 215  237 1 G 25-3-2034B  J 34-1-565     HR202     AUG. 11, 1856              
+ 215  237 2 S341197       Y=24 N=7                 HUNTER, VA.                
+ 215  237 3 TO PASS H.R. 202; NO QUORUM VOTING.                               
+ 216  238 1 G 25-3-2049   J 34-1-566     HR202     AUG. 12, 1856              
+ 216  238 2 S341198       Y=35 N=12                HUNTER, VA.                
+ 216  238 3 TO PASS H.R. 202.                                                 
+ 217  239 1 G 25-3-2052   J 34-1-568     S414      AUG. 12, 1856              
+ 217  239 2 S341199       Y=26 N=20                STUART, MICH.              
+ 217  239 3 TO PASS S. 414, A BILL PROVIDING FOR EXTENDING FOR 7 YEARS        
+ 217  239 4 THE PATENT TO NATHANIEL HAYWOOD FOR A METHOD OF PREPARING         
+ 217  239 5 RUBBER.                                                           
+ 218  240 1 G 25-3-2056A  J 34-1-569A    S81       AUG. 12, 1856              
+ 218  240 2 S341200       Y=21 N=20                FITZPATRICK, ALA.          
+ 218  240 3 TO PASS S. 81, A BILL PROVIDING FOR THE EXAMINATION AND           
+ 218  240 4 PAYMENT OF CLAIMS OF THE CITIZENS OF GEORGIA AND ALABAMA          
+ 218  240 5 FOR DEPREDATIONS COMMITTED BY CREEK INDIANS.                      
+ 219  241 1 G 25-3-2056B  J 34-1-569B    S186      AUG. 12, 1856              
+ 219  241 2 S341201       Y=24 N=21                WELLER, CAL.               
+ 219  241 3 TO CONSIDER S. 186, A BILL AUTHORIZING AND FACILITATING           
+ 219  241 4 THE CONSTRUCTION OF A RAILROAD AND MAGNETIC TELEGRAPH             
+ 219  241 5 THROUGH THE TERRITORIES OF THE U.S. FROM THE MISSISSIPPI          
+ 219  241 6 RIVER TO THE PACIFIC OCEAN.                                       
+ 220  242 1 G 25-3-2056C  J 34-1-570     S186      AUG. 12, 1856              
+ 220  242 2 S341202       Y=25 N=23                HUNTER, VA.                
+ 220  242 3 TO TABLE S. 186, A BILL AUTHORIZING AND FACILITATING THE          
+ 220  242 4 CONSTRUCTION OF A RAILROAD AND MAGNETIC TELEGRAPH THROUGH         
+ 220  242 5 U.S. TERRITORIES.                                                 
+ 221  243 1 G 25-3-2062A  J 34-1-571     HR189     AUG. 12, 1856              
+ 221  243 2 S341204       Y=6 N=36                 CLAY, ALA.                 
+ 221  243 3 TO AMEND AN AMENDMENT TO H.R. 189                                 
+ 221  243 4 (APP. 8/16/1856, 11 STAT. L. 44), A BILL MAKING                   
+ 221  243 5 APPROPRIATIONS FOR THE NAVAL SERVICE FOR 1857, BY SETTING         
+ 221  243 6 SALARIES FOR OFFICERS AND SEAMEN OF THE JAPAN EXPEDITION          
+ 221  243 7 UNDER COMMODORE PERRY.                                            
+ 222  244 1 G 25-3-2062B  J 34-1-572A    HR189     AUG. 12, 1856              
+ 222  244 2 S341205       Y=10 N=31                MALLORY, FLA.              
+ 222  244 3 TO AMEND H.R. 189 BY SETTING SALARIES FOR OFFICERS AND            
+ 222  244 4 SEAMEN OF THE LATE EXPEDITION TO THE CHINA SEA, BEHRING           
+ 222  244 5 STRAIT AND THE LA PLATA RIVER.                                    
+ 223  245 1 G 25-3-2063   J 34-1-572B    HR189     AUG. 12, 1856              
+ 223  245 2 S341206       Y=12 N=27                WELLER, CAL.               
+ 223  245 3 TO AMEND H.R. 189 BY INCREASING THE SALRY OF THE NAVAL            
+ 223  245 4 AGENT AT SAN FRANCISCO TO $6,000.                                 
+ 224   15 1               EX J 10-142    SRE       AUG. 13, 1856              
+ 224   15 2 E341015       Y=26 N=14                PUGH, OHIO                 
+ 224   15 3 TO AMEND THE RESOLUTION RELATING TO THE RATIFICATION OF THE       
+ 224   15 4 TREATY BETWEEN THE U.S. AND THE KINGDOM OF THE "TWO               
+ 224   15 5 SICILIES," BY STRIKING OUT ARTICLES 21,22,23, 24 AND 20.          
+ 225   16 1               EX J 10-143A   SRE       AUG. 13, 1856              
+ 225   16 2 E341016       Y=36 N=2                 MASON, VA.                 
+ 225   16 3 TO RATIFY THE TREATY BETWEEN THE U.S. AND THE "TWO                
+ 225   16 4 SICILIES," AS AMENDED.                                            
+ 226   17 1               EX J 10-143B   SRE       AUG. 13, 1856              
+ 226   17 2 E341017       Y=33 N=9                 WADE, OHIO                 
+ 226   17 3 TO AMEND THE RESOLUTION RELATING TO THE RATIFICATION OF THE       
+ 226   17 4 TREATY WITH "TWO SICILIES," WHICH AMENDMENT RESTORES              
+ 226   17 5 EFFECTIVENESS OF ARTICLES 21,22,23, AND 24 PREVIOUSLY             
+ 226   17 6 ELIMINATED.                                                       
+ 227   18 1               EX J 10-144A   SRE       AUG. 13, 1856              
+ 227   18 2 E341018       Y=35 N=8                 MASON, VA.                 
+ 227   18 3 TO AGREE TO RATIFICATION OF THE TREATY BETWEEN THE U.S. AND       
+ 227   18 4 THE "TWO SICILIES".                                               
+ 228   19 1               EX J 10-144B   SRE       AUG. 13, 1856              
+ 228   19 2 E341019       Y=0 N=39                 MASON, VA.                 
+ 228   19 3 TO RETAIN THE WORDS "OR THE UTTERANCE OF FORGED PAPERS" AS        
+ 228   19 4 PART OF THE FIRST ARTICLE OF THE TREATY WITH THE GRAND            
+ 228   19 5 DUCHY OF BADEN RELATING TO THE MUTUAL SURRENDER OF                
+ 228   19 6 FUGITIVES OF JUSTICE.                                             
+ 229   20 1               EX J 10-144C   SRE       AUG. 13, 1856              
+ 229   20 2 E341020       Y=42 N=0                 MASON, VA.                 
+ 229   20 3 TO DECIDE WHETHER THE WORDS "NOTHING IN THIS ARTICLE              
+ 229   20 4 CONTAINED SHALL BE CONSTRUED TO EXTEND TO CRIMES OF A             
+ 229   20 5 POLITICAL CHARACTER," SHALL STAND AS PART OF THE FIRST            
+ 229   20 6 ARTICLE OF THE TREATY WITH THE GRAND DUCHY OF BADEN RELATING      
+ 229   20 7 TO THE MUTUAL SURRENDER OF FUGITIVES OF JUSTICE.                  
+ 230  246 1 G 25-3-2078   J 34-1-574     PROC      AUG. 13, 1856              
+ 230  246 2 S341207       Y=20 N=12                MASON, VA.                 
+ 230  246 3 TO POSTPONE ALL PREVIOUS ORDERS AND PROCEED TO THE                
+ 230  246 4 CONSIDERATION OF EXECUTIVE BUSINESS.                              
+ 231  247 1 G 25-3-2082   J 34-1-579A    S398      AUG. 13, 1856              
+ 231  247 2 S341208       Y=7 N=39                 WADE, OHIO                 
+ 231  247 3 TO TABLE S. 398,(APP. 8/16/1856, 11 STAT. L. 48), A BILL          
+ 231  247 4 REGULATING THE COMPENSATION OF MEMBERS OF CONGRESS.               
+ 232  248 1 G 25-3-2085   J 34-1-579B    S398      AUG. 13, 1856              
+ 232  248 2 S341209       Y=35 N=11                BUTLER, S.C.               
+ 232  248 3 TO PASS S. 398 (APP. 8/16/1856,11 STAT. L. 48), A BILL            
+ 232  248 4 REGULATING THE COMPENSATION OF MEMBERS OF CONGRESS.               
+ 233  249 1 G 25-3-2100A  J 34-1-583     HR325     AUG. 14, 1856              
+ 233  249 2 S341210       Y=29 N=16                JAMES, R.I.                
+ 233  249 3 TO PASS H.R. 325, (APP. 8/16/1856, 11 STAT. L. 462), A BILL       
+ 233  249 4 RENEWING AND EXTENDING ISAAC ADAMS' PATENTS ON THE POWER          
+ 233  249 5 PRINTING PRESS FOR 7 YEARS.                                       
+ 234  250 1 G 25-3-2100B  J 34-1-585     HR12      AUG. 14, 1856              
+ 234  250 2 S341211       Y=32 N=17                BENJAMIN, LA.              
+ 234  250 3 TO PASS H.R. 12, (APP. 8/16/1856, 11 STAT. L. 51), A BILL         
+ 234  250 4 APPROPRIATING $200,000 FOR CONTINUING THE IMPROVEMENT OF          
+ 234  250 5 THE DES MOINES RAPIDS IN THE MISSISSIPPI RIVER.                   
+ 235  251 1 G 25-3-2114   J 34-1-587A    HR201     AUG. 14, 1856              
+ 235  251 2 S341212       Y=19 N=21                HUNTER, VA.                
+ 235  251 3 TO AMEND H.R. 201 (APP. 8/18/1856, 11 STAT. L. 81), A BILL        
+ 235  251 4 MAKING APPROPRIATIONS FOR CERTAIN CIVIL EXPENDITURES OF THE       
+ 235  251 5 GOVERNMENT FOR 1857, BY REDUCING FROM $75,000 TO $25,000          
+ 235  251 6 THE APPROPRIATION FOR THE COLLECTION OF AGRICULTURAL              
+ 235  251 7 STATISTICS, INVESTIGATIONS AND PROCUREMENT OF SEEDS AND           
+ 235  251 8 CUTTINGS.                                                         
+ 236  252 1 G 25-3-2115   J 34-1-587B    HR201     AUG. 14, 1856              
+ 236  252 2 S341213       Y=34 N=7                 BROWN, MISS.               
+ 236  252 3 TO AMEND H.R. 201, BY AUTHORIZING THE SECRETARY OF THE            
+ 236  252 4 INTERIOR TO OBTAIN DRAWINGS AND ESTIMATES FOR FOUR BRIDGES        
+ 236  252 5 ACROSS THE POTOMAC RIVER.                                         
+ 237  253 1 G 25-3-2117   J 34-1-588A    HR201     AUG. 14, 1856              
+ 237  253 2 S341214       Y=15 N=23                BROWN, MISS.               
+ 237  253 3 TO AMEND H.R. 201, BY APPROPRIATING $31,659.10 FOR THE            
+ 237  253 4 CONSTRUCTION OF A NEW BASIN TO CHESAPEAKE AND OHIO CANAL          
+ 237  253 5 AT GEORGETOWN.                                                    
+ 238  254 1 G 25-3-2119   J 34-1-588B    HR201     AUG. 14, 1856              
+ 238  254 2 S341215       Y=24 N=19                SEWARD, N.Y.               
+ 238  254 3 TO ADJOURN, IN ORDER TO END DEBATE ON H.R. 201.                   
+ 239   21 1               EX J 10-145A   SRE       AUG. 15, 1856              
+ 239   21 2 E341021       Y=38 N=4                 YULEE, FLA.                
+ 239   21 3 TO DECIDE WHETHER THE 4TH ARTICLE SHALL STAND AS PART OF THE      
+ 239   21 4 TREATY WITH THE GRAND DUCHY OF BADEN RELATING TO THE              
+ 239   21 5 MUTUAL SURRENDER OF FUGITIVES FROM JUSTICE.                       
+ 240   22 1               EX J 10-145B   SRE       AUG. 15, 1856              
+ 240   22 2 E341022       Y=30 N=10                MASON, VA.                 
+ 240   22 3 TO RATIFY THE TREATY WITH THE GRAND DUCHY OF BADEN,               
+ 240   22 4 RELATING TO THE MUTUAL RETURN OF FUGITIVES FROM JUSTICE.          
+ 241   23 1               EX J 10-146    SRE       AUG. 15, 1856              
+ 241   23 2 E341023       Y=36 N=8                 MASON, VA.                 
+ 241   23 3 TO PASS THE RESOLUTION THAT RATIFYING ON AUG. 15, 1856            
+ 241   23 4 THE TREATY FOR THE MUTUAL DELIVERY OF CRIMINALS AND               
+ 241   23 5 FUGITIVES FROM JUSTICE BETWEEN THE U.S. AND AUSTRIA,              
+ 241   23 6 EXCLUDING ANY CRIME OF A POLITICAL CHARACTER.                     
+ 242   24 1               EX J 10-147    SRE       AUG. 15, 1856              
+ 242   24 2 E341024       Y=34 N=4                 MASON, VA.                 
+ 242   24 3 TO AGREE TO RATIFICATION OF THE TREATY BETWEEN THE U.S. AND       
+ 242   24 4 NICARAGUA.                                                        
+ 243  255 1 G 25-3-2130   J 34-1-593     SRE       AUG. 15, 1856              
+ 243  255 2 S341216       Y=27 N=19                HUNTER, VA.                
+ 243  255 3 TO POSTPONE DISCUSSION ON THE CASE OF THE IOWA CONTESTED          
+ 243  255 4 SENATORIAL ELECTION, SO AS TO TAKE UP H.R. 201.                   
+ 244  256 1 G 25-3-2132   J 34-1-594     HR201     AUG. 15, 1856              
+ 244  256 2 S341217       Y=32 N=12                SEWARD, N.Y.               
+ 244  256 3 TO AMEND H.R. 201, BY APPROPRIATING FUNDS FOR IMPROVEMENTS        
+ 244  256 4 TO CERTAIN CUSTOM HOUSES.                                         
+ 245  257 1 G 25-3-2141   J 34-1-596A    HR201     AUG. 15, 1856              
+ 245  257 2 S341218       Y=22 N=24                SEWARD, N.Y.               
+ 245  257 3 TO AMEND H.R. 201, BY MAKING APPROPRIATIONS FOR CERTAIN           
+ 245  257 4 COURT HOUSES, CUSTOM HOUSES AND POST OFFICES.                     
+ 246  258 1 G 25-3-2142   J 34-1-596B    HR201     AUG. 15, 1856              
+ 246  258 2 S341219       Y=39 N=6                 BAYARD, DEL.               
+ 246  258 3 TO AMEND H.R. 201, BY APPROPRIATING $500,000 FOR CONTINUING       
+ 246  258 4 THE CONSTRUCTION OF THE WASHINGTON AQUEDUCT.                      
+ 247  259 1 G 25-3-2146   J 34-1-599     HR201     AUG. 15, 1856              
+ 247  259 2 S341220       Y=12 N=30                BROWN, MISS.               
+ 247  259 3 TO AMEND H.R. 201, BY ASCERTAINING THE AMOUNT DUE                 
+ 247  259 4 MISSISSIPPI AND OTHER STATES FOR SALE OF PUBLIC LANDS.            
+ 248  260 1 G 25-3-2149   J 34-1-600     HR201     AUG. 15, 1856              
+ 248  260 2 S341221       Y=33 N=11                BAYARD, DEL.               
+ 248  260 3 TO AMEND H.R. 201, BY APPROPRIATING THE SUM OF $100,000 FOR       
+ 248  260 4 CONTINUING THE CONSTRUCTION OF A NEW DOME FOR THE CAPITOL.        
+ 249  261 1 G 25-3-2154   J 34-1-598A    S398      AUG. 15, 1856              
+ 249  261 2 S341222       Y=19 N=24                PUGH, OHIO                 
+ 249  261 3 TO AMEND S. 398, (APP. 8/16/1856, 11 STAT. L. 48), A BILL         
+ 249  261 4 REGULATING THE COMPENSATION OF THE MEMBERS OF CONGRESS, BY        
+ 249  261 5 ALLOWING RETROACTIVE INCREASE IN PAY OF CONGRESSMEN AND           
+ 249  261 6 DELEGATES FROM TIME OF THEIR ELECTION.                            
+ 250  262 1 G 25-3-2156A  J 34-1-598B    S398      AUG. 15, 1856              
+ 250  262 2 S341223       Y=20 N=18                HUNTER, VA.                
+ 250  262 3 TO CONCUR IN THE HOUSE AMENDMENT TO S. 398,                       
+ 250  262 4 (APP. 8/16/1856, 11 STAT. L. 48), A BILL REGULATING THE           
+ 250  262 5 COMPENSATION OF THE MEMBERS OF CONGRESS, BY ELIMINATING ALL       
+ 250  262 6 AFTER THE ENACTING CLAUSE SUBSTITUTING PROVISION FIXING THE       
+ 250  262 7 SALARY OF EACH MEMBER AT $6,000 A YEAR AND THE PRESENT            
+ 250  262 8 MILEAGE FOR TWO SESSIONS ONLY; AND FIXING THE SALARY OF THE       
+ 250  262 9 PRESIDENT PROTEMPERE AND THE SPEAKER OF THE HOUSE.                
+ 251  263 1 G 25-3-2156B  J 34-1-598C    S398      AUG. 15, 1856              
+ 251  263 2 S341224       Y=27 N=12                HUNTER, VA.                
+ 251  263 3 TO CONCUR IN THE HOUSE AMENDMENT TO S. 398,                       
+ 251  263 4 (APP. 8/16/1856, 11 STAT. L. 48), A BILL PROVIDING FOR THE        
+ 251  263 5 REGULATION OF COMPENSATION PAID TO MEMBERS OF CONGRESS;           
+ 251  263 6 WHICH AMENDMENT SEEKS TO ELIMINATE THE ENTIRE BILL AFTER          
+ 251  263 7 THE ENACTING CLAUSE AND TO INSERT A SUBSTITUTE.                   
+ 252  264 1 G 25-3-2157A  J 34-1-601     HR201     AUG. 15, 1856              
+ 252  264 2 S341225       Y=21 N=18                SEWARD, N.Y.               
+ 252  264 3 TO AMEND H.R. 201, BY AUTHORIZING APPROPRIATIONS FOR              
+ 252  264 4 CONSTRUCTION OF U.S. CUSTOMS HOUSES, POST OFFICES, AND            
+ 252  264 5 COURT BUILDINGS AND BY AUTHORIZING SUCH CONSTRUCTION IN           
+ 252  264 6 SPECIFIED CITIES.                                                 
+ 253  265 1 G 25-3-2157B  J 34-1-602     HR201     AUG. 15, 1856              
+ 253  265 2 S341226       Y=18 N=21                BROWN, MISS.               
+ 253  265 3 TO AMEND H.R. 201, BY PROVIDING FOR PAYMENT TO MISSISSIPPI        
+ 253  265 4 OF ITS CLAIMS FOR PUBLIC LANDS USED FOR INDIAN RESERVATIONS.      
+ 254  266 1 G 25-3-2168   J 34-1-610A    HR154     AUG. 16, 1856              
+ 254  266 2 S341227       Y=23 N=24                CLAY, ALA.                 
+ 254  266 3 TO TABLE H.R. 154, A BILL PROVIDING FOR THE SETTLEMENT OF         
+ 254  266 4 THE CLAIMS OF OFFICERS OF THE REVOLUTIONARY ARMY AND FOR THE      
+ 254  266 5 WIDOWS AND ORPHANS OF THOSE WHO DIED IN SERVICE.                  
+ 255  267 1 G 25-3-2169A  J 34-1-610B    HR154     AUG. 16, 1856              
+ 255  267 2 S341228       Y=32 N=15                BAYARD, DEL.               
+ 255  267 3 TO POSTPONE UNTIL THE THIRD MONDAY IN DECEMBER, FURTHER           
+ 255  267 4 CONSIDERATION OF H.R. 154, A BILL PROVIDING FOR THE               
+ 255  267 5 SETTLEMENT OF CLAIMS OF THE OFFICERS OF THE REVOLUTIONARY         
+ 255  267 6 ARMY AND THE WIDOWS AND ORPHANS OF THOSE WHO DIED IN              
+ 255  267 7 SERVICE.                                                          
+ 256  268 1 G 25-3-2169B  J 34-1-608     S53       AUG. 16, 1856              
+ 256  268 2 S341229       Y=27 N=19                PRATT, MD.                 
+ 256  268 3 TO PASS S. 53, (PASSED OVER VETO 8/16/1856, 11 STAT. L. 44),      
+ 256  268 4 A BILL MAKING APPROPRIATIONS FOR THE IMPROVEMENT OF THE           
+ 256  268 5 PATAPASCO RIVER IN ORDER TO MAKE ACCESSIBLE THE PORT OF           
+ 256  268 6 BALTIMORE TO U.S. WARSHIPS.                                       
+ 257  269 1 G 25-3-2170   J 34-1-607     HR153     AUG. 16, 1856              
+ 257  269 2 S341230       Y=35 N=10                HUNTER, VA.                
+ 257  269 3 TO INSIST ON SENATE AMENDMENT TO H.R. 153                         
+ 257  269 4 (APP. 8/30/1856, 11 STAT. L. 147), A BILL MAKING                  
+ 257  269 5 APPROPRIATIONS FOR SUPPORT OF THE ARMY FOR 1857, WHICH            
+ 257  269 6 AMENDMENT WOULD ELIMINATE THE KANSAS PROVISION FROM THE           
+ 257  269 7 BILL.                                                             
+ 258  270 1 G 25-3-2176   J 34-1-612A    HR315     AUG. 16, 1856              
+ 258  270 2 S341231       Y=13 N=26                YULEE, FLA.                
+ 258  270 3 TO AMEND H.R. 315 (APP. 8/18/1856, 11 STAT. L. 94), A BILL        
+ 258  270 4 MAKING APPROPRIATIONS FOR THE SERVICE OF THE POST OFFICE          
+ 258  270 5 DEPARTMENT FOR 1857, BY DIRECTING THE POSTMASTER GENERAL TO       
+ 258  270 6 EXTEND THE CONTRACT FOR MAIL SERVICE BETWEEN NEW ORLEANS          
+ 258  270 7 AND CAIRO FOR TWO YEARS AND ALLOWING PRESENT CONTRACTORS TO       
+ 258  270 8 PURCHASE STEAMBOATS FOR THAT SERVICE.                             
+ 259  271 1 G 25-3-2177   J 34-1-612B    HR315     AUG. 16, 1856              
+ 259  271 2 S341232       Y=25 N=19                DURKEE, WIS.               
+ 259  271 3 TO DETERMINE WHETHER THE SENATE WILL RECEIVE AN AMENDMENT         
+ 259  271 4 TO H.R. 315, WHICH AMENDMENT PROPOSES TO ADJUST THE DAMAGES       
+ 259  271 5 DUE E.H. CORMICK AND A.C. RAMSEY ON ACCOUNT OF THE                
+ 259  271 6 ABROGATION OF THEIR CONTRACTS TO CARRY MAIL ON THE VERA CRUZ      
+ 259  271 7 ACAPULCO AND SAN FRANCISCO ROUTE.                                 
+ 260  272 1 G 25-3-2179   J 34-1-612C    HR315     AUG. 16, 1856              
+ 260  272 2 S341233       Y=19 N=18                DURKEE, WIS.               
+ 260  272 3 TO AMEND H.R. 315, BY PROVIDING TO ADJUST AND PAY THE             
+ 260  272 4 CLAIMS OF EDWARD H. CORMICK AND ALBERT C. RAMSEY DUE TO           
+ 260  272 5 ABROGATION OF THEIR CONTRACTS TO CARRY MAIL ON THE                
+ 260  272 6 VERA CRUZ, ACAPULCO AND SAN FRANCISCO ROUTE.                      
+ 261  273 1 G 25-3-2201   J 34-1-616     HR315     AUG. 16, 1856              
+ 261  273 2 S341234       Y=27 N=12                COLLAMER, VT.              
+ 261  273 3 TO AMEND H.R. 315, BY ALLOWING JACOB HULL $22,000 FOR             
+ 261  273 4 CARRYING THE MAIL, AND G. GIDDINGS $23,300 FOR THE SAME.          
+ 262  274 1 G 25-3-2203A  J 34-1-617A    HR315     AUG. 16, 1856              
+ 262  274 2 S341235       Y=26 N=14                WELLER, CAL.               
+ 262  274 3 TO RECEIVE THE AMENDMENT TO H.R. 315, WHICH AMENDMENT             
+ 262  274 4 WOULD AUTHORIZE THE POSTMASTER GENERAL TO CONTRACT WITH THE       
+ 262  274 5 BEST BIDDER FOR A SEMI-WEEKLY MAIL SERVICE FROM A POINT ON        
+ 262  274 6 THE MISSISSIPPI RIVER TO SAN FRANCISCO.                           
+ 263  275 1 G 25-3-2203B  J 34-1-617B    HR315     AUG. 16, 1856              
+ 263  275 2 S341236       Y=26 N=19                WELLER, CAL.               
+ 263  275 3 TO AMEND H.R. 315, BY AUTHORIZING THE POSTMASTER GENERAL          
+ 263  275 4 TO CONTRACT FOR SEMI-WEEKLY MAIL SERVICE TO SOME POINT ON         
+ 263  275 5 THE MISSISSIPPI RIVER THROUGH TO SAN FRANCISCO.                   
+ 264  276 1 G 25-3-2204   J 34-1-618     HR315     AUG. 16, 1856              
+ 264  276 2 S341237       Y=26 N=20                DURKEE, WIS.               
+ 264  276 3 TO CONCUR IN THE AMENDMENT TO H.R. 315, WHICH AMENDMENT           
+ 264  276 4 PROVIDES FOR THE EXAMINATION AND SETTLEMENT OF THE CLAIMS OF      
+ 264  276 5 RAMSEY AND CORMICK BECAUSE OF ABROGATION OF THEIR CONTRACT        
+ 264  276 6 TO CARRY MAIL FROM VERA CRUZ TO ACAPULCO AND SAN FRANCISCO.       
+ 265  277 1 G 25-3-2205   J 34-1-620     HR12      AUG. 16, 1856              
+ 265  277 2 S341238       Y=30 N=14                BENJAMIN, LA.              
+ 265  277 3 TO PASS H.R. 12,(PASSED OVER VETO 8/16/1856,11 STAT. L. 51)       
+ 265  277 4 A BILL PROVIDING FOR THE IMPROVEMENT OF DES MOINES RAPIDS         
+ 265  277 5 IN THE MISSISSIPPI RIVER.                                         
+ 266  278 1 G 25-3-2206A  J 34-1-621     S53       AUG. 16, 1856              
+ 266  278 2 S341239       Y=32 N=9                 BAYARD, DEL.               
+ 266  278 3 TO SUSTAIN THE CHAIR'S DECISION RULING IT IN ORDER TO             
+ 266  278 4 RECEIVE A MOTION TO RECONSIDER THE VOTE REFUSING TO PASS          
+ 266  278 5 OVER THE PRESIDENT'S VETO S. 53                                   
+ 266  278 6 (PASSED OVER VETO 8/16/1856, 11 STAT. L. 44), A BILL              
+ 266  278 7 PROVIDING FOR THE IMPROVEMENT OF NAVIGATION THROUGH               
+ 266  278 8 PATAPSCO RIVER IN ORDER TO RENDER THE PORT OF BALTIMORE           
+ 266  278 9 ACCESSABLE TO THE U.S. WARSHIPS.                                  
+ 267  279 1 G 25-3-2206B  J 34-1-622     S53       AUG. 16, 1856              
+ 267  279 2 S341240       Y=31 N=14                PRATT, MD.                 
+ 267  279 3 TO PASS S. 53, (PASSED OVER VETO 8/16/1856 11 STAT. L. 44),       
+ 267  279 4 A BILL PROVIDING FOR THE IMPROVEMENT OF NAVIGATION ON THE         
+ 267  279 5 PATAPSCO RIVER IN ORDER TO RENDER THE PORT OF BALTIMORE           
+ 267  279 6 ACCESSIBLE TO U.S. WARSHIPS.                                      
+ 268  280 1 G 25-3-2207   J 34-1-630     S427      AUG. 16, 1856              
+ 268  280 2 S341241       Y=25 N=12                WELLER, CAL.               
+ 268  280 3 TO AGREE TO AMENDMENT TO S. 427, A BILL MAKING ADDITIONAL         
+ 268  280 4 APPROPRIATIONS FOR THE SUPPORT OF THE ARMY FOR 1857, WHICH        
+ 268  280 5 AMENDMENT WOULD ELIMINATE THE PROVISION OF THE ACT                
+ 268  280 6 EXTENDING TO WIDOWS AND ORPHANS OF MEMBERS OF THE ARMY THE        
+ 268  280 7 SAME PENSIONS ALLOWED TO WIDOWS AND ORPHANS OF PERSONS            
+ 268  280 8 DYING IN THE NAVAL SERVICE.                                       
+ 269  281 1 G 25-3-2210   J 34-1-624     HR202     AUG. 16, 1856              
+ 269  281 2 S341242       Y=33 N=11                HUNTER, VA.                
+ 269  281 3 TO INSIST ON SENATE'S AMENDMENT TO H.R. 202, WHICH                
+ 269  281 4 AMENDMENT WOULD ELIMINATE THE PROVISION THAT NO PART OF THE       
+ 269  281 5 APPROPRIATION IS TO BE EXPENDED FOR PROSECUTING OR                
+ 269  281 6 DETAINING ANY PERSON CHARGED WITH TREASON OR ANY OTHER            
+ 269  281 7 POLITICAL OFFENSE IN ANY PENDING PROCEEDING IN THE                
+ 269  281 8 TERRITORY OF KANSAS.                                              
+ 270  282 1 G 25-3-2211A  J 34-1-625     HR202     AUG. 16, 1856              
+ 270  282 2 S341243       Y=40 N=3                 HUNTER, VA.                
+ 270  282 3 TO INSIST ON SENATE'S AMENDMENT TO H.R. 202, WHICH                
+ 270  282 4 AMENDMENT WOULD ELIMINATE THE APPROPRIATION OF $182,765.55        
+ 270  282 5 FOR MEMBERS OF THE HOUSE OF REPRESENTATIVES.                      
+ 271  283 1 G 25-3-2211B  J 34-1-626     HR153     AUG. 16, 1856              
+ 271  283 2 S341244       Y=32 N=11                BRODHEAD, PA.              
+ 271  283 3 TO INSIST ON SENATE'S AMENDMENT TO H.R. 153, WHICH                
+ 271  283 4 AMENDMENT WOULD ELIMINATE THE PROVISION THAT NO PART OF THE       
+ 271  283 5 MILITARY FORCE OF THE U.S. SHALL BE EMPLOYED TO AID               
+ 271  283 6 ENFORCEMENT OF THE ACTS OF THE ALLEGED LEGISLATIVE ASSEMBLY       
+ 271  283 7 IN KANSAS AND ASKS FOR ANOTHER COMMITTEE OF CONFERENCE.           
+ 272  284 1 G 25-3-2213A  J 34-1-630B    S427      AUG. 16, 1856              
+ 272  284 2 S341245       Y=10 N=29                STUART, MICH.              
+ 272  284 3 TO ADJOURN, DURING CONSIDERATION OF S. 427, A BILL                
+ 272  284 4 PROVIDING ADDITIONAL APPROPRIATIONS FOR THE SUPPORT OF THE        
+ 272  284 5 ARMY FOR THE FISCAL YEAR 1857.                                    
+ 273  285 1 G 25-3-2213B  J 34-1-631A    S427      AUG. 16, 1856              
+ 273  285 2 S341246       Y=28 N=12                WELLER, CAL.               
+ 273  285 3 TO AMEND S. 427, BY ELIMINATING THE APPROPRIATION OF              
+ 273  285 4 $50,000 FOR CONSTRUCTING A FORT AT PEMBINA IN THE TERRITORY       
+ 273  285 5 OF MINNESOTA.                                                     
+ 274  286 1 G 25-3-2218A  J 34-1-629     PROC      AUG. 16, 1856              
+ 274  286 2 S341247       Y=18 N=17                MALLORY, FLA.              
+ 274  286 3 TO PROCEED TO CONSIDERATION OF EXECUTIVE BUSINESS.                
+ 275  287 1 G 25-3-2218B  J 34-1-632B    HR153     AUG. 16, 1856              
+ 275  287 2 S341248       Y=27 N=10                CLAY, ALA.                 
+ 275  287 3 TO INSIST ON SENATES AMENDMENT TO H.R. 153, WHICH                 
+ 275  287 4 AMENDMENT WOULD ELIMINATE THE PROVISION THAT NO PART OF THE       
+ 275  287 5 MILITARY FORCE BE USED TO ENFORCE ACTS OF ALLEGED KANSAS          
+ 275  287 6 ASSEMBLY AND THAT THE COMMITTEE OF CONFERENCE BE DISCHARGED.      
+ 276  288 1 G 25-3-2219A  J 34-1-631B    S427      AUG. 16, 1856              
+ 276  288 2 S341249       Y=17 N=19                IVERSON, GA.               
+ 276  288 3 TO TABLE S. 427.                                                  
+ 277  289 1 G 25-3-2219B  J 34-1-631C    S427      AUG. 16, 1856              
+ 277  289 2 S341250       Y=26 N=8                 BRODHEAD, PA.              
+ 277  289 3 TO AMEND S. 427, BY ELIMINATING THE PROVISION INCREASING THE      
+ 277  289 4 NUMBER OF THE ENGINEERS CORPS OF THE ARMY.                        
+ 278  290 1 G 25-3-2219C  J 34-1-632A    S427      AUG. 16, 1856              
+ 278  290 2 S341251       Y=13 N=24                WADE, OHIO                 
+ 278  290 3 TO ADJOURN, DURING DEBATE ON S. 427.                              
+ 279  291 1 G 25-3-2220   J 34-1-633     HR316     AUG. 16, 1856              
+ 279  291 2 S341252       Y=9 N=26                 SEWARD, N.Y.               
+ 279  291 3 TO AMEND H.R. 316, (APP. 8/18/1856, 11 STAT. L. 101), A           
+ 279  291 4 BILL MAKING APPROPRIATIONS FOR THE TRANSPORTATION OF THE          
+ 279  291 5 U.S. MAIL BY OCEAN STEAMERS AND OTHERWISE IN 1857, BY             
+ 279  291 6 ELIMINATING THE PROVISION DIRECTING NOTICE BE GIVEN FOR THE       
+ 279  291 7 TERMINATION OF THE EXTRA ALLOWANCES OF THE COLLINS LINE           
+ 279  291 8 STEAMERS.                                                         
+ 280  292 1 G 25-3-2222   J 34-1-634A    HR316     AUG. 16, 1856              
+ 280  292 2 S341253       Y=34 N=2                 HUNTER, VA.                
+ 280  292 3 TO PASS H.R. 316,(APP. 8/18/1856, 11 STAT. L. 101), A BILL        
+ 280  292 4 MAKING APPROPRIATIONS FOR THE TRANPORTATION OF THE U.S.           
+ 280  292 5 MAIL BY OCEAN STEAMERS AND OTHERWISE, IN 1857.                    
+ 281  293 1 G 25-3-2226   J 34-1-634B    HR153     AUG. 16, 1856              
+ 281  293 2 S341254       Y=25 N=8                 HUNTER, VA.                
+ 281  293 3 TO FURTHER INSIST ON THE SENATE AMENDMENT TO H.R. 153,            
+ 281  293 4 WHICH AMENDMENT WOULD ELIMINATE THE KANSAS PROVISION AND          
+ 281  293 5 AGREE TO ANOTHER CONFERENCE WITH HOUSE CONFEREES.                 
+ 282  294 1 G 25-3-2225A  J 34-1-638     SRE       AUG. 16, 1856              
+ 282  294 2 S341255       Y=17 N=15                BRIGHT, IND.               
+ 282  294 3 TO AMEND THE RESOLUTION THAT THE CLERK OF THE COMMITTEE ON        
+ 282  294 4 MILITARY AFFAIRS BE PAID IN THE SAME MANNER AS THE CLERK TO       
+ 282  294 5 THE COMMITTEE ON CLAIMS, BY ELIMINATING ALL AFTER THE             
+ 282  294 6 RESOLVING CLAUSE AND INSERTING A PROVISION THAT SUCH              
+ 282  294 7 COMMITTEES AS DEEM IT EXPEDIENT MAY CONTINUE THEIR CLERKS         
+ 282  294 8 DURING RECESS AND THAT THEY BE PAID AT THE RATE OF $1,500         
+ 282  294 9 A YEAR.                                                           
+ 283  295 1 G 25-3-2225B  J 34-1-639     SRE       AUG. 16, 1856              
+ 283  295 2 S341256       Y=18 N=15                WELLER, CAL.               
+ 283  295 3 TO ADOPT THE RESOLUTION PROPOSING THAT SUCH COMMITTEES AS         
+ 283  295 4 DEEM IT EXPEDIENT MAY CONTINUE THEIR CLARKS DURING RECESS         
+ 283  295 5 AT THE RATE OF $1,500 ANNUAL SALARY.                              
+ 284  296 1 G 25-3-2229   J 34-1-642     HR301     AUG. 18, 1856              
+ 284  296 2 S341257       Y=24 N=23                ALLEN, R.I.                
+ 284  296 3 TO POSTPONE UNTIL THE THIRD MONDAY IN DECEMBER, ACTION ON         
+ 284  296 4 H.R. 301, A BILL APPROPRIATING $200,000 FOR THE                   
+ 284  296 5 ESTABLISHMENT OF A NAVAL DEPOT ON BLYTHE ISLAND AT                
+ 284  296 6 BRUNSWICK, GEORGIA.                                               
+ 285  297 1 G 25-3-2232A  J 34-1-644     HR153     AUG. 18, 1856              
+ 285  297 2 S341258       Y=40 N=12                TOOMBS, GA.                
+ 285  297 3 TO INSIST ON SENATES AMENDMENT TO H.R. 153, AND TO ASK FOR        
+ 285  297 4 ANOTHER CONFERENCE ON THIS AMENDMENT WHICH SEEKS TO               
+ 285  297 5 ELIMINATE THE PROVISION FOR THE USE OF FEDERAL MILITARY IN        
+ 285  297 6 KANSAS.                                                           
+ 286  298 1 G 25-3-2232B  J 34-1-645A    SRE       AUG. 18, 1856              
+ 286  298 2 S341259       Y=19 N=22                CASS, MICH.                
+ 286  298 3 TO PROCEED TO CONSIDERATION OF THE RESOLUTION AUTHORIZING         
+ 286  298 4 THE SECRETARY OF THE SENATE TO PAY TO UNION NATIONAL              
+ 286  298 5 INTELLIGENCER AND SENTINEL, NEWSPAPERS, $4.50 PER COLUMN          
+ 286  298 6 FOR PUBLISHING DEBATES OF THE LAST TWO CONGRESSES, PROVIDED       
+ 286  298 7 NO DUPLICATION OF PAYMENT BE MADE.                                
+ 287  299 1 G 25-3-2233   J 34-1-645     PROC      AUG. 18, 1856              
+ 287  299 2 S341260       Y=19 N=29                MASON, VA.                 
+ 287  299 3 TO PROCEED TO CONSIDERATION OF EXECUTIVE BUSINESS.                
+ 288  300 1 G 25-3-2235   J 34-1-649     PROC      AUG. 18, 1856              
+ 288  300 2 S341261       Y=41 N=7                 HUNTER, VA.                
+ 288  300 3 TO EXTEND THE PRESENT SESSION OF THE SENATE TO 2 P.M. TODAY.      
+ 289  301 1 G 25-3-2236   J 34-1-650     SRE       AUG. 18, 1856              
+ 289  301 2 S341262       Y=31 N=6                 BIGLER, PA.                
+ 289  301 3 TO ADOPT THE RESOLUTION THAT THE SENATE CHAPLAIN BE PAID          
+ 289  301 4 $500 OUT OF THE CONTINGENT FUND OF THE SENATE IN ADDITION TO      
+ 289  301 5 HIS SALARY AND THAT THERE BE PAID A 20% INCREASE FOR THE          
+ 289  301 6 LAST FISCAL YEAR TO THOSE EMPLOYEES WHOSE PAY WAS NOT             
+ 289  301 7 INCREASED AT THE PRESENT SESSION OR WHOSE SALARY DOES NOT         
+ 289  301 8 EXCEED $2,500 PER YEAR.                                           
+ 290   25 1               EX J 10-151    SRE       AUG. 21, 1856              
+ 290   25 2 E342001       Y=25 N=8                 MASON, VA.                 
+ 290   25 3 TO ADOPT THE RESOLUTION EXTENDING THE TIME FOR THE EXCHANGE       
+ 290   25 4 OF RATIFICATIONS OF THE TREATY BETWEEN THE U.S. AND THE           
+ 290   25 5 GRAND DUCHY OF BADEN, WHATEVER TIME THE SAME CAN BE               
+ 290   25 6 EFFECTED BETWEEN THE TWO COUNTRIES.                               
+ 291  302 1 G 25-3-1     J34-2-661       SRE       AUG. 21, 1856              
+ 291  302 2 S342001       Y=35 N=6                 HUNTER, VA.                
+ 291  302 3 TO ADOPT THE RESOLUTION SUSPENDING SO MUCH OF JOINT RULE 21       
+ 291  302 4 AS PROHIBITS CONSIDERATION DURING THE FIRST 6 DAYS OF THE         
+ 291  302 5 PRESENT SESSION, OF ANY BILL, RESOLUTION OR REPORT                
+ 291  302 6 UNDETERMINED AT THE END OF THE PREVIOUS SESSION, IN SO FAR        
+ 291  302 7 AS IT AFFECTS H.R. 153.                                           
+ 292  303 1 G 25-3-.A     J 34-2-663A    HR578     AUG. 22, 1856              
+ 292  303 2 S342002       Y=36 N=7                 HUNTER, VA.                
+ 292  303 3 TO AMEND H.R. 578, A BILL MAKING APPROPRIATIONS FOR THE           
+ 292  303 4 ARMY FOR 1857, BY ELIMINATING THE PROVISION THAT NO PART OF       
+ 292  303 5 THE MILITARY FORCE OF THE U.S. FOR WHICH THIS ACT MAKES           
+ 292  303 6 APPROPRIATIONS SHALL BE USED TO ENFORCE ANY ENACTMENT             
+ 292  303 7 OF THE SO CALLED LEGISLATURE OF KANSAS.                           
+ 293  304 1 G 25-3-9B     J 34-2-663B    HR578     AUG. 22, 1856              
+ 293  304 2 S342003       Y=36 N=7 (Y=37)          HUNTER, VA.                
+ 293  304 3 TO PASS H.R. 578,                                                 
+ 294  305 1 G 25-3-9C     J 34-2-664     HR578     AUG. 22, 1856              
+ 294  305 2 S342004       Y=35 N=6                 HUNTER, VA.                
+ 294  305 3 TO INSIST ON SENATE'S AMENDMENT TO H.R. 578, WHICH AMENDMENT      
+ 294  305 4 ELIMINATES THE PROVISION CONTAINING LEGISLATION IN REAGRD         
+ 294  305 5 TO KANSAS.                                                        
+ 295  306 1 G 25-3-15     J 34-2-666     HR578     AUG. 22, 1856              
+ 295  306 2 S342005       Y=26 N=11                BENJAMIN, LA.              
+ 295  306 3 TO ADJOURN, DURING DEBATE ON H.R. 578.                            
+ 296  307 1 G 25-3-22     J 34-2-667     HR578     AUG. 23, 1856              
+ 296  307 2 S342006       Y=35 N=9                 HUNTER, VA.                
+ 296  307 3 TO ADHERE TO SENATE AMENDMENT TO ELIMINATE A HOUSE                
+ 296  307 4 AMENDMENT TO H.R. 578, WHICH AMENDMENT RELATES TO KANSAS.         
+ 297  308 1 G 25-3-36     J 34-2-670A    S464      AUG. 27, 1856              
+ 297  308 2 S342007       Y=28 N=11                HUNTER, VA.                
+ 297  308 3 TO TABLE S. 464, A BILL AMENDING AN ACT ORGANIZING THE            
+ 297  308 4 TERRITORIES OF NEBRASKA AND KANSAS (APP. 5/30/1854).              
+ 298  309 1 G 25-3-42     J 34-2-670B    HR153     AUG. 27, 1856              
+ 298  309 2 S342008       Y=33 N=6                 HUNTER, VA.                
+ 298  309 3 TO INSIST ON SENATE AMENDMENT TO H.R. 153, AND ASK FOR A          
+ 298  309 4 CONFERENCE ON THIS AMENDMENT WHICH RELATES TO KANSAS.             
+ 299  310 1 G 25-3-69     J 34-2-673     HR153     AUG. 29, 1856              
+ 299  310 2 S342009       Y=32 N=6                 HUNTER, VA.                
+ 299  310 3 TO ADHERE TO THE SENATE AMENDMENT TO H.R. 153, WHICH              
+ 299  310 4 AMENDMENT ELIMINATES THE HOUSE PROVISION FORBIDDING THE           
+ 299  310 5 USE OF GOVERNMENT ARMED FORCES TO CARRY OUT THE LEGISLATIVE       
+ 299  310 6 ACTS OF THE ALLEGED TERRITORIAL GOVERNMENT OF KANSAS.             
+ 300  311 1 G 25-3-78A    J 34-2-675A    S466      AUG. 30, 1856              
+ 300  311 2 S342010       Y=22 N=11                HUNTER, VA.                
+ 300  311 3 TO TABLE S. 466, A BILL AMENDING AN ACT TO ORGANIZE THE           
+ 300  311 4 TERRITORIES OF NEBRASKA AND KANSAS, (APP. 5/30/1854).             
+ 301  312 1 G 25-3-78B    J 34-2-675B    HR579     AUG. 30, 1856              
+ 301  312 2 S342011       Y=26 N=7                 HUNTER, VA.                
+ 301  312 3 TO AMEND H.R. 579, (APP. 8/30/1856), A BILL MAKING                
+ 301  312 4 APPROPRIATIONS FOR THE SUPPORT OF THE ARMY FOR 1857, BY           
+ 301  312 5 ELIMINATING THE HOUSE PROVISION FORBIDDING ANY PART OF THE        
+ 301  312 6 U.S. MILITARY FORCE FROM ENFORCING ANY ACT PASSED BY THE          
+ 301  312 7 ALLEGED TERRITORIAL LEGISLATURE OF KANSAS.                        
+ 302  313 1 G 25-3-78C    J 34-2-676     HR579     AUG. 30, 1856              
+ 302  313 2 S342012       Y=25 N=7                 HUNTER, VA.                
+ 302  313 3 TO PASS H.R. 579, (APP. 8/30/1856), A BILL MAKING                 
+ 302  313 4 APPROPRIATIONS FOR THE ARMY FOR 1857.                             
+ 303  314 1 G 25-3-79     J 34-2-677A    SRE       AUG. 30, 1856              
+ 303  314 2 S342013       Y=18 N=16                BROWN, MISS.               
+ 303  314 3 TO ADOPT THE RESOLUTION DIRECTING THE SECRETARY OF THE            
+ 303  314 4 SENATE TO PAY TO THE "UNION", THE "NATIONAL INTELLIGENCER"        
+ 303  314 5 AND THE "SENTENIL", NEWSPAPERS, $4.50 PER COLUMN FOR              
+ 303  314 6 PUBLISHING SENATE DEBATES AND PROCEEDINGS, PROVIDED NO            
+ 303  314 7 DUPLICATION OF PAYMENT IS MADE.                                   
+ 304  315 1 G 25-3-80     J 34-2-677B    SRE       AUG. 30, 1856              
+ 304  315 2 S342014       Y=7 N=26                 MASON, VA.                 
+ 304  315 3 TO TABLE THE RESOLUTION TO PAY A BONUS OF FIFTY DOLLARS TO        
+ 304  315 4 ALL SENATE AND CONGRESSIONAL LIBRARY EMPLOYEES FOR SERVICES       
+ 304  315 5 RENDERED OUT OF THE CONTINGENT FUND.                              
+ 305  316 1 G 25-3-81     J 34-2-678     SRE       AUG. 30, 1856              
+ 305  316 2 S342015       Y=21 N=11                CLAYTON, DEL.              
+ 305  316 3 TO ADOPT THE RESOLUTION TO PAY TO EACH EMPLOYEE OF THE            
+ 305  316 4 SENATE AND THE CONGRESSIONAL LIBRARY DURING THE LAST              
+ 305  316 5 SESSION OF CONGRESS, THE SAME COMPENSATION ALLOWED TO             
+ 305  316 6 EMPLOYEES OF THE HOUSE AND TO PAY $50 TO ROBERT CARTER,           
+ 305  316 7 HENRY DODSON, AND EACH OF THE FOLDERS TEMPORARILY                 
+ 305  316 8 EMPLOYED IN THE SENATE.                                           
+ 306  317 1 G 26- -43     J 34-3-30      SRE       DEC. 8, 1856               
+ 306  317 2 S343001       Y=34 N=12                PEARCE, MD.                
+ 306  317 3 TO ADOPT THE LIST OF STANDING COMMITTEES.                         
+ 307  318 1 G 26- -117    J 34-3-42A     SRE       DEC. 15, 1856              
+ 307  318 2 S343002       Y=31 N=13                JONES, IOWA                
+ 307  318 3 TO AMEND MOTION RELATIVE TO THE CONTESTED ELECTION OF             
+ 307  318 4 JAMES HARLAN OF IOWA TO THE SENATE, BY REFERRING HARLAN'S         
+ 307  318 5 CREDENTIALS TO THE COMMITTEE ON JUSICIARY.                        
+ 308  319 1 G 26- -121    J 34-3-42B     HR154     DEC. 15, 1856              
+ 308  319 2 S343003       Y=10 N=33                PRATT, MD.                 
+ 308  319 3 TO AMEND H.R. 154, A BILL SETTLING THE CLAIMS OF                  
+ 308  319 4 REVOLUTIONARY ARMY OFFICERS OR THEIR WIDOWS AND ORPHANS,          
+ 308  319 5 BY INCLUDING NAVAL OFFICERS, THEIR WIDOWS AND CHILDREN OF         
+ 308  319 6 THE REVOLUTION.                                                   
+ 309  320 1 G 26- -147A   J 34-3-48A     SJR44     DEC. 17, 1856              
+ 309  320 2 S343004       Y=10 N=28                BAYARD, DEL.               
+ 309  320 3 TO AMEND S.J.R. 44 (APP. 12/26/1856, 11 STAT. L. 252), A          
+ 309  320 4 RESOLUTION GRANTING THE CREDITORS OF TEXAS FURTHER TIME TO        
+ 309  320 5 PRESENT THEIR CLAIMS, BY ELIMINATING ALL AFTER THE                
+ 309  320 6 ENACTING CLAUSE, AND PROVIDING INSTEAD, THAT THE JOINT            
+ 309  320 7 RESOLUTION RELATING TO THE SAME SUBJECT APP. 8/18/1856,           
+ 309  320 8 BE REPEALED.                                                      
+ 310  321 1 G 26- -147B   J 34-3-48B     SJR44     DEC. 17, 1856              
+ 310  321 2 S343005       Y=35 N=9                 RUSK, TEX.                 
+ 310  321 3 TO ORDER ENGROSSMENT AND THIRD READING OF S.J.RES. 44,            
+ 310  321 4 (APP. 12/26/1856, 11 STAT.L. 252), A RESOLUTION GRANTING          
+ 310  321 5 THE CREDITORS OF TEXAS FURTHER TIME TO PRESENT THEIR CLAIMS.      
+ 311  322 1 G 26- -177    J 34-3-55      HR251     DEC. 22, 1856              
+ 311  322 2 S343006       Y=28 N=13                SEWARD, N.Y.               
+ 311  322 3 TO ENGROSS AMENDMENTS AND READ A THIRD TIME H.R. 251,             
+ 311  322 4 (APP. 2/5/1857), A BILL AUTHORIZING THE PRESIDENT TO              
+ 311  322 5 PROCURE A STEAM REVENUE CUTTER TO BE STATIONED AT NEW YORK,       
+ 311  322 6 AND APPROPRIATING $150,000 THEREFOR, AMENDMENTS TO SAME           
+ 311  322 7 ELIMINATING TWO PROVISIONS THAT THE CUTTER BE USED TO AID         
+ 311  322 8 DISTRESSED VESSELS, AND STATIONED IN NEW YORK PORT.               
+ 312  323 1 G 26- -299A   J 34-3-82A     SRE       JAN. 12, 1857              
+ 312  323 2 S343007       Y=18 N=27                TOOMBS, GA.                
+ 312  323 3 TO AMEND THE RESOLUTION RELATING TO THE SEATING OF                
+ 312  323 4 JAMES HARLAN, BY ELIMINATING ALL AFTER THE WORD "RESOLVED"        
+ 312  323 5 AND PROVIDING THAT HE IS ENTITLED TO A SEAT AS A SENATOR          
+ 312  323 6 FROM IOWA.                                                        
+ 313  324 1 G 26- -299B   J 34-3-82B     SRE       JAN. 12, 1857              
+ 313  324 2 S343008       Y=28 N=18                BUTLER, S.C.               
+ 313  324 3 TO ADOPT THE RESOLUTION DECLARING THE SEAT OF JAMES HARLAN,       
+ 313  324 4 SENATOR FROM IOWA, VACANT. (GLOBE READS THAT THE RESOLUTION       
+ 313  324 5 DECLARES JAMES HARLAN IS NOT ENTITLED TO A SEAT.)                 
+ 314  325 1 G 26- -314A   J 34-3-86A     HR13      JAN. 13, 1857              
+ 314  325 2 S343009       Y=22 N=20                BAYARD, DEL.               
+ 314  325 3 TO AMEND H.R. 13, (APP. 2/7/1857 11 STAT. L. 495), A BILL         
+ 314  325 4 FOR THE PAYMENT OF THE CLAIM OF MARY REESIDE FOR                  
+ 314  325 5 TRANSPORTATION OF MAIL, BY ELIMINATING THE PROVISION FOR          
+ 314  325 6 THE PAYMENT OF INTEREST ON THE CLAIM.                             
+ 315  326 1 G 26- -314B   J 34-3-86B     HR13      JAN. 13, 1857              
+ 315  326 2 S343010       Y=28 N=15                FESSENDEN, ME.             
+ 315  326 3 TO ORDER ENGROSSMENT OF AMENDMENTS AND THIRD READING OF           
+ 315  326 4 H.R. 13, (APP. 2/7/1857, 11 STAT. L. 495), A BILL PAYING          
+ 315  326 5 THE CLAIM OF MARY REESIDE FOR TRANSPORTATION OF MAIL.             
+ 316  327 1 G 26- -337    J 34-3-93      HR154     JAN. 15, 1857              
+ 316  327 2 S343011       Y=26 N=21                PUGH, OHIO                 
+ 316  327 3 TO AMEND H.R. 154, A BILL FOR THE FINAL SETTLEMENT OF             
+ 316  327 4 CLAIMS OF THE OFFICERS OF THE REVOLUTIONARY ARMY AND THEIR        
+ 316  327 5 WIDOWS AND CHILDREN, BY PROVIDING FOR PAYMENT OF THE              
+ 316  327 6 DIFFERENCES BETWEEN THE AMOUNT SPECIFIED IN CERTIFICATES          
+ 316  327 7 ISSUED TO SAID OFFICERS AND THE REAL VALUE OF SUCH                
+ 316  327 8 CERTIFICATES AT THE TIME OF ISSUANCE.                             
+ 317  328 1 G 26- -338A   J 34-3-94A     HR154     JAN. 15, 1857              
+ 317  328 2 S343012       Y=38 N=8                 BAYARD, DEL.               
+ 317  328 3 TO AMEND H.R. 154, BY PROVIDING FOR PAYMENT OF CLAIMS OF          
+ 317  328 4 OFFICERS TO THEIR CHILDREN, OR GRANDCHILDREN.                     
+ 318  329 1 G 26- -338B   J 34-3-94B     HR154     JAN. 15, 1857              
+ 318  329 2 S343013       Y=9 N=35                 SEWARD, N.Y.               
+ 318  329 3 TO AMEND H.R. 154, BY PROVIDING FOR THE PAYMENT OF INTEREST       
+ 318  329 4 ON ALL CLAIMS FROM THE DATE THE COMMUTATION CERTIFICATES          
+ 318  329 5 WERE ISSUED.                                                      
+ 319  330 1 G 26- -344    J 34-3-95      PROC      JAN. 16, 1857              
+ 319  330 2 S343014       Y=30 N=12                CASS, MICH.                
+ 319  330 3 TO ADJOURN UNTIL NEXT MONDAY.                                     
+ 320  331 1 G 26- -347A   J 34-3-97A     HR154     JAN. 16, 1857              
+ 320  331 2 S343015       Y=22 N=26                TOOMBS, GA.                
+ 320  331 3 TO POSTPONE INDEFINITELY, H.R. 154.                               
+ 321  332 1 G 26- -347B   J 34-3-97B     HR154     JAN. 16, 1857              
+ 321  332 2 S343016       Y=24 N=23                PUGH, OHIO                 
+ 321  332 3 TO POSTPONE UNTIL THE FIRST MONDAY IN DECEMBER CONSIDERATION      
+ 321  332 4 OF H.R. 154.                                                      
+ 322  333 1 G 26- -368    J 34-3-102     HR607     JAN. 19, 1857              
+ 322  333 2 S343017       Y=11 N=25                HUNTER, VA.                
+ 322  333 3 TO AMEND H.R. 607, (APP. 2/7/1857, 11 STAT. L. 159), A BILL       
+ 322  333 4 MAKING APPROPRIATIONS FOR THE CONSULAR AND DIPLOMATIC             
+ 322  333 5 SERVICE FOR 1858, BY APPROPRIATING $25,000 FOR THE                
+ 322  333 6 COMPENSATION OF CONSULAR PUPILS.                                  
+ 323  334 1 G 26- -373A   J 34-3-103A    HR607     JAN. 19, 1857              
+ 323  334 2 S343018       Y=14 N=21                MASON, VA.                 
+ 323  334 3 TO AMEND AN AMENDMENT TO H.R. 607, BY PROVIDING FOR THE           
+ 323  334 4 REPEAL OF SO MUCH OF THE ACT APPROVED MAR. 1, 1855 AS             
+ 323  334 5 REQUIRES THAT ONLY CITIZENS BE APPOINTED TO CONSULAR              
+ 323  334 6 OFFICES.                                                          
+ 324  335 1 G 26- -373B   J 34-3-103B    HR607     JAN. 19, 1857              
+ 324  335 2 S343019       Y=23 N=12                RUSK, TEX.                 
+ 324  335 3 TO AMEND H.R. 607, BY REPEALING THE SEVENTH SECTION OF THE        
+ 324  335 4 ACT REGULATING THE DIPLOMATIC AND CONSULAR SYSTEM APPROVED        
+ 324  335 5 AUG. 18, 1856, THEREBY ABOLISHING CONSULAR PUPILS AS              
+ 324  335 6 THEREIN DEFINED, WHO HAVE NOT BEEN PROVIDED FOR IN                
+ 324  335 7 APPROPRIATION.                                                    
+ 325  336 1 G 26-         J 34-3-118     S493      JAN. 22, 1857              
+ 325  336 2 S343020       Y=29 N=18                SEWARD, N.Y.               
+ 325  336 3 TO PASS S. 493, (APP. 3/3/1857, 11 STAT. L. 187), A BILL          
+ 325  336 4 EXPEDITING TELEGRAPHIC COMMUNICATIONS FOR THE GOVERNMENT USE      
+ 325  336 5 IN FOREIGN INTERCOURSE.                                           
+ 326  337 1 G 26- -443A   J 34-3-121A    HR757     JAN. 23, 1857              
+ 326  337 2 S343021       Y=8 N=39                 SEWARD, N.Y.               
+ 326  337 3 TO AMEND H.R. 757, (APP. 1/27/1857, 11 STAT. L. 155), A           
+ 326  337 4 BILL COMPELLING THE ATTENDENCE OF WITNESSES ON THE SUMMONS        
+ 326  337 5 OF EITHER HOUSE, BY INSERTING THE WORD "MATERIAL" IN THE          
+ 326  337 6 PROVISION THAT ANY PERSON SUMMONED BY THE HOUSE WHO REFUSES       
+ 326  337 7 TO ANSWER ANY MATERIAL QUESTION SHALL BE LIABLE FOR A             
+ 326  337 8 MISDEMEANOR AND IF FOUND QUILTY, FINED $100 AND IMPRISONED        
+ 326  337 9 FROM ONE TO 12 MONTHS.                                            
+ 327  338 1 G 26- -443B   J 34-3-121B    HR757     JAN. 23, 1857              
+ 327  338 2 S343022       Y=8 N=39                 SEWARD, N.Y.               
+ 327  338 3 TO AMEND H.R. 757, BY PROVIDING THAT ANY PERSON WILLFULLY         
+ 327  338 4 MAKING DEFAULT IN APPEARING IN AN INQUIRY WITHIN THE              
+ 327  338 5 CONSTITUTIONAL JURISTICTION OF CONGRESS, OR REFUSING TO           
+ 327  338 6 ANSWER PERTENT QUESTIONS, SHALL BE LIABLE FOR A MISDEMEANOR       
+ 327  338 7 AND SHALL BE PUNISHED BY FINE AND IMPRISONMENT.                   
+ 328  339 1 G 26- -443C   J 34-3-122A    HR757     JAN. 23, 1857              
+ 328  339 2 S343023       Y=10 N=35                SEWARD, N.Y.               
+ 328  339 3 TO AMEND H.R. 757, BY DECLARING THAT NO WITNESS BE DEPRIVED       
+ 328  339 4 OF PRIVILEGES ALLOWED WITNESSES BEFORE A JUDICIAL                 
+ 328  339 5 TRIBUNAL BY THE COMMON LAW.                                       
+ 329  340 1 G 26- -443D   J 34-3-122B    HR757     JAN. 23, 1857              
+ 329  340 2 S343024       Y=5 N=40                 WILSON, MASS.              
+ 329  340 3 TO AMEND H.R. 757, BY ELIMINATING THE PROVISION TO GIVE           
+ 329  340 4 IMMUNITY FROM CRIMINAL PROSECUTION TO WITNESSES WHO TESTIFY       
+ 329  340 5 IN CONGRESS.                                                      
+ 330  341 1 G 26- -445    J 34-3-122C    HR757     JAN. 23, 1857              
+ 330  341 2 S343025       Y=46 N=3                 BUTLER, S.C.               
+ 330  341 3 TO PASS H.R. 757.                                                 
+ 331  342 1 G 26- -473    J 34-3-130     HR301     JAN. 26, 1857              
+ 331  342 2 S343026       Y=13 N=37                MALLORY, FLA.              
+ 331  342 3 TO RECOMMIT TO THE COMMITTEE ON NAVAL AFFAIRS, H.R. 301,          
+ 331  342 4 (APP. 1/28/1857, 11 STAT. L. 156), A BILL AUTHORIZING THE         
+ 331  342 5 ESTABLISHMENT OF A NAVAL DEPOT ON BLYTHE ISLAND AT                
+ 331  342 6 BRUNSWICK, GA.                                                    
+ 332  343 1 G 26- -474    J 34-3-131     HR301     JAN. 26, 1857              
+ 332  343 2 S343027       Y=14 N=30                BIGGS, N.C.                
+ 332  343 3 TO AMEND H.R. 301, (APP. 1/28/1857, 11 STAT. L. 156), A BILL      
+ 332  343 4 AUTHORIZING THE ESTABLISHMENT OF A NAVAL DEPOT ON BLYTHE          
+ 332  343 5 ISLAND OFF THE COAST OF GEORGIA, BY ELIMINATING BLYTHE            
+ 332  343 6 ISLAND AND SHIFTING THE LOCATION TO SOME POINT BETWEEN            
+ 332  343 7 VIRGINIA AND FLORIDA.                                             
+ 333  344 1 G 26- -505    J 34-3-143     PROC      JAN. 30, 1857              
+ 333  344 2 S343028       Y=23 N=22                STUART, MICH.              
+ 333  344 3 TO POSTPONE THE PRIVATE CALENDAR IN ORDER TO TAKE UP              
+ 333  344 4 EXECUTIVE BUSINESS.                                               
+ 334  345 1 G 26- -534    J 34-3-146     HR614     JAN. 31, 1857              
+ 334  345 2 S343029       Y=24 N=13                HUNTER, VA.                
+ 334  345 3 TO AGREE TO AMENDMENT TO H.R. 614                                 
+ 334  345 4 (APP. 3/3/1857, 11 STAT. L. 169), A BILL MAKING                   
+ 334  345 5 APPROPRIATIONS FOR EXPENSES OF THE INDIAN DEPARTMENT AND          
+ 334  345 6 FOR FULFILLING TREATY OBLIGATIONS WITH CERTAIN TRIBES FOR         
+ 334  345 7 1858, BY APPROPRIATING $264,000 FOR RESTORING AND                 
+ 334  345 8 MAINTAINING PEACE WITH TRIBES IN OREGON TERRITORY.                
+ 335  346 1 G 26- -535    J 34-3-147     HR614     JAN. 31, 1857              
+ 335  346 2 S343030       Y=23 N=14                HUNTER, VA.                
+ 335  346 3 TO AMEND H.R. 614, BY APPROPRIATING $40,000 FOR THE               
+ 335  346 4 EXPENSES OF THE INDIAN SERVICE IN WASHINGTON TERRITORY.           
+ 336  347 1 G 26- -550    J 34-3-152     HR614     FEB. 2, 1857               
+ 336  347 2 S343031       Y=22 N=10                RUSK, TEX.                 
+ 336  347 3 TO SUSTAIN THE CHAIR'S DECISION DURING DEBATE ON H.R. 614,        
+ 336  347 4 RULING THAT THE PROVISIONS OF THE TREATY HAD BEEN MET BY          
+ 336  347 5 APPROPRIATING AND PAYING CERTAIN CLASSES OF PEOPLE, AND           
+ 336  347 6 THAT THE AMENDMENT NOW PRESENTED IS OUT OF ORDER BECAUSE          
+ 336  347 7 IT PROVIDES FOR A PRIVATE CLAIM.                                  
+ 337   26 1               EX J 10-184    SRE       FEB. 4, 1857               
+ 337   26 2 E343001       Y=36 N=7                 WELLER, CAL.               
+ 337   26 3 TO RECOMMIT TO THE COMMITTEE ON FOREIGN RELATIONS, THE            
+ 337   26 4 RESOLUTION RELATING TO THE TREATY WITH GREAT BRITAIN AND          
+ 337   26 5 IRELAND WITH RESPECT TO CENTRAL AMERICA, CONCLUDED AND            
+ 337   26 6 SIGNED AT LONDON, 10/17/1856.                                     
+ 338  348 1 G 26- -597    J 34-3-170     HR13      FEB. 6, 1857               
+ 338  348 2 S343032       Y=11 N=36                TOOMBS, GA.                
+ 338  348 3 TO AMEND H.R. 13, (APP. 2/7/1857, 11 STAT. L. 495), A BILL        
+ 338  348 4 PAYING THE CLAIM OF MARY REESIDE FOR TRANSPORTATION OF MAIL,      
+ 338  348 5 BY ELIMINATING INTEREST THEREON FROM 12/6/1841.                   
+ 339  349 1 G 26- -598A   J 34-3-171A    HR13      FEB. 6, 1857               
+ 339  349 2 S343033       Y=18 N=28                SEWARD, N.Y.               
+ 339  349 3 TO AMEND H.R. 13, BY PROVIDING THAT THIS ACT SHALL NOT BE         
+ 339  349 4 HELD TO SANCTION THE JUDGEMENT OF THE COURT OF CLAIMS AS          
+ 339  349 5 HAVING ANY VALID EFFECT AGAINST THE U.S.                          
+ 340  350 1 G 26- -598B   J 34-3-171B    HR13      FEB. 6, 1857               
+ 340  350 2 S343034       Y=32 N=14                FESSENDEN, ME.             
+ 340  350 3 TO PASS H.R. 13.                                                  
+ 341  351 1 G 26- -600    J 34-3-171C    S477      FEB. 6, 1857               
+ 341  351 2 S343035       Y=14 N=24                BROWN, MISS.               
+ 341  351 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 477, A BILL          
+ 341  351 4 COMPENSATING THE HEIRS OF CHARLES NEWBOLD WITH LAND SCRIPT        
+ 341  351 5 FOR THE 12 SECTIONS LOCATED ON VACANT AND UNAPPROPRIATED          
+ 341  351 6 LANDS OF THE U.S.                                                 
+ 342  352 1 G 26- -615    J 34-3-176     SRE       FEB. 7, 1857               
+ 342  352 2 S343036       Y=25 N=22                ALLEN, R.I.                
+ 342  352 3 TO TABLE THE MOTION TO RECONSIDER THE VOTE ADOPTING THE           
+ 342  352 4 RESOLUTION REQUESTING THE PRESIDENT TO INFORM THE SENATE          
+ 342  352 5 ABOUT DESERTERS FROM THE NAVY SINCE FEB. 28, 1855.                
+ 343  353 1 G 26- -619    J 34-3-177     S305      FEB. 7, 1857               
+ 343  353 2 S343037       Y=26 N=14                ADAMS, MISS.               
+ 343  353 3 TO TABLE S. 305, A BILL FOR THE RELIEF OF OBED HUSSEY.            
+ 344  354 1 G 26- -621    J 34-3-178     S349      FEB. 7, 1857               
+ 344  354 2 S343038       Y=31 N=7                 JONES, TENN.               
+ 344  354 3 TO PASS S. 349. A BILL PROPOSING TO PAY $12,000 WITH              
+ 344  354 4 INTEREST FROM 1839 TO JEAN B. AND PELAGIE FARIBAULT FOR           
+ 344  354 5 THE FULL PAYMENT OF THEIR CLAIM TO THE ISLAND AT THE              
+ 344  354 6 CONFLUENCE OF THE MISSISSIPPI AND SAINT PIERRE RIVERS.            
+ 345  355 1 G 26- -626A   J 34-3-179     HR272     FEB. 7, 1857               
+ 345  355 2 S343039       Y=21 N=17                CRITTENDEN, KY.            
+ 345  355 3 TO AMEND H.R. 272, (APP. 2/21/1857, 11 STAT. L. 501), A           
+ 345  355 4 BILL FOR THE PAYMENT OF $1,879.06 TO THE HEIRS OF                 
+ 345  355 5 COLONEL JOHN HARDIN IN FULL SATISFACTION OF THEIR CLAIM, BY       
+ 345  355 6 INCREASING THE AMOUNT TO $5,600.                                  
+ 346  356 1 G 26- -626B   J 34-3-182     SRE       FEB. 9, 1857               
+ 346  356 2 S343040       Y=12 N=33                TRUMBULL, ILL.             
+ 346  356 3 TO HAVE THE CREDENTIALS OF GRAHAM V. FITCH, SENATOR-ELECT         
+ 346  356 4 FROM INDIANA, REFERRED TO THE COMMITTEE OF THE JUDICIARY.         
+ 347  357 1 G 26- -636    J 34-3-188     S470      FEB. 10, 1857              
+ 347  357 2 S343041       Y=18 N=24                JOHNSON, ARK.              
+ 347  357 3 TO TABLE S. 470, A BILL PROVIDING FOR THE SURVEY OF THE           
+ 347  357 4 OHIO RIVER AND ITS PRINCIPAL TRIBUTARIES.                         
+ 348  358 1 G 26- -668    J 34-3-197A    SRE       FEB. 12, 1857              
+ 348  358 2 S343042       Y=16 N=26                ADAMS, MISS.               
+ 348  358 3 TO POSTPONE ALL PRIOR ORDERS TO CONSIDER S. 487, A BILL           
+ 348  358 4 PROVIDING FOR TRANSPORTATION OF MAILS ON RAILROADS.               
+ 349  359 1 G 26- -669    J 34-3-197B    HR567     FEB. 12, 1857              
+ 349  359 2 S343043       Y=19 N=25                BENJAMIN, LA.              
+ 349  359 3 TO POSTPONE CONSIDERATION OF H.R. 567, A BILL PROVIDING           
+ 349  359 4 FOR THE ENLARGEMENT OF THE AREA OF NAVY YARDS, IN ORDER TO        
+ 349  359 5 CONSIDER S. 505, A BILL FOR THE IMPROVEMENT OF THE                
+ 349  359 6 MISSISSIPPI, MISSOURI, ARKANSAS AND OHIO RIVERS.                  
+ 350  360 1 G 26- -671A   J 34-3-198A    HR567     FEB. 12, 1857              
+ 350  360 2 S343044       Y=25 N=17                MALLORY, FLA.              
+ 350  360 3 TO AMEND H.R. 567, A BILL GIVING THE SECRETARY OF THE NAVY        
+ 350  360 4 AUTHORITY TO PURCHASE ADDITIONAL LAND ADJOINING CERTAIN           
+ 350  360 5 NAVY YARDS, BY PROVIDING THAT NO SUCH LAND SHALL BE               
+ 350  360 6 PURCHASED ADJACENT TO THE BOSTON NAVY YARD UNLESS THE             
+ 350  360 7 SECRETARY OF THE NAVY SHALL DEEM IT NECESSARY.                    
+ 351  361 1 G 26- -671B   J 34-3-198B    HR567     FEB. 12, 1857              
+ 351  361 2 S343045       Y=29 N=13                FESSENDEN, ME.             
+ 351  361 3 TO TABLE H.R. 567, A BILL PROVIDING FOR THE ADDITION OF           
+ 351  361 4 LAND TO CERTAIN NAVY YARDS.                                       
+ 352  362 1 G 26- -678    J 34-3-201     SRE       FEB. 13, 1857              
+ 352  362 2 S343046       Y=20 N=24                STUART, MICH.              
+ 352  362 3 TO TABLE THE RESOLUTION PROVIDING THAT THE SENATE SHALL           
+ 352  362 4 MEET AT ELEVEN A.M. FOR THE REMAINDER OF THE SESSION.             
+ 353  363 1 G 26- -700    J 34-3-205     S576      FEB. 14, 1857              
+ 353  363 2 S343047       Y=32 N=10                TOOMBS, GA.                
+ 353  363 3 TO PASS S. 576, (APP. 3/3/1857, 11 STAT. L. 200), A BILL          
+ 353  363 4 GRANTING LAND TO THE TERRITORY OF MINNESOTA TO CONSTRUCT          
+ 353  363 5 CERTAIN RAILROADS.                                                
+ 354   27 1               EX J 10-194A   SRE       FEB. 16, 1857              
+ 354   27 2 E343002       Y=25 N=20                PUGH, OHIO                 
+ 354   27 3 TO POSTPONE UNTIL MAR. 6TH NEXT, CONSIDERATION OF THE             
+ 354   27 4 TREATY WITH GREAT BRITAIN AND IRELAND RELATIVE TO CENTRAL         
+ 354   27 5 AMERICA, CONCLUDED AND SIGNED AT LONDON, 10/17/1856.              
+ 355   28 1               EX J 10-194B   SRE       FEB. 16, 1857              
+ 355   28 2 E343003       Y=0 N=39                 MASON, VA.                 
+ 355   28 3 TO DECIDE WHETHER THE WORDS "OR THE FELONIOUS UTTERANCE OF        
+ 355   28 4 FORGED PAPERS" SHALL STAND AS PART OF THE TREATY WITH THE         
+ 355   28 5 NETHERLANDS FOR THE MUTUAL DELIVERY OF CRIMINALS AND              
+ 355   28 6 FUGITIVES FROM JUSTICE, SIGNED AT HAGUE, 5/29/1856.               
+ 356   29 1               EX J 10-195    SRE       FEB. 16, 1857              
+ 356   29 2 E343004       Y=25 N=11                SLIDELL, LA.               
+ 356   29 3 TO AGREE TO RATIFICATION OF THE TREATY BETWEEN THE U.S. AND       
+ 356   29 4 THE NETHERLANDS FOR THE MUTUAL DELIVERY OF CRIMINALS AND          
+ 356   29 5 FUGITIVES FROM JUSTICE, SIGNED AT HAGUE, 5/27/1856.               
+ 357  364 1 G 26- -727A   J 34-3-216A    HR782     FEB. 17, 1857              
+ 357  364 2 S343048       Y=17 N=33                WELLER, CAL.               
+ 357  364 3 TO AMEND AN AMENDMENT TO H.R. 782,                                
+ 357  364 4 (APP. 2/21/1857, 11 STAT. L. 163), A BILL PROVIDING FOR           
+ 357  364 5 AN ADDITIONAL SUM OF $20.00 PER MONTH TO COMMISSION               
+ 357  364 6 OFFICERS AND STOREKEEPERS AND MAKING THE COMMUTATION              
+ 357  364 7 PRICE OF OFFICERS SUBSISTANCE 30 CENTS PER RATION, BY             
+ 357  364 8 PROHIBITING DOUBLE RATIONS TO COMMANDERS OF POSTS.                
+ 358  365 1 G 26- -727B   J 34-3-216B    HR782     FEB. 17, 1857              
+ 358  365 2 S343049       Y=19 N=28                WELLER, CAL.               
+ 358  365 3 TO AMEND H.R. 782, BY PROHIBITING ADDITIONAL OR DOUBLE            
+ 358  365 4 RATIONS FOR THE COMMANDERS OF POSTS AFTER THE PASSAGE OF          
+ 358  365 5 THE ABOVE BILL AND REPEALING ALL CONTRARY LAWS.                   
+ 359  366 1 G 26- -728    J 34-3-217     HR782     FEB. 17, 1857              
+ 359  366 2 S343050       Y=17 N=31                JONES, TENN.               
+ 359  366 3 TO AMEND H.R. 782, BY PROVIDING THAT THE CHIEF INCREASE           
+ 359  366 4 IN PAY WOULD GO TO THE LOWER PAID OFFICERS.                       
+ 360   30 1               EX J 10-197    SRE       FEB. 18, 1857              
+ 360   30 2 E343005       Y=23 N=18                WELLER, CAL.               
+ 360   30 3 TO TABLE THE NOMINATION FOR PROMOTION IN THE NAVY OF              
+ 360   30 4 THEODOROUS BAILEY, EDWARD C. STOCKTON AND OTHERS.                 
+ 361   31 1               EX J 10-199A   SRE       FEB. 19, 1857              
+ 361   31 2 E343006       Y=21 N=27                JOHNSON, ARK.              
+ 361   31 3 TO TABLE CONSIDERATION OF THE TREATY BETWEEN THE U.S. AND         
+ 361   31 4 GREAT BRITAIN RELATIVE TO CENTRAL AMERICA, SIGNED AT              
+ 361   31 5 LONDON 10/17/1856.                                                
+ 362   32 1               EX J 10-199B   SRE       FEB. 19, 1857              
+ 362   32 2 E343007       Y=19 N=28                STUART, MICH.              
+ 362   32 3 TO POSTPONE INDEFINITLY, THE TREATY BETWEEN THE U.S. AND          
+ 362   32 4 GREAT BRITAIN RELATIVE TO CENTRAL AMERICA, SIGNED AT              
+ 362   32 5 LONDON 10/17/1856.                                                
+ 363  367 1 G 26- -752    J 34-3-223     HR799     FEB. 19, 1857              
+ 363  367 2 S343051       Y=17 N=24                ADAMS, MISS.               
+ 363  367 3 TO TABLE H.R. 799, A BILL FOR THE RELIEF OF THE PEOPLE OF         
+ 363  367 4 KANSAS.                                                           
+ 364  368 1 G 26- -753    J 34-3-224     HR799     FEB. 19, 1857              
+ 364  368 2 S343052       Y=30 N=20                WELLER, CAL.               
+ 364  368 3 TO TABLE H.R. 799, A BILL FOR THE RELIEF OF THE PEOPLE OF         
+ 364  368 4 KANSAS.                                                           
+ 365   33 1               EX J 10-200    SRE       FEB. 20, 1857              
+ 365   33 2 E343008       Y=27 N=26                DOUGLAS, ILL.              
+ 365   33 3 TO TABLE CONSIDERATION OF THE TREATY BETWEEN THE U.S. AND         
+ 365   33 4 GREAT BRITAIN, RELATIVE TO CENTRAL AMERICA, SIGNED AT             
+ 365   33 5 LONDON, 10/17/1856.                                               
+ 366  369 1 G 26- -781    J 34-3-234     S517      FEB. 20, 1857              
+ 366  369 2 S343053       Y=28 N=11                EVANS, S.C.                
+ 366  369 3 TO PASS S. 517, A BILL PAYING $5,000 TO ELIZABETH MONTGOMERY      
+ 366  369 4 DAUGHTER OF HUGH MONTGOMERY, AS DAMAGES FOR THE DESTRUCTION       
+ 366  369 5 OF HIS SHIP THE "NANCY". (GLOBE READS TO ORDER ENGROSSMENT        
+ 366  369 6 AND THIRD READING.)                                               
+ 367  370 1 G 26- -814A   J 34-3-237A    HR642     FEB. 21, 1857              
+ 367  370 2 S343054       Y=27 N=24                BIGGS, N.C.                
+ 367  370 3 TO AMEND H.R. 642, (APP. 2/26/1857, 11 STAT. L. 166), A           
+ 367  370 4 BILL AUTHORIZING THE PEOPLE OF THE TERRITORY OF MINNESOTA         
+ 367  370 5 TO FORM A CONSTITUTION AND STATE GOVERNMENT PREPARATORY TO        
+ 367  370 6 THEIR ADMISSION INTO THE UNION AS A STATE, BY PROVIDING           
+ 367  370 7 THAT ONLY CITIZENS OF THE U.S. SHALL BE ENTITLED TO VOTE AT       
+ 367  370 8 THE ELECTION PROVIDED BY THIS ACT.                                
+ 368  371 1 G 26- -814B   J 34-3-237B    HR642     FEB. 21, 1857              
+ 368  371 2 S343055       Y=47 N=1                 DOUGLAS, ILL.              
+ 368  371 3 TO PASS H.R. 642, (APP. 2/26/1857, 11 STAT. L. 166), A BILL       
+ 368  371 4 AUTHORIZING THE PEOPLE OF THE TERRITORY OF MINNESOTA TO           
+ 368  371 5 ADOPT A CONSTITUTION AND FORM A STATE GOVERNMENT PRIOR TO         
+ 368  371 6 ADMISSION AS A STATE.                                             
+ 369  372 1 G 26- -817    J 34-3-238     S176      FEB. 21, 1857              
+ 369  372 2 S343056       Y=10 N=30                BIGGS, N.C.                
+ 369  372 3 TO AMEND S. 176, A BILL ESTABLISHING A SEPARATE JUDICIAL          
+ 369  372 4 DISTRICT SOUTH OF THE GILA RIVER AND TO CREATE THE OFFICE         
+ 369  372 5 OF SURVEYOR GENERAL THEREIN, BY ELIMINATING THE PROVISION         
+ 369  372 6 DONATING 160 ACRES OF LAND TO SETTLERS.                           
+ 370  373 1 G 26- -821    J 34-3-239     S176      FEB. 21, 1857              
+ 370  373 2 S343057       Y=23 N=13                DOUGLAS, ILL.              
+ 370  373 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 176, A BILL          
+ 370  373 4 ESTABLISHING A SEPARATE JUDICIAL DISTRICT SOUTH OF THE            
+ 370  373 5 GILA RIVER AND CREATE THE OFFICE OF SURVEYOR GENERAL              
+ 370  373 6 THEREIN.                                                          
+ 371   34 1               EX J 10-203A   SRE       FEB. 23, 1857              
+ 371   34 2 E343009       Y=23 N=26                BUTLER, S.C.               
+ 371   34 3 TO POSTPONE UNTIL MAR. 5TH NEXT, CONSIDERATION OF THE             
+ 371   34 4 APPOINTMENT OF JAMES O. HARRISON AS CHIEF JUSTICE OF KANSAS.      
+ 372   35 1               EX J 10-203B   SRE       FEB. 23, 1857              
+ 372   35 2 E343010       Y=32 N=16                CLAY, ALA.                 
+ 372   35 3 TO ADJOURN, DURING DEBATE ON THE APPOINTMENT OF                   
+ 372   35 4 JAMES O. HARRISON AS CHIEF JUSTICE OF KANSAS.                     
+ 373  374 1 G 26- -860    J 34-3-246A    HR642     FEB. 24, 1857              
+ 373  374 2 S343058       Y=35 N=21                HALE, N.H.                 
+ 373  374 3 TO RECONSIDER THE VOTE PASSING H.R. 642.                          
+ 374  375 1 G 26- -864    J 34-3-246B    HR642     FEB. 24, 1857              
+ 374  375 2 S343059       Y=19 N=22                PRATT, MD.                 
+ 374  375 3 TO ADJOURN, DURING DEBATE ON H.R. 642.                            
+ 375  376 1 G 26- -865A   J 34-3-247A    HR642     FEB. 24, 1857              
+ 375  376 2 S343060       Y=12 N=19                BIGGS, N.C.                
+ 375  376 3 TO ADJOURN, DURING DEBATE ON H.R. 642.                            
+ 376  377 1 G 26- -865B   J 34-3-247B    HR642     FEB. 24, 1857              
+ 376  377 2 S343061       Y=12 N=16                BELL, TENN.                
+ 376  377 3 TO ADJOURN, DURING DEBATE ON H.R. 642.                            
+ 377  378 1 G 26- -867    J 34-3-250A    S493      FEB. 25, 1857              
+ 377  378 2 S343062       Y=32 N=23                COLLAMER, VT.              
+ 377  378 3 TO CONSIDER THE HOUSE AMENDMENT TO S. 493,                        
+ 377  378 4 (APP. 3/3/1857, 11 STAT. L. 187), A BILL EXPEDITING               
+ 377  378 5 TELEGRAPHIC COMMUNICATION FOR THE USE OF THE GOVERNMENT IN        
+ 377  378 6 ITS FOREIGN INTERCOURSE.                                          
+ 378  379 1 G 26- -868    J 34-3-250B    S493      FEB. 25, 1857              
+ 378  379 2 S343064       Y=26 N=26                THOMPSON, KY.              
+ 378  379 3 TO POSTPONE UNTIL MAR. 5TH, CONSIDERATION OF S. 493.              
+ 379  380 1 G 26- -872A   J 34-3-251A    S493      FEB. 25, 1857              
+ 379  380 2 S343065A      Y=23 N=34                RUSK, TEX.                 
+ 379  380 3 TO POSTPONE PRIOR ORDERS TO CONTINUE DEBATE ON S. 493.            
+ 380  381 1 G 26- -872B   J 34-3-251B    HR642     FEB. 25, 1857              
+ 380  381 2 S343065B      Y=31 N=24                HALE, N.H.                 
+ 380  381 3 TO RECONSIDER THE VOTE ADOPTING THE AMENDMENT TO H.R. 642,        
+ 380  381 4 WHICH AMENDMENT PROVIDES THAT ONLY THOSE ENTITLED TO VOTE         
+ 380  381 5 FOR DELEGATES TO THE CONSTITUTIONAL CONVENTION SHALL BE           
+ 380  381 6 QUALIFIED TO VOTE AT THE ELECTION FOR THE APPROVAL AND            
+ 380  381 7 RATIFICATION OF THE CONSTITUTION.                                 
+ 381  382 1 G 26- -872C   J 34-3-252A    HR642     FEB. 25, 1857              
+ 381  382 2 S343066       Y=31 N=21                GREEN, MO.                 
+ 381  382 3 TO RECONSIDER THE VOTE ADOPTING AN AMENDMENT TO H.R. 642,         
+ 381  382 4 WHICH AMENDMENT RESTRICTS TO AMERICAN CITIZENS THE RIGHT TO       
+ 381  382 5 VOTE FOR DELEGATES.                                               
+ 382  383 1 G 26- -877A   J 34-3-252B    HR642     FEB. 25, 1857              
+ 382  383 2 S343067       Y=24 N=32                BIGGS, N.C.                
+ 382  383 3 TO AMEND H.R. 642, BY PROVIDING THAT ONLY CITIZENS BE             
+ 382  383 4 ALLOWED TO VOTE AT ELECTION OF DELEGATES TO CONVENTION TO         
+ 382  383 5 FORM A CONSTITUTION.                                              
+ 383  384 1 G 26- -877B   J 34-3-252C    HR642     FEB. 25, 1857              
+ 383  384 2 S343068       Y=31 N=22                DOUGLAS, ILL.              
+ 383  384 3 TO PASS H.R. 642.                                                 
+ 384  385 1 G 26- -878A   J 34-3-253A    S493      FEB. 25, 1857              
+ 384  385 2 S343069       Y=24 N=29                IVERSON, GA.               
+ 384  385 3 TO TABLE S. 493.                                                  
+ 385  386 1 G 26- -878B   J 34-3-253B    S493      FEB. 25, 1857              
+ 385  386 2 S343070       Y=24 N=28                HUNTER, VA.                
+ 385  386 3 TO AMEND S. 493, BY PROVIDING THAT NO CONTRACT SHALL BE           
+ 385  386 4 BINDING ON THE U.S. UNTIL APPROVED BY CONGRESS.                   
+ 386  387 1 G 26- -882A   J 34-3-254A    S493      FEB. 25, 1857              
+ 386  387 2 S343071       Y=18 N=22                IVERSON, GA.               
+ 386  387 3 TO AMEND S. 493, BY STIPULATING THAT THE SUM PROVIDED BY          
+ 386  387 4 THIS BILL WILL BE WITHHELD IF COMPANIES FAIL TO REPORT            
+ 386  387 5 THEIR EXPENSES AND PROFITS ANNUALLY.                              
+ 387  388 1 G 26- -882B   J 34-3-254B    S493      FEB. 25, 1857              
+ 387  388 2 S343072       Y=19 N=20                PUGH, OHIO                 
+ 387  388 3 TO AMEND AN AMENDMENT TO S. 493, BY GIVING TO CONGRESS THE        
+ 387  388 4 RIGHT TO TERMINATE CONTRACTS AFTER FIVE YEARS INSTEAD OF          
+ 387  388 5 TEN YEARS.                                                        
+ 388  389 1 G 26- -294APP.J 34-3-259     S622      FEB. 26, 1857              
+ 388  389 2 S343073       Y=27 N=16                RUSK, TEX.                 
+ 388  389 3 TO POSTPONE ALL PRIOR ORDERS AND TO PROCEED TO CONSIDERATION      
+ 388  389 4 OF S. 622, A BILL ESTABLISHING A TELEGRAPH SYSTEM FROM THE        
+ 388  389 5 ATLANTIC STATES TO SAN FRANCISCO.                                 
+ 389  390 1 G 26- 298APP. J 34-3-259     S622      FEB. 26, 1857              
+ 389  390 2 S343074       Y=36 N=15                RUSK, TEX.                 
+ 389  390 3 TO PASS S. 622, A BILL ESTABLISHING A TELEGRAPH SYSTEM FROM       
+ 389  390 4 THE ATLANTIC STATES TO SAN FRANCISCO.                             
+ 390  391 1 G 26--351AAPP.J 34-3-2       HR566     FEB. 26, 1857              
+ 390  391 2 S343075       Y=14 N=33                BAYARD, DEL.               
+ 390  391 3 TO AMEND THE AMENDMENT TO H.R. 566,                               
+ 390  391 4 (APP. 3/3/1857, 11 STAT. L. 192), A BILL REDUCING THE DUTY        
+ 390  391 5 ON IMPORTS, BY ELIMINATING THAT PART OF THE AMENDMENT WHICH       
+ 390  391 6 PROVIDES FOR THE REDUCTION BY ONE-FIFTH THE PRESENT RATES         
+ 390  391 7 ON CERTAIN ARTICLES.                                              
+ 391  392 1 G 26--351BAPP.J 34-3-2       HR566     FEB. 26, 1857              
+ 391  392 2 S343076       Y=35 N=13                HUNTER, VA.                
+ 391  392 3 TO CONCUR IN THE AMENDMENT TO H.R. 566, WHICH AMENDMENT           
+ 391  392 4 PROVIDES THAT ON AND AFTER JULY 1, 1857, THE DUTY ON              
+ 391  392 5 ARTICLES CONTAINED IN SCHEDULES A AND B BE REDUCED TO 30%         
+ 391  392 6 AD VALOREM AND THE DUTY ON ARTICLES CONTAINED IN SCHEDULES        
+ 391  392 7 C,D,E,F,G,AND H BE REDUCED BY ONE-FIFTH FROM THE PRESENT          
+ 391  392 8 DUTIES, EXCEPT AS SPECIFIED IN THIS ACT.                          
+ 392  393 1 G 26- -353APP.J 34-3-262     HR566     FEB. 26, 1857              
+ 392  393 2 S343077       Y=10 N=39                BAYARD, DEL.               
+ 392  393 3 TO AMEND H.R. 566, BY PLACING ALL IMPORTED WINES ON THE           
+ 392  393 4 FREE LIST.                                                        
+ 393  394 1 G 26- -354APP.J 34-3-262     HR566     FEB. 26, 1857              
+ 393  394 2 S343078       Y=26 N=24                CLAY, ALA.                 
+ 393  394 3 TO ADOPT THE AMENDMENT TO H.R. 566, WHICH AMENDMENT               
+ 393  394 4 PROVIDES FOR A REDUCTION OF 25% ON THE RATES OF DUTY              
+ 393  394 5 IMPOSED BY THE ACT OF 7/30/1856, TO TAKE EFFECT 7/1/1857,         
+ 393  394 6 INCLUDING ARTICLES IN PUBLIC STORES ON THE LATER DATE.            
+ 394  395 1 G 26- -356APP.J 34-3-263     HR566     FEB. 26, 1857              
+ 394  395 2 S343079       Y=25 N=24                BELL, TENN.                
+ 394  395 3 TO RECONSIDER THE VOTE ORDERING EMGROSSMENT OF THE                
+ 394  395 4 AMENDMENT AND THIRD READING OF H.R. 566, WHICH AMENDMENT          
+ 394  395 5 MAKES A 25 PER CENT REDUCTION IN THE TARIFF RATES APPROVED        
+ 394  395 6 7/30/1856.                                                        
+ 395  396 1 G 26--356BAPP.J 34-3-26      HR566     FEB. 26, 1857              
+ 395  396 2 S343080       Y=25 N=25                CLAY, ALA.                 
+ 395  396 3 TO AMEND H.R. 566, BY REDUCING , AFTER JULY 1, 1857, CERTAIN      
+ 395  396 4 DUTIES BY 20 AND 30%.                                             
+ 396  397 1 G 26--357AAPP.J 34-3-2       HR566     FEB. 26, 1857              
+ 396  397 2 S343081       Y=26 N=23                COLLAMER, VT.              
+ 396  397 3 TO AMEND AN AMENDMENT TO H.R. 566 BY RAISING THE DUTY ON          
+ 396  397 4 WOOL FROM 8% TO 23%.                                              
+ 397  398 1 G 26--357BAPP.J 34-3-2       HR566     FEB. 26, 1857              
+ 397  398 2 S343082       Y=33 N=9                 DOUGLAS, ILL.              
+ 397  398 3 TO AMEND AN AMENDMENT TO H.R. 566, BY TRANSFERRING TO             
+ 397  398 4 SCHEDULE 1, ALL UNMANUFACTURED WOOL VALUED AT 20 CENTS OR         
+ 397  398 5 LESS, AND OTHER VARIOUS WOOLS.                                    
+ 398  399 1 G 26--358APP. J 34-3-26      HR566     FEB. 26, 1857              
+ 398  399 2 S343083       Y=33 N=12                HUNTER, VA.                
+ 398  399 3 TO ADOPT A SUBSTITUTE AMENDMENT TO H.R. 566, WHICH                
+ 398  399 4 AMENDMENT PROPOSES, IN LIEU OF PRESENT DUTIES, TO IMPOSE A        
+ 398  399 5 DUTY OF 30% ON ARTICLES ENUMERATED IN SCHEDULES A AND B OF        
+ 398  399 6 TARIFF ACT OF 1846, 23% IN SCHEDULES C, 19% IN SCHEDULES D,       
+ 398  399 7 15% IN SCHEDULES E, 12% IN SCHEDULES F, 8% IN SCHEDULES G         
+ 398  399 8 AND 4% IN SCHEDULES F, ALL WITH CERTAIN EXCEPTIONS; ALSO A        
+ 398  399 9 DUTY OF 15% IN SCHEDULE 1 AND ALL ARTICLES NOT ENUMERATED IN      
+ 398  39910 FOREGOING SCHEDULES.                                              
+ 399  400 1 G 26- -306APP J 34-3-271     HR636     FEB. 27, 1857              
+ 399  400 2 S343084       Y=27 N=24                RUSK, TEX.                 
+ 399  400 3 TO AMEND H.R. 636, (APP. 3/3/1857, 11 STAT. L. 188), A BILL       
+ 399  400 4 MAKING APPROPRIATIONS FOR THE POST OFFICE DEPARTMENT FOR          
+ 399  400 5 1858, BY AUTHORIZING THE POSTMASTER GENERAL TO RE-EXAMINE         
+ 399  400 6 AND ADJUST QUESTIONS ARISING OUT OF FINES IMPOSED ON              
+ 399  400 7 CONTRACTORS CARRYING MAIL ON THE MISSISSIPPI RIVER.               
+ 400  401 1 G 26--320AAPP J 34-3-27      HR636     FEB. 27, 1857              
+ 400  401 2 S343085       Y=13 N=20                JOHNSON, ARK.              
+ 400  401 3 TO AMEND H.R. 636, BY ELIMINATING THE SECTION WHICH GIVES TO      
+ 400  401 4 MAIL CONTRACTORS THE RIGHT OF PRE-EMPTION TO 320 ACRES OF         
+ 400  401 5 LAND TO ESTABLISH STATIONS.                                       
+ 401  402 1 G 26--320BAPP J 34-3-27      HR636     FEB. 27, 1857              
+ 401  402 2 S343086       Y=19 N=14                YULEE, FLA.                
+ 401  402 3 TO AMEND H.R. 636, BY AUTHORIZING THE POSTMASTER GENERAL TO       
+ 401  402 4 ACCEPT THE LOWEST BID OFFERED, NOT TO EXCEED $22,000 A YEAR,      
+ 401  402 5 FOR WEEKLY SERVICE TO CONVEY MAILS AND SUPPLIES BY STEAMER        
+ 401  402 6 ON PUGET SOUND, WASHINGTON TERRITORY.                             
+ 402  403 1 G 26-         J 34-3-276     HR636     FEB. 27, 1857              
+ 402  403 2 S343087       Y=24 N=10                RUSK, TEX.                 
+ 402  403 3 TO CONCUR IN A SEPARATE VOTE ON THE AMENDMENT TO H.R. 636,        
+ 402  403 4 WHICH AMENDMENT AUTHORIZES THE POSTMASTER GENERAL TO              
+ 402  403 5 CONTRACT FOR THE CONVEYANCE OF MAIL FROM CERTAIN POINTS ON        
+ 402  403 6 THE MISSISSIPPI RIVER TO SAN FRANCISCO FOR A PERIOD OF            
+ 402  403 7 6 YEARS.                                                          
+ 403  404 1 G 26- -1003A  J 34-3-281A    HR644     FEB. 28, 1857              
+ 403  404 2 S343088       Y=18 N=30                JOHNSON, ARK.              
+ 403  404 3 TO TAKE UP CONSIDERATION OF H.R. 644, A BILL CREATING THE         
+ 403  404 4 OFFICE OF SURVEYOR GENERAL OF PUBLIC LANDS IN MINNESOTA           
+ 403  404 5 TERRITORY.                                                        
+ 404  405 1 G 26- -1003B  J 34-3-281B    HJR31     FEB. 28, 1857              
+ 404  405 2 S343089       Y=27 N=22                CRITTENDEN, KY.            
+ 404  405 3 TO TAKE UP H.J.R. 31, A RESOLUTION AUTHORIZING THE                
+ 404  405 4 PRESIDENT TO CONFER TITLE OF LIEUTENANT GENERAL BY BREVET         
+ 404  405 5 AND PROVIDING FOR COMPENSATION IN SUCH CASES.                     
+ 405  406 1 G 26- -1013   J 34-3-282     HR635     FEB. 28, 1857              
+ 405  406 2 S343090       Y=15 N=23                WADE, OHIO                 
+ 405  406 3 TO AMEND H.R. 635, (APP. 3/3/1857, 11 STAT. L. 240), A BILL       
+ 405  406 4 SUPPLYING DEFICIENCIES IN THE APPROPRIATIONS FOR SERVICE FOR      
+ 405  406 5 1857, BY APPROPRIATING $1,750,000 TO PAY BACK PENSIONS IN         
+ 405  406 6 ACCORDANCE WITH DECISIONS OF THE COURT OF CLAIMS IN THE           
+ 405  406 7 CASE OF JANE SMITH.                                               
+ 406  407 1 G 26- -1016   J 34-3-283     S492      FEB. 28, 1857              
+ 406  407 2 S343091       Y=22 N=16                FESSENDEN, ME.             
+ 406  407 3 TO TABLE S. 492, A BILL SETTLING PRIVATE LAND CLAIMS IN           
+ 406  407 4 NEW MEXICO.                                                       
+ 407  408 1 G 26- -1023   J 34-3-286A    HR606     FEB. 28, 1857              
+ 407  408 2 S343092       Y=25 N=21                HUNTER, VA.                
+ 407  408 3 TO CONCUR IN THE AMENDMENT TO H.R.606,                            
+ 407  408 4 (APP. 3/3/1857, 11 STAT. L. 206), A BILL MAKING                   
+ 407  408 5 APPROPRIATIONS FOR THE LEGISLATIVE, EXECUTIVE AND JUDICIAL        
+ 407  408 6 EXPENSES FOR 1858, WHICH AMENDMENT APPROPRIATES $12,000 FOR       
+ 407  408 7 AN ENVOY AND MINISTER TO PERSIA, $2,800 FOR A SECRETARY AND       
+ 407  408 8 $2,500 FOR AN INTERPRETER TO THE MISSION.                         
+ 408  409 1 G 26- -1027   J 34-3-286B    HR606     FEB. 28, 1857              
+ 408  409 2 S343093       Y=19 N=27                BROWN, MISS.               
+ 408  409 3 TO AMEND AN AMENDMENT TO H.R. 606, BY PROVIDING THAT THE          
+ 408  409 4 SECRETARIES APPOINT CLERKS FROM VARIOUS STATES, EACH TO           
+ 408  409 5 HAVE THEIR OWN QUOTA ACCORDING TO NUMBER OF REPRESENTATIVES       
+ 408  409 6 FROM THE STATE.                                                   
+ 409  410 1 G 26- -1030   J 34-3-287     HR606     FEB. 28, 1857              
+ 409  410 2 S343094       Y=28 N=11                JONES, IOWA                
+ 409  410 3 TO AMEND H.R. 606, BY PAYING TO THE LATE SECRETARY OF             
+ 409  410 4 MADRID, FOR ACTING AS CHARGE D' AFFAIRS DURING THE YEARS          
+ 409  410 5 1852 TO 1855 THE DIFFERENCE BETWEEN HIS REGULAR SALARY AND        
+ 409  410 6 THAT OF A CHARGE D' AFFAIRS, AND TO APPROPRIATE $4,500 FOR        
+ 409  410 7 THE OUTFIT OF A CHARGE D' AFFAIRS.                                
+ 410  411 1 G 26- -1031   J 34-3-288A    HR606     FEB. 28, 1857              
+ 410  411 2 S343095       Y=28 N=9                 HUNTER, VA.                
+ 410  411 3 TO CONCUR IN THE AMENDMENT TO H.R. 606, WHICH AMENDMENT           
+ 410  411 4 APPROPRIATES $20,000 FOR THE LEGISLATIVE EXPENSES FOR THE         
+ 410  411 5 KANSAS ASSEMBLY.                                                  
+ 411  412 1 G 26- -1032A  J 34-3-288B    HR606     FEB. 28, 1857              
+ 411  412 2 S343096       Y=5 N=26                 WELLER, CAL.               
+ 411  412 3 TO CONCUR IN THE AMENDMENT TO H.R. 606, WHICH AMENDMENT           
+ 411  412 4 INCREASES THE SALARY OF THE JUDGE OF SOUTHERN DISTRICT OF         
+ 411  412 5 CALIFORNIA FROM $2,800 PER YEAR TO $4,500 PER YEAR; NO            
+ 411  412 6 QUORUM VOTING.                                                    
+ 412  413 1 G 26- -1032B  J 34-3-288C    HR606     FEB. 28, 1857              
+ 412  413 2 S343097       Y=12 N=18                NOURSE, ME.                
+ 412  413 3 TO ADJOURN, WHILE CONSIDERING H.R. 606; NO QUORUM VOTING.         
+ 413  414 1 G 26- -1040A  J 34-3-292     SRE       MAR. 2, 1857               
+ 413  414 2 S343098       Y=28 N=23                WELLER, CAL.               
+ 413  414 3 TO TABLE THE RESOLUTION CONSIDERING THE CREDENTIALS OF            
+ 413  414 4 SENATOR GRAHAM N. FITCH OF INDIANA.                               
+ 414  415 1 G 26- -1040B  J 34-3-294A    HR606     MAR. 2, 1857               
+ 414  415 2 S343099       Y=13 N=35                WELLER, CAL.               
+ 414  415 3 TO CONCUR IN THE AMENDMENT TO H.R. 606, WHICH AMENDMENT           
+ 414  415 4 MADE IN COMMITTEE OF THE WHOLE, PROPOSES TO INCREASE THE          
+ 414  415 5 SALARY OF THE JUDGE OF THE SOUTHERN DISTRICT OF CALIFORNIA        
+ 414  415 6 FROM $2,800 PER YEAR TO $4,500 PER YEAR.                          
+ 415  416 1 G 26- -1040C  J 34-3-294B    HR606     MAR. 2, 1857               
+ 415  416 2 S343100       Y=32 N=17                DOUGLAS, ILL.              
+ 415  416 3 TO CONCUR IN THE AMENDMENT TO H.R. 606, WHICH AMENDMENT           
+ 415  416 4 SEEKS TO INCREASE THE SALARY OF THE JUDGE OF THE NORTHERN         
+ 415  416 5 DISTRICT OF ILLINOIS FROM $2,500 PER YEAR TO $3,500 PER           
+ 415  416 6 YEAR.                                                             
+ 416  417 1 G 26- -1045   J 34-3-297     HR606     MAR. 2, 1857               
+ 416  417 2 S343101       Y=32 N=11                BELL, N.H.                 
+ 416  417 3 TO AMEND AN AMENDMENT TO H.R. 606, BY SETTING THE SALARY OF       
+ 416  417 4 THE JUDGE OF THE SOUTHERN DISTRICT OF CALIFORNIA AT $3,500        
+ 416  417 5 INSTEAD OF $4,000 PER YEAR.                                       
+ 417  418 1 G 26- -1048   J 34-3-298     HR616     MAR. 2, 1857               
+ 417  418 2 S343102       Y=19 N=22                WELLER, CAL.               
+ 417  418 3 TO AMEND H.R. 616, (APP. 3/3/1857, 11 STAT. L. 200), A BILL       
+ 417  418 4 MAKING APPROPRIATIONS FOR THE ARMY FOR 1858, BY                   
+ 417  418 5 APPROPRIATING A SUM NOT EXCEEDING $76,017.40 FOR THE              
+ 417  418 6 REIMBURSEMENT OF THE TERRITORY OF UTAH FOR MONIES ADVANCED        
+ 417  418 7 AND PAID BY REASON OF TROOPS CALLED INTO SERVICE TO REPEL         
+ 417  418 8 THE INDIAN INVASION OF 1853.                                      
+ 418  419 1 G 26- -1050A  J 34-3-299A    HR616     MAR. 2, 1857               
+ 418  419 2 S343103       Y=22 N=20                JONES, TENN.               
+ 418  419 3 TO AMEND H.R. 616, (APP. 3/3/1857, 11 STAT. L. 200), A BILL       
+ 418  419 4 MAKING APPROPRIATIONS FOR THE ARMY FOR 1858, BY AUTHORIZING       
+ 418  419 5 THE PRESIDENT TO ACCEPT THE DONATION MADE BY TENNESEE OF          
+ 418  419 6 FIVE HUNDRED ACRES OF LAND AND THE RESIDENCE OF                   
+ 418  419 7 ANDREW JACKSON, FOR ESTABLISHING A BRANCH OF THE U.S.             
+ 418  419 8 MILITARY ACADEMY, AND APPROPRIATING $5,000 FOR EXPENSES.          
+ 419  420 1 G 26- -1050B  J 34-3-299B    HR616     MAR. 2, 1857               
+ 419  420 2 S343104       Y=31 N=12                CLAY, ALA.                 
+ 419  420 3 TO SUSTAIN THE CHAIR'S DECISION, RULING IN ORDER THE              
+ 419  420 4 AMENDMENT TO H.R. 616, WHICH AMENDMENT PROVIDES THAT THE          
+ 419  420 5 JOINT RESOLUTION APP. 2/15/1855, AUTHORIZING THE PRESIDENT        
+ 419  420 6 TO CONFER THE TITLE OF LIEUTENANT GENERAL BY BREVET SHALL         
+ 419  420 7 BE SO CONSTRUED AS TO ENTITLE THE APPOINTEES TO THE PAY           
+ 419  420 8 ALLOWANCE AND STAFF DESCRIBED IN THE ACT APP. 5/28/98 AND         
+ 419  420 9 8/23/1842.                                                        
+ 420  421 1 G 26- -1055   J 34-3-302     HR616     MAR. 2, 1857               
+ 420  421 2 S343105       Y=24 N=30                JONES, TENN.               
+ 420  421 3 TO CONCUR IN AN AMENDMENT MADE IN COMMITTEE OF THE WHOLE TO       
+ 420  421 4 H.R. 616, WHICH AMENDMENT AUTHORIZES THE PRESIDENT TO ACCEPT      
+ 420  421 5 THE TENDER BY TENNESEE OF THE RESIDENCE OF THE LATE               
+ 420  421 6 ANDREW JACKSON, TOGETHER WITH 500 ACRES OF LAND AND               
+ 420  421 7 IMPROVEMENTS, FOR THE PURPOSE OF ESTABLISHING A BRANCH OF         
+ 420  421 8 THE MILITARY ACADEMY.                                             
+ 421  422 1 G 26- -1059   J 34-3-303A    HR616     MAR. 2, 1857               
+ 421  422 2 S343106       Y=27 N=23                TOOMBS, GA.                
+ 421  422 3 TO AMEND H.R. 616, BY AUTHORIZING THE PRESIDENT TO CONFER         
+ 421  422 4 THE TITLE OF BREVET LIEUTENANT GENERAL ON GENERAL SCOTT,          
+ 421  422 5 WHO SHALL NOT HAVE MORE THAN TWO AIDES AND ONE SECRETARY,         
+ 421  422 6 EXCEPT IN TIME OF WAR.                                            
+ 422  423 1 G 26- -1060A  J 34-3-303B    HR616     MAR. 2, 1857               
+ 422  423 2 S343107       Y=18 N=28                SEWARD, N.Y.               
+ 422  423 3 TO AMEND AN AMENDMENT TO H.R. 616, BY ELIMINATING ALL OF THE      
+ 422  423 4 AMENDMENT PROPOSING TO ESTABLISH A MILITARY ACADEMY AT            
+ 422  423 5 MOUNT VERNON, EXCEPT THE APPROPRIATION OF $500,000 FOR THE        
+ 422  423 6 PURCHASE OF MOUNT VERNON.                                         
+ 423  424 1 G 26- -1060B  J 34-3-304     HR616     MAR. 2, 1857               
+ 423  424 2 S343108       Y=6 N=41                 JONES, TENN.               
+ 423  424 3 TO AMEND H.R. 616, BY APPROPRIATING $500,000 FOR THE              
+ 423  424 4 ESTABLISHMENT OF A MILITARY ACADEMY AT MOUNT VERNON FOR THE       
+ 423  424 5 INSTRUCTION OF YOUTH IN CAVALRY TACTICS.                          
+ 424  425 1 G 26- -1062   J 34-3-307     HR566     MAR. 2, 1857               
+ 424  425 2 S343109       Y=33 N=8                 HUNTER, VA.                
+ 424  425 3 TO AGREE TO THE CONFERENCE REPORT ON H.R. 566, WHICH              
+ 424  425 4 RECOMMENDS SUBSTITUTE AMENDMENTS TO THOSE DISAGREED TO BY         
+ 424  425 5 BOTH HOUSES AND WHICH PLACE CERTAIN ARTICLES ON THE FREE          
+ 424  425 6 LIST.                                                             
+ 425  426 1 G 26- -1064   J 34-3-309A    HR633     MAR. 2, 1857               
+ 425  426 2 S343110       Y=23 N=12                MALLORY, FLA.              
+ 425  426 3 TO AMEND H.R. 633, (APP. 3/3/1857, 11 STAT. L. 243), A BILL       
+ 425  426 4 MAKING APPROPRIATIONS FOR THE NAVAL SERVICE FOR 1858, BY          
+ 425  426 5 PROVIDING FOR A SUM NOT EXCEEDING $6,700 FOR PUBLICATION OF       
+ 425  426 6 CERTAIN CHARTS.                                                   
+ 426  427 1 G 26- -1068   J 34-3-309B    HR848     MAR. 2, 1857               
+ 426  427 2 S343111       Y=17 N=14                RUSK, TEX.                 
+ 426  427 3 TO ADJOURN, DURING DEBATE ON H.R. 848, A BILL REFUNDING OR        
+ 426  427 4 REMITTING DUTIES ON GOODS AND MERCHANDISE DESTROYED BY FIRE.      
+ 427   36 1               EX J 10-210    SRE       MAR. 3, 1857               
+ 427   36 2 E343011       Y=18 N=18                STUART, MICH.              
+ 427   36 3 TO TABLE THE APPEAL FROM DECISION OF THE CHAIR, MADE DURING       
+ 427   36 4 CONSIDERATION OF RESOLUTION TO APPOINT JAMES SIMONS AS            
+ 427   36 5 ASSISTANT SURGEON IN THE ARMY, WHICH DECISION RULED THAT A        
+ 427   36 6 RESOLUTION CONFIRMING A NOMINATION ON TERMS NOT CONFORMABLE       
+ 427   36 7 TO THE NOMINATION OF THE PRESIDENT IS NOT IN ORDER.               
+ 428  428 1 G 26- -1069   J 34-3-312     S638      MAR. 3, 1857               
+ 428  428 2 S343112       Y=18 N=26                DOUGLAS, ILL.              
+ 428  428 3 TO POSTPONE CONSIDERATION OF S. 638, A BILL GRANTING              
+ 428  428 4 PUBLIC LAND IN KANSAS FOR THE CONSTRUCTION OF A RAILROAD.         
+ 429  429 1 G 26- -1070   J 34-3-316     HR633     MAR. 3, 1857               
+ 429  429 2 S343113       Y=23 N=21                BELL, TENN.                
+ 429  429 3 TO AMEND H.R. 633, (APP. 3/3/1857, 11 STAT. L. 243), A BILL       
+ 429  429 4 MAKING APPROPRIATIONS FOR NAVAL SERVICE FOR 1858, BY ADDING       
+ 429  429 5 A PROVISION TO PAY THE NINE SURVIVING OFFICERS OF THE NAVY        
+ 429  429 6 OF THE REPUBLIC OF TEXAS AT THE TIME OF ANNEXATION, THE           
+ 429  429 7 SAME AMOUNT AS RECEIVED BY OFFICERS OF LIKE GRADE IN THE          
+ 429  429 8 U.S. NAVY FOR FIVE YEARS FROM THE TIME OF THE ANNEXATION OF       
+ 429  429 9 TEXAS.                                                            
+ 430  430 1 G 26- -1074A  J 34-3-321     HR615     MAR. 3, 1857               
+ 430  430 2 S343114       Y=39 N=11                ALLEN, R.I.                
+ 430  430 3 TO AMEND AN AMENDMENT TO H.R. 615,                                
+ 430  430 4 (APP. 3/3/1857, 11 STAT. L. 221), A BILL MAKING                   
+ 430  430 5 APPROPRIATIONS FOR CIVIL EXPENSES OF THE GOVERNMENT FOR 1858      
+ 430  430 6 BY APPROPRIATING $60,000 FOR COLLECTING AGRICULTURAL              
+ 430  430 7 STATISTICS AND FOR PROCURING AND DISTRIBUTING COTTON              
+ 430  430 8 CUTTINGS AND SEEDS AND ALSO APPROPRIATING $35,000 FOR             
+ 430  430 9 COLLECTION OF REPORTS IN RELATION TO WORLD CONSUMPTION OF         
+ 430  43010 COTTON.                                                           
+ 431  431 1 G 26- -1074B  J 34-3-322     HR615     MAR. 3, 1857               
+ 431  431 2 S343115       Y=9 N=35                 PRATT, MD.                 
+ 431  431 3 TO AMEND H.R. 615, BY APPROPRIATING $31,659.10 FOR A NEW          
+ 431  431 4 BASIN IN GEORGETOWN AT THE TERMINUS OF THE CHEASAPEAKE AND        
+ 431  431 5 OHIO CANALS.                                                      
+ 432  432 1 G 26- -1076   J 34-3-322B    HR615     MAR. 3, 1857               
+ 432  432 2 S343116       Y=13 N=34                RUSK, TEX.                 
+ 432  432 3 TO AMEND AN AMENDMENT TO H.R. 615, BY APPROPRIATING $100,000      
+ 432  432 4 FOR THE CONSTRUCTION OF A BRIDGE AT THE AQUEDUCT ON THE           
+ 432  432 5 POTOMAC RIVER AT WASHINGTON, D.C. FOR THE TRANSPORTATION OF       
+ 432  432 6 MAIL BETWEEN THE NORTH AND SOUTH AND GRANTING A RIGHT OF          
+ 432  432 7 WAY TO ANY RAILROAD COMPANY OPERATING A LINE BETWEEN              
+ 432  432 8 WASHINGTON AND ALEXANDRIA UNDER SPECIFIED TERMS.                  
+ 433  433 1 G 26- -1077   J 34-3-323A    HR615     MAR. 3, 1857               
+ 433  433 2 S343117       Y=13 N=35                HUNTER, VA.                
+ 433  433 3 TO AMEND H.R. 615, BY APPROPRIATING AN ADDITIONAL                 
+ 433  433 4 $10,961.23 FOR REPAIRING THE LONG BRIDGE OVER THE POTOMAC         
+ 433  433 5 CONNECTING WASHINGTON D.C. AND ALEXANDRIA.                        
+ 434  434 1 G 26- -1082   J 34-3-323B    HR615     MAR. 3, 1857               
+ 434  434 2 S343118       Y=40 N=6                 BAYARD, DEL.               
+ 434  434 3 TO AMEND H.R. 615, BY APPROPRIATING $1,000,000 FOR                
+ 434  434 4 CONTINUING THE WASHINGTON AQUEDUCT.                               
+ 435  435 1 G 26- -1087A  J 34-3-342     HR615     MAR. 3, 1857               
+ 435  435 2 S343119       Y=28 N=12                DOUGLAS, ILL.              
+ 435  435 3 TO AMEND AN AMENDMENT TO H.R. 615, BY PROPOSING TO CHANGE         
+ 435  435 4 THE BOUNDARY FIXED BY THE ORIGINAL AMENDMENT TO ENLARGE THE       
+ 435  435 5 THE CAPITOL GROUNDS FOR A PARK.                                   
+ 436  436 1 G 26- -1087B  J 34-3-343A    HR615     MAR. 3, 1857               
+ 436  436 2 S343120       Y=27 N=18                BAYARD, DEL.               
+ 436  436 3 TO AMEND H.R. 615, BY APPROPRIATING $66,000 TO ENLARGE AND        
+ 436  436 4 PREPARE THE PUBLIC GROUNDS SURROUNDING THE CAPITOL.               
+ 437  437 1 G 26- -1092A  J 34-3-343B    HR615     MAR. 3, 1857               
+ 437  437 2 S343121       Y=10 N=38                JONES, TENN.               
+ 437  437 3 TO AMEND AN AMENDMENT TO H.R. 615, BY A PROVISION THAT NO         
+ 437  437 4 DUTIES OR CHARGES SHALL BE IMPOSED ON RAILROAD IRON BARS,         
+ 437  437 5 OTHER THAN CUSTOM HOUSE FEES AND CHARGES.                         
+ 438  438 1 G 26- -1092B  J 34-3-344A    HR615     MAR. 3, 1857               
+ 438  438 2 S343122       Y=21 N=28                ADAMS, MISS.               
+ 438  438 3 TO AMEND H.R. 615, BY PROVIDING FOR THE FREE IMPORTATION OF       
+ 438  438 4 IRON NECESSARY FOR THE CONSTRUCTION AND REPAIR OF ANY             
+ 438  438 5 RAILROAD CARRYING MAIL AS FULL COMPENSATION FOR CARRYING          
+ 438  438 6 SAID MAIL.                                                        
+ 439  439 1 G 26- -1093   J 34-3-344B    HR615     MAR. 3, 1857               
+ 439  439 2 S343123       Y=16 N=27                ALLEN, R.I.                
+ 439  439 3 TO AMEND H.R. 615, BY APPROPRIATING $43,000 FOR THE               
+ 439  439 4 ESTABLISHMENT OF A STEAM FERRY ACROSS THE POTPMAC RIVER           
+ 439  439 5 AT THE SITE OF THE LONG BRIDGE.                                   
+ 440  440 1 G 26- -1096   J 34-3-330     HR635     MAR. 3, 1857               
+ 440  440 2 S343124       Y=7 N=38                 STUART, MICH.              
+ 440  440 3 TO CONCUR IN THE CONFERENCE REPORT ON H.R. 635,                   
+ 440  440 4 (APP. 3/3/1857, 11 STAT. L. 240), A BILL SUPPLYING                
+ 440  440 5 DEFICIENCIES IN THE APPROPRIATIONS FOR THE SERVICE OF 1857,       
+ 440  440 6 PROPOSING THAT THE SENATE AGREE TO THE SAID REPORT ON THE         
+ 440  440 7 DISAGREEING VOTES OF THE TWO HOUSES AND TO AGREE TO THE           
+ 440  440 8 HOUSE PROVISION APPROPRIATING $138,061 TO BE APPROPRIATED         
+ 440  440 9 FOR CERTAIN BOOKS FOR MEMBERS AND DELEGATES.                      
+ 441  441 1 G 26- -1098   J 34-3-345     HR615     MAR. 3, 1857               
+ 441  441 2 S343125       Y=22 N=13                RUSK, TEX.                 
+ 441  441 3 TO AMEND H.R. 615, BY APPROPRIATING SPECIFIED SUMS FOR POST       
+ 441  441 4 OFFICES AND COURT HOUSES IN CERTAIN CITIES.                       
+ 442  442 1 G 26- -1102   J 34-3-348     HR615     MAR. 3, 1857               
+ 442  442 2 S343126       Y=22 N=19                BRIGHT, IND.               
+ 442  442 3 TO AMEND H.R. 615, BY PROVIDING THAT THERE SHALL BE PAID          
+ 442  442 4 $1,000 ADDITIONAL COMPENSATION TO SPECIFIED PERSONS.              
+ 443  443 1 G 26- -1111   J 34-3-340     HR428     MAR. 3, 1857               
+ 443  443 2 S343127       Y=14 N=22                PUGH, OHIO                 
+ 443  443 3 TO TABLE H.R. 428, A BILL MAKING APPROPRIATIONS FOR THE           
+ 443  443 4 BRIDGING OF STREAMS AND OPENING ROADS IN MINNESTOA TERRITORY      
+ 444  444 1 G 26- -1112   J 34-3-350     HR428     MAR. 3, 1857               
+ 444  444 2 S343128       Y=21 N=15                RUSK, TEX.                 
+ 444  444 3 TO PROCEED TO CONSIDERATION OF EXECUTIVE BUSINESS, DURING         
+ 444  444 4 DEBATE ON H.R. 428, A BILL MAKING APPROPRIATIONS FOR THE          
+ 444  444 5 BRIDGING OF STREAMS AND OPENING OF ROADS IN MINNESOTA             
+ 444  444 6 TERRITORY.                                                        
+ 445  445 1 G 26- -1114A  J 34-3-356     HR848     MAR. 3, 1857               
+ 445  445 2 S343129       Y=17 N=22                CLAY, ALA.                 
+ 445  445 3 TO TABLE H.R. 848, A BILL REFUNDING DUTIES ON FOODS, WARES        
+ 445  445 4 AND MERCHANDISE DESTROYED BY FIRE.                                
+ 446  446 1 G 26- -1114B  J 34-3-359A    HR848     MAR. 3, 1857               
+ 446  446 2 S343130       Y=18 N=21                SLIDELL, LA.               
+ 446  446 3 TO AMEND H.R. 848, BY EXTENDING THE BENEFITS OF THE ACT TO        
+ 446  446 4 MERCHANTS OF NEW ORLEANS AS WELL AS THOSE OF NEW YORK.            
+ 447  447 1 G 26- -1114C  J 34-3-359B    HR848     MAR. 3, 1857               
+ 447  447 2 S343131       Y=20 N=22                CLAY, ALA.                 
+ 447  447 3 TO AMEND H.R. 848, BY A PROVISION THAT SAID COMMISSION            
+ 447  447 4 APPOINTED TO ASCERTAIN THE AMOUNT OF DUTIES PAID ON GOODS         
+ 447  447 5 DESTROYED BY FIRE IN NEW YORK CITY SHALL LAST BUT ONE YEAR        
+ 447  447 6 AND AN EQUITABLE PRO RATA DISTRIBUTION AMONG ALL CREDITORS        
+ 447  447 7 SHALL BE MADE.                                                    
+ 448  448 1 G 26- -1114D  J 34-3-360A    HR848     MAR. 3, 1857               
+ 448  448 2 S343132       Y=17 N=24                CLAY, ALA.                 
+ 448  448 3 TO POSTPONE INDEFINITELY H.R. 848.                                
+ 449  449 1 G 26- -1115   J 34-3-360     HR848     MAR. 3, 1857               
+ 449  449 2 S343133       Y=22 N=21                IVERSON, GA.               
+ 449  449 3 TO TABLE H.R. 848, A BILL REFUNDING DUTIES ON GOODS               
+ 449  449 4 DESTROYED BY FIRE.                                                

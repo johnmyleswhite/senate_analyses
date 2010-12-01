@@ -1,0 +1,559 @@
+   1   26 1 A-15-  -21A   J 9-1-11A      S         DEC. 17, 1805              
+   1   26 2 S091001       Y=16 N=11                BRADLEY, VT.               
+   1   26 3 TO ORDER THE MAIN QUESTION, ON THE RESOLUTION TO INTRODUCE        
+   1   26 4 A BILL TO PROHIBIT THE IMPORTATION OF SLAVES INTO ANY PORT        
+   1   26 5 OR PLACE WITHIN THE JURISDICTION OF THE U.S., FROM AND AFTER      
+   1   26 6 JANUARY 1, 1808.                                                  
+   2   27 1 A-15- -21B    J 9-1-11B      S         DEC. 17, 1805              
+   2   27 2 S091002       Y=18 N=9                 BRADLEY, VT.               
+   2   27 3 TO CONSIDER THE BILL TO PROHIBIT THE IMPORTATION OF SLAVES        
+   2   27 4 AFTER JAN. 1, 1808, INTO ANY PORT OF THE U.S. TERRITORY.          
+   3    1 1               EX J 2-6       SRE       DEC. 19, 1805              
+   3    1 2 E091001       Y=27 N=1                 WRIGHT, MD.                
+   3    1 3 TO RATIFY THE TREATY (7 STAT L. 89, APP. MAY 22, 1807)            
+   3    1 4 BETWEEN THE U.S. AND THE CHICKASAW INDIAN NATION.                 
+   4    2 1               EX J 2-7       SRE       DEC. 19, 1805              
+   4    2 2 E091002       Y=27 N=1                 WRIGHT, MD.                
+   4    2 3 TO RATIFY THE TREATY (APP. APRIL 24, 1806, 7 STAT L. 93)          
+   4    2 4 BETWEEN THE U.S. AND THE CHEROKEE NATION OF INDIANS.              
+   5    3 1               EX J 2-9       SRE       DEC. 23, 1805              
+   5    3 2 E091003       Y=28 N=1                 WRIGHT, MD.                
+   5    3 3 TO RATIFY THE CONVENTION BETWEEN THE U.S. AND THE CREEK NA-       
+   5    3 4 TION OF INDIANS.                                                  
+   6    4 1               EX J 2-10      SRE       DEC. 23, 1805              
+   6    4 2 E091004       Y=26 N=2                 BRADLEY, VT.               
+   6    4 3 TO RATIFY THE TREATY (APP. JUNE 10, 1806, 7 STAT L. 95)           
+   6    4 4 BETWEEN THE U.S. AND THE CHEROKEE TRIBE OF INDIANS.               
+   7    5 1               EX J 2-11                DEC. 24, 1805              
+   7    5 2 E091005       Y=25 N=1                 WORTHINGTON, OHIO          
+   7    5 3 TO RATIFY THE TREATY (APP. APRIL 24, 1806, 7 STAT L. 91)          
+   7    5 4 MADE AND CONCLUDED AT GROUSELAND IN THE INDIANA TERRITORY ON      
+   7    5 5 AUG. 21, 1805, BETWEEN THE U.S. AND THE DELAWARE,                 
+   7    5 6 POTTAWATAMIE, MIAMI, EEL-RIVESRE ND WEEAS TRIBES OF               
+   7    5 7 INDIANS.                                                          
+   8   28 1 A-15- -45     J 9-1-17       HR        JAN. 7, 1806               
+   8   28 2 S091003       Y=5 N=21                 TRACY, CONN.               
+   8   28 3 TO ORDER A THIRD READING OF THE HOUSE BILL ENTITLED:              
+   8   28 4 "AN ACT FOR THE RELIEF OF THEODORICK ARMSTEAD."                   
+   9   29 1 A-15-  -46    J 9-1-18       HR        JAN. 8, 1806               
+   9   29 2 S091006       Y=9 N=17                 BRADLEY, VT.               
+   9   29 3 TO ORDER A THIRD READING OF THE HOUSE BILL ENTITLED,              
+   9   29 4 "AN ACT FOR THE RELIEF OF EDWARD TAPPAN, GEORGE JENKINS, AND      
+   9   29 5 WILLIAM CURRIER."                                                 
+  10   30 1 A-15-  -51    J 9-1-21       SRE       JAN. 15, 1806              
+  10   30 2 S091005       Y=25 N=3                                            
+  10   30 3 TO ADOPT THE RESOLUTION TO REFER TO A SPECIAL COMMITTEE           
+  10   30 4 THAT PART OF THE PRESIDENTS MESSAGE WHICH RELATES TO THE          
+  10   30 5 SPOLIATIONS OF OUR COMMERCE ON THE HIGH SEAS, AND TO              
+  10   30 6 THE NEW PRINCIPLE ASSUMED BY THE BRITISH COURTS OF                
+  10   30 7 ADMIRALTY, AS A PRETEXT FOR THE CONDEMNATION OF OUR               
+  10   30 8 VESSELS IN THEIR PRIZE COURTS.                                    
+  11   31 1 A-15-  -52    J 9-1-22       S         JAN. 15, 1806              
+  11   31 2 S091006       Y=21 N=7                 LOGAN, PA.                 
+  11   31 3 TO ORDER THE MAIN QUESTION ON  A MOTION TO INTRODUCE A BILL       
+  11   31 4 (2 STAT 351, FEB. 28, 1866) TO SUSPEND THE                        
+  11   31 5 COMMERCIAL INTERCOURSE BETWEEN THE U.S. AND THE FRENCH            
+  11   31 6 ISLAND OF ST. DOMINGO.                                            
+  12    6 1               EX J 2-15      SRE       JAN. 17, 1806              
+  12    6 2 E091006       Y=27 N=0                 BALDWIN, GA.               
+  12    6 3 TO RATIFY THE TREATY (APP. APR. 24, 1806, 7 STAT L. 87)           
+  12    6 4 MADE AND CONCLUDED AT FORT INDUSTRY, ON JULY 4, 1805,             
+  12    6 5 BETWEEN THE U.S. AND AGENTS OF THE CONNECTICUT LAND CO.           
+  12    6 6 AND THE WYANDOT, OTTAWA, CHIPPEWA, MUNSEE, DELAWARE,              
+  12    6 7 SHAWNEE, AND POTTAWATAMIE INDIANS.                                
+  13    7 1               EX J 2-16      SRE       JAN. 17, 1806              
+  13    7 2 E091007       Y=27 N=0                 BALDWIN, GA.               
+  13    7 3 TO RATIFY THE TREATY (APP. APR. 24, 1806, 7 STAT L. 87)           
+  13    7 4 MADE AND CONCLUDED AT FORT INDUSTRY ON THE MIAMI OF THE           
+  13    7 5 LAKE, JULY 4, 1805, BETWEEN THE U.S. AND THE WYANDOT,             
+  13    7 6 OTTAWA, CHIPPEWA, MUNSEE, DELAWARE, SHAWNEE AND                   
+  13    7 7 POTAWATAMIE TRIBES OF INDIANS.                                    
+  14   32 1 A-15-  -71    J 9-1-26       SRE       JAN. 23, 1806              
+  14   32 2 S091007       Y=23 N=6                                            
+  14   32 3 TO ADOPT THE RESOLUTION AS AMENDED, THAT THE PRESIDENT            
+  14   32 4 BE REQUESTED TO MAKE A FURTHER COMMUNICATION TO THE SENATE        
+  14   32 5 OF JAMES MONROE'S LETTER TO THE SEC. OF STATE, DATED              
+  14   32 6 OCT. 18, 1805 WITH A POSTSCRIPT DATED, OCT. 25, 1805.             
+  15    8 1               EX J 2-18A     SRE       JAN. 27, 1806              
+  15    8 2 E091008       Y=17 N=14                ANDERSON, TENN.            
+  15    8 3 TO CONFIRM THE APPOINTMENT OF JAMES WILKINSON, AS GOVERNOR        
+  15    8 4 OF THE TERRITORY OF LOUISIANA.                                    
+  16    9 1               EX J 2-18B     SRE       JAN. 27, 1806              
+  16    9 2 E091009       Y=16 N=15                ANDERSON, TENN.            
+  16    9 3 TO CONFIRM THE APPOINTMENT OF J.B.C. LUCAS, OF PENNSYLVANIA,      
+  16    9 4 AS ONE OF THE JUDGES OF THE TERRITORY OF LOUISIANA.               
+  17   10 1               EX J 2-40A     HR        JAN. 31, 1806              
+  17   10 2 E091011       Y=10 N=21                                           
+  17   10 3 TO AMEND THE ACT (APP. FEB. 13, 1806, 2 STAT L. 349)              
+  17   10 4 MAKING PROVISION FOR DEFRAYING EXTRAORDINARY EXPENSES             
+  17   10 5 ATTENDING THE INTERCOURSE BETWEEN THE U.S. AND FOREIGN            
+  17   10 6 NATIONS, BY PROVIDING AN APPROPRIATION FOR THE PURPOSE OF         
+  17   10 7 ATTAINING FROM GREAT BRITAIN, THE FREE NAVIGATION OF THE          
+  17   10 8 RIVER ST. LAWRENCE.                                               
+  18   11 1               EX J 2-40B     HR        JAN. 31, 1806              
+  18   11 2 E091012       Y=10 N=20                                           
+  18   11 3 TO AMEND THE BILL BY ADDING "TOWARD THE SETTLING, ESTABLISH-      
+  18   11 4 ING, AND DEFENSE OF THE BOUNDARIES OF THE U.S."- AS ONE OF        
+  18   11 5 PURPOSES SERVED BY THIS BILL.                                     
+  19   33 1 A-15-  -83    J 9-1-32       HR        FEB. 4, 1806               
+  19   33 2 S091010       Y=22 N=9                 LOGAN, PA.                 
+  19   33 3 TO AGREE TO AMENDMENT TO HOUSE BILL (APP. 2/28/1806,              
+  19   33 4 2 STAT L. 351) PROVIDING FOR A SUSPENSION OF COMMERCIAL           
+  19   33 5 INTERCOURSE BETWEEN THE U.S. AND THE FRENCH ISLAND OF             
+  19   33 6 ST. DOMINGO; SAID AMENDMENT PROHIBITS COMMERCIAL INTERCOURSE      
+  19   33 7 BETWEEN RESIDENTS OF THE U.S. AND RESIDENTS IN PARTS OF           
+  19   33 8 ST. DOMINGO, NOT IN POSSESSION AND UNDER ACKNOWLEDGED             
+  19   33 9 GOVERNMENT OF FRANCE, PROVIDING A FORFEITURE OF CARGOS            
+  19   3310 AND SHIPS ENGAGED IN SUCH ILLEGAL TRADE.                          
+  20   34 1 A-15-  -85A   J 9-1-34A      SRE       FEB. 5, 1806               
+  20   34 2 S091011       Y=9 N=22                                            
+  20   34 3 TO ADOPT THE RESOLUTION REQUESTING THE PRESIDENT TO LAY           
+  20   34 4 BEFORE THE SENATE A STATEMENT OF THE VALUE OF IMPORTS AND         
+  20   34 5 EXPORTS BETWEEN THE U.S., AND THAT PART OF THE ISLAND             
+  20   34 6 CALLED HAITI, ALSO THE AMOUNT OF TONNAGE EMPLOYED IN SUCH         
+  20   34 7 TRADE AND OF IMPORTATION DUTIES COLLECTED THEREON.                
+  21   35 1 A-15-  -85B   J 9-1-24B      SRE       FEB. 5, 1806               
+  21   35 2 S091012       Y=10 N=21                                           
+  21   35 3 TO ADOPT THE RESOLUTION REQUESTING THE PRESIDENT TO LAY           
+  21   35 4 BEFORE THE SENATE COPIES OF CORRESPONDENCE BETWEEN HIM AND        
+  21   35 5 THE FRENCH MINISTER REGARDING THE TRADE CARRIED ON BY             
+  21   35 6 AMERICAN MERCHANTS TO HAITI.                                      
+  22   12 1               EX J 2-41A     HR        FEB. 6, 1806               
+  22   12 2 E091013       Y=8 N=23                                            
+  22   12 3 TO REFER THE FOREIGN INTERCOURSE BILL WITH MESSAGE OF THE         
+  22   12 4 HOUSE, TO A SELECT COMMITTEE TO INQUIRE WHETHER W. FLORIDA        
+  22   12 5 WAS, OR WAS NOT, INCLUDED IN THE CESSION OF LOUISIANA TO          
+  22   12 6 THE U.S. BY THE TREATY WITH FRANCE, CONCLUDED APR. 30, 1803,      
+  22   12 7 TOGETHER WITH EVIDENCE SUBSTANTIATING SAME.                       
+  23   13 1               EX J 2-41B     HR        FEB. 7, 1806               
+  23   13 2 E091014       Y=13 N=18                                           
+  23   13 3 TO AMEND THE FOREIGN INTERCOURSE BILL BY ELIMINATING THE          
+  23   13 4 APPROPRIATION OF $2,000,000 WITH THE OBJECT OF REDUCING           
+  23   13 5 THE FIGURE TO $1,000,000.                                         
+  24   14 1               EX J 2-42A     HR        FEB. 7, 1806               
+  24   14 2 E091015       Y=9 N=20                                            
+  24   14 3 TO AMEND THE FOREIGN INTERCOURSE BILL, BY ADDING A PROVISION      
+  24   14 4 FOR THE PURPOSE OF PURCHASING FROM THE SPANISH GOVERNMENT,        
+  24   14 5 THEIR TERRITORIES LYING ON THE ATLANTIC OCEAN AND                 
+  24   14 6 GULF OF MEXICO AND EASTWARD OF THE MISSISSIPPI RIVER.             
+  25   15 1               EX J 2-42B     HR        FEB. 7, 1806               
+  25   15 2 E091016       Y=17 N=11                                           
+  25   15 3 TO PASS THE FOREIGN INTERCOURSE BILL.                             
+  26   36 1 A-15-  -89    J 9-1-35       S         FEB. 10, 1806              
+  26   36 2 S091017       Y=19 N=8                 BRADLEY, VT.               
+  26   36 3 TO PASS THE S. BILL (APP. FEB. 6, 1807, 6 STAT L. 63),            
+  26   36 4 WHICH PROVIDES THAT SETH HARDING, FORMERLY A CAPTAIN IN           
+  26   36 5 THE NAVY, BE PLACED ON THE PENSION LIST.                          
+  27   37 1 A-15-  -91    J 9-1-38       SRE       FEB. 12, 1806              
+  27   37 2 S091018       Y=28 N=0                 SMITH, MD.                 
+  27   37 3 TO ADOPT THE FIRST RESOLUTION RELATING TO THE SPOLIATION          
+  27   37 4 OF OUR COMMERCE ON THE HIGH SEAS AND THE NEW                      
+  27   37 5 PRINCIPLES ASSUMED BY BRITISH COURTS AND ADMIRALTY, AS A          
+  27   37 6 PRETEXT FOR THE CONDEMNATION OF OUR VESSELS IN THE PRIZE          
+  27   37 7 COURTS.                                                           
+  28   38 1 A-15-  -108   J 9-1-39       SRE       FEB. 14, 1806              
+  28   38 2 S091019       Y=13 N=16                SMITH, MD.                 
+  28   38 3 TO AMEND THE SECOND RESOLUTION MADE DURING CONSIDERATION          
+  28   38 4 OF A REPORT OF THE SPECIAL COMMITTEE RELATIVE TO                  
+  28   38 5 VIOLATION OF NEUTRAL RIGHTS, AND THE BRITISH IMPRESSMENT          
+  28   38 6 OF AMERICAN SEAMEN, SAID AMENDMENT TO ELIMINATE FROM              
+  28   38 7 RESOLUTION "THAT THE PRESIDENT BE REQUESTED TO DEMAND THE         
+  28   38 8 RESTORATION OF THE PROPERTY OF U.S. CITIZENS, CAPTURED            
+  28   38 9 ON THE PRETEXT OF ITS BEING EMPLOYED IN A TRADE WITH              
+  28   3810 THE ENEMIES OF GREAT BRITIAN AND THE INDEMNIFICATION              
+  28   3811 OF SUCH AMERICAN CITIZENS FOR THEIR LOSSES, SUSTAINED BY          
+  28   3812 THOSE CAPTURES AND CONDEMNATIONS."                                
+  29   39 1 A-15-  -112   J 9-1-40       SRE       FEB. 14, 1806              
+  29   39 2 S091020       Y=23 N=7                 SMITH, MD.                 
+  29   39 3 TO ADOPT THE SECOND RESOLUTION MADE DURING CONSIDERATION OF       
+  29   39 4 THE REPORT OF THE SPECIAL COMMITTEE AND THE RESOLUTIONS           
+  29   39 5 SUBMITTED BY THEM, RELATIVE TO THE VIOLATION OF NEUTRAL           
+  29   39 6 RIGHTS AND THE BRITISH IMPRESSMENT OF AMERICAN SEAMEN,            
+  29   39 7 SAID SECOND RESOLUTION REQUESTS THE PRESIDENT TO DEMAND           
+  29   39 8 THE RESTORATION OF U.S. CITIZENS' PROPERTY CAPTURED ON THE        
+  29   39 9 PRETEXT OF ITS BEING EMPLOYED IN TRADE WITH ENEMIES OF            
+  29   3910 GREAT BRITAIN, AND THE INDEMNIFICATIONS OF SUCH AMERICAN          
+  29   3911 CITIZENS FOR THEIR LOSSES SUSTAINED, AND TO NEGOTIATE WITH        
+  29   3912 THE BRITISH GOVERNMENT FOR THE SETTLEMENT OF OTHER                
+  29   3913 DIFFERENCES.                                                      
+  30   40 1 A-15-  -114   J 9-1-41       HR        FEB. 18, 1806              
+  30   40 2 S091021       Y=16 N=14                LOGAN, PA.                 
+  30   40 3 TO AGREE TO THE AMENDMENT AS AMENDED TO THE HOUSE BILL            
+  30   40 4 REGARDING TRADING WITH ST. DOMINGO; SAID AMENDMENT                
+  30   40 5 PROHIBITS THE CLEARANCE OF VESSELS FOR ANY PORT OF                
+  30   40 6 ST. DOMINGO NOT IN ACTUAL POSSESSION OF FRANCE, AND TO            
+  30   40 7 PREVENT THEIR TRADING WITH THOSE PORTS.                           
+  31   41 1 A-15-  -116   J 9-1-43       HR        FEB. 19, 1806              
+  31   41 2 S091022       Y=14 N=17                                           
+  31   41 3 TO RECONSIDER THE VOTE TO ADOPT THE SECOND SECTION TO THE         
+  31   41 4 BILL REGARDING TRADING WITH ST. DOMINGO, SAID SECTION TO          
+  31   41 5 PROHIBIT THE CLEARANCE OF VESSELS FOR ANY PORT WITHIN             
+  31   41 6 THE ISLAND OF ST. DOMINGO NOT IN THE ACTUAL POSSESSION            
+  31   41 7 OF FRANCE.                                                        
+  32   42 1 A-15-  -138A  J 9-1-44A      HR        FEB. 20, 1806              
+  32   42 2 S091023       Y=21 N=8                 LOGAN, PA.                 
+  32   42 3 TO PASS THE BILL RELATING TO TRADING WITH ST. DOMINGO.            
+  33   43 1 A-15-  -138B  J 9-1-44B      S         FEB. 21, 1806              
+  33   43 2 S091024       Y=10 N=19                                           
+  33   43 3 TO POSTPONE CONSIDERATION OF THE SENATE BILL FOR THE              
+  33   43 4 PROTECTION AND INDEMNIFICATION OF AMERICAN SEAMEN, UNTIL          
+  33   43 5 THE FIRST MONDAY IN DECEMBER.                                     
+  34   44 1 A-15-  -141A  J 9-1-46       S         FEB. 25, 1806              
+  34   44 2 S091025       Y=15 N=11                WORTHINGTON, OHIO          
+  34   44 3 TO PASS THE BILL (APP. FEB. 28, 1806, 2 STAT L. 352)              
+  34   44 4 TO EXTEND THE POWERS OF THE GENERAL SURVEYOR TO THE               
+  34   44 5 TERRITORY OF LOUISIANA AND FOR OTHER PURPOSES.                    
+  35   45 1 A-15-  -141B  J 9-1-47       S         FEB. 25, 1806              
+  35   45 2 S091026       Y=8 N=19                 SMITH, MD.                 
+  35   45 3 TO PASS THE BILL TO CLASS THE MILITIA AND ASSIGN TO EACH          
+  35   45 4 CLASS ITS PARTICULAR DUTIES.                                      
+  36   46 1 A-15-  -143   J 9-1-49       S         FEB. 27, 1806              
+  36   46 2 S091027       Y=17 N=11                LOGAN, PA.                 
+  36   46 3 TO AMEND THE SENATE BILL, (APP. APR. 21, 1806, 2 STAT L 404)      
+  36   46 4 PROVIDING FOR THE PUNISHMENT OF COUNTERFEITING THE CURRENT        
+  36   46 5 COIN OF THE U.S.; SAID AMENDMENT TO ELIMINATE THE 4TH             
+  36   46 6 SECTION WHICH PROVIDES THAT IF ANY PERSON MAKES                   
+  36   46 7 COUNTERFEIT GOLD OR SILVER COINS TO RESEMBLE ANY FOREIGN          
+  36   46 8 COINS, WITH AN INTENT TO MAKE PAYMENT WITH SAME, HE SHALL         
+  36   46 9 BE DEEMED GUILTY OF A HIGH MISDEMEANOR AND UPON CONVICTION        
+  36   4610 THEREOF SHALL PAY A FINE OF -- DOLLARS, OR SHALL BE               
+  36   4611 IMPRISONED NOT EXCEEDING -- YEARS.                                
+  37   16 1               EX J 2-26      SRE       MAR. 3, 1806               
+  37   16 2 E091017       Y=27 N=1                 WORTHINGTON, OHIO          
+  37   16 3 TO RATIFY THE TREATY (APP. MAY 22, 1807, 7 STAT L. 100)           
+  37   16 4 BETWEEN THE U.S. AND THE PIANKESHAW TRIBE OF INDIANS,             
+  37   16 5 WHEREBY U.S. POSSESSIONS ON THE NORTH BANK OF THE OHIO            
+  37   16 6 RIVER ARE ENTIRELY CONSOLIDATED.                                  
+  38   47 1 A-15-  -162A  J 9-1-52A      S         MAR. 4, 1806               
+  38   47 2 S091028       Y=19 N=9                 LOGAN, PA.                 
+  38   47 3 TO AMEND THE COUNTERFEITING BILL, SAID AMENDMENT TO MAKE          
+  38   47 4 THE FIRST SECTION, COVER COINS WHICH SHALL HEREAFTER BE MADE      
+  38   47 5 CURRENT, OR BE IN THE ACTUAL USE AND CIRCULATION AS MONEY         
+  38   47 6 IN THE U.S.                                                       
+  39   48 1 A-15-  -162B  J 9-1-52B      S         MAR. 4, 1806               
+  39   48 2 S091029       Y=22 N=4                 LOGAN, PA.                 
+  39   48 3 TO PASS THE COUNTERFEITING BILL AS AMENDED.                       
+  40   49 1 A-15-  -165A  J 9-1-54A      S         MAR. 7, 1806               
+  40   49 2 S091030       Y=23 N=7                 ADAMS, MASS.               
+  40   49 3 TO AMEND THE BILL PREVENTING THE ABUSE OF THE PRIVILEGES          
+  40   49 4 AND IMMUNITIES ENJOYED BY FOREIGN MINISTERS WITHIN                
+  40   49 5 THE U.S, BY STRIKING OUT THE FIRST SECTION OF THE BILL.           
+  41   50 1 A-15- -165B   J 9-1-54B      S         MAR. 7, 1806               
+  41   50 2 S091031       Y=21 N=9                 BALDWIN, GA.               
+  41   50 3 TO AMEND THE BILL REGARDING PRIVILEGES OF FOREIGN MINISTERS,      
+  41   50 4 BY STRIKING OUT THE ENTIRE SECOND SECTION OF THE BILL.            
+  42   51 1 A-15-  -166A  J 9-1-54C      S         MAR. 7, 1806               
+  42   51 2 S091032       Y=27 N=3                 SMITH, MD.                 
+  42   51 3 TO AMEND THE BILL "PRIVILEGES OF FOREIGN MINISTERS, BY            
+  42   51 4 ELIMINATING THE ENTIRE THIRD SECTION OF THE BILL.                 
+  43   52 1 A-15-  -166B  J 9-1-54D      S         MAR. 7, 1806               
+  43   52 2 S091033       Y=4 N=24                 ADAMS, MASS.               
+  43   52 3 TO PASS THE BILL REGARDING PRIVILEGES OF FOREIGN MINISTERS.       
+  44   53 1 A-15-  -183   J 9-1-58A      HR        MAR. 14, 1806              
+  44   53 2 S091034       Y=19 N=10                MITCHILL, N.Y.             
+  44   53 3 TO PASS THE HOUSE BILL (APP. 3/29,1806, 6 STAT L. 61), AS         
+  44   53 4 AMENDED FOR THE RELIEF OF PETER LANDAIS, LATE CAPTAIN, OF AN      
+  44   53 5 ARMED U.S. VESSEL, CLAIMING PRIZE MONEY OCCURING FROM CAP-        
+  44   53 6 TURES MADE.                                                       
+  45   54 1 A-15-  -184   J 9-1-58B      S         MAR. 14, 1806              
+  45   54 2 S091035       Y=25 N=2                 BRADLEY, VT.               
+  45   54 3 TO PASS THE BILL (APP. APR. 18, 1806, 2 STAT L. 381)              
+  45   54 4 AUTHORIZING THE STATE OF TENNESSEE TO ISSUE GRANTS AND            
+  45   54 5 PERFECT TITLES TO CERTAIN LANDS, THEREIN DESCRIBED, AND TO        
+  45   54 6 SETTLE THE CLAIMS TO THE VACANT AND UNAPPROPRIATED LAND           
+  45   54 7 WITHIN THE SAME.                                                  
+  46   17 1               EX J 2-29      SRE       MAR. 17, 1806              
+  46   17 2 E091018       Y=15 N=15                WHITE, DEL.                
+  46   17 3 TO CONFIRM THE APPOINTMENT OF JOHN ARMSTRONG AS                   
+  46   17 4 COMMISSIONER PLENIPOTENTIARY AND EXTRAORDINARY, FOR               
+  46   17 5 SETTLING ALL MATTERS OF DIFFERENCE BETWEEN THE U.S. AND           
+  46   17 6 SPAIN.                                                            
+  47   55 1 A-15-  -189   J 9-1-60       S         MAR. 18, 1806              
+  47   55 2 S091036       Y=16 N=10                TRACY, CONN.               
+  47   55 3 TO PASS THE BILL (APP. MAR. 29, 1806, 2 STAT L. 356)              
+  47   55 4 WHICH PROVIDES FOR THE INCORPORATION OF THE TRUSTEES OF           
+  47   55 5 THE PRESBYTERIAN CONGREGATION OF GEORGETOWN.                      
+  48   56 1 A-15-  -208   J 9-1-69       S         MAR. 28, 1806              
+  48   56 2 S091037       Y=19 N=11                BALDWIN, GA.               
+  48   56 3 TO PASS THE BILL (APP. APR. 21, 1806, 2 STAT L. 400) TO           
+  48   56 4 CARRY INTO EFFECT THE PROVISION OF THE EIGHTH SECTION OF THE      
+  48   56 5 ACT REGULATING THE GRANTS OF THE LANDS, AND PROVIDING FOR         
+  48   56 6 THE DISPOSAL OF THE LANDS OF THE U.S. SOUTH OF THE STATE OF       
+  48   56 7 TENNESSEE.                                                        
+  49   57 1 A-15- -210    J 9-1-71       S         MAR. 31, 1806              
+  49   57 2 S091038       Y=9 N=21                 ANDERSON, TENN.            
+  49   57 3 TO AGREE TO THAT PART OF THE REPORT OF THE CONFERENCE             
+  49   57 4 COMMITTEE ON A BILL (APP. APR. 10. 1806, 2 STAT L. 359)           
+  49   57 5 FOR THE GOVERNANCE OF THE U.S. ARMY, WHICH PROVIDES THAT THE      
+  49   57 6 MANNER OF WEARING THE HAIR SHALL NOT BE SUBJECT TO THE            
+  49   57 7 RULES AND REGULATIONS OF THE ARMY.                                
+  50   18 1               EX J 2-30      SRE       APR. 2, 1806               
+  50   18 2 E091019       Y=12 N=19                ANDERSON, TENN.            
+  50   18 3 TO CONFIRM THE APPOINTMENT OF SAMUEL HAMMOND AS A COLONEL         
+  50   18 4 IN THE U.S. ARMY.                                                 
+  51   58 1 A-15-  -225   J 9-1-73       S         APR. 3, 1806               
+  51   58 2 S091039       Y=15 N=14                BRADLEY, VT.               
+  51   58 3 TO RECOMMIT THE BILL (APP. APR. 21, 1806, 6 STAT 62)              
+  51   58 4 FOR THE RELIEF OF HAMET CARAMALLI, EX-BASHAW OF TRIPOLI           
+  51   58 5 SOLICITING FROM U.S. ATTENTION TO HIS SERVICES AND                
+  51   58 6 SUFFERINGS IN THE LATE WAR AGAINST THAT STATE, TOGETHER WITH      
+  51   58 7 THE REPORT OF THE COMMITTEE OF THE 17TH OF MARCH.                 
+  52   59 1 A-15-  -227A  J 9-1-75A      S         APR. 4, 1806               
+  52   59 2 S091040       Y=7 N=21                 TRACY, CONN.               
+  52   59 3 TO AMEND THE SENATE BILL (APP. APR. 18, 1806, 2 STAT 405)         
+  52   59 4 TO REPEAL SO MUCH OF ANY ACT OR ACTS AS AUTHORIZE THE             
+  52   59 5 RECEIPT OF EVIDENCES OF THE PUBLIC DEBT IN PAYMENT FOR            
+  52   59 6 LANDS OF THE U.S., AND FOR OTHER PURPOSES RELATIVE TO THE         
+  52   59 7 PUBLIC DEBT, SAID AMENDMENT TO ELIMINATE THE FIRST SECTION        
+  52   59 8 WHICH PROVIDES THAT SO MUCH OF ANY ACT AS AUTHORIZED THE          
+  52   59 9 RECEIPT OF EVIDENCES OF THE PUBLIC DEBT IN PAYMENT FOR            
+  52   5910 LANDS SHALL FROM AND AFTER APR. 30, 1806 BE REPEALED WITH         
+  52   5911 CERTAIN CONDITIONS.                                               
+  53   60 1 A-15-  -227B  J 9-1-75B      S         APR. 4, 1806               
+  53   60 2 S091041       Y=22 N=6                 TRACY, CONN.               
+  53   60 3 TO PASS THE BILL (APP. APR. 18, 1806, 2 STAT 405), TO             
+  53   60 4 REPEAL SO MUCH OF ANY ACT OR ACTS AS AUTHORIZE THE RECEIPT        
+  53   60 5 OF EVIDENCES OF THE PUBLIC DEBT IN PAYMENT FOR LANDS OF           
+  53   60 6 THE U.S., AND FOR OTHER PURPOSES RELATING TO THE PUBLIC           
+  53   60 7 DEBT, AS AMENDED.                                                 
+  54   61 1 A-15-  -229   J 9-1-77       HR        APR. 7, 1806               
+  54   61 2 S091042       Y=17 N=10                MITCHILL, N.Y.             
+  54   61 3 TO ORDER A THIRD READING OF THE HOUSE BILL                        
+  54   61 4 (APP. FEB. 5, 1808, 2 STAT 457), AUTHORIZING THE ERECTION         
+  54   61 5 OF A BRIDGE OVER THE RIVER POTOMAC WITHIN THE DISTRICT OF         
+  54   61 6 COLUMBIA.                                                         
+  55   19 1               EX J 2-31A     SRE       APR. 8, 1806               
+  55   19 2 E091020       Y=10 N=20                                           
+  55   19 3 TO ADOPT THE RESOLUTION (8 STAT L. 214) THAT FURTHER              
+  55   19 4 CONSIDERATION OF THE TREATY CONCLUDED AT TRIPOLI ON               
+  55   19 5 JUNE 3, 1805, BETWEEN THE U.S. AND THE BASHAW BAY, AND            
+  55   19 6 SUBJECTS OF TRIPOLI, BE POSTPONED UNTIL THE NEXT SESSION OF       
+  55   19 7 CONGRESS, AND TO REQUEST THE PRESIDENT TO ASCERTAIN WHETHER       
+  55   19 8 WIFE AND CHILDREN OF HAMIT BASHAW HAVE BEEN DELIVERED TO          
+  55   19 9 HIM, AGREEABLY TO 3RD ARTICLE OF PRELIMINARY ARTICLES OF          
+  55   1910 AFORESAID TREATY.                                                 
+  56   62 1 A-15-  -232   J 9-1-80       S         APR. 10, 1806              
+  56   62 2 S091043       Y=19 N=9                 BALDWIN, GA.               
+  56   62 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE              
+  56   62 4 BILL (APP. APR. 18, 1806, 2 STAT 379) PROHIBITING THE             
+  56   62 5 IMPORTATION OF CERTAIN GOODS, WARES, AND MERCHANDISE.             
+  57   63 1 A-15-  -234   J 9-1-82A      HR        APR. 11, 1806              
+  57   63 2 S091044       Y=19 N=10                ANDERSON, TENN.            
+  57   63 3 TO POSTPONE FURTHER CONSIDERATIN ON THE BILL                      
+  57   63 4 (APP. FEB. 5, 1808, 2 STAT L 457), AUTHORIZING THE ERECTION       
+  57   63 5 OF A BRIDGE OVER THE RIVER POTOMAC WITHIN THE                     
+  57   63 6 DISTRICT OF COLUMBIA, UNTIL THE FIRST MONDAY IN DEC. NEXT.        
+  58   20 1               EX J 2-31B     SRE       APRIL 12, 1806             
+  58   20 2 E091021       Y=9 N=20                                            
+  58   20 3 TO AMEND THE RESOLUTION (8 STAT L. 214) THAT FURTHER              
+  58   20 4 CONSIDERATION OF TREATY CONCLUDED AT TRIPOLI ON                   
+  58   20 5 JUNE 3, 1805, BETWEEN THE U.S. AND THE BASHAW BAY AND             
+  58   20 6 SUBJECTS OF TRIPOLI, BE POSTPONED UNTIL THE NEXT SESSION OF       
+  58   20 7 CONGRESS, AND TO REQUEST THE PRESIDENT TO ASCERTAIN               
+  58   20 8 WHETHER WIFE AND CHILDREN OF HAMIT BASHAW HAVE BEEN               
+  58   20 9 DELIVERED TO HIM, AGREEABLE TO THE 3RD ARTICLE OF                 
+  58   2010 PRELIMINARY ARTICLES OF AFORESAID TREATY; AMENDMENT TO            
+  58   2011 INCLUDE THE FURTHER CONDITION THAT THE WIFE AND CHILDREN OF       
+  58   2012 THE BASHAW, AND BROTHER OF THE BASHAW OF TRIPOLI, BE              
+  58   2013 DELIVERED AGREEABLY TO THE 3RD ARTICLE OF SAID TREATY.            
+  59   21 1               EX J 2-32A     SRE       APR. 12, 1806              
+  59   21 2 E091022       Y=8 N=21                                            
+  59   21 3 TO POSTPONE FURTHER CONSIDERATION OF THE TREATY                   
+  59   21 4 (8 STAT L. 214) BETWEEN THE U.S. AND TRIPOLI, CONCLUDED           
+  59   21 5 AT TRIPOLI ON JUNE 3, 1805, UNTIL THE FIRST TUESDAY OF            
+  59   21 6 DECEMBER NEXT.                                                    
+  60   22 1               EX J 2-32B     SRE       APR. 12, 1806              
+  60   22 2 E091023       Y=21 N=8                 BRADLEY, VT.               
+  60   22 3 TO RATIFY THE TREATY (8 STAT L. 214) CONCLUDED AT                 
+  60   22 4 TRIPOLI ON JUNE 3, 1805, BETWEEN THE U.S. AND THE                 
+  60   22 5 BASHAW BAY AND SUBJECTS OF TRIPOLI.                               
+  61   64 1 A-15-  -235   J 9-1-82B      S         APR. 12, 1806              
+  61   64 2 S091045       Y=17 N=10                ANDERSON, TENN.            
+  61   64 3 TO POSTPONE FURTHER CONSIDERATION ON THE BILL PROHIBITING         
+  61   64 4 THE OFFICERS OF THE ARMY AND NAVY FROM HOLDING OR                 
+  61   64 5 EXERCISING ANY CIVIL OFFICE, UNTIL THE FIRST MONDAY IN            
+  61   64 6 DECEMBER NEXT.                                                    
+  62   65 1 A-15-  -240A  J 9-1-86A      S         APR. 15, 1806              
+  62   65 2 S091046       Y=9 N=19                 BALDWIN, GA.               
+  62   65 3 TO POSTPONE FURTHER CONSIDERATION OF THE BILL                     
+  62   65 4 (APP. APR. 18, 1806, 2 STAT 379) TO PROHIBIT THE IMPORTATION      
+  62   65 5 OF CERTAIN GOODS, WARES AND MERCHANDISE, IN ORDER TO BRING        
+  62   65 6 ABOUT A MORE FAVORABLE COURSE OF CONDUCT ON THE PART OF           
+  62   65 7 GREAT BRITAIN WITH RESPECT TO THE DISTURBANCE OF TRADE TO         
+  62   65 8 INSURE THAT GREAT BRITAIN WILL BE DISPOSED TO A MORE REASON-      
+  62   65 9 ABLE SETTLEMENT OF DIFFERENCES BETWEEN THE TWO NATIONS,           
+  62   6510 MOTION REJECTED.                                                  
+  63   66 1 A-15- -240    J 9-1-86B      S         APR. 15, 1806              
+  63   66 2 S091047       Y=19 N=9                 BALDWIN, GA.               
+  63   66 3 TO PASS THE BILL (APP. 4/18/1806, 2 STAT 379) TO PROHIBIT         
+  63   66 4 THE IMPORTATION OF CERTAIN GOODS, WARES, AND MERCHANDISE.         
+  64   23 1               EX J 2-33      SRE       APR. 16, 1806              
+  64   23 2 E091024       Y=25 N=0                 TRACY, CONN.               
+  64   23 3 TO RATIFY THE TREATY (7 STAT 101, APP. MAY 22, 1807)              
+  64   23 4 ON JAN. 7, 1806, BETWEEN THE U.S. AND THE CHEROKEE NATION         
+  64   23 5 OF INDIANS.                                                       
+  65   67 1 A-15-  -243   J 9-1-90       HR        APR. 17, 1806              
+  65   67 2 S091048       Y=20 N=5                 ANDERSON, TENN.            
+  65   67 3 TO AMEND THE H.R. BILL (2 STAT L 440, APP. MAR. 3, 1807)          
+  65   67 4 TO MAKE APPROPRIATIONS FOR CARRYING INTO EFFECT A TREATY BE-      
+  65   67 5 TWEEN THE U.S. AND CHICKASAW INDIAN TRIBE; SAID AMENDMENT         
+  65   67 6 TO ELIMINATE THE THIRD READING.                                   
+  66   24 1               EX J 2-34      SRE       APR. 19, 1806              
+  66   24 2 E091025       Y=19 N=9                                            
+  66   24 3 TO AMEND THE RESOLUTION THAT THE COMMUNICATIONS                   
+  66   24 4 ACCOMPANYING THE PRESIDENT'S MESSAGE OF APR. 18, 1806,            
+  66   24 5 BE RETURNED TO HIM, AND HE BE REQUESTED TO RENEW                  
+  66   24 6 NEGOTIATIONS WITH THE ENVOY OF THE BAY OF TUNIS TO SETTLE         
+  66   24 7 DIFFERENCE BETWEEN THAT COUNTRY AND THE U.S., TO REDRESS THE      
+  66   24 8 INJURIES WHICH THE BAY CLAIMS WERE RECEIVED FROM THE U.S.         
+  66   24 9 SQUADRON IN THE MEDITERRANEAN; SAID AMENDMENT PROPOSING           
+  66   2410 TO DEFEAT THE MOTION THAT THE PRES. BE REQUESTED TO RENEW         
+  66   2411 THE NEGOTIATIONS WITH THE ENVOY OF THE BAY OF TUNIS.              
+  67   68 1 A-15-  -247   J 9-1-93       S         APR. 19, 1806              
+  67   68 2 S091049       Y=16 N=9                 MITCHILL, N.Y.             
+  67   68 3 TO AMEND THE S. BILL (APP. MAR. 3, 1807, 2 STAT 436)              
+  67   68 4 REPEALING THE DUTIES ON SALT, BUT TO CONTINUE IN FORCE            
+  67   68 5 FOR A FURTHER TIME THE FIRST SECTION OF THE ACT ENTITLED          
+  67   68 6 "AN ACT FURTHER TO PROTECT THE COMMERCE AND SEAMEN                
+  67   68 7 OF U.S. AGAINST BARBARY POWERS,", SAID AMENDMENT TO STRIKE        
+  67   68 8 OUT THE FIRST SECTION.                                            
+  68   69 1 A-15-  -250   J 9-1-97       MEM       APR. 21, 1806              
+  68   69 2 S091050       Y=13 N=8                                            
+  68   69 3 TO EXPUNGE EVERYTHING IN THE JOURNAL RELATIVE TO THE              
+  68   69 4 MEMORIALS OF S.G. OGDEN, AND WILLIAM S. SMITH.                    
+  69   70 1 A-16-  -19    J 9-2-112      HR        DEC. 8, 1806               
+  69   70 2 S092001       Y=5 N=18                 TRACY, CONN.               
+  69   70 3 TO ADOPT THE H.R. RESOLUTION (APP. MAR. 19, 1806, 2 STAT          
+  69   70 4 L 411) REQUESTING THE PRESIDENT TO LAY BEFORE THE SENATE          
+  69   70 5 SUCH INFORMATION, DOCUMENTS, PAPERS AND CORRESPONDENCE            
+  69   70 6 AS MAY BE IN HIS POWER, AND WHICH HE MAY THINK UNDER THE          
+  69   70 7 CIRCUMSTANCES PROPER TO COMMUNICATE, RESPECTING THE SUBJECT       
+  69   70 8 OF HIS MESSAGE OF DEC. 3RD INST. IN WHICH A TEMPORARY             
+  69   70 9 SUSPENSION OF THE ACT OF THE LAST SESSION PROHIBITING             
+  69   7010 CERTAIN IMPORTATIONS IS RECOMMENDED.                              
+  70   71 1 A-16-  -49    J 9-2-135      HR        JAN. 29, 1807              
+  70   71 2 S092002       Y=17 N=16                THRUSTON, KY.              
+  70   71 3 TO POSTPONE A SECOND READING OF THE BILL, AUTHORIZING             
+  70   71 4 THE ERECTION OF A BRIDGE OVER THE POTOMAC RIVER WITHIN            
+  70   71 5 THE DISTRICT OF COLUMBIA.                                         
+  71   72 1 A-16-  -56    J 9-2-145      S         FEB. 11, 1807              
+  71   72 2 S092003       Y=17 N=15                SMITH, TENN.               
+  71   72 3 TO PASS THE BILL WHICH PROVIDES THAT LANDS CEDED TO THE U.S.      
+  71   72 4 MUST NOT BE MADE AVAILABLE FOR SETTLEMENT UNLESS                  
+  71   72 5 AUTHORIZED BY LAW.                                                
+  72   73 1 A-16-  -71    J 9-2-151      HR        FEB. 18, 1807              
+  72   73 2 S092004       Y=17 N=15                GILES, VA.                 
+  72   73 3 TO AMEND AS IN COMM. OF THE WHOLE, THE H.R. BILL                  
+  72   73 4 (APP. MAR. 3, 18047, 2 STAT L 437) FOR REPEAL OF ACTS             
+  72   73 5 LAYING DUTIES ON SALT AND CONTINUING IN FORCE THE FIRST           
+  72   73 6 SECTION OF THE ACT ENTITLED "AN ACT FURTHER TO PROTECT THE        
+  72   73 7 COMMERCE AND SEAMEN OF THE U.S. AGAINST THE BARBARY POWERS",      
+  72   73 8 SAID AMENDMENT TO STRIKE OUT CERTAIN PARTS OF SECTIONS 1,         
+  72   73 9 2, AND 3 OF THE ACT, SO AS TO PROVIDE FOR THE REPEAL              
+  72   7310 OF ANY ACT LAYING DUTIES ON SALT, AND FOR OTHER PURPOSES.         
+  73   74 1 A-16-  -75A   J 9-2-153A     HR        FEB. 20, 1807              
+  73   74 2 S092005       Y=15 N=14                GILES, VA.                 
+  73   74 3 TO CONCUR IN THE AMENDMENT AS IN THE COMM. OF THE WHOLE ON        
+  73   74 4 THE BILL, "AN ACT REPEALING ACTS LAYING DUTIES ON SALT,           
+  73   74 5 ETC," SAID AMENDMENT TO STRIKE OUT CERTAIN PARTS AND WORDS        
+  73   74 6 FROM SECTION 1, 2, AND 3, IN ORDER TO REPEAL THAT PART OF         
+  73   74 7 THE ACT WHICH RELATES TO THE DUTIES ON SALT, AND FOR OTHER        
+  73   74 8 PURPOSES.                                                         
+  74   75 1 A-16- -75B    J-9-2-153B     HR        FEB. 20, 1807              
+  74   75 2 S092006       Y=13 N=14                KITCHELL, N.J.             
+  74   75 3 TO ADD AN AMENDMENT TO THE BILL,  "AN ACT REPEALING ACTS          
+  74   75 4 LAYING DUTIES ON SALT, ETC.," AS A NEW SECTION OF THE BILL;       
+  74   75 5 SAID AMENDMENT PROVIDING THAT FROM AND AFTER JANUARY 1ST          
+  74   75 6 NEXT, SO MUCH OF ANY ACT THAT LAYS A DUTY ON IMPORTED             
+  74   75 7 SALT, AND ALLOWS A BOUNTY ON EXPORTED SALTED PROVISIONS AND       
+  74   75 8 PICKLED FISH, IN LIEU OF DRAWBACK OF THE DUTIES ON THE SALT       
+  74   75 9 SALT USED IN CURING THE SAME, AND SO MUCH OF ANY ACT WHICH        
+  74   7510 MAKES ALLOWANCES TO OWNERS AND CREWS OF FISHING VESSELS, IN       
+  74   7511 OF DRAWBACK OF DUTIES PAID ON SALT USED BY SAME, SHALL BE,        
+  74   7512 AND IS HEREBY, REPEALED.                                          
+  75   76 1 A-16-  -75C   J 9-2-153C     HR        FEB. 20, 1807              
+  75   76 2 S092007       Y=16 N=13                GILES, VA.                 
+  75   76 3 TO ORDER A THIRD READING OF THE BILL "AN ACT REPEALING            
+  75   76 4 ACTS LAYING DUTIES ON SALT, ETC.,"                                
+  76   77 1 A-16-  -88    J 9-2-159      HR        FEB. 25, 1807              
+  76   77 2 S092008       Y=15 N=12                GILES, VA.                 
+  76   77 3 TO PASS THE AMENDED BILL "AN ACT REPEALING DUTIES ON SALT,        
+  76   77 4 ETC."                                                             
+  77   78 1 A-16-  -91    J 9-2-161      HR        FEB. 26, 1807              
+  77   78 2 S092009       Y=15 N=13                GILES, VA.                 
+  77   78 3 TO ADHERE TO SENATE AMENDMENT TO THE BILL REPEALING ACTS          
+  77   78 4 LAYING DUTIES ON SALT.                                            
+  78   79 1 A-16-  -96    J 9-2-165      S         FEB. 28, 1807              
+  78   79 2 S092010       Y=18 N=8                 CLAY, KY.                  
+  78   79 3 TO PASS THE AMENDED BILL FOR THE APPOINTMENT OF                   
+  78   79 4 COMMISSIONERS TO ASCERTAIN THE PRACTICABILITY OF REMOVING         
+  78   79 5 OBSTRUCTIONS IN NAVIGATION ON OHIO RIVER AT THE RAPIDS            
+  78   79 6 TO MAKE THEM SAFE FOR NAVIGATION.                                 
+  79   25 1               EX J 2-54      SRE       MAR. 2, 1807               
+  79   25 2 E091026       Y=9 N=20                                            
+  79   25 3 TO CONSENT TO THE APPOINTMENT OF WILLIAM CLARKE OF INDIANA,       
+  79   25 4 NOW 1ST LIEUTENANT, TO BE LIEUTENANT COLONEL IN THE               
+  79   25 5 2ND REGIMENT, TO SUCCEED THOMAS CUSHING.                          
+  80   80 1 A-16-  -97A   J 9-2-166A     HR        MAR. 2, 1807               
+  80   80 2 S092011       Y=19 N=10                                           
+  80   80 3 TO DECIDE IF IT IS IN ORDER TO READ A BILL A 2ND TIME, AS A       
+  80   80 4 BILL OF A SIMILAR NATURE HAD BEEN REJECTED DURING THIS            
+  80   80 5 SESSION OF CONGRESS; SAID BILLS RELATING TO REPEALING OF THE      
+  80   80 6 DUTIES ON SALT, ETC.                                              
+  81   81 1 A-16-  -97B   J 9-2-166B     SRE       MAR. 2, 1807               
+  81   81 2 S092012       Y=22 N=3                 WORTHINGTON, OHIO          
+  81   81 3 TO ADOPT THE RESOLUTION THAT THE SEC. OF THE TREASURY             
+  81   81 4 REPORT TO THE SENATE A PLAN FOR THE OPENING OF ROADS AND          
+  81   81 5 CANALS TOGETHER WITH A STATEMENT OF THE UNDERTAKINGS OF           
+  81   81 6 THAT NATURE WHICH, AS OBJECTS OF PUBLIC IMPROVEMENT               
+  81   81 7 MAY REQUIRE AND DESERVE THE AID OF GOVERNMENT; ALSO A             
+  81   81 8 STATEMENT OF WORKS OF THIS NATURE WHICH HAVE BEEN                 
+  81   81 9 INAUGURATED, PROGRESS MADE, MEANS AND PROSPECTS OF THEIR          
+  81   8110 COMPLETION, AND SUCH OTHER INFORMATION WHICH IN THE               
+  81   8111 OPINION OF THE SECRETARY WOULD BE HELPFUL TO CONGRESS             
+  81   8112 COVERING THE OBJECT OF HIS RESOLUTION.                            
+  82   82 1 A-16-  -101A  J 9-2-170A     HR        MAR. 3, 1807               
+  82   82 2 S092013       Y=9 N=21                                            
+  82   82 3 TO AMEND THE BILL REPEALING DUTIES ON SALT BY STRIKING OUT        
+  82   82 4 THE THIRD SECTION, SAID SECTION PROPOSING THAT                    
+  82   82 5 "AN ACT TO FURTHER PROTECT THE COMMERCE AND SEAMEN OF THE         
+  82   82 6 U.S. AGAINST THE BARBARY POWERS", AS IS CONTAINED IN THE          
+  82   82 7 FIRST SECTION OF THE SAID ACT BE, AND THE SAME IS HEREBY          
+  82   82 8 CONTINUED IN FORCE UNTIL 1ST DAY OF JANUARY NEXT, AND NO          
+  82   82 9 LONGER, PROVIDED HOWEVER, THAT THE ADDITIONAL DUTY LAID           
+  82   8210 BY SAID SECTION SHALL BE COLLECTED ON ALL GOODS, WARES, AND       
+  82   8211 MERCHANDISE LIABLE TO PAY THE SAME AS SHALL HAVE BEEN             
+  82   8212 IMPORTED TO THAT DAY.                                             
+  83   83 1 A-16-  -101B  J 9-2-170B     HR        MAR. 3, 1807               
+  83   83 2 S092014       Y=20 N=11                                           
+  83   83 3 TO ADOPT THE REPORT OF THE COMM. OF THE WHOLE ON THE BILL         
+  83   83 4 REPEALING ACTS LAYING DUTIES ON SALT; SAID REPORT PROPOSES        
+  83   83 5 THAT AFTER DEC. 31 NEXT, SO MUCH OF ANY ACT LAYING A DUTY ON      
+  83   83 6 IMPORTED SALT BE REPEALED, THUS EXTENDING THE DATE FOR            
+  83   83 7 SUCH REPEAL FROM SEPT. 30 TO DEC. 31.                             
+  84   84 1 A-16-  -102   J 9-2-170C     HR        MAR. 3, 1807               
+  84   84 2 S092015       Y=20 N=10                                           
+  84   84 3 TO ORDER A THIRD READING OF THE BILL REPEALING DUTIES ON          
+  84   84 4 SALT.                                                             
+  85   85 1 A-16-  -103   J 9-2-172      HR        MAR. 3, 1807               
+  85   85 2 S092016       Y=16 N=12                BRADLEY, VT.               
+  85   85 3 TO PASS THE BILL (APP. MAR. 3, 1807, 6 STAT 65), WHICH            
+  85   85 4 AUTHORIZES THE SETTLEMENT OF ACCOUNTS BETWEEN THE U.S.            
+  85   85 5 AND WILLIAM EATON.                                                
+  86   86 1 A-16-  -104   J 9-2-173                MAR. 3, 1807               
+  86   86 2 S092017       Y=10 N=17                ADAMS, MASS.               
+  86   86 3 TO AMEND A MOTION TO SUSPEND THE 12TH RULE, REQUIRING EVERY       
+  86   86 4 BILL TO RECEIVE THREE READINGS PREVIOUS TO BEING PASSED ON        
+  86   86 5 THREE DIFFERENT DAYS UNLESS UNAMINOUSLY DIRECTED OTHERWISE,       
+  86   86 6 FOR THE REMAINDER OF THE SESSION, SAID AMENDMENT TO STRIKE        
+  86   86 7 OUT THE WORDS: "FOR THE REMAINDER OF THE SESSION," AND            
+  86   86 8 INSERT THE WORDS, "ABOLISHED."                                    
+  87   87 1 A-16-  -105A  J 9-2-174A               MAR. 3, 1807               
+  87   87 2 S092018       Y=15 N=10                TURNER, N.C.               
+  87   87 3 TO SUSPEND THE 12TH RULE, REQUIRING                               
+  87   87 4 EVERY BILL TO RECEIVE THREE READINGS PREVIOUS TO BEING            
+  87   87 5 PASSED ON THREE DIFFERENT DAYS, UNLESS UNANIMOUSLY                
+  87   87 6 DIRECTED OTHERWISE, FOR THE REMAINDER OF THE SESSION.             
+  88   88 1 A-16-  -105B  J 9-2-174B     HR        MAR. 3, 1807               
+  88   88 2 S092019       Y=17 N=7                                            
+  88   88 3 TO PASS THE BILL REPEALING DUTIES ON SALT.                        

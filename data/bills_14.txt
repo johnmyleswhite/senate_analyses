@@ -1,0 +1,1081 @@
+   1    1 1               EX J 3-6A      SRE       DEC. 19, 1815              
+   1    1 2 E141001       Y=29 N=1                 BIBB, GA.                  
+   1    1 3 TO AMEND THE CONVENTION (8 STAT. 228, 12-22-15), THAT             
+   1    1 4 REGULATES THE COMMERCE BETWEEN THE TERRITORIES OF THE U.S.        
+   1    1 5 AND ENGLAND CONCLUDED AT LONDON ON JULY 3, 1815; BY ADDING        
+   1    1 6 THE WORDS "SUBJECT TO THE EXCEPTION CONTAINED IN THE LETTER       
+   1    1 7 AND DECLARATION OF ANTHONY ST. JOHN BAKER, HIS                    
+   1    1 8 BRITTANIC MAJESTY'S CHARGE D'AFFAIRES, DATED 11-24-15."           
+   2    2 1               EX J 3-6B      SRE       DEC. 19, 1815              
+   2    2 2 E141002       Y=29 N=1                 BIBB, GA.                  
+   2    2 3 TO RATIFY THE CONVENTION (8 STAT. 228, 12-22-15), TO              
+   2    2 4 REGULATE THE COMMERCE BETWEEN THE TERRITORIES OF THE U.S.         
+   2    2 5 AND ENGLAND.                                                      
+   3    3 1               EX J 3-8       SRE       DEC. 21, 1815              
+   3    3 2 E141003       Y=25 N=1                 BIBB, GA.                  
+   3    3 3 TO RATIFY (8 STAT. 224), THE TREATY OF PEACE AND AMITY            
+   3    3 4 CONCLUDED BETWEEN THE U.S. AND HIS HIGHNESS OMAR BASHAW, THE      
+   3    3 5 BEY OF ALGIERS.                                                   
+   4    4 1               EX J 3-10      SRE       DEC. 21, 1815              
+   4    4 2 E141004       Y=25 N=0                 BIBB, GA.                  
+   4    4 3 TO RATIFY THE TREATY (7 STAT. 1238 12-26-15), OF PEACE            
+   4    4 4 FRIENDSHIP, MADE AND CONCLUDED AT PORTAGE DES SIOUXS,             
+   4    4 5 BETWEEN THE U.S. AND THE CHIEFS AND WARRIORS OF THE               
+   4    4 6 POTAWATAMIE TRIBE OF INDIANS, RESIDING ON THE ILLINOIS            
+   4    4 7 RIVER, ON 7-18-15.                                                
+   5    5 1               EX J 3-11A     SRE       DEC. 21, 1815              
+   5    5 2 E141005       Y=26 N=0                 BIBB, GA.                  
+   5    5 3 TO RATIFY THE TREATY (7 STAT. 130, 12-26-15), OF PEACE AND        
+   5    5 4 FRIENDSHIP WITH THE KICKAPOO TRIBE OF INDIANS, MADE AT            
+   5    5 5 PORTAGE DES SIOUXS, BETWEEN THE U.S. AND SAID TRIBE ON            
+   5    5 6 9-2-15.                                                           
+   6    6 1               EX J 3-11B     SRE       DEC. 21, 1815              
+   6    6 2 E141006       Y=27 N=0                 BIBB, GA.                  
+   6    6 3 TO RATIFY THE TREATY OF (7 STAT. 136, 12-26-15), OF PEACE         
+   6    6 4 AND FRIENDSHIP BETWEEN THE U.S. AND THE KING, CHIEFS AND          
+   6    6 5 WARRIORS OF THE TAWAY TRIBE OF INDIANS, MADE AND CONCLUDED        
+   6    6 6 AT PORTAGE DES SIOUXS ON 9-16-15.                                 
+   7    7 1               EX J 3-11C     SRE       DEC. 21, 1815              
+   7    7 2 E141007       Y=27 N=0                 BIBB, GA.                  
+   7    7 3 TO RATIFY THE TREATY (7 STAT. 125, 12-26-15), OF PEACE AND        
+   7    7 4 PRIENDSHIP BETWEEN THE U.S. AND THE CHIEFS AND WARRIORS OF        
+   7    7 5 THE TEETON TRIBE OF INDIANS, MADE AND CONCLUDED AT PORTAGE        
+   7    7 6 DES SIOUXS.                                                       
+   8    8 1               EX J 3-11D     SRE       DEC. 21, 1815              
+   8    8 2 E141008       Y=27 N=0                 BIBB, GA.                  
+   8    8 3 TO RATIFY THE TREATY (7 STAT. 126, 12--), OF PEACE AND            
+   8    8 4 FRIENDSHIP BETWEEN THE U.S. AND THE CHIEFS AND WARRIORS OF        
+   8    8 5 THE SIOUXS TRIBE OF INDIANS, MADE AND CONCLUDED AT PORTAGE        
+   8    8 6 DES SIOUXS ON 7-19-15.                                            
+   9    9 1               EX J 3-12A     SRE       DEC. 21, 1815              
+   9    9 2 E141009       Y=27 N=0                 BIBB, GA.                  
+   9    9 3 TO RATIFY THE TREATY (7 STAT. 127, 2-26-15), OF PEACE AND         
+   9    9 4 FRIENDSHIP BETWEEN THE U.S. AND THE CHIEFS AND WARRIORS OF        
+   9    9 5 THE SIOUXS OF THE RIVER ST. PETERS, MADE AND CONCLUDED ON         
+   9    9 6 7-19-15.                                                          
+  10   10 1               EX J 3-12B     SRE       DEC. 21, 1815              
+  10   10 2 E141010       Y=27 N=0                 BIBB, GA.                  
+  10   10 3 TO RATIFY THE TREATY (7 STAT. 124, 12-26-15), BETWEEN THE         
+  10   10 4 U.S. AND THE PIANKESHAW TRIBE OF INDIANS, MADE ON 7-18-15.        
+  11   11 1               EX J 3-12C     SRE       DEC. 21, 1815              
+  11   11 2 E141011       Y=27 N=0                 BIBB, GA.                  
+  11   11 3 TO RATIFY THE TREATY (7 STAT. 131, 12-26-15), BETWEEN THE         
+  11   11 4 U.S. AND THE WYANDOT, DELAWARE, SENECA, SHAWANOE, MIAMI,          
+  11   11 5 CHIPPEWA, OTTAWA, AND POTAWATAMIE TRIBES OF INDIANS, MADE ON      
+  11   11 6 9-8-15.                                                           
+  12   12 1               EX J 3-12D     SRE       DEC. 21, 1815              
+  12   12 2 E141012       Y=27 N=0                 BIBB, GA.                  
+  12   12 3 TO RATIFY THE TREATY (7 STAT. 128, 12-26-15), BETWEEN THE         
+  12   12 4 U.S. AND THE YANCTON TRIBE OF INDIANS, MADE ON 7-19-15.           
+  13   13 1               EX J 3-13A     SRE       DEC. 21, 1815              
+  13   13 2 E141013       Y=27 N=0                 BIBB, GA.                  
+  13   13 3 TO RATIFY THE TREATY (7 STAT. 134, 12-26-15), MADE ON             
+  13   13 4 SEPT. 13, 1815, BETWEEN THE U.S. AND THAT PORTION OF THE          
+  13   13 5 SAC NATION OF INDIANS NOW RESIDING ON THE MISSOURI RIVER.         
+  14   14 1               EX J 3-13B     SRE       DEC. 21, 1815              
+  14   14 2 E141014       Y=27 N=0                 BIBB, GA.                  
+  14   14 3 TO RATIFY THE TREATY (7 STAT. 135, 12-26-15), MADE ON             
+  14   14 4 SEPT. 14, 1815, BETWEEN THE U.S. AND THE FOX TRIBE OF             
+  14   14 5 INDIANS.                                                          
+  15   15 1               EX J 3-13C     SRE       DEC. 21, 1815              
+  15   15 2 E141015       Y=27 N=0                 BIBB, GA.                  
+  15   15 3 TO RATIFY THE TREATY (7 STAT. 133, 12-26-15), MADE ON             
+  15   15 4 SEPT. 12, 1815, BETWEEN THE U.S. AND THE GREAT AND LITTLE         
+  15   15 5 OSAGE TRIBES OF INDIANS.                                          
+  16   16 1               EX J 3-13D     SRE       DEC. 21, 1815              
+  16   16 2 E141016       Y=27 N=0                 BIBB, GA.                  
+  16   16 3 TO RATIFY THE TREATY (7 STAT. 137, 12-26-15), MADE ON             
+  16   16 4 OCT. 28, 1815, BETWEEN THE U.S. AND THE KANZAS TRIBE OF           
+  16   16 5 INDIANS.                                                          
+  17   17 1               EX J 3-14      SRE       DEC. 21, 1815              
+  17   17 2 E141017       Y=27 N=0                 BIBB, GA.                  
+  17   17 3 TO RATIFY THE TREATY (7 STAT. 129, 12-26-15), BETWEEN THE         
+  17   17 4 U.S. AND THE MAHAS TRIBE OF INDIANS, OF JULY 20, 1815.            
+  18   40 1 A-29-1-89     J 14-1-99      S         JAN. 19, 1819              
+  18   40 2 S141001       Y=10 N=21                BIBB, GA.                  
+  18   40 3 TO ORDER THIRD READING OF THE BILL (3 STAT. 2558 3-1-16),         
+  18   40 4 REGULATING COMMERCIAL RELATIONS BETWEEN THE U.S. AND              
+  18   40 5 GREAT BRITAIN ACCORDING TO A CONVENTION RATIFIED 12-22-15.        
+  19   41 1 A-29-1-101    J 14-1-130     S         JAN. 30, 1916              
+  19   41 2 S141002       Y=4 N=27                 GOLDSBOROUG, MD.           
+  19   41 3 TO AMEND THE BILL (3 STAT. 253, 2-5-16), CONTINUING IN FORCE      
+  19   41 4 THE ACT IMPOSING ADDITIONAL DUTIES ON IMPORTED GOODS, AND         
+  19   41 5 FOR OTHER PURPOSES, BY ELIMINATING THE PROVISO CONTINUING         
+  19   41 6 THE TAX TO JUNE 30, IN ORDER TO EFFECT THE APPLICATION OF A       
+  19   41 7 40% ADDITIONAL TAX UNTIL A NEW TARRIFF SHALL BE ESTABLISHED.      
+  19   41 8 (P. 1795)                                                         
+  20   42 1 A-29-1-102    J 14-1-135     S         JAN. 31, 1816              
+  20   42 2 S141003       Y=25 N=5                 GOLDSBOROUG, MD.           
+  20   42 3 TO PASS THE BILL (3 STAT. 253, 2-5-16), CONTINUING IN FORCE       
+  20   42 4 AN ACT FOR IMPOSING ADDITIONAL DUTIES ON ALL GOODS IMPORTED       
+  20   42 5 FROM ANY FOREIGN PORT OR PLACE, AND FOR OTHER PURPOSES.           
+  21   43 1 A-29-1-103    J 14-1-137     S         JAN. 31, 1816              
+  21   43 2 S141004       Y=22 N=9                 LACOCK, PA.                
+  21   43 3 TO AMEND THE BILL, (3-STAT. 261, 4-9-16), AUTHORIZING             
+  21   43 4 PAYMENT FOR PROPERTY LOST, CAPTURED OR DESTROYED BY THE           
+  21   43 5 ENEMY WHILE IN THE MILITARY SERVICE, BY ELIMINATING THE           
+  21   43 6 PROVISION FOR THE PAYMENT FOR PROPERTY INJURED WHILE BEING        
+  21   43 7 USED IN THE MILITARY SERVICE IN THE LATE WAR.  (P. 180)           
+  22   44 1 A-29-1-107    J 14-1-153     S         FEB. 6, 1816               
+  22   44 2 S141005       Y=23 N=6                 CAMPBELL, TENN.            
+  22   44 3 TO ORDER A THIRD READING OF THE BILL, (3 STAT. 254, 2-9-16),      
+  22   44 4 TO CONTINUE THE ACT LAYING A DUTY ON IMPORTED SALT, GRANTING      
+  22   44 5 A BOUNTY ON EXPORTED PICKLED FISH AND AN ALLOWANCE TO             
+  22   44 6 CERTAIN VESSELS EMPLOYED IN THE FISHERIES.                        
+  23   45 1 A-29-1-125    J 14-1-156     S         FEB. 7, 1816               
+  23   45 2 S141006       Y=22 N=6                 CAMPBELL, TENN.            
+  23   45 3 TO PASS THE BILL (3 STAT. 254, 2-9-16), CONTINUING IN FORCE       
+  23   45 4 AN ACT LAYING DUTY ON IMPORTED SALT, GRANTING A BOUNTY ON         
+  23   45 5 PICKLED FISH EXPORTED, AND ALLOWANCES TO CERTAIN VESSELS          
+  23   45 6 EMPLOYED IN THE FISHERIES.                                        
+  23   45 7 (P. 98)                                                           
+  24   46 1 A-29-1-129    J 14-1-166     SRE       FEB. 9, 1816               
+  24   46 2 S141007       Y=18 N=14                TAIT, GA.                  
+  24   46 3 TO POSTPONE TO THE FIRST MONDAY IN JULY CONSIDERATION OF THE      
+  24   46 4 PETITION TO REWARD THE OFFICERS AND CREW OF THE LATE U.S.         
+  24   46 5 BRIG "ARGUS."  (P. 129)                                           
+  25   47 1 A-29-1-129B   J 14-1-168     S         FEB. 9, 1816               
+  25   47 2 S141008       Y=17 N=18                KING, N.Y.                 
+  25   47 3 TO POSTPONE, TO FIRST MONDAY IN JULY, CONSIDERATION OF THE        
+  25   47 4 AMENDMENTS OF THE HOUSE TO THE BILL, (3 STAT. 255, 3-1-16),       
+  25   47 5 CONCERNING THE CONVENTION TO REGULATE THE COMMERCE BETWEEN        
+  25   47 6 THE TERRITORIES OF THE U.S. AND GREAT BRITAIN.  (P. 129)          
+  26   48 1 A-29-1-130    J 14-1-172     S         FEB. 12, 1816              
+  26   48 2 S141009       Y=15 N=19                BIBB, GA.                  
+  26   48 3 TO AGREE TO THE FIRST AMENDMENT OF THE HOUSE TO THE COMMERCE      
+  26   48 4 BILL, WHICH AMENDMENT ELIMINATES FROM THE ENACTING CLAUSE         
+  26   48 5 THE WORDS "AND DECLARED" THUS MAKING THE BILL A POSITIVE          
+  26   48 6 ENACTMENT INSTEAD OF A DECLARATORY LAW.  (P. 160)                 
+  27   49 1 A-29-1-131    J 14-1-174     S         FEB. 12, 1816              
+  27   49 2 S141010       Y=11 N=23                BIBB, GA.                  
+  27   49 3 TO AGREE TO SECOND AMENDMENT OF THE HOUSE TO THE COMMERCE         
+  27   49 4 BILL, WHICH AMENDMENT ELIMINATED THE BALANCE OF THE BILL          
+  27   49 5 AFTER THE WORD "ASSEMBLED" AND INSERTED                           
+  27   49 6 INSTEAD PROVISIONS IMPOSING THE SAME DUTY ON GOODS OF             
+  27   49 7 BRITISH ORGIN WHEN TRANSPORTED IN BRITISH VESSELS OR WHEN         
+  27   49 8 CARRIED BY AMERICAN SHIPS AND GRANTING TO BRITISH SHIPS THE       
+  27   49 9 SAME BOUNTY FOR CARRYING EXPORTED AMERICAN GOODS AS ARE           
+  27   4910 ALLOWED TO AMERICAN VESSELS.  (P. 131)                            
+  28   18 1               EX J 3-30      SRE       FEB. 14, 1816              
+  28   18 2 E141018       Y=8 N=25                 MASON, N.H.                
+  28   18 3 TO POSTPONE THE CONSIDERATION OF THE NOMINATION OF OFFICERS       
+  28   18 4 RETAINED IN THE ARMY IN THE PEACE ESTABLISHMENT UNTIL             
+  28   18 5 JULY 1, NEXT, IN ORDER TO STOP FURTHER ACTION THEREON DURING      
+  28   18 6 THE PRESENT SESSION OF CONGRESS.                                  
+  29   50 1 A-29-1-136    J 14-1-187     SRE       FEB. 15, 1816              
+  29   50 2 S141011       Y=22 N=5                 BIBB, GA.                  
+  29   50 3 TO PASS THE RESOLUTION FOR THE RELIEF OF COMMODORE                
+  29   50 4 JOHN RODGERS REGARDING A JUDGEMENT OBTAINED AGAINST HIM BY        
+  29   50 5 JOHN DONNELL, FOR THE VALUE OF A VESSEL DETAINED BY A             
+  29   50 6 FRIGATE BELONGING TO A SQUADRON UNDER COMMAND OF                  
+  29   50 7 COMMODORE RODGERS.  (P. 136)                                      
+  30   51 1 A-29-1-137    J 14-1-189     SRE       FEB. 15, 1816              
+  30   51 2 S141012       Y=26 N=3                 BARBOUR, VA.               
+  30   51 3 TO AGREE TO THE REPORT OF THE COMMITTEE ON MILITARY AFFAIRS,      
+  30   51 4 DECLARING THAT THE PETITIONS OF NICHOLAS BOILEVIN,                
+  30   51 5 JOHN DE LASSIZO AND J. DE VILLIERS FOR RELIEF BECAUSE OF          
+  30   51 6 LOSS OF PROPERTY DESTROYED BY THE INDIANS AND THE BRITISH,        
+  30   51 7 ARE UNREASONABLE AND SHOULD NOT BE GRANTED.  (P. 137)             
+  31   52 1 A-29-1-159A   J 14-1-230     S         FEB. 27, 1816              
+  31   52 2 S141013       Y=12 N=20                DANA, CONN.                
+  31   52 3 TO AGREE TO FIRST AMENDMENT REPORTED BY COMMITTEE ON              
+  31   52 4 FINANCE, TO THE REVENUE BILL, WHICH AMENDMENT CHANGED THE         
+  31   52 5 AMOUNT OF TAX TO BE LEVIED FROM SIX TO  THREE MILLION             
+  31   52 6 DOLLARS.  (P. 159)                                                
+  32   53 1 A-29-1-159B   J 14-1-231     S         FEB. 27, 1816              
+  32   53 2 S141014       Y=16 N=16                MASON, N.H.                
+  32   53 3 TO AMEND REVENUE BILL BY ELIMINATING THE SECOND SECTION           
+  32   53 4 WHICH LEVIES A DIRECT TAX OF THREE MILLION DOLLARS ON THE         
+  32   53 5 U.S. FOR THE YEAR 1816.  (P. 159)                                 
+  33   54 1 A-29-1-162    J 14-1-237     S         FEB. 28, 1816              
+  33   54 2 S141015       Y=10 N=22                FROMENTIN, LA.             
+  33   54 3 TO POSTPONE, TO JULY 4, CONSIDERATION OF THE BILL MAKING          
+  33   54 4 APPROPRIATIONS FOR THE CONSTRUCTIONS OF ROADS AND                 
+  33   54 5 CANALS.  (P. 162)                                                 
+  34   55 1 A-29-1-163    J 14-1-242     S         FEB. 29, 1816              
+  34   55 2 S141016       Y=7 N=24                 BIBB, GA.                  
+  34   55 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL,               
+  34   55 4 PROVIDING FOR AN AMENDMENT TO THE CONSTITUTION BY REDUCING        
+  34   55 5 THE TERM OF OFFICE OF SENATORS FROM SIX TO THREE YEARS.           
+  34   55 6 (P. 163)                                                          
+  35   56 1 A-29-1-165    J 14-1-249     S         MAR. 1, 1816               
+  35   56 2 S141017       Y=12 N=20                GOLDSBOROUG, MD.           
+  35   56 3 TO RECOMMIT REVENUE BILL TO COMMITTEE ON FINANCE AND AN           
+  35   56 4 UNIFORM NATIONAL CURRENCY WITH INSTRUCTIONS TO PROVIDE FOR        
+  35   56 5 COLLECTION OF ALL ARREARAGES OF DIRECT TAX AND THE REPEAL OF      
+  35   56 6 AN ACT TO PROVIDE ADDITIONAL REVENUE.  (P. 165)                   
+  36   57 1 A-29-1-166A   J 14-1-251     S         MAR. 1, 1816               
+  36   57 2 S141018       Y=16 N=18                ROBERTS, PA.               
+  36   57 3 TO AGREE TO AN AMENDMENT TO REVENUE BILL, WHICH ELIMINATES        
+  36   57 4 ALL OF THE BILL AFTER THE WORD, "THAT" IN THE SECOND LINE         
+  36   57 5 AND INSERTS A PROVISION REDUCING THE AMOUNT OF THE DIRECT         
+  36   57 6 TAX FROM SIX TO THREE MILLION DOLLARS.  (P. 166)                  
+  37   58 1 A-29-1-166B   J 14-1-252     S         MAR. 1, 1816               
+  37   58 2 S141019       Y=10 N=24                HARPER, MD.                
+  37   58 3 TO AMEND THE AMENDMENT TO THE REVENUE BILL, BY INSERTING A        
+  37   58 4 PROVISION TO CONTINUE THE TAX ANNUALLY FOR A PERIOD OF FIVE       
+  37   58 5 YEARS.  (P. 166)                                                  
+  38   59 1 A-29-1-166C   J 14-1-253     S         MAR. 1, 1816               
+  38   59 2 S141020       Y=16 N=18                WELLS, DEL.                
+  38   59 3 TO AMEND REVENUE BILL BY ELIMINATING THE PROVISION FOR A          
+  38   59 4 DIRECT TAX UPON THE DISTRICT OF COLUMBIA.  (P. 166)               
+  39   60 1 A-29-1-168    J 14-1-255     S         MAR. 2, 1816               
+  39   60 2 S141021       Y=18 N=11                BIBB, GA.                  
+  39   60 3 TO PASS REVENUE BILL.  (P. 168)                                   
+  40   19 1               EX J 3-35      SRE       MAR. 6, 1816               
+  40   19 2 E141019       Y=11 N=23                BIBB, GA.                  
+  40   19 3 TO CONSENT TO THE APPOINTMENT OF THOMAS MORRIS OF N.Y., TO        
+  40   19 4 BE A COMMISSIONER TO CARRY INTO EFFECT, THE FIFTH ARTICLE OF      
+  40   19 5 THE TREATY OF PEACE AND AMITY BETWEEN THE U.S. AND ENGLAND        
+  40   19 6 CONCLUDED ON 12-24-14.                                            
+  41   61 1 A-29-1-170    J 14-1-266     S         MAR. 6, 1816               
+  41   61 2 S141022       Y=21 N=13                BARRY, KY.                 
+  41   61 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL                
+  41   61 4 (3 STAT. 260, 3-25-16), PROVIDING THAT AN INQUIRY BE HELD         
+  41   61 5 INTO THE EXPEDIENCY OF EXTENDING TO ALL SETTLERS ON PUBLIC        
+  41   61 6 LANDS SINCE JAN. 1, 1808, THE SAME PRIVILEGES GRANTED TO          
+  41   61 7 SUCH SETTLERS PRIOR TO THAT DATE.  (P. 170)                       
+  42   20 1               EX J 3-35      SRE       MAR. 7, 1816               
+  42   20 2 E141020       Y=14 N=16                                           
+  42   20 3 TO CONFIRM THE SECOND PART OF THE APPOINTMENT OF                  
+  42   20 4 WILLIAM PINKNEY TO BE MINISTER PLENIPORENTIARY TO RUSSIA,         
+  42   20 5 AND ENTRUSTED WITH A SPECIAL MISSION TO THE KING OF THE           
+  42   20 6 TWO SICILIES; WHICH SECOND PART OF NOMINATION SENDS HIM ON A      
+  42   20 7 SPECIAL MISSION TO THE KING OF THE TWO SICILES.                   
+  43   62 1 A-29-1-179    J 14-1-275     S         MAR. 8, 1816               
+  43   62 2 S141023       Y=5 N=17                 ROBERTS, PA.               
+  43   62 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL TO ALLOW       
+  43   62 4 TO COLONEL JOHN THOMPSON INTEREST ON HIS CLAIM FOR                
+  43   62 5 REVOLUTIONARY SERVICES, THE PRINCIPAL OF WHICH WAS GRANTED        
+  43   62 6 TO HIM BY AN ACT OF 1812.  (P. 179)                               
+  44   63 1 A-29-1-188    J 14-1-284     S         MAR. 12, 1816              
+  44   63 2 S141024       Y=9 N=22                 TAYLOR, S.C.               
+  44   63 3 TO REFER TO THE COMMITTEE ON FINANCE FOR EXAMINATION, THE         
+  44   63 4 BILL, (3 STAT. 257, 3-9-16), PROVIDING THAT COMPENSATION OF       
+  44   63 5 SENATORS, DELEGATES, AND REPRESENTATIVES BE CHANGED FROM          
+  44   63 6 SIX DOLLARS A DAY WHILE IN ATTENDANCE AT THE CONGRESS TO          
+  44   63 7 $1500 A YEAR.  (P. 188)                                           
+  45   64 1 A-29-1-189    J 14-1-290     S         MAR. 12, 1816              
+  45   64 2 S141025       Y=16 N=17                ROBERTS, PA.               
+  45   64 3 TO PASS THE BILL TO INCORPORATE THE WASHINGTON FEMALE             
+  45   64 4 ORPHAN ASYLUM AND VEST IN IT TITLE TO FOUR LOTS IN THE CITY       
+  45   64 5 OF WASHINGTON, FOR THE PROMOTION OF THE BENEVOLENT OBJECTS        
+  45   64 6 OF THE INSTITUTION.  (P. 189)                                     
+  46   65 1 A-29-1-191    J 14-1-292     S         MAR. 13, 1816              
+  46   65 2 S141026       Y=7 N=26                 TAYLOR, S.C.               
+  46   65 3 TO AMEND THE BILL (3 STAT. 257, 3-19-16), PROVIDING THAT THE      
+  46   65 4 COMPENSATION OF SENATORS, DELEGATES AND REPRESENTATIVES BE        
+  46   65 5 CHANGED FROM SIX DOLLARS A DAY WHILE ATTENDING CONGRESS TO        
+  46   65 6 $1500 A YEAR, BY ELIMINATING THE PROVISION THAT THERE BE          
+  46   65 7 DEDUCTED FROM THE SUM TO WHICH SUCH MEMBERS WOULD BE              
+  46   65 8 ENTITLED A PROPORTIONATE AMOUNT FOR THE TIME HE WAS ABSENT        
+  46   65 9 AND INSERTING A CLAUSE THAT SUCH DEDUCTION BE BASED ON THE        
+  46   6510 PROPORTION SUCH ABSENCE BEARS TO THE ENTIRE TIME CONGRESS         
+  46   6511 WAS IN SESSION DURING SUCH YEAR.  (P. 191)                        
+  47   66 1 A-29-1-192A   J 14-1-293     S         MAR. 13, 1816              
+  47   66 2 S141027       Y=10 N=23                SANFORD, N.Y.              
+  47   66 3 TO AMEND COMPENSATION BILL BY ELIMINATING FROM LINE 9, THE        
+  47   66 4 WORDS, "THREE THOUSAND" AS THE COMPENSATION FOR SENATORS AND      
+  47   66 5 THE SPEAKER OF THE HOUSE "FIFTEEN HUNDRED" AS THAT FOR            
+  47   66 6 REPRESENTATIVES.  (P. 192)                                        
+  48   67 1 A-29-1-192B   J 14-1-294     S         MAR. 13, 1816              
+  48   67 2 S141028       Y=22 N=11                TAYLOR, S.C.               
+  48   67 3 TO ORDER THIRD READING OF COMPENSATION BILL.  (P. 192)            
+  49   68 1 A-29-1-203    J 14-1-296     S         MAR. 14, 1816              
+  49   68 2 S141029       Y=21 N=11                TAYLOR, S.C.               
+  49   68 3 TO PASS COMPENSATION BILL.  (P. 203)                              
+  50   69 1 A-29-1-213    J 14-1-316     S         MAR. 20, 1816              
+  50   69 2 S141030A      Y=10 N=15                WILSON, N.J.               
+  50   69 3 TO AMEND THE BILL, (3 STAT. 284, 4-16-16), MAKING FURTHER         
+  50   69 4 PROVISIONS FOR MILITARY SERVICE DURING THE LATE WAR AND FOR       
+  50   69 5 OTHER PURPOSES, BY PROVIDING FOR THE GRANTING OF CERTAIN          
+  50   69 6 LANDS TO ALL OFFICERS, OF THE REGULAR ARMY DISBANDED AS           
+  50   69 7 SUPERNUMERARIES.  (P. 213)                                        
+  51   70 1 A-29-1-226    J 14-1-317     SRE       MAR. 20, 1816              
+  51   70 2 S141030B      Y=12 N=21                LACOCK, PA.                
+  51   70 3 TO REFER TO A COMMITTEE THE RESOLUTION PROPOSING AN               
+  51   70 4 AMENDMENT TO THE CONSTITUTION WITH RELATION TO THE METHOD OF      
+  51   70 5 CHOOSING REPRESENTATIVES AND ELECTORS, WITH INSTRUCTIONS TO       
+  51   70 6 INQUIRE INTO THE EXPEDIENCY OF SO AMENDING IT AS TO REFER         
+  51   70 7 THE ELECTION OF THE PRESIDENT IN THE FIRST INSTANCE TO THE        
+  51   70 8 WHOLE PEOPLE.  (P. 226)                                           
+  52   71 1 A-29-1-227A   J 14-1-319     SRE       MAR. 20, 1816              
+  52   71 2 S141031       Y=12 N=20                BARBOUR, VA.               
+  52   71 3 TO AMEND A CONSTITUTIONAL RESOLUTION BY ELIMINATING THE           
+  52   71 4 SECTION WHICH PROVIDES FOR THE DIVISION OF EACH STATE             
+  52   71 5 INTO AS MANY DISTRICTS AS THERE ARE ELECTORS FROM THAT            
+  52   71 6 STATE.  (P. 227)                                                  
+  53   72 1 A-29-1-227B   J 14-1-320     SRE       MAR. 20, 1816              
+  53   72 2 S141032       Y=18 N=14                BARBOUR, VA.               
+  53   72 3 TO POSTPONE CONSIDERATION OF THE CONSTITUTIONAL RESOLUTION,       
+  53   72 4 UNTIL THE FIRST MONDAY OF JULY.  (P. 227)                         
+  54   73 1 A-29-1-324    J 14-1-325     S         MAR. 21, 1816              
+  54   73 2 S141033       Y=15 N=17                MASON, N.H.                
+  54   73 3 TO POSTPONE CONSIDERATION, UNTIL FIRST MONDAY IN JULY, OF         
+  54   73 4 THE BILL CALLING FORTH THE MILITIA TO EXECUTE THE LAWS TO         
+  54   73 5 SUPPRESS INSURRECTION AND REPEL INVASION; AND REPEALING           
+  54   73 6 PRESENTS LAWS FOR THOSE PURPOSES.  (JP. 322, 324)                 
+  55   74 1 A-29-1-228    J 14-1-326     S         MAR. 21, 1816              
+  55   74 2 S141034       Y=22 N=11                WILSON, N.J.               
+  55   74 3 TO AGREE TO THE AMENDMENT TO THE BILL (3 STAT. 264, 4-9-16),      
+  55   74 4 ENTITLED, "AN ACT TO REGULATE THE POST OFFICE ESTABLISH-          
+  55   74 5 MENT," WHICH AMENDMENT PROPOSES TO ELIMINATE THE 3RD SECTION      
+  55   74 6 GRANTING FRANKING PRIVILEGES ON MAIL TO AND FROM MEMBERS OF       
+  55   74 7 BOTH HOUSES, SECRETARY OF SENATE AND CLERK OF HOUSE, DURING       
+  55   74 8 SESSION OF CONGRESS AND FOR 30 DAYS THEREAFTER.  (P. 228)         
+  56   75 1 A-29-1-229    J 14-1-327     S         MAR. 21, 1816              
+  56   75 2 S141035       Y=9 N=24                 FROMENTIN, LA.             
+  56   75 3 TO AMEND POST OFFICE ESTABLISHMENT BILL, BY ADDING A NEW          
+  56   75 4 SECTION GRANTING THE FRANKING PRIVILEGE ON MAIL ADDRESSED TO      
+  56   75 5 MEMBERS OF BOTH HOUSES, SECRETARY OF THE SENATE, AND CLERK        
+  56   75 6 OF THE HOUSE, DURING THE SESSION OF CONGRESS AND FOR 30 DAYS      
+  56   75 7 THEREAFTER, PROVIDED THAT SUCH LETTER OR PACKET SHALL NOT         
+  56   75 8 EXCEED TWO OUNCES.  (P. 229)                                      
+  57   76 1 A-29-1-234    J 14-1-331     S         MAR. 22, 1816              
+  57   76 2 S141036       Y=19 N=6                 VARNUM, MASS.              
+  57   76 3 TO AMEND POST OFFICE ESTABLISHMENT BILL, BY ADDING A NEW          
+  57   76 4 SECTION GRANTING THE FRANKING PRIVILEGE ON MAIL TO AND FROM       
+  57   76 5 MEMBERS OF BOTH HOUSES, SECRETARY OF THE SENATE, AND CLERK        
+  57   76 6 OF THE HOUSE FOR 30 DAYS PRIOR TO AND AFTER THE SESSION OF        
+  57   76 7 CONGRESS ON MAIL NOT EXCEEDING TWO OUNCES IN WEIGHT, POSTAGE      
+  57   76 8 TO BE PAID ON EXCESS WEIGHT ONLY.  (P. 234)                       
+  58   77 1 A-29-1-250    J 14-1-345     S         MAR. 26, 1816              
+  58   77 2 S141037       Y=20 N=14                MASON, N.H.                
+  58   77 3 TO AMEND THE BILL (3 STAT. 2668 4-10-16), TO INCORPORATE THE      
+  58   77 4 SUBSCRIBERS TO THE BANK OF THE U.S., BY ADDING THERETO A          
+  58   77 5 PROVISION THAT ALL BILLS OR NOTES TO BE ISSUED BY THE             
+  58   77 6 CORPORATIONS SHALL BE PAYABLE ON DEMAND, OTHER THAN SUCH          
+  58   77 7 AS ARE FOR LESS THAN -- DOLLARS EACH, WHICH MAY BE MADE           
+  58   77 8 PAYABLE AT ANY TIME NOT EXCEEDING -- DAYS THEREAFTER.             
+  58   77 9 (P. 250)                                                          
+  59   78 1 A-29-1-254    J 14-1-353     S         MAR. 29, 1816              
+  59   78 2 S141038       Y=14 N=17                MASON, N.H.                
+  59   78 3 TO AMEND BANK OF THE UNITED STATES BILL, BY ADDING A              
+  59   78 4 PROVISION THAT IF THE CORPORATION SHALL SUSPEND OR REFUSE TO      
+  59   78 5 PAY ITS OBLIGATIONS IN GOLD OR SILVER TO SUCH AN AMOUNT AND       
+  59   78 6 FOR SUCH TIME AS CONGRESS MAY CONSIDER INJURIOUS TO THE U.S.      
+  59   78 7 THE CONGRESS MAY REPEAL THIS ACT AND ABOLISH THE CORPORATION      
+  59   78 8 AND PROVIDE FOR SETTLING ITS AFFAIRS.  (P. 254)                   
+  60   79 1 A-29-1-255    J 14-1-360     S         MAR. 30, 1816              
+  60   79 2 S141039       Y=14 N=21                KING, N.Y.                 
+  60   79 3 TO AMEND BANK OF THE U.S. BILL, BY ELIMINATING THE PART OF        
+  60   79 4 SECTION 8 WHICH PROVIDES THAT FIVE OF THE DIRECTORS BE            
+  60   79 5 APPOINTED BY THE PRESIDENT WITH THE ADVICE AND CONSENT OF         
+  60   79 6 THE SENATE.  (P. 255)                                             
+  61   80 1 A-29-1-258    J 14-1-366     S         APR. 1, 1816               
+  61   80 2 S141040       Y=16 N=18                GOLDSBOROUG, MD.           
+  61   80 3 TO AMEND BANK OF THE U.S. BILL, BY ADDING A NEW SECTION           
+  61   80 4 PROVIDING THAT IF, AT ANY TIME, THE U.S. SHALL CEASE TO HOLD      
+  61   80 5 STOCK IN THIS BANK THE POWER OF THE PRESIDENT TO APPOINT          
+  61   80 6 FIVE DIRECTORS AND THE TERM OF OFFICE OF THOSE ALREADY            
+  61   80 7 APPOINTED BY HIM SHALL CEASE AND THERE SHALL BE AN                
+  61   80 8 ABRIDGEMENT OF SUCH POWER FOR EVERY $1,400,000 WORTH OF           
+  61   80 9 STOCK PARTED WITH BY THE U.S.  (P. 258)                           
+  62   81 1 A-29-1-274    J 14-1-367     S         APR. 1, 1816               
+  62   81 2 S141041       Y=6 N=29                 WELLS, DEL.                
+  62   81 3 TO POSTPONE CONSIDERATION OF BANK OF THE U.S. BILL, TO FIRST      
+  62   81 4 MONDAY IN DECEMBER.  (P. 274)                                     
+  63   82 1 A-29-1-276    J 14-1-373     S         APR. 2, 1816               
+  63   82 2 S141042       Y=14 N=22                MASON, N.H.                
+  63   82 3 TO AMEND BANK OF THE U.S. BILL BY ADDING TO THE 17TH SECTION      
+  63   82 4 A PROVISION THAT IF THE BANK SHALL SUSPEND OR REFUSE              
+  63   82 5 PAYMENT OF ITS OBLIGATIONS IN GOLD OR SILVER TO SUCH AN           
+  63   82 6 AMOUNT AND FOR SUCH A PERIOD AS THE CONGRESS MAY DEEM             
+  63   82 7 INJURIOUS TO THE U.S., THE CONGRESS MAY REPEAL THIS ACT AND       
+  63   82 8 ABOLISH THE CORPORATION AND MAKE REGULATIONS FOR THE              
+  63   82 9 SETTLEMENT OF ITS AFFAIRS.  (P. 276)                              
+  64   83 1 A-29-1-277A   J 14-1-375     S         APR. 2, 1816               
+  64   83 2 S141043       Y=27 N=8                 DAGGETT, CONN.             
+  64   83 3 TO AMEND BANK OF THE U.S. BILL, BY ADDING A NEW SECTION PRO-      
+  64   83 4 VIDING THAT A COMMITTEE OF EITHER HOUSE MAY INSPECT THE           
+  64   83 5 BOOKS, EXAMINE THE PROCEEDINGS, WATCH FOR VIOLATIONS OF           
+  64   83 6 CHARTER AND, IF THERE ARE SUCH VIOLATIONS, CHARTER IS TO          
+  64   83 7 BE ANNULLED.  (P. 277)                                            
+  65   84 1 A-29-1-277B   J 14-1-377     S         APR. 2, 1816               
+  65   84 2 S141044       Y=7 N=24                 HARPER, MD.                
+  65   84 3 TO AMEND BANK OF THE U.S. BILL BY ELIMINATING FROM SECTION        
+  65   84 4 11, THE PROVISIONS PRESCRIBING THE NUMBER OF VOTES TO WHICH       
+  65   84 5 STOCKHOLDERS ARE ENTITLED DEPENDENT ON THEIR HOLDINGS.            
+  65   84 6 (P. 277)                                                          
+  66   85 1 A-29-1-277C   J 14-1-378     S         APR. 2, 1816               
+  66   85 2 S141045       Y=23 N=10                CAMPBELL, TENN.            
+  66   85 3 TO ORDER ENGROSSMENT AND THIRD READING OF BANK OF THE U.S.        
+  66   85 4 BILL.  (P. 277)                                                   
+  67   86 1 A-29-1-281    J 14-1-385     S         APR. 3, 1816               
+  67   86 2 S141046       Y=22 N=12                CAMPBELL, TENN.            
+  67   86 3 TO PASS BANK OF THE U.S. BILL.  (P. 281)                          
+  68   21 1               EX J 3-42A     SRE       APR. 4, 1816               
+  68   21 2 E141021       Y=27 N=0                 CAMPBELL, TENN.            
+  68   21 3 TO RATIFY THE CONVENTION (7 STAT. 139, 4-8-16), MADE AND          
+  68   21 4 CONCLUDED AT THE CITY OF WASHINGTON ON 3-22-16, BETWEEN THE       
+  68   21 5 U.S. AND THE CHIEFS AND HEADMEN OF THE CHEROKEE NATION OF         
+  68   21 6 INDIANS.                                                          
+  69   22 1               EX J 3-42B     SRE       APR. 4, 1816               
+  69   22 2 E141022       Y=25 N=0                 CAMPBELL, TENN.            
+  69   22 3 TO RATIFY THE TREATY (7 STAT. 138, 4-8-16), MADE ON 3-22-16,      
+  69   22 4 BETWEEN THE U.S. AND THE CHEROKEE NATION OF INDIANS.              
+  70   87 1 A-29-1-282    J 14-1-393     S         APR. 4, 1816               
+  70   87 2 S141047       Y=15 N=15                MASON, N.H.                
+  70   87 3 TO AMEND THE BILL PROVIDING FOR THE DIVISION OF THE STATE OF      
+  70   87 4 PENNSYLVANIA INTO TWO DISTRICTS AND THE ESTABLISHMENT OF A        
+  70   87 5 CIRCUIT COURT AT PITTSBURG, BY ELIMINATING THE FIRST SECTION      
+  70   87 6 WHICH PROVIDES FOR THE DIVISION.  (P. 282)                        
+  71   88 1 A-29-1-298    J 14-1-398     SRE       APR. 5, 1816               
+  71   88 2 S141048       Y=19 N=7                 MASON, N.H.                
+  71   88 3 TO POSTPONE, TO FIRST MONDAY IN JULY, CONSIDERATION OF THE        
+  71   88 4 RESOLUTION PROPOSING AN AMENDMENT TO THE CONSTITUTION THAT        
+  71   88 5 FEDERAL JUDGES MAY BE REMOVED BY THE PRESIDENT OF THE U.S.        
+  71   88 6 WITH THE CONCURRENCE OF TWO-THIRDS OF BOTH HOUSES.                
+  71   88 7 (P. 298)                                                          
+  72   89 1 A-29-1-299    J 14-1-401     S         APR. 6, 1816               
+  72   89 2 S141049       Y=16 N=6                 KING, N.Y.                 
+  72   89 3 TO PASS THE BILL FOR THE BENEFIT OF THE WIDOW AND CHILDREN        
+  72   89 4 OF ROBERT FULTON TO EXTEND THE LIFE OF THE PATENT ISSUED TO       
+  72   89 5 HIM FOR THE OPERATION OF STEAMBOATS.  (P. 299)                    
+  73   90 1 A-29-1-300    J 14-1-404     S         APR. 8, 1816               
+  73   90 2 S141050       Y=18 N=9                 MASON, N.H.                
+  73   90 3 TO POSTPONE, UNTIL THE FIRST MONDAY IN JULY CONSIDERATION OF      
+  73   90 4 THE BILL MAKING APPROPRIATIONS FOR THE CONSTRUCTIONS OF           
+  73   90 5 ROADS AND CANALS.  (P. 300)                                       
+  74   91 1 A-29-1-304    J 14-1-415     S         APR. 9, 1816               
+  74   91 2 S141051       Y=10 N=12                BARBOUR, VA.               
+  74   91 3 TO AGREE TO AN AMENDMENT AS AMENDED TO THE BILL (3 STAT.          
+  74   91 4 284, 4-16-16), MAKING FURTHER PROVISIONS FOR THE MILITARY         
+  74   91 5 SERVICE DURING THE LATE WAR AND FOR OTHER PURPOSES, WHICH         
+  74   91 6 AMENDMENT PRESCRIBES THAT CERTAIN AMOUNT OF LANDS BE GIVEN        
+  74   91 7 TO OFFICERS OF THE REGULAR ARMY WHO HAVE BEEN DISBANDED.          
+  75   92 1 A-29-1-307A   J 14-1-423     S         APR. 11, 1816              
+  75   92 2 S141052       Y=15 N=9                 BARBOUR, VA.               
+  75   92 3 TO ORDER THIRD READING OF THE BILL (3 STAT. 284, 4-16-16),        
+  75   92 4 MAKING A FURTHER PROVISION FOR MILITARY SERVICES DURING THE       
+  75   92 5 LATE WAR.                                                         
+  76   93 1 A-29-1-307B   J 14-1-424     S         APR. 11, 1816              
+  76   93 2 S141053       Y=5 N=20                 TALBOT, KY.                
+  76   93 3 TO AMEND THE BILL, TO INCREASE THE SALARIES OF CERTAIN            
+  76   93 4 OFFICERS OF THE GOVERNMENT THEREIN NAMED, BY ELIMINATING          
+  76   93 5 LINES 37 TO 79 OF THE BILL NAMING CERTAIN DISTRICT COURTS         
+  76   93 6 JUDGES AND CERTAIN CLERKS.                                        
+  77   94 1 A-29-1-307C   J 14-1-425     S         APR. 11, 1816              
+  77   94 2 S141054       Y=12 N=14                TALBOT, KY.                
+  77   94 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL TO             
+  77   94 4 INCREASE THE SALARIES OF CERTAIN OFFICERS OF THE GOVERNMENT       
+  77   94 5 THEREIN NAMED.                                                    
+  78   95 1 A-29-1-310A   J 14-1-434     S         APR. 12, 1816              
+  78   95 2 S141055       Y=13 N=16                TALBOT, KY.                
+  78   95 3 TO PASS THE BILL AUTHORIZING THE INTRODUCTION OF SLAVES INTO      
+  78   95 4 THE DISTRICT OF COLUMBIA.                                         
+  79   96 1 A-29-1-310B   J 14-1-435     S         APR. 12, 1816              
+  79   96 2 S141056       Y=12 N=13                BARBOUR, VA.               
+  79   96 3 TO PASS THE BILL (3 STAT. 284, 4-16-16), MAKING FURTHER           
+  79   96 4 PROVISIONS FOR MILITARY SERVICES DURING THE LATE WAR AND FOR      
+  79   96 5 OTHER PURPOSES.                                                   
+  80   97 1 A-29-1-310C   J 14-1-436     S         APR. 12, 1816              
+  80   97 2 S141057       Y=18 N=12                WELLS, DEL.                
+  80   97 3 TO RECONSIDER THE VOTE REJECTING MILITARY SERVICE BILL.           
+  81   98 1 A-29-1-311    J 14-1-437     S        APR. 12, 1816               
+  81   98 2 S141058       Y=17 N=14                BARBOUR, VA.               
+  81   98 3 TO PASS MILITARY SERVICE BILL.                                    
+  82   99 1 A-29-1-312A   J 14-1-441     S         APR. 12, 1816              
+  82   99 2 S141059       Y=9 N=20                 CAMPBELL, TENN.            
+  82   99 3 TO AMEND THE BILL, (3 STAT. 291, 4-19-16), ABOLISHING THE         
+  82   99 4 EXISTING DUTIES ON SPIRITS DISTILLED IN THE U.S. AND LAYING       
+  82   99 5 ADDITIONAL DUTIES ON LICENSES TO DISTILLERS OF SPIRITOUS          
+  82   99 6 LIQUORS, BY ELIMINATING FROM LINE SEVEN OF SECTION FOUR ONE       
+  82   99 7 WORD "FOUR" AND SUBSTITUTE THE WORD "THREE".  (P. 312)            
+  83  100 1 A-29-1-312B   J 14-1-443     S         APR. 12, 1816              
+  83  100 2 S141060A      Y=9 N=13                 GOLDSBOROUG, MD.           
+  83  100 3 TO AMEND THE BILL (3 STAT. 289, 4-19-16), TO ENABLE THE           
+  83  100 4 PEOPLE OF INDIANA TERRITORY TO FORM A CONSTITUTION AND STATE      
+  83  100 5 GOVERNMENT AND TO BE ADMITTED INTO THE UNION AS A STATE, BY       
+  83  100 6 STRIKING OUT THE PROVISION REQUIRING THE PAYMENT OF A             
+  83  100 7 COUNTY OR TERRITORIAL TAX AS A QUALIFICATION FOR VOTING.          
+  84  101 1 A-29          J 14-1-444               APR. 13, 1816              
+  84  101 2 S141060B      Y=3 N=12                                            
+  84  101 3 THE SENATE JOURNAL FOR THE 14TH CONGRESS IS NOT AVAILABLE TO      
+  84  101 4 SUPPLY THIS MISSING ABSTRACT.  THIS VOTE IS NOT LISTED IN         
+  84  101 5 ANNALS.                                                           
+  85  102 1 A-29-1-316A   J 14-1-453     SJR       APR. 13, 1816              
+  85  102 2 S141061       Y=13 N=11                LACOCK, PA.                
+  85  102 3 TO AMEND THE JOINT RESOLUTION, DIRECTING THAT MEDALS BE           
+  85  102 4 STRUCK AND WITH THE THANKS OF CONGRESS, PRESENTED TO              
+  85  102 5 GENERAL HARRISION AND GOVERNOR SHELBY,                            
+  85  102 6 BY ELIMINATING THE NAME OF GENERAL HARRISON.                      
+  86  103 1 A-20-1-316B   J 14-1-453     S         APR. 13, 1816              
+  86  103 2 S141062       Y=9 N=18                 ROBERTS, PA.               
+  86  103 3 TO AMEND THE BILL, FOR THE LIQUIDATION OF CERTAIN CLAIMS AND      
+  86  103 4 FOR OTHER PURPOSES, BY DESCRIBING CERTAIN PROCEDURE               
+  86  103 5 REGARDING CLAIMS.                                                 
+  87  104 1 A-29-1-318    J 14-1-459     S         APR. 13, 1816              
+  87  104 2 S141063       Y=16 N=6                 CAMPBELL, TENN.            
+  87  104 3 TO AMEND THE BILL (3 STAT. 302, 4-26-16), SUPPLEMENTARY TO        
+  87  104 4 AN ACT PROVIDING ADDITIONAL REVENUES FOR DEFRAYING EXPENSES       
+  87  104 5 OF GOVERNMENT AND MAINTAINING PUBLIC CREDIT, BY ADDING A NEW      
+  87  104 6 SECTION PROVIDING THAT APPORTIONMENT OF DIRECT TAX, MADE IN       
+  87  104 7 1815, SHALL HAVE NO EFFECT AS IT RELATES TO STATE'S QUOTA IN      
+  87  104 8 DIRECT TAX IMPOSED BY ACT OF 3-15-16; AND REVISING THE            
+  87  104 9 LISTS OF VALUATION FOR STATES FOR 1814.                           
+  88  105 1 A-29-1-320    J 14-1-467     S         APR. 15, 1816              
+  88  105 2 S141064       Y=11 N=18                TALBOT, KY.                
+  88  105 3 TO RECONSIDER THE VOTE ORDERING A THIRD READING OF THE BILL,      
+  88  105 4 PROVIDING FOR THE LIQUIDATION OF CERTAIN CLAIMS AND FOR           
+  88  105 5 OTHER PURPOSES.                                                   
+  89  106 1 A-29-1-321    J 14-1-469     S         APR. 15, 1816              
+  89  106 2 S141065       Y=15 N=14                VARNUM, MASS.              
+  89  106 3 TO AMEND THE BILL, (3 STAT. 310, 4-27-16), TO REGULATE THE        
+  89  106 4 DUTIES ON IMPORTS AND TONNAGE, BY ELIMINATING ALL OF LINES        
+  89  106 5 180 AND 181 EXCEPT THE WORD "MADERIA" SO AS TO RETAIN THE         
+  89  106 6 DUTY ON MADERIA WINE.  (P. 329)                                   
+  90  107 1 A-29-1-324A   J 14-1-478     S         APR. 16, 1816              
+  90  107 2 S141066       Y=14 N=18                ROBERTS, PA.               
+  90  107 3 TO AMEND DUTIES ON IMPORTS BILL, BY REMOVING THE DUTY OF          
+  90  107 4 45 PER CENT FROM IRON IN BARS AND BOLTS.  (P. 329)                
+  91  108 1 A-29-1-324B   J 14-1-479     S         APR. 16, 1816              
+  91  108 2 S141067       Y=11 N=20                TALBOT, KY.                
+  91  108 3 TO AMEND DUTIES ON IMPORTS BILL BY APPLYING THE DISCRIMINAT-      
+  91  108 4 ING DUTY ON ALL MATERIALS IMPORTED TO THE U.S. IN FOREING         
+  91  108 5 VESSELS.  (P. 331)                                                
+  92  109 1 A-29-1-326    J 14-1-487     S         APR. 17, 1816              
+  92  109 2 S141068       Y=3 N=27                 HARPER, MD.                
+  92  109 3 TO POSTPONE TO AUG. 1, CONSIDERATION OF DUTIES ON IMPORTS         
+  92  109 4 BILL.                                                             
+  93  110 1 A-29-1-327A   J 14-1-488     S         APR. 17, 1816              
+  93  110 2 S141069       Y=9 N=20                 BARBOUR, VA.               
+  93  110 3 TO AMEND DUTIES ON IMPORT BILL BY LIMITING THE MAXIMUM DUTY       
+  93  110 4 ON WOOLEN MANUFACTURES TO ONE YEAR INSTEAD OF THREE.              
+  94  111 1 A-29-1-327B   J 14-1-489     S         APR. 17, 1816              
+  94  111 2 S141070       Y=9 N=20                 BARBOUR, VA.               
+  94  111 3 TO AMEND DUTIES ON IMPORTS BILL BY LIMITING THE MAXIMUM           
+  94  111 4 DUTY ON WOOL TO ONE YEAR INSTEAD OF THREE.                        
+  95  112 1 A-29-1-327C   J 14-1-490     S         APR. 17, 1816              
+  95  112 2 S141071       Y=13 N=15                MACON, N.C.                
+  95  112 3 TO AMEND DUTIES ON IMPORTS BILL, BY REDUCING THE DUTY ON          
+  95  112 4 SALT 7 1/2 CENTS A BUSHEL.                                        
+  96  113 1 A-29-1-329A   J 14-1-495     S         APR. 18, 1816              
+  96  113 2 S141072       Y=14 N=16                VARNUM, MASS.              
+  96  113 3 TO AGREE TO AN AMENDMENT AS IN COMMITTEE OF THE WHOLE TO          
+  96  113 4 DUTIES ON IMPORTS BILL WHICH AMENDMENT ELIMINATES ALL OF          
+  96  113 5 LINE 180 AND 181 EXCEPT THE WORD "MADERIA" THEREBY RETAINING      
+  96  113 6 THE DUTY ON MADERIA WINE.  (P. 329)                               
+  97  114 1 A-29-1-329B   J 14-1-496     S         APR. 18, 1816              
+  97  114 2 S141073       Y=20 N=11                KING, N.Y.                 
+  97  114 3 TO AMEND DUTIES ON IMPORTS BILL BY PRESCRIBING A DUTY OF          
+  97  114 4 $1.00 A GALLON ON MADERIA, BURGUNDY, CHAMPAGNE, RHENRSH AND       
+  97  114 5 TOKAY WINES.                                                      
+  98  115 1 A-29-1-329C   J 14-1-497     S         APR. 18, 1816              
+  98  115 2 S141074       Y=14 N=16                THOMPSON, N.H.             
+  98  115 3 TO AMEND DUTIES ON IMPORTS BILL BY INCREASING THE DUTY ON         
+  98  115 4 IRON BARS AND BOLTS FROM "FORTY FIVE" TO "SIXTY".                 
+  99  116 1 A-29-1-329D   J 14-1-498     S         APR. 18, 1816              
+  99  116 2 S141075       Y=14 N=17                BARBOUR, VA.               
+  99  116 3 TO AMEND DUTIES ON IMPORTS BILL BY ELIMINATING THE DUTY ON        
+  99  116 4 SALT.                                                             
+ 100  117 1 A-29-1-330    J 14-1-501     S         APR. 19, 1816              
+ 100  117 2 S141076       Y=12 N=15                MASON, N.H.                
+ 100  117 3 TO AMEND DUTIES ON IMPORTS BILL BY ELIMINATING THE WORD           
+ 100  117 4 "FIVE" FROM LINE 50 OF THE ABOVE ACT.                             
+ 101  118 1 A-29-1-331A   J 14-1-502     S         APR. 19, 1816              
+ 101  118 2 S141077       Y=10 N=22                HARPER, MD.                
+ 101  118 3 TO AMEND DUTIES ON IMPORTS BILL BY ELIMINATING THE PROVISION      
+ 101  118 4 THAT ANY COTTON CLOTH OR CLOTHING, THE COST OF WHICH WITH         
+ 101  118 5 DUTY WOULD AMOUNT TO LESS THAN 25 CENTS PER SQUARE YARD,          
+ 101  118 6 SHALL BE DEEMED TO HAVE COST 25 CENTS AND CHARGED WITH DUTY       
+ 101  118 7 ACCORDINGLY.                                                      
+ 102  119 1 A-29-1-331B   J 14-1-504     S         APR. 19, 1816              
+ 102  119 2 S141078       Y=14 N=19                DANA, CONN.                
+ 102  119 3 TO AMEND DUTIES ON IMPORTS BILL BY ELIMINATING SECTION 3          
+ 102  119 4 WHICH PROVIDES THAT THE ACT PASSED MAR. 3, 1815, TO REPEAL        
+ 102  119 5 SO MUCH OF THE SEVERAL ACTS IMPOSING DUTIES ON TONNAGE AND        
+ 102  119 6 GOODS AS ARE DISCRIMINATORY BETWEEN VESSELS AND GOODS OF          
+ 102  119 7 FOREIGN COUNTRIES AND THOSE OF THE U.S. SHALL APPLY TO ANY        
+ 102  119 8 SUCH DISCRIMINATORY DUTIES ESTABLISHED BY THIS ACT.               
+ 103  120 1 A-29-1-331C   J 14-1-505     S         APR. 19, 1816              
+ 103  120 2 S141079       Y=25 N=7                 VARNUM, MASS.              
+ 103  120 3 TO ORDER ENGROSSMENT AND THIRD READING OF DUTIES ON IMPORTS       
+ 103  120 4 BILL.                                                             
+ 104  121 1 A-29-1-333    J 14-1-511     S         APR. 20, 1816              
+ 104  121 2 S141080       Y=15 N=16                BARBOUR, VA.               
+ 104  121 3 TO AMEND THE BILL (3 STAT. 297, 4-24-16), PROVIDING FOR THE       
+ 104  121 4 ORGANIZATION OF THE GENERAL STAFF AND MAKING FURTHER              
+ 104  121 5 PROVISIONS FOR THE ARMY, BY ADDING A NEW SECTION                  
+ 104  121 6 AUTHORIZING THE PRESIDENT OF THE U.S., BY AND WITH THE            
+ 104  121 7 CONSENT AND ADVICE OF THE SENATE, TO APPOINT CERTAIN              
+ 104  121 8 ADDITIONAL OFFICERS.                                              
+ 105  122 1 A-29-1-334    J 14-1-512     SRE       APR. 20, 1816              
+ 105  122 2 S141081       Y=13 N=14                VARNUM, MASS.              
+ 105  122 3 TO AMEND AS IN COMMITTEE OF THE WHOLE A RESOLUTION DIRECTING      
+ 105  122 4 MEDALS TO BE STRUCK AND PRESENTED WITH THE THANKS OF              
+ 105  122 5 CONGRESS TO GENERAL HARRISON AND GOVERNOR SHELBY,                 
+ 105  122 6 BY ELIMINATING THE NAME OF GENERAL HARRISON.                      
+ 106  123 1 A-29-1-336A   J 14-1-518     S         APR. 22, 1816              
+ 106  123 2 S141082       Y=15 N=11                BARBOUR, VA.               
+ 106  123 3 TO PASS THE BILL (3 STAT. 297, 4-24-16), PROVIDING FOR THE        
+ 106  123 4 ORGANIZATION OF THE GENERAL STAFF AND MAKING FURTHER              
+ 106  123 5 PROVISIONS FOR THE ARMY.                                          
+ 107  124 1 A-29-1-336B   J 14-1-520     S         APR. 22, 1816              
+ 107  124 2 S141083       Y=16 N=9                 BROWN, LA.                 
+ 107  124 3 TO AMEND THE BILL (3 STAT. --, 4-29-16), ADJUSTING THE            
+ 107  124 4 CLAIMS TO LAND AND ESTABLISHING A LAND OFFICE FOR THE             
+ 107  124 5 DISTRICT LYING EAST OF THE MISSISSIPPI RIVER AND THE ISLAND       
+ 107  124 6 OF NEW ORLEANS BY ADDING A PROVISION THAT NOTHING CONTAINED       
+ 107  124 7 IN THE BILL SHALL BE CONSTRUED AS AFFECTING THE RIGHTS OF         
+ 107  124 8 ANY PERSON CLAIMING SUCH LANDS.                                   
+ 108  125 1 A-29-1-339    J 14-1-528     S         APR. 22, 1816              
+ 108  125 2 S141084       Y=27 N=2                 BARBOUR, VA.               
+ 108  125 3 TO ORDER THIRD READING OF THE BILL (6 STAT. 163, 4-24-16),        
+ 108  125 4 FOR THE PAYMENT OF THE CLAIM OF WILLIAM FLOOD, FOR PROPERTY       
+ 108  125 5 DESTROYED BY THE ENEMY DURING THE LATE MILITARY OPERATIONS        
+ 108  125 6 NEAR NEW ORLEANS, BECAUSE OF SAID PROPERTY WAS OCCUPIED BY        
+ 108  125 7 U.S. TROOPS.  (JP. 260)                                           
+ 109   23 1               EX J 3-46A     SRE       APR. 23, 1816              
+ 109   23 2 E141023       Y=15 N=18                MASON, N.H.                
+ 109   23 3 TO POSTPONE CONSIDERATION OF APPOINTMENT OF                       
+ 109   23 4 WILLIAM PINKNEY TO BE ENVOY ESTRAORDINARY AND MINISTER            
+ 109   23 5 PLENIPOTENTIARY TO NAPLES (NOW ASSIGNED TO RUSSIA), UNTIL         
+ 109   23 6 JULY 1, NEXT.                                                     
+ 110   24 1               EX J 3-46B     SRE       APR. 23, 1816              
+ 110   24 2 E141024       Y=18 N=15                BIBB, GA.                  
+ 110   24 3 TO CONSENT TO THE APPOINTMENT OF WILLIAM PINKNEY (NOW             
+ 110   24 4 ASSIGNED TO RUSSIA) TO BE ENVOY EXTRAORDINARY AND MINISTER        
+ 110   24 5 PLENIPOTENTIARY TO NAPLES, FOR THE PURPOSE OF NEGOTIATING         
+ 110   24 6 INDEMMITIES TO OUR CITIZENS FOR SPOILATIONS COMMITTED BY THE      
+ 110   24 7 NEAPOLITAN GOVERNMENT.  (P. 45)                                   
+ 111  126 1               J 14-1-530     PROC      APR. 23, 1816              
+ 111  126 2 S141085       Y=3 N=11                 VARNUM, MASS.              
+ 111  126 3 TO ADJOURN.  (JP. 530)                                            
+ 112  127 1 A-29-1-341A   J 14-1-533     S         APR. 23, 1816              
+ 112  127 2 S141086       Y=10 N=17                LACOCK, PA.                
+ 112  127 3 TO AMEND THE BILL (3 STAT. 299, 4-24-16), MAKING APPROPRIAT-      
+ 112  127 4 IONS FOR THE SUPPORT OF THE NAVY FOR 1816, BY ADDING AN           
+ 112  127 5 APPROPRIATION OF $200,000 FOR BUILDING AND COMPLETING WAR         
+ 112  127 6 VESSELS ON THE LAKES.                                             
+ 113  128 1 A-29-1-341B   J 14-1-535     S         APR. 23, 1816              
+ 113  128 2 S141087       Y=12 N=16                VARNUM, MASS.              
+ 113  128 3 TO POSTPONE TO FIRST MONDAY IN JUNE, CONSIDERATION OF THE         
+ 113  128 4 BILL, (6 STAT. 166, 4-26-16), DIRECTING THE DISCHARGE OF          
+ 113  128 5 MOSES LEWIS FROM IMPRISONMENT.                                    
+ 114  129 1 A-29-1-341C   J 14-1-536     S         APR. 23, 1816              
+ 114  129 2 S141088       Y=17 N=16                BARBOUR, VA.               
+ 114  129 3 TO AMEND THE BILL (3 STAT. 330, 4-29-16), MAKING APPROPRIA-       
+ 114  129 4 TIONS FOR THE SUPPORT OF THE MILITARY ESTABLISHMENT FOR           
+ 114  129 5 1816, BY APPROPRIATING $1,250,000, ADDITIONAL TO SUMS             
+ 114  129 6 ALREADY APPROPRIATED FOR THE EXPENSES OF CALLING OUT THE          
+ 114  129 7 MILITIA DURING THE WAR.                                           
+ 115  130 1 A-29-1-345    J 14-1-547     S         APR. 24, 1816              
+ 115  130 2 S141089       Y=12 N=14                BARBOUR, VA.               
+ 115  130 3 TO AMEND THE BILL (6 STAT. 164, 4-26-16), FOR THE RELIEF OF       
+ 115  130 4 EPHRAIM SHALER, A LIEUTENANT IN THE ARMY WHO IS UNABLE TO         
+ 115  130 5 SETTLE HIS ACCOUNTS WITH THE WAR DEPARTMENT BECAUSE OF LOST       
+ 115  130 6 VOUCHERS, BY ELIMINATING ALL AFTER THE ENACTING CLAUSE            
+ 115  130 7 INSERTING IN LIEU THEREOF A PROVISION THAT IN ALL CASES           
+ 115  130 8 WHERE DIFFICULTIES ARISE IN SETTLING ACCOUNTS OF OFFICERS         
+ 115  130 9 AND SOLDIERS BECAUSE OF DEATH, CAPTIVITY, LOSS OF PAPERS          
+ 115  13010 BECAUSE DESTROYED BY THE ENEMY OR BY AN OTHER UNAVOIDABLE         
+ 115  13011 CASUALTY, THE PROPER OFFICERS OF THE WAR DEPARTMENT MAY           
+ 115  13012 SETTLE SAID ACCOUNT OR EQUITABLE PRINCIPLES AND PROVIDING         
+ 116  131 1 A-29-1-346    J 14-1-550     S         APR. 24, 1816              
+ 116  131 2 S141090       Y=23 N=5                 BARBOUR, VA.               
+ 116  131 3 TO PASS THE BILL (6 STAT. 164, 4-26-16), PROVIDING FOR THE        
+ 116  131 4 CLAIM OF THE 20TH BRIGADE OF THE VIRGINIA MILITIA FOR THE         
+ 116  131 5 SUM OF $20.20, EACH, THEIR SALARY, WHICH WAS STOLEN FROM          
+ 116  131 6 THEIR CAPTAIN.  (P. 346, 770)                                     
+ 117  132 1 A-29-1-347A   J 14-1-554     SRE       APR. 24, 1816              
+ 117  132 2 S141091       Y=16 N=15                BARBOUR, VA.               
+ 117  132 3 TO AMEND THE RESOLUTION PROVIDING FOR THE ADJOURNMENT OF          
+ 117  132 4 BOTH HOUSES ON APR. 20, BY CHANGING THE DATE TO APRIL 27.         
+ 118  133 1 A-29-1-347B   J 14-1-555     SRE       APR. 24, 1816              
+ 118  133 2 S141092       Y=15 N=16                BARBOUR, VA.               
+ 118  133 3 TO AMEND AS IN COMMITTEE OF THE WHOLE, AN ADJOURNMENT             
+ 118  133 4 RESOLUTION, BY CHANGING THE DATE TO APRIL 27.                     
+ 119  134 1 A-29-1-348A   J 14-1-556     SRE       APR. 24, 1816              
+ 119  134 2 S141093       Y=16 N=15                VARNUM, MASS.              
+ 119  134 3 TO AMEND AN ADJOURNMENT RESOLUTION BY CHANGING THE DATE TO        
+ 119  134 4 MAY 1.                                                            
+ 120  135 1 A-29-1-348B   J 14-1-557     S         APR. 24, 1816              
+ 120  135 2 S141094       Y=8 N=12                 MASON, N.H.                
+ 120  135 3 TO AMEND THE BILL (3 STAT. 315, 4-27-16), TO FIX COMMISSIONS      
+ 120  135 4 OF COLLECTORS OF THE DIRECT TAX AND INTERNAL DUTIES AND TO        
+ 120  135 5 CONTINUE IN FORCE AN ACT FOR THE COLLECTION OF DUTIES ON          
+ 120  135 6 IMPORTS AND TONNAGE, BY STRIKING OUT THE THIRD SECTION,           
+ 120  135 7 WHICH REVIVES THE ACT, PASSED MAR. 3, 1815, FOR THE               
+ 120  135 8 COLLECTION OF DUTIES ON IMPORTS AND TONNAGE.                      
+ 121  136 1 A-29-1-350    J 14-1-563     S         APR. 24, 1816              
+ 121  136 2 S141095       Y=19 N=6                 TAIT, GA.                  
+ 121  136 3 TO ORDER THIRD READING OF THE BILL (3 STAT. 301, 4-26-16),        
+ 121  136 4 TO REWARD THE OFFICERS AND CREW OF THE "CONSTITUTION" FOR         
+ 121  136 5 THE CAPTURE OF THE BRITISH SLOOP "LEVANT".                        
+ 122  137 1 A-29-1-351    J 14-1-565     S         APR. 24, 1816              
+ 122  137 2 S141096       Y=17 N=12                LACOCK, PA.                
+ 122  137 3 TO POSTPONE TO THE FIRST MONDAY OF JULY, CONSIDERATION OF         
+ 122  137 4 THE BILL, TO AUTHORIZE THE ISSUANCE OF A GRANT OF LAND TO         
+ 122  137 5 MAJOR GENERAL ANDREW JACKSON.                                     
+ 123  138 1 A-29-1-355    J 14-1-576     S         APR. 25, 1816              
+ 123  138 2 S141097       Y=15 N=14                BARBOUR, VA.               
+ 123  138 3 TO ORDER THIRD READING OF THE BILL (6 STAT. 171, 4-27-16),        
+ 123  138 4 PROVIDING FOR THE RELIEF OF CHARLES TODD.                         
+ 124  139 1 A-29-1-356    J 14-1-580     S         APR. 25, 1816              
+ 124  139 2 S141098       Y=21 N=7                 DAGGETT, CONN.             
+ 124  139 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL,               
+ 124  139 4 (3 STAT. 333, 4-30-16), PROVIDING FOR AN INCREASE IN THE          
+ 124  139 5 SALARY OF THE REGISTER OF THE TREASURY AND TO ALLOW HIM A         
+ 124  139 6 COMPENSATION FOR HIS AGENCY IN COUNTERSIGNING AND ISSUING         
+ 124  139 7 TREASURY NOTES.                                                   
+ 125  140 1 A-29-1-357    J 14-1-581     S         APR. 25, 1816              
+ 125  140 2 S141099       Y=20 N=6                 BARBOUR, VA.               
+ 125  140 3 TO ORDER THIRD READING OF THE BILL, (6 STAT. 173, 4-29-16),       
+ 125  140 4 PROVIDING FOR THE CLAIM OF ELIZABETH HAMILTON, WIDOW OF THE       
+ 125  140 5 LATE GENERAL ALEXANDER HAMILTON, FOR A COMMUTATION OF ONE         
+ 125  140 6 HALF OF THE PAY DUE HIM AS AN OFFICER OF THE REVOLUTIONARY        
+ 125  140 7 ARMY.                                                             
+ 126  141 1 A-29-1-359    J 14-1-581     HR        APR. 25, 1816              
+ 126  141 2 S141100       Y=10 N=18                WILLIAMS, TENN.            
+ 126  141 3 TO AGREE TO AN AMENDMENT TO THE BILL (3 STAT. 334, 4-30-16),      
+ 126  141 4 FIXING THE COMPENSATION OF THE SECRETARY OF THE SENATE, THE       
+ 126  141 5 CLERK OF THE HOUSE OF REPRESENTATIVES AND MAKING TEMPORARY        
+ 126  141 6 PROVISION FOR CLERKS IN THEIR OFFICES, BY CHARGING "3,000"        
+ 126  141 7 TO "2500" IN SECTION ONE LINE SIX THEREOF.                        
+ 127  142 1 A-29-1-359B   J 14-1-582     HR        APR. 25, 1816              
+ 127  142 2 S141101       Y=5 N=23                 LACOCK, PA.                
+ 127  142 3 TO POSTPONE TO 1ST MONDAY IN JUNE, CONSIDERATION OF THE           
+ 127  142 4 COMPENSATION BILL.                                                
+ 128  143 1 A-29-1-359C   J 14-1-583     HR        APR. 25, 1816              
+ 128  143 2 S141102       Y=19 N=7                 WILLIAMS, TENN.            
+ 128  143 3 TO AMEND COMPENSATION BILL BY ELIMINATING "FOR THE PRESENT        
+ 128  143 4 YEAR ONLY" FROM SECTION 3, LINE 1.                                
+ 129  144 1 A-29-1-359C   J 14-1-584     HR        APR. 25, 1816              
+ 129  144 2 S141103       Y=7 N=21                 VARNUM, MASS.              
+ 129  144 3 TO AMEND THE COMPENSATION BILL BY ADDING A NEW SECTION            
+ 129  144 4 PROVIDING THAT, FOR THE PRESENT YEAR, IN ADDITION TO THEIR        
+ 129  144 5 SALARIES, EACH CLERK IN THE OFFICES OF THE SEVERAL                
+ 129  144 6 DEPARTMENTS OF THE GOVERNMENT, WHOSE COMPENSATION DOES NOT        
+ 129  144 7 EXCEED $300, BE PAID $200 AND EACH MESSENGER AND ASSISTANT        
+ 129  144 8 MESSENGER $90 EACH.                                               
+ 130  145 1 A-29-1-360A   J 14-1-585     HR        APR. 25, 1816              
+ 130  145 2 S141104       Y=13 N=18                LACOCK, PA.                
+ 130  145 3 TO AMEND THE COMPENSATION BILL BY ADDING A NEW SECTION            
+ 130  145 4 AUTHORIZING THE PAYMENT OF ADDITIONAL AMOUNTS BASED ON THEIR      
+ 130  145 5 ANNYAL COMPENSATION FOR ALL CLERKS EMPLOYED IN THE SEVERAL        
+ 130  145 6 DEPARTMENTS OF THE GOVERNMENT AND SEVERAL MESSENGERS.             
+ 131  146 1 A-29-1-360B   J 14-1-586     HR        APR. 25, 1816              
+ 131  146 2 S141105       Y=13 N=17                VARNUM, MASS.              
+ 131  146 3 TO AMEND THE COMPENSATION BILL BY ADDING A PROVISION FIXING       
+ 131  146 4 COMPENSATION OF CHAPLAIN OF THE TWO HOUSES OF CONGRESS AT         
+ 131  146 5 $1000 A YEAR TO COMMENCE WITH PRESENT SESSION.                    
+ 132  147 1 A-29- -362    J 14-1-604     HR        APR. 26, 1816              
+ 132  147 2 S141105B      Y=9 N=15                                            
+ 132  147 3 TO PASS THE COMPENSATION BILL.                                    
+ 133  148 1 A-29-1-370A   J 14-1-633     SRE       APR. 29, 1816              
+ 133  148 2 S141106       Y=9 N=21                 BARBOUR, VA.               
+ 133  148 3 TO POSTPONE, TO FIRST MONDAY IN JULY, CONSIDERATION OF THE        
+ 133  148 4 RESOLUTION (3 STAT. 342, 4-30-16), FOR THE MORE EFFECTUAL         
+ 133  148 5 COLLECTING OF PUBLIC REVENUES.                                    
+ 134  149 1 A-29-1-370B   J 14-1-634     SRE       APR. 29, 1816              
+ 134  149 2 S141107       Y=11 N=19                CAMPBELL, TENN.            
+ 134  149 3 TO AMEND A REVENUE RESOLUTION BY AUTHORIZING THE TREASURY TO      
+ 134  149 4 RECEIVE NOTES OF ANY BANK ESTABLISHED BY U.S. AUTHORITY OR        
+ 134  149 5 ANY OF THEM BEARING 5 2/5% ANNUAL INTEREST, AND NOTES OF          
+ 134  149 6 LESS VALUE AT A DISCOUNT TO BE DETERMINED BY THE SECRETARY        
+ 134  149 7 OF TREASURY.                                                      
+ 135  150 1 A-29-1-371A   J 14-1-635     SRE       APR. 29, 1816              
+ 135  150 2 S141108       Y=3 N=27                 DANA, CONN.                
+ 135  150 3 TO AMEND A REVENUE RESOLUTION BY ADDING A PROVISION THAT          
+ 135  150 4 BANK BILLS OR NOTES RECEIVED BY THE U.S. IN PAYMENT SHALL BE      
+ 135  150 5 RECEIVED FOR THE PAYMENT OF LIKE DUTIES IN EVERY OTHER            
+ 135  150 6 DISTRICT.                                                         
+ 136  151 1 A-29-1-371B   J 14-1-636     SRE       APR. 29, 1816              
+ 136  151 2 S141109       Y=19 N=11                CAMPBELL, TENN.            
+ 136  151 3 TO ORDER ENGROSSMENT AND THIRD READING OF A REVENUE               
+ 136  151 4 RESOLUTION.                                                       
+ 137  152 1 A-30- -22     J 14-2-36      SRE       DEC. 19, 1816              
+ 137  152 2 S142001       Y=24 N=5                 TAIT, GA.                  
+ 137  152 3 TO AMEND IN THE NATURE OF A SUBSTITUTE THE RESOLUTION             
+ 137  152 4 CHANGING THE MODE OF COMPENSATION OF MEMBERS OF THE SENATE        
+ 137  152 5 AND HOUSE AND DELEGATES FROM TERRITORIES, WHICH MOTION            
+ 137  152 6 PROVIDES THAT A COMMITTEE BE APPOINTED TO INQUIRE INTO THE        
+ 137  152 7 EXPEDIENCY OF REPEALING OR MODIFYING THE LAW PASSED AT THE        
+ 137  152 8 LAST SESSION OF CONGRESS FOR THAT PURPOSE.  (P. 22)               
+ 138   25 1               EX J 3-64A     SRE       DEC. 23, 1816              
+ 138   25 2 E142001       Y=26 N=0                 MACON, N.C.                
+ 138   25 3 TO RATIFY THE TREATY (7 STAT. 145, 12-30-16), MADE ON JUNE        
+ 138   25 4 4, 1816, BETWEEN THE U.S. AND THE WEA AND KICKAPOO TRIBES OF      
+ 138   25 5 INDIANS, AT FORT HARRISON.                                        
+ 139   26 1               EX J 3-64B     SRE       DEC. 23, 1816              
+ 139   26 2 E142002       Y=25 N=1                 MACON, N.C.                
+ 139   26 3 TO RATIFY THE TREATY (7 STAT. 146, 12-30-16), MADE ON             
+ 139   26 4 AUG. 24, 1816, BETWEEN THE U.S. AND THE UNITED TRIBES OF          
+ 139   26 5 OTTAWAS, CHIPPEWAS, AND POTTAWATOMEES RESIDING ON THE             
+ 139   26 6 ILLINOIS AND MILWAKEE RIVERS AND THEIR WATERS, AND ON THE         
+ 139   26 7 SOUTH WESTERN PARTS OF LAKE MICHIGAN, AT ST. LOUIS.               
+ 140   27 1               EX J 3-64C     SRE       DEC. 23, 1816              
+ 140   27 2 E142003       Y=26 N=0                 MACON, N.C.                
+ 140   27 3 TO RATIFY THE TREATY (7 STAT. 144, 12-30-16), MADE ON             
+ 140   27 4 JUNE 3, 1816, BETWEEN THE U.S. AND THE PORTION OF THE             
+ 140   27 5 WINNEBAGO TRIBE OF INDIANS RESIDING ON THE OUISCONSIN RIVER,      
+ 140   27 6 AT ST. LOUIS.                                                     
+ 141   28 1               EX J 3-65A     SRE       DEC. 23, 1816              
+ 141   28 2 E142004       Y=26 N=0                 MACON, N.C.                
+ 141   28 3 TO RATIFY THE TREATY (7 STAT. 141, 12-30-16), MADE ON             
+ 141   28 4 MAY 13, 1816, BETWEEN THE U.S. AND THE TRIBE OF INDIANS           
+ 141   28 5 CALLED THE SACS OF ROCK RIVER.                                    
+ 142   29 1               EX J 3-65B     SRE       DEC. 23, 1816              
+ 142   29 2 E142005       Y=26 N=0                 MACON, N.C.                
+ 142   29 3 TO RATIFY THE TREATY (7 STAT. 143, 12-30-16), MADE ON             
+ 142   29 4 JUNE 1, 1816, BETWEEN THE U.S. AND THE TRIBES OF INDIANS          
+ 142   29 5 CALLED THE SIOUX OF THE LEAF, THE SIOUXS OF THE BROAD LEAF        
+ 142   29 6 AND THE SIOUXS WHO SHOOT IN THE PINE TOPS, AT ST. LOUIS.          
+ 143   30 1               EX J 3-65C     SRE       DEC. 23, 1816              
+ 143   30 2 E142006       Y=27 N=0                 MACON, N.C.                
+ 143   30 3 TO RATIFY THE TREATY (7 STAT. 150, 12-30-16), MADE ON             
+ 143   30 4 SEPT. 20, 1816, BETWEEN THE U.S. AND THE CHICKASAW NATION OF      
+ 143   30 5 INDIANS.                                                          
+ 144   31 1               EX J 3-65D     SRE       DEC. 23, 1816              
+ 144   31 2 E142007       Y=27 N=0                 MACON, N.C.                
+ 144   31 3 TO RATIFY THE TREATY (7 STAT. 148, 12-30-16), MADE ON             
+ 144   31 4 SEPT. 14, 1816, BETWEEN THE U.S. AND THE CHEROKEE NATION OF       
+ 144   31 5 INDIANS, AT TURKEY TOWN.                                          
+ 145   32 1               EX J 3-66A     SRE       DEC. 23, 1816              
+ 145   32 2 E142008       Y=27 N=0                 MACON, N.C.                
+ 145   32 3 TO RATIFY THE TREATY (7 STAT. 152, 12-30-16), OF CESSION          
+ 145   32 4 MADE ON 10-24-16, BETWEEN THE U.S. AND THE CHOCTAW NATION OF      
+ 145   32 5 INDIANS.                                                          
+ 146   33 1               EX J 3-66B     SRE       DEC. 23, 1816              
+ 146   33 2 E142009       Y=11 N=16                WELLS, DEL.                
+ 146   33 3 TO RECONSIDER THE VOTE ON THE RATIFICATION OF TREATY              
+ 146   33 4 (7 STAT. 150, 12-30-16), MADE ON SEPT. 20, 1816, BETWEEN THE      
+ 146   33 5 U.S. AND THE CHICKASAW NATION OF INDIANS.  (P. 65)                
+ 147   34 1               EX J 3-66C     SRE       DEC. 23, 1816              
+ 147   34 2 E142010       Y=26 N=0                 MACON, N.C.                
+ 147   34 3 TO RATIFY THE TREATY (7 STAT. 146, 12-30-16), MADE ON             
+ 147   34 4 AUG. 24, 1816, BETWEEN THE U.S. AND THE UNITED TRIBES OF          
+ 147   34 5 OTTAWAS, CHIPPEWAS AND POTTAWATOMEES, RESIDING ON THE             
+ 147   34 6 ILLINOIS AND MILWAUKEE RIVERS AND THEIR WATERS AND ON THE         
+ 147   34 7 SOUTHWESTERN PARTS OF LAKE MICHIGAN.                              
+ 148   35 1               EX J 3-69      SRE       JAN. 15, 1817              
+ 148   35 2 E142011       Y=14 N=21                WILLIAMS, TENN.            
+ 148   35 3 TO CONSENT TO THE APPOINTMENT OF JAMES MC KEON TO BE A            
+ 148   35 4 CAPTAIN IN THE 8TH REGIMENT OF INFANTRY.                          
+ 149  153 1 A-30- -72     J 14-2-126     SRE       JAN. 17, 1817              
+ 149  153 2 S142002       Y=23 N=13                CAMPBELL, TENN.            
+ 149  153 3 0O AGREE TO A RESOL. DENYING THE PETITION OF JAMES HUMES,         
+ 149  153 4 COLLECTOR OF REVENUE FOR THE SIXTH DISTRICT OF PENNSYLVANIA,      
+ 149  153 5 THAT A COMMISSION OF $1,142.53 BE PAID HIM, THE SUM HAVING        
+ 149  153 6 BEEN DISALLOWED BECAUSE TREASURY DEPOSITS WERE MOT MADE TO        
+ 149  153 7 THE CREDIT OF THE U.S. UNTIL JAN. 3, 1815.  (P. 70,41)            
+ 150  154 1 A-30- -78     J 14-2-137     SRE       JAN. 21, 1817              
+ 150  154 2 S142003       Y=19 N=17                MORROW, OHIO               
+ 150  154 3 TO AGREE TO REPORT OF COMMITTEE ON PUBLIC LANDS, ON THE           
+ 150  154 4 EXPEDIENCY OF AUTHORIZING, BY LAW AN EXCHANGE OF TERRITORY        
+ 150  154 5 WITH ANY OF THE INDIAN TRIBES, WHICH REPORT MAKES AN              
+ 150  154 6 APPROPRIATION TO ENABLE THE PRESIDENT TO NEGOTIATE TREATIES       
+ 150  154 7 WITH THE INDIAN TRIBES, THE OBJECT OF WHICH IS TO EXCHANGE        
+ 150  154 8 TERRITORY OWNED BY ANY TRIBE RESIDING EAST OF THE                 
+ 150  154 9 MISSISSIPPI FOR LANDS WEST OF THE RIVER.  (P. 56, 57)             
+ 151  155 1 A-30- -79     J 14-2-139     SRE       JAN. 21, 1817              
+ 151  155 2 S142004       Y=25 N=7                 BARBOUR, VA.               
+ 151  155 3 TO PASS A JOINT RESOLUTION (3 STAT. 400, 2-6-17), AUTHORIZ-       
+ 151  155 4 ING THE PRESIDENT TO EMPLOY JOHN TRUMBULL OF CONN., TO            
+ 151  155 5 COMPOSE AND EXECUTE FOUR PAINTINGS COMMEMORATIVE OF THE MOST      
+ 151  155 6 IMPORTANT EVENTS OF THE AMERICAN REVOLUTION, FOR THE CAPITOL      
+ 151  155 7 OF THE UNITED STATES.                                             
+ 152  156 1 A-30- -88A    J 14-2-163     S         JAN. 29, 1817              
+ 152  156 2 S142005       Y=23 N=11                TAIT, GA.                  
+ 152  156 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL,        
+ 152  156 4 (3 STAT. 348, 3-1-17), ENABLING THE PEOPLE OF THE WESTERN         
+ 152  156 5 PART OF THE MISSISSIPPI TERRITORY, TO FORM A CONSTITUTION         
+ 152  156 6 AND STATE GOVERNMENT, AND PROVIDING FOR THE ADMISSION OF          
+ 152  156 7 SUCH STATE INTO THE UNION.                                        
+ 153  157 1 A-30- -88B    J 14-2-164     S         JAN. 29, 1817              
+ 153  157 2 S142006       Y=11 N=23                SANFORD, N.Y.              
+ 153  157 3 TO ORDER ENGROSSMENT AND THIRD READING, OF THE SENATE BILL        
+ 153  157 4 ESTABLISHING A NEW EXECUTIVE DEPARTMENT.                          
+ 154  158 1 A-30- -90     J 14-2-170     HR        JAN. 30, 1817              
+ 154  158 2 S142007       Y=11 N=22                CHASE, VT.                 
+ 154  158 3 TO AMEND H.R. 18, (3 STAT. 3458 2-6-17), A BILL TO REPEAL AN      
+ 154  158 4 ACT CHANGING THE MODE OF COMPENSATING THE MEMBERS OF THE          
+ 154  158 5 SENATE, OF THE HOUSE OF REPRESENTATIVES AND OF THE DELEGATES      
+ 154  158 6 FROM TERRITORIES, BY PROVIDING THAT NOTHING IN THE BILL           
+ 154  158 7 SAHLL BE CONSTRUED TO REVIVE ANY ACT OR PARTS OF ACTS             
+ 154  158 8 REPEALED.  (P. 90)                                                
+ 155  159 1 A-30- -92A    J 14-2-175     HR        JAN. 31, 1817              
+ 155  159 2 S142008       Y=7 N=27                 DAGGETT, CONN.             
+ 155  159 3 TO POSTPONE FURTHER DISCUSSION UNTIL MAR. 4TH NEXT, OF            
+ 155  159 4 H.R. 18.  (&. 92)                                                 
+ 156  160 1 A-30- -92B    J 14-2-176     HR        JAN. 31, 1817              
+ 156  160 2 S142009       Y=27 N=7                 DAGGETT, CONN.             
+ 156  160 3 TO PASS H.R. 18.  (P. 92)                                         
+ 157  161 1 A-30- -97     J 14-2-182     S         FEB. 3, 1817               
+ 157  161 2 S142010       Y=24 N=10                CAMPBELL, TENN.            
+ 157  161 3 TO PASS THE BILL (3 STAT. 393, 3-3-17), FOR AN APPROPRIATION      
+ 157  161 4 OF $50,000, TO ENABLE THE PRESIDENT TO NEGOTIATE TREATIES         
+ 157  161 5 WITHE THE INDIAN TRIBES FOR THE PURPOSE THEREIN MENTIONED.        
+ 158  162 1 A-30- -106    J 14-2-205     HR        FEB. 7, 1817               
+ 158  162 2 S142011       Y=16 N=17                DAGGETT, CONN.             
+ 158  162 3 TO AMEND H.R. 13, (3 STAT. 397, 3-3-17), A BILL AMENDING AN       
+ 158  162 4 ACT PASSED APR. 9, 1816, AUTHORIZING THE PAYMENT FOR              
+ 158  162 5 PROPERTY LOST, CAPTURED OR DESTROYED BY THE ENEMY, WHILE IN       
+ 158  162 6 THE MILITARY SERVICE OF THE U.S., BY ELIMINATING THE FIRST        
+ 158  162 7 SECTION.                                                          
+ 159  163 1 A-30- -112    J 14-2-223     HR        FEB. 11, 1817              
+ 159  163 2 S142012       Y=20 N=15                LACOCK, PA.                
+ 159  163 3 TO RECONSIDER VOTE BY WHICH THIRD READING WAS ORDERED TO          
+ 159  163 4 H.R. 13.  (P. 112)                                                
+ 160  164 1 A-30- -117    J 14-2-230     SRE       FEB. 13, 1817              
+ 160  164 2 S142013       Y=20 N=16                BARBOUR, VA.               
+ 160  164 3 TO PASS A RESOLUTION PROVIDING THAT THE JOURNAL OF THE            
+ 160  164 4 PROCEEDINGS OF THE SENATE YESTERDAY, SO FAR AS THEY ARE           
+ 160  164 5 CONNECTED WITH THE SERVICE OF COUNTING THE BALLOTS FOR            
+ 160  164 6 PRESIDENT AND VICE PRESIDENT OF THE U.S., BE MADE UP IN           
+ 160  164 7 CONFORMITY TO THE PRECEDENTS HERETOFORE ESTABLISHED IN            
+ 160  164 8 SIMILAR CASES.                                                    
+ 161  165 1 A-30- -119    J 14-2-241     HR        FEB. 14, 1817              
+ 161  165 2 S142014       Y=19 N=18                LACOCK, PA.                
+ 161  165 3 TO RECONSIDER THE VOTE TO ELIMINATE THE FIRST SECTION OF          
+ 161  165 4 H.R. 13.  (P. 119)                                                
+ 162  166 1 A-30- -120    J 14-2-242     HR        FEB. 14, 1817              
+ 162  166 2 S142015       Y=20 N=17                DAGGETT, CONN.             
+ 162  166 3 TO AMEND H.R. 13, BY ELIMINATING THE FIRST SECTION.               
+ 162  166 4 (P. 120)                                                          
+ 163  167 1 A-30- -123    J 14-2-247     S         FEB. 17, 1817              
+ 163  167 2 S142016       Y=15 N=19                                           
+ 163  167 3 TO POSTPONE UNTIL MAR. 5, NEXT THE CONSIDERATION OF THE           
+ 163  167 4 S. BILL, RESPECTING PERSONS ESCAPING FROM THE SERVICE OF          
+ 163  167 5 THEIR MASTERS.  (P. 123)                                          
+ 164  168 1 A-30- -124    J 14-2-249     S         FEB. 17, 1817              
+ 164  168 2 S142017       Y=15 N=18                HORSEY, DEL.               
+ 164  168 3 TO CONCUR IN AN AMENDMENT TO THE BILL RESPECTING PERSONS          
+ 164  168 4 ESCAPING FROM THEIR MASTERS; WHICH AMENDMENT PROVIDES THAT        
+ 164  168 5 IT SHALL BE LAWFUL TO ARREST SUCH FUGITIVES AND IMPRISON          
+ 164  168 6 THEM UPON OATH OF AN OFFICER OR A PRIVATE PERSON THAT THERE       
+ 164  168 7 IS JUST GROUNDS FOR BELIEVING THEY HAVE ESCAPED, AND TO HOLD      
+ 164  168 8 THEM FOR -- MONTHS UNLESS TITLED TO THEM BE SOONER                
+ 164  168 9 ESTABLISHED.  (P. 124)                                            
+ 165   36 1               EX J 3-77A     SRE       FEB. 18, 1817              
+ 165   36 2 E142012       Y=23 N=14                                           
+ 165   36 3 TO CONSENT TO RATIFICATION, OF THE THIRD AND FOURTH ARTICLES      
+ 165   36 4 OF THE (8 STAT. 232, 5-27-18), OF FRIENDSHIP AND COMMERCE         
+ 165   36 5 BETWEEN THE U.S. AND SWEDEN AND NORWAY.                           
+ 166   37 1               EX J 3-77B     SRE       FEB. 18, 1817              
+ 166   37 2 E142013       Y=23 N=14                BARBOUR, VA.               
+ 166   37 3 TO RATIFY THE SIXTH ARTICLE OF THE TREATY.                        
+ 167   38 1               EX J 3-78A     SRE       FEB. 19, 1817              
+ 167   38 2 E142014       Y=3 N=32                 DANA, CONN.                
+ 167   38 3 TO AMEND A RESOLUTION, REGARDING THE TREATY, BY ADDING THAT       
+ 167   38 4 AFTER THE EXCHANGE OF RATIFICATION, THE TREATY SHALL BE IN        
+ 167   38 5 FORCE UNTIL JULY 3, 1819, AND NO LONGER.                          
+ 168   39 1               EX J 3-78B     SRE       FEB. 19, 1817              
+ 168   39 2 E142015       Y=33 N=2                 BARBOUR, VA.               
+ 168   39 3 TO RATIFY THE TREATY, WITH THE EXCEPTION OF THE THIRD,            
+ 168   39 4 FOURTH AND SIXTH ARTICLES.                                        
+ 169  169 1 A-30- -132    J 14-2-255     S         FEB. 19, 1817              
+ 169  169 2 S142018       Y=30 N=6                 CHASE, VT.                 
+ 169  169 3 TO PASS THE BILL (3 STAT. 376, 3-3-17), PROVIDING FOR             
+ 169  169 4 REPORTS OF THE DECISIONS OF THE SUPREME COURT.  (P. 132)          
+ 170  170 1 A-30- -134    J 14-2-259     S         FEB. 19, 1817              
+ 170  170 2 S142019       Y=21 N=14                TALBOT, KY.                
+ 170  170 3 TO POSTPONE FOR FURTHER CONSIDERATION UNTIL TOMORROW WEEK         
+ 170  170 4 THE BILL RESPECTING PERSONS ESCAPING FROM THE SERVICE OF          
+ 170  170 5 THEIR MASTERS TOGETHER WITH AMENDMENTS PROPOSED THERETO.          
+ 170  170 6 (P. 134)                                                          
+ 171  171 1 A-30- -137    J 14-2-271     S         FEB. 20, 1817              
+ 171  171 2 S142020       Y=29 N=5                 MORROW, OHIO               
+ 171  171 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE S. BILL,            
+ 171  171 4 (3 STAT. 374, 3-3-17), SETTING APART AND DISPOSING OF             
+ 171  171 5 CERTAIN LANDS FOR THE ENCOURAGEMENT OF THE CULTIVATION OF         
+ 171  171 6 THE VINE, AND OTHER EXOTIC PLANTS THEREON.  (P. 137)              
+ 172  172 1 A-30- -138    J 14-2-269     SRE       FEB. 20, 1817              
+ 172  172 2 S142021       Y=12 N=20                BARBOUR, VA.               
+ 172  172 3 TO AGREE TO A RESOLUTION, PROVIDING THAT THE JOURNAL OF THE       
+ 172  172 4 PROCEEDINGS OF THE SENATE ON YESTERDAY, SO FAR AS THEY ARE        
+ 172  172 5 CONNECTED WITH THE SERVICE OF COUNTING THE BALLOTS FOR            
+ 172  172 6 PRESIDENT AND VICE-PRESIDENT OF THE U.S., BE MADE UP IN           
+ 172  172 7 CONFORMITY TO THE PRECEDENTS HERETOFORE ESTABLISHED IN            
+ 172  172 8 SIMILAR CASES.  (P. 138)                                          
+ 173  173 1 A-30- -147    J 14-2-294     S         FEB. 24, 1817              
+ 173  173 2 S142022       Y=17 N=13                CHASE, VT.                 
+ 173  173 3 TO PASS THE BILL (3 STAT. 383, 3-3-17), PROVIDING FOR THE         
+ 173  173 4 PUNISHMENT OF CRIMES AND OFFENSES COMMITTED WITHIN THE            
+ 173  173 5 INDIAN BOUNDRIES.  (P. 147)                                       
+ 174  174 1 A-30- -164    J 14-2-306     SRE       FEB. 25, 1817              
+ 174  174 2 S142023       Y=24 N=11                BARBOUR, VA.               
+ 174  174 3 TO POSTPONE CONSIDERATION UNTIL MAR. 4TH NEXT, OF A               
+ 174  174 4 RESOLUTION INSTRUCTING THE COMMITTEE ON MILITARY AFFAIRS, TO      
+ 174  174 5 REPORT TO THE SENATE A BILL REDUCING THE MILITARY                 
+ 174  174 6 ESTABLISHMENT OF THE U.S.  (P. 152)                               
+ 175  175 1 A-30- -180    J 14-2-312     HR        FEB. 26, 1817              
+ 175  175 2 S142024       Y=18 N=19                DAGGETT, CONN.             
+ 175  175 3 TO POSTPONE CONSIDERATION UNTIL MAR. 4TH NEXT, OF H.R. 29, A      
+ 175  175 4 BILL SETTING APART AND PLEDGING THE B3NUS OF THE NATIONAL         
+ 175  175 5 BANK AND THE U.S.' SHARE OF ITS DIVIDENDS, AS A PERMANENT         
+ 175  175 6 FUND FOR INTERNAL IMPROVEMENTS.  (P. 165)                         
+ 176  176 1 A-30- -181    J 14-2-315     S         FEB. 27, 1817              
+ 176  176 2 S142025       Y=23 N=8                 MORROW, OHIO               
+ 176  176 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL AUTHORIZ-      
+ 176  176 4 ING THE STATE OF TENNESSEE TO ISSUE GRANTS AND PERFECT            
+ 176  176 5 TITLES ON CERTAIN ENTRIES AND LOCATIONS OF LANDS THEREIN          
+ 176  176 6 DESCRIBED, TOGETHER WITH THE AMENDMENTS THERETO.                  
+ 177  177 1 A-30- -186    J 14-2-321     HR        FEB. 27, 1817              
+ 177  177 2 S142026       Y=5 N=33                 ASHMUN, MASS.              
+ 177  177 3 TO AMEND H.R. 29, A BILL SETTING APART AND PLEDGING THE           
+ 177  177 4 BONUS OF THE NATIONAL BANK AND THE U.S. SHARE OF ITS              
+ 177  177 5 DIVIDENDS, AS A PERMANENT FUND FOR INTERNAL IMPROVEMENTS,         
+ 177  177 6 BY PROVIDING, THAT NO PART OF SAID FUND SHALL BE EXPENDED         
+ 177  177 7 WITHIN THE STATE WITHOUT ASSENT OF ITS LEGISLATURE, AND IF A      
+ 177  177 8 STATE REFUSE ITS ASSENT, IT SHALL BE PAID SUCH PROPORTION         
+ 177  177 9 AS WOULD BE EXPENDED.  (P. 186)                                   
+ 178  178 1 A-30- -187A   J 14-2-322     HR        FEB. 27, 1817              
+ 178  178 2 S142026       Y=21 N=17                GOLDSBOROUG, MD.           
+ 178  178 3 TO AMEND H.R. 29, BY PROVIDING THAT THE FUND BE APPORTIONED       
+ 178  178 4 AND DIVIDED AMONG THE STATES ACCORDING TO THE THEN EXISTING       
+ 178  178 5 RATE OF REPRESENTATION.  (P. 186)                                 
+ 179  179 1 A-30- -187B   J 14-2-323     HR        FEB. 27, 1817              
+ 179  179 2 S142028       Y=17 N=21                CAMPBELL, TENN.            
+ 179  179 3 TO AMEND H.R. 29, BY APPORTIONING AND DIVIDING AMONG THE          
+ 179  179 4 STATES NOW EXISTING AND SUCH AS MAY HEREAFTER BE ADMITTED,        
+ 179  179 5 THE SUM REMAINING AFTER PAYMENT OF THE INTEREST ACCURING ON       
+ 179  179 6 THE U.S. SHARES.                                                  
+ 180  180 1 A-30- -187C   J 14-2-324     HR        FEB. 27, 1817              
+ 180  180 2 S142029       Y=26 N=12                HORSEY, DEL.               
+ 180  180 3 TO AMEND H.R. 29, BY PROVIDING THAT THE PROPORTION OF SAID        
+ 180  180 4 FUND TO BE OR ANY PART THEREOF ASSIGNED TO ANY MAY,               
+ 180  180 5 BY THE ASSENT OF SUCH STATE, BE APPLIED FOR PURPOSES AFORE-       
+ 180  180 6 SAID, IN ANY OTHER STATE.  (P. 187)                               
+ 181  181 1 A-30- -187D   J 14-2-326     HR        FEB. 27, 1817              
+ 181  181 2 S142030       Y=18 N=19                DAGGETT, CONN.             
+ 181  181 3 TO AMEND H.R. 29, BY PERMITTING THE U.S. IN TIME OF WAR, TO       
+ 181  181 4 DIVERT FOR WAR PURPOSES, ANY UNEXPENDED BALANCE OF THIS           
+ 181  181 5 APPROPRIATION.  (P. 187)                                          
+ 182  182 1 A-30- -188    J 14-2-327     HR        FEB. 27, 1817              
+ 182  182 2 S142031       Y=22 N=16                HORSEY, DEL.               
+ 182  182 3 TO ORDER ENGROSSMENT AND THIRD READING OF H.R. 29.  (P. 188)      
+ 183  183 1 A-30- -191A   J 14-2-340     HR        FEB. 28, 1817              
+ 183  183 2 S142032       Y=14 N=22                DAGGETT, CONN.             
+ 183  183 3 TO RECOMMIT H.R. 29, TO COMMITTEE ON ROADS AND CANALS WITH        
+ 183  183 4 INSTRUCTIONS, WHICH PROVIDES THAT SUCH PART OF THE FUND AS        
+ 183  183 5 WILL BE ALLOTTED TO THE DISTRICT OF COLUMBIA, SHALL BE UNDER      
+ 183  183 6 THE CONTROL OF CONGRESS.  (P. 191)                                
+ 184  184 1 A-30- -191B   J 14-2-341     HR        FEB. 28, 1817              
+ 184  184 2 S142033       Y=20 N=15                HORSEY, DEL.               
+ 184  184 3 TO PASS H.R. 29.  (P. 191)                                        
+ 185  185 1 A-30- -191C   J 14-2-342     S         FEB. 28, 1817              
+ 185  185 2 S142034       Y=12 N=23                KING, N.Y.                 
+ 185  185 3 TO POSTPONE CONSIDERATION UNTIL MAR. 4 NEXT OF A S. BILL          
+ 185  185 4 (3 STAT. 383, 3-3-17), INCORPORATING THE SUBSCRIBERS TO           
+ 185  185 5 CERTAIN BANKS IN THE DISTRICT OF COLUMBIA.                        
+ 186  186 1 A-30- -198A   J 14-2-358     S         MAR. 1, 1817               
+ 186  186 2 S142035       Y=8 N=28                 SMITH, S.C.                
+ 186  186 3 TO POSTPONE UNTIL MAR. 4, NEXT, THE S. BILL (3 STAT. 370,         
+ 186  186 4 3-3-17), TO PRESERVE MORE EFFECTUALLY THE NEUTRAL RELATIONS       
+ 186  186 5 OF THE U.S.  (P. 198)                                             
+ 187  187 1 A-30- -198B   J 14-2-359     S         MAR. 1, 1817               
+ 187  187 2 S142036       Y=17 N=13                BARBOUR, VA.               
+ 187  187 3 TO AMEND NEUTRAL RELATIONS BILL BY PROVIDING THAT OWNERS OF       
+ 187  187 4 ALL ARMED SHIPS PARTIALLY OR WHOLLY OWNED IN THE U.S., GIVE       
+ 187  187 5 BOND THAT IT SHALL COMMIT NO HOSTILE ACTS AGAINST ANY NATION      
+ 187  187 6 AT PEACE WITH THE U.S.                                            
+ 188  188 1 A/30- -205    J 14-2-383     S         MAR. 3, 1817               
+ 188  188 2 S142037       Y=23 N=10                BARBOUR, VA.               
+ 188  188 3 TO PASS NEUTRAL RELATIONS BILL.                                   
+ 189  189 1 A-30- -209    J 14-2-397     S         MAR. 3, 1817               
+ 189  189 2 S142038       Y=32 N=3                 BARBOUR, VA.               
+ 189  189 3 TO ENGROSS AMENDMENT AND ORDER THIRD READING OF THE               
+ 189  189 4 S. BILL (3 STAT. 361, 3-3-17), REGULATING THE TRADE IN            
+ 189  189 5 PLASTER OF PARIS.  (P. 209)                                       

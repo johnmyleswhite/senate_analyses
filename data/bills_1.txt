@@ -1,0 +1,586 @@
+   1    4 1 A-1- -50      J 1-1-42A                JULY 17, 1789              
+   1    4 2 S011001       Y=14 N=6                 LEE, VA.                   
+   1    4 3 TO PASS THE BILL (1 STAT 73, APP. 9-24-1789), TO ESTABLISH        
+   1    4 4 THE JUDICIAL COURTS OF THE UNITED STATES.                         
+   2    5 1 A-1- -65      J 1-1-42B                JULY 18, 1789              
+   2    5 2 S011002       Y=9 N=9                                             
+   2    5 3 TO AMEND THE ACT (1 STAT 28, APP. 7-27-1789), FOR ESTABLISH-      
+   2    5 4 ING AN EXECUTIVE DEPARTMENT, TO BE DENOMINATED THE DEPART-        
+   2    5 5 MENT OF FOREIGN AFFAIRS; SO AS TO STRIKE THE WORDS "BY THE        
+   2    5 6 PRESIDENT", IN THE SECTION DEALING WITH THE APPOINTMENT OF A      
+   2    5 7 CHIEF CLERK.                                                      
+   3    6 1 A-1- -66      J 1-1-43                 JULY 18, 1789              
+   3    6 2 S011003       Y=10 N=9                                            
+   3    6 3 TO CONCUR IN THE ACT (1 STAT 28, APP. 7-27-1789), TO              
+   3    6 4 ESTABLISH AN EXECUTIVE DEPARTMENT TO BE KNOWN AS THE              
+   3    6 5 DEPARTMENT OF FOREIGN AFFAIRS.                                    
+   4    7 1 A-1- -82      J 1-1-51                 AUG. 4, 1789               
+   4    7 2 S011004       Y=9 N=10                                            
+   4    7 3 TO AMEND THE ACT (1 STAT 49, APP. 8-7-1789), TO ESTABLISH         
+   4    7 4 AN EXECUTIVE DEPARTMENT TO BE CALLED THE DEPARTMENT OF WAR;       
+   4    7 5 SO AS TO STRIKE "AND WHO, WHENEVER THE SAID PRINCIPAL             
+   4    7 6 OFFICER SHALL BE REMOVED FROM OFFICE BY THE PRESIDENT."           
+   5    8 1 A-1- -83      J 1-1-53                 AUG. 4, 1789               
+   5    8 2 S011005       Y=8 N=10                                            
+   5    8 3 TO AMEND THE ACT (1 STAT 50, APP. 8-7-1789), TO PROVIDE FOR       
+   5    8 4 THE GOVERNMENT OF THE TERRITORY NORTHWEST OF THE OHIO RIVER;      
+   5    8 5 SO AS TO MAKE THE PRESIDENT'S ACTS UNDER THE BILL, SUBJECT        
+   5    8 6 TO SENATE APPROVAL.                                               
+   6    9 1               J 1-1-61                 AUG. 18, 1789              
+   6    9 2 S011006       Y=12 N=7                                            
+   6    9 3 TO AMEND THE ACT (1 STAT 54, APP. 8-20-1789), TO PROVIDE FOR      
+   6    9 4 THE EXPENSES OF NEGOTIATIONS OR TREATIES WITH THE INDIAN          
+   6    9 5 TRIBES, AND THE APPOINTMENT OF COMMISSIONERS; SO AS TO            
+   6    9 6 CHANGE THE LIMIT OF THE SUM TO BE EXPENDED IN NEGOTIATING A       
+   6    9 7 TREATY WITH THE INDIANS, FROM, $40,000 TO $20,000.                
+   7   10 1 A-1- -71      J 1-1-63                 AUG. 25, 1789              
+   7   10 2 S011007       Y=10 N=10                                           
+   7   10 3 TO RECEDE FROM DISAGREEMENT TO A HOUSE AMENDMENT TO THE BILL      
+   7   10 4 (1 STAT 65, APP. 9-2-1789), TO ESTABLISH A TREASURY DEPT.;        
+   7   10 5 SAID AMENDMENT PROVIDES THAT IN THE ABSENCE OF A SECRETARY        
+   7   10 6 OF THE TREASURY, THE ASSISTANT SHALL HAVE CHARGE OF THE           
+   7   10 7 OFFICE.  (VICE PRESIDENT VOTING IN THE AFFIRMATIVE)               
+   8   11 1 A-1- -        J 1-1-66A      SRE       AUG. 28, 1789              
+   8   11 2 S011008       Y=13 N=6                                            
+   8   11 3 TO PASS THE RESOLUTION THAT THERE OUGHT TO BE A DISCRIMINA-       
+   8   11 4 TION BETWEEN THE COMPENSATION ALLOWED TO SENATORS AND TO          
+   8   11 5 REPRESENTATIVES.                                                  
+   9   12 1               J 1-1-66B                AUG. 28, 1789              
+   9   12 2 S011009       Y=6 N=13                                            
+   9   12 3 TO AMEND THE ACT (1 STAT 70, APP. 9-22-89), TO ALLOW              
+   9   12 4 COMPENSATION TO THE MEMBERS OF CONGRESS AND TO THE OFFICERS       
+   9   12 5 OF BOTH HOUSES, SO AS TO REDUCE THE COMPENSATION FOR              
+   9   12 6 REPRESENTATIVES FROM SIX TO FIVE DOLLARS.                         
+  10   13 1               J 1-1-66C                AUG. 28, 1789              
+  10   13 2 S011010       Y=4 N=14                                            
+  10   13 3 TO AMEND THE COMPENSATION BILL TO REDUCE THE COMPENSATION TO      
+  10   13 4 THE SENATORS FROM SIX DOLLARS TO FIVE.                            
+  11   14 1 A-1-1-74      J 1-1-69       HRE       SEPT. 2, 1789              
+  11   14 2 S011011       Y=6 N=12                                            
+  11   14 3 TO AMEND THE HOUSE RESOLUTION TO PROPOSE CERTAIN ARTICLES TO      
+  11   14 4 THE LEGISLATURES OF THE STATES AS AMENDMENTS TO THE               
+  11   14 5 CONSTITUTION; SO AS TO AMEND THE FIRST CLAUSE TO STATE            
+  11   14 6 "AFTER THE FIRST ENUMERATION REQUIRED BY THE FIRST ARTICLE        
+  11   14 7 OF THE CONSTITUTION, THERE SHALL BE ONE REPRESENTATIVE FOR        
+  11   14 8 EVERY 30,000 UNTIL THE NUMBER SHALL AMOUNT TO TWO HUNDRED."       
+  12   15 1 A-1           J 1-1-70       HJR       SEPT. 3, 1789              
+  12   15 2 S011012       Y=2 N=14                                            
+  12   15 3 TO AMEND THE CONSTITUTIONAL AMENDMENT RESOLUTION TO ADD TO        
+  12   15 4 THE FOURTH ARTICLE, AFTER THE WORDS "COMMON GOOD", THE WORDS      
+  12   15 5 "TO INSTRUCT THEIR REPRESENTATIVES."                              
+  13   16 1 A-1           J 1-1-71       HJR       SEPT. 4, 1789              
+  13   16 2 S011013       Y=6 N=9                                             
+  13   16 3 TO AMEND THE CONSTITUTIONAL AMENDMENT RESOLUTION TO ADD TO        
+  13   16 4 THE 5TH ARTICLE THE PROVISION THAT THE MILITARY SHOULD BE         
+  13   16 5 UNDER STRICT SUBORDINATION TO AND GOVERNED BY THE CIVIL           
+  13   16 6 POWER, ALSO THAT NO TROOPS SHALL BE RAISED DURING PEACE TIME      
+  13   16 7 WITHOUT CONSENT OF 2/3RDS OF THE MEMBERS OF CONGRESS, AND         
+  13   16 8 THAT NO SOLDIERS SHALL BE ENLISTED FOR LONGER THAN THE            
+  13   16 9 DURATION OF THE WAR.                                              
+  14   17 1 A-1- -75      J 1-1-73                 SEPT. 7, 1789              
+  14   17 2 S011014A      Y=12 N=5                                            
+  14   17 3 TO INSIST ON THE SENATE AMENDMENT TO THE COMPENSATION BILL,       
+  14   17 4 THAT NO SENATOR SHALL RECEIVE MORE THAN $6.00 PER DAY FROM        
+  14   17 5 THE END OF ONE SESSION TO THE NEXT.                               
+  15   18 1 A-1-1-        J 1-1-77       HJR       SEPT. 9, 1789              
+  15   18 2 S011014B      Y=8 N=8                                             
+  15   18 3 TO RECONSIDER AN AMENDMENT TO THE CONSTITUTIONAL AMENDMENT        
+  15   18 4 RESOLUTION, TO RESTORE CERTAIN WORDS TO THE TENTH ARTICLE         
+  15   18 5 REGARDING TRIALS OF NAVAL CREWS.                                  
+  16   19 1 A-1-1-        J 1-1-83                 SEPT. 21, 1789             
+  16   19 2 S011014C      Y=9 N=9                                             
+  16   19 3 TO AMEND THE ACT (1 STAT 101, APP. 3-1-90), TO ALLOW COMPEN-      
+  16   19 4 SATION TO THE JUDGES OF THE SUPREME COURT AND OTHER COURTS,       
+  16   19 5 AND TO THE ATTORNEY GENERAL; TO INCREASE THE SALARY OF THE        
+  16   19 6 CHIEF JUSTICE FROM $3500 TO $4000.  (VICE PRESIDENT VOTING        
+  16   19 7 IN THE AFFIRMATIVE)                                               
+  17   20 1 A-1-1-85A     J 1-1-86                 SEPT. 24, 1789             
+  17   20 2 S011015       Y=8 N=10                                            
+  17   20 3 TO AMEND H.R. 25, (1 STAT 130, APP. 7-16-1790), TO ESTABLISH      
+  17   20 4 THE SEAT OF THE U.S. GOVERNMENT; SO AS TO ELIMINATE PA., AS       
+  17   20 5 A SITE FOR A PERMANENT SEAT OF GOVERNMENT.                        
+  18   21 1 A-1-1-85      J 1-1-87A      HR        SEPT. 24, 1789             
+  18   21 2 S011016       Y=11 N=7                                            
+  18   21 3 TO AMEND H.R. 25, TO ELIMINATE THE "BANKS OF THE SUSQUEHANNA      
+  18   21 4 RIVER IN PENNSYLVANIA" AS A SITE FOR THE SEAT OF GOVERNMENT.      
+  19   22 1 A-1-1-86      J 1-1-87B      HR        SEPT. 24, 1789             
+  19   22 2 S011017       Y=9 N=9                                             
+  19   22 3 TO AMEND H.R. 25, TO INSERT, AS POSSIBLE SITES, CERTAIN           
+  19   22 4 COUNTIES IN THE STATE OF PENNSYLVANIA, INCLUDING GERMANTOWN       
+  19   22 5 AND PHILADELPHIA.  (VICE PRESIDENT VOTING IN THE                  
+  19   22 6 AFFIRMATIVE)                                                      
+  20   23 1 A-1- -87      J 1-1-88       HR        SEPT. 25, 1789             
+  20   23 2 S011018       Y=7 N=11                                            
+  20   23 3 TO AMEND H.R. 25, TO STRIKE "AND THAT UNTIL THE NECESSARY         
+  20   23 4 BUILDINGS SHALL BE ERECTED THEREIN, THE SEAT OF THE               
+  20   23 5 GOVERNMENT SHALL CONTINUE AT THE CITY OF NEW YORK."               
+  21   24 1 A-1- -89      J 1-1-89       HR        SEPT. 26, 1789             
+  21   24 2 S011019       Y=10 N=7                                            
+  21   24 3 TO PASS H.R. 25.                                                  
+  22   25 1 A-1- -939     J 1-2-107      REP       JAN. 25, 1790              
+  22   25 2 S012001       Y=10 N=8                                            
+  22   25 3 TO AGREE TO THE COMMITTEE REPORT THAT UNFINISHED BUSINESS         
+  22   25 4 BETWEEN THE TWO HOUSES AT THE LAST ADJOURNMENT, OUGHT TO BE       
+  22   25 5 REGARDED AS IF IT HAD NOT BEEN PASSED UPON BY EITHER HOUSE.       
+  23   26 1 A-1- -974     J 1-2-141                MAY 14, 1790               
+  23   26 2 S012002       Y=13 N=7                 MORRIS, PA.                
+  23   26 3 TO ORDER A THIRD READING FOR THE BILL TO PREVENT BRINGING         
+  23   26 4 GOODS, WARES AND MERCHANDISE FROM THE STATE OF RHODE ISLAND       
+  23   26 5 AND PROVIDENCE PLANTATIONS, INTO THE U.S., AND TO AUTHORIZE       
+  23   26 6 A DEMAND OF MONEY FROM THAT STATE.                                
+  24   27 1 A-1- -976     J 1-2-142                MAY 17, 1790               
+  24   27 2 S012003       Y=13 N=8                 CARROLL, MD.               
+  24   27 3 TO PASS THE BILL TO PREVENT BRINGING GOODS, WARES, AND            
+  24   27 4 MERCHANDISE FROM RHODE ISLAND AND PROVIDENCE PLANTATIONS,         
+  24   27 5 INTO THE U.S., AND TO AUTHORIZE A DEMAND OF MONEY FROM THAT       
+  24   27 6 STATE.                                                            
+  25   28 1 A-1- -        J 1-2-143      HRE       MAY 21, 1790               
+  25   28 2 S012004       Y=13 N=9                 ELLSWORTH, CT.             
+  25   28 3 TO ADOPT THE HOUSE RESOLUTION TO DIRECT THE SECRETARY OF THE      
+  25   28 4 TREASURY TO LIQUIDATE ARREARAGES OF PAY DUE CERTAIN               
+  25   28 5 NON-COMMISSIONED OFFICERS AND SOLDIERS; PAYMENT TO BE MADE        
+  25   28 6 WHEN CERTAIN CONDITIONS ARE MET.                                  
+  26   29 1 A-1           J 1-2-144      HRE       MAY 21, 1790               
+  26   29 2 S012005       Y=11 N=11                ELLSWORTH, CT.             
+  26   29 3 TO AGREE TO AN AMENDMENT TO THE HOUSE RESOLUTION CONCERNING       
+  26   29 4 ARREARAGES OF PAY DUE CERTAIN NON-COMMISSIONED OFFICERS AND       
+  26   29 5 SOLDIERS; AMENDMENT CONCERNING POWERS OF ATTORNEY OBTAINED        
+  26   29 6 BY FORGERY OR FRAUD.                                              
+  27   30 1 A-1- -979A    J 1-2-145      HRE       MAY 26, 1790               
+  27   30 2 S012006       Y=8 N=16                 MACLAY, PA.                
+  27   30 3 TO AGREE TO THE COMMITTEE REPORT WHICH RECOMMENDS GRANTING        
+  27   30 4 AN ANNUITY TO BARON DE STEUBEN.                                   
+  28   31 1 A-1- -979B    J 1-2-146A     HR        MAY 26, 1790               
+  28   31 2 S012007       Y=12 N=12                                           
+  28   31 3 TO DECIDE IF THE SUM OF TWO THOUSAND DOLLARS WILL REMAIN IN       
+  28   31 4 THE ACT (6 STAT 2, APP. 6-4-90), TO ADJUST THE CLAIM OF           
+  28   31 5 BARON DE STEUBEN.  (VICE PRESIDENT VOTING IN THE                  
+  28   31 6 AFFIRMATIVE.)                                                     
+  29   32 1 A-1- -        J 1-2-146B     HR        MAY 26, 1790               
+  29   32 2 S012008A      Y=12 N=12                                           
+  29   32 3 TO AMEND THE STEUBEN BILL TO ELIMINATE THE PROVISION FOR A        
+  29   32 4 SUM OF $7000, IN ADDITION TO THE MONEY ALREADY RECEIVED BY        
+  29   32 5 HIM.  (VICE PRESIDENT VOTING IN THE NEGATIVE)                     
+  30   33 1 A-1           J 1-2-146C     HR        MAY 27, 1790               
+  30   33 2 S012008B      Y=12 N=12                                           
+  30   33 3 TO AMEND THE STEUBEN BILL TO CHANGE TO $2500, THE SUM TO BE       
+  30   33 4 PAID DE STEUBEN.  (VICE PRESIDENT VOTING IN THE                   
+  30   33 5 AFFIRMATIVE)                                                      
+  31   34 1 A-1- -985A    J 1-2-152A     HRE       JUNE 8, 1790               
+  31   34 2 S012009       Y=11 N=13                LEE, VA.                   
+  31   34 3 TO CONCUR IN THE HOUSE RESOLUTION THAT CONGRESS SHALL MEET        
+  31   34 4 AND HOLD THEIR NEXT SESSION AT THE CITY OF PHILADELPHIA.          
+  32   35 1 A-1- -985     J 1-2-152B     SRE       JUNE 8, 1790               
+  32   35 2 S012010       Y=12 N=12                                           
+  32   35 3 TO DECIDE IF IT BE EXPEDIENT, AT THIS TIME TO DETERMINE UPON      
+  32   35 4 ANY PLACE FOR THE PERMANENT SEAT OF THE GOVERNMENT.               
+  32   35 5 (VICE PRESIDENT VOTING IN THE NEGATIVE.)                          
+  33   36 1 A-1- -986     J 1-2-152C     SRE       JUNE 8, 1790               
+  33   36 2 S012011       Y=9 N=15                                            
+  33   36 3 TO AMEND THE BILL TO DETERMINE THE PERMANENT SEAT OF              
+  33   36 4 CONGRESS AND THE U.S. GOVERNMENT; TO INSERT "THE EASTERLY         
+  33   36 5 BANK OF THE POTOMAC", AS A SITE FOR THE GOVERNMENT.               
+  34   37 1 A-1- -986     J 1-2-152D     SRE       JUNE 8, 1790               
+  34   37 2 S012012       Y=7 N=17                                            
+  34   37 3 TO AMEND THE GOVERNMENT SEAT BILL; TO INSERT BALTIMORE AS A       
+  34   37 4 SITE FOR CONGRESS.  (P. 986)                                      
+  35   38 1 A-1- -989     J 1-2-157      HRE       JUNE 14, 1790              
+  35   38 2 S012013       Y=13 N=11                                           
+  35   38 3 TO POSTPONE, FOR TWO WEEKS, CONSIDERATION OF THE HOUSE            
+  35   38 4 RESOLUTION TO HOLD THE NEXT SESSION OF CONGRESS IN THE TOWN       
+  35   38 5 OF BALTIMORE.  (P. 989)                                           
+  36   39 1 A-1- -991     J 1-2-163      HR        JUNE 21, 1790              
+  36   39 2 S012014       Y=13 N=10                LEE, VA.                   
+  36   39 3 TO AMEND H.R. 178, (1 STAT 138, APP. 8-4-1790), TO MAKE           
+  36   39 4 PROVISIONS FOR THE DEBTS OF THE U.S., SO AS TO PROVIDE TO         
+  36   39 5 DISCHARGE THE ALTERNATIVES PROPOSED IN THE BILL AND TO FUND       
+  36   39 6 THE DOMESTIC DEBT OF THE GOVERNMENT AT AN INTEREST OF 4% PER      
+  36   39 7 ANNUM.                                                            
+  37   40 1 A-1- -993     J 1-2-166      HR        JUNE 25, 1790              
+  37   40 2 S012015       Y=14 N=7                 IZARD, S.C.                
+  37   40 3 TO AMEND THE HOUSE BILL (1 STAT 129, APP. 7-5-90), TO             
+  37   40 4 AUTHORIZE THE PURCHASE OF WEST POINT; SO AS TO PROVIDE THAT       
+  37   40 5 THE PRESIDENT CAUSE TO BE PURCHASED, THAT TRACT OF LAND IN        
+  37   40 6 NEW YORK, CALLED WEST POINT.                                      
+  38   41 1 A- - 994      J 1-2-167A     HR        JUNE 28, 1790              
+  38   41 2 H012016       Y=15 N=10                IZARD, S.C.                
+  38   41 3 TO PASS THE HOUSE BILL (1 STAT 129, APP. 7-5-90), TO              
+  38   41 4 AUTHORIZE THE PURCHASE OF WEST POINT.  (P. 994)                   
+  39   42 1 A-1- -995     J 1-2-167B     SRE       JUNE 28, 1790              
+  39   42 2 S012017       Y=10 N=15                                           
+  39   42 3 TO AMEND THE GOVERNMENT SEAT BILL SO AS TO MAKE BALTIMORE         
+  39   42 4 THE PERMANENT SEAT OF CONGRESS AND GOVERNMENT.                    
+  40   43 1 A-1- -995     J 1-2-167C     SRE       JUNE 28, 1790              
+  40   43 2 S012018       Y=16 N=9                                            
+  40   43 3 TO AMEND THE GOVERNMENT SEAT BILL SO AS TO DESIGNATE A SITE       
+  40   43 4 ON THE RIVER POTOMAC AS THE SITE FOR THE PERMANANT SEAT OF        
+  40   43 5 GOVERNMENT.                                                       
+  41   44 1 A-1- -996A    J 1-2-168A     SRE       JUNE 28, 1790              
+  41   44 2 S012019       Y=9 N=16                                            
+  41   44 3 TO AMEND THE GOVERNMENT SEAT BILL TO CHANGE THE DATE AT           
+  41   44 4 WHICH THE BUILDINGS FOR THE ACCOMMODATION OF THE GOVERNMENT       
+  41   44 5 ARE TO BE READY, TO THE FIRST MONDAY IN DEC. OF 1794.             
+  42   45 1 A-1- -996     J 1-2-168B     SRE       JUNE 28, 1790              
+  42   45 2 S012020       Y=8 N=7                                             
+  42   45 3 TO AMEND THE GOVERNMENT SEAT BILL TO PROVIDE "THAT THE            
+  42   45 4 COMMISSIONERS APPOINTED SHALL HAVE POWER TO PURCHASE MUCH         
+  42   45 5 LAND ON THE EASTERN SIDE OF THE POTOMAC RIVER, AS THE             
+  42   45 6 PRESIDENT SHALL DEEM PROPER, AND SAID COMMISSIONERS SHALL         
+  42   45 7 PROVIDE PRIOR TO DECEMBER, 1800, SUITABLE BUILDINGS FOR THE       
+  42   45 8 ACCOMODATION OF THE GOVERNMENT."                                  
+  43   46 1 A-1- -996C    J 1-2-168C     SRE       JUNE 28, 1790              
+  43   46 2 S012021       Y=15 N=10                                           
+  43   46 3 TO AMEND THE GOVERNMENT SEAT BILL; TO STRIKE THE THIRD,           
+  43   46 4 FOURTH AND FIFTH ENACTING CLAUSES AND TO INSERT:  "FOR            
+  43   46 5 DEFRAYING THE EXPENSE, THE PRESIDENT SHALL ACCEPT GRANTS OF       
+  43   46 6 MONEY AND CAUSE TO BE BORROWED A CERTAIN SUM OF MONEY."           
+  44   47 1 A-1- -997A    J 1-2-168D     SRE       JUNE 28, 1790              
+  44   47 2 S012022       Y=13 N=12                                           
+  44   47 3 TO AMEND THE GOVERNMENT SEAT BILL TO PROVIDE THAT THE SEAT        
+  44   47 4 OF GOVERNMENT SHALL BE TRANSFERRED ON THE FIRST DAY IN            
+  44   47 5 DECEMBER 1800, AND THAT EXPENSES OF SAID MOVE SHALL BE            
+  44   47 6 DEFRAYED OUT OF DUTIES ON IMPORTS AND TONNAGE.                    
+  45   48 1 A-1- -997B    J 1-2-169A     SRE       JUNE 28, 1790              
+  45   48 2 S012023       Y=13 N=12                                           
+  45   48 3 TO AMEND THE GOVERNMENT SEAT BILL SO AS TO ESTABLISH N.Y.         
+  45   48 4 CITY AS A TEMPORARY SITE.                                         
+  46   49 1 A-1- -998A    J 1-2-169B     SRE       JUNE 29, 1790              
+  46   49 2 S012024       Y=13 N=12                                           
+  46   49 3 TO AMEND AN AMENDMENT TO THE GOVERNMENT SEAT BILL, SO AS TO       
+  46   49 4 PROVIDE THAT THE TEMPORARY SITE FOR THE GOVERNMENT SHALL          
+  46   49 5 RESIDE IN NEW YORK CITY UNTIL 1800.                               
+  47   50 1 A-1- -998B    J 1-2-169C     HR        JUNE 29, 1790              
+  47   50 2 S012025       Y=9 N=16                                            
+  47   50 3 TO AMEND THE GOVERNMENT SEAT BILL SO AS TO PROVIDE THAT           
+  47   50 4 NEW YORK CITY SHALL REMAIN THE TEMPORARY SEAT UNTIL               
+  47   50 5 DEC., 1800.                                                       
+  48   51 1 A-1- -998     J 1-2-170A     S         JUNE 29, 1790              
+  48   51 2 S012026       Y=13 N=13                                           
+  48   51 3 TO AMEND AN AMENDMENT TO THE GOVERNMENT SEAT BILL SO THAT         
+  48   51 4 IN THE CITY OF NEW YORK, UNTIL DEC. 1794, (AFTER WHICH DATE)      
+  48   51 5 IT READ "THAT CONGRESS SHALL CONTINUE TO HOLD THEIR SESSIONS      
+  48   51 6 CONGRESS SHALL HOLD THEIR SESSIONS IN THE CITY OF                 
+  48   51 7 PHILADELPHIA UNTIL DEC. 1800."                                    
+  49   52 1 A-1- -999A    J 1-2-100B     S         JUNE 29, 1790              
+  49   52 2 S012027       Y=10 N=16                                           
+  49   52 3 TO AMEND AN AMENDMENT TO THE GOVERNMENT SEAT BILL, SO AS TO       
+  49   52 4 PROVIDE THAT BEGINNING DEC., 1794, BALTIMORE SHALL BE A           
+  49   52 5 TEMPORARY SEAT OF GOVERNMENT.                                     
+  50   53 1 A-1- -999B    J 1-2-170C     S         JUNE 29, 1790              
+  50   53 2 S012028       Y=13 N=13                                           
+  50   53 3 TO AMEND THE GOVERNMENT SEAT BILL TO PROVIDE THAT THE             
+  50   53 4 TEMPORARY SEAT OF GOVERNMENT SHALL CHANGE FROM NEW YORK TO        
+  50   53 5 PHILADELPHIA IN DEC., OF 1792.  (VICE PRESIDENT VOTING IN         
+  50   53 6 THE NEGATIVE)                                                     
+  51   54 1 A-1- -999C    J 1-2-170D     S         JUNE 29, 1790              
+  51   54 2 S012029       Y=13 N=13                                           
+  51   54 3 TO AMEND THE GOVERNMENT SEAT BILL TO PROVIDE "PRIOR TO THE        
+  51   54 4 FIRST MONDAY OF NEXT DEC., ALL OFFICES ATTACHED TO THE SEAT       
+  51   54 5 OF THE GOVERNMENT, SHALL BE REMOVED TO PHILADELPHIA UNTIL         
+  51   54 6 THE FIRST MONDAY IN DEC., 1800; AT WHICH PLACE THE TWO            
+  51   54 7 HOUSES DO RESOLVE THAT THE NEXT SESSION OF CONGRESS SHALL BE      
+  51   54 8 HELD."  (VICE PRESIDENT VOTING IN THE NEGATIVE)                   
+  52   55 1 A-1- -1000    J 1-2-172A     S         JUNE 30, 1790              
+  52   55 2 S012030       Y=14 N=12                                           
+  52   55 3 TO AMEND THE GOVERNMENT SEAT BILL, SO AS TO PROVIDE THAT          
+  52   55 4 PHILADELPHIA SHALL BE THE TEMPORARY SEAT OF GOVERNMENT FROM       
+  52   55 5 DEC. 1790 TO DEC. 1800.                                           
+  53   56 1 A-1- -1001A   J 1-2-172B     S         JUNE 30, 1790              
+  53   56 2 S012031       Y=19 N=7                                            
+  53   56 3 TO AMEND THE GOVERNMENT SEAT BILL SO AS TO STRIKE THE PROVI-      
+  53   56 4 SION TO BORROW A CERTAIN SUM OF MONEY TO BE USED FOR THE          
+  53   56 5 PURCHASE OF LAND AND BUILDING FOR THE PERMANENT SEAT OF           
+  53   56 6 GOVERNMENT.                                                       
+  54   57 1               J 1-2-172C     S         JUNE 30, 1790              
+  54   57 2 S012032       Y=16 N=10                BUTLER, S.C.               
+  54   57 3 TO ORDER THIRD READING OF THE GOVERNMENT SEAT BILL.               
+  55   58 1 A-1- -1002A   J 1-2-173A     S         JULY 1, 1790               
+  55   58 2 S012033       Y=13 N=13                                           
+  55   58 3 TO AMEND THE 5TH ENACTING CLAUSE OF THE GOVERNMENT SEAT           
+  55   58 4 BILL SO AS TO MAKE MAY 1790, THE DATE FOR THE MOVING OF THE       
+  55   58 5 SEAT OF GOVERNMENT TO PHILADELPHIA.  (VICE PRESIDENT VOTING       
+  55   58 6 IN THE NEGATIVE)                                                  
+  56   59 1 A-1- -1002B   J 1-2-173B     S         JULY 1, 1790               
+  56   59 2 S012034       Y=14 N=12                BUTLER, S.C.               
+  56   59 3 TO PASS THE GOVERNMENT SEAT BILL.                                 
+  57   60 1 A-1- -1009    J 1-2-180A     REP       JULY 14, 1790              
+  57   60 2 S012035       Y=14 N=11                CARROLL, MD.               
+  57   60 3 TO AGREE TO THE RESOLUTION CONTAINED IN A COMMITTEE REPORT        
+  57   60 4 CONCERNING GOVERNMENT LOANS; SAID RESOLUTION PROPOSES A           
+  57   60 5 $21 MILLION LOAN TO BE REGULATED UNDER THE PROVISIONS             
+  57   60 6 CONCERNING THE DOMESTIC DEBT OF THE U.S.                          
+  58   61 1 A-1- -1010A   J 1-2-180B     REP       JULY 14, 1790              
+  58   61 2 S012036       Y=15 N=11                CARROLL, MD.               
+  58   61 3 TO PASS A RESOLUTION CONTAINED IN THE DEBT REPORT; TO PRO-        
+  58   61 4 VIDE THAT IF THE ENTIRE AMOUNT INDICATED IN THE DEBT OR           
+  58   61 5 CERTIFICATES OF ANY STATE, SHALL NOT BE SUBSCRIBED WITHIN         
+  58   61 6 THE TIME LIMIT, SUCH STATE SHALL BE ENTITLED TO RECEIVE FROM      
+  58   61 7 THE U.S. A SUM IN TRUST UNTIL ALL BALANCES ARE REMOVED.           
+  59   62 1 A-1- -1010B   J 1-2-180C     REP       JULY 14, 1790              
+  59   62 2 S012037       Y=16 N=10                CARROLL, MD.               
+  59   62 3 TO ADOPT THE PREAMBLE OF A COMMITTEE REPORT ON THE MOTION         
+  59   62 4 "THAT PROVISION SHALL BE MADE AT THE NEXT SESSION OF              
+  59   62 5 CONGRESS, FOR LOANING TO THE U.S., A CERTAIN SUM."                
+  60   63 1 A-1- -1011    J 1-2-180D     REP       JULY 14, 1790              
+  60   63 2 S012038       Y=10 N=16                                           
+  60   63 3 TO REFER THE LOAN REPORT, ALONG WITH A RELATED BILL, TO A         
+  60   63 4 SPECIAL COMMITTEE.                                                
+  61   64 1 A-1- -1012    J 1-2-181      REP       JULY 16, 1790              
+  61   64 2 S012039       Y=15 N=11                BUTLER, S.C.               
+  61   64 3 TO AGREE TO THE LAST CLAUSE OF THE LOAN REPORT WHICH STATES:      
+  61   64 4 "COMMITTEE FURTHER RECOMMENDS, THAT THE RESOLUTIONS FOR THE       
+  61   64 5 ASSUMPTION, BE ADDED TO THE FUNDING BILL, AND THE WHOLE MADE      
+  61   64 6 ONE SYSTEM."                                                      
+  62   65 1 A-1- -1013    J 1-2-183A     HR        JULY 19, 1790              
+  62   65 2 S012040       Y=9 N=16                                            
+  62   65 3 TO AMEND THE HOUSE BILL (1 STAT 138, APP. 8-4-90), TO MAKE        
+  62   65 4 PROVISIONS FOR THE DEBT OF THE U.S.; TO FUND THE BILLS OF         
+  62   65 5 CREDIT ISSUED BY THE AUTHORITY OF THE U.S., AT THE RATE OF        
+  62   65 6 FORTY CERTIFICATES FOR ONE DOLLAR IN SPECIE.                      
+  63   66 1 A-1- -1014A   J 1-2-183B     HR        JULY 19, 1790              
+  63   66 2 S012041       Y=6 N=19                                            
+  63   66 3 TO AMEND AN AMENDMENT TO THE DEBT BILL SO AS TO PROVIDE THAT      
+  63   66 4 CERTIFICATES SHALL BE ISSUED TO ALL SUBSCRIBERS TO THE LOAN;      
+  63   66 5 AMENDMENT ALSO STIPULATES TERMS OF THE LOAN.                      
+  64   67 1 A-1- -1014B   J 1-2-183C     HR        JULY 19, 1790              
+  64   67 2 S012042       Y=8 N=17                                            
+  64   67 3 TO AMEND AN AMENDMENT TO THE FOURTH SECTION OF THE DEBT BILL      
+  64   67 4 SO THAT IT READ, "THAT FOR THE WHOLE OR PART OF ANY SUM           
+  64   67 5 SUBSCRIBED TO THE SAID LOAN BY ANY PERSONS, WHICH SHALL BE        
+  64   67 6 PAID IN THE PRINCIPAL AND INTEREST OF THE SAID DOMESTIC           
+  64   67 7 DEBT," SO AS TO ENABLE THE SUBSCRIBERS TO LOAN TO PAY             
+  64   67 8 THEIR SUBSCRIPTIONS IN INTEREST, AS WELL AS PRINCIPAL.            
+  65   68 1 A-1- -1014C   J 1-2-183D     HR        JULY 19, 1790              
+  65   68 2 S012043       Y=9 N=15                                            
+  65   68 3 TO AMEND AN AMENDMENT TO THE DEBT BILL SO AS TO PROVIDE THAT      
+  65   68 4 THE SECOND CERTIFICATE GIVEN THE SUBSCRIBER, SHOULD ENTITLE       
+  65   68 5 HIM TO "A SUM TO BE EXPRESSED THEREIN, EQUAL TO A CERTAIN         
+  65   68 6 PROPORTION, WHICH AFTER 1800, SHALL BEAR AN INTEREST OF           
+  65   68 7 SIX PER CENT."                                                    
+  66   69 1 A-1- -1015A   J 1-2-184A     HR        JULY 19, 1790              
+  66   69 2 S012044       Y=8 N=17                                            
+  66   69 3 TO AMEND AN AMENDMENT TO THE DEBT BILL, SO THAT IT READS          
+  66   69 4 "TO ENTITLE THE SUBSCRIBERS, FOR ANY SUM SUBSCRIBED TO THE        
+  66   69 5 SAID LOAN, AND WHICH SHALL BE PAID ON THE INTEREST OF THE         
+  66   69 6 DOMESTIC DEBT, TO A CERTIFICATE FOR THE SUM SUBSCRIBED,           
+  66   69 7 BEARING AN INTEREST OF FOUR PER CENT."                            
+  67   70 1 A-1- -1015B   J 1-2-184B     HR        JULY 19, 1790              
+  67   70 2 S012045       Y=5 N=20                                            
+  67   70 3 TO AMEND AN AMENDMENT TO THE DEBT BILL, SO THAT IT READ "TO       
+  67   70 4 ENTITLE THE SUBSCRIBER, FOR ANY SUM SUBSCRIBED TO THE SAID        
+  67   70 5 LOAN, AND WHICH SHALL BE PAID IN THE INTEREST OF THE DOMES-       
+  67   70 6 TIC DEBT; TO A CERTIFICATE FOR SUCH SUM SUBSCRIBED, BEARING       
+  67   70 7 AN INTEREST OF SIX PER CENT."                                     
+  68   71 1 A-1- -1015C   J 1-2-184C     HR        JULY 19, 1790              
+  68   71 2 S012046       Y=8 N=17                                            
+  68   71 3 TO AMEND AN AMENDMENT TO THE DEBT BILL SO AS TO MAKE THE          
+  68   71 4 INTEREST ON CERTIFICATES ISSUED BE 4%.                            
+  69   72 1 A-1- -1016    J 1-2-186      HR        JULY 20, 1790              
+  69   72 2 S012047       Y=12 N=14                                           
+  69   72 3 TO AMEND THE DEBT BILL, SO AS TO STRIKE OUT SIX SECTIONS          
+  69   72 4 WHICH PERTAIN TO THE RULES AND REGULATIONS OF RAISING A LOAN      
+  69   72 5 OF 21 MILLION, FIVE HUNDRED THOUSAND DOLLARS.                     
+  70   73 1 A-1- -1016    J 1-2-187      HR        JULY 21, 1790              
+  70   73 2 S012048       Y=14 N=12                LEE, VA.                   
+  70   73 3 TO PASS THE DEBT BILL.                                            
+  71   74 1 A-1- -1020B   J 1-2-191A     HR        JULY 28, 1790              
+  71   74 2 S012049       Y=12 N=12                                           
+  71   74 3 TO AGREE TO THE SECOND HOUSE AMENDMENT TO THE DEBT BILL; TO       
+  71   74 4 ENTITLE THE SUBSCRIBER TO A SECOND CERTIFICATE FOR $33 1/3        
+  71   74 5 OF THE SUM SUBSCRIBED, INSTEAD OF $26.88, ON EVERY HUNDRED;       
+  71   74 6 HIS SECOND OR DEFERRED CERTIFICATE TO BEAR AN INTEREST OF         
+  71   74 7 6% AFTER 1800.  (VICE PRESIDENT VOTING IN THE AFFIRMATIVE)        
+  72   75 1 A-1- -1020    J 1-2-191B     HR        JULY 28, 1790              
+  72   75 2 S012050       Y=12 N=12                                           
+  72   75 3 TO DISAGREE TO THE THIRD HOUSE AMENDMENT TO THE DEBT BILL;        
+  72   75 4 TO ENTITLE THE SUBSCRIBER TO AN INTEREST OF SIX PER CENT ON       
+  72   75 5 HIS DEFERRED CERTIFICATE AFTER 1797, RATHER THAN 1800.            
+  72   75 6 (VICE PRESIDENT VOTING IN THE NEGATIVE.)                          
+  73   76 1 A-1- -1021A   J 1-2-191C     HR        JULY 28, 1790              
+  73   76 2 S012051       Y=8 N=16                                            
+  73   76 3 TO AGREE TO THE FIFTH HOUSE AMENDMENT TO THE DEBT BILL, TO        
+  73   76 4 CHANGE THE INTEREST FROM THREE TO FOUR PER CENT ON SUCH PART      
+  73   76 5 OF SUBSCRIPTIONS AS MAY BE PAID IN THE ARREARS OF INTEREST.       
+  74   77 1 A-1- -1021    J 1-2-191D     HR        JULY 28, 1790              
+  74   77 2 S012052       Y=13 N=11                                           
+  74   77 3 TO AGREE TO THE 8TH AMENDMENT OF THE HOUSE TO THE DEBT BILL,      
+  74   77 4 WHICH WOULD ENTITLE THE SUBSCRIBER TO A SECOND CERTIFICATE        
+  74   77 5 FOR THIRTY-THREE DOLLARS AND ONE THIRD OF A DOLLAR, PER           
+  74   77 6 CENT, INSTEAD OF TWENTY-SIX DOLLARS AND EIGHT-EIGHT CENTS,        
+  74   77 7 ON EVERY HUNDRED; THE SAID SECOND CERTIFICATE TO BE ON            
+  74   77 8 INTEREST AT SIX PER CENT AFTER THE YEAR 1800.                     
+  75   78 1 A-1- -1021C   J 1-2-192A     HR        JULY 28, 1790              
+  75   78 2 S012053       Y=11 N=13                                           
+  75   78 3 TO AGREE TO THE NINTH HOUSE AMENDMENT TO THE DEBT BILL,           
+  75   78 4 WHICH PROVIDES THAT THE SUBSCRIBER SHALL BE ENTITLED TO 6%        
+  75   78 5 INTEREST ON THE DEFERRED PART OF THE SUM SUBSCRIBED, AFTER        
+  75   78 6 THE YEAR 1797.                                                    
+  76   79 1 A-1- -1022A   J 1-2-192B     HR        JULY 28, 1790              
+  76   79 2 S012054       Y=16 N=8                                            
+  76   79 3 TO RECONSIDER THE VOTE BY WHICH THE SENATE AGREED TO THE 3RD      
+  76   79 4 AMENDMENT OF THE HOUSE TO THE DEBT BILL, WHICH AMENDMENT          
+  76   79 5 PROVIDES THAT THE SUBSCRIBER SHALL BE ENTITLED TO AN              
+  76   79 6 INTEREST OF SIX PER CENT ON HIS DEFERRED CERTIFICATE, AFTER       
+  76   79 7 THE YEAR 1797, INSTEAD OF 1800.                                   
+  77   80 1 A-1- -1022B   J 1-2-192C     HR        JULY 28, 1790              
+  77   80 2 S012055       Y=8 N=16                                            
+  77   80 3 TO AGREE TO THE THIRD HOUSE AMENDMENT TO THE DEBT BILL,           
+  77   80 4 WHICH PROVIDES THAT THE SUBSCRIBER SHALL BE ENTITLED TO AN        
+  77   80 5 INTEREST OF SIX PER CENT ON HIS DEFERRED CERTIFICATE AFTER        
+  77   80 6 THE YEAR 1797, INSTEAD OF 1800.                                   
+  78   81 1 A-1- -1022C   J 1-2-192D     HR        JULY 28, 1790              
+  78   81 2 S012056       Y=12 N=12                                           
+  78   81 3 TO AGREE TO THE HOUSE AMENDMENT TO THE DEBT BILL, WHICH           
+  78   81 4 PROVIDES THAT THE U.S. MAY REDEEM BY ANNUAL PAYMENTS, ON          
+  78   81 5 ACCOUNT OF PRINCIPAL AND INTEREST, THE ASSUMED PART OF THE        
+  78   81 6 DEBT, AT THE RATE OF EIGHT PER CENT INSTEAD OF SEVEN PER          
+  78   81 7 CENT PER ANNUM.  (VICE PRESIDENT VOTING IN THE AFFIRMATIVE)       
+  79   82 1 A-1- -1022D   J 1-2-192E     HR        JULY 28, 1790              
+  79   82 2 S012057       Y=8 N=16                                            
+  79   82 3 TO AGREE TO THE HOUSE AMENDMENT TO THE DEBT BILL WHICH WOULD      
+  79   82 4 CHANGE TO 4%, THE INTEREST ON 1/3 OF THE SUBSCRIBED SUM.          
+  80    1 1               EX J 1-2-59A   SRE       AUG. 9, 1790               
+  80    1 2 E012001       Y=8 N=10                                            
+  80    1 3 TO REFER TO A SELECT COMMITTEE THE TREATY BETWEEN THE U.S.        
+  80    1 4 AND THE CREEK INDIANS.                                            
+  81    2 1               EX J 1-2-59B   SRE       AUG. 9, 1790               
+  81    2 2 E012002       Y=4 N=15                                            
+  81    2 3 TO AGREE TO THE RESOLUTION THAT ON THE FINAL QUESTION, WHEN       
+  81    2 4 THE ADVICE AND CONSENT OF THE SENATE IS REQUESTED, ANY MEM-       
+  81    2 5 BER SHALL HAVE A RIGHT TO ENTER HIS PROTEST OR DISSENT ON         
+  81    2 6 THE JOURNAL, WITH REASON IN SUPPORT OF SUCH DISSENT.              
+  82    3 1               EX J 1-2-61    SRE       AUG. 12, 1790              
+  82    3 2 E012003       Y=15 N=4                                            
+  82    3 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY WITH      
+  82    3 4 THE CREEK INDIANS.                                                
+  83   83 1 A-2- -1739    J 1-3-225      SRE       DEC. 23, 1790              
+  83   83 2 S013001       Y=20 N=1                                            
+  83   83 3 TO PASS THE SUBSTITUTE RESOLUTION PROVIDING THAT IT BE            
+  83   83 4 INEXPEDIENT TO ALTER THE SYSTEM OF FUNDING THE PUBLIC DEBT        
+  83   83 5 ESTABLISHED DURING THE LAST SESSION OF CONGRESS AND THAT THE      
+  83   83 6 PETITION OF THOS. MC KEAN AND OTHERS BE REJECTED.  (P. 1739)      
+  84   84 1 A-2- -1745    J 1-3-232      S         JAN. 13, 1791              
+  84   84 2 S013002       Y=11 N=10                                           
+  84   84 3 TO AMEND THE SENATE BILL (1 STAT 191, 2-25-1791), INCORPORA-      
+  84   84 4 TING THE SUBSCRIBERS OF THE BANK OF THE U.S., BY EXTENDING        
+  84   84 5 THE TERM OF INCORPORATION TO MARCH 4, 1815, INSTEAD OF            
+  84   84 6 LIMITING TERM OF INCORPORATION TO 7 YEARS.  (P. 1745)             
+  85   85 1 A-2- -1748A   J 1-3-234A     S         JAN. 20, 1791              
+  85   85 2 S013003       Y=6 N=16                                            
+  85   85 3 TO AMEND BANK OF THE U.S. BILL, BY FURTHER LIMITING OF TERM       
+  85   85 4 OF INCORPORATION FROM 1811 TO 1801.  (P. 1748)                    
+  86   86 1 A-2- -1748B   J 1-3-234B     S         JAN. 20, 1791              
+  86   86 2 S013004       Y=5 N=18                                            
+  86   86 3 TO AMEND BANK OF THE U.S. BILL, BY ELIMINATING THE PROVISION      
+  86   86 4 THAT PREVENTS ESTABLISHMENT OF ANY OTHER BANK BY FUTURE LAW       
+  86   86 5 OF THE U.S. DURING THE CONTINUATION OF THE BANK OF THE U.S.       
+  86   86 6 (P. 1748)                                                         
+  87   87 1 A-2- -        J 1-3-240      HR        FEB. 8, 1791               
+  87   87 2 S013005       Y=9 N=14                 MORRIS, PA.                
+  87   87 3 TO AMEND THE HOUSE BILL (1 STAT 199, 3-3-1791), REPEALING         
+  87   87 4 AFTER THE LAST DAY OF JUNE NEXT THE DUTIES HERETOFORE LAID        
+  87   87 5 UPON DISTILLED SPIRITS IMPORTED FROM ABROAD, AND LAYING           
+  87   87 6 OTHERS IN THEIR STEAD, AND ALSO UPON SPIRITS DISTILLED            
+  87   87 7 WITHIN THE U.S. BY ELIMINATING THE PROVISION GRANTING TO          
+  87   87 8 THE PRESIDENT THE POWER TO MAKE APPOINTMENTS OF REVENUE           
+  87   87 9 OFFICERS DURING RECESS OF THE SENATE; SUCH APPOINTMENTS TO        
+  87   8710 EXPIRE AT END OF NEXT SESSION.  (P. 43-47-48)                     
+  88   88 1 A-2- -88      J 1-3-263      HR        FEB. 12, 1791              
+  88   88 2 S013006       Y=20 N=5                 MORRIS, PA.                
+  88   88 3 TO PASS THE HOUSE BILL (1 STAT 199, 3-3-1791), REPEALING          
+  88   88 4 AFTER THE LAST DAY OF JUNE NEXT, THE DUTIES HERETOFORE LAID       
+  88   88 5 UPON DISTILLED SPIRITS IMPORTED FROM ABROAD AND LAYING            
+  88   88 6 OTHERS IN THEIR STEAD, AND ALSO UPON SPIRITS DISTILLED IN         
+  88   88 7 THE UNITED STATES.  (P. 43,89)                                    
+  89   89 1 A-2- -1759    J 1-3-272      S         FEB. 17, 1791              
+  89   89 2 S013007A      Y=17 N=7                 CARROLL, MD.               
+  89   89 3 TO CONSIDER THE SENATE BILL (1 STAT 214, 3-3-1791), AMENDING      
+  89   89 4 THE ACT ESTABLISHING THE TEMPORARY AND PERMANENT SEAT OF THE      
+  89   89 5 U.S. GOVERNMENT.  (P. 1759)                                       
+  90   91 1 A-2- -1761    J 1-3-274B     HR        FEB. 17, 1791              
+  90   91 2 S013008       Y=15 N=7                 SCHUYLER, N.Y.             
+  90   91 3 TO ADOPT THE FIRST SECTION OF THE HOUSE BILL (1 STAT 222,         
+  90   91 4 3-3-1791), INCREASING THE MILITARY ESTABLISHMENT OF THE           
+  90   91 5 U.S., WHICH SECTION PROVIDES THAT THERE SHALL BE RAISED AN        
+  90   91 6 ADDITIONAL REGIMENT OF INFANTRY, WHICH, EXCLUSIVE OF THE          
+  90   91 7 COMMISSIONED OFFICERS SHALL CONSIST OF 912 NON-COMMISSIONED       
+  90   91 8 OFFICERS, PRIVATES AND MUSICIANS.                                 
+  91   90 1 A-2- -1759A   J 1-3-274A     S         FEB. 18, 1791              
+  91   90 2 S013007B      Y=15 N=10                                           
+  91   90 3 TO POSTPONE FOR ONE WEEK CONSIDERATION OF THE SENATE BILL         
+  91   90 4 (1 STAT 214, 3-3-1791), AMENDING THE ACT ESTABLISHING THE         
+  91   90 5 TEMPORARY AND PERMANENT SEAT OF THE U.S. GOVERNMENT.              
+  91   90 6 (P. 1759)                                                         
+  92   92 1 A-2- -        J 1-3-275      HR        FEB. 21, 1791              
+  92   92 2 S013009       Y=8 N=18                                            
+  92   92 3 TO AGREE TO AMENDMENT TO THE 1ST SECTION OF THE BILL              
+  92   92 4 (1 STAT 222, 3-3-1791), AN ACT FOR RAISING AND ADDING ANOTH-      
+  92   92 5 ER REGIMENT TO THE MILITARY ESTABLISHMENT OF THE U.S. AND         
+  92   92 6 FOR MAKING FURTHER PROVISION FOR THE PROTECTIONS OF THE           
+  92   92 7 FRONTIERS, WHICH AMENDMENT REDUCES THE NUMBER OF THE              
+  92   92 8 REGIMENT TO 608, INSTEAD OF 912 NON-COMMISSIONED OFFICERS,        
+  92   92 9 PRIVATES AND MUSICIANS.  (P. 98-112)                              
+  93   93 1 A-2- -        J 1-3-279      HR        FEB. 23, 1791              
+  93   93 2 S013010       Y=14 N=9                 MORRIS, PA.                
+  93   93 3 TO INSIST ON THE AMENDMENT TO THE AMENDMENT OF THE HOUSE TO       
+  93   93 4 THE HOUSE BILL (1 STAT 199, 3-3-1791), REPEALING AFTER            
+  93   93 5 JUNE 30 NEXT, THE DUTIES HERETOFORE LAID UPON DISTILLED           
+  93   93 6 SPIRITS AND LAYING OTHERS IN THEIR PLACE, WHICH AMENDMENT         
+  93   93 7 REDUCES FROM 7 TO 5 PER CENT OF THE AMOUNT OF THE DUTIES          
+  93   93 8 PRODUCED BY THIS ACT AS THE LIMIT OF THE TOTAL TO BE PAID TO      
+  93   93 9 DEPUTIES, INSPECTORS AND OFFICERS FOR THEIR SERVICES IN           
+  93   9310 EXECUTING THIS ACT.  (P. 95-11-119)                               
+  94   94 1 A-2- -1766    J 1-3-280      HR        FEB. 24, 1791              
+  94   94 2 S013011       Y=22 N=3                                            
+  94   94 3 TO READ FOR THE 3RD TIME THE HOUSE BILL (1 STAT 196, 3-2-91)      
+  94   94 4 TO INCORPORATE THE SUBSCRIBERS TO THE BANK OF THE U.S.            
+  95   95 1 A-2- -1768A   J 1-3-287A     SRE       FEB. 25, 1791              
+  95   95 2 S013012       Y=9 N=17                 MONROE, VA.                
+  95   95 3 TO PASS THE RESOLUTION PROVIDING THAT IT BE A STANDING RULE       
+  95   95 4 THAT THE DOORS OF THE SENATE REMAIN OPEN, EXCEPT WHEN THE         
+  95   95 5 SENATE SHALL DESIRE SECRECY, AND THAT THIS RULE SHALL BE IN       
+  95   95 6 FORCE FROM THE FIRST DAY OF THE NEXT SESSION OF CONGRESS.         
+  95   95 7 (P. 1768)                                                         
+  96   96 1 A-2- -1768B   J 1-3-287B     S         FEB. 25, 1791              
+  96   96 2 S013013       Y=12 N=14                                           
+  96   96 3 TO POSTPONE FURTHER CONSIDERATION OF THE SENATE BILL              
+  96   96 4 (1 STAT 214, 3-3-1791), TO AMEND AN ACT ESTABLISHING THE          
+  96   96 5 TEMPORARY AND PERMANENT SEAT OF THE GOVERNMENT OF THE U.S.        
+  97   97 1 A-2- -        J 1-3-288A     S         FEB. 25, 1791              
+  97   97 2 S013014       Y=14 N=12                CARROLL, MD.               
+  97   97 3 TO AGREE TO THE FIRST CLAUSE OF THE SENATE BILL (1 STAT 214,      
+  97   97 4 3-3-1791), AMENDING AN ACT ESTABLISHING THE TEMPORARY AND         
+  97   97 5 PERMANENT SEAT OF THE U.S. GOVERNMENT, WHICH CLAUSE               
+  97   97 6 AUTHORIZES THE PRESIDENT TO MAKE ANY PART OF THE TERRITORY        
+  97   97 7 BELOW THE LIMITS ON THE POTOMAC RIVER AND ABOVE HUNTING           
+  97   97 8 CREEK, A PART OF THE DISTRICT, SO AS TO INCLUDE A                 
+  97   97 9 CONVENIENT PART OF THE EASTERN BRANCH AND THE LANDS LYING         
+  97   9710 ON THE LOWER SIDE THEREOF AND ALSO THE TOWN OF ALEXANDRIA;        
+  97   9711 AND THE TERRITORY SO TO BE INCLUDED SHALL FORM A PART OF THE      
+  97   9712 DISTRICT NOT EXCEEDING 10 MILES SQUARE.  (JP. 105)                
+  98   98 1 A-2- -1769B   J 1-3-288B     HR        FEB. 25, 1791              
+  98   98 2 S013015       Y=9 N=17                 STRONG, MASS.              
+  98   98 3 TO AMEND THE HOUSE BILL (1 STAT 196, 3/2/1791), SUPPLEMENT-       
+  98   98 4 ARY TO AN ACT TO INCORPORATE THE SUBSCRIBERS OF THE BANK OF       
+  98   98 5 THE U.S., WHICH AMENDMENT EMPOWERS CONGRESS TO ABOLISH THE        
+  98   98 6 CORPORATION KNOWN AS THE BANK OF THE U.S. ANY TIME AFTER          
+  98   98 7 MARCH 4, 1802.  (P. 1769)                                         
+  99   99 1 A-2- -1778    J 1-3-307      S         MAR. 3, 1791               
+  99   99 2 S013016       Y=14 N=9                                            
+  99   99 3 TO PASS THE AMENDED BILL, (1 STAT 216, APP. 3-3-1791), IN         
+  99   99 4 ADDITION TO AN ACT TO ESTABLISH THE SALARIES OF THE EXECUT-       
+  99   99 5 IVE OFFICERS OF THE GOVERNMENT, WITH THEIR ASSISTANTS AND         
+  99   99 6 CLERKS, WHICH BILL INCREASES THE SALARY OF THE CHIEF CLERK        
+  99   99 7 OF THE AUDITOR $200 A YEAR, AND THAT OF THE SECRETARY OF THE      
+  99   99 8 TREASURY $400, A YEAR AND ALLOWS TO THE CLERKS EMPLOYED IN        
+  99   99 9 THE GOVERNMENT THEIR REASONABLE AND NECESSARY EXPENSES            
+  99   9910 INCURRED BY THE REMOVAL OF CONGRESS FROM N.Y. TO                  
+  99   9911 PHILADELPHIA.                                                     
+ 100  100 1 A-2- -1782    J 1-3-         HR        MAR. 3, 1791               
+ 100  100 2 S013017       Y=13 N=6                                            
+ 100  100 3 TO READ THE SECOND TIME THE HOUSE BILL, CARRYING INTO EFFECT      
+ 100  100 4 THE CONVENTION BETWEEN THE U.S. AND FRANCE, ENTERED INTO FOR      
+ 100  100 5 THE PURPOSE OF DEFINING AND ESTABLISHING THE FUNCTIONS AND        
+ 100  100 6 PRIVILEGES OF THEIR RESPECTIVE, CONSULS, MOTION DEFEATED,         
+ 100  100 7 BECAUSE THE RULE REQUIRES UNANIMOUS, CONSENT IN ORDER THAT A      
+ 100  100 8 BILL MAY BE READ TWICE ON THE SAME DAY.                           

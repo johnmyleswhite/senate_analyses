@@ -1,0 +1,458 @@
+   1    1 1               EX J 1-181     SRE       JUNE 13, 1795              
+   1    1 2 E040001       Y=9 N=20                                            
+   1    1 3 TO REMOVE THE INJUNCTION OF SECRECY SURROUNDING THE               
+   1    1 4 COMMUNICATIONS RECEIVED FROM THE PRESIDENT JUNE 8, 1795,          
+   1    1 5 CONCERNING THE TREATY BETWEEN THE UNITED STATES AND GREAT         
+   1    1 6 BRITIAN.                                                          
+   2    2 1               EX J 1-182     SRE       JUNE 18, 1795              
+   2    2 2 E040002       Y=10 N=19                                           
+   2    2 3 TO ADJOURN UNTIL MONDAY NEXT.                                     
+   3    3 1               EX J 1-184     SRE       JUNE 23, 1795              
+   3    3 2 E040003       Y=10 N=20                BURR, N.Y.                 
+   3    3 3 TO POSTPONE FURTHER CONSIDERATION OF THE RESOLUTION IN            
+   3    3 4 WHICH THE SENATE ADVISES AND CONSENTS TO THE RATIFICATION OF      
+   3    3 5 A TREATY OF 11/19/1794 BETWEEN THE U.S. AND GREAT BRITAIN.        
+   4    7 1               EX J 1-186C    SRE       JUNE 23, 1795              
+   4    7 2 E041002B      Y=30 N=0                                            
+   4    7 3 TO ADOPT THE LAST PARAGRAPH OF THE RESOLUTION CONCERNING          
+   4    7 4 RATIFICATION OF THE TREATY WITH GREAT BRITIAN, WHICH              
+   4    7 5 RECOMMENDS TO THE PRESIDENT TO PROCEED TO FURTHER FRIENDLY        
+   4    7 6 NEGOTIATIONS WITH BRITAIN, ON THE SUBJECT OF TRADE.               
+   5    4 1               EX J 1-185     SRE       JUNE 24, 1795              
+   5    4 2 E040004       Y=12 N=15                BROWN, KY.                 
+   5    4 3 TO AMEND THE RESOLUTION TO RATIFY THE TREATY WITH GREAT           
+   5    4 4 BRITAIN, BY INSISTING ON "ADEQUATE COMPENSATION FOR THE           
+   5    4 5 NEGROES AND OTHER PROPERTY OF AMERICAN INHABITANTS, CARRIED       
+   5    4 6 OFF FROM THE UNITED STATES".                                      
+   6    5 1               EX J 1-186A    SRE       JUNE 24, 1795              
+   6    5 2 E041001       Y=10 N=19                                           
+   6    5 3 TO POSTPONE THE RESOLUTION TO ADVISE AND CONSENT TO               
+   6    5 4 RATIFICATION OF THE TREATY WITH GREAT BRITAIN, IF CERTAIN         
+   6    5 5 CONDITIONS RESPECTING TRADE ARE MET.                              
+   7    6 1               EX J 1-186B    SRE       JUNE 24, 1795              
+   7    6 2 E041002A      Y=20 N=10                                           
+   7    6 3 TO ADOPT THE FIRST PARAGRAPH OF THE RESOLUTION TO RATIFY THE      
+   7    6 4 TREATY WITH GREAT BRITIAN ON CONDITION THAT THERE BE ADDED        
+   7    6 5 TO THE SAID TREATY AN ARTICLE WHEREBY IT SHALL BE AGREED TO       
+   7    6 6 SUSPEND THE OPERATIONS OF SO MUCH OF THE 12TH ARTICLE AS          
+   7    6 7 RESPECTS THE TRADE WITH THE BRITISH WEST INDIES.  (P. 186)        
+   8    8 1               EX J 1-187     SRE       JUNE 25, 1795              
+   8    8 2 E041003       Y=27 N=1                 GUNN, GA.                  
+   8    8 3 TO PASS THE RESOLUTION THAT THE SENATE RECOMMEND TO THE           
+   8    8 4 PRESIDENT TO RENEW THE CLAIMS OF AMERICAN CITIZENS FOR            
+   8    8 5 COMPENSATION FOR NEGROES AND OTHER PROPERTY TAKEN FROM THEM       
+   8    8 6 BY BRITISH FORCES.                                                
+   9    9 1               EX J 1-188A    SRE       JUNE 25, 1795              
+   9    9 2 E041004       Y=11 N=17                JACKSON, GA.               
+   9    9 3 TO AMEND THE RESOLUTION CONCERNING RATIFICATION OF A TREATY       
+   9    9 4 WITH GREAT BRITAIN, BY PROVIDING THAT THE NEGOTIATIONS ON         
+   9    9 5 THIS SUBJECT BE CONSIDERED PART OF THE NEGOTIATIONS               
+   9    9 6 RECOMMENDED BY THE ACT RESPECTING THE TRADE IN THE BRITISH        
+   9    9 7 WEST INDIES.  (P. 187-188)                                        
+  10   10 1               EX J 1-188B    SRE       JUNE 25, 1795              
+  10   10 2 E041005       Y=18 N=11                GUNN, GA.                  
+  10   10 3 TO ADOPT THE LAST CLAUSE OF THE RESOLUTION CONCERNING             
+  10   10 4 RATIFICATION OF A TREATY WITH GREAT BRITAIN, WHICH CLAUSE         
+  10   10 5 PROVIDES THAT THE NEGOTIATION ON THIS SUBJECT SHOULD BE           
+  10   10 6 DISTINCT FROM THAT RECOMMENDED BY AN ACT CONCERNING TRADE IN      
+  10   10 7 THE BRITISH WEST INDIES.                                          
+  11   11 1               EX J 1-188C    SRE       JUNE 25, 1795              
+  11   11 2 E041006       Y=19 N=10                BUTLER, S.C.               
+  11   11 3 TO RECONSIDER THE VOTE REJECTING THE LAST CLAUSE OF THE           
+  11   11 4 RESOLUTION CONCERNING RATIFICATION OF A TREATY WITH GREAT         
+  11   11 5 BRITAIN, WHICH CLAUSE PROVIDES THAT NEGOTIATION ON THIS           
+  11   11 6 SUBJECT SHOULD BE DISTINCT FROM THAT RECOMMENDED BY AN ACT        
+  11   11 7 CONCERNING TRADE IN THE BRITISH WEST INDIES.                      
+  12   12 1               EX J 1-189     SRE       JUNE 25, 1795              
+  12   12 2 E041007       Y=14 N=15                RUTHERFURD, N.J.           
+  12   12 3 TO ADOPT THE RESOLUTION RATIFYING THE TREATY OF AMITY,            
+  12   12 4 COMMERCE AND NAVIGATION WITH GREAT BRITAIN, AND PROVIDING         
+  12   12 5 FOR COMMISSIONS TO SETTLE DISPUTED CLAIMS.                        
+  13   13 1               EX J 1-191A    SRE       JUNE 26, 1795              
+  13   13 2 E041008       Y=14 N=12                READ, S.C.                 
+  13   13 3 TO AMEND THE RESOLUTION TO RESCIND THE INJUNCTION OF              
+  13   13 4 SECRECY CONCERNING PRESIDENTIAL COMMUNICATIONS RELATIVE TO        
+  13   13 5 THE TREATY WITH GREAT BRITAIN; BY PROVIDING THAT NO COPY BE       
+  13   13 6 MADE OF THE PRESIDENTIAL COMMUNICATIONS CONCERNING THE            
+  13   13 7 NOMINATION OF JOHN JAY AS ENVOY TO BRITAIN.                       
+  14   14 1               EX J 1-191B    SRE       JUNE 26, 1795              
+  14   14 2 E041009       Y=18 N=9                 LIVERMORE, N.H.            
+  14   14 3 TO AGREE TO THE RESOLUTION TO RESCIND THE INJUNCTION OF           
+  14   14 4 SECRECY CONCERNING CERTAIN PRESIDENTIAL COMMUNICATIONS AND        
+  14   14 5 THE NOMINATION OF JOHN JAY AS ENVOY TO BRITIAN.                   
+  15   29 1 A 5- -22A     J 4-1-198A     REP       DEC. 11, 1795              
+  15   29 2 S041000A      Y=8 N=14                                            
+  15   29 3 TO AMEND A COMMITTEE REPORT IN RESPONSE TO AN ADDRESS BY THE      
+  15   29 4 PRESIDENT, BY STRIKING OUT THE FOURTH AND FIFTH PARAGRAPHS        
+  15   29 5 OF THE REPORT.                                                    
+  16   30 1 A 5- -22B     J 4-1-198B     REP       DEC. 11, 1795              
+  16   30 2 S041000B      Y=7 N=15                                            
+  16   30 3 TO AMEND A COMMITTEE REPORT IN RESPONSE TO AN ADDRESS BY THE      
+  16   30 4 PRESIDENT, BY AMENDING THE FIFTH PARAGRAPH BY STRIKING            
+  16   30 5 "EVERY WAY".                                                      
+  17   31 1 A 5- -22C     J 4-1-198C     REP       DEC. 11, 1795              
+  17   31 2 S041000C      Y=14 N=8                                            
+  17   31 3 TO ADOPT THE COMMITTEE REPORT IN RESPONSE TO AN ADDRESS BY        
+  17   31 4 THE PRESIDENT.                                                    
+  18   15 1               EX J 1-196     SRE       DEC. 15, 1795              
+  18   15 2 E042001       Y=10 N=14                                           
+  18   15 3 TO ADVISE AND CONSENT TO THE NOMINATION OF JOHN RUTLEDGE TO       
+  18   15 4 BE CHIEF JUSTICE OF THE SUPREME COURT.                            
+  19   16 1               EX J 1-197     SRE       DEC. 22, 1795              
+  19   16 2 E042002       Y=28 N=0                 BURR, N.Y.                 
+  19   16 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY OF        
+  19   16 4 PEACE WITH THE LATE HOSTILE TRIBES OF INDIANS NORTHWEST OF        
+  19   16 5 THE OHIO RIVER.                                                   
+  20   32 1 A 5- -36      J 4-1-204      SRE       JAN. 6, 1796               
+  20   32 2 S041000D      Y=16 N=8                                            
+  20   32 3 TO AMEND THE SENATE RESPONSE TO A PRESIDENTIAL MESSAGE            
+  20   32 4 CONCERNING THE SHOWING OF THE FRENCH COLORS; BY STRIKING OUT      
+  20   32 5 "THAT THE PRESIDENT BE REQUESTED TO ASSURE THE FRENCH             
+  20   32 6 NATION THROUGH THE PROPER ORGAN".                                 
+  21   33 1 A 5- -38      J 4-1-207                JAN. 19, 1796              
+  21   33 2 S041000E      Y=12 N=11                                           
+  21   33 3 TO AMEND "AN ACT TO PROMOTE THE PROGRESS OF USEFUL ARTS AND       
+  21   33 4 TO REPEAL THE ACT HERETOFORE MADE FOR THAT PURPOSE"; BY           
+  21   33 5 SUBJOINING THE PROVISO CONCERNING PATENTS FOR ALIENS.             
+  22   17 1               EX J 1-202A    SRE       MAR. 1, 1796               
+  22   17 2 E042003       Y=23 N=2                 ELLSWORTH, CONN.           
+  22   17 3 TO AMEND THE RESOLUTION CONCERNING THE TREATY WITH ALGIERS,       
+  22   17 4 SO TO READ, "THAT THE SENATE DO ADVISE AND CONSENT TO THE         
+  22   17 5 RATIFICATION OF A TREATY WITH THE DEY OF ALGIERS".                
+  23   18 1               EX J 1-202B    SRE       MAR. 2, 1796               
+  23   18 2 E042004       Y=27 N=0                 ELLSWORTH, CONN.           
+  23   18 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY           
+  23   18 4 WITH THE DEY OF ALGIERS.                                          
+  24   19 1               EX J 1-202C    SRE       MAR. 2, 1796               
+  24   19 2 E042005       Y=11 N=16                                           
+  24   19 3 TO AMEND THE RESOLUTION TO RATIFY THE TREATY WITH ALGIERS,        
+  24   19 4 BY STATING THAT SAID RESOLUTION WAS PASSED UNANIMOUSLY.           
+  25   20 1               EX J 1-203A    SRE       MAR. 3, 1796               
+  25   20 2 E042006       Y=26 N=0                                            
+  25   20 3 TO AMEND THE RESOLUTION TO RATIFY A TREATY WITH SPAIN, IN         
+  25   20 4 ORDER TO STATE THAT SAID RESOLUTION WAS PASSED UNANIMOUSLY.       
+  26   34 1 A 5- -49      J 4-1-218      S         MAR. 3, 1796               
+  26   34 2 S041000F      Y=23 N=1                                            
+  26   34 3 TO AMEND S. 37, (APP. 5/28/1796, 1 STAT 482), A BILL TO           
+  26   34 4 PROVIDE FOR THE RELIEF OF PERSONS IMPRISONED FOR DEBT, BY         
+  26   34 5 MAKING IT UNNECESSARY FOR THE DEBTORS OATH TO BE                  
+  26   34 6 ADMINISTERED BY A JUSTICE OF THE PEACE.                           
+  27   21 1               EX J 1-203B    SRE       MAR. 4, 1796               
+  27   21 2 E042007       Y=21 N=1                                            
+  27   21 3 TO CONSENT TO THE APPOINTMENT OF OLIVER ELLSWORTH TO BE           
+  27   21 4 CHIEF JUSTICE OF THE SUPREME COURT OF THE UNITED STATES.          
+  28   35 1 A 5- -57      J 4-1-226      REP       MAR. 21, 1796              
+  28   35 2 S041001       Y=7 N=17                                            
+  28   35 3 TO POSTPONE A COMMITTEE REPORT REGARDING A CHARGE OF              
+  28   35 4 PERJURY BROUGHT AGAINST SENATOR MARSHALL OF KENTUCKY, IN          
+  28   35 5 ORDER TO CONSIDER THE RESOLUTION CONCERNING ADMISSABLE            
+  28   35 6 EVIDENCE IN THIS CASE.                                            
+  29   36 1 A 5- -58A     J 4-1-227A     SRE       MAR. 22, 1796              
+  29   36 2 S041002       Y=7 N=16                 LIVERMORE, N.H.            
+  29   36 3 TO AMEND THE COMMITTEE REPORT REGARDING A CHARGE OF PERJURY       
+  29   36 4 AGAINST SENATOR MARSHALL; AMENDMENT TO STRIKE: "AND THEY ARE      
+  29   36 5 ALSO OF THE OPINION THAT, AS THE CONSTITUTION DOES NOT GIVE       
+  29   36 6 JURISDICTION TO THE SENATE, THE CONSENT OF THE PARTY CANNOT       
+  29   36 7 GIVE IT; THEREFORE, THE SAID MEMORIAL SHOULD BE DISMISSED".       
+  30   37 1 A 5- -58B     J 4-1-227B     REP       MAR. 22, 1796              
+  30   37 2 S041003       Y=16 N=8                 LIVERMORE, N.H.            
+  30   37 3 TO ADOPT THE COMMITTEE REPORT TO DISMISS THE MEMORIAL             
+  30   37 4 CONCERNING THE CHARGE OF PERJURY AGAINST SENATOR MARSHALL.        
+  31   22 1               EX J 1-204     SRE       APR. 1, 1796               
+  31   22 2 E042008       Y=6 N=15                                            
+  31   22 3 TO POSTPONE THE CONSIDERATION OF THE NOMINATION OF                
+  31   22 4 HENRY KNOX AND OTHERS AS COMMISSIONERS ON THE PART OF THE         
+  31   22 5 UNITED STATES TO FIX CERTAIN BOUNDARIES BETWEEN THE               
+  31   22 6 UNITED STATES AND GREAT BRITAIN.                                  
+  32   38 1 A 5- -66      J 4-1-235      HR        APR. 7, 1796               
+  32   38 2 S041004       Y=12 N=10                                           
+  32   38 3 TO COMMIT H.R. 155, (APP. 5/28/1796, 1 STAT 477), A BILL TO       
+  32   38 4 PROVIDE FOR THE RELIEF AND PROTECTION OF AMERICAN SEAMEN,         
+  32   38 5 TO A SELECT COMMITTEE.                                            
+  33   39 1 A 5- -69      J 4-1-237      HR        APR. 12, 1796              
+  33   39 2 S041005       Y=15 N=8                 TAZEWELL, VA.              
+  33   39 3 TO CONCUR WITH THE HOUSE IN THE AMENDED VERSION OF H.R. 156,      
+  33   39 4 (APP. 4/20/17968 1 STAT 454), A BILL TO AUTHORIZE AND DIRECT      
+  33   39 5 THE SECRETARY OF WAR TO PLACE CERTAIN PERSONS NAMED ON THE        
+  33   39 6 PENSION LIST.                                                     
+  34   40 1 A 5- -70A     J 4-1-238A     HR        APR. 12, 1796              
+  34   40 2 S041006       Y=8 N=16                 STRONG, MASS.              
+  34   40 3 TO AMEND H.R. 162, A BILL TO PROVIDE FOR THE WIDOWS AND           
+  34   40 4 ORPHANS OF CERTAIN OFFICERS WHO HAVE DIED OF WOUNDS               
+  34   40 5 RECEIVED IN THE SERVICE OF THE UNITED STATES SINCE MARCH          
+  34   40 6 1789; BY EXTENDING BENEFITS TO WIDOWS AND ORPHANS OF              
+  34   40 7 COMMISSIONED OFFICERS OF THE CONTINENTAL ARMY WHO DIED OF         
+  34   40 8 WOUNDS RECEIVED BEFORE MAY, 1778.                                 
+  35   41 1 A 5- -70B     J 4-1-238B     HR        APR. 12, 1796              
+  35   41 2 S041007       Y=13 N=13                STRONG, MASS.              
+  35   41 3 TO ORDER THIRD READING OF H.R. 162.                               
+  36   42 1 A 5- -71A     J 4-1-238C     HR        APR. 13, 1796              
+  36   42 2 S041008       Y=12 N=16                STRONG, MASS.              
+  36   42 3 TO AMEND H.R. 162, BY EXCLUDING THE MILITIA FROM THE              
+  36   42 4 BENEFITS OF THE LAW.                                              
+  37   43 1 A 5- -71B     J 4-1-239      HR        APR. 13, 1796              
+  37   43 2 S041009       Y=13 N=15                STRONG, MASS.              
+  37   43 3 TO PASS H.R. 162.                                                 
+  38   44 1 A 5- -73      J 4-1-241      HR        APR. 19, 1796              
+  38   44 2 S041010       Y=3 N=16                                            
+  38   44 3 TO AMEND H.R. 155, (APP. 5/28/1796, 1 STAT 477), A BILL TO        
+  38   44 4 PROVIDE FOR RELIEF AND PROTECTION OF AMERICAN SEAMEN; BY          
+  38   44 5 SLIGHTLY ALTERING THE SECTION OUTLINING PROCEDURE WHEN A          
+  38   44 6 SHIP IS DETAINED OR IMPRESSED BY A FOREIGN POWER.                 
+  39   45 1 A 5- -74      J 4-1-242      HR        APR. 25, 1796              
+  39   45 2 S041011       Y=12 N=13                                           
+  39   45 3 TO REFER A COMMITTEE REPORT REGARDING H.R. 144,                   
+  39   45 4 (APP. 5/6/1796, 1 STAT 461), A BILL TO AUTHORIZE A LOAN FOR       
+  39   45 5 THE DISTRICT OF COLUMBIA, AND FOR OTHER PURPOSES, TO A            
+  39   45 6 SPECIAL COMMITTEE WITH INSTRUCTIONS.                              
+  40   46 1 A 5- -75      J 4-1-243      REP       APR. 26, 1796              
+  40   46 2 S041012       Y=13 N=11                                           
+  40   46 3 TO POSTPONE CONSIDERATION OF A COMMITTEE REPORT CONCERNING        
+  40   46 4 H.R. 144 AND AMENDMENTS.                                          
+  41   47 1 A 5- -77      J 4-1-246A     HR        MAY 3, 1796                
+  41   47 2 S041013       Y=4 N=16                                            
+  41   47 3 TO DELAY CONSIDERATION OF THE COMMITTEE REPORT ON H.R. 144.       
+  42   48 1 A 5- -78A     J 4-1-246B     HR        MAY 3, 1796                
+  42   48 2 S041014       Y=8 N=16                 KING, N.Y.                 
+  42   48 3 TO AMEND H.R. 144, BY ELIMINATING THE CLAUSE WHICH PROVIDES       
+  42   48 4 THAT THE UNITED STATES SHALL PAY THE SURPLUS OF DEBT, NOT         
+  42   48 5 MET BY THE SALE OF CERTAIN LOTS IN WASHINGTON.                    
+  43   49 1 A 5- -78B     J 4-1-246C     HR        MAY 3, 1796                
+  43   49 2 S041015       Y=10 N=14                KING, N.Y.                 
+  43   49 3 TO AMEND H.R. 144, BY INCLUDING IN THE FIRST SECTION OF THE       
+  43   49 4 BILL, CONSIDERATION OF "ALL CHARGES AND EXPENSES" INCURRED,       
+  43   49 5 IN MAKING SAID LOAN.                                              
+  44   50 1 A 5- -79      J 4-1-247      HR        MAY 4, 1796                
+  44   50 2 S041016       Y=16 N=7                 KING, N.Y.                 
+  44   50 3 TO PASS H.R. 144.                                                 
+  45   51 1 A 5- -83      J 4-1-252      HR        MAY 6, 1796                
+  45   51 2 S041017       Y=11 N=11                                           
+  45   51 3 TO AMEND H.R. 135, (APP. 5/18/1796, 1 STAT 464), A BILL TO        
+  45   51 4 PROVIDE FOR THE SALE OF UNITED STATES LANDS IN THE                
+  45   51 5 TERRITORY NORTHWEST OF THE OHIO RIVER, AND ABOVE THE MOUTH        
+  45   51 6 OF THE KENTUCKY RIVER; BY EXTENDING THE RIGHTS OF THE BILL        
+  45   51 7 TO ANYONE. (PRESIDENT OF THE SENATE VOTING IN THE                 
+  45   51 8 AFFIRMATIVE).                                                     
+  46   23 1               EX J 1-207     SRE       MAY 9, 1796                
+  46   23 2 E042009       Y=19 N=5                                            
+  46   23 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF AN EXPLANATORY       
+  46   23 4 ARTICLE OF THE TREATY WITH GREAT BRITAIN, TO BE ADDED TO THE      
+  46   23 5 EXISTING TREATY.                                                  
+  47   52 1 A 5- -88A     J 4-1-256      HR        MAY 14, 1796               
+  47   52 2 S041018       Y=11 N=13                                           
+  47   52 3 TO AMEND H.R. 137, (APP. 5/19/1796, 1 STAT 469), A BILL TO        
+  47   52 4 REGULATE TRADE AND INTERCOURSE WITH THE INDIAN TRIBES, AND        
+  47   52 5 TO PRESERVE PEACE ON THE FRONTIERS, BY PROVIDING THAT NO          
+  47   52 6 PENALTY SHALL BE BROUGHT AGAINST AN INDIVIDUAL WHO                
+  47   52 7 ILLEGALLY ENTERS INDIAN COUNTRY IN SEARCH OF STRAY HORSES         
+  47   52 8 OR OTHER STOCK.                                                   
+  48   53 1 A 5- -88B     J 4-1-257A     HR        MAY 14, 1796               
+  48   53 2 S041019       Y=11 N=14                                           
+  48   53 3 TO AMEND H.R. 137, BY ELIMINATING THE PENALTY OF $50 FOR          
+  48   53 4 ILLEGALLY ENTERING INDIAN COUNTRY.                                
+  49   54 1 A 5- -89      J 4-1-257B     HR        MAY 14, 1796               
+  49   54 2 S041020       Y=17 N=8                 ROSS, PA.                  
+  49   54 3 TO PASS H.R. 137.                                                 
+  50   55 1 A 5- -91A     J 4-1-259      REP       MAY 14, 1796               
+  50   55 2 S041021       Y=9 N=14                                            
+  50   55 3 TO AMEND A COMMITTEE REPORT RESPECTING A NEW STATE TO BE          
+  50   55 4 FORMED OUT OF TERRITORY SOUTH OF THE OHIO RIVER; BY               
+  50   55 5 SUBSTITUTING A REPORT AND RESOLUTION TO ACKNOWLEDGE THAT          
+  50   55 6 SAID TERRITORY IS NOW ONE OF THE UNITED STATES BY THE NAME        
+  50   55 7 OF TENNESSEE, AND ENTITLED TO REPRESENTATION IN CONGRESS.         
+  51   56 1 A 5- -91B     J 4-1-259B     HR        MAY 16, 1796               
+  51   56 2 S041022       Y=13 N=12                                           
+  51   56 3 TO AMEND H.R. 164, (APP. 5/31/1796, 1 STAT 488), A BILL TO        
+  51   56 4 MAKE PROVISION FOR THE PAYMENT OF CERTAIN DEBTS OF THE            
+  51   56 5 UNITED STATES, BY AUTHORIZING THE SALE OF SHARES OF STOCK OF      
+  51   56 6 THE BANK OF THE UNITED STATES, BELONGING TO THE U.S., AND         
+  51   56 7 APPLICATION OF THE PROCEEDS THEREOF TO THE PAYMENT OF SAID        
+  51   56 8 DEBTS; INSTEAD OF SELLING CERTIFICATES OF STOCK.                  
+  52   57 1 A 5- -92A     J 4-1-260A     REP       MAY 16, 1796               
+  52   57 2 S041023       Y=9 N=15                 KING, N.Y.                 
+  52   57 3 TO AMEND THE TENNESSEE REPORT TO EXPRESS THE SATISFACTION OF      
+  52   57 4 THE UNITED STATES GOVERNMENT WITH THE PROCEEDINGS OF THE          
+  52   57 5 TERRITORY OF TENNESSEE IN FORMING A CONSTITUTION.                 
+  53   58 1 A 5- -92B     J 4-1-260B     REP       MAY 16, 1796               
+  53   58 2 S041024       Y=14 N=11                KING, N.Y.                 
+  53   58 3 TO AGREE TO THE AMENDED TENNESSEE REPORT WHICH RECOMMENDS         
+  53   58 4 BRINGING IN A BILL CONCERNING THE PROPOSED STATEHOOD OF           
+  53   58 5 TENNESSEE.                                                        
+  54   59 1 A 5- -95A     J 4-1-262A     HR        MAY 17, 1796               
+  54   59 2 S041025       Y=8 N=12                                            
+  54   59 3 TO AMEND H.R. 164, BY STRIKING OUT THE CLAUSE GIVING THE          
+  54   59 4 COMMISSIONERS AUTHORITY TO SELL ANY SHARES OF THE BANK OF         
+  54   59 5 THE UNITED STATES STOCK, AS THEY THINK PROPER, AND TO APPLY       
+  54   59 6 THE PROCEEDS TO PAYMENT OF THE SAID DEBTS, INSTEAD OF             
+  54   59 7 SELLING CERTIFICATES OF STOCK.                                    
+  55   60 1 A 5- -95B     J 4-1-262B     HR        MAY 17, 1796               
+  55   60 2 S041026       Y=12 N=13                                           
+  55   60 3 TO AMEND H.R. 164, BY ADDING THE QUOTED WORDS IN THE CLAUSE       
+  55   60 4 AUTHORIZING COMMISSIONERS TO SELL AS MANY SHARES OF STOCK IN      
+  55   60 5 THE U.S. BANK AS MAY BE PROPER "AND CONSISTENT WITH THE           
+  55   60 6 EXISTING LAWS."                                                   
+  56   61 1 A 5 - 95C     J 4-1-263      HR        MAY 17, 1796               
+  56   61 2 S041027       Y=14 N=10                BINGHAM, PA.               
+  56   61 3 TO PASS H.R. 164.                                                 
+  57   62 1 A 5 - 99A     J 4-1-266A     HR        MAY 20, 1796               
+  57   62 2 S041028       Y=10 N=11                                           
+  57   62 3 TO AGREE TO THE FORM AND CONTENT OF THE HOUSE BILL FOR THE        
+  57   62 4 RELIEF OF MOSES MYERS.                                            
+  58   63 1 A 5- -99B     J 4-1-266B     S         MAY 20, 1796               
+  58   63 2 S041029       Y=7 N=14                                            
+  58   63 3 TO AGREE TO THE HOUSE AMENDMENT TO S. 37,                         
+  58   63 4 (APP. 5/28/1796, 1 STAT 482), A BILL TO PROVIDE FOR THE           
+  58   63 5 RELIEF OF PERSONS IMPRISONED FOR DEBT; SAID AMENDMENT             
+  58   63 6 PROVIDES THAT PERSONS UNDER PROCESS OF FEDERAL COURTS             
+  58   63 7 RECEIVE SAME BENEFITS UNDER LAW AS IN THEIR STATE; IT ALSO        
+  58   63 8 PROVIDES THAT DEBTOR REMAIN LIABLE FOR SUING OUT PROCESS          
+  58   63 9 AGAINST HIS ESTATE, STATE LAWS NOT WITHSTANDING.                  
+  59   64 1 A 5- -103     J 4-1-269      SRE       MAY 23, 1796               
+  59   64 2 S041030       Y=12 N=11                                           
+  59   64 3 TO RECEIVE THE GENTLEMEN, WHO CLAIM TO BE SENATORS FROM           
+  59   64 4 TENNESSEE, AS SPECTATORS UNTIL FINAL SENATE DECISION TO           
+  59   64 5 ADMIT TENNESSEE AS A STATE.                                       
+  60   65 1 A 5- -107     J 4-1-273      S         MAY 25, 1796               
+  60   65 2 S041031       Y=11 N=12                                           
+  60   65 3 TO AMEND S. 46, (APP. 6/1/1796, 1 STAT 491), A BILL TO LAY        
+  60   65 4 OUT INTO ONE STATE, THE TERRITORY CEDED BY THE STATE OF           
+  60   65 5 NORTH CAROLINA, AND TO PROVIDE FOR AN ENUMERATION OF THE          
+  60   65 6 INHABITANTS BY STRIKING OUT PART OF THE 1ST SECTION IN ORDER      
+  60   65 7 TO MOVE TO INSERT A NEW PART WHICH PROPOSED THAT A NEW STATE      
+  60   65 8 UNDER THE NAME AND TITLE OF "TENNESSEE" BE RECEIVED INTO THE      
+  60   65 9 UNION, AND ENTITLED TO ONE REPRESENTATIVE.                        
+  61   66 1 A 5- -109A    J 4-1-275A     S         MAY 26, 1796               
+  61   66 2 S041032       Y=11 N=12                                           
+  61   66 3 TO AMEND A MOTION RELATING TO S. 46, BY ELIMINATING THE           
+  61   66 4 REQUIREMENT FOR "THEIR FORMING A CONSTITUTION CONSISTENT          
+  61   66 5 WITH THE ORDINANCE OF CONGRESS, JULY 13, 1787".                   
+  62   67 1 A 5- -109B    J 4-1-275B     S         MAY 26, 1796               
+  62   67 2 S041033       Y=10 N=12                                           
+  62   67 3 TO AMEND S. 46, BY ADDING A SECTION OUTLINING THE PROCEDURE       
+  62   67 4 AND REQUIREMENTS FOR TENNESSEE STATEHOOD.                         
+  63   68 1 A 5- -109C    J 4-1-275C     S         MAY 26, 1796               
+  63   68 2 S041034       Y=15 N=8                 KING, N.Y.                 
+  63   68 3 TO PASS S. 46.                                                    
+  64   69 1 A 5- -116     J 4-1-283      S         MAY 31, 1796               
+  64   69 2 S041035       Y=10 N=13                                           
+  64   69 3 TO POSTPONE FURTHER CONSIDERATION OF THE RESOLUTION ASKING        
+  64   69 4 FOR A CONFERENCE ON S. 46.                                        
+  65   70 1 A 5- -120     J 4-1-287      HR        JUNE 1, 1796               
+  65   70 2 S041036       Y=14 N=5                                            
+  65   70 3 TO DISPENSE WITH THE RULES AND ORDER THIRD READING OF THE         
+  65   70 4 HOUSE BILL TO AUTHORIZE THE PRESIDENT TO LAY, REGULATE AND        
+  65   70 5 REVOKE EMBARGOES, DURING THE ENSUING RECESS OF CONGRESS.          
+  66   71 1 A 5- -121     J 4-1-288      SRE       JUNE 1, 1796               
+  66   71 2 S041037       Y=10 N=11                MARTIN, N.C.               
+  66   71 3 TO PASS THE RESOLUTION THAT THE HONORABLE WILLIAM BLOUNT,         
+  66   71 4 AND WILLIAM COCKE, WHO HAVE PRODUCED CREDENTIALS OF BEING         
+  66   71 5 DULY ELECTED SENATORS FOR THE STATE OF TENNESSEE, BE              
+  66   71 6 ADMITTED TO TAKE THE OATH NECESSARY.                              
+  67   24 1               EX J 1-221     SRE       JAN. 16, 1797              
+  67   24 2 E042010       Y=24 N=1                                            
+  67   24 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF A TREATY, MADE       
+  67   24 4 ON BEHALF OF THE STATE OF NEW YORK WITH CERTAIN TRIBES OF         
+  67   24 5 INDIANS, KNOWN AS THE SENECA NATION OF CANADA.                    
+  68   72 1 A 6- -1532    J 4-2-311      HRE       JAN. 18, 1797              
+  68   72 2 S042001       Y=10 N=16                                           
+  68   72 3 TO AGREE TO A MOTION CONCERNING HOUSE RESOLUTIONS RELATIVE        
+  68   72 4 TO THE BALANCES FOUND DUE BY COMMISSIONERS FOR SETTLING           
+  68   72 5 ACCOUNTS BETWEEN THE UNITED STATES AND THE INDIVIDUAL STATES      
+  68   72 6 WHICH MOTION PROPOSES THAT A CERTAIN BOOK BE BROUGHT TO THE       
+  68   72 7 SENATE FOR INSPECTION.                                            
+  69   25 1               EX J 1-225     SRE       JAN. 31, 1797              
+  69   25 2 E042011       Y=24 N=3                 MARSHALL, KY.              
+  69   25 3 TO ADOPT A COMMITTEE REPORT WHICH PROVIDES FOR THE PAYMENT        
+  69   25 4 BY THE UNITED STATES OF CERTAIN SUMS, AND THE SUPPLYING OF        
+  69   25 5 A FRIGATE TO ALGIERS.                                             
+  70   73 1 A 6- -1540    J 4-2-318A     SRE       FEB. 6, 1797               
+  70   73 2 S042002       Y=8 N=18                                            
+  70   73 3 TO AMEND THE SENATE BILL, TO INCREASE THE COMPENSATION            
+  70   73 4 ALLOWED TO THE MEMBERS OF THE LEGISLATURE, AND CERTAIN            
+  70   73 5 OFFICERS OF THE GOVERNMENT, FOR A LIMITED TIME; BY STRIKING       
+  70   73 6 OUT REFERENCE TO MEMBERS OF CONGRESS.                             
+  71   74 1 A 6- -1541A   J 4-2-318B     SRE       FEB. 6, 1797               
+  71   74 2 S042003       Y=20 N=7                 GOODHUE, MASS.             
+  71   74 3 TO AMEND THE COMPENSATION BILL BY ALLOWING 25 PERCENT             
+  71   74 4 INCREASE TO MEMBERS OF CONGRESS, AND CERTAIN OTHERS, TO           
+  71   74 5 BEGIN JAN. 1, 1797, AND TO CONTINUE FOR TWO YEARS.                
+  72   75 1 A 6- -1541B   J 4-2-318C     SRE       FEB. 6, 1797               
+  72   75 2 S042004       Y=14 N=14                SEDGWICK, MASS.            
+  72   75 3 TO PASS THE SENATE BILL TO PUNISH FRAUDS COMMITTED ON THE         
+  72   75 4 BANK OF THE UNITED STATES. (VICE PRESIDENT VOTING IN THE          
+  72   75 5 NEGATIVE).                                                        
+  73   76 1 A 6- -1541    J 4-2-319      SRE       FEB. 6, 1797               
+  73   76 2 S042005       Y=18 N=10                GOODHUE, MASS.             
+  73   76 3 TO PASS THE COMPENSATION BILL.                                    
+  74   77 1 A 6- -1553    J 4-2-327      HRE       FEB. 17, 1797              
+  74   77 2 S042006       Y=13 N=18                                           
+  74   77 3 TO RECEDE FROM A SENATE AMENDMENT TO THE ACCOUNTS                 
+  74   77 4 RESOLUTIONS; AMENDMENT PROPOSED TO CALL UPON THE DEBTOR           
+  74   77 5 STATES ONLY FOR THE SUM WHICH THEY HAD ASSUMED, OVER AND          
+  74   77 6 ABOVE WHAT PROVED TO BE THEIR REAL DEMAND AGAINST THE             
+  74   77 7 UNITED STATES.                                                    
+  75   78 1 A 6- -1554A   J 4-2-328A     HR        FEB. 20, 1797              
+  75   78 2 S042007       Y=15 N=17                                           
+  75   78 3 TO AMEND THE HOUSE BILL TO AMEND AN ACT TO ASCERTAIN AND FIX      
+  75   78 4 THE MILITARY ESTABLISHMENT OF THE UNITED STATES, BY               
+  75   78 5 STRIKING OUT ALL REFERENCE TO LIGHT DRAGOONS.                     
+  76   79 1 A 6- -1554B   J 4-2-328B     S         FEB. 21, 1797              
+  76   79 2 S042008       Y=28 N=3                 SEDGWICK, MASS.            
+  76   79 3 TO PASS S. 52, (APP. 3/2/1797, 1 STAT 497), A BILL TO             
+  76   79 4 ACCOMODATE THE PRESIDENT.                                         
+  77   80 1 A 6- -1564    J 4-2-336      HR        FEB. 28, 1797              
+  77   80 2 S042009       Y=19 N=9                 LIVERMORE, N.H.            
+  77   80 3 TO PASS H.R. 220, (APP. 3/2/1797, 1 STAT 497), AN ACT TO          
+  77   80 4 AUGMENT THE COMPENSATION OF THE ATTORNEY GENERAL.                 
+  78   81 1 A 6- -1565    J 4-2-337      HRE       FEB. 28, 1797              
+  78   81 2 S042010       Y=14 N=16                ROSS, PA.                  
+  78   81 3 TO RECEDE FROM A SEMATE AMENDMENT TO THE ACCOUNTS                 
+  78   81 4 RESOLUTIONS WHICH PROPOSED TO CALL UPON THE DEBTOR STATES         
+  78   81 5 ONLY FOR THE SUM WHICH THEY HAD ASSUMED OVER AND ABOVE WHAT       
+  78   81 6 PROVED TO BE THEIR REAL DEMAND AGAINST THE UNITED STATES.         
+  79   82 1 A 6- -1568    J 4-2-340A     S         MAR. 1, 1797               
+  79   82 2 S042011       Y=16 N=15                MARSHALL, KY.              
+  79   82 3 TO ORDER THIRD READING OF S. 54, (APP. 3/3/1797, 1 STAT 507)      
+  79   82 4 A BILL TO ALTER THE TIME FOR THE NEXT MEETING OF CONGRESS.        
+  80   83 1 A 6- -1569    J 4-2-340B     SRE       MAR. 1, 1797               
+  80   83 2 S042012       Y=15 N=15                SEDGWICK, MASS.            
+  80   83 3 TO PASS THE SENATE BILL TO AUTHORIZE THE PRESIDENT TO LAY,        
+  80   83 4 REGULATE AND REVOKE EMBARGOES.                                    
+  81   26 1               EX J 1-230A    SRE       MAR. 2, 1797               
+  81   26 2 E042012       Y=9 N=22                                            
+  81   26 3 TO ADVISE AND CONSENT TO RATIFICATION OF THE TREATY WITH THE      
+  81   26 4 CREEK INDIANS, PROVIDED IT IS AMENDED TO INCLUDE A PROVISO        
+  81   26 5 CONCERNING ANNEXATION OF A PORTION OF LAND, FIVE MILES            
+  81   26 6 SQUARE.                                                           
+  82   27 1               EX J 1-230B    SRE       MAR. 2, 1797               
+  82   27 2 E042013       Y=22 N=8                                            
+  82   27 3 TO ADVISE AND CONSENT TO RATIFICATION OF THE TREATY WITH THE      
+  82   27 4 CREEK INDIANS PROVIDING THAT THE STATE OF GEORGIA CONSENT         
+  82   27 5 TO THE TRANSFER OF CERTAIN RIGHTS.                                
+  83   84 1 A 6- -1571A   J 4-2-342      S         MAR. 2, 1797               
+  83   84 2 S042013       Y=16 N=14                MARSHALL, KY.              
+  83   84 3 TO PASS S. 54, (APP. 3/3/1797, 1 STAT 507), A BILL TO ALTER       
+  83   84 4 THE TIME FOR THE NEXT MEETING OF CONGRESS.                        
+  84   85 1 A 6- -1571B   J 4-2-343      HR        MAR. 2, 1797               
+  84   85 2 S042014       Y=21 N=8                 GOODHUE, MASS.             
+  84   85 3 TO PASS H.R. 237, (APP. 3/3/1797, 1 STAT 516), A BILL TO          
+  84   85 4 AUTHORIZE AN EXPENDITURE AND MAKE AN APPROPRIATION FOR THE        
+  84   85 5 PROSECUTION OF THE CLAIMS OF CERTAIN CITIZENS OF THE              
+  84   85 6 UNITED STATES FOR PROPERTY CAPTURED BY THE BELLIGERENT            
+  84   85 7 POWERS.                                                           
+  85   28 1               EX J 1-232     SRE       MAR. 3, 1797               
+  85   28 2 E042014       Y=8 N=18                 MARTIN, N.C.               
+  85   28 3 TO PASS THE RESOLUTION TO REQUEST THE PRESIDENT TO INITIATE       
+  85   28 4 TREATIES WITH INDIAN TRIBES WITH CLAIMS TO CERTAIN WESTERN        
+  85   28 5 LANDS CEDED BY THE STATE OF NORTH CAROLINA TO THE                 
+  85   28 6 UNITED STATES.                                                    
+  86   86 1 A 6- -1577    J 4-2-348      HR        MAR. 3, 1797               
+  86   86 2 S042015       Y=18 N=8                                            
+  86   86 3 TO POSTPONE CONSIDERATION OF A MOTION THAT THREE READINGS IN      
+  86   86 4 ONE DAY OF H.R. 236, (APP. 3/3/1797, 1 STAT 508), AN ACT          
+  86   86 5 MAKING APPROPRIATIONS FOR THE MILITARY AND NAVAL                  
+  86   86 6 ESTABLISHMENTS FOR THE YEAR 1797, SHALL NOT BE DRAWN INTO         
+  86   86 7 PRECEDENT HEREAFTER, AND THE SENATE WILL NOT HEREAFTER            
+  86   86 8 ORIGINATE ANY BILL APPROPRIATING MONEY AT ANY TIME AFTER 10       
+  86   86 9 DAYS BEFORE THE DAY ON WHICH THE SECOND SESSION OF ANY            
+  86   8610 CONGRESS WILL EXPIRE.                                             

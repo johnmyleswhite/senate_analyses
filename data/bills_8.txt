@@ -1,0 +1,881 @@
+   1    1 1               EX J 1-450     SRE       OCT. 20, 1803              
+   1    1 2 E81001        Y=24 N=7                 JACKSON, GA.               
+   1    1 3 TO RATIFY THE TREATY (8 STAT 200) BETWEEN THE U.S. AND            
+   1    1 4 FRANCE CONCLUDED AT PARIS APRIL 30, 1803.                         
+   2   50 1 A-13- -26     J 8-1-303      HR        OCT. 26, 1803              
+   2   50 2 S081001       Y=26 N=6                 BRECKINRIDG, KY.           
+   2   50 3 TO PASS H.R. 142 (APP. OCT. 31, 1706, 2 STAT L. 245), A           
+   2   50 4 BILL GIVING EFFECT TO U.S. LAWS WITHIN THE TERRITORIES CEDED      
+   2   50 5 TO THE U.S. BY THE TREATY OF APRIL 30, 1803, WITH FRANCE.         
+   3   51 1 A-13-  -28    J 8-1-305      SRE       OCT. 31, 1803              
+   3   51 2 S081002       Y=21 N=10                                           
+   3   51 3 TO AGREE TO THE RESOLUTION PROVIDING THAT THE SENATE IS           
+   3   51 4 PENETRATED WITH THE FULL SENSE OF THE MERIT AND                   
+   3   51 5 PATRIOTISM OF THE LATE SAMUEL ADAMS AND EDMOND PENDLETON          
+   3   51 6 AND THAT THE MEMBERS THEREOF DO WEAR CREPE ON THE LEFT ARM,       
+   3   51 7 FOR ONE MONTH, IN TESTIMONY OF THE NATIONAL GRATITUDE AND         
+   3   51 8 REVERENCE TOWARD THEIR MEMORY.                                    
+   4   52 1 A-13-  -73    J 8-1-307      HR        NOV. 3, 1803               
+   4   52 2 S081003       Y=26 N=5                 JACKSON, GA.               
+   4   52 3 TO PASS H.R. 133 (APP. NOV. 10, 1703, 2 STAT L 245), A BILL       
+   4   52 4 AUTHORIZING THE CREATION OF A STOCK TO THE AMOUNT OF              
+   4   52 5 $11,250,000, FOR THE PURPOSE OF CARRYING INTO EFFECT THE          
+   4   52 6 CONVENTION OF APRIL 30, 1803, BETWEEN THE U.S. AND FRANCE         
+   4   52 7 AND MAKING PROVISION FOR THE PAYMENT OF THE SAME.                 
+   5    2 1               EX J 1-452     SRE       NOV. 4, 1803               
+   5    2 2 E81002        Y=9 N=22                 JACKSON, GA.               
+   5    2 3 TO ADOPT A RESOLUTION (8 STAT 206) MODIFYING THE 3RD              
+   5    2 4 ARTICLE OF THE CONVENTION BETWEEN THE U.S. AND FRANCE FOR         
+   5    2 5 THE CESSION OF THE PROVINCE OF LOUISIANA TO THE U.S, SAID         
+   5    2 6 MODIFIED RESOLUTION STIPULATING THAT THE PRESIDENT OBTAIN         
+   5    2 7 FROM FRANCE SUCH MODIFICATION OF THIS 3RD ARTICLE THAT WILL       
+   5    2 8 LEAVE THE U.S. AT LIBERTY TO MAKE SUCH FUTURE ARRANGEMENTS        
+   5    2 9 OR DISPOSITION OF THE TERRITORY OF LOUISIANA.                     
+   6   53 1 A-13-  -74    J 8-1-308      SRE       NOV. 4, 1803               
+   6   53 2 S081004A      Y=12 N=19                                           
+   6   53 3 TO CONSIDER A RESOLUTION FROM THE HOUSE WHICH PROPOSED TO         
+   6   53 4 AMEND THE CONSTITUTION BY PROPOSING TO THE LEGISLATURES OF        
+   6   53 5 THE SEVERAL STATES, THAT IN ALL FUTURE ELECTIONS OF               
+   6   53 6 PRESIDENT AND V. PRESIDENT, THE PERSONS VOTED FOR SHALL           
+   6   53 7 BE PARTICULARLY DESIGNATED, BY DECLARING WHICH IS VOTED FOR       
+   6   53 8 AS PRESIDENT, AND WHICH AS V. PRESIDENT.                          
+   7   54 1 A-13-  -76    J 8-1-51       SRE       NOV. 14, 1803              
+   7   54 2 S081004B      Y=9 N=22                 BUTLER, S.C.               
+   7   54 3 TO PROCEED TO CONSIDERATION OF THE REPORT OF THE COMM. ON         
+   7   54 4 RESOLUTIONS AMENDING THE CONSTITUTION IN THE MODE OF              
+   7   54 5 ELECTING THE PRESIDENT AND VICE PRESIDENT.                        
+   8   55 1 A-13-  -77    J 8-1-311      SRE       NOV. 14, 1803              
+   8   55 2 S081005       Y=9 N=22                                            
+   8   55 3 TO CONSIDER A REPORT FROM THE SELECT COMMITTEE ON A RESOLU-       
+   8   55 4 TION AMENDING THE CONSTITUTION.                                   
+   9    3 1               EX J 1-455A    SRE       NOV. 16, 1803              
+   9    3 2 E081003       Y=28 N=0                                            
+   9    3 3 TO ADOPT A RESOLUTION (7 STAT 80, DEC. 26, 1803) PROVIDING        
+   9    3 4 THAT THE SENATE AGREE TO RATIFICATION OF THE TREATY BETWEEN       
+   9    3 5 THE U.S. AND THE CHOCTAW NATION OF INDIANS, MADE ON               
+   9    3 6 AUGUST 31, 1803.                                                  
+  10    4 1               EX J 1-455B    SRE       NOV. 16, 1803              
+  10    4 2 E081004       Y=30 N=0                                            
+  10    4 3 TO ADOPT A RESOLUTION (7 STAT 74, DEC. 26, 1803) PROVIDING        
+  10    4 4 THAT THE SENATE AGREE TO RATIFICATION OF THE TREATY BETWEEN       
+  10    4 5 THE U.S. AND THE DELAWARES AND OTHER INDIAN TRIBES, MADE ON       
+  10    4 6 JUNE 7, 1803.                                                     
+  11    5 1               EX J 1-456A    SRE       NOV. 16, 1803              
+  11    5 2 E081005       Y=31 N=0                                            
+  11    5 3 TO RATIFY THE TREATY (7 STAT 74, DEC. 26, 1803) BETWEEN           
+  11    5 4 THE U.S. AND THE EEL RIVER AND OTHER TRIBES OF INDIANA,           
+  11    5 5 CONCLUDED AUG. 7, 1803.                                           
+  12    6 1               EX J 1-456B    SRE       NOV. 16, 1803              
+  12    6 2 E081006       Y=29 N=0                                            
+  12    6 3 TO RATIFY THE TREATY BETWEEN THE U.S. AND THE KUSKASKEAS          
+  12    6 4 TRIBE OF INDIANS.                                                 
+  13   56 1 A-13-  -124A  J 8-1-317A     SRE       NOV. 29, 1803              
+  13   56 2 S081006       Y=12 N=19                                           
+  13   56 3 TO AMEND THE REPORT OF THE SELECT COMM. ON THE RESOLUTION         
+  13   56 4 AMENDING THE CONSTITUTION; WHICH AMENDMENT PROVIDES THAT IF       
+  13   56 5 NO PERSON RECEIVED A MAJORITY OF ALL THE VOTES OF THE             
+  13   56 6 ELECTORS APPOINTED, THEN FROM THE FIVE HIGHEST ON THE LIST        
+  13   56 7 OF THOSE VOTED FOR A PRESIDENT, THE HOUSE OF REP. SHALL           
+  13   56 8 CHOOSE THE PRESIDENT.                                             
+  14   57 1 A-13-  -124B  J 8-1-317B     SRE       NOV. 29, 1803              
+  14   57 2 S081007       Y=21 N=10                                           
+  14   57 3 TO AMEND THE REPORT OF THE SELECT COMM. ON THE RESOLUTION         
+  14   57 4 AMENDING THE CONSTITUTION; WHICH AMENDMENT PROVIDES THAT IF       
+  14   57 5 NO PERSON RECEIVES A MAJORITY OF ALL THE VOTES OF THE             
+  14   57 6 ELECTORS APPOINTED, THEN FROM THE THREE HIGHEST ON THE LIST       
+  14   57 7 OF THOSE VOTED FOR AS PRESIDENT, THE HOUSE OF REP. SHALL          
+  14   57 8 CHOOSE THE PRESIDENT.                                             
+  15   58 1 A-13-  -137   J 8-1-319      SRE       DEC. 2, 1803               
+  15   58 2 S081007B      Y=22 N=10                TAYLOR, VA.                
+  15   58 3 TO AGREE TO THE AMENDMENT TO THE RESOLUTION AMENDING THE          
+  15   58 4 CONSTITUTION, WHICH AMENDMENT PROVIDES THAT IF THE HOUSE          
+  15   58 5 SHALL DEVOLVE UPON THEM BEFORE THE 4TH DAY OF MARCH NEXT          
+  15   58 6 SHALL NOT CHOOSE A PRESIDENT WHENEVER THE RIGHT OF CHOICE         
+  15   58 7 FOLLOWING, THEN THE V. PRESIDENT SHALL ACT AS PRESIDENT.          
+  16   59 1 A-13-  -209                  SRE       DEC. 2, 1803               
+  16   59 2 S081007C      Y=22 N=10                                           
+  16   59 3 TO ADOPT A RESOLUTION, REPORTED BY THE COMMITTEE, AMENDING        
+  16   59 4 THE CONSTITUTION.  (P. 209-210)                                   
+  17   60 1 A-13-  -214   J 8-1-323      SRE       DEC. 12, 1803              
+  17   60 2 S081009       Y=4 N=25                 BUTLER, S.C.               
+  17   60 3 TO AGREE TO A RESOLUTION THAT THE FOLLOWING AMENDMENT BE          
+  17   60 4 PROPOSED TO THE LEGISLATURES OF THE SEVERAL STATES AS AN          
+  17   60 5 AMENDMENT TO THE CONSTITUTION OF THE U.S., WHICH, WHEN            
+  17   60 6 RATIFIED BY 3/4 OF THE SAID LEGISLATURES, SHALL BE VALID,         
+  17   60 7 TO ALL INTENTS AND PURPOSES, AS PART OF THE SAID CONSTITU-        
+  17   60 8 TION TO WIT:  THAT NO PERSON WHO HAS BEEN TWICE                   
+  17   60 9 SUCCESSIVELY ELECTED PRESIDENT OF THE U.S. SHALL BE ELIGIBLE      
+  17   6010 AS PRESIDENT UNTIL FOUR YEARS SHALL HAVE ELAPSED; BUT ANY         
+  17   6011 CITIZEN WHO HAS BEEN PRESIDENT OF THE U.S. MAY, AFTER SUCH        
+  17   6012 INTERVENTION, BE ELIGIBLE TO THE OFFICE OF PRESIDENT FOR 4        
+  17   6013 YEARS AND NOT LONGER.                                             
+  18   61 1 A-13-  -215   J 8-1-324A     SRE       DEC. 12, 1803              
+  18   61 2 S081010       Y=7 N=23                                            
+  18   61 3 TO DIRECT THE COMMITTEE OF ENROLLED BILLS TO PRESENT TO THE       
+  18   61 4 PRESIDENT FOR APPROBATION, THE RESOLUTION WHICH HAS BEEN          
+  18   61 5 PASSED BY BOTH HOUSES OF CONGRESS, AMENDING THE CONSTITU-         
+  18   61 6 TION.                                                             
+  19   62 1 A-13-  -215   J 8-1-324B     HR        DEC. 13, 1803              
+  19   62 2 S081011       Y=13 N=17                                           
+  19   62 3 TO POSTPONE CONSIDERATION UNTIL THE SECOND MONDAY IN              
+  19   62 4 DECEMBER NEXT, OF H.R. 140, (2 STAT 248, DEC. 19, 1803) A         
+  19   62 5 BILL TO REPEAL AN ACT TO ESTABLISH UNIFORM SYSTEM OF BANK-        
+  19   62 6 RUPTCY THROUGHOUT THE U.S.                                        
+  20   63 1 A-13-- -215   J 8-1-324C     HR        DEC. 13, 1803              
+  20   63 2 S081012       Y=17 N=12                                           
+  20   63 3 TO PASS H.R. 140 (2 STAT 248, DEC. 19, 1803), A BILL TO           
+  20   63 4 REPEAL AN ACT TO ESTABLISH UNIFORM SYSTEM OF BANKRUPTCY           
+  20   63 5 THROUGHOUT THE U.S.                                               
+  21   64 1 A-13-  -216   J 8-1-325      HR        DEC. 14, 1803              
+  21   64 2 S081013       Y=9 N=17                                            
+  21   64 3 TO AMEND H.R. 139, A BILL FIXING THE SALARIES OF CERTAIN          
+  21   64 4 OFFICERS THEREIN MENTIONED, BY STRIKING OUT AFTER THE WORD        
+  21   64 5 "DOLLARS" THE WORDS, "WHICH SAID SEVERAL COMPENSATIONS WERE       
+  21   64 6 ESTABLISHED BY THE ACT PASSED MAR. 2, 1799, AND TO."              
+  22   65 1 A-13-  -217   J 8-1-326A     HR        DEC. 15, 1803              
+  22   65 2 S081014       Y=11 N=16                                           
+  22   65 3 TO AMEND H.R. 139, A BILL FIXING SALARIES, BY STRIKING OUT        
+  22   65 4 THE WORDS, "WHICH SAID SEVERAL COMPENSATIONS WERE                 
+  22   65 5 ESTABLISHED BY THE ACT PASSED MAR. 2, 1799."                      
+  23   66 1 A-13-  -217   J 8-1-326B     HR        DEC. 15, 1803              
+  23   66 2 S081015       Y=22 N=5                 BRADLEY, VT.               
+  23   66 3 TO PASS H.R. 139, A BILL FIXING SALARIES AS AMENDED.              
+  24   67 1 A-13-  -219A  J 8-1-327                DEC. 19, 1803              
+  24   67 2 S081016       Y=12 N=16                                           
+  24   67 3 TO AMEND A MOTION, THAT NO PERSON BE ADMITTED ON THE FLOOR        
+  24   67 4 OF THE SENATE CHAMBER EXCEPT MEMBERS OF THE HOUSE, FOREIGN        
+  24   67 5 MINISTERS, AND HEADS OF DEPTS. AND JUDGES OF THE SUPREME          
+  24   67 6 AND DISTRICT COURTS OF THE U.S., BY INSERTING AFTER THE WORD      
+  24   67 7 STATES- "AND THE LADIES" THUS EXTENDING THE PRIVILEGE             
+  24   67 8 OF THE FLOOR TO CERTAIN LADIES.                                   
+  25   68 1 A-13-  -219   J 8-1-328A     SRE       DEC. 19, 1803              
+  25   68 2 S081017       Y=13 N=15                                           
+  25   68 3 TO AMEND A RESOLUTION REGARDING ADMISSION TO THE SENATE           
+  25   68 4 FLOOR BY INCLUDING IN THE PRIVILEGE, THE GOVERNORS AND            
+  25   68 5 COUNSELLORS OF THE RESPECTIVE STATES, AND THE REPS. OF THE        
+  25   68 6 STATE LEGISLATURES.                                               
+  26   69 1 A-13-  -219B  J 8-1-328B     SRE       DEC. 19, 1803              
+  26   69 2 S081018       Y=7 N=31                                            
+  26   69 3 TO AGREE TO THE RESOLUTION REGARDING ADMISSION TO THE             
+  26   69 4 SENATE FLOOR.                                                     
+  27   70 1 A-13- -221    J 8-1-329      SJR       DEC. 23, 1803              
+  27   70 2 S081019       Y=9 N=11                                            
+  27   70 3 S SENATE JOINT RESOLUTION, PROVIDING THAT THE PRESIDENT OF        
+  27   70 4 THE SENATE AND SPEAKER OF THE HOUSE AUTHORIZED TO ADJOURN         
+  27   70 5 THE RESPECTIVE HOUSES OF CONGRESS, FROM THIS DAY,                 
+  27   70 6 UNTIL 1/2/1804.                                                   
+  28   71 1 A-13-  -223   J 8-1-331      HR        DEC. 29, 1803              
+  28   71 2 S081020       Y=17 N=7                 BRADLEY, VT.               
+  28   71 3 TO ADHERE TO SENATE AMENDMENTS DISAGREED TO BY THE HOUSE          
+  28   71 4 TO H.R. 139, A BILL, FIXING THE SALARIES OF CERTAIN OFFICERS      
+  28   71 5 THEREIN.                                                          
+  29   72 1 A-13-  -227A  J 8-1-334A     HR        JAN. 5, 1804               
+  29   72 2 S081021       Y=18 N=8                 SMITH, MD.                 
+  29   72 3 TO AMEND H.R. 142, (2 STAT 251, FEB. 24, 1804), A BILL            
+  29   72 4 GIVING EFFECT TO THE LAWS OF THE U.S., WITHIN THE                 
+  29   72 5 TERRITORIES CEDED TO THE U.S., BY THE TREATY OF                   
+  29   72 6 APRIL 30, 1803 BY STRIKING OUT A CLAUSE IN THE FIRST              
+  29   72 7 SECTION OF BILL, TO WIT "HERETOFORE ENACTED NOT LOCALLY           
+  29   72 8 INAPPLICABLE, AND NOW IN FORCE, AND ALL THE LAWS OF THE U.S.      
+  29   72 9 WHICH MAY HEREAFTER BE ENACTED, SHALL HAVE THE LIKE FORCE         
+  29   7210 AND EFFECT IN THE TERRITORIES CEDED TO THE U.S., BY THE           
+  29   7211 TREATY OF THE 30TH OF APRIL LAST, BETWEEN THE U.S. AND THE        
+  29   7212 FRENCH REPUBLIC, WHICH THEY HAVE, OR MAY HAVE, IN THE U.S.        
+  29   7213 UNLESS OTHERWISE SPECIALLY PROVIDED FOR."                         
+  30   73 1 A-13-  -227B  J 8-1-334B     HR        JAN. 5, 1804               
+  30   73 2 S081022       Y=11 N=16                                           
+  30   73 3 TO RE-COMMIT H.R. 142 A BILL GIVING EFFECT TO THE LAWS OF         
+  30   73 4 THE U.S., WITHIN THE TERRITORIES CEDED TO THE U.S., BY THE        
+  30   73 5 TREATY OF APRIL 30, 1803.                                         
+  31    7 1               EX J 1-462A    SRE       JAN. 9, 1804               
+  31    7 2 E081007       Y=8 N=19                                            
+  31    7 3 TO AMEND THE RESOLUTION (8 STAT 198, JAN. 9, 1804) PROVIDING      
+  31    7 4 FOR RATIFICATION OF CONVENTION BETWEEN THE U.S. AND SPAIN;        
+  31    7 5 CONCLUDED AT MADRID ON AUG. 11, 1802, BY PROVIDING THAT THIS      
+  31    7 6 CONVENTION SHALL EMBRACE ALL THE LOSSES, DAMAGES, AND             
+  31    7 7 INJURIES SUSTAINED BY THE SUBJECTS OF SPAIN AND CITIZENS          
+  31    7 8 OF THE U.S., IN CONSEQUENCE OF THE EXCESSES AND IRREGULAR-        
+  31    7 9 ITIES COMMITTED BY SPANISH SUBJECTS OR AMERICAN CITIZENS          
+  31    710 WHETHER BEING PRIVATE PERSONS, OR OFFICERS OR AGENTS OF           
+  31    711 EITHER GOVERNMENT.                                                
+  32    8 1               EX J 1-462B    SRE       JAN. 9, 1804               
+  32    8 2 E081008       Y=21 N=8                                            
+  32    8 3 TO RATIFY THE CONVENTION (8 STAT 198, JAN. 9, 1804) BETWEEN       
+  32    8 4 THE U.S. AND SPAIN CONCLUDED AT MADRID ON AUG. 11, 1802.          
+  33   74 1 A-13-  -229A  J 8-1-335      SRE       JAN. 10, 1804              
+  33   74 2 S081023       Y=4 N=22                 ADAMS, MASS.               
+  33   74 3 TO ADOPT THE FIRST RESOLUTION, STATING THAT THE PEOPLE OF         
+  33   74 4 THE U.S. HAVE NEVER, IN ANY MANNER, DELEGATED TO THIS             
+  33   74 5 SENATE THE POWER OF GIVING ITS LEGISLATIVE CONCURRENCE TO         
+  33   74 6 ANY ACT FOR IMPOSING TAXES UPON THE INHABITANTS OF                
+  33   74 7 LOUISIANA WITHOUT THEIR CONSENT.                                  
+  34   75 1 A-13-  -229B  J 8-1-336A     SRE       JAN. 10, 1804              
+  34   75 2 S081024       Y=4 N=22                 ADAMS, MASS.               
+  34   75 3 TO ADOPT THE SECOND RESOLUTION, PROVIDING THAT IN                 
+  34   75 4 CONCURRING IN ANY ACT OF LEGISLATION FOR IMPOSING TAXES           
+  34   75 5 UPON THE INHABITANTS OF LOUISIANA WITHOUT THEIR CONSENT,          
+  34   75 6 THIS SENATE WOULD ASSURE A POWER UNWARRANTED BY THE CONSTI-       
+  34   75 7 TUTION, AND DANGEROUS TO THE LIBERTIES OF THE PEOPLE OF THE       
+  34   75 8 U.S.                                                              
+  35   76 1 A-13-  -229C  J 8-1-336B     SRE       JAN. 10, 1804              
+  35   76 2 S081025       Y=0 N=26                 ADAMS, MASS.               
+  35   76 3 TO ADOPT THE 3RD RESOLUTION, PROVIDING THAT THE POWER OF          
+  35   76 4 ORIGINATING BILLS FOR RAISING REVENUE, BEING EXCLUSIVELY          
+  35   76 5 VESTED IN THE HOUSE, THESE RESOLUTIONS TO BE CARRIED TO           
+  35   76 6 THEM BY THE SEC. OF THE SENATE AND THAT WHENEVER THEY             
+  35   76 7 THINK PROPER, THEY MAY ADOPT SUCH MEASURES AS IN THEIR            
+  35   76 8 WISDOM MAY APPEAR NECESSARY AND EXPEDIENT FOR RAISING AND         
+  35   76 9 COLLECTING A REVENUE FROM LOUISIANA.                              
+  36   77 1               J 8-1-336C     S         JAN 11, 1804               
+  36   77 2 S081026       Y=7 N=20                                            
+  36   77 3 TO AMEND S. 20, (2 STAT 290, MAR. 26, 1804) A BILL IN             
+  36   77 4 ADDITION TO THE ACT, ENTITLED "AN ACT FOR THE PUNISHMENT          
+  36   77 5 OF CERTAIN CRIMES AGAINST THE U.S. BY STRIKING OUT OF THE         
+  36   77 6 BILL THE DEATH PENALTY FOR CERTAIN CRIMES COMMITTED ON THE        
+  36   77 7 HIGH SEAS.                                                        
+  37   18 1               EX J 1-51      IMP       JAN. 12, 1804              
+  37   18 2 I081001       Y=6 N=21                 TRACY, CONN.               
+  37   18 3 TO SET THE SECOND TUESDAY OF DECEMBER NEXT, AS THE DAY ON         
+  37   18 4 WHICH DEFENDANT SHALL APPEAR BEFORE THE COURT TO EXAMINE          
+  37   18 5 PRECEDENTS AND PREPARE FORMS NECESSARY IN THE TRIAL OF            
+  37   18 6 IMPEACHMENT OF JOHN PICKERING, JUDGE OF THE U.S. DISTRICT         
+  37   18 7 COURT OF N. HAMPSHIRE.                                            
+  38   19 1               EX J 1-56      IMP       JAN. 12, 1804              
+  38   19 2 I081002       Y=23 N=5                 TRACY, CONN.               
+  38   19 3 TO ADOPT THE REPORT, AS AMENDED OF THE COMM. APPOINTED, TO        
+  38   19 4 EXAMINE PRECEDENTS AND TO PREPARE THE FORMS NECESSARY IN THE      
+  38   19 5 IMPEACHMENT TRIAL.                                                
+  39   78 1 A-13-  -231   J 8-1-338      HR        JAN. 13, 1804              
+  39   78 2 S081027       Y=21 N=3                 SMITH, MD.                 
+  39   78 3 TO ADOPT THE FIRST SECTION AS AMENDED OF H.R. 142,                
+  39   78 4 (2 STAT 251, FEB. 24, 1804), A BILL GIVING EFFECT TO THE          
+  39   78 5 LAWS OF THE U.S. WITHIN THE TERRITORIES CEDED TO THE U.S.         
+  39   78 6 BY THE TREATY OF APRIL 30, 1803, WITH FRANCE; WHICH SECTION       
+  39   78 7 PLACED DUTIES ON GOODS TO BE IMPORTED INTO THE CEDED              
+  39   78 8 TERRITORIES AT THE RATES NOW IN EFFECT IN THE U.S. AND ALSO       
+  39   78 9 PUTS INTO EFFECT OTHER ACTS NECESSARY TO THE GOVERNMENT           
+  39   7810 AND PEACE OF THE TERRITORIES.  (P. 231)                           
+  40   79 1 A-13-  -232   J 8-1-339      HR        JAN. 14, 1804              
+  40   79 2 S081028       Y=21 N=3                 SMITH, MD.                 
+  40   79 3 TO PASS H.R. 142, (2 STAT 251, FEB. 24, 1804), A BILL             
+  40   79 4 LAYING AND COLLECTING DUTIES ON IMPORTS AND TONNAGE WITHIN        
+  40   79 5 THE TERRITORIES CEDED TO THE U.S. BY THE TREATY OF                
+  40   79 6 APRIL 30, 1803, WITH FRANCE AND FOR OTHER PURPOSES.               
+  41   80 1 A-13-  -233   J 8-1-340A     S         JAN. 16, 1804              
+  41   80 2 S081029       Y=12 N=18                                           
+  41   80 3 TO AMEND S. 23, (2 STAT 283, MAR. 26, 1804), A BILL               
+  41   80 4 ERECTING LOUISIANA INTO TWO TERRITORIES AND PROVIDING             
+  41   80 5 FOR THE TEMPORARY GOVERNMENT THEREOF, BY EMPOWERING THE           
+  41   80 6 LEGISLATIVE COUNCIL TO ELECT A NON-VOTING DELEGATE TO THE         
+  41   80 7 HOUSE.                                                            
+  42   81 1 A-13-  -234   J 8-1-340B     S         JAN. 16, 1804              
+  42   81 2 S081030       Y=12 N=18                                           
+  42   81 3 TO AMEND S. 23 BY STRIKING OUT THE 4TH SECTION WHICH              
+  42   81 4 PROPOSED THAT THE LEGISLATIVE POWERS SHALL BE VESTED IN THE       
+  42   81 5 GOVERNOR, AND 24 PERSONS OF THE TERRITORY TO BE CALLED            
+  42   81 6 A LEGISLATIVE COUNCIL.                                            
+  43   82 1 A-13-  -235   J 8-1-341      S         JAN. 17, 1804              
+  43   82 2 S081031       Y=11 N=16                BRECKINRIDG, KY.           
+  43   82 3 TO AMEND S. 23 BY STRIKING OUT OF THE 5TH SECTION                 
+  43   82 4 THE WORDS, "WHICH ARE CAPITAL."                                   
+  44   83 1 A-13-  -239   J 8-1-344      S         JAN. 24, 1804              
+  44   83 2 S081032       Y=15 N=14                                           
+  44   83 3 TO AMEND S. 23 BY STRIKING OUT OF THE 4TH SECTION THAT PART       
+  44   83 4 WHICH PROVIDES THAT THE LEGISLATIVE POWERS SHALL BE INVESTED      
+  44   83 5 IN THE GOVERNOR AND PERSONS TO BE CALLED THE LEGISLATIVE          
+  44   83 6 COUNCIL, APPOINTED ANNUALLY BY THE GOVERNOR.                      
+  45   84 1 A-13-  -240   J 8-1-345A     S         JAN. 26, 1804              
+  45   84 2 S081033       Y=6 N=22                                            
+  45   84 3 TO AMEND S. 23, BY STRIKING OUT OF THE AMENDMENT THE WORDS-       
+  45   84 4 "WITHOUT THE LIMITS OF THE U.S." IN ORDER TO INSERT IN LIEU       
+  45   84 5 THE WORDS "FOR SALE" SO IF AMENDED THE AMENDMENT WOULD            
+  45   84 6 FORBID THE BRINGING OF SLAVES INTO THE TERRITORIES FROM ANY       
+  45   84 7 PLACE, A DIVISION BEING CALLED FOR.                               
+  46   85 1 A-13-  -240   J 8-1-345B     S         JAN. 26, 1804              
+  46   85 2 S081034       Y=21 N=6                                            
+  46   85 3 TO AGREE TO AMENDMENT TO S. 23, WHICH AMENDMENT MAKES IT          
+  46   85 4 IT UNLAWFUL FOR ANY PERSON TO IMPORT SLAVES INTO SAID             
+  46   85 5 TERRITORY FROM ANY PLACE OUTSIDE THE U.S.                         
+  47   86 1 A-13-  -242A  J 8-1-347A     S         JAN. 30, 1804              
+  47   86 2 S081035       Y=11 N=17                                           
+  47   86 3 TO AMEND S. 23, BY ADDING TO SECTION 8, THAT NO MALE              
+  47   86 4 PERSON, BROUGHT INTO SAID TERRITORY AFTER A CERTAIN DATE CAN      
+  47   86 5 BE HELD BY LAW TO SERVE FOR MORE THAN THE TERM OF ONE YEAR        
+  47   86 6 AS A SERVANT, SLAVE, OR APPRENTICE, AFTER HE ATTAINS THE          
+  47   86 7 AGE OF 21 YEARS; NOR FEMALE AFTER SHE ATTAINS THE AGE OF 18.      
+  48   87 1 A-13-  -242B  J 8-1-347B     S         JAN. 30, 1804              
+  48   87 2 S081036A      Y=21 N=7                                            
+  48   87 3 TO AMEND S. 23, BY ADDING TO THE END OF SECTION 8, THAT IT        
+  48   87 4 SHALL BE UNLAWFUL FOR ANY PERSON TO IMPORT SLAVES INTO SAID       
+  48   87 5 TERRITORY, FROM ANY PLACE WITHIN THE U.S.                         
+  49   88 1 A-13-  -244   J 8-1-348      S         JAN. 31, 1804              
+  49   88 2 S081036B      Y=13 N=15                                           
+  49   88 3 TO AMEND S. 23 BY STRIKING OUT THE LAST DIVISION OF               
+  49   88 4 AMENDMENT WHICH PROPOSES THAT NO SLAVES SHALL BE INTRODUCED       
+  49   88 5 INTO SAID TERRITORY, EXCEPT BY BONA-FIDE OWNERS MOVING INTO       
+  49   88 6 SAID TERRITORY FOR ACTUAL SETTLEMENT.                             
+  50   89 1 A-13-  -244   J 8-1-349A     S         FEB. 1, 1804               
+  50   89 2 S081032       Y=18 N=11                ANDERSON, TENN.            
+  50   89 3 TO AMEND S. 23 BY PROVIDING THAT NO SLAVES BE DIRECTLY OR         
+  50   89 4 INDIRECTLY INTRODUCED INTO SAID TERRITORIES EXCEPT BY A           
+  50   89 5 CITIZEN OF THE U.S. REMOVING INTO SAID TERRITORY FOR ACTUAL       
+  50   89 6 SETTLEMENT AND BEING AT TIME OF REMOVAL BONA-FIDE OWNER           
+  50   89 7 OF SUCH SLAVE.                                                    
+  51   90 1 A-13-  -245   J 8-1-349B     S         FEB. 2, 1804               
+  51   90 2 S081038       Y=16 N=9                                            
+  51   90 3 TO AMEND S. 23, BY STRIKING OUT THE 8TH SECTION PROVIDING         
+  51   90 4 THAT THE RESIDUE OF THE PROVINCE OF LOUISIANA, SHALL RETAIN       
+  51   90 5 THE SAME NAME AS HERETOFORE, WITH THE SAME FORM OF GOVERN-        
+  51   90 6 MENT SAVE ONLY THAT THE EXECUTIVE AND JUDICIAL POWERS             
+  51   90 7 EXERCISED BY FORMER GOVERNMENT SHALL BE TRANSFERED TO A           
+  51   90 8 GOVERNOR APPOINTED BY THE PRESIDENT; AND THAT THE POWERS          
+  51   90 9 OF A COMMANDANT OF A POST OR DISTRICT SHALL BE VESTED IN A        
+  51   9010 CIVIL OFFICER.                                                    
+  52   91 1 A-13-  -248A  J 8-1-351      S         FEB. 7, 1804               
+  52   91 2 S081039       Y=10 N=18                                           
+  52   91 3 TO AMEND S. 23, BY STRIKING OUT OF THE PROPOSED AMENDMENT         
+  52   91 4 THE WORDS "ALL FREE MALE WHITE PERSONS, WHO ARE HOUSE-            
+  52   91 5 KEEPERS, AND WHO SHALL HAVE RESIDED ONE YEAR AT LEAST IN          
+  52   91 6 SAID TERRITORY, SHALL BE QUALIFIED TO SERVE AS GRAND OR           
+  52   91 7 PETIT JURORS IN THE COURTS OF SAID TERRITORY."                    
+  53   92 1 A-13-  -248B  J 8-1-352      S         FEB. 7, 1804               
+  53   92 2 S081040       Y=21 N=7                                            
+  53   92 3 TO AMEND S. 23, BY ADDING A FURTHER AMENDMENT PRESCRIBING         
+  53   92 4 THE METHOD OF SELECTING GRAND AND PETIT JURORS.                   
+  54    9 1               EX J 1-463A    SRE       FEB. 9, 1804               
+  54    9 2 E081009       Y=9 N=22                 ADAMS, MASS.               
+  54    9 3 TO RATIFY THE 5TH ARTICLE OF CONVENTION BETWEEN THE U.S.          
+  54    9 4 AND GREAT BRITAIN FOR FIXING THE BOUNDARIES BETWEEN THE U.S.      
+  54    9 5 AND GREAT BRITAIN.                                                
+  55   10 1               EX J 1-463B    SRE       FEB. 9, 1804               
+  55   10 2 E081010       Y=31 N=0                 ADAMS, MASS.               
+  55   10 3 TO RATIFY THE TREATY BETWEEN THE U.S. AND ENGLAND.                
+  56   93 1 A-13-  -251   J 8-1-354      S         FEB. 10, 1804              
+  56   93 2 S081041       Y=5 N=19                 ANDERSON, TENN.            
+  56   93 3 TO AMEND S. 23, BY PRESCRIBING THE TIME AND METHOD OF             
+  56   93 4 ELECTING REPRESENTATIVES FOR A GENERAL ASSEMBLY.                  
+  57   94 1 A-13-  -252A  J 8-1-355      S         FEB. 13, 1804              
+  57   94 2 S081042       Y=13 N=13                                           
+  57   94 3 TO AMEND S. 23, BY REDEFINING THE REQUIREMENTS AND METHOD         
+  57   94 4 OF ELECTING REPRESENTATIVES TO THE TERRITORIAL LEGISLATURE.       
+  58   95 1 A-13-  -252B  J 8-1-355B     HR        FEB. 13, 1804              
+  58   95 2 S081043       Y=11 N=16                BRADLEY, VT.               
+  58   95 3 TO AGREE TO AN AMENDMENT, TO H.R. 168, (2 STAT 250,               
+  58   95 4 FEB. 20, 1804), A BILL CONTINUING FOR A LIMITED TIME, THE         
+  58   95 5 SALARIES OF THE OFFICERS OF GOVERNMENT THEREIN MENTIONED.         
+  59   96 1 A-13-  -254   J 8-1-357      HR        FEB. 15, 1804              
+  59   96 2 S081044       Y=20 N=7                 BRADLEY, VT.               
+  59   96 3 TO PASS H.R. 168, (2 STAT 250, FEB. 20, 1804), A BILL             
+  59   96 4 CONTINUING FOR A LIMITED TIME THE SALARIES OF OFFICERS OF         
+  59   96 5 THE GOVERNMENT, THEREIN MENTIONED.                                
+  60   97 1 A-13-  -255A  J 8-1-358      S         FEB. 17, 1804              
+  60   97 2 S081045       Y=9 N=19                                            
+  60   97 3 TO AMEND S. 23 BY STRIKING OUT OF SECTION 10, THE WORDS-          
+  60   97 4 "AND NO SLAVE OR SLAVES, SHALL DIRECTLY OR INDIRECTLY             
+  60   97 5 BE INTRODUCED INTO SAID TERRITORY, EXCEPT BY A BONA-FIDE          
+  60   97 6 OWNER REMOVING INTO THE TERRITORY FOR ACTUAL SETTLEMENT."         
+  61   98 1 A-13-  -255B  J 8-1-359A     S         FEB. 17, 1804              
+  61   98 2 S081046       Y=11 N=17                                           
+  61   98 3 TO AMEND S. 23 BY STRIKING OUT OF SECTION 10, THE PART WHICH      
+  61   98 4 PROVIDES THAT EVERY SLAVE IMPORTED OR BROUGHT                     
+  61   98 5 INTO THE SAID TERRITORY, CONTRARY TO THE PROVISIONS OF THIS       
+  61   98 6 ACT SHALL RECEIVE HIS FREEDOM.                                    
+  62   99 1 A-13-  -255C  J 8-1-359B     S         FEB. 17, 1804              
+  62   99 2 S081047       Y=8 N=13                                            
+  62   99 3 TO AMEND S. 23, BY ADDING TO PART OF THE 10TH SECTION             
+  62   99 4 A PROVISION PROHIBITING THE IMPORTATION OF SLAVES FROM ANY        
+  62   99 5 STATE AUTHORIZING THEIR IMPORTATION FROM ANY FOREIGN PART OF      
+  62   99 6 PLACE.                                                            
+  63  100 1 A-13-  -256   J 8-1-360A     S         FEB. 18, 1804              
+  63  100 2 S081048       Y=20 N=5                 BRECKINRIDG, KY.           
+  63  100 3 TO PASS S. 23.                                                    
+  64  101 1 A-13-  -257   J 8-1-360B     SRE       FEB. 20, 1804              
+  64  101 2 S081049       Y=5 N=21                                            
+  64  101 3 TO CORRECT THE JOURNAL BY EXPUNGING THE WORDS,                    
+  64  101 4 "MR. LOGAN NOTIFIED THE SENATE THAT HE SHOULD, ON MONDAY          
+  64  101 5 NEXT, ASK LEAVE TO BRING IN A BILL LAYING A DUTY ON SLAVES        
+  64  101 6 IMPORTED INTO THE U.S."                                           
+  65  102 1 A-13-  -258   J 8-1-361      SRE       FEB. 20, 1804              
+  65  102 2 S081050       Y=21 N=10                JACKSON, GA.               
+  65  102 3 TO ADOPT A RESOLUTION THAT THE SEC. OF THE NAVY BE                
+  65  102 4 DIRECTED TO REPORT TO THIS HOUSE THE PRESENT GENERAL              
+  65  102 5 STATEMENT OF THE RECEIPTS AND EXPENDITURES OF THE COMMANDING      
+  65  102 6 OFFICER OF THE MARINE CORPS.                                      
+  66   11 1               EX J 1-465A    SRE       FEB. 24, 1804              
+  66   11 2 E081011       Y=11 N=20                                           
+  66   11 3 TO REMOVE THE INJUNCTION OF SECRECY FROM THE TREATY BETWEEN       
+  66   11 4 THE U.S. AND ENGLAND.                                             
+  67  103 1 A-13-  -262   J 8-1-366      HR        FEB. 27, 1804              
+  67  103 2 S081051       Y=13 N=17                                           
+  67  103 3 TO AMEND H.R. 138, A BILL FURTHER TO PROTECT THE SEAMEN OF        
+  67  103 4 THE U.S., BY STRIKING OUT OF THE SECOND SECTION THE WORDS-        
+  67  103 5 "WHILE ON PASSAGE TO OR FROM ANY PORT OR PLACE."                  
+  68  104 1 A-13-  -264   J 8-1-367      HR        FEB. 29, 1804              
+  68  104 2 S081052       Y=21 N=11                                           
+  68  104 3 TO POSTPONE, THE FURTHER CONSIDERATION UNTIL THE FIRST            
+  68  104 4 MONDAY IN DECEMBER NEXT, OF H.R. 138, A BILL FURTHER TO           
+  68  104 5 PROTECT THE SEAMEN OF THE UNITED STATES.                          
+  69  105 1 A-13-  -265   J 8-1-369      SRE       MAR. 2, 1804               
+  69  105 2 S081053       Y=8 N=20                 ADAMS, MASS.               
+  69  105 3 TO AGREE TO A RESOLUTION THAT ANY SENATOR HAVING PREVIOUSLY       
+  69  105 4 ACTED AND VOTED AS A MEMBER OF THE HOUSE ON A QUESTION            
+  69  105 5 OF IMPEACHMENT, IS THEREBY DISQUALIFIED TO SIT AND ACT IN         
+  69  105 6 THE SAME CASE, AS A MEMBER OF THE SENATE.                         
+  70   20 1               J 8-2-504      IMP       MAR. 5, 1804               
+  70   20 2 I081003       Y=18 N=12                                           
+  70   20 3 TO DECIDE THE QUESTION, TO HEAR EVIDENCE AND COUNSEL              
+  70   20 4 RESPECTING THE INSANITY OF J. PICKERING, UPON THE SUGGESTION      
+  70   20 5 CONTAINED IN THE PETITION OF JACOB S. PICKERING, AND THE          
+  70   20 6 LETTER OF ROBERT G. HARPER.                                       
+  71   21 1               J 8-2-71       IMP       MAR. 7, 1804               
+  71   21 2 I081004       Y=19 N=8                                            
+  71   21 3 TO HAVE THE SECRETARY INFORM THE HOUSE THAT THE COURT OF          
+  71   21 4 IMPEACHMENT IS OPEN AND READY TO RECEIVE AND HEAR THE             
+  71   21 5 MANAGERS IN SUPPORT OF THE ARTICLES OF IMPEACHMENT AGAINST        
+  71   21 6 JOHN PICKERING.                                                   
+  72   12 1               EX J 1-465B    SRE       MAR. 9, 1804               
+  72   12 2 E081012       Y=15 N=9                                            
+  72   12 3 TO CONSENT TO THE APPOINTMENT OF MERIWETHER JONES TO BE           
+  72   12 4 COMMISSIONER OF LOANS FOR VIRGINIA.                               
+  73   22 1               J 8-2-72       PROC      MAR. 9, 1804               
+  73   22 2 I081005       Y=10 N=20                                           
+  73   22 3 TO POSTPONE THE PROCEEDINGS ON THE ARTICLES OF                    
+  73   22 4 IMPEACHMENT EXHIBITED BY THE HOUSE OF REPS. AGAINST               
+  73   22 5 JOHN PICKERING TO THE -DAY OF- NEXT.                              
+  74   23 1               J 8-2-14       IMP       MAR. 10, 1804              
+  74   23 2 I08100        Y=9 N=19                                            
+  74   23 3 TO ADOPT A RESOLUTION THAT THE COURT IS NOT AT PRESENT            
+  74   23 4 PREPARED TO GIVE THEIR FINAL DECISION UPON THE ARTICLES OF        
+  74   23 5 IMPEACHMENT.                                                      
+  75  106 1 A-13-  -271   J 8-1-373      SRE       MAR. 10, 1804              
+  75  106 2 S081054       Y=20 N=9                                            
+  75  106 3 TO CONSIDER A MOTION AUTHORIZING THE SECRETARY OF THE SENATE      
+  75  106 4 TO ACQUAINT THE HOUSE THAT A COURT OF IMPEACHMENT WILL            
+  75  106 5 CONVENE ON MONDAY AT 12 O'CLOCK TO PRONOUNCE JUDGEMENT ON         
+  75  106 6 THE ARTICLES OF IMPEACHMENT AGAINST JOHN PICKERING.               
+  76   24 1               J 8-2-         IMP       MAR. 12, 1804              
+  76   24 2 I081006B      Y=18 N=9                 ANDERSON, TENN.            
+  76   24 3 TO ADOPT THE FORM OF THE QUESTION OF GUILT IN THE FOLLOWING       
+  76   24 4 MANNER: "IS JOHN PICKERING, DISTRICT JUDGE OF THE                 
+  76   24 5 DISTRICT OF N.H. GUILTY AS CHARGED IN THE -- ARTICLE              
+  76   24 6 OF IMPEACHMENT EXHIBITED AGAINST HIM BY THE HOUSE OF REPS?"       
+  77   25 1               J 8-2-75       IMP       MAR. 12, 1804              
+  77   25 2 I081007       Y=19 N=7                                            
+  77   25 3 TO DECIDE THE QUESTION, IS J. PICKERING GUILTY AS CHARGED         
+  77   25 4 IN THE FIRST ARTICLE OF IMPEACHMENT EXHIBITED AGAINST HIM         
+  77   25 5 BY THE HOUSE.                                                     
+  78   26 1               J 8-2-76A      IMP       MAR. 12, 1804              
+  78   26 2 I081008       Y=19 N=7                                            
+  78   26 3 TO DECIDE THE QUESTION, IS J. PICKERING GUILTY AS CHARGED IN      
+  78   26 4 THE SECOND ARTICLE OF IMPEACHMENT EXHIBITED AGAINST HIM BY        
+  78   26 5 THE HOUSE.                                                        
+  79   27 1               J 8-2-76B      IMP       MAR. 12, 1804              
+  79   27 2 I081009       Y=19 N=7                                            
+  79   27 3 TO DECIDE THE QUESTION, IS J. PICKERING GUILTY AS CHARGED IN      
+  79   27 4 THE THIRD ARTICLE OF IMPEACHMENT EXHIBITED AGAINST HIM BY         
+  79   27 5 THE HOUSE.                                                        
+  80   28 1               J 8-2-77       IMP       MAR. 12, 1804              
+  80   28 2 I081010       Y=19 N=7                                            
+  80   28 3 TO DECIDE THE QUESTION, IS J. PICKERING GUILTY AS CHARGED         
+  80   28 4 BY THE HOUSE.                                                     
+  81   29 1               J 8-2-78       IMP       MAR. 12, 1804              
+  81   29 2 I081011       Y=20 N=6                                            
+  81   29 3 TO DECIDE THE QUESTION TO REMOVE J. PICKERING FROM OFFICE.        
+  82  107 1 A-13-  -272   J 8-1-374      SRE       MAR. 13, 1804              
+  82  107 2 S081055       Y=11 N=15                                           
+  82  107 3 TO POSTPONE THE FURTHER CONSIDERATION UNTIL FRIDAY NEXT OF        
+  82  107 4 THE RESOLUTION OF THE HOUSE AUTHORIZING THE PRESIDENT OF THE      
+  82  107 5 SENATE AND THE SPEAKER OF THE HOUSE TO ADJOURN THEIR              
+  82  107 6 RESPECTIVE HOUSES ON THE THIRD MONDAY OF THE PRESENT MONTH.       
+  83  108 1 A-13-  -273   J 8-1-375      HR        MAR. 13, 1804              
+  83  108 2 S081056       Y=13 N=15                SMITH, OHIO                
+  83  108 3 TO AMEND H.R. 156, A BILL AUTHORIZING THE APPOINTMENT OF          
+  83  108 4 COMMISSIONERS TO EXPLORE THE ROUTES MOST ELIGIBLE FOR             
+  83  108 5 OPENING CERTAIN PUBLIC ROADS, BY INSERTING, "TO EXPLORE AND       
+  83  108 6 DESIGNATE THE MOST ELIGIBLE ROUTE FOR A TURNPIKE ROAD, TO         
+  83  108 7 LEAD FROM FORT CUMBERLAND, ON THE POTOMAC, TO WHEELING, ON        
+  83  108 8 THE OHIO."                                                        
+  84  109 1 A-13-  -275   J 8-1-377      HR        MAR. 14, 1804              
+  84  109 2 S081057       Y=14 N=12                DAYTON, N.J.               
+  84  109 3 TO AMEND H.R. 185, (2 STAT 297, MAR. 27, 1804), A BILL            
+  84  109 4 SUPPLEMENTARY TO THE ACT ENTITLED "AN ACT PROVIDING FOR A         
+  84  109 5 NAVAL PEACE ESTABLISHMENT, AND FOR OTHER PURPOSES"                
+  84  109 6 BY STRIKING OUT THE 3RD SECTION OF THE BILL REPEALING THE         
+  84  109 7 ACT, FIXING THE RANK AND PAY OF THE COMMANDING OFFICER            
+  84  109 8 OF THE CORPS OF MARINES; (APP. APRIL 22, 1800), AND               
+  84  109 9 AUTHORIZING THE PRESIDENT TO MAKE SUCH REDUCTIONS IN THE          
+  84  10910 OFFICERS OF THE MARINE CORPS AS HE MAY DEEM EXPEDIENT.            
+  85  110 1 A-13-  -281   J 8-1-382      HR        MAR. 19, 1804              
+  85  110 2 S081058A      Y=17 N=10                                           
+  85  110 3 TO AMEND H.R. 176, (2 STAT 275, MAR. 26, 1804), A BILL TO         
+  85  110 4 ALTER AND ESTABLISH CERTAIN POST ROADS; BY ADDING THAT            
+  85  110 5 TWO POSTS SHALL BE LAID OUT, ONE TO LEAD FROM TELLICO             
+  85  110 6 BLOCK HOUSE, IN THE STATE OF TENNESSEE, AND THE OTHER FROM        
+  85  110 7 JACKSON COURT-HOUSE, IN THE STATE OF GEORGIA, BY ROUTES           
+  85  110 8 THE MOST ELIGIBLE, TO NEW ORLEANS.                                
+  86  111 1 A-13-  -284   J 8-1-383      S         MAR. 19, 1804              
+  86  111 2 S081058B      Y=3 N=24                                            
+  86  111 3 TO POSTPONE, UNTIL THE FIRST MONDAY IN MAY NEXT, THE FURTHER      
+  86  111 4 CONSIDERATION OF THE BILL, FOR THE TEMPORARY REMOVAL OF THE       
+  86  111 5 SEAT OF GOVERNMENT OF THE U.S. TO THE CITY OF BALTIMORE.          
+  86  111 6 (P. 282)                                                          
+  87  112 1 A-13-  -288   J 8-1-383      S         MAR. 19, 1804              
+  87  112 2 S081059       Y=9 N=19                 WRIGHT, MD.                
+  87  112 3 TO ORDER A 3RD READING OF THE SENATE BILL, FOR THE TEMPORARY      
+  87  112 4 REMOVAL OF THE SEAT OF THE U.S. GOVERNMENT TO BALTIMORE.          
+  88  113 1 A-13-  -290A  J 8-1-385A     S         MAR. 20, 1804              
+  88  113 2 S081060       Y=6 N=22                                            
+  88  113 3 TO AGREE TO AN AMENDMENT OF THE HOUSE TO S. 23, WHICH HOUSE       
+  88  113 4 AMENDMENT PROPOSES TO STRIKE OUT THE 4TH SECTION AND INSERT       
+  88  113 5 A NEW SECTION, TO WIT,"THE LEGISLATIVE POWERS SHALL BE            
+  88  113 6 VESTED IN THE GOVERNOR, AND IN 13 OF THE MOST FIT AND             
+  88  113 7 DISCREET PERSONS OF THE TERRITORY, TO BE CALLED THE               
+  88  113 8 LEGISLATIVE COUNCIL, WHO SHALL BE APPOINTED BY THE                
+  88  113 9 PRESIDENT FROM AMONG THOSE HOLDING REAL ESTATE THEREIN,           
+  88  11310 AND WHO HAVE RESIDED ONE YEAR AT LEAST, IN THE SAID               
+  88  11311 TERRITORY, AND HOLD NO OFFICE OF PROFIT UNDER THE TERRITORY       
+  88  11312 OR THE U.S.  AFTER THE TEMPORARY GOVERNMENT IS ORGANIZED,         
+  88  11313 THE MEMBERS OF THE LEGISLATIVE COUNCIL SHALL BE CHOSEN            
+  88  11314 ANNUALLY BY ALL THE FREE, WHITE MALE PERSONS OF THE AGE OF        
+  88  11315 21 YEARS, WHO WERE RESIDENT IN SAID TERRITORY,                    
+  88  11316 APRIL 30, 1803.                                                   
+  89  114 1 A-13-  -290B  J 8-1-385B     S         MAR. 20, 1804              
+  89  114 2 S081061       Y=1 N=27                                            
+  89  114 3 TO AGREE TO AN AMENDMENT OF THE HOUSE TO S. 23, WHICH HOUSE       
+  89  114 4 AMENDMENT ADDS TO SECTION 14, A PROVISION NULLIFYING ALL          
+  89  114 5 TITLES AND GRANTS OF LAND ISSUED BY SPAIN IN THE                  
+  89  114 6 LOUISIANA TERRITORY.                                              
+  90  115 1 A-13-  -292A  J 8-1-386      S         MAR. 21, 1804              
+  90  115 2 S081062       Y=16 N=7                                            
+  90  115 3 TO AMEND S. 30, (2 STAT 283, MAR. 26, 1804), A BILL MAKING        
+  90  115 4 FURTHER APPROPRIATIONS FOR THE PURPOSE OF EXTINGUISHING THE       
+  90  115 5 INDIAN CLAIMS IN TENNESSEE AND KENTUCKY BY CHANGING THE           
+  90  115 6 TITLE OF THE BILL, TO READ FOR THE PURPOSE OF EXTINGUISHING       
+  90  115 7 INDIAN CLAIMS.                                                    
+  91  116 1 A-13-  -292B  J 8-1-387      S         MAR. 21, 1804              
+  91  116 2 S081063       Y=10 N=18                COCKE, TENN.               
+  91  116 3 TO ORDER ENGROSSMENT AND A THIRD READING OF THE BILL,             
+  91  116 4 GRANTING COMPENSATION TO THE MILITIA OF TENNESSEE WHO             
+  91  116 5 MARCHED TO NATCHEZ UNDER THE COMMAND OF                           
+  91  116 6 COLONEL GEORGE DOHERTY.                                           
+  92  117 1 A-13-  -297   J 8-1-391      S         MAR. 23, 1804              
+  92  117 2 S081064       Y=15 N=9                 JACKSON, GA.               
+  92  117 3 TO AGREE TO THE REPORT OF COMMITTEE OF CONFERENCE, ON             
+  92  117 4 S. 23, WHICH REPORT SUBJOINS TO THE AMENDMENT TO SEC. 14,         
+  92  117 5 A PROVISO SUPPORTING ANY BONA FIDE GRANT OF THE SPANISH           
+  92  117 6 GOVERNMENT TO A SETTLER PRIOR TO DEC. 20, 1803.                   
+  93  118 1 A-13-  -298   J 8-1-392      PROC      MAR. 24, 1804              
+  93  118 2 S081065       Y=3 N=21                                            
+  93  118 3 TO ADJOURN TIL 11 O'CLOCK TOMORROW MORNING.                       
+  94  119 1 A-13-  -300   J 8-1-395A     HR        MAR. 24, 1804              
+  94  119 2 S081066       Y=8 N=17                                            
+  94  119 3 TO AMEND H.R. 219, (2 STAT 291, MAR. 26, 1804), A BILL            
+  94  119 4 FURTHER TO PROTECT THE COMMERCE AND SEAMEN OF THE U.S.            
+  94  119 5 AGAINST THE BARBARY POWERS; BY STRIKING OUT OF THE FIRST          
+  94  119 6 SECTION THE WORDS "TWO AND A HALF PER CENTUM AD VALOREM."         
+  95  120 1 A-13-  -301A  J 8-1-395B     HR        MAR. 24, 1804              
+  95  120 2 S081067       Y=10 N=16                                           
+  95  120 3 TO ADHERE TO THE 16TH AMENDMENT OF THE SENATE DISAGREED           
+  95  120 4 TO BY THE HOUSE, H.R. 176, (2 STAT 275, MAR. 26, 1804) A          
+  95  120 5 BILL TO ALTER AND ESTABLISH CERTAIN POST ROADS, AND FOR           
+  95  120 6 OTHER PURPOSES.                                                   
+  96  121 1 A-13-  -301   J 8-1-396A     HR        MAR. 24, 1804              
+  96  121 2 S081068       Y=12 N=12                                           
+  96  121 3 TO ADHERE TO THE SENATE AMENDMENT, DISAGREED TO BY THE HOUSE      
+  96  121 4 TO H.R. 214, (2 STAT 298, MAR. 27, 1804), A BILL CONCERNING       
+  96  121 5 THE PUBLIC BUILDINGS AT THE CITY OF WASHINGTON.  (P. 301)         
+  97  122 1 A-13-  -301B  J 8-1-396B     HR        MAR. 25, 1804              
+  97  122 2 S081069       Y=9 N=14                                            
+  97  122 3 TO POSTPONE, UNTIL THE NEXT SESSION OF CONGRESS, FURTHER          
+  97  122 4 CONSIDERATION OF H.R. 214, (2 STAT 298, MAR. 27, 1804)            
+  97  122 5 A BILL CONCERNING THE PUBLIC BUILDINGS AT THE CITY OF             
+  97  122 6 WASHINGTON.                                                       
+  98  123 1               J 8-1-397A     HR        MAR. 26, 1804              
+  98  123 2 S081070       Y=8 N=18                                            
+  98  123 3 TO AMEND H.R. 219, (2 STAT 291, MAR. 26, 1804) BY STRIKING        
+  98  123 4 OUT THE SECOND SECTION WHICH PROPOSES THAT A DISTINCT             
+  98  123 5 ACCOUNT BE KEPT OF THE DUTIES IMPOSED BY THIS ACT, AND SAID       
+  98  123 6 DUTIES CONSISTING OF AN EXTRA 2 1/2% ON ALL GOODS PAYING          
+  98  123 7 ON AD VALOREM DUTY, TO BE USED AGAINST THE BARBARY PIRATES.       
+  99  124 1 A-13-  -302   J 8-1-397B     HR        MAR. 26, 1804              
+  99  124 2 S081071       Y=8 N=17                                            
+  99  124 3 TO AMEND H.R. 219 BY REDUCING TO 1/2%, FROM 2 1/2%, THE           
+  99  124 4 EXTRA DUTY ON ALL GOODS PAYING AD VALOREM DUTY.                   
+ 100  125 1 A-13-  -303   J 8-1-398A     HR        MAR. 26, 1804              
+ 100  125 2 S081072       Y=7 N=20                                            
+ 100  125 3 TO AMEND H.R. 219, BY STRIKING OUT OF THE FIRST SECTION THAT      
+ 100  125 4 PART LAYING ADDITIONAL DUTIES OF 2 1/2%, AND 10% EXTRA ON         
+ 100  125 5 GOODS IMPORTED IN FOREIGN VESSELS.                                
+ 101  126 1 A-13-  -303   J 8-1-398B     HR        MAR. 26, 1804              
+ 101  126 2 S081073       Y=20 N=5                 SMITH, MD.                 
+ 101  126 3 TO PASS H.R. 219                                                  
+ 102  127 1 A-13-  -304   J 8-1-399      HR        MAR. 26, 1804              
+ 102  127 2 S081074       Y=6 N=15                 SMITH, OHIO                
+ 102  127 3 TO POSTPONE, UNTIL THE NEXT SESSION OF CONGRESS, FURTHER          
+ 102  127 4 CONSIDERATION OF THE REPORT OF THE SELECT COMMITTEE, ON           
+ 102  127 5 H.R. 156, A BILL AUTHORIZING THE APPOINTMENT OF                   
+ 102  127 6 COMMISSIONERS TO EXPLORE THE ROUTES MOST ELIGIBLE FOR             
+ 102  127 7 OPENING CERTAIN PUBLIC ROADS.                                     
+ 103  128 1 A-13-  -306   J 8-1-402A     HR        MAR. 27, 1804              
+ 103  128 2 S081075       Y=5 N=19                                            
+ 103  128 3 TO POSTPONE, UNTIL THE NEXT SESSION OF CONGRESS, FURTHER          
+ 103  128 4 CONSIDERATION OF H.R. 214, (2 STAT 298, MAR. 27, 1804)            
+ 103  128 5 A BILL CONCERNING THE PUBLIC BUILDINGS AT THE CITY OF WASH.       
+ 104  129 1 A-13-  -306   J 8-1-402B     HR        MAR. 27, 1804              
+ 104  129 2 S081076       Y=17 N=7                                            
+ 104  129 3 TO RECEDE FROM SENATE AMENDMENT, DISAGREED TO BY THE HOUSE,       
+ 104  129 4 TO H.R. 214, (2 STAT 298, MAR. 27, 1804), A BILL CONCERNING       
+ 104  129 5 THE PUBLIC BUILDINGS AT THE CITY OF WASHINGTON.                   
+ 105   13 1               EX J 1-475A    SRE       NOV. 27, 1804              
+ 105   13 2 E082001       Y=23 N=0                                            
+ 105   13 3 TO RATIFY THE TREATY (7 STAT 81, FEB. 14, 1805) BETWEEN           
+ 105   13 4 THE U.S. AND THE DELAWARE INDIANS, FOR THE EXTINGUISHMENT         
+ 105   13 5 OF THEIR TITLE TO A TRACT OF COUNTRY BETWEEN THE OHIO AND         
+ 105   13 6 WABASH RIVERS, CONCLUDED AT VINCENNES ON AUG. 18, 1804.           
+ 106   14 1               EX J 1-475B    SRE       NOV. 27, 1804              
+ 106   14 2 E082002       Y=24 N=0                                            
+ 106   14 3 TO RATIFY THE TREATY (7 STAT 83, FEB. 6, 1805) BETWEEN THE        
+ 106   14 4 U.S. AND THE PIANKESHAW INDIANS, CONCLUDED AT VINCENNES ON        
+ 106   14 5 AUG. 27, 1804.                                                    
+ 107   30 1 A-14-  -99A   J 8-2-99       IMP       JAN. 3, 1805               
+ 107   30 2 I082001       Y=20 N=10                GILES, VA.                 
+ 107   30 3 TO AMEND THE MOTION MADE BY STEPHEN R. BRADLEY (D-VT) BY          
+ 107   30 4 ELIMINATING AFTER THE WORD "ORDERED" THE FOLLOWING WORDS          
+ 107   30 5 "THAT SAMUEL CHASE FILE HIS ANSWER WITH THE SEC. OF THE           
+ 107   30 6 SENATE, TO THE SEVERAL ARTICLES OF IMPEACHMENT EXHIBITED          
+ 107   30 7 AGAINST HIM BY THE HOUSE OF REPS; A MOTION MADE DURING            
+ 107   30 8 CONSIDERATION OF THE IMPEACHMENT OF SAMUEL CHASE, ONE OF THE      
+ 107   30 9 ASSOCIATE JUSTICES OF THE SUPREME COURT.                          
+ 108   31 1 A-14-  -99B   J 8-2-100A     IMP       JAN. 3, 1805               
+ 108   31 2 I08200        Y=22 N=8                 GILES, VA.                 
+ 108   31 3 TO AMEND THE ORDER OF THE IMPEACHMENT TRIAL OF                    
+ 108   31 4 SAMUEL CHASE BY SETTING A DATE (AT THE DISCRETION OF THE          
+ 108   31 5 SENATE) FOR RECEIVING THE ANSWER AND PROCEEDING TO THE            
+ 108   31 6 TRIAL.  (P. 99)                                                   
+ 109   32 1 A-14-  -99C   J 8-2-100B     IMP       JAN. 3, 1805               
+ 109   32 2 I082003       Y=12 N=18                TRACY, CONN.               
+ 109   32 3 TO AMEND THE ORDER RELATING TO IMPEACHMENT PROCEEDINGS            
+ 109   32 4 AGAINST SAMUEL CHASE, BY FIXING THE FIRST MONDAY OF DEC.          
+ 109   32 5 NEXT AS THE DAY FOR RECEIVING HIS ANSWER AND PROCEEDING TO        
+ 109   32 6 THE TRIAL.  (P. 99)                                               
+ 110   33 1 A-14-  -100A  J 8-2-101A     IMP       JAN. 3, 1805               
+ 110   33 2 I082004       Y=22 N=8                 BRECKINRIDG, KY.           
+ 110   33 3 TO AMEND THE ORDER RELATING TO IMPEACHMENT PROCEEDINGS            
+ 110   33 4 AGAINST SAMUEL CHASE, BY FIXING FEB. 4TH NEXT AS THE DAY          
+ 110   33 5 FOR RECEIVING HIS ANSWER.  (P. 100)                               
+ 111   34 1 A-14-  -100B  J 8-2-101B     IMP       JAN. 3, 1805               
+ 111   34 2 I082005       Y=21 N=9                 GILES, VA.                 
+ 111   34 3 TO AGREE TO THE ORDER, AS AMENDED, SETTING THE 4TH DAY OF         
+ 111   34 4 FEB. NEXT AS THE DAY OF RECEIVING SAMUEL CHASE'S ANSWER           
+ 111   34 5 AND COMMENCING HIS TRIAL OF IMPEACHMENT.  (P. 100)                
+ 112  130 1 A-14-  -34    J 8-2-433      HR        JAN. 11, 1805              
+ 112  130 2 S082001       Y=12 N=18                MITCHILL, N.Y.             
+ 112  130 3 TO AMEND H.R. 5, (2 STAT 342, MAR. 3, 1805), A BILL FOR           
+ 112  130 4 CLEARANCE OF ARMED MERCHANT VESSELS, BY PROVIDING THAT            
+ 112  130 5 BEFORE CLEARANCE PAPERS ARE GIVEN, BOND GIVEN BY VESSEL           
+ 112  130 6 OWNERS, BE INCREASED $10,000.  TO BE FORFEITED IF ARMS ARE        
+ 112  130 7 USED EXCEPT IN SELF-DEFENCE.  (P. 34)                             
+ 113   15 1               EX J 1-481     SRE       JAN. 17, 1805              
+ 113   15 2 E082003       Y=25 N=3                                            
+ 113   15 3 TO RATIFY THE TREATY (7 STAT 84, FEB. 21, 1805) BETWEEN THE       
+ 113   15 4 U.S. AND THE SAC AND FOX INDIANS, MADE AT ST. LOUIS ON            
+ 113   15 5 NOV. 3, 1804.                                                     
+ 114  131 1 A-14-  -37A   J 8-2-425      HR        JAN. 17, 1805              
+ 114  131 2 S082002       Y=20 N=8                 MITCHILL, N.Y.             
+ 114  131 3 TO PASS H.R. 19, (6 STAT 56, JAN. 23, 1805), A BILL RELATING      
+ 114  131 4 TO THE CLAIM OF CHARLOTTE HAZEN, WIDOW OF                         
+ 114  131 5 BRIGADIER GENERAL MOSES HAZEN.  (P. 37)                           
+ 115  132 1 A-14-  -37B   J 8-2-436A     HR        JAN. 18, 1805              
+ 115  132 2 S082003       Y=16 N=10                                           
+ 115  132 3 TO AMEND THE BILL, CONCERNING PUBLIC ROADS, BY STRIKING THE       
+ 115  132 4 WORDS "ONE TWENTIETH PART" IN FIRST SECTION.  (P. 37)             
+ 116  133 1 A-14-  -37C   J 8-2-436B     HR        JAN. 18, 1805              
+ 116  133 2 S082004       Y=14 N=11                WORTHINGTON, OHIO          
+ 116  133 3 TO AMEND THE BILL, CONCERNING PUBLIC ROADS; BY INSERTING          
+ 116  133 4 IN THE FIRST SECTION THE WORDS, "REMAINING TWO PERCENT."          
+ 116  133 5 (P. 37)                                                           
+ 117  134 1 A-14-  -39    J 8-2-437      PET       JAN. 21, 1805              
+ 117  134 2 S082005       Y=19 N=9                 LOGAN, PA.                 
+ 117  134 3 TO RECEIVE PETITION OF QUAKERS IN PENNSYLVANIA, AND               
+ 117  134 4 NEW JERSEY, TO PLEAD CAUSE OF THE SLAVES.  (P. 39)                
+ 118  135 1 A-14-  -43    J 8-2-441      S         JAN. 26, 1805              
+ 118  135 2 S082006       Y=12 N=11                ADAMS, MASS.               
+ 118  135 3 TO ORDER THIRD READING, OF S. 6, (2 STAT 345, MAR. 3, 1805),      
+ 118  135 4 A BILL IN ADDITION TO AN ACT TO MAKE PROVISION FOR PERSONS        
+ 118  135 5 THAT HAVE BEEN DISABLED BY KNOWN WOUNDS RECEIVED IN THE           
+ 118  135 6 ACTUAL SERVICE OF THE U.S. DURING THE REVOLUTIONARY WAR.          
+ 118  135 7 (P. 43)                                                           
+ 119  136 1 A-14-  -44    J 8-2-442      SRE       JAN. 28, 1805              
+ 119  136 2 S082007       Y=30 N=1                                            
+ 119  136 3 TO ADOPT A RESOLUTION, REQUESTING THE PRESIDENT TO LAY            
+ 119  136 4 BEFORE THE SENATE, DOCUMENTS AND PAPERS RELATIVE TO               
+ 119  136 5 COMPLAINTS AGAINST ARRIVING MERCHANT SHIPS, AND THE CONDUCT       
+ 119  136 6 OF CAPTAINS AND CREWS OF SUCH SHIPS AS HAVE BEEN ARRIVED.         
+ 119  136 7 (P. 44)                                                           
+ 120  137 1 A-14-  -47    J 8-2-444      PET       JAN. 30, 1805              
+ 120  137 2 S082008       Y=16 N=15                                           
+ 120  137 3 TO REFER TO SELECT COMMITTEE, THE PETITION OF                     
+ 120  137 4 ANDREW JACKSON TO AMEND ARTICLES AND RULES OF THE ARMY IN         
+ 120  137 5 RESPECT TO DRESS AND UNIFORMS.  (P. 47)                           
+ 121   16 1               EX J 1-483A    SRE       FEB. 2, 1805               
+ 121   16 2 E082004       Y=11 N=20                                           
+ 121   16 3 TO ADOPT A SUBSTITUTE RESOLUTION RELATIVE TO RATIFICATION OF      
+ 121   16 4 INDIANS, AT THE AGENCY NEAR FLINT RIVER ON NOV. 3, 1904;          
+ 121   16 5 TREATY MADE BETWEEN THE U.S. AND THE CREEK NATION OF              
+ 121   16 6 WHICH SUBSTITUTTE PROPOSES THAT FURTHER CONSIDERATION OF          
+ 121   16 7 THIS TREATY BE POSTPONED UNTIL THE FIRST MONDAY IN DECEMBER       
+ 121   16 8 NEXT, AND THAT THE PRESIDENT ENTER INTO FURTHER NEGOTIATIONS      
+ 121   16 9 WITH THE CREEK INDIANS IN ORDER TO EFFECT, IF POSSIBLE, SUCH      
+ 121   1610 MODIFICATION OF THE TERMS, PRICE AND MODE OF PAYMENT AS MAY       
+ 121   1611 BE MORE CONFORMABLE TO THE POLICY AND INTEREST OF THE U.S.        
+ 122   17 1               EX J 1-483B    SRE       FEB. 2, 1805               
+ 122   17 2 E082005       Y=12 N=19                                           
+ 122   17 3 TO RATIFY THE TREATY BETWEEN THE U.S. AND THE CREEK NATION        
+ 122   17 4 OF INDIANS, CONCLUDED ON NOV. 3, 1804.                            
+ 123  138 1 A-14-  -47A   J 8-2-446A     HR        FEB. 5, 1805               
+ 123  138 2 S082009       Y=13 N=16                MITCHILL, N.Y.             
+ 123  138 3 TO STRIKE OUT ALL OF H.R. 5, (2 STAT 342, MAR. 3, 1805),          
+ 123  138 4 A BILL REGULATING THE CLEARANCE OF ARMED MERCHANT VESSELS,        
+ 123  138 5 AFTER THE ENACTING CLAUSE.  (P. 49)                               
+ 124  139 1 A-14-  -49B   J 8-2-446B     HR        FEB. 5, 1805               
+ 124  139 2 S082010       Y=12 N=22                MITCHILL, N.Y.             
+ 124  139 3 TO AMEND H.R. 5, BY PROVIDING THAT THE VESSEL'S OWNER POST        
+ 124  139 4 A BOND OF $7000 INSTEAD OF THE DOUBLE VALUE OF THE VESSEL         
+ 124  139 5 AS A SECURITY THAT ARMS WILL NOT BE USED EXCEPT IN                
+ 124  139 6 SELF-DEFENSE.  (P. 49)                                            
+ 125  140 1 A-14-  -50    J 8-2-447A     HR        FEB. 6, 1805               
+ 125  140 2 S082011       Y=13 N=20                MITCHILL, N.Y.             
+ 125  140 3 TO AMEND H.R. 5, BY MAKING THE ACT EFFECTIVE                      
+ 125  140 4 WHEN APPROVED BY THE PRESIDENT, AND NOT AFTER DUE NOTICE          
+ 125  140 5 HAS BEEN GIVEN TO THE VARIOUS CUSTOM HOUSES.  (P. 50)             
+ 126  141 1 A-14-  -51    J 8-2-447B     HR        FEB. 6, 1805               
+ 126  141 2 S082012       Y=26 N=6                 SMITH, N.Y.                
+ 126  141 3 TO PASS H.R. 33, (2 STAT 315, FEB. 14, 1805), A BILL              
+ 126  141 4 AUTHORIZING THE POSTMASTER GENERAL TO MAKE A NEW CONTRACT         
+ 126  141 5 FOR CARRYING MAIL FROM FAYETTEVILLE, N. CAROLINA, TO              
+ 126  141 6 CHARLESTON, S. CAROLINA.  (P. 51)                                 
+ 127   35 1               J 8-2-106      IMP       FEB. 7, 1805               
+ 127   35 2 I082006       Y=34 N=0                                            
+ 127   35 3 TO INSTRUCT THE SEC. OF THE SENATE TO INFORM THE HOUSE            
+ 127   35 4 THAT THE SENATE WILL TOMORROW, AT 12 O'CLOCK, PROCEED             
+ 127   35 5 TO THE TRIAL OF THE IMPEACHMENT OF SAMUEL CHASE.                  
+ 128   36 1               J 8-2-109      IMP       FEB. 11, 1805              
+ 128   36 2 I082007       Y=0 N=34                                            
+ 128   36 3 TO DECIDE THE COMPETENCE OF THE MANAGERS OF THE IMPEACHMENT       
+ 128   36 4 TRIAL OF SAMUEL CHASE, TO ASK THE WITNESS A CERTAIN               
+ 128   36 5 QUESTION.                                                         
+ 129   37 1               J 8-2-110      IMP       FEB. 11, 1805              
+ 129   37 2 I082008       Y=16 N=18                                           
+ 129   37 3 TO DECIDE WHETHER, IN THE IMPEACHMENT TRIAL OF SAMUEL CHASE       
+ 129   37 4 THE WITNESS BE PERMITTED TO MAKE USE OF PAPER CONTAINING          
+ 129   37 5 A STATEMENT OF FACTS PREPARED BY HIMSELF AND OTHER                
+ 129   37 6 GENTLEMEN.                                                        
+ 130  142 1 A-14-  -58    J 8-2-454      SRE       FEB. 14, 1805              
+ 130  142 2 S082013       Y=9 N=22                                            
+ 130  142 3 TO AGREE TO THE RESOLUTION PROVIDING THAT IN AN                   
+ 130  142 4 IMPEACHMENT TRIAL, UPON A QUESTION BEING REFERRED TO THE          
+ 130  142 5 DECISION OF THE SENATE, IN CASE IT BE REQUIRED BY A               
+ 130  142 6 MAJORITY OF THE MEMBERS PRESENT, THE SENATE SHALL RETURN TO       
+ 130  142 7 THEIR CHAMBERS, WHEREUPON THE QUESTION TO BE DECIDED SHALL        
+ 130  142 8 BE STATED BY THE PRESIDENT, AND EACH MEMBER SHALL BE              
+ 130  142 9 AT LIBERTY TO STATE THE REASONS FOR HIS OPINION BUT SHALL         
+ 130  14210 NOT BE ALLOWED TO SPEAK MORE THAN ONCE.  AFTER THE MEMBERS        
+ 130  14211 HAVE DELIVERED THEIR OPINIONS, THE SENATE SHALL RETURN TO         
+ 130  14212 THEIR JUDICIAL CHAMBER, WHERE THE QUESTION SHALL BE               
+ 130  14213 DETERMINED BY YEAS AND NAYS.                                      
+ 131   38 1               J 8-2-115      IMP       FEB. 15, 1805              
+ 131   38 2 I082009       Y=95 N=25                                           
+ 131   38 3 TO DECIDE THE COMPETENCY OF COUNSEL IN THE IMPEACHMENT TRIAL      
+ 131   38 4 FOR JUDGE SAMUEL CHASE TO ASK A CERTAIN QUESTION.                 
+ 132   39 1               J 8-2-116      IMP       FEB. 15, 1805              
+ 132   39 2 I082010       Y=32 N=2                                            
+ 132   39 3 TO DECIDE IF THE COURT SHALL EXAMINE EVIDENCE, FOR THE            
+ 132   39 4 PURPOSE OF REBUTTING TESTIMONY WHICH SHOWED THAT JUDGE CHASE      
+ 132   39 5 HAD A CORRUPT INTENTION TO PACK A JURY, IN THE TRIAL OF           
+ 132   39 6 CALLENDAR.                                                        
+ 133  143 1 A-14-  -60    J 8-2-456      S         FEB. 16, 1805              
+ 133  143 2 S082014       Y=8 N=24                                            
+ 133  143 3 TO STRIKE OUT ALL AFTER THE ENACTING CLAUSE OF S. 8,              
+ 133  143 4 (2 STAT 322, MAR. 2, 1805), A BILL FURTHER PROVIDING FOR          
+ 133  143 5 THE GOVERNMENT OF THE TERRITORY OF ORLEANS.  (P. 60)              
+ 134  144 1 A-14-  -62    J 8-2-458      HR        FEB. 19, 1805              
+ 134  144 2 S082015       Y=16 N=18                                           
+ 134  144 3 TO AMEND H.R. 5, BY PUNISHING ALL UNLAWFUL ACTS COMMITTED         
+ 134  144 4 BY ARMED VESSELS ON HIGH SEAS THE SAME AS IF COMMITTED            
+ 134  144 5 WITHIN THE EXCLUSIVE JURISDICTION OF THE U.S.  (P. 62)            
+ 135  145 1 A-14-  -63    J 8-2-459      HR        FEB. 22, 1805              
+ 135  145 2 S082016       Y=20 N=8                 MITCHILL, N.Y.             
+ 135  145 3 TO PASS H.R. 5.  (P. 63)                                          
+ 136   40 1               J 8-2-124      IMP       FEB. 25, 1805              
+ 136   40 2 I082011       Y=21 N=11                                           
+ 136   40 3 TO DECIDE TO SWEAR HUGH HOLMES AS A WITNESS.                      
+ 137   41 1               J 8-2-126      IMP       FEB. 27, 1805              
+ 137   41 2 I082012       Y=32 N=0                                            
+ 137   41 3 TO PROVIDE THAT THE SENATE WILL ON FRIDAY NEXT AT                 
+ 137   41 4 12 O'CLOCK, PROCEED ON THE TRIAL OF THE ARTICLES OF               
+ 137   41 5 IMPEACHMENT EXHIBITED BY THE HOUSE AGAINST SAMUEL CHASE.          
+ 138   42 1               J 8-2-129      IMP       FEB. 27, 1805              
+ 138   42 2 I082013       Y=16 N=18                                           
+ 138   42 3 TO DECIDE WHETHER SAMUEL CHASE IS GUILTY OR NOT GUILTY            
+ 138   42 4 A HIGH CRIME OR MISDEMEANOR AS CHARGED IN THE FIRST               
+ 138   42 5 ARTICLE OF THE IMPEACHMENT.                                       
+ 139   43 1               J 8-2-130      IMP       FEB. 27, 1805              
+ 139   43 2 I082014       Y=10 N=24                                           
+ 139   43 3 TO DECIDE WHETHER SAMUEL CHASE IS GUILTY OR NOT GUILTY OF         
+ 139   43 4 A HIGH CRIME OR MISDEMEANOR AS CHARGED IN THE 2ND ARTICLE         
+ 139   43 5 OF IMPEACHMENT.                                                   
+ 140   44 1               J 8-2-131      IMP       FEB. 27, 1805              
+ 140   44 2 I082015       Y=18 N=16                                           
+ 140   44 3 TO DECIDE WHETHER SAMUEL CHASE IS GUILTY OR NOT GUILTY OF A       
+ 140   44 4 HIGH CRIME OR MISDEMEANOR, AS CHARGED IN THE 3RD ARTICLE OF       
+ 140   44 5 IMPEACHMENT.                                                      
+ 141   45 1               J 8-2-133      IMP       FEB. 27, 1805              
+ 141   45 2 I082016       Y=18 N=16                                           
+ 141   45 3 TO DECIDE WHETHER SAMUEL CHASE IS GUILTY OR NOR GUILTY            
+ 141   45 4 OF A HIGH CRIME OR MISDEMEANOR, AS CHARGED IN THE 4TH             
+ 141   45 5 ARTICLE OF IMPEACHMENT.                                           
+ 142   46 1               J 8-2-134      IMP       FEB. 27, 1805              
+ 142   46 2 I082017       Y=0 N=34                                            
+ 142   46 3 TO DECIDE WHETHER SMAUEL CHASE IS GUILTY OR NOT GUILTY OF A       
+ 142   46 4 HIGH CRIME OR MISDEMEANOR, AS CHARGED IN THE 5TH ARTICLE OF       
+ 142   46 5 THE IMPEACHMENT.                                                  
+ 143   47 1               J 8-2-136      IMP       FEB. 27, 1805              
+ 143   47 2 I082018       Y=4 N=30                                            
+ 143   47 3 TO DECIDE WHETHER SAMUEL CHASE IS GUILTY OR NOT GUILTY            
+ 143   47 4 OF A HIGH CRIME OR MISDEMEANOR, AS CHARGED IN THE 6TH             
+ 143   47 5 ARTICLE OF THE IMPEACHMENT.                                       
+ 144   48 1               J 8-2-138      IMP       FEB. 27, 1805              
+ 144   48 2 I082019       Y=10 N=24                                           
+ 144   48 3 TO DECIDE WHETHER SAMUEL CHASE IS GUILTY OR NOT GUILTY            
+ 144   48 4 OF A HIGH CRIME OR MISDEMEANOR, AS CHARGED IN THE 7TH             
+ 144   48 5 ARTICLE OF THE IMPEACHMENT.                                       
+ 145   49 1               J 8-2-140      IMP       FEB. 27, 1805              
+ 145   49 2 I082020       Y=19 N=15                                           
+ 145   49 3 TO DECIDE WHETHER SAMUEL CHASE, IS GUILTY OR NOT GUILTY OF A      
+ 145   49 4 HIGH CRIME OR MISDEMEANOR, AS CHARGED IN THE 8TH ARTICLE          
+ 145   49 5 OF IMPEACHMENT.                                                   
+ 146  146 1 A-14-  -66    J 8-2-461      S         FEB. 27, 1805              
+ 146  146 2 S082017       Y=18 N=9                 SMITH, N.Y.                
+ 146  146 3 TO ORDER THIRD READING OF S. 10, A BILL FREEING FROM              
+ 146  146 4 POSTAGE ALL LETTERS AND PACKAGES TO AND FROM AARON BURR.          
+ 146  146 5 (P. 66)                                                           
+ 147  147 1 A-14-  -68A   J 8-2-463A     S         FEB. 28, 1805              
+ 147  147 2 S082018       Y=12 N=18                                           
+ 147  147 3 TO POSTPONE UNTIL THE FIRST MONDAY IN DECEMBER NEXT,              
+ 147  147 4 CONSIDERATION OF S. 10.  (P. 68)                                  
+ 148  148 1 A-14-  -68B   J 8-2-463B     S         FEB. 28, 1805              
+ 148  148 2 S082019       Y=18 N=13                SMITH, N.Y.                
+ 148  148 3 TO PASS S. 10.  (P. 68)                                           
+ 149  149 1 A-14-  -74A   J 8-2-470A     HR        MAR. 3, 1805               
+ 149  149 2 S082020       Y=2 N=25                                            
+ 149  149 3 TO AMEND H.R. 4, (2 STAT 339, MAR. 3, 1805), A BILL               
+ 149  149 4 PROVIDING MORE EFFECTUAL PRESERVATION OF PEACE IN U.S.            
+ 149  149 5 PORTS, BY STRIKING OUT THE FIRST SECTION, THAT ARMED FORCES       
+ 149  149 6 BE USED IF NECESSARY, FOR THE APPREHENSION OF ANY PERSON ON       
+ 149  149 7 BOARD A FOREIGN ARMED VESSEL.  (P. 74)                            
+ 150  150 1 A-14-  -74B   J 8-2-470B     HR        MAR. 3, 1805               
+ 150  150 2 S082021       Y=25 N=3                 DAYTON, N.J.               
+ 150  150 3 TO PASS H.R. 4 (2 STAT 339, MAR. 3, 1805), A BILL                 
+ 150  150 4 PROVIDING FOR THE MORE EFFECTUAL PRESERVATION OF PEACE IN         
+ 150  150 5 PORTS AND HARBORS OF THE U.S. AND WATERS UNDER THEIR              
+ 150  150 6 JURISDICTION.  (P. 74)                                            

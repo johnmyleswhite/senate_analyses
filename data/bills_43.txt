@@ -1,0 +1,2318 @@
+   1    1 1               EX J 19-13               MAR. 7, 1873               
+   1    1 2 E430001       Y=43 N=6                 CAMERON, PA.               
+   1    1 3 TO CONSIDER A RESOLUTION FOR THE RATIFICATION OF THE              
+   1    1 4 CONVENTION BETWEEN THE UNITED STATES AND MEXICO, SIGNED AT        
+   1    1 5 WASHINGTON, D.C. ON NOV. 27, 1872, AND EXTENDING THE TIME         
+   1    1 6 FOR THE DURATION OF THE JOINT COMMISSION ON THE SUBJECT OF        
+   1    1 7 CLAIMS, WITH AMENDMENT TO REVIVE THE COMMISSION.                  
+   2   28 1 CR-1-1-22     J 43-0-605A              MAR. 7, 1873               
+   2   28 2 S430001       Y=24 N=32                BAYARD, DEL.               
+   2   28 3 TO POSTPONE THE RESOLUTION RELATING TO THE SEATING OF             
+   2   28 4 GEORGE SPENCER OF ALABAMA, SINCE ORIGINAL PAPERS CAN THEN         
+   2   28 5 BE LAID BEFORE THE SENATE.                                        
+   3   29 1 CR-1-1-28     J 43-0-605B              MAR. 7, 1873               
+   3   29 2 S430002       Y=20 N=38                BAYARD, DEL.               
+   3   29 3 TO REFER THE RESOLUTION RELATING TO GEORGE SPENCER, SENATOR-      
+   3   29 4 ELECT FROM ALABAMA BEING SWORN IN, TO A SPECIAL COMMITTEE.        
+   4   30 1 CR-1-1-41     J 43-0-608               MAR. 11, 1873              
+   4   30 2 E430003       Y=37 N=13                FERRY, MICH.               
+   4   30 3 TO PASS THE RESOLUTION RELATING TO THE ISLAND OF MACKINAC,        
+   4   30 4 DIRECTING SECRETARY OF WAR TO CONSIDER AND REPORT TO THE          
+   4   30 5 NEXT CONGRESS THE EXPEDIENCY OF DEDICATING TO THE PUBLIC          
+   4   30 6 USE PART OF MACKINAC ISLAND, NOW HELD BY THE UNITED STATES        
+   4   30 7 AS A MILITARY RESERVATION.                                        
+   5    2 1               EX J 19-51               MAR. 13, 1873              
+   5    2 2 E430002       Y=29 N=22                CONKLING, N.Y.             
+   5    2 3 NOMINATION OF STEPHEN B. PACKARD TO THE OFFICE OF U.S.            
+   5    2 4 MARSHALL FOR THE DISTRICT OF LOUISIANA.                           
+   6   31 1 CR-1-1-66     J 43-0-612               MAR. 13, 1873              
+   6   31 2 S430004       Y=20 N=31                HOWE, WIS.                 
+   6   31 3 TO RECEIVE THE PETITIONS RELATING TO LEGISLATIVE ACTION           
+   6   31 4 AGAINST ANY DISCRIMINATION IN THE LAWS CONCERNING NEWSPAPERS      
+   6   31 5 NOT WHOLLY PRINTED IN ONE COUNTRY, AND THE PETITION OF            
+   6   31 6 JOHN ALSOP, HEIR OF THOMAS JENKINS, DECEASED, IN AID OF           
+   6   31 7 THE BILL FOR PAYMENT OF FRENCH SPOILATIONS URGING                 
+   6   31 8 REFERENCE TO A COMMITTEE.                                         
+   7   32 1 CR-1-1-80     J 43-0-614               MAR. 14, 1873              
+   7   32 2 S430005       Y=24 N=32                HOWE, WIS.                 
+   7   32 3 TO RECEIVE THE PETITION RELATING TO JOHN ALSOP, PRAYING           
+   7   32 4 INDEMNITY FOR SPOLIATIONS COMMITTEE BY FRENCH                     
+   7   32 5 CRUISERS PRIOR TO 1801.                                           
+   8   33 1 CR-1-1-117    J 43-0-616               MAR. 19, 1873              
+   8   33 2 S430006       Y=25 N=30                WRIGHT, IOWA               
+   8   33 3 TO CONSIDER THE RESOLUTION INSTRUCTING THE COMMITTEE ON THE       
+   8   33 4 REVISION OF THE RULES TO INQUIRE INTO THE PROPRIETY OF            
+   8   33 5 AMENDING THE RULES SO AS TO PROVIDE, FIRST:  THAT DEBATE          
+   8   33 6 SHALL BE CONFINED AND BE RELEVANT TO THE SUBJECT-MATTER           
+   8   33 7 BEFORE THE SENATE; SECOND:  THAT THE PREVIOUS QUESTIONS MAY       
+   8   33 8 BE DEMANDED EITHER BY A MAJORITY VOTE, OR IN SOME                 
+   8   33 9 MODIFIED FORM; THIRD:  FOR TAKING UP BILLS IN THEIR REGULAR       
+   8   3310 ORDER ON THE CALENDAR.                                            
+   9    3 1               EX J 19-102              MAR. 22, 1873              
+   9    3 2 E430003       Y=23 N=15                SPENCER, ALA.              
+   9    3 3 NOMINATION OF JAMES F. CASEY, FOR COLLECTOR OF CUSTOMS FOR        
+   9    3 4 THE DISTRICT OF NEW ORLEANS, LA.                                  
+  10    4 1               EX J 19-106A             MAR. 24, 1873              
+  10    4 2 E430004       Y=24 N=25                CAMERON, PA.               
+  10    4 3 TO TABLE THE MOTION TO RECONSIDER THE NOMINATION OF               
+  10    4 4 JAMES F. CASEY AS COLLECTOR OF CUSTOMS FOR THE DISTRICT OF        
+  10    4 5 NEW ORLEANS, LA.                                                  
+  11    5 1               EX J 19-106B             MAR. 24, 1873              
+  11    5 2 E430005       Y=9 N=38                 WEST, LA.                  
+  11    5 3 TO ADJOURN, MOTION PRESENTING ANY ACTION ON RECONSIDERATION       
+  11    5 4 OF THE NOMINATION OF JAMES F. CASEY AS COLLECTOR OF               
+  11    5 5 CUSTOMS FOR THE DISTRICT OF NEW ORLEANS, LA.                      
+  12    6 1               EX J 19-106C             MAR. 24, 1873              
+  12    6 2 E430006       Y=23 N=25                MORRILL, ME.               
+  12    6 3 TO RECONSIDER THE NOMINATION OF JAMES F. CASEY AS                 
+  12    6 4 COLLECTOR OF CUSTOMS FOR THE DISTRICT OF NEW ORLEANS, LA.         
+  13   34 1 CR-1-1-168    J 43-0-620               MAR. 24, 1873              
+  13   34 2 S430007       Y=36 N=14                WRIGHT, IOWA               
+  13   34 3 TO CONSIDER THE RESOLUTION RELATING TO SEN. POWELL CLAYTON        
+  13   34 4 OF ARKANSAS, WHICH PROVIDES THAT THE CHARGES MADE                 
+  13   34 5 AND REFERRED TO A SELECT COMMITTEE OF THE SENATE AT THE           
+  13   34 6 LAST CONGRESS FOR INVESTIGATION AFFECTING THE OFFICIAL            
+  13   34 7 CHARACTER AND CONDUCT OF THE SENATOR ARE NOT SUSTAINED, AND       
+  13   34 8 THAT THE SELECT COMMITTEE IS DISCHARGED FROM FURTHER              
+  13   34 9 CONSIDERATION OF THE MATTER.                                      
+  14   35 1 CR-1-1-192    J 43-0-623               MAR. 25, 1873              
+  14   35 2 S430008       Y=33 N=6                 WRIGHT, IOWA               
+  14   35 3 TO PASS A RESOLUTION, STATING THAT THE CHARGES MADE AND           
+  14   35 4 REFERRED TO A SELECT COMMITTEE OF THE SENATE AT THE LAST          
+  14   35 5 CONGRESS FOR INVESTIGATION, AFFECTING THE OFFICIAL                
+  14   35 6 CHARACTER AND CONDUCT OF HON. POWELL CLAYTON, ARE NOT             
+  14   35 7 SUSTAINED.                                                        
+  15    7 1               EX J 19-116              MAR. 26, 1873              
+  15    7 2 E430007       Y=31 N=14                CARPENTER, WIS.            
+  15    7 3 NOMINATION OF JAMES M. DUNN TO THE OFFICE OF U.S. MARSHALL        
+  15    7 4 FOR THE DISTRICT OF COLUMBIA.                                     
+  16   36 1 CR-1-1-204    J 43-0-626               MAR. 26, 1873              
+  16   36 2 S430009       Y=25 N=19                FERRY, CONN.               
+  16   36 3 POINT OF ORDER AGAINST THE CONSIDERATION OF THE RESOLUTION        
+  16   36 4 AUTHORIZING THE SELECT COMMITTEE ON THE LEVEES OF THE             
+  16   36 5 MISSISSIPPI RIVER TO SIT DURING THE RECESS OF THE SENATE,         
+  16   36 6 ON THE GROUND THAT THE RESOLUTION CONCERNS CONSIDERATION OF       
+  16   36 7 LEGISLATIVE BUSINESS, AND IS IMPROPER BEFORE THE SENATE           
+  16   36 8 IN THIS EXECUTIVE SESSION.                                        
+  17    8 1               EX J 19-190              DEC. 16, 1873              
+  17    8 2 E431001       Y=21 N=34                JOHNSTON, VA.              
+  17    8 3 TO RECONSIDER THE RESOLUTION CONSENTING TO THE NOMINATION         
+  17    8 4 OF ALEXANDER R. SHEPHERD FOR GOVERNOR OF THE DISTRICT OF          
+  17    8 5 COLUMBIA.                                                         
+  18   37 1 CR-2-1-259    J 43-1-82A               DEC. 17, 1873              
+  18   37 2 S431001       Y=37 N=27                EDMUNDS, VT.               
+  18   37 3 TO POSTPONE INDEFINITELY, A RESOLUTION FIXING THE TIME FOR        
+  18   37 4 HOLIDAY RECESS FROM FRIDAY, DECEMBER 19, TO TUESDAY,              
+  18   37 5 JANUARY 6, 1874.                                                  
+  19   38 1 CR-2-1-265    J 43-1-82B     HR481     DEC. 17, 1873              
+  19   38 2 S431002       Y=46 N=7                 MORRILL, VT.               
+  19   38 3 TO PASS H.R. 481 (18-STAT-L.1), A BILL MAKING                     
+  19   38 4 APPROPRIATIONS FOR EXTRAORDINARY EXPENSES OF THE NAVY.            
+  20    9 1               EX J 19-194              DEC. 18, 1873              
+  20    9 2 E431002       Y=28 N=18                WINDOM, MINN.              
+  20    9 3 NOMINATION OF FELIX BRANNIGAN, AS UNITED STATES ATTORNEY          
+  20    9 4 FOR THE SOUTHERN DISTRICT OF MISSISSIPPI, IN PLACE OF             
+  20    9 5 E. P. JACOBSON, RESIGNED.                                         
+  21   39 1 CR-2-1-302    J 43-1-88                DEC. 18, 1873              
+  21   39 2 S431003       Y=22 N=27                SHERMAN, OHIO              
+  21   39 3 TO ADJOURN DUE TO THE LATE HOUR, MOTION MADE DURING               
+  21   39 4 DEBATE ON A RESOLUTION PROVIDING THAT WHEN BOTH HOUSES            
+  21   39 5 ADJOURN ON FRIDAY, DECEMBER 19, THEY SHALL STAND                  
+  21   39 6 ADJOURNED UNTIL MONDAY, JANUARY 5, 1874.                          
+  22   40 1 CR-2-1-304    J 43-1-89A               DEC. 18, 1873              
+  22   40 2 S431004       Y=21 N=23                SPENCER, ALA.              
+  22   40 3 TO ADJOURN DUE TO THE LATE HOUR, MOTION MADE DURING DEBATE        
+  22   40 4 ON A RESOLUTION PROVIDING THAT WHEN BOTH HOUSES ADJOURN ON        
+  22   40 5 FRIDAY DECEMBER 19, THEY SHALL STAND ADJOURNED UNTIL              
+  22   40 6 MONDAY, JANUARY 5, 1874.                                          
+  23   41 1 CR-2-1-305    J 43-1-89B               DEC. 18, 1873              
+  23   41 2 S431005       Y=21 N=19                WEST, LA.                  
+  23   41 3 TO ADJOURN DUE TO THE LATE HOUR, MOTION MADE DURING DEBATE        
+  23   41 4 ON THE RESOLUTION PROVIDING THAT WHEN BOTH HOUSES ADJOURN         
+  23   41 5 ON FRIDAY, DECEMBER 19, THEY SHALL STAND ADJOURNED UNTIL          
+  23   41 6 MONDAY, JANUARY 5, 1874.                                          
+  24   42 1 CR-2-1-333    J 43-1-94A               DEC. 19, 1873              
+  24   42 2 S431006       Y=33 N=29                LEWIS, VA.                 
+  24   42 3 TO POSTPONE ALL PRESENT AND PRIOR ORDERS IN ORDER TO              
+  24   42 4 PROCEED TO CONSIDERATION OF THE RESOLUTION PROVIDING              
+  24   42 5 THAT WHEN BOTH HOUSES ADJOURN ON FRIDAY, DECEMBER 19, THEY        
+  24   42 6 SHALL STAND ADJOURNED UNTIL MONDAY, JANUARY 5, 1874.              
+  25   43 1 CR-2-1-336    J 43-1-94B               DEC. 19, 1873              
+  25   43 2 S431007A      Y=32 N=27                SHERMAN, OHIO              
+  25   43 3 TO CONCUR IN HOUSE RESOLUTION PROVIDING THAT WHEN BOTH            
+  25   43 4 HOUSES ADJOURN ON FRIDAY, DECEMBER 19, THEY SHALL STAND           
+  25   43 5 ADJOURNED UNTIL MONDAY, JANUARY 5, 1874.                          
+  26   10 1               EX J 19-206              JAN. 6, 1874               
+  26   10 2 E431003       Y=39 N=25                CAMERON, PA.               
+  26   10 3 TO ADJOURN, DUE TO NO FURTHER BUSINESS FOR THE DAY.               
+  27   44 1 CR-2-2-448    J 43-1-110     HR793     JAN. 7, 1874               
+  27   44 2 S431007B      Y=27 N=29                NORWOOD, GA.               
+  27   44 3 TO ADJOURN BECAUSE OF LATENESS OF THE HOUR, MOTION MADE           
+  27   44 4 DURING DEBATE ON H.R. 793, A BILL ESTABLISHING THE                
+  27   44 5 COMPENSATION OF SENATORS, REPRESENTATIVES AND DELEGATES.          
+  28   45 1 CR-2-1-450    J 43-1-111     HR793     JAN. 7, 1874               
+  28   45 2 S431008       Y=27 N=26                LEWIS, VA.                 
+  28   45 3 TO ADJOURN, MOTION MADE DURING DISCUSSION ON H.R. 793,            
+  28   45 4 (18-STAT-L.4).                                                    
+  29   46 1 CR-2-1-471    J 43-1-116A    HR793     JAN. 8, 1874               
+  29   46 2 S431009       Y=14 N=45                PRATT, IND.                
+  29   46 3 TO AMEND H.R. 793 (18-STAT-L.4), BY REDUCING SALARIES OF          
+  29   46 4 SENATORS, REPRESENTATIVES, AND DELEGATES TO $5,000 AS OF          
+  29   46 5 MARCH 4, 1873, TO BE PAID IN MONTHLY INSTALLMENTS, SALARY         
+  29   46 6 NOT TO INCLUDE ALLOWANCE FOR MILEAGE.                             
+  30   47 1 CR-2-1-483A   J 43-1-113               JAN. 8, 1874               
+  30   47 2 S431010       Y=36 N=26                CONKLING, N.Y.             
+  30   47 3 TO TABLE A PETITION RELATING TO THE AFFAIRS OF LOUISIANA,         
+  30   47 4 GUARANTEEING THE RIGHTS OF LOUISIANA CITIZENS AS                  
+  30   47 5 CONTAINED IN SECTION 4, ARTICLE 4 OF THE UNITED STATES            
+  30   47 6 CONSTITUTION.                                                     
+  31   48 1 CR-2-1-483B   J 43-1-116B              JAN. 8, 1874               
+  31   48 2 S431011       Y=28 N=36                RAMSEY, MINN.              
+  31   48 3 TO PROCEED TO CONSIDERATION OF EXECUTIVE BUSINESS.                
+  32   49 1 CR-2-1-485    J 43-1-117     HR793     JAN. 8, 1874               
+  32   49 2 S431012       Y=30 N=33                MORRILL, VT.               
+  32   49 3 TO AMEND H.R. 793, BY REDUCING MILEAGE TO ONE-HALF OF THAT        
+  32   49 4 PAID UNDER ACT OF MARCH 3, 1873.                                  
+  33   50 1 CR-2-1-486    J 43-1-118     HR793     JAN. 8, 1874               
+  33   50 2 S431013       Y=32 N=29                HAMILTON, MD.              
+  33   50 3 TO AMENDH.R. 793 BY REPEALING THAT PROTION OF THE                 
+  33   50 4 APPROPRIATION BILL RELATING TO AN INCREASE IN SALARIES            
+  33   50 5 FOR HEADS OF DEPARTMENTS TO $8,000.                               
+  34   51 1 CR-2-1-509    J 43-1-121     HR793     JAN. 9, 1874               
+  34   51 2 S431014       Y=32 N=29                LEWIS, VA.                 
+  34   51 3 WHEN THE SENATE ADJOURNS TODAY IT BE TO MEET AGAIN MONDAY         
+  34   51 4 NEXT, MOTION MADE DURING CONSIDERATION OF H.R. 793.               
+  35   52 1 CR-2-1-512    J 43-1-122     HR793     JAN. 9, 1874               
+  35   52 2 S431015       Y=20 N=39                EDMUNDS, VT.               
+  35   52 3 TO AMEND H.R. 793 BY PROVIDING THAT REDUCTIONS IN DEPARTMENT      
+  35   52 4 HEADS' SALARIES TAKE EFFECT AS OF MARCH 28, 1873, AND THAT        
+  35   52 5 MONTHLY DEDUCTIONS FROM SALARIES BE MADE AT A RATE                
+  35   52 6 NECESSARY TO EFFECTUATE THIS PROVISION WITHIN NINE MONTHS.        
+  36   53 1 CR-2-1-515    J 43-1-123A    HR793     JAN. 9, 1874               
+  36   53 2 S431016       Y=19 N=41                CLAYTON, ARK.              
+  36   53 3 TO RECOMMIT H.R. 793 TO THE COMMITTEE ON CIVIL SERVICE            
+  36   53 4 RETRENCHMENT, WITH INSTRUCTIONS TO REDUCE ALL CIVIL AND           
+  36   53 5 MILITARY SALARIES AND TO APPORTION THESE REDUCTIONS               
+  36   53 6 CONSONANT WITH SERVICE TO BE RENDERED.                            
+  37   54 1 CR-2-1-516    J 43-1-123B    HR793     JAN. 9, 1874               
+  37   54 2 S431017       Y=31 N=28                EDMUNDS, VT.               
+  37   54 3 TO AMEND H.R. 793 BY FIXING CONGRESSMEN'S SALARIES AT             
+  37   54 4 $5,000 PER ANNUM, INSTEAD OF $5,500.                              
+  38   55 1 CR-2-1-519    J 43-1-124A    HR793     JAN. 9, 1874               
+  38   55 2 S431018       Y=28 N=30                LEWIS, VA.                 
+  38   55 3 TO PROCEED TO EXECUTIVE BUSINESS, MOTION MADE DURING              
+  38   55 4 DISCUSSION ON H.R. 793.                                           
+  39   56 1 CR-2-1-521A   J 43-1-124B    HR793     JAN. 9, 1874               
+  39   56 2 S431019       Y=35 N=25                EDMUNDS, VT.               
+  39   56 3 TO AMEND H.R. 793 BY FIXING A SALARY AT $5,000 PER YEAR FOR       
+  39   56 4 SENATORS, REPRESENTATIVES AND DELEGATES, BESIDES MILEAGE.         
+  40   57 1 CR-2-1-521B   J 43-1-125     HR793     JAN. 9, 1874               
+  40   57 2 S431020       Y=31 N=29                SARGENT, CAL.              
+  40   57 3 TO PROCEED TO MOTION DURING CONSIDERATION OF H.R. 793.            
+  41   58 1 CR-2-1-574    J 43-1-131     HR793     JAN. 12, 1874              
+  41   58 2 S431021       Y=29 N=21                EDMUNDS, VT.               
+  41   58 3 TO AMEND H.R. 793 BY ELIMINATING A PORTION REGULATING             
+  41   58 4 COMPENSATION OF ARMY AND NAVY OFFICERS, IN ORDER TO               
+  41   58 5 OBTAIN A SEPARATE VOTE ON THE PROPOSITION.                        
+  42   59 1 CR-2-1-578A   J 43-1-132     HR793     JAN. 12, 1874              
+  42   59 2 S431022       Y=47 N=9                 ROBERTSON, S.C.            
+  42   59 3 TO AMEND H.R. 793 BY PROVIDING THE SAME APPROPRIATION FOR         
+  42   59 4 EXPENSES OF THE PRESIDENTIAL MANSION FROM 1873 THROUGH 1876       
+  42   59 5 AS FOR THE PREVIOUS FOUR YEARS.                                   
+  43   60 1 CR-2-1-578B   J 43-1-133     HR793     JAN. 12, 1874              
+  43   60 2 S431023       Y=18 N=40                GORDON, GA.                
+  43   60 3 TO AMEND H.R. 793 BY FIXING THE SALARY OF THE PRESIDENT AT        
+  43   60 4 $25,000 PER YEAR AFTER MARCH 3, 1877.                             
+  44   61 1 CR-2-1-581    J 43-1-134A    HR793     JAN. 12, 1874              
+  44   61 2 S431024       Y=37 N=14                CONKLING, N.Y.             
+  44   61 3 TO AMEND H.R. 793 BY REPEALING A PORTION OF BILL THAT             
+  44   61 4 PROVIDES FOR INCREASE OF ALL SALARIES EXCEPT THOSE OF             
+  44   61 5 PRESIDENT AND SUPREME COURT JUSTICES, AND WHICH PROVIDES          
+  44   61 6 THAT MILEAGE FOR FIRST SESSION OF FORTY-THIRD CONGRESS BE         
+  44   61 7 DISALLOWED.                                                       
+  45   62 1 CR-2-1-582    J 43-1-134B    HR793     JAN. 12, 1874              
+  45   62 2 S431025       Y=16 N=43                HAMILTON, MD.              
+  45   62 3 TO AMEND H.R. 793 BY PROVIDING THAT THE SALARY OF THE             
+  45   62 4 PRESIDENT OF THE UNITED STATES, AFTER MARCH 4, 1877 BE            
+  45   62 5 THE SAME, ($25,000), AS BEFORE PASSAGE OF THE ACT OF              
+  45   62 6 MARCH 3, 1873.                                                    
+  45   62 7 2                                                                 
+  46   63 1 CR-2-1-583    J 43-1-136     HR793     JAN. 12, 1874              
+  46   63 2 S431026       Y=50 N=8                 WRIGHT, IOWA               
+  46   63 3 TO PASS H.R. 793.                                                 
+  47   11 1               EX J 19-220              JAN. 14, 1874              
+  47   11 2 E431004       Y=39 N=11                STEVENSON, KY.             
+  47   11 3 NOMINATION OF ROBERT W. HUGHES TO UNITED STATES DISTRICT          
+  47   11 4 JUDGE FOR THE EASTERN DISTRICT OF VIRGINIA, IN PLACE OF           
+  47   11 5 JOHN C. UNDERWOOD, DECEASED.                                      
+  48   12 1               EX J 19-226              JAN. 21, 1874              
+  48   12 2 E431005       Y=63 N=0                 EDMUNDS, VT.               
+  48   12 3 NOMINATION OF MORRISON R. WAITE, TO CHIEF JUSTICE OF THE          
+  48   12 4 UNITED STATES SUPREME COURT.                                      
+  49   64 1 CR-2-1-970    J 43-1-191     S169      JAN. 28, 1874              
+  49   64 2 S431027       Y=25 N=19                CAMERON, PA.               
+  49   64 3 TO PASS S. 169 (18-STAT-L.612), A BILL FOR THE RELIEF OF          
+  49   64 4 MARCUS OTTERBOURG, LATE U.S. CONSUL AT MEXICO CITY AND            
+  49   64 5 MINISTER TO THE REPUBLIC OF MEXICO.                               
+  50   65 1 CR-2-2-1188   J 43-1-215     HR792     FEB. 4, 1874               
+  50   65 2 S431028       Y=18 N=34                OGLESBY, ILL.              
+  50   65 3 TO AMEND H.R. 792 (18-STAT-L.178), A BILL REPEALING AN ACT        
+  50   65 4 TO ESTABLISH A UNIFORM SYSTEM OF BANKRUPTCY THROUGHOUT            
+  50   65 5 THE UNITED STATES, BY ELIMINATING A PORTION ADJUDGING ONE         
+  50   65 6 A BANKRUPT WHO HAS STOPPED OR SUSPENDED AND NOT RESUMED           
+  50   65 7 PAYMENT OF HIS COMMERCIAL OBLIGATIONS WITHIN 40 DAYS.             
+  51   66 1 CR-2-2-1219   J 43-1-220     S87       FEB. 5, 1874               
+  51   66 2 S431029       Y=36 N=9                 CHANDLER, MICH.            
+  51   66 3 TO PASS S. 87 (18-STAT-L.26), A BILL FACILITATING THE             
+  51   66 4 PROTECTION OF CERTAIN PUBLIC WORKS OF IMPROVEMENT AT THE          
+  51   66 5 MOUTH OF THE MISSISSIPPI.                                         
+  52   67 1 CR-2-2-1223   J 43-1-221     HR792     FEB. 5, 1874               
+  52   67 2 S431030       Y=20 N=28                SHERMAN, OHIO              
+  52   67 3 TO AMEND H.R. 792 BY MAKING $3,000 THE MINIMUM DEBT UNDER         
+  52   67 4 WHICH A PERSON CAN BE FORCED INTO INVOLUNTARY BANKRUPTCY.         
+  53   68 1 CR-2-2-1258   J 43-1-225     HR1400    FEB. 6, 1874               
+  53   68 2 S431013       Y=25 N=15                CAMERON, PA.               
+  53   68 3 TO PASS H.R. 1400 (18-STAT-L.530), A BILL FOR THE RELIEF          
+  53   68 4 OF WILLIAM H. VESEY, REIMBURSING HIM FOR LOSSES SUSTAINED         
+  53   68 5 BY FAILURE OF A BANK IN WHICH HE DEPOSITED, AT ORDER OF           
+  53   68 6 UNITED STATES TREASURY DEPARTMENT, ALL UNITED STATES              
+  53   68 7 GOVERNMENT MONEYS WHILE HE WAS CONSUL AT LONDON.                  
+  54   69 1 CR-2-2-1261   J 43-1-227     HR792     FEB. 6, 1874               
+  54   69 2 S431032       Y=15 N=29                SHERMAN, OHIO              
+  54   69 3 TO AMEND H.R. 792 BY ALLOWING A DEBTOR NINETY DAYS, INSTEAD       
+  54   69 4 OF FORTY TO STRAIGHTEN OUT HIS AFFAIRS BEFORE BECOMING            
+  54   69 5 SUBJECT TO THE BANKRUPTCY LAW.                                    
+  55   70 1 CR-2-2-1263   J 43-1-228     HR792     FEB. 6, 1874               
+  55   70 2 S431033       Y=9 N=30                 LOGAN, ILL.                
+  55   70 3 TO AMEND H.R. 792 BY PROVIDING THAT A PERSON HAVING ASSETS        
+  55   70 4 IN HIS POSSESSION OR DEBTS RECEIVABLE SUFFICIENT TO               
+  55   70 5 ESTABLISH HIS SOLVENCY SHALL, UPON HIS PLEA, BE NOT               
+  55   70 6 ADJUDGED A BANKRUPT UNTIL GIVEN A STAY OF PROCEEDINGS FOR         
+  55   70 7 SIX MONTHS.                                                       
+  56   13 1               EX J 19-245              FEB. 9, 1874               
+  56   13 2 E431006       Y=25 N=15                WRIGHT, IOWA               
+  56   13 3 TO ADJOURN, IN ORDER TO PREVENT ACTION ON THE RESOLUTION          
+  56   13 4 TO RATIFY THE CONVENTION BETWEEN THE UNITED STATES AND THE        
+  56   13 5 REPUBLIC OF SALVADOR, SIGNED AT SAN SALVADOR, MAY 12, 1873,       
+  56   13 6 AND STIPULATING AN EXTENSION OF THE PERIOD FOR EXCHANGING         
+  56   13 7 THE RATIFICATION OF THE TREATY CONCLUDED BETWEEN THE TWO          
+  56   13 8 COUNTRIES ON DECEMBER 6, 1870.                                    
+  57   71 1 CR-2-2-1319   J 43-1-231     S110      FEB. 9, 1874               
+  57   71 2 S431034       Y=40 N=11                COOPER, TENN.              
+  57   71 3 TO PASS S. 110 (18-STAT-L.604), A BILL GRANTING $18,500           
+  57   71 4 IN FULL COMPENSATION FOR DAMAGES CAUSED TO EAST TENNESSEE         
+  57   71 5 UNIVERSITY'S BUILDINGS AT KNOXVILLE, PROVIDING THAT THE           
+  57   71 6 UNIVERSITY RELEASE THE GOVERNMENT OF ALL CLAIMS.                  
+  58   72 1 CR-2-2-1331   J 43-1-232               FEB. 9, 1874               
+  58   72 2 S431035       Y=25 N=24                CAMERON, PA.               
+  58   72 3 TO PROCEED NOW TO EXECUTIVE BUSINESS.                             
+  59   14 1               EX J 19-247              FEB. 10, 1874              
+  59   14 2 E431007       Y=33 N=7                 WINDOM, MINN.              
+  59   14 3 NOMINATION OF THOMAS B. SEARIGHT TO SURVEYOR GENERAL OF           
+  59   14 4 THE UNITED STATES FOR DISTRICT OF COLORADO, IN PLACE              
+  59   14 5 OF WILLIAM H. LESSIG, REMOVED.                                    
+  60   73 1 CR-2-2-1359A  J 43-1-237A    HR792     FEB. 10, 1874              
+  60   73 2 S431036       Y=19 N=40                ALCORN, MISS.              
+  60   73 3 TO RECONSIDER ENGROSSMENT AND THIRD READING OF H.R. 792.          
+  61   74 1 CR-2-2-1359B  J 43-1-237B    HR792     FEB. 10, 1874              
+  61   74 2 S431037       Y=43 N=11                EDMUNDS, VT.               
+  61   74 3 TO PASS H.R. 792.                                                 
+  62   75 1 CR-2-2-1595   J 43-1-267     S432      FEB. 18, 1874              
+  62   75 2 S431038       Y=28 N=30                SCOTT, PA.                 
+  62   75 3 TO AMEND S. 432, A BILL AMENDING THE ACT TO PROVIDE FOR           
+  62   75 4 THE REDEMPTION OF THE THREE PERCENT TEMPORARY LOAN                
+  62   75 5 CERTIFICATES AND FOR AN INCREASE OF NATIONAL BANKNOTES, BY        
+  62   75 6 ADDING TO THE INSTRUCTIONS RECOMMITTING BILL TO THE               
+  62   75 7 COMMITTEE ON FINANCE SO AS TO PROVIDE FOR REDEMPTION OF           
+  62   75 8 ALL OUTSTANDING NATIONAL BANK CURRENCY IN SPECIE OR THE           
+  62   75 9 INTEREST-BEARING BONDS OF THE UNITED STATES.                      
+  63   76 1 CR-2-2-1598A  J 43-1-268A    S432      FEB. 18, 1874              
+  63   76 2 S431039       Y=28 N=35                HITCHCOCK, NEB.            
+  63   76 3 TO ADJOURN BECAUSE OF LATENESS OF THE HOUR, MOTION MADE           
+  63   76 4 DURING DEBATE ON S. 432.                                          
+  64   77 1 CR-2-2-1598B  J 43-1-268B    S432      FEB. 18, 1874              
+  64   77 2 S431040       Y=16 N=40                HOWE, WIS.                 
+  64   77 3 TO AMEND S. 432, BY INSTRUCTING THE FINANCE COMMITTEE TO          
+  64   77 4 REPORT A BILL INCREASING AMOUNT OF NOTES CIRCULATING TO           
+  64   77 5 $400,000,000, PERMITTING BANKS TO ORGANIZE AS NATIONAL            
+  64   77 6 BANKS, AND PERMITTING SALE OF COUPON BONDS FOR U.S.               
+  64   77 7 NOTES EQUAL TO EIGHTY-FIVE PER CENT OF NATIONAL                   
+  64   77 8 BANK CIRCULATION, BEARING INTEREST AT FIVE PER CENT.              
+  65   78 1 CR-2-2-1598C  J 43-1-269     S432      FEB. 18, 1874              
+  65   78 2 S431041       Y=36 N=24                MORTON, IND.               
+  65   78 3 TO ADJOURN, MOTION MADE DURING CONSIDERATION OF S. 432.           
+  66   79 1 CR-2-2-1635A  J 43-1-274A    S432      FEB. 19, 1874              
+  66   79 2 S431042       Y=26 N=32                CAMERON, PA.               
+  66   79 3 TO AMEND S. 432, BY REPEALING PROVISIONS FOR REDEMPTION           
+  66   79 4 OF THREE PER CENT TEMPORARY LOAN CERTIFICATES AND AN              
+  66   79 5 INCREASE OF NATIONAL BANK NOTES FOR CIRCULATION, AND ALSO         
+  66   79 6 THAT ALL UNITED STATES BANKS, SO DESIRING, MAY ORGANIZE AS        
+  66   79 7 NATIONAL BANKS UNDER FEDERAL JURISDICTION, THUS                   
+  66   79 8 INVALIDATING THE RESTRICTION THAT NATIONAL BANK                   
+  66   79 9 CIRCULATION SHALL NOT EXCEED $400,000,000.                        
+  67   80 1 CR-2-2-1635B  J 43-1-274B    S432      FEB. 19, 1874              
+  67   80 2 S431043       Y=26 N=30                GORDON, GA.                
+  67   80 3 TO AMEND S. 432, BY REPORTING A FREE BANKING BILL                 
+  67   80 4 PROVIDING THAT UNITED STATES TREASURY NOTES MAY BE                
+  67   80 5 CONVERTED INTO LOW-INTEREST BONDS OR GOLD COIN, AT THE            
+  67   80 6 OPTION OF THE GOVERNMENT, AND THAT BONDS, AT THE OPTION OF        
+  67   80 7 THE HOLDER, BE CONVERTIBLE INTO UNITED STATES TREASURY            
+  67   80 8 NOTES.                                                            
+  68   81 1 CR-2-2-1677   J 43-1-280A    S432      FEB. 20, 1874              
+  68   81 2 S431044       Y=17 N=36                FERRY, CONN.               
+  68   81 3 TO TABLE S. 432.                                                  
+  69   82 1 CR-2-2-1680   J 43-1-280B    S432      FEB. 20, 1874              
+  69   82 2 S431045       Y=31 N=23                MERRIMON, N.C.             
+  69   82 3 TO RECONSIDER THE AMENDMENT TO S. 432, WHEREBY THE                
+  69   82 4 COMMITTEE ON FINANCE WAS INSTRUCTED TO RETURN A BILL              
+  69   82 5 PROVIDING FOR CONVERTIBILITY OF UNITED STATES TREASURY            
+  69   82 6 NOTES INTO GOLD COIN OR FIVE PER CENT UNITED STATES BONDS,        
+  69   82 7 AND ALSO FOR FREE BANKING UNDER NATIONAL BANK ACT                 
+  69   82 8 PROVISIONS.                                                       
+  70   83 1 CR-2-2-1681A  J 43-1-281A    S432      FEB. 20, 1874              
+  70   83 2 S431046       Y=28 N=25                MERRIMON, N.C.             
+  70   83 3 TO AMEND A MOTION TO RECOMMIT S. 432 TO THE COMMITTEE ON          
+  70   83 4 FINANCE, SO THAT THE INSTRUCTIONS PROVIDE FOR AN AMENDMENT        
+  70   83 5 TO THE EFFECT THAT THE WHOLE VOLUME OF NATIONAL BANK              
+  70   83 6 CIRCULATION SHALL NOT EXCEED $400,000,000.                        
+  71   84 1 CR-2-2-1681B  J 43-1-281B    S432      FEB. 20, 1874              
+  71   84 2 S431047       Y=16 N=33                ANTHONY, R.I.              
+  71   84 3 TO ADJOURN, MOTION DURING CONSIDERATION OF S. 432.                
+  72   85 1 CR-2-2-1801   J 43-1-297     HR1394    FEB. 26, 1874              
+  72   85 2 S431048       Y=23 N=28                CAMERON, PA.               
+  72   85 3 TO CONSIDER H.R. 1394 (18-STAT-L.53), A BILL RELATING TO          
+  72   85 4 THE CENTENNIAL EXHIBITION AT PHILADELPHIA.                        
+  73   15 1               EX J 19-260              FEB. 27, 1874              
+  73   15 2 E431008       Y=30 N=16                BOUTWELL, MASS.            
+  73   15 3 NOMINATION OF WILLIAM A. SIMMONS, AS COLLECTOR OF CUSTOMS         
+  73   15 4 FOR THE DISTRICT OF BOSTON AND CHARLESTON, MASS.  IN              
+  73   15 5 PLACE OF THOMAS RUSSELL, RESIGNED.                                
+  74   16 1               EX J 19-263              MAR. 2, 1874               
+  74   16 2 E431009       Y=27 N=12                RAMSEY, MINN.              
+  74   16 3 NOMINATION OF SAMUEL BARD AS DEPUTY POSTMASTER AT ATLANTA,        
+  74   16 4 FULTON COUNTY, GEORGIA.                                           
+  75   86 1 CR-2-2-1926   J 43-1-313     HR1394    MAR. 3, 1874               
+  75   86 2 S431049       Y=16 N=30                WEST, LA.                  
+  75   86 3 TO POSTPONE PENDING AND PRIOR ORDERS, DURING DEBATE ON            
+  75   86 4 H.R. 1394, AND TO PROCEED TO CONSIDERATION OF H.R. 1009, THE      
+  75   86 5 ARMY APPROPRIATION BILL.                                          
+  76   87 1 CR-2-2-1980   J 43-1-321     S161      MAR. 5, 1874               
+  76   87 2 S431050       Y=23 N=22                BAYARD, DEL.               
+  76   87 3 TO AMEND S. 161, A BILL PROVIDING FOR THE APPOINTMENT OF A        
+  76   87 4 COMMISSION ON THE SUBJECT OF THE ALCHOLIC LIQUOR TRAFFIC,         
+  76   87 5 BY APPOINTING A COMMISSION, ALL MEMBERS OF WHICH SHALL NOT        
+  76   87 6 BE PROHIBITIONISTS.                                               
+  77   88 1 CR-2-2-1993   J 43-1-322               MAR. 5, 1874               
+  77   88 2 S431051       Y=25 N=22                STEWART, NEV.              
+  77   88 3 TO PROCEED TO CONSIDERATION OF EXECUTIVE BUSINESS.                
+  78   89 1 CR-2-2-2028   J 43-1-328     HR1394    MAR. 6, 1874               
+  78   89 2 S431052       Y=17 N=33                FRELINGHUYS, N.J.          
+  78   89 3 TO AMEND A MOTION TO REFER H.R. 1394 TO THE COMMITTEE ON          
+  78   89 4 APPROPRIATIONS WITH INSTRUCTIONS TO REPORT A BILL MAKING          
+  78   89 5 AN APPROPRIATION NOT EXCEEDING $3,000,000 TOWARDS THE             
+  78   89 6 EXPENSES OF THE CELEBRATION AND EXHIBITION.                       
+  79   90 1 CR-2-3-2029   J 43-1-329     S161      MAR. 6, 1874               
+  79   90 2 S431053       Y=26 N=21                HOWE, WISC.                
+  79   90 3 TO PASS S. 161, A BILL PROVIDING FOR THE APPOINTMENT OF A         
+  79   90 4 COMMISSION ON THE SUBJECT OF THE ALCHOLIC LIQUOR TRAFFIC.         
+  80   91 1 CR-2-3-2306   J 43-1-364A    HR1009    MAR. 20, 1874              
+  80   91 2 S431054       Y=12 N=29                MERRIMON, N.C.             
+  80   91 3 TO AMEND H.R. 1009 (18-STAT-L.72), THE APPROPRIATIONS             
+  80   91 4 BILL FOR FISCAL 1874, BY REDUCING THE APPROPRIATION FOR           
+  80   91 5 PROTECTING ARMY CLOTHES FROM MOTH AND MILDEW FROM                 
+  80   91 6 $30,000 TO $5,000.                                                
+  81   92 1 CR-2-3-2307   J 43-1-364B    HR1009    MAR. 20, 1874              
+  81   92 2 S431055       Y=12 N=28                MERRIMON, N.C.             
+  81   92 3 TO AMEND H.R. 1009, BY INSTRUCTING THE SECRETARY OF WAR TO        
+  81   92 4 SELL SUCH ARMY CLOTHING AND OTHER ARMY SUPPLIES AS ARE            
+  81   92 5 NOT REQUIRED FOR THE USE OF THE ARMY, AND TO PAY GROSS            
+  81   92 6 PROCEEDS OF SUCH SALES INTO THE TREASURY.                         
+  82   93 1 CR-2-3-2312   J 43-1-365A    HR1009    MAR. 20, 1874              
+  82   93 2 S431056       Y=18 N=25                LOGAN, ILL.                
+  82   93 3 TO AMEND H.R. 1009, BY ELIMINATING A PROVISION THAT NO MONEY      
+  82   93 4 APPROPRIATED BY THIS ACT SHALL BE PAID FOR RECRUITING THE         
+  82   93 5 ARMY BEYOND 25,000 ENLISTED MEN.                                  
+  83   94 1 CR-2-3-2313   J 43-1-365B    HR1009    MAR. 20, 1874              
+  83   94 2 S431057       Y=18 N=27                LOGAN, ILL.                
+  83   94 3 TO AMEND H.R. 1009, BY PROVIDING THAT THE SECRETARY OF WAR        
+  83   94 4 SHALL CONSOLIDATE REGIMENTS TO TWENTY-FIVE, AND MUSTER OUT        
+  83   94 5 SUPERNUMERARY REGIMENTAL OFFICERS AFTER CONSIDERATION BY          
+  83   94 6 AN OFFICERS' EXAMINING BOARD.                                     
+  84   17 1               EX J 19-277              MAR. 24, 1874              
+  84   17 2 E431010       Y=28 N=11                CHANDLER, MICH.            
+  84   17 3 NOMINATION OF THOMAS B. VAN BUREN AS UNITED STATES CONSUL         
+  84   17 4 AT KANAGAWA, IN PLACE OF HENRY C. WAYNE, APPOINTED DURING         
+  84   17 5 A RECESS OF THE SENATE AND RESIGNED.                              
+  85   95 1 CR-2-3-2440   J 43-1-378     HR1954    MAR. 25, 1874              
+  85   95 2 S431058       Y=25 N=20                PRATT, IND.                
+  85   95 3 TO POSTPONE THE PRESENT AND ALL PRIOR ORDERS, AND TO              
+  85   95 4 PROCEED TO THE CONSIDERATION OF H.R. 1954, A BILL GRANTING        
+  85   95 5 A PENSION TO HENRY B. RYDER.                                      
+  86   96 1 CR-2-2-2484   J 43-1-383     S617      MAR. 26, 1874              
+  86   96 2 S431059       Y=18 N=40                SCHURZ, MO.                
+  86   96 3 TO AMEND S. 617, A BILL PROVIDING FOR THE REDEMPTION AND          
+  86   96 4 RE-ISSUE OF UNITED STATES NOTES AND FOR FREE BANKING, BY          
+  86   96 5 FIXING THE MAXIMUM LIMIT OF UNITED STATES NOTES AT                
+  86   96 6 $356,000,000, (IN LIEU OF $382,000,000.00).                       
+  87   97 1 CR-2-3-2488   J 43-1-384A    S617      MAR. 26, 1874              
+  87   97 2 S431060       Y=26 N=31                MORRILL, VT.               
+  87   97 3 TO AMEND S. 617, BY FIXING THE AMOUNT OF ALL UNITED STATES        
+  87   97 4 NOTES IN CIRCULATION AT A MAXIMUM OF $400,000,000.                
+  88   98 1 CR-2-3-2488   J 43-1-384B    S617      MAR. 26, 1874              
+  88   98 2 S431061       Y=31 N=26                WRIGHT, IOWA               
+  88   98 3 TO AMEND S. 617, BY FIXING THE MAXIMUM AMOUNT OF U.S.             
+  88   98 4 NOTES AT $400,000,000.00.                                         
+  89   99 1 CR-2-3-2610   J 43-1-396     S617      MAR. 30, 1874              
+  89   99 2 S431062       Y=28 N=23                MORTON, IND.               
+  89   99 3 TO AMEND S. 617, BY ELIMINATING A SECTION PROVIDING FOR           
+  89   99 4 REDEMPTION OF UNITED STATES NOTES OF $1,000 OR ITS                
+  89   99 5 MULTIPLES AT FIVE PER CENT INTEREST AND AUTHORIZING THE           
+  89   99 6 SECRETARY OF TREASURY TO REISSUE THEM, EXEMPT FROM TAXES,         
+  89   99 7 AT HIS DISCRETION.                                                
+  90  100 1 CR-2-3-2612   J 43-1-397     S617      MAR. 30, 1874              
+  90  100 2 S431063       Y=6 N=36                 SCOTT, PA.                 
+  90  100 3 TO AMEND S. 617, BY REQUIRING THE SECRETARY OF THE                
+  90  100 4 TREASURY TO REDEEM UNITED STATES NOTES AMOUNTING TO               
+  90  100 5 $100.00 OR MULTIPLES IN COUPON OR REGISTERED BONDS OF THE         
+  90  100 6 UNITED STATES AND PERMITTING HIM TO RE-ISSUE THEM.                
+  91  101 1 CR-2-3-2613   J 43-1-398     S617      MAR. 30, 1874              
+  91  101 2 S431064       Y=14 N=29                FRELINGHUYS, N.J.          
+  91  101 3 TO AMEND S. 617, BY ADDING A PROVISION THAT GOLD COIN BE          
+  91  101 4 PURCHASED WITH SURPLUS UNITED STATES REVENUE AND THAT             
+  91  101 5 THIS COIN SHALL BE SOLD TO SATISFY THE DEMANDS OF CURRENCY.       
+  92  102 1 CR-2-3-2646   J 43-1-401     S617      MAR. 31, 1874              
+  92  102 2 S431065       Y=20 N=37                MORRILL, VT.               
+  92  102 3 TO AMEND S. 617, BY INCREASING FROM 70 PER CENT TO                
+  92  102 4 90 PER CENT THE AMOUNT OF UNITED STATES NOTES THE                 
+  92  102 5 SECRETARY OF TREASURY IS REQUIRED TO RETIRE FROM ALREADY          
+  92  102 6 CIRCULATING NOTES.                                                
+  93  103 1 CR-2-3-2647   J 43-1-402     S617      MAR. 31, 1874              
+  93  103 2 S431066       Y=29 N=27                MORTON, IND.               
+  93  103 3 TO AMEND S. 617, BY ELIMINATING A SECTION PROVIDING THAT          
+  93  103 4 WITHIN THIRTY DAYS AFTER NOTES OF $1,000,000.00 ARE ISSUED,       
+  93  103 5 THE SECRETARY OF TREASURY IS TO RETIRE 70 PER CENT OF             
+  93  103 6 CIRCULATING NOTES, IN FURTHER REDUCTION OF $382,000,000           
+  93  103 7 ISSUED, THE REDUCTION TO CONTINUE UNTIL THE REMAINDER IS          
+  93  103 8 $300,000,000.00.                                                  
+  94  104 1 CR-2-3-2650   J 43-1-404A    S617      MAR. 31, 1874              
+  94  104 2 S431067       Y=14 N=37                FENTON, N.Y.               
+  94  104 3 TO AMEND S. 617 BY PROVIDING A PRACTICAL SYSTEM OF                
+  94  104 4 REDEMPTION, AND BY ELIMINATING PERPETUALLY IRREDEEMABLE           
+  94  104 5 AND INCONVERTIBLE PAPER CURRENCY.                                 
+  95  105 1 CR-2-3-2652A  J 43-1-404B    S617      MAR. 31, 1874              
+  95  105 2 S431068       Y=7 N=39                 BUCKINGHAM, CONN.          
+  95  105 3 TO AMEND S. 617, BY LIMITING THE AMOUNT OF PAPER CURRENCY         
+  95  105 4 THROUGH AUTOMATIC RETIREMENT.                                     
+  96  106 1 CR-2-3-2652B  J 43-1-405A    S617      MAR. 31, 1874              
+  96  106 2 S431069       Y=21 N=30                BUCKINGHAM, CONN.          
+  96  106 3 TO AMEND S. 617, BY PROPOSING THAT IF REDEMPTION IN COIN          
+  96  106 4 IS NOT IMMEDIATELY POSSIBLE, THE GOVERNMENT WILL PROMISE          
+  96  106 5 TO PAY, WITH INTEREST, WITHIN TEN YEARS.                          
+  97  107 1 CR-2-3-2652C  J 43-1-405B    S617      MAR. 31, 1874              
+  97  107 2 S431070       Y=27 N=26                SARGENT, CAL.              
+  97  107 3 TO ADJOURN, DUE TO LATE HOUR, MOTION MADE DURING DEBATE ON        
+  97  107 4 S. 617.                                                           
+  98  108 1 CR-2-3-2683   J 43-1-408     S617      APR. 1, 1874               
+  98  108 2 S431071       Y=25 N=26                DAVIS, W. VA.              
+  98  108 3 TO AMEND S. 617, BY SUBMITTING PENNSYLVANIA IN LIEU OF            
+  98  108 4 NEW YORK STATE AS A BASE FOR ISSUE OF ADDITIONAL NATIONAL         
+  98  108 5 BANK CIRCULATIONS.                                                
+  99  109 1 CR-2-3-2684   J 43-1-409A    S617      APR. 1, 1874               
+  99  109 2 S431072       Y=19 N=30                MORRILL, VT.               
+  99  109 3 TO AMEND S. 617, BY SPECIFYING THE AMOUNT OF FRACTIONAL           
+  99  109 4 CURRENCY AT $40,000,000, AND WITHDRAWING ANY AMOUNT IN            
+  99  109 5 EXCESS OF $40 MILLION AS EARLY AS PRACTICABLE.                    
+ 100  110 1 CR-2-3-2688   J 43-1-409B    S617      APR. 18 1874               
+ 100  110 2 S431073       Y=28 N=25                CHANDLER, MICH.            
+ 100  110 3 TO ADJOURN, MOTION MADE DURING CONSIDERATION OF S. 617.           
+ 101   18 1               EX J 19-286              APR. 2, 1874               
+ 101   18 2 E431011       Y=29 N=26                FERRY, CONN.               
+ 101   18 3 TO ADJOURN, DUE TO NO FURTHER BUSINESS FOR THE DAY.               
+ 102  111 1 CR-2-3-2721   J 43-1-415A    S617      APR. 2, 1874               
+ 102  111 2 S431074       Y=20 N=31                DAVIS, W. VA.              
+ 102  111 3 TO AMEND S. 617, BY TRANSFERRING $50,000,000 FROM STATES          
+ 102  111 4 HAVING AN EXCESS OF NOTES TO STATES WEST AND SOUTH THAT           
+ 102  111 5 HAVE ISSUES LESS THAN THEIR PROPORTION.                           
+ 103  112 1 CR-2-3-2723   J 43-1-415B    S617      APR. 2, 1874               
+ 103  112 2 S431075       Y=33 N=19                MERRIMON, N.C.             
+ 103  112 3 TO AMEND S. 617, BY ELIMINATING A SECTION WHICH PROVIDES          
+ 103  112 4 AN INCREASE IN ISSUE OF NATIONAL BANK NOTES BY $43,000,000        
+ 103  112 5 FOR CIRCULATION TO NATIONAL BANK ASSOCIATIONS.                    
+ 104  113 1 CR-2-3-2726   J 43-1-416     S617      APR. 2, 1874               
+ 104  113 2 S431076       Y=16 N=31                FRELINGHUYS, N.J.          
+ 104  113 3 TO AMEND S. 617, BY USING SURPLUS GOVERNMENT REVENUE TO           
+ 104  113 4 ACCUMULATE COIN IN THE TREASURY.                                  
+ 105  114 1 CR-2-3-2729A  J 43-1-416     S617      APR. 2, 1874               
+ 105  114 2 S431077       Y=19 N=20                THURMAN, OHIO              
+ 105  114 3 TO AMEND S. 617, BY ADDING AN ADDITIONAL SECTION WHICH            
+ 105  114 4 PROVIDES THAT AFTER JUNE 30, 1874, ONE TWENTIETH OF ALL           
+ 105  114 5 CUSTOM DUTIES SHALL BE PAYABLE IN LEGAL TENDER OR IN              
+ 105  114 6 NATIONAL BANK NOTES, AFTER JUNE 30, 1875, ONE-TENTH, AFTER        
+ 105  114 7 JUNE 30, 1876, ONE-FIFTH.                                         
+ 106  115 1 CR-2-3-2729B  J 43-1-417A    S617      APR. 2, 1874               
+ 106  115 2 S431078       Y=7 N=31                 SAULSBURY, DEL.            
+ 106  115 3 TO AMEND S. 617, BY AUTHORIZING THE SECRETARY OF THE              
+ 106  115 4 TREASURY TO REDEEM IN COIN UNITED STATES LEGAL-TENDER             
+ 106  115 5 NOTES.                                                            
+ 107  116 1 CR-2-3-2732   J 43-1-417B    S617      APR. 28 1874               
+ 107  116 2 S431079       Y=22 N=21                ANTHONY, R.I.              
+ 107  116 3 TO TABLE S. 617.                                                  
+ 108  117 1 CR-2-3-2766   J 43-1-420               APR. 3, 1874               
+ 108  117 2 S431080       Y=28 N=30                ANTHONY, R.I.              
+ 108  117 3 TO ADJOURN, TO TERMINATE THE SESSION AS TODAY IS GOOD             
+ 108  117 4 FRIDAY.                                                           
+ 109  118 1 CR-2-3-2827   J 43-1-428     S617      APR. 6, 1874               
+ 109  118 2 S431081       Y=24 N=27                CONKLING, N.Y.             
+ 109  118 3 TO AMEND S. 6178 BY DECLARING THAT NOTHING IN THIS ACT            
+ 109  118 4 SHALL BE CONSTRUED TO AUTHORIZE ANY INCREASE OF THE               
+ 109  118 5 PRINCIPAL OF THE PUBLIC DEBT OF THE UNITED STATES.                
+ 110  119 1 CR-2-3-2828   J 43-1-429A    S617      APR. 1874                  
+ 110  119 2 S431082       Y=25 N=30                HOWE, WIS.                 
+ 110  119 3 TO AMEND S. 617 BY DECLARING THAT WITHIN THIRTY DAYS              
+ 110  119 4 AFTER $1,000,000 IN CIRCULATING NOTES ARE ISSUED TO               
+ 110  119 5 NATIONAL BANK ASSOCIATIONS, THE SECRETARY OF TREASURY             
+ 110  119 6 SHALL RETIRE AN AMOUNT OF UNITED STATES NOTES EQUAL TO            
+ 110  119 7 SEVENTY PER CENT OF CIRCULATING NOTES SO ISSUED.                  
+ 111  120 1 CR-2-3-2829A  J 43-1-429B    S617      APR. 6, 1874               
+ 111  120 2 S431083       Y=22 N=30                MORRILL, VT.               
+ 111  120 3 TO AMEND S. 617, BY ADDING PROVISION DECLARING THAT NO            
+ 111  120 4 PART OF THE INCREASE OF UNITED STATES NOTES AUTHORIZED            
+ 111  120 5 SHALL BE HELD TO PLACE ANY MONEY IN THE TREASURY OF THE           
+ 111  120 6 UNITED STATES WHICH CAN BE USED FOR ANY FUTURE                    
+ 111  120 7 APPROPRIATION.                                                    
+ 112  121 1 CR-2-3-2829B  J 43-1-430A    S617      APR. 6, 1874               
+ 112  121 2 S431084       Y=12 N=38                BAYARD, DEL.               
+ 112  121 3 TO AMEND S. 617, BY ADDING A SECTION WHICH REPEALS THE            
+ 112  121 4 TEN PER CENT TAX ON NOTES OF STATE BANKING ASSOCIATIONS.          
+ 113  122 1 CR-2-3-2829C  J 43-1-430B    S617      APR. 6, 1874               
+ 113  122 2 S431085       Y=29 N=24                MERRIMON, N.C.             
+ 113  122 3 TO AMEND S. 617, BY INCLUDING A SECTION DECLARING THAT            
+ 113  122 4 NOTHING IN THIS ACT SHALL BE CONSTRUED TO AUTHORIZE ANY           
+ 113  122 5 INCREASE OF THE PRINCIPAL OF THE UNITED STATES PUBLIC             
+ 113  122 6 DEBT.                                                             
+ 114  123 1 CR-2-3-2830   J 43-1-432A    S617      APR. 6, 1874               
+ 114  123 2 S431086       Y=25 N=30                HOWE, WIS.                 
+ 114  123 3 TO PROCEED TO EXECUTIVE BUSINESS, MOTION MADE DURING              
+ 114  123 4 CONSIDERATION OF S. 617                                           
+ 115  124 1 CR-2-3-2831   J 43-1-432B    S617      APR. 6, 1874               
+ 115  124 2 S431087       Y=23 N=28                SHERMAN, OHIO              
+ 115  124 3 TO AMEND S. 617, BY FIXING THE MAXIMUM AMOUNT OF                  
+ 115  124 4 UNITED STATES NOTES AT $400 MILLION UNTIL REDUCED, BY             
+ 115  124 5 AUTHORIZING PAYMENT IN GOLD COIN OF $1,000 NOTES OR ITS           
+ 115  124 6 MULTIPLES AND BY DECLARING THAT NOTHING IN THIS ACT SHALL         
+ 115  124 7 BE CONSTRUED AS AUTHORIZATION OF ANY INCREASE IN THE              
+ 115  124 8 PRINCIPAL OF THE UNITED STATES PUBLIC DEBT.                       
+ 116  125 1 CR-2-3-2832   J 43-1-433A    S617      APR. 6, 1874               
+ 116  125 2 S431088       Y=27 N=30                SARGENT, CAL.              
+ 116  125 3 TO ADJOURN, MOTION MADE DURING CONSIDERATION OF S. 617.           
+ 117  126 1 CR-2-3-2833   J 43-1-433B    S616      APR. 6, 1874               
+ 117  126 2 S431089       Y=28 N=29                STEWART, NEV.              
+ 117  126 3 TO ADJOURN, MOTION MADE DURING CONSIDERATION OF S. 617.           
+ 118  127 1 CR-2-3-2835A  J 43-1-433C    S617      APR. 6, 1874               
+ 118  127 2 S431090       Y=27 N=28                FRELINGHUYS, N.J.          
+ 118  127 3 TO ADJOURN, MOTION MADE DURING CONSIDERATION OF S. 617            
+ 119  128 1 CR-2-3-2835B  J 43-1-434     S617      APR. 6, 1874               
+ 119  128 2 S431091       Y=29 N=24                SHERMAN, OHIO              
+ 119  128 3 TO PASS S. 617.                                                   
+ 120  129 1 CR-2-3-2854   J 43-1-438A    HR1580    APR. 7, 1874               
+ 120  129 2 S431092       Y=18 N=30                MORRILL, VT.               
+ 120  129 3 TO TABLE H.R. 1580, A BILL FOR THE CLAIM OF THE HEIRS OF          
+ 120  129 4 ASBURY DICKINS, PROPOSING TO PAY $1,395.88, $3,696.67 AND         
+ 120  129 5 $261.46, RESPECTIVELY FOR SERVICES AS ACTING SECRETARY OF         
+ 120  129 6 THE TREASURY, ACTING SECRETARY OF STATE, AND AS CHIEF             
+ 120  129 7 CLERK IN THE TREASURY DEPARTMENT.                                 
+ 121  130 1 CR-2-3-2857A  J 43-1-438C    HR1580    APR. 7, 1874               
+ 121  130 2 S431093       Y=27 N=22                SCOTT, PA.                 
+ 121  130 3 TO PASS H.R. 1580, A BILL FOR THE CLAIM OF THE HEIRS OF           
+ 121  130 4 ASBURY DICKINS, PROPOSING TO PAY SUMS OF $1,395.88,               
+ 121  130 5 $3,693.37 AND $261.46 RESPECTIVELY FOR SERVICES RENDERED          
+ 121  130 6 AS ACTING SECRETARY OF THE TREASURY, ACTING SECRETARY OF          
+ 121  130 7 STATE AND AS CHIEF CLERK IN THE TREASURY DEPARTMENT.              
+ 122  131 1 CR-2-3-2857B  J 43-1-439     S507      APR. 7, 1874               
+ 122  131 2 S431094       Y=18 N=20                BOGY, MO.                  
+ 122  131 3 TO PROCEED TO CONSIDERATION OF S. 507, A BILL FOR THE             
+ 122  131 4 CLAIM OF THOMAS B. WALLACE, OF LEXINGTON, MISSOURI, FOR           
+ 122  131 5 PROPERTY DESTROYED BY THE ARMY UNDER ORDERS OF A MILITARY         
+ 122  131 6 COMMANDER.                                                        
+ 123  132 1 CR-2-3-2951   J 43-1-449     S378      APR. 9, 1874               
+ 123  132 2 S431095       Y=19 N=19                CLAYTON, ARK.              
+ 123  132 3 TO AMEND S. 378 (18-STAT-482), A BILL INCORPORATING AND           
+ 123  132 4 REGULATING RAILROAD COMPANIES IN UNITED STATES                    
+ 123  132 5 TERRITORIES, BY PERMITTING CUMULATIVE VOTING TO PROTECT           
+ 123  132 6 THE RIGHTS OF MINORITY STOCKHOLDERS.                              
+ 124  133 1 CR-2-4-3038   J 43-1-457A    S378      APR. 13, 1874              
+ 124  133 2 S431096       Y=32 N=6                 HAGER, CALIF.              
+ 124  133 3 TO AMEND S. 378, BY PROVIDING THAT A TERRITORY, WHEN              
+ 124  133 4 ADMITTED AS A STATE, HAS THE SAME POWER AND CONTROL OVER          
+ 124  133 5 CORPORATIONS UNDER THIS ACT AS OVER CORPORATIONS OF THE           
+ 124  133 6 STATE.                                                            
+ 125  134 1 CR-2-4-3039   J 43-1-457B    S378      APR. 13, 1874              
+ 125  134 2 S431097       Y=28 N=10                CLAYTON, ARK.              
+ 125  134 3 TO AMEND S. 378, BY MAKING STOCKHOLDERS LIABLE IN SUITS           
+ 125  134 4 BROUGHT BY LABORERS FOR PAYMENT, FOR AMOUNTS EQUAL TO THE         
+ 125  134 5 VALUE OF THE STOCK THEY HOLD.                                     
+ 126  135 1 CR-2-4-3041   J 43-1-458A    S378      APR. 13, 1874              
+ 126  135 2 S431098       Y=15 N=23                CLAYTON, ARK.              
+ 126  135 3 TO AMEND S. 378, BY PERMITTING CUMULATIVE VOTING OF STOCK         
+ 126  135 4 IN ALL ELECTIONS FOR DIRECTORS OF ANY CORPORATION                 
+ 126  135 5 ORGANIZED UNDER THE PROVISIONS OF THIS ACT.                       
+ 127  136 1 CR-2-4-3042   J 43-1-458B    S378      APR. 13, 1874              
+ 127  136 2 S431099       Y=20 N=18                STEWART, NEV.              
+ 127  136 3 TO PASS S. 378.                                                   
+ 128  137 1 CR-2-4-3086   J 43-1-465     HR2550    APR. 15, 1874              
+ 128  137 2 S431100       Y=20 N=27                STOCKTON, N.J.             
+ 128  137 3 TO AMEND H.R. 2550 (18-STAT-32), AN APPROPRIATION BILL FOR        
+ 128  137 4 THE PAYMENT OF PUBLIC SCHOOL TEACHERS IN THE DISTRICT OF          
+ 128  137 5 COLUMBIA, BY ADVANCING $270,000 FROM THE UNITED STATES            
+ 128  137 6 TREASURY TO PAY THE SCHOOL TEACHERS, THE MONEY DUE UPON           
+ 128  137 7 FAITH AND BY PLEDGE OF TAXES ASSESSED AND LEVIED, BUT NOT         
+ 128  137 8 COLLECTIBLE UNTIL JULY 1.                                         
+ 129   19 1               EX J 19-297              APR. 17, 1874              
+ 129   19 2 E431012       Y=31 N=6                 EDMUNDS, VT.               
+ 129   19 3 TO INSTRUCT THE COMMITTEE ON TERRITORIES TO REPORT THE            
+ 129   19 4 EVIDENCE TAKEN BEFORE THE COMMITTEE AND THAT THE EVIDENCE         
+ 129   19 5 BE PRINTED IN CONFIDENCE FOR USE OF THE SENATE, MADE              
+ 129   19 6 DURING DEBATE ON THE NOMINATION OF EDWARD W. MCCOOK,              
+ 129   19 7 FOR GOVERNOR OF THE TERRITORY OF COLORADO, IN PLACE OF            
+ 129   19 8 S. J. ELBERT, REMOVED.                                            
+ 130  138 1 CR-2-4-3139   J 43-1-472     S350      APR. 17, 1874              
+ 130  138 2 S431101       Y=32 N=8                 SHERMAN, OHIO              
+ 130  138 3 TO CONCUR IN A HOUSE AMENDMENT TO S. 350 (18-STAT-L.43),          
+ 130  138 4 A BILL PROVIDING FOR THE PAYMENT OF THE BONDS OF THE              
+ 130  138 5 LOUISVILLE AND PORTLAND CANAL COMPANY.  THE AMENDMENT             
+ 130  138 6 PROTECTS THE RIGHTS OF BONDHOLDERS OF THE LOUISVILLE AND          
+ 130  138 7 PORTLAND CANAL COMPANY BY MAKING IT LAWFUL FOR TRUSTEES TO        
+ 130  138 8 COMMENCE PROCEEDINGS IN ANY LAWFUL COURT AND TO AUTHORIZE         
+ 130  138 9 THE ATTORNEY GENERAL TO TAKE STEPS TO PROTECT THE                 
+ 130  13810 UNITED STATES GOVERNMENT IN CASE OF FAILURE OF THE                
+ 130  13811 APPROPRIATION FOR THE PAYMENT OF BONDS OF THE COMPANY.            
+ 131  139 1 CR-2-1-3239   J 43-1-481     S350      APR. 21, 1874              
+ 131  139 2 S431102       Y=40 N=4                 SHERMAN, OHIO              
+ 131  139 3 TO AMEND S. 350, A BILL PROVIDING FOR THE PAYMENT OF THE          
+ 131  139 4 BONDS OF THE LOUISVILLE AND PORTLAND CANAL COMPANY, BY            
+ 131  139 5 ELIMINATING THE PROVISO WHICH STATES THAT THE SECRETARY           
+ 131  139 6 PAY NO MONEY UNDER ANY OF THE PROVISIONS, OR TAKE                 
+ 131  139 7 POSSESSION OF THE CANAL UNTIL THE STATE OF KENTUCKY SHALL         
+ 131  139 8 CEDE JURISDICTION TO THE UNITED STATES AND RELINQUISH THE         
+ 131  139 9 RIGHT TO TAX THE CANAL.                                           
+ 132  140 1 CR-2-4-3333   J 43-1-497               APR. 24, 1874              
+ 132  140 2 S431103       Y=32 N=11                STOCKTON, N.J.             
+ 132  140 3 THAT WHEN THE SENATE ADJOURNS TODAY, IT DO SO UNTIL               
+ 132  140 4 MONDAY NEXT.                                                      
+ 133  141 1 CR-2-4-3424   J 43-1-503     HR1573    APR. 28, 1874              
+ 133  141 2 S431104       Y=39 N=14                HAMILTON, MD.              
+ 133  141 3 TO PASS H.R. 1573 (18-STAT-L.41), A BILL AUTHORIZING THE          
+ 133  141 4 CITIZENS' NATIONAL BANK OF HAGERSTOWN, MD. TO CHANGE ITS          
+ 133  141 5 LOCATION TO THE DISTRICT OF COLUMBIA.                             
+ 134  142 1 CR-2-4-3436A  J 43-1-504     S617      APR. 28, 1874              
+ 134  142 2 S431105       Y=35 N=27                WRIGHT, IOWA               
+ 134  142 3 TO POSTPONE ALL ORDERS AND CONSIDER S. 617.                       
+ 135  143 1 CR-2-4-3436B  J 43-1-505     S617      APR. 28, 1874              
+ 135  143 2 S431106       Y=34 N=30                SHERMAN, OHIO              
+ 135  143 3 TO PASS S. 617 OVER A PRESIDENTIAL VETO.                          
+ 136  144 1 CR-2-4-3490   J 43-1-514     S320      APR. 30, 1874              
+ 136  144 2 S431107       Y=21 N=18                LOGAN, ILL.                
+ 136  144 3 TO PASS S. 320 (18-STAT-L.338), A BILL FIXING THE                 
+ 136  144 4 NUMBER OF PAYMASTERS IN THE UNITED STATES ARMY.                   
+ 137  145 1 CR-2-4-3520   J 43-1-518     S441      MAY 1, 1874                
+ 137  145 2 S431108       Y=35 N=12                THURMAN, OHIO              
+ 137  145 3 TO PASS S. 441, A BILL ENABLING CLAIMANTS TO LANDS WITHIN         
+ 137  145 4 THE LIMITS OF NEW MEXICO, COLORADO, AND ARIZONA TO                
+ 137  145 5 INSTITUTE PROCEEDINGS FOR THE VALIDITY OF THEIR CLAIMS.           
+ 138  146 1 CR-2-4-3569   J 43-1-524     S486      MAY 4, 1874                
+ 138  146 2 S431109       Y=28 N=12                RAMSEY, MINN.              
+ 138  146 3 TO PASS S. 486 (18-STAT-L.203), A BILL CONTINUING                 
+ 138  146 4 CERTAIN GRANTS MADE TO THE TERRITORY AND STATE OF                 
+ 138  146 5 MINNESOTA TO AID IN THE CONSTRUCTION OF THE SAINT PAUL AND        
+ 138  146 6 PACIFIC RAILROAD COMPANY.                                         
+ 139   20 1               EX J 19-316              MAY 7, 1874                
+ 139   20 2 E431013       Y=24 N=13                FLANAGAN, TEX.             
+ 139   20 3 NOMINATION OF A. B. HALL AS DEPUTY POSTMASTER AT                  
+ 139   20 4 GALVESTON TEXAS.                                                  
+ 140  147 1 CR-2-4-3765   J 43-1-548     S7        MAY 11, 1874               
+ 140  147 2 S431110       Y=13 N=33                SCHURZ, MO.                
+ 140  147 3 TO ADJOURN, MOTION MADE DURING DEBATE ON S. 7                     
+ 140  147 4 (18-STAT-L.245), A BILL CREATING A COURT FOR THE                  
+ 140  147 5 DISPOSITION OF MONEY RECEIVED BY THE UNITED STATES THROUGH        
+ 140  147 6 A TREATY WITH GREAT BRITAIN.                                      
+ 141  148 1 CR-2-4-3797   J 43-1-553A    S7        MAY 12, 1874               
+ 141  148 2 S431111       Y=32 N=27                THURMAN, OHIO              
+ 141  148 3 TO AMEND S. 7, BY ELIMINATING A PROVISION THAT NO CLAIM           
+ 141  148 4 SHALL BE ALLOWED IN BEHALF OF ANY CLAIMANT UNLESS THE             
+ 141  148 5 CLAIMANT SHALL PROVE THAT DURING THE CIVIL WAR HIS LOSSES         
+ 141  148 6 IN BUSINESS EXCEEDED HIS GAINS.                                   
+ 142  149 1 CR-2-4-3801   J 43-1-553B    S7        MAY 12, 1874               
+ 142  149 2 S431112       Y=37 N=21                SHERMAN, OHIO              
+ 142  149 3 TO AMEND S. 7, BY PROVIDING THAT ALL CLAIMS MUST BE               
+ 142  149 4 ADJOURNED UPON THE BASIS OF UNITED STATES GOLD COINS AND          
+ 142  149 5 VERIFIED BY OATH, THUS BASING THE SETTLEMENT OF THESE             
+ 142  149 6 CLAIMS ON THE STANDARD VALUE OF THE GOLD COIN INSTEAD OF          
+ 142  149 7 CURRENCY.                                                         
+ 143  150 1 CR-2-4-3803   J 43-1-555A    S7        MAY 12, 1874               
+ 143  150 2 S431113       Y=23 N=34                CONKLING, N.Y.             
+ 143  150 3 TO AMEND S. 7, BY ELIMINATING SOME SECTIONS OF THE BILL,          
+ 143  150 4 WHICH CONSIST OF PROVISIONS FOR THE ESTABLISHMENT OF A            
+ 143  150 5 SPECIAL COURT.                                                    
+ 144  151 1 CR-2-4-3804   J 43-1-555B    S7        MAY 12, 1874               
+ 144  151 2 S431114       Y=22 N=28                SARGENT, CALIF.            
+ 144  151 3 TO AMEND S. 7, BY PROPOSING THREE COMMISSIONERS (INSTEAD OF       
+ 144  151 4 FIVE) TO CONSTITUTE THE TRIBUNAL OF CLAIMS.                       
+ 145  152 1 CR-2-4-3808A  J 43-1-556A    S7        MAY 12, 1874               
+ 145  152 2 S431115       Y=20 N=28                MORRILL, ME.               
+ 145  152 3 TO AMEND S. 7, BY INCLUDING THE AMERICANS WHO PAID WAR            
+ 145  152 4 PREMIUMS AS HAVING THE RIGHT TO PRESENT THEIR CLAIMS FOR          
+ 145  152 5 ADJUSTMENT.                                                       
+ 146  153 1 CR-2-4-3808B  J 43-1-556B    S7        MAY 12, 1874               
+ 146  153 2 S431116       Y=21 N=29                THURMAN, OHIO              
+ 146  153 3 TO AMEND S. 7, BY ELIMINATING A CLAUSE PROHIBITING                
+ 146  153 4 INSURANCE COMPANIES FROM PRESENTING ANY CLAIMS AGAINST THE        
+ 146  153 5 GENEVA AWARD, THUS PERMITTING THESE CLAIMS TO BE MADE             
+ 146  153 6 UNDER THE INSURANCE COMPANIES RIGHT OF INDEMNITY.                 
+ 147  154 1 CR-2-4-3809A  J 43-1-557A    S7        MAY 12, 1874               
+ 147  154 2 S431117       Y=9 N=40                 THURMAN, OHIO              
+ 147  154 3 TO ADJOURN, MOTION MADE DURING DEBATE ON S. 7.                    
+ 148  155 1 CR-2-4-3808B  J 43-1-557B    S7        MAY 12, 1874               
+ 148  155 2 S431118       Y=22 N=27                EDMUNDS, VT.               
+ 148  155 3 TO RECONSIDER AN AMENDMENT TO S. 7, WHICH RELATES TO THE          
+ 148  155 4 LIMITATION AGAINST INSURANCE COMPANIES.                           
+ 149  156 1 CR-2-4-3810   J 43-1-557C    S7        MAY 12, 1874               
+ 149  156 2 S431119       Y=13 N=30                THURMAN, OHIO              
+ 149  156 3 TO TABLE S. 7.                                                    
+ 150  157 1 CR-2-4-3811A  J 43-1-558A    S7        MAY 12, 1874               
+ 150  157 2 S431120       Y=9 N=34                 MORRILL, ME.               
+ 150  157 3 TO AMEND S. 7, BY MAKING IT THE DUTY OF THE COURT TO              
+ 150  157 4 RECEIVE AND EXAMINE ALL CLAIMS, INCLUDING WAR PREMIUMS,           
+ 150  157 5 AND ALL CLAIMS FOR LOSSES OF VESSELS DESTROYED BY THE             
+ 150  157 6 SHENANDOAH BEFORE HER DEPARTURE FROM MELBOURNE.                   
+ 151  158 1 CR-2-4-3811B  J 43-1-558B    S7        MAY 12, 1874               
+ 151  158 2 S431121       Y=26 N=17                EDMUNDS, VT.               
+ 151  158 3 TO PASS S. 7.                                                     
+ 152  159 1 CR-2-4-3844   J 43-1-564     HR1572    MAY 13, 1874               
+ 152  159 2 S431122       Y=16 N=37                SCOTT, PA.                 
+ 152  159 3 TO AMEND H.R. 1572 (18-STAT-L.123), A BILL AMENDING THE           
+ 152  159 4 ACT WHICH PROVIDES A NATIONAL CURRENCY AND ESTABLISHES            
+ 152  159 5 FREE BANKING, BY ELIMINATING A PROVISION THAT NATIONAL            
+ 152  159 6 BANKING ASSOCIATIONS SHALL KEEP TWENTY FIVE PER CENT OF           
+ 152  159 7 THE COIN RECEIVED AS INTEREST ON UNITED STATES BONDS, AND         
+ 152  159 8 INSERTING A PROVISION THAT THIRTY-THREE AND ONE THIRD             
+ 152  159 9 PER CENT OF THE COIN BE KEPT AS RESERVE UNLESS THEY WISH          
+ 152  15910 TO EXCHANGE IT FOR UNITED STATES BONDS.                           
+ 153  160 1 CR-2-4-3880A  J 43-1-569A    HR1572    MAY 14, 1874               
+ 153  160 2 S431123       Y=32 N=24                WRIGHT, IOWA               
+ 153  160 3 TO AMEND H.R. 1572, BY REDUCING FROM 53 PER CENT TO 25            
+ 153  160 4 PER CENT THE AMOUNT OF UNITED STATES NOTES WHICH THE              
+ 153  160 5 SECRETARY OF THE TREASURY IS AUTHORIZED TO RETIRE IN              
+ 153  160 6 RELATION TO THE CIRCULATING NOTES SO ISSUED.                      
+ 154  161 1 CR-2-4-3880B  J 43-1-569B    HR1572    MAY 14, 1874               
+ 154  161 2 S431124       Y=20 N=35                CHANDLER, MICH.            
+ 154  161 3 TO TABLE H.R. 1572.                                               
+ 155  162 1 CR-2-4-3881A  J 43-1-570A    HR1572    MAY 14, 1874               
+ 155  162 2 S431125       Y=30 N=23                WRIGHT, IOWA               
+ 155  162 3 TO AMEND H.R. 1572, BY LIMITING THE RETIREMENT OF                 
+ 155  162 4 CIRCULATING NOTES TO AN AMOUNT COMPUTED AT 25 PER CENT ON         
+ 155  162 5 THE HIGHEST OUTSTANDING VOLUME OF THE NOTES AT ANY TIME           
+ 155  162 6 PRIOR TO THE ISSUE OF CIRCULATING NOTES TO NATIONAL               
+ 155  162 7 BANKING ASSOCIATIONS.                                             
+ 156  163 1 CR-2-4-3881B  J 43-1-570B    HR1572    MAY 14, 1874               
+ 156  163 2 S431126       Y=32 N=15                WRIGHT, IOWA               
+ 156  163 3 TO AMEND H.R. 1572, BY REDUCING RATES ON BONDS TO FOUR AND        
+ 156  163 4 ONE HALF PER CENT (IN LIEU OF FIVE PER CENT) PER ANNUM            
+ 156  163 5 AFTER TEN YEARS FROM THEIR ISSUE DATE AND BEARING INTEREST        
+ 156  163 6 PAYABLE QUARTERLY.                                                
+ 157  164 1 CR-2-4-3881C  J 43-1-570C    HR1572    MAY 14, 1874               
+ 157  164 2 S431127       Y=31 N=16                WRIGHT, IOWA               
+ 157  164 3 TO AMEND H.R. 1572, BY EXTENDING THE DATE OF MATURITY TO          
+ 157  164 4 FIFTEEN YEARS (IN LIEU OF TEN) FOR GOVERNMENT BONDS OF            
+ 157  164 5 DENOMINATIONS OF $50. OR SOME MULTIPLE, REDEEMABLE IN COIN        
+ 157  164 6 OF THE PRESENT STANDARD VALUE, AFTER FIFTEEN YEARS FROM           
+ 157  164 7 DATE OF ISSUE.                                                    
+ 158  165 1 CR-2-4-3889   J 43-1-572     HR1572    MAY 148 1874               
+ 158  165 2 S431128       Y=27 N=29                CONKLING, N.Y.             
+ 158  165 3 TO AMEND H.R. 1572, BY SUBSTITUTING A NEW SUBJECT AFTER THE       
+ 158  165 4 ENACTING CLAUSE, AND SATISFYING A COMPLAINT THAT                  
+ 158  165 5 INEQUALITY EXISTS BETWEEN STATES WITH RESPECT TO BANK             
+ 158  165 6 CIRCULATION.                                                      
+ 159  166 1 CR-2-4-3890   J 43-1-573     HR1572    MAY 14, 1874               
+ 159  166 2 S431129       Y=8 N=40                 MERRIMON, N.C.             
+ 159  166 3 TO AMEND H.R. 1572, BY REQUIRING NATIONAL BANKS TO RETIRE         
+ 159  166 4 THEIR CIRCULATING NOTES FROM CIRCULATION BEFORE JULY 1,           
+ 159  166 5 1875, FOR WHICH UNITED STATES NOTES IN LIKE AMOUNTS WILL BE       
+ 159  166 6 ISSUED, BY LIMITING TAX ON STATE BANK NOTES TO THE RATE ON        
+ 159  166 7 NATIONAL BANK NOTES, BY PERMITTING 50 PER CENT OF IMPORT          
+ 159  166 8 DUTIES TO BE PAID IN UNITED STATES NOTES, BY EXCHANGING           
+ 159  166 9 UNITED STATES REGISTERED BONDS FOR UNITED STATES NOTES            
+ 159  16610 AFTER JANUARY 1, 1877, THE BONDS REDEEMABLE IN TEN YEARS,         
+ 159  16611 BY RESERVING $25,000,000 IN GOLD AND SILVER COIN FROM             
+ 159  16612 SURPLUS REVENUES FOR REDEMPTION OF LEGAL TENDER NOTES FROM        
+ 159  16613 JANUARY 1, 1878, AND BY REDEEMING FRACTIONAL CURRENCY IN          
+ 159  16614 SILVER COIN.                                                      
+ 160  167 1 CR-2-4-3896A  J 43-1-574     HR1572    MAY 14, 1874               
+ 160  167 2 S431130       Y=18 N=28                CONKLING, N.Y.             
+ 160  167 3 TO AMEND H.R. 1572, BY REPEALING PART OF AN ACT WHICH             
+ 160  167 4 PROVIDES THAT NO CIRCULATION SHALL BE WITHDRAWN UNTIL             
+ 160  167 5 AFTER $54,000,000, AS GRANTED IN ACT HAS BEEN TAKEN UP, AND       
+ 160  167 6 AUTHORIZING A COMPTROLLER OF CURRENCY TO WITHDRAW                 
+ 160  167 7 ON APPORTIONED CIRCULATION FROM EACH NATIONAL BANK HAVING         
+ 160  167 8 AN EXCESS, AND BY AUTHORIZING COMPTROLLER TO ISSUE                
+ 160  167 9 CIRCULATING NOTES TO ASSOCIATIONS IN STATES AND                   
+ 160  16710 TERRITORIES HAVING LESS THAN THEIR PROPORTION OF                  
+ 160  16711 CIRCULATION.                                                      
+ 161  168 1 CR-2-4-3896B  J 43-1-575A    HR1572    MAY 14, 1874               
+ 161  168 2 S431131       Y=20 N=24                SCOTT, PA.                 
+ 161  168 3 TO AMEND H.R. 1572, BY COMPELLING THE SECRETARY OF THE            
+ 161  168 4 TREASURY TO RETIRE FORTY PER CENT (IN LIEU OF TWENTY-FIVE         
+ 161  168 5 PER CENT) OF THE CIRCULATING NOTES SO ISSUED WITHIN               
+ 161  168 6 THIRTY DAYS.                                                      
+ 162  169 1 CR-2-4-3896C  J 43-1-575B    HR1572    MAY 14, 1874               
+ 162  169 2 S431132       Y=25 N=19                SHERMAN, OHIO              
+ 162  169 3 TO PASS H.R. 1572.                                                
+ 163  170 1 CR-2-5-4017A  J 43-1-590A    HR2064    MAY 19, 1874               
+ 163  170 2 S431133       Y=22 N=24                MORRILL, ME.               
+ 163  170 3 TO TABLE AN AMENDMENT TO H.R. 2064 (18-STAT-L.85), THE            
+ 163  170 4 LEGISLATIVE, EXECUTIVE AND JUDICIAL APPROPRIATIONS BILL           
+ 163  170 5 FOR FISCAL 1874.  THE AMENDMENT DECLARES THAT THE                 
+ 163  170 6 COMMISSIONER OF AGRICULTURE SHALL NOT BE PREVENTED FROM           
+ 163  170 7 OCCUPYING THE APARTMENT IN THE AGRICULTURE BUILDING.              
+ 164  171 1 CR-2-5-4017B  J 43-1-590B    HR2064    MAY 19, 1874               
+ 164  171 2 S431134       Y=21 N=22                FRELINGHUYS, N.J.          
+ 164  171 3 TO AMEND H.R. 2064, BY PROVIDING THAT THE COMMISSIONER OF         
+ 164  171 4 AGRICULTURE SHALL NOT BE PREVENTED FROM OCCUPYING THE             
+ 164  171 5 APARTMENTS IN THE BUILDING OF THE AGRICULTURE DEPARTMENT.         
+ 165  172 1 CR-2-5-4020   J 43-1-590C    HR2064    MAY 19, 1874               
+ 165  172 2 S431135       Y=14 N=26                FRELINGHUYS, N.J.          
+ 165  172 3 TO AMEND H.R. 2064, BY APPROPRIATING AN ADDITIONAL $2,500,        
+ 165  172 4 THUS MAKING THE TOTAL APPROPRIATION $4,500, FOR COLLECTING        
+ 165  172 5 AND PREPARING SPECIMENS FOR THE MUSEUM AND HERBARIUM.             
+ 166  173 1 CR-2-5-4024A  J 43-1-591     HR2064    MAY 19, 1874               
+ 166  173 2 S431136       Y=17 N=25                BOREMAN, W. VA.            
+ 166  173 3 TO RECONSIDER CONCURRING IN AN AMENDMENT TO H.R. 2064.  THE       
+ 166  173 4 AMENDMENT ELIMINATES A PROVISION REQUIRING THE SECRETARY          
+ 166  173 5 OF THE TREASURY TO CAUSE ALL UNEXPENDED BALANCES OF               
+ 166  173 6 APPROPRIATIONS TO BE RETURNED TO THE TREASURY EVERY TWO           
+ 166  173 7 YEARS, EXCEPT APPROPRIATIONS FOR RIVERS, HARBORS, LIGHT           
+ 166  173 8 HOUSES AND PUBLIC BUILDINGS, AND SUBSTITUTES A PROVISION          
+ 166  173 9 OMITTING THE EXCEPTION RELATING TO APPROPRIATIONS FOR RIVER       
+ 166  17310 AND HARBORS, LIGHT HOUSES AND PUBLIC BUILDINGS, SO AS TO          
+ 166  17311 INCLUDE THEM IN SECRETARY'S REPORT OF BALANCES OF                 
+ 166  17312 APPROPRIATIONS TO BE MADE TO CONGRESS AT BEGINNING OF EACH        
+ 166  17313 SESSION, AND SUMS NECESSARY TO BE REAPPROPRIATED.                 
+ 167  174 1 CR-2-5-4024B  J 43-1-592     S1        MAY 19, 1874               
+ 167  174 2 S431137       Y=11 N=22                DAVIS, W. VA.              
+ 167  174 3 TO ADJOURN, DUE TO THE LATE HOUR, MOTION MADE DURING              
+ 167  174 4 CONSIDERATION OF S. 1 (18-STAT-L.335), THE SUPPLEMENTARY          
+ 167  174 5 CIVIL RIGHTS BILL.                                                
+ 168  175 1 CR-2-5-4080   J 43-1-596     S218      MAY 20, 1874               
+ 168  175 2 S431138       Y=37 N=13                FRELINGHUYS, N.J.          
+ 168  175 3 TO POSTPONE FURTHER CONSIDERATION OF S. 218, A BILL               
+ 168  175 4 ENABLING THE SECRETARY OF INTERIOR TO MAKE FULL SETTLEMENT        
+ 168  175 5 WITH POTTAWATOMIE INDIANS OF MICHIGAN AND INDIANA UNDER           
+ 168  175 6 TREATY STIPULATIONS EXISTING WITH THEM, AND TO TAKE UP S. 1       
+ 168  175 7 (18-STAT-L. 335), THE SUPPLEMENTARY CIVIL RIGHTS BILL.            
+ 169  176 1 CR-2-5-4162   J 43-1-606A    S1        MAY 22, 1874               
+ 169  176 2 S431139       Y=16 N=31                MERRIMON, N.C.             
+ 169  176 3 TO ADJOURN, MOTION MADE DURING CONSIDERATION OF S. 1.             
+ 170  177 1 CR-2-5-4166   J 43-1-606B    S1        MAY 22, 1874               
+ 170  177 2 S431140       Y=12 N=32                STOCKTON, N.J.             
+ 170  177 3 THAT WHEN THE SENATE ADJOURN TODAY IT DO SO UNTIL MONDAY,         
+ 170  177 4 MOTION MADE DURING DEBATE ON S. 1.                                
+ 171  178 1 CR-2-5-4167A  J 43-1-606C    S1        MAY 22, 1874               
+ 171  178 2 S431141       Y=13 N=32                THURMAN, OHIO              
+ 171  178 3 TO AMEND S. 1, BY PENALIZING ANY PERSON WHO DENIES ANY            
+ 171  178 4 CITIZEN OF ANY RACE OR COLOR, REGARDLESS OF ANY PREVIOUS          
+ 171  178 5 CONDITION OF SERVITUDE, ACCOMMODATIONS, ADVANTAGES, OR            
+ 171  178 6 FACILITIES OR PRIVILEGES OF THIS ACT, $500.                       
+ 172  179 1 CR-2-5-4167B  J 43-1-607A    S1        MAY 22, 1874               
+ 172  179 2 S431142       Y=21 N=26                SARGENT, CALIF.            
+ 172  179 3 TO AMEND S. 1, BY ALLOWING ANY STATE OR SCHOOL DISTRICT TO        
+ 172  179 4 PROVIDE SEPERATE SCHOOLS FOR PERSONS OF DIFFERENT SEX OR          
+ 172  179 5 COLOR WHEN SEPERATE SCHOOLS ARE ON SAME GRADE ESTABLISHED         
+ 172  179 6 BY AND SUPPORTED BY EQUAL PRO RATA SCHOOL FUND                    
+ 172  179 7 EXPENDITURES.                                                     
+ 173  180 1 CR-2-5-4169   J 43-1-607B    S1        MAY 22, 1874               
+ 173  180 2 S431143       Y=5 N=42                 BOUTWELL, MASS.            
+ 173  180 3 TO AMEND S. 1, BY EXEMPTING FROM THE OPERATIONS OF THE            
+ 173  180 4 STATUTE PRIVATE SCHOOLS AND PRIVATE INSTITUTIONS, OR              
+ 173  180 5 THOSE THAT ARE MAINTAINED OR FOUNDED BY PRIVATE FUNDS.            
+ 174  181 1 CR-2-5-4170   J 43-1-608A    S1        MAY 22, 1874               
+ 174  181 2 S431144       Y=14 N=30                GORDON, GA.                
+ 174  181 3 TO AMEND S. 1, BY ELIMINATING A CLAUSE WHICH EXTENDS TO           
+ 174  181 4 ALL PERSONS THE EQUAL USE OF PUBLIC SCHOOLS, SUPPORTED BY         
+ 174  181 5 GENERAL TAXATION.                                                 
+ 175  182 1 CR-2-5-4171   J 43-1-608B    S1        MAY 22, 1874               
+ 175  182 2 S431145       Y=9 N=37                 ALCORN, MISS.              
+ 175  182 3 TO AMEND S. 1, BY ADDING A PROVISION MAKING ALL SCHOOLS           
+ 175  182 4 OPEN TO EVERYONE.                                                 
+ 176  183 1 CR-2-5-4175A  J 43-1-608C    S1        MAY 22, 1874               
+ 176  183 2 S431146       Y=16 N=28                SARGENT, CAL.              
+ 176  183 3 TO AMEND S. 1, BY GIVING TO COLORED CHILDREN THE RIGHT TO         
+ 176  183 4 ATTEND PUBLIC SCHOOLS ON AN EQUAL BASIS WITH WHITE                
+ 176  183 5 CHILDREN.                                                         
+ 177  184 1 CR-2-5-4175B  J 43-1-609A    S1        MAY 22, 1874               
+ 177  184 2 S431147       Y=15 N=28                HAMILTON, MD.              
+ 177  184 3 TO AMEND S. 1, BY ELIMINATING A PROVISION THAT NO PERSON,         
+ 177  184 4 REGARDLESS OF RACE OR COLOR, POSSESSING ALL QUALIFICATIONS        
+ 177  184 5 SHALL BE DISQUALIFIED FOR SERVICE AS GRAND OR PETIT JUROR         
+ 177  184 6 IN ANY UNITED STATES OR STATE COURT, AND ANY OFFICER              
+ 177  184 7 FAILING TO SUMMON A JUROR FOR SUCH CAUSE SHALL BE QUALITY         
+ 177  184 8 OF A MISDEMEANOR.                                                 
+ 178  185 1 CR-2-5-4176   J 43-1-609B    S1        MAY 22, 1874               
+ 178  185 2 S431148       Y=29 N=16                EDMUNDS, VT.               
+ 178  185 3 TO PASS S. 1.                                                     
+ 179  186 1 CR-2-5-4235   J 43-1-618     HR3030    MAY 25, 1874               
+ 179  186 2 S431149       Y=21 N=17                SHERMAN, OHIO              
+ 179  186 3 TO AMEND H.R. 3030 (18-STAT-L.133), A DEFICIENCY                  
+ 179  186 4 APPROPRIATIONS BILL FOR FISCAL 1872 AND 1873, BY PROVIDING        
+ 179  186 5 THAT THE PENALTY IN VIOLATION OF MISAPPLICATION OF                
+ 179  186 6 APPROPRIATIONS SHALL BE DEEMED A HIGH MISDEMEANOR.                
+ 180  187 1 CR-2-5-4255   J 43-1-624     HR3030    MAY 26, 1874               
+ 180  187 2 S431150       Y=36 N=15                EDMUNDS, VT.               
+ 180  187 3 TO AMEND H.R. 3030, A DEFICIENCY APPROPRIATIONS BILL FOR          
+ 180  187 4 FISCAL 1872 AND 1873, BY ELIMINATING SECTIONS MAKING IT           
+ 180  187 5 UNLAWFUL FOR ANY DEPARTMENT TO EXPEND IN ANY ONE YEAR ANY         
+ 180  187 6 SUMS IN EXCESS OF APPROPRIATIONS FOR FISCAL YEAR OR FUTURE        
+ 180  187 7 CONTRACTS, AND ANY VIOLATION IS TO BE CONSIDERED A                
+ 180  187 8 MISDEMEANOR.                                                      
+ 181  188 1 CR-2-5-4257   J 43-1-625     HR1394    MAY 26, 1874               
+ 181  188 2 S431151       Y=34 N=8                 CAMERON, PA.               
+ 181  188 3 TO CONSIDER H.R. 1394 (18-STAT-L.53), A BILL RELATING TO          
+ 181  188 4 THE CENTENNIAL EXHIBITION AT PHILADELPHIA.                        
+ 182  189 1 CR-2-5-4264   J 43-1-626     HR1394    MAY 26, 1874               
+ 182  189 2 S431152       Y=25 N=17                MORRILL, ME.               
+ 182  189 3 TO PASS H.R. 1394, A BILL RELATING TO THE CENTENNIAL              
+ 182  189 4 EXHIBITION AT PHILADELPHIA.                                       
+ 183  190 1 CR-2-5-4330   J 43-1-639               MAY 28, 1874               
+ 183  190 2 S431153       Y=11 N=33                HAMILTON, MD.              
+ 183  190 3 TO PASS A RESOLUTION PROVIDING THAT FRANCIS W. SYKES IS           
+ 183  190 4 NOT ENTITLED TO A SEAT AS A SENATOR FROM ALABAMA, NOW HELD        
+ 183  190 5 BY GEORGE E. SPENCER.                                             
+ 184  191 1 CR-2-5-4342   J 43-1-640A    S44       MAY 28, 1874               
+ 184  191 2 S431154       Y=24 N=24                EDMUNDS, VT.               
+ 184  191 3 TO TABLE S. 44, A BILL ESTABLISHING THE TERRITORY OF              
+ 184  191 4 PEMBINA.                                                          
+ 185  192 1 CR-2-5-4344   J 43-1-640B    S44       MAY 28, 1874               
+ 185  192 2 S431155       Y=19 N=27                SARGENT, CAL.              
+ 185  192 3 TO AMEND S. 44, BY PROHIBITING THE LEGISLATIVE ASSEMBLY           
+ 185  192 4 FROM ABRIDGING RIGHT OF SUFFRAGE OR RIGHT TO HOLD OFFICE,         
+ 185  192 5 ON ACCOUNT OF SEX, RACE, COLOR OR PREVIOUS CONDITION OF           
+ 185  192 6 SERVITUDE OF ANY RESIDENT OF THE TERRITORY.                       
+ 186  193 1 CR-2-5-4345   J 43-1-640C    S44       MAY 28, 1874               
+ 186  193 2 S431156       Y=19 N=29                BOREMAN, W. VA.            
+ 186  193 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 44.                  
+ 187  194 1 CR-2-5-4383   J 43-1-645     HR1572    MAY 29, 1874               
+ 187  194 2 S431157       Y=31 N=24                WRIGHT, IOWA               
+ 187  194 3 TO INSIST ON SENATE AMENDMENT TO H.R. 1572.  THE SENATE           
+ 187  194 4 AMENDMENT PROVIDES THAT THE AMOUNT OF MONEY IN RESERVE AT         
+ 187  194 5 BANKS IS TO BE DETERMINED BY THE AMOUNT OF THEIR DEPOSITS,        
+ 187  194 6 THAT ALL NEW BANKING ASSOCIATIONS ARE SUBJECT TO THE              
+ 187  194 7 RULES PRESCRIBED FOR SUCH ORGANIZATIONS, FIVE PER CENT OF         
+ 187  194 8 A BANK'S CIRCULATION MUST BE DEPOSITED IN THE TREASURY,           
+ 187  194 9 UNITED STATES NOTES SHALL NOT EXCEED $382,000,000.                
+ 188  195 1 CR-2-5-4392A  J 43-1-648     HR2680    MAY 29, 1874               
+ 188  195 2 S431158       Y=7 N=31                 BOREMAN, W. VA.            
+ 188  195 3 TO ADJOURN, MOTION MADE DURING DEBATE ON H.R. 2680, A BILL        
+ 188  195 4 GRANTING A PENSION TO MRS. JANE DULANEY, WIDOW OF                 
+ 188  195 5 WILLIAM DULANEY, LATE COLONEL OF THE UNITED STATES                
+ 188  195 6 MARINE CORPS.                                                     
+ 189  196 1 CR-2-5-4392B  J 43-1-648               MAY 29, 1874               
+ 189  196 2 S431159       Y=10 N=24                RAMSEY, MINN.              
+ 189  196 3 TO PROCEED TO EXECUTIVE BUSINESS.                                 
+ 190  197 1 CR-2-5-4418   J 43-1-656     HR2343    JUNE, 1, 1874              
+ 190  197 2 S431160       Y=31 N=5                 MORRILL, ME.               
+ 190  197 3 TO AMEND H.R. 2343 (18-STAT-L.146), THE INDIAN DEPARTMENT         
+ 190  197 4 APPROPRIATIONS BILL FOR FISCAL 1874 BY INCREASING                 
+ 190  197 5 APPROPRIATIONS FOR AN INTERPRETER FOR TRIBES                      
+ 190  197 6 IN WYOMING AT THE SHOSHONE AGENCY TO $500.                        
+ 191   21 1               EX J 19-334              JUNE 2, 1874               
+ 191   21 2 E431014       Y=27 N=20                CONKLIN, N.Y.              
+ 191   21 3 NOMINATION OF WILLIAM A. RICHARDSON AS SECRETARY OF THE           
+ 191   21 4 TREASURY.                                                         
+ 192  198 1 CR-2-5-4424   J 43-1-657     HR2343    JUNE 2, 1874               
+ 192  198 2 S431161       Y=29 N=10                MORRILL, ME.               
+ 192  198 3 TO AMEND H.R. 2343, BY INCREASING THE APPROPRIATION FOR THE       
+ 192  198 4 APACHE INDIANS IN ARIZONA TO $550,000.                            
+ 193  199 1 CR-2-5-4457   J 43-1-666     HR2343    JUNE 2, 1874               
+ 193  199 2 S431162       Y=28 N=9                 BUCKINGHAM, CONN.          
+ 193  199 3 TO AMEND H.R. 2343, BY PROVIDING CARE AND SUBSISTENCE FOR         
+ 193  199 4 THE KANSAS INDIANS, INCLUDING AID IN AGRICULTURE, PAY OF          
+ 193  199 5 EMPLOYEES, AND ERECTION OF A MILL.                                
+ 194  200 1 CR-2-5-4460   J 43-1-667     HR2343    JUNE 2, 1874               
+ 194  200 2 S431163       Y=24 N=19                BUCKINGHAM, CONN.          
+ 194  200 3 TO AMEND H.R. 2343, BY EXPENDING THE BALANCE OF SUMS DUE THE      
+ 194  200 4 PILLAGER BAND AT LEECH LAKE BY THE SECRETARY OF INTERIOR          
+ 194  200 5 FOR CIVILIZATION.                                                 
+ 195  201 1 CR-2-5-4555   J 43-1-680               JUNE 4, 1874               
+ 195  201 2 S431164       Y=14 N=33                BOGY, MO.                  
+ 195  201 3 TO AMEND PREAMBLE TO THE RESOLUTION INSTRUCTING THE               
+ 195  201 4 COMMITTEE ON APPROPRIATIONS TO REPORT AMENDMENTS TO THE           
+ 195  201 5 PENDING RIVERS AND HARBORS APPROPRIATION BILL, BY                 
+ 195  201 6 ELIMINATING THE REFERENCE MADE THAT CHEAP TRANSPORTATION CAN      
+ 195  201 7 BE OBTAINED THROUGH COMPETITION UNDER GOVERNMENT CONTROL,         
+ 195  201 8 THE STATEMENT THAT THE GOVERNMENT SHALL CREATE AND                
+ 195  201 9 IMPROVE THE CHANNELS OF COMMERCE, AND THE COMMITMENT THAT         
+ 195  20110 CONGRESS, AT ITS NEXT SESSION, ENTER UPON A SYSTEM OF             
+ 195  20111 IMPROVEMENT.                                                      
+ 196  202 1 CR-2-5-4609   J 43-1-686A              JUNE 5, 1874               
+ 196  202 2 S431165       Y=36 N=19                EDMUNDS, VT.               
+ 196  202 3 THAT WHEN THE SENATE ADJOURNS TODAY, IT BE TO MEET ON             
+ 196  202 4 MONDAY NEXT.                                                      
+ 197  203 1 CR-2-5-4610   J 43-1-686B              JUNE 5, 1874               
+ 197  203 2 S431166       Y=31 N=22                EDMUNDS, VT.               
+ 197  203 3 TO TABLE MOTION TO RECONSIDER ADJOURNMENT OVER TO MONDAY          
+ 197  203 4 NEXT AT NOON.                                                     
+ 198  204 1 CR-2-5-4611   J 43-1-687A    S857      JUNE 5, 1874               
+ 198  204 2 S431167       Y=22 N=28                ANTHONY, R.I.              
+ 198  204 3 TO AMEND S. 857, A BILL PROVIDING FOR THE SALE OF EXTRA           
+ 198  204 4 COPIES OF PUBLIC DOCUMENTS AND FOR THE DISTRIBUTION OF            
+ 198  204 5 REGULAR OFFICIAL EDITIONS, BY SUPPLYING REPORTS ONLY TO           
+ 198  204 6 EMPLOYEES OF THE DEPARTMENT, OR TO THOSE SUPPLYING                
+ 198  204 7 INFORMATION FOR DEPARTMENTAL USE, AND TO EACH ORGANIZED           
+ 198  204 8 AGRICULTURAL SOCIETY, AND TO GRANGE OF PATRONS OF                 
+ 198  204 9 HUSBANDRY.                                                        
+ 199  205 1 CR-2-5-4616   J 43-1-687B    S857      JUNE 5, 1874               
+ 199  205 2 S431168       Y=21 N=28                EDMUNDS, VT.               
+ 199  205 3 TO AMEND S. 857, BY PROVIDING THE COMMISSIONER OF                 
+ 199  205 4 AGRICULTURE WITH 50,000 COPIES OF AGRICULTURE REPORTS.            
+ 200  206 1 CR-2-5-4617   J 43-1-688     S857      JUNE 5, 1874               
+ 200  206 2 S431169       Y=34 N=15                STEVENSON, KY.             
+ 200  206 3 TO AMEND S. 857, BY AUTHORIZING PRINTING, BINDING AND             
+ 200  206 4 FREE MAIL FOR DISTRIBUTION OF 300,000 COPIES OF ANNUAL            
+ 200  206 5 REPORT OF DEPARTMENT OF AGRICULTURE.                              
+ 201  207 1 CR-2-5-4674   J 43-1-696     S88       JUNE 8, 1874               
+ 201  207 2 S431170       Y=34 N=10                WEST, LA.                  
+ 201  207 3 TO PASS S. 88, A BILL FOR BETTER ORGANIZATION OF THE              
+ 201  207 4 UNITED STATES DISTRICT COURTS IN LOUISIANA.                       
+ 202  208 1 CR-2-5-4679   J 43-1-699A    HR3171    JUNE 8, 1874               
+ 202  208 2 S431171       Y=7 N=33                 CAMERON, PA.               
+ 202  208 3 TO RECONSIDER AN AMENDMENT TO H.R. 3171 (18-STAT-L.186), A        
+ 202  208 4 BILL AMENDING THE CUSTOMS-REVENUE LAWS AND REPEALING              
+ 202  208 5 MOIETIES, WHICH AMENDMENT GAVE THE SECRETARY OF THE               
+ 202  208 6 TREASURY AN APPROPRIATION OF $100,000 TO PAY INFORMERS.           
+ 203  209 1 CR-2-5-4685A  J43-1-699B     HR3171    JUNE 8, 1874               
+ 203  209 2 S431172       Y=18 N=29                CAMERON, PA.               
+ 203  209 3 TO PROCEED TO CONSIDERATION OF EXECUTIVE BUSINESS, MOTION         
+ 203  209 4 MADE DURING CONSIDERATION OF H.R. 3171.                           
+ 204  210 1 CR-2-5-4685B  J 43-1-700     HR3171    JUNE 8, 1874               
+ 204  210 2 S431173       Y=21 N=26                SHERMAN, OHIO              
+ 204  210 3 TO AMEND H.R. 3171, BY ADDING A NEW SECTION ENABLING THE          
+ 204  210 4 GOVERNMENT TO GAIN ACCESS TO BOOKS AND PAPERS TO TEST             
+ 204  210 5 WHETHER OR NOT AN INVOICE IS FRAUDULENT.                          
+ 205  211 1 CR-2-5-4708   J 43-1-713A    S418      JUNE 9, 1874               
+ 205  211 2 S431174       Y=11 N=40                JOHNSTON, VA.              
+ 205  211 3 TO CONSIDER AT CLOSE OF THE MORNING HOUR S. 418, A BILL           
+ 205  211 4 FOR THE CLAIM OF THE ADMINISTRATRIX OF ESTATE OF                  
+ 205  211 5 LIEUTENANT JOSEPH WHEATON, DECEASED, FOR THE HALF PAY DUE         
+ 205  211 6 HIM UNDER AN ACT OF CONGRESS AS A LIEUTENANT OF INFANTRY          
+ 205  211 7 DURING THE REVOLUTIONARY WAR.                                     
+ 206  212 1 CR-2-5-4714   J 43-1-713B    HR3171    JUNE 9, 1874               
+ 206  212 2 S431175       Y=19 N=33                CHANDLER, MICH.            
+ 206  212 3 TO AMEND H.R. 3171, BY ELIMINATING THE CLAUSE THAT                
+ 206  212 4 FORFEITURE SHALL APPLY ONLY TO THE PARTICULAR ITEM OF             
+ 206  212 5 MERCHANDISE TO WHICH SUCH FRAUD OR ALLEGED FRAUD RELATES,         
+ 206  212 6 AND THE REPEAL OF CONFISCATION OF ENTIRE INVOICE.                 
+ 207  213 1 CR-2-5-4715   J 43-1-741A    HR3171    JUNE 9, 1874               
+ 207  213 2 S431176       Y=32 N=13                SHERMAN, OHIO              
+ 207  213 3 TO AMEND H.R. 3171, BY APPLYING FORFEITURE ONLY TO THE ITEM       
+ 207  213 4 SMUGGLED, AND ALSO THE REPEAL OF CONFISCATION OF THE ENTIRE       
+ 207  213 5 INVOICE.                                                          
+ 208  214 1 CR-2-5-4729A  J 43-1-714B    HR3171    JUNE 9, 1874               
+ 208  214 2 S431177       Y=27 N=15                CONKLING, N.Y.             
+ 208  214 3 TO AMEND H.R. 3171, BY PROVIDING THAT SUITS OR ACTIONS            
+ 208  214 4 COMMENCED OR FORFEITURES INCURRED PREVIOUS TO MAY 1, 1874,        
+ 208  214 5 SHALL NOT BE AFFECTED BY THIS ACT.                                
+ 209  215 1 CR-2-5-4729B  J 43-1-715A    HR3171    JUNE 9, 1874               
+ 209  215 2 S431178       Y=18 N=22                BUCKINGHAM, CONN.          
+ 209  215 3 TO AMEND H.R. 3171, BY ELIMINATING A PROVISION THAT NOTHING       
+ 209  215 4 CONTAINED IN THE BILL SHALL AFFECT EXISTING RIGHTS OR             
+ 209  215 5 PREVENT A DISTRIBUTION IN ALL CASES WHERE PROSECUTION             
+ 209  215 6 HAS BEEN ACTUALLY COMMENCED, OR IN ANYWISE AFFECT SUITS           
+ 209  215 7 OR ACTIONS COMMENCED OR FORFEITURES INCURRED PREVIOUS TO          
+ 209  215 8 MAY 1, 1874.                                                      
+ 210  216 1 CR-2-5-4730   J 43-1-715B    HR3171    JUNE 9, 1874               
+ 210  216 2 S431179       Y=21 N=20                WADLEIGH, N.H.             
+ 210  216 3 TO AMEND H.R. 3171, BY REPEALING ALL ACTS AND PARTS OF            
+ 210  216 4 ACTS INCONSISTENT WITH THE PROVISIONS OF THIS ACT.                
+ 211  217 1 CR-2-5-4731   J 43-1-716A    HR3171    JUNE 9, 1874               
+ 211  217 2 S431180A      Y=30 N=7                 SHERMAN, OHIO              
+ 211  217 3 TO CONCUR IN AMENDMENT TO H.R. 3171, WHICH AMENDMENT              
+ 211  217 4 PROVIDES FORFEITURE ONLY OF UNREPORTED ARTICLES                   
+ 211  217 5 MISREPRESENTED TO DEFRAUD GOVERNMENT OF REVENUE AND NOT OF        
+ 211  217 6 ENTIRE INVOICE, REPEALING ALL LAWS TO THE CONTRARY AND            
+ 211  217 7 SETTING A $5,000 FINE FOR PERSONS MAKING FRAUDULENT               
+ 211  217 8 INVOICES.                                                         
+ 212  218 1 CR-2-5-4731   J 43-1-716A    HR3171    JUNE 9, 1874               
+ 212  218 2 S431180B      Y=7 N=30                 STEWART, NEV.              
+ 212  218 3 TO AMEND H.R. 3171, BY ELIMINATING THE CLAUSE PROVIDING           
+ 212  218 4 THAT FORFEITURE SHALL ONLY APPLY TO THE PARTICULAR ITEM OF        
+ 212  218 5 MERCHANDISE TO WHICH SUCH FRAUD RELATES, AND ELIMINATING          
+ 212  218 6 THE REPEAL OF CONFISCATION OF ENTIRE INVOICE IN CONSEQUENCE       
+ 212  218 7 OF ANY ITEM CONTAINED IN THE SAME BEING UNDERVALUED.              
+ 213  219 1 CR-2-5-4732   J 43-1-716B    HR3171    JUNE 9, 1874               
+ 213  219 2 S431181       Y=9 N=22                 CONKLING, N.Y.             
+ 213  219 3 TO AMEND H.R. 3171, BY PROVIDING THAT THE ACT SHALL NOT           
+ 213  219 4 AFFECT SUITS OR ACTIONS COMMENCED OR FORFEITURES INCURRED         
+ 213  219 5 PREVIOUS TO MAY 1, 1874.                                          
+ 214  220 1 CR-2-5-4809   J 43-1-721     HR3171    JUNE 10, 1874              
+ 214  220 2 S431182       Y=31 N=26                CONKLING, N.Y.             
+ 214  220 3 TO AMEND H.R. 3171, BY CONFINING THE OPERATION OF THE             
+ 214  220 4 MOIETY BILL FUTURE AND PENDING CASES COMMENCED SINCE              
+ 214  220 5 MAY 1, 1874.                                                      
+ 215  221 1 CR-2-5-4812   J 43-1-722               JUNE 10, 1874              
+ 215  221 2 S431183       Y=20 N=34                CAMERON, PA.               
+ 215  221 3 TO PROCEED TO EXECUTIVE BUSINESS IN ORDER TO ENABLE               
+ 215  221 4 CLERKS TO FINISH ORDINARY BUSINESS BEFORE ADJOURNMENT.            
+ 216  222 1 CR-2-5-4826   J 43-1-723A    HR3171    JUNE 10, 1874              
+ 216  222 2 S431184       Y=12 N=31                                           
+ 216  222 3 TO AMEND A MOTION TO ELIMINATE THE TENTH SECTION OF               
+ 216  222 4 H.R. 3171, WHICH SECTION DECLARES THAT SMUGGLERS FORFEIT ANY      
+ 216  222 5 MERCHANDISE SO SMUGGLED AND PAY A FINE OF $5,000 FOR EACH         
+ 216  222 6 OFFENCE, FORFEITURES TO APPLY TO A PARTICULAR ARTICLE OF          
+ 216  222 7 MERCHANDISE AND ALSO ELIMINATES THE REPEAL OF THE                 
+ 216  222 8 CONFISCATION OF THE ENTIRE INVOICE, SO THAT FORFEITURE            
+ 216  222 9 SHALL APPLY ONLY TO THOSE ARTICLES SMUGGLED.                      
+ 217  223 1 CR-2-5-4829   J 43-1-723B    HR3171    JUNE 10, 1874              
+ 217  223 2 S431185       Y=38 N=3                 SHERMAN, OHIO              
+ 217  223 3 TO PASS H.R. 3171.                                                
+ 218  224 1 CR-2-5-4850   J 43-1-727               JUNE 11, 1874              
+ 218  224 2 S431186       Y=25 N=32                HAMILTON, MD.              
+ 218  224 3 TO AMEND  A RESOLUTION DIRECTING THE SENATE TO PAY                
+ 218  224 4 $8,374.80 OUT OF THE APPROPRIATION FOR COMPENSATION AND           
+ 218  224 5 MILEAGE FOR SENATORS, TO FRANCIS W. SYKES, CONTESTANT             
+ 218  224 6 FROM ALABAMA, WHICH AMENDMENT INCREASES THE AMOUNT TO             
+ 218  224 7 $6,500, FROM THE PROPOSED $3,000.                                 
+ 219  225 1 CR-2-5-4913   J 43-1-738     HR1572    JUNE 12, 1874              
+ 219  225 2 S431187       Y=32 N=23                MORTON, IND.               
+ 219  225 3 TO AGREE TO THE CONFERENCE REPORT ON H.R. 1572.                   
+ 220  226 1 CR-2-5-4945   J 43-1-750A    HR2697    JUNE 13, 1874              
+ 220  226 2 S431188       Y=35 N=5                 LOGAN, ILL.                
+ 220  226 3 TO PASS H.R. 2697 (18-STAT-L.77), A BILL CREATING AN              
+ 220  226 4 ADDITIONAL MAJOR OF ARTILLERY AND PROMOTING                       
+ 220  226 5 CAPTAIN JAMES M. ROBERTSON.                                       
+ 221  227 1 CR-2-5-4954A  J 43-1-745     HR1572    JUNE 13, 1874              
+ 221  227 2 S431189       Y=38 N=17                WRIGHT, IOWA               
+ 221  227 3 TO INSIST ON SENATE'S AMENDMENT, AND AGREE TO FURTHER             
+ 221  227 4 CONFERENCE ON H.R. 1572.                                          
+ 222  228 1 CR-2-5-4954B  J 43-1-750B              JUNE 13, 1874              
+ 222  228 2 S431190       Y=8 N=41                 ROBERTSON, S.C.            
+ 222  228 3 TO ADJOURN, MOTION PREVENTING CONSIDERATION OF A                  
+ 222  228 4 RESOLUTION INSTRUCTING THE COMMITTEE ON APPROPRIATIONS TO         
+ 222  228 5 REPORT AMENDMENTS TO THE RIVERS AND HARBORS BILL.                 
+ 223  229 1 CR-2-5-4982   J 43-1-759A    HR3511    JUNE 15, 1874              
+ 223  229 2 S431191       Y=16 N=40                THURMAN, OHIO              
+ 223  229 3 TO AMEND H.R. 3511 (18-STAT-L.470), A BILL REGULATING THE         
+ 223  229 4 REMOVAL OF CASES FROM STATE COURTS TO UNITED STATES CIRCUIT       
+ 223  229 5 COURTS, BY ELIMINATING A SECTION AUTHORIZING SERVICE UPON         
+ 223  229 6 A DEFENDANT OR HIS AGENT BY PROCESS, NOT TO APPLY TO REAL         
+ 223  229 7 ESTATE OUTSIDE JURISDICTION WHERE SUIT IS BROUGHT.                
+ 224  230 1 CR-2-5-4983   J 43-1-759B    HR3511    JUNE 15, 1874              
+ 224  230 2 S431192       Y=20 N=33                BAYARD, DEL.               
+ 224  230 3 TO AMEND H.R. 3511, BY PROVIDING THAT SECTION TWO SHALL NOT       
+ 224  230 4 APPLY TO ANY SUIT OR CAUSE OF ACTION OCCURING BEFORE              
+ 224  230 5 JULY 1, 1874, OR TO ANY ACTION FOR LIABLE OR SLANDER.             
+ 225  231 1 CR-2-5-4987A  J 43-1-760A    HR3511    JUNE 15, 1874              
+ 225  231 2 S431193       Y=22 N=25                WADLEIGH, N.H.             
+ 225  231 3 TO RECONSIDER AMENDMENT TO H.R. 3511, WHICH AMENDMENT             
+ 225  231 4 AUTHORIZES SERVICE UPON A DEFENDENT OR HIS AGENT BY               
+ 225  231 5 PROCESS OUTSIDE JURISDICTION WHERE SUIT IS BROUGHT.               
+ 226  232 1 CR-2-5-4987B  J 43-1-760B    HR3511    JUNE 15, 1874              
+ 226  232 2 S431194       Y=32 N=22                EDMUNDS, VT.               
+ 226  232 3 TO PASS H.R. 3511.                                                
+ 227  233 1 CR-2-5-4992   J 43-1-763               JUNE 15, 1874              
+ 227  233 2 S431195       Y=43 N=6                 WINDOM, MINN.              
+ 227  233 3 TO PASS A RESOLUTION INSTRUCTING THE APPROPRIATIONS               
+ 227  233 4 COMMITTEE TO REPORT IMPROVEMENTS FOR WATER TRANSPORTATION         
+ 227  233 5 ROUTES TO THE SEABOARD, EMBRACING FOUR ROUTES, NAMELY:            
+ 227  233 6 1. MISSISSIPPI RIVER; 2. FROM THE MISSISSIPPI RIVER TO            
+ 227  233 7 NEW YORK CITY VIA THE NORTHERN LAKES; 3. THROUGH THE              
+ 227  233 8 CENTRAL STATES VIA THE OHIO AND KANAWHA RIVERS TO W. VA.;         
+ 227  233 9 4. FROM THE MISSISSIPPI RIVER VIA THE OHIO AND TENNESSEE          
+ 227  23310 RIVERS TO A POINT IN ALABAMA OR TENNESSEE, AND ALSO UPON          
+ 227  23311 THE ROUTE FROM THE MOUTH OF THE YOUGHIOGHENY RIVER TO             
+ 227  23312 CONTINUE SLACK-WATER NAVIGATION TO ITS SOURCE AT THE              
+ 227  23313 FOOT OF THE ALLEGHENY MOUNTAINS.                                  
+ 228  234 1 CR-2-6-4995   J 43-1-764     S657      JUNE 15, 1874              
+ 228  234 2 S431196       Y=31 N=12                STEVENSON, KY.             
+ 228  234 3 TO CONSIDER S. 657, A BILL PAYING $6,385.54 ON THE CLAIM          
+ 228  234 4 OF JOHN J. ANDERSON, SURVIVING CO-PARTNER OF ANDERSON AND         
+ 228  234 5 WHITE, FOR COTTON TAKEN BY THE GOVERNMENT FOR THE DEFENSE         
+ 228  234 6 OF NASHVILLE IN AUGUST AND SEPTEMBER, 1862.                       
+ 229  235 1 CR-2-5-5088   J 43-1-787A    HR3094    JUNE 17, 1874              
+ 229  235 2 S431197       Y=23 N=31                MORRILL, ME.               
+ 229  235 3 TO TABLE AN AMENDMENT TO H.R. 3094 (18-STAT-L.231), THE           
+ 229  235 4 POST OFFICE APPROPRIATIONS BILL FOR FISCAL 1874, WHICH            
+ 229  235 5 AMENDMENT PERMITS MAILING COPIES OF THE CONGRESSIONAL             
+ 229  235 6 RECORD FREE OF POSTAGE.                                           
+ 230  236 1 CR-2-5-5091A  J 43-1-787B    HR3094    JUNE 17, 1874              
+ 230  236 2 S431198       Y=28 N=27                THURMAN, OHIO              
+ 230  236 3 TO AMEND H.R. 3094, BY PERMITTING THE CONGRESSIONAL RECORD        
+ 230  236 4 TO BE MAILED FREE OF POSTAGE.                                     
+ 231  237 1 CR-2-5-5091B  J 43-1-788A    HR3094    JUNE 17, 1874              
+ 231  237 2 S431199       Y=33 N=26                FRELINGHUYS, N.J.          
+ 231  237 3 TO AMEND H.R. 3094, BY ALLOWING PUBLIC DOCUMENTS TO BE            
+ 231  237 4 MAILED FREE (TO BE SOLD FOR POSTAGE DUE IF NOT CLAIMED            
+ 231  237 5 WITHIN THIRTY DAYS), AND PROVIDING THAT THE CONGRESSIONAL         
+ 231  237 6 RECORD SHALL BE MAILED FREE OF POSTAGE.                           
+ 232  238 1 CR-2-6-5091C  J 43-1-788B    HR3094    JUNE 17, 1874              
+ 232  238 2 S431200       Y=17 N=34                ROBERTSON, S.C.            
+ 232  238 3 TO AMEND H.R. 3094, BY RESTORING THE FRANKING PRIVILEGE.          
+ 233  239 1 CR-2-6-5096   J 43-1-788C    HR3094    JUNE 17, 1874              
+ 233  239 2 S431201       Y=27 N=27                STEVENSON, KY.             
+ 233  239 3 TO AMEND H.R. 3094, BY PROVIDING THAT 300,000 COPIES OF           
+ 233  239 4 REPORT OF COMMITTEE OF AGRICULTURE BE PRINTED FOR                 
+ 233  239 5 CIRCULATION, DULY STAMPED WITH POSTAGE STAMPS, AND BE             
+ 233  239 6 ALLOTTED TO THE HOUSE, SENATE, AND COMMISSIONER FOR THEIR         
+ 233  239 7 DISTRIBUTION.                                                     
+ 234  240 1 CR-2-6-5097   J 43-1-791     HR2797    JUNE 17, 1874              
+ 234  240 2 S431202       Y=40 N=15                SCOTT, PA.                 
+ 234  240 3 TO CONSIDER H.R. 2797 (18-STAT-L.580), A BILL MAKING              
+ 234  240 4 APPROPRIATIONS FOR THE PAYMENT OF CLAIMS REPORTED.                
+ 235  241 1 CR-2-6-5132   J 43-1-799     HR3166    JUNE 18, 1874              
+ 235  241 2 S431203       Y=46 N=3                 SPENCER, ALA.              
+ 235  241 3 TO AGREE TO CONFERENCE REPORT ON H.R. 3166 (18-STAT-128), A       
+ 235  241 4 BILL CORRECTING THE RATE OF COMMISSION OF CERTAIN OFFICERS        
+ 235  241 5 OF THE ARMY.                                                      
+ 236  242 1 CR-2-6-5152   J 43-1-801     HR2797    JUNE 18, 1874              
+ 236  242 2 S431204       Y=21 N=33                SCOTT, PA.                 
+ 236  242 3 TO AMEND H.R. 2797, A BILL MAKING APPROPRIATIONS FOR PAYMENT      
+ 236  242 4 OF CLAIMS ALLOWED UNDER ACT OF MARCH 3, 1871, BY REFECTING        
+ 236  242 5 WILLIAM BAILEY'S CLAIM OF $45,161.72 FOR COTTON CONFISCATED       
+ 236  242 6 DURING THE CIVIL WAR.                                             
+ 237  243 1 CR-2-6-5155   J 43-1-803     HR3680    JUNE 18, 1874              
+ 237  243 2 S431205       Y=12 N=36                SARGENT, CAL.              
+ 237  243 3 TO AMEND H.R. 3680 (18-STAT-L.116), A BILL FOR THE                
+ 237  243 4 GOVERNMENT OF THE DISTRICT OF COLUMBIA, BY PROVIDING FOR          
+ 237  243 5 THE APPOINTMENT OF THREE PERSONS TO THE COMMISSION WHICH          
+ 237  243 6 SHALL EXERCISE ALL THE POWER AND AUTHORITY NOW VESTED IN          
+ 237  243 7 THE GOVERNOR OR BOARD OF PUBLIC WORKS, AND TO DESIGNATE           
+ 237  243 8 ONE OF THE APPOINTEES AS THE GOVERNOR.                            
+ 238  244 1 CR-2-6-5173   J 43-1-807     HR2190    JUNE 18, 1874              
+ 238  244 2 S431206       Y=35 N=21                STEVENSON, KY.             
+ 238  244 3 TO RECESS UNTIL 7:30 O'CLOCK, AND THEN PROCEED TO THE             
+ 238  244 4 CONSIDERATION OF H.R. 2190, A BILL AMENDING AN ACT GRANTING       
+ 238  244 5 PENSION TO WAR OF 1812 VETERANS.                                  
+ 239   22 1               EX J 19-360              JUNE 19, 1874              
+ 239   22 2 E431015       Y=21 N=22                EDMUNDS, VT.               
+ 239   22 3 TO CONSIDER LEGISLATIVE BUSINESS, MOTION MADE DURING              
+ 239   22 4 DEBATE ON THE NOMINATION OF EDWARD W. MCCOOK TO BE                
+ 239   22 5 GOVERNOR OF THE TERRITORY OF COLORADO, IN PLACE OF                
+ 239   22 6 S. J. ELLIOTT, REMOVED.                                           
+ 240   23 1               EX J 19-361              JUNE 19, 1874              
+ 240   23 2 E431016       Y=27 N=26                BOREMAN, W. VA.            
+ 240   23 3 NOMINATION OF EDWARD M. MCCOOK AS GOVERNOR OF THE                 
+ 240   23 4 TERRITORY OF COLORADO, IN PLACE OF S. J. ELLIOTT, REMOVED.        
+ 241  245 1 CR-2-6-5189   J 43-1-813     HR1572    JUNE 19, 1874              
+ 241  245 2 S431207       Y=43 N=19                WRIGHT, IOWA               
+ 241  245 3 TO AGREE TO CONFERENCE REPORT ON H.R. 1572.                       
+ 242  246 1 CR-2-6-5193   J 43-1-816A    HR3168    JUNE 19, 1874              
+ 242  246 2 S431208       Y=29 N=27                PRATT, IND.                
+ 242  246 3 TO POSTPONE H.R. 3168, THE RIVER AND HARBOR APPROPRIATIONS        
+ 242  246 4 BILL FOR FISCAL 1874, AND TO PROCEED TO CONSIDERATION OF          
+ 242  246 5 H.R. 2190.                                                        
+ 243  247 1 CR2-6-5197    J 43-1-816B    HR2190    JUNE 1, 1874               
+ 243  247 2 S431209       Y=27 N=21                THURMAN, OHIO              
+ 243  247 3 TO ADJOURN, MOTION MADE DURING CONSIDERATION OF H.R. 2190.        
+ 244  248 1 CR-2-6-5256   J 43-1-833     HR2190    JUNE 20, 1874              
+ 244  248 2 S431210       Y=36 N=22                MORRILL, ME.               
+ 244  248 3 TO POSTPONE ALL PRIOR ORDERS, MOTION MADE DURING DEBATE ON        
+ 244  248 4 H.R. 2190, AND TAKE UP CONSIDERATION OF H.R. 3600                 
+ 244  248 5 (18-STAT-L.204), THE SUNDRY CIVIL APPROPRIATIONS BILL FOR         
+ 244  248 6 FISCAL 1874.                                                      
+ 245  249 1 CR-2-6-5264   J 43-1-834     HR3600    JUNE 20, 1874              
+ 245  249 2 S431211       Y=32 N=16                MORRILL, ME.               
+ 245  249 3 TO AMEND H.R. 3600 (18-STAT-L.204), THE SUNDAY CIVIL              
+ 245  249 4 APPROPRIATIONS BILL FOR FISCAL 1874, BY APPROPRIATING             
+ 245  249 5 $15,000 TO CARRY OUT THE CIVIL SERVICE ACT AND AUTHORIZING        
+ 245  249 6 THE PRESIDENT TO EMPLOY PERSONS TO CONDUCT CERTAIN                
+ 245  249 7 INQUIRIES AND TO PRESCRIBE THEIR DUTIES IN RESPECT TO             
+ 245  249 8 APPOINTMENT IN THE CIVIL SERVICE.                                 
+ 246  250 1 CR-2-6-5272A  J 43-1-835A    HR3600    JUNE 20, 1874              
+ 246  250 2 S431212       Y=13 N=34                FERRY, MICH.               
+ 246  250 3 TO RECESS UNTIL 8 O'CLOCK, SO THAT FULL CONSIDERATION             
+ 246  250 4 BE GIVEN TO H.R. 3600.                                            
+ 247  251 1 CR-2-6-5272B  J 43-1-855B    HR3600    JUNE 20, 1874              
+ 247  251 2 S431213       Y=27 N=15                WRIGHT, IOWA               
+ 247  251 3 TO AMEND H.R. 3600, BY DIRECTING THE JOINT COMMITTEE ON THE       
+ 247  251 4 LIBRARIES AND THE LIBRARIAN OF CONGRESS TO REPORT AT THE          
+ 247  251 5 NEXT SESSION OF CONGRESS ON THE NECESSITY AND COST OF A           
+ 247  251 6 NEW BUILDING FOR THE CONGRESSIONAL LIBRARY.                       
+ 248  252 1 CR-2-6-5282   J 43-1-836     HR3600    JUNE 20, 1874              
+ 248  252 2 S431214       Y=26 N=19                MORRILL, ME.               
+ 248  252 3 TO CONCUR IN THE AMENDMENT TO H.R. 3600, WHICH APPROPRIATES       
+ 248  252 4 $15,000 FOR THE PURCHASE OF 640 ACRES IN IDAHO FOR AN             
+ 248  252 5 INDIAN AGENCY STATION.                                            
+ 249  253 1 CR-2-6-5290   J 43-1-837     HR3600    JUNE 20, 1874              
+ 249  253 2 S431215       Y=29 N=20                SPRAGUE, R.I.              
+ 249  253 3 TO RECONSIDER ADOPTION OF AMENDMENT TO H.R. 3600.                 
+ 250  254 1 CR-2-6-5295   J 43-1-841A    HR3168    JUNE 20, 1874              
+ 250  254 2 S431216       Y=30 N=21                WINDOM, MINN.              
+ 250  254 3 TO AMEND H.R. 3168 (18-STAT-L.237), THE RIVER AND HARBOR          
+ 250  254 4 APPROPRIATIONS BILL FOR FISCAL 1874, BY INCREASING THE            
+ 250  254 5 APPROPRIATIONS FOR CONTINUING THE IMPROVEMENT OF THE FALLS        
+ 250  254 6 OF SAINT ANTHONY FROM $50,000.80 TO $200,000.                     
+ 251  255 1 CR-2-6-5296   J 43-1-841B    HR3168    JUNE 20, 1874              
+ 251  255 2 S431217       Y=38 N=11                WINDOM, MINN.              
+ 251  255 3 TO AMEND H.R. 3168, BY PROVIDING FOR SURVEYS AND ESTIMATES        
+ 251  255 4 FOR THE IMPROVEMENTS RECOMMENDED BY THE SENATE SELECT             
+ 251  255 5 COMMITTEE ON TRANSPORTATION ROUTES TO THE SEABOARD UPON           
+ 251  255 6 FOUR ROUTES INDICATED IN REPORT OF COMMITTEE ON COMMERCE.         
+ 252  256 1 CR-2-6-5301   J 43-1-842A    HR3168    JUNE 20, 1874              
+ 252  256 2 S431218       Y=28 N=18                SARGENT, CAL.              
+ 252  256 3 TO AMEND H.R. 3168, BY APPROPRIATING $100,000 FOR THE             
+ 252  256 4 IMPROVEMENT OF OAKLAND HARBOR ACCORDING TO THE PLANS              
+ 252  256 5 REPORTED BY THE GOVERNMENT ENGINEERS.                             
+ 253  257 1 CR-2-6-5302A  J 43-1-842B    HR3168    JUNE 20, 1874              
+ 253  257 2 S431219       Y=20 N=20                FERRY, MICH.               
+ 253  257 3 TO AMEND H.R. 3168, BY INCREASING APPROPRIATIONS FOR              
+ 253  257 4 CONTINUANCE OF IMPROVEMENT OF THE SAGINAW RIVER FROM              
+ 253  257 5 $15,000 TO $50,000.                                               
+ 254  258 1 CR-2-6-5302B  J 43-1-842C    HR3168    JUNE 20, 1874              
+ 254  258 2 S431220       Y=21 N=25                PRATT, IND.                
+ 254  258 3 TO AMEND H.R. 3168, BY INCREASING APPROPRIATIONS FROM             
+ 254  258 4 $25,000 TO $50,000, THE APPROPRIATION FOR CONTINUING THE          
+ 254  258 5 IMPROVEMENT OF THE WABASH RIVER, INDIANA.                         
+ 255  259 1 CR-2-6-5303   J 43-1-843     HR3168    JUNE 20, 1874              
+ 255  259 2 S431221       Y=24 N=20                HAGER, CAL.                
+ 255  259 3 TO AMEND H.R. 3168, BY APPROPRIATING $80,000.00 ON AS MUCH        
+ 255  259 4 AS NECESSARY FOR THE PROTECTION OF THE HARBOR OF SAN DIEGO,       
+ 255  259 5 CALIFORNIA, BY TURNING THE SAN DIEGO RIVER INTO FALSE BAY.        
+ 256  260 1 CR-2-6-5308   J 43-1-844     HR2246    JUNE 20, 1874              
+ 256  260 2 S431222       Y=12 N=31                EDMUNDS, VT.               
+ 256  260 3 TO AMEND H.R. 2246 (18-STAT-L.195), A BILL RELATING TO            
+ 256  260 4 CIRCUIT COURTS OF THE UNITED STATES FOR THE DISTRICTS OF          
+ 256  260 5 ALABAMA, BY ESTABLISHING ONE CIRCUIT COURT OF THE U.S.            
+ 256  260 6 IN AND FOR THE DISTRICT OF ALABAMA, WHICH SHALL BE HELD           
+ 256  260 7 AT MONTGOMERY, ALABAMA, AND COMMENCE ON THE FIRST MONDAY          
+ 256  260 8 IN JUNE ANNUALLY, AND TRANSFERRING ALL PENDING COURT              
+ 256  260 9 ACTIONS IN DISTRICT COURTS IN SOUTHERN AND WESTERN                
+ 256  26010 ALABAMA, TO THE NEW CIRCUIT COURT AT MONTGOMERY.                  
+ 257   24 1               EX J 19-367              JUNE 22, 1874              
+ 257   24 2 E431017       Y=35 N=23                SHERMAN, OHIO              
+ 257   24 3 TO PASS A RESOLUTION RELATING TO THE RECIPROCITY TREATY           
+ 257   24 4 BETWEEN THE UNITED STATES AND GREAT BRITAIN, POSTPONING           
+ 257   24 5 THE PROJECT FOR A RECIPROCITY TREATY WITH CANADA, TO THE          
+ 257   24 6 NEXT SESSION OF CONGRESS, AND REMOVING THE INJUNCTION OF          
+ 257   24 7 SECRECY FROM THE PROPOSED TREATY.                                 
+ 258  261 1 CR-2-6-5338   J 43-1-850A    HR3572    JUNE 22, 1874              
+ 258  261 2 S431223       Y=33 N=14                SHERMAN, OHIO              
+ 258  261 3 TO AMEND H.R. 3572 (18-STAT-L.307), A BILL TO AMEND               
+ 258  261 4 EXISTING CUSTOMS AND INTERNAL REVENUE LAWS, BY REMOVING           
+ 258  261 5 THE DUTY OF TEN CENTS PER POUND ON HOPS.                          
+ 259  262 1 CR-2-6-5340   J 43-1-850B    HR3572    JUNE 22, 1874              
+ 259  262 2 S431224       Y=33 N=10                SHERMAN, OHIO              
+ 259  262 3 TO AMEND H.R. 3572, A BILL AMENDING EXISTING CUSTOMS AND          
+ 259  262 4 INTERNAL REVENUE LAWS, BY ELIMINATING THE SECTION                 
+ 259  262 5 PERMITTING FARMS TO SELL THEIR OWN TOBACCO TO AN AMOUNT           
+ 259  262 6 NOT EXCEEDING $100 ANNUALLY, SUBJECT TO REGULATIONS OF            
+ 259  262 7 THE COMMISSIONER OF INTERNAL REVENUE.                             
+ 260  263 1 CR-2-6-5345   J 43-1-854A    HR3604    JUNE 22, 1874              
+ 260  263 2 S431225       Y=15 N=37                FRELINGHUYS, N.J.          
+ 260  263 3 TO POSTPONE CONSIDERATION OF H.R. 3604 (18-STAT-L.256), A         
+ 260  263 4 BILL ESTABLISHING CERTAIN POST-ROUTES IN ORDER TO TAKE UP         
+ 260  263 5 CONSIDERATION OF THE CONFERENCE COMMITTEE REPORT ON THE           
+ 260  263 6 GENEVA AWARD.                                                     
+ 261  264 1 CR-2-6-5346   J 43-1-854B    HR3604    JUNE 22, 1874              
+ 261  264 2 S431223       Y=27 N=26                WEST, LA.                  
+ 261  264 3 TO POSTPONE CONSIDERATION OF H.R. 3604, A BILL ESTABLISHING       
+ 261  264 4 CERTAIN POST-ROUTES, AND TO PROCEED TO CONSIDERATION OF           
+ 261  264 5 THE REPORT OF THE COMMITTEE OF CONFERENCE ON H.R. 3094            
+ 261  264 6 (18-STAT-L.231), THE POST OFFICE APPROPRIATIONS BILL FOR          
+ 261  264 7 FISCAL 1874.                                                      
+ 262  265 1 CR-2-6-5350   J 43-1-856     HR3094    JUNE 22, 1874              
+ 262  265 2 S431227       Y=19 N=21                WEST, LA.                  
+ 262  265 3 TO AGREE TO CONFERENCE REPORT ON H.R. 3094.                       
+ 263  266 1 CR-2-6-5351   J 43-1-860A    HR2897    JUNE 22, 1874              
+ 263  266 2 S431228       Y=14 N=23                EDMUNDS, VT.               
+ 263  266 3 TO POSTPONE INDEFINITELY H.R. 2897 (18-STAT-L.283), A BILL        
+ 263  266 4 AUTHORIZING THE PRESIDENT TO APPOINT GEORGE HENRY PREBLE,         
+ 263  266 5 NOW A CAPTAIN ON THE ACTIVE LIST OF THE NAVY, TO BE A             
+ 263  266 6 COMMODORE.                                                        
+ 264  267 1 CR-2-6-5356   J 43-1-860B    S926      JUNE 22, 1874              
+ 264  267 2 S431229       Y=19 N=29                EDMUNDS, VT.               
+ 264  267 3 TO POSTPONE UNTIL THE FIRST MONDAY IN DECEMBER S. 926             
+ 264  267 4 (18-STAT-621), A BILL COMPENSATING FOR MULES CAPTURED BY          
+ 264  267 5 THE REBELS IN JULY 1864.                                          
+ 265  268 1 CR-2-6-5357   J 43-1-860C    S926      JUNE 22, 1874              
+ 265  268 2 S431230       Y=30 N=16                SCOTT, PA.                 
+ 265  268 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 926, A BILL          
+ 265  268 4 COMPENSATING FOR MULES CAPTURED BY THE REBELS IN JULY,            
+ 265  268 5 1864.                                                             
+ 266  269 1 CR-2-6-5366   J 43-1-859     S7        JUNE 22, 1874              
+ 266  269 2 S431231       Y=38 N=17                FRELINGHUYS, N.J.          
+ 266  269 3 TO AGREE TO CONFERENCE REPORT ON S. 7.                            
+ 267  270 1 CR-2-6-5372   J 43-1-869     HR3097    JUNE 22, 1874              
+ 267  270 2 S431232       Y=26 N=23                FRELINGHUYS, N.J.          
+ 267  270 3 TO CONSIDER H.R. 3097 (18-STAT-L.253), A BILL RELATING TO         
+ 267  270 4 COURTS AND JUDICIAL OFFICES IN THE TERRITORY OF UTAH.             
+ 268  271 1 CR-2-6-5374   J 43-1-870               JUNE 22, 1874              
+ 268  271 2 S431233       Y=26 N=24                SHERMAN, OHIO              
+ 268  271 3 TO ADJOURN, DUE TO LATENESS OF THE HOUR.                          
+ 269   25 1               EX J 19-371              JUNE 23, 1874              
+ 269   25 2 E431018       Y=6 N=35                 SPENCER, ALA.              
+ 269   25 3 NOMINATION OF ALEXANDER R. SHEPHERD AS GOVERNOR OF THE            
+ 269   25 4 DISTRICT OF COLUMBIA.                                             
+ 270  272 1 CR-2-6-5415   J 43-1-880A    HR435     JUNE 23, 1874              
+ 270  272 2 S431234       Y=33 N=20                SPRAGUE, R.I.              
+ 270  272 3 TO TABLE MOTION TO CONSIDER H.R. 435 (18-STAT-L.474), A           
+ 270  272 4 BILL FOR THE ADMISSION OF COLORADO INTO THE UNION ON AN           
+ 270  272 5 EQUAL FOOTING WITH THE ORIGINAL STATES.                           
+ 271  273 1 CR-2-6-5416   J 43-1-880B    HR3097    JUNE 23, 1874              
+ 271  273 2 S431235       Y=32 N=24                RAMSEY, MINN.              
+ 271  273 3 TO POSTPONE CONSIDERATION OF H.R. 3097 (18-STAT-L.253),           
+ 271  273 4 A BILL RELATING TO COURTS AND JUDICIAL OFFICES IN THE             
+ 271  273 5 TERRITORY OF UTAH, IN ORDER TO CONSIDER H.R. 3604, THE            
+ 271  273 6 POST-ROUTE BILL.                                                  
+ 272  274 1 CR-3-1-103    J 43-2-51      HR2190    DEC. 16, 1874              
+ 272  274 2 S432001       Y=16 N=24                CARPENTER, WISC.           
+ 272  274 3 TO ADJOURN, MOTION MADE DURING CONSIDERATION OF THE MOTION        
+ 272  274 4 THAT H.R. 2190 BE MADE A SPECIAL ORDER FOR MONDAY DECEMBER        
+ 272  274 5 21.                                                               
+ 273  275 1 CR-3-1-104    J 43-2-52      HR2190    DEC. 16, 1874              
+ 273  275 2 S432002A      Y=29 N=17                PRATT, IND.                
+ 273  275 3 TO AGREE TO THE MOTION THAT H.R. 2190 BE MADE THE SPECIAL         
+ 273  275 4 ORDER FOR MONDAY, DECEMBER 21.                                    
+ 274  276 1 CR-3-1-188    J 43-2-66      S1044     DEC. 22, 1874              
+ 274  276 2 S432002B      Y=39 N=18                SHERMAN, OHIO              
+ 274  276 3 TO CONSIDER S. 1044 (18-STAT-296), A BILL FOR THE                 
+ 274  276 4 RESUMPTION OF SPECIE PAYMENT.                                     
+ 275  277 1 CR-3-1-203    J 43-2-67A     S1044     DEC. 22, 1874              
+ 275  277 2 S432003       Y=16 N=33                THURMAN, OHIO              
+ 275  277 3 TO AMEND S. 1044, BY ADDING THAT AFTER JUNE 30, 1875, ONE-        
+ 275  277 4 TWENTIETH OF THE CUSTOMS DUTIES SHALL BE PAYABLE IN LEGAL         
+ 275  277 5 TENDER NOTES OR IN NATIONAL BANK NOTES, AFTER JUNE 30, 1876       
+ 275  277 6 ONE-TENTH, AND AFTER JUNE 30, 1877 ONE-FIFTH MAY BE SO PAID.      
+ 276  278 1 CR-3-1-206    J 43-2-67B     S1044     DEC. 22, 1874              
+ 276  278 2 S432004       Y=6 N=44                 SCHURZ, MO.                
+ 276  278 3 TO AMEND S. 1044 BY INSERTING A PROVISION THAT NO LESS            
+ 276  278 4 THAN $2,000,000 OF LEGAL TENDER NOTES SHALL BE RETIRED            
+ 276  278 5 MONTHLY BY THE SECRETARY OF THE TREASURY AND THAT THE             
+ 276  278 6 LEGAL TENDER NOTES SO RETIRED SHALL BE CANCELED AND               
+ 276  278 7 DESTROYED.                                                        
+ 277  279 1 CR-3-1-208A   J 43-2-68A     S1044     DEC. 22, 1874              
+ 277  279 2 S432005       Y=3 N=40                 HAMILTON, TEXAS            
+ 277  279 3 TO AMEND S. 1044, BY PROVIDING THAT SILVER BE EXCHANGED AT        
+ 277  279 4 ITS CURRENT VALUE FOR FRACTIONAL CURRENCY RATHER THAN AT          
+ 277  279 5 EVEN RATES IN ORDER TO STOP SPECULATION.                          
+ 278  280 1 CR-3-1-208B   J 43-2-68B     S1044     DEC. 22, 1874              
+ 278  280 2 S432006       Y=32 N=14                SHERMAN, OHIO              
+ 278  280 3 TO PASS S. 1044.                                                  
+ 279  281 1 CR-3-1-336    J 43-2-90                JAN. 8, 1875               
+ 279  281 2 S432007       Y=32 N=21                CONKLING, N.Y.             
+ 279  281 3 TO AMEND THE RESOLUTION REQUESTING THE PRESIDENT TO INFORM        
+ 279  281 4 THE SENATE OF ANY PORTION OF THE UNITED STATES ARMY DID           
+ 279  281 5 INTERFERE WITH THE ORGANIZATION OF THE GENERAL ASSEMBLY OF        
+ 279  281 6 LOUISIANA, BY LEAVING THE DIVULGING OF SUCH INFORMATION           
+ 279  281 7 ENTIRELY TO THE DISCRETION AND FINAL OPTION OF THE                
+ 279  281 8 PRESIDENT.                                                        
+ 280  282 1 CR-3-1-494    J 43-2-122               JAN. 15, 1875              
+ 280  282 2 S432008       Y=14 N=0                 MERRIMON, N.C.             
+ 280  282 3 TO ADJOURN UNTIL 12 O'CLOCK THE FOLLOWING DAY, A QUORUM           
+ 280  282 4 NOT BEING PRESENT.                                                
+ 281  283 1 CR-3-1-535    J 43-2-124               JAN. 16, 1875              
+ 281  283 2 S432009       Y=17 N=16                BAYARD, DEL.               
+ 281  283 3 TO ADJOURN DUE TO THE LATENESS OF THE HOUR, MOTION MADE           
+ 281  283 4 DURING CONSIDERATION OF THE RESOLUTION THAT THE COMMITTEE         
+ 281  283 5 ON JUDICIARY BE INSTRUCTED TO INQUIRE WHAT LEGISLATION            
+ 281  283 6 BY CONGRESS IS NECESSARY TO SECURE OF THE RIGHTS OF SELF          
+ 281  283 7 GOVERNMENT OF THE PEOPLE OF LOUISIANA UNDER THE                   
+ 281  283 8 CONSTITUTION AND REPORT WITH LEAST POSSIBLE DELAY BY BILL         
+ 281  283 9 OR OTHERWISE.                                                     
+ 282  284 1 CR-3-1-572    J 43-2-135     HR3818    JAN. 19, 1875              
+ 282  284 2 S432010       Y=29 N=21                BOUTWELL, MASS.            
+ 282  284 3 TO AMEND H.R. 3818 (18-STAT-L.343), THE LEGISLATIVE               
+ 282  284 4 EXECUTIVE AND JUDICIAL APPROPRIATIONS BILL FOR FISCAL 1875,       
+ 282  284 5 BY ELIMINATING FROM A PROVISION ESTABLISHING A BUREAU OF          
+ 282  284 6 COMMERCE AND STATISTICS AND APPROPRIATING $60,440 FOR             
+ 282  284 7 ITS USE, ALL OF THE PROVISION EXCEPT THE APPROPRIATIONS.          
+ 283  285 1 CR-3-1-581    J 43-2-136     HR3818    JAN. 19, 1875              
+ 283  285 2 S432011       Y=20 N=24                MORRILL, ME.               
+ 283  285 3 TO AMEND H.R. 3818, BY ELIMINATING A SECTION DECLARING THAT       
+ 283  285 4 THE UNITED STATES CIRCUIT COURT SHALL BE HELD AT SAME             
+ 283  285 5 TIMES AND PLACES IN IOWA AS THE UNITED STATES DISTRICT            
+ 283  285 6 COURT, BUT CIRCUIT COURT JUDGES NEED SIT ONLY IN                  
+ 283  285 7 DES MOINES.                                                       
+ 284  286 1 CR-3-1-604    J 43-2-141A    HR3818    JAN. 20, 1875              
+ 284  286 2 S432012       Y=27 N=11                HAMILTON, TEXAS            
+ 284  286 3 TO AMEND H.R. 3818, BY REDUCING AN APPROPRIATION FROM             
+ 284  286 4 $2,200 TO $1,800 FOR ANNUAL RENT ON A BUILDING FOR USE OF         
+ 284  286 5 THE POST OFFICE DEPARTMENT.                                       
+ 285  287 1 CR-3-1-607    J 43-2-141B    HR3818    JAN. 20, 1875              
+ 285  287 2 S432013       Y=22 N=16                MORRILL, ME.               
+ 285  287 3 TO CONCUR IN AMENDMENT TO H.R. 3818, WHICH AMENDMENT              
+ 285  287 4 ELIMINATES AN APPROPRIATION OF $2,000 FOR PRINCIPAL               
+ 285  287 5 CLERK'S SALARY IN THE GENERAL LAND OFFICE.                        
+ 286  288 1 CR-3-1-848    J 43-2-181               JAN. 29, 1875              
+ 286  288 2 S432014       Y=31 N=23                CAMERON, PA.               
+ 286  288 3 THAT WHEN THE SENATE ADJOURNS TODAY, IT DOES SO UNTIL             
+ 286  288 4 MONDAY NEXT AT 12 O'CLOCK.                                        
+ 287  289 1 CR-3-1-920A   J 43-2-194A    HR3080    FEB. 2, 1875               
+ 287  289 2 S432015       Y=29 N=16                INGALLS, KAN.              
+ 287  289 3 TO CONCUR IN THE AMENDMENT TO H.R. 3080 (18-STAT-330), A          
+ 287  289 4 BILL AUTHORIZING THE SENECA INDIANS TO LEASE LANDS WITHIN         
+ 287  289 5 THE CATTARAUGUS AND ALLEGHENY RESERVATIONS AND TO CONFIRM         
+ 287  289 6 EXISTING LEASES, WHICH AMENDMENT ELIMINATES THE CLAUSE            
+ 287  289 7 PROVIDING THAT THIS ACT SHALL NOT BE CONSTRUED TO RATIFY          
+ 287  289 8 OR CONFIRM LEASES WHICH ACCORDING TO THE LAWS OR CUSTOM OF        
+ 287  289 9 THE SENECAS ARE INVALID.                                          
+ 288  290 1 CR-3-2-920B   J 43-2-194B    HR3080    FEB. 2, 1875               
+ 288  290 2 S432016       Y=29 N=17                INGALLS, KAN.              
+ 288  290 3 TO PASS H.R. 3080, A BILL AUTHORIZING THE SENECA INDIANS TO       
+ 288  290 4 LEASE LANDS WITHIN THE CATTARAUGUS AND ALLEGANY                   
+ 288  290 5 RESERVATIONS AND TO CONFIRM TO EXISTING LEASES.                   
+ 289  291 1 CR-3-2-1024   J 43-2-216     HR1588    FEB. 6, 1875               
+ 289  291 2 S432017       Y=27 N=16                CHANDLER, MICH.            
+ 289  291 3 TO CONSIDER H.R. 1588, A BILL REVISING THE LAWS RELATING TO       
+ 289  291 4 SAFETY ON BOARD STEAM VESSELS.                                    
+ 290  292 1 CR-3-2-1052   J 43-2-221     HR3170    FEB. 8, 1875               
+ 290  292 2 S432018       Y=14 N=25                FERRY, CONN.               
+ 290  292 3 TO ORDER ENGROSSMENT AND THIRD READING OF H.R. 3170, A BILL       
+ 290  292 4 AUTHORIZING THE COMMISSIONER OF PATENTS TO EXTEND THE             
+ 290  292 5 PATENT OF JOHN W. MARSH FOR A TRIMMING ATTACHMENT TO              
+ 290  292 6 SERVICING MACHINES.                                               
+ 291  293 1 CR-3-2-1053   J 43-2-222     HR4202    FEB. 8, 1875               
+ 291  293 2 S432019       Y=14 N=25                FERRY, CONN.               
+ 291  293 3 THIRD READING OF H.R. 4202, A BILL ENABLING                       
+ 291  293 4 MRS. CHRISTIANA L. WILLIAMS ADMINISTRATRIX OF THE ESTATE OF       
+ 291  293 5 C.W. WILLIAMS, DECEASED, TO MAKE APPLICATION TO THE               
+ 291  293 6 COMMISSIONER OF PATENTS FOR AN EXTENTION OF LETTERS               
+ 291  293 7 PATENT FOR IMPROVEMENT IN CANAL LOCKS AND GATES.                  
+ 292  294 1 CR-3-2-1057A  J 43-2-223A    HR1588    FEB. 8, 1875               
+ 292  294 2 S432020       Y=8 N=29                 CONKLING, N.Y.             
+ 292  294 3 TO AMEND H.R. 1588, A BILL PROVIDING FOR SAFETY ON BOARD          
+ 292  294 4 STEAM VESSELS, ADDING THAT A PENALTY IS TO BE INCURRED            
+ 292  294 5 AFTER AN INSPECTION HAS TAKEN PLACE FOR ANY VIOLATION OF          
+ 292  294 6 THE STATUTE.                                                      
+ 293  295 1 CR-3-2-1057B  J 43-2-223B    HR1588    FEB. 8, 1875               
+ 293  295 2 S432021       Y=12 N=27                CONKLING, N.Y.             
+ 293  295 3 TO AMEND H.R. 1588, BY EXTENDING TO FREIGHT STEAMERS THE          
+ 293  295 4 SAME PROTECTION AGAINST FIRE HAZARDS AS GIVEN TO PASSENGER        
+ 293  295 5 STEAMERS.                                                         
+ 294  296 1 CR-3-2-1063   J 43-2-224     HR1588    FEB. 8, 1875               
+ 294  296 2 S432022       Y=12 N=30                CONKLING, N.Y.             
+ 294  296 3 TO AMEND H.R. 1588, BY EXTENDING TO FERRYBOATS THE                
+ 294  296 4 PRECAUTION ON TRANSPORTATION OF COMBUSTIBLES PROVIDED FOR         
+ 294  296 5 BY THIS BILL.                                                     
+ 295  297 1 CR-3-2-1099   J 43-2-235     S782      FEB. 10, 1875              
+ 295  297 2 S432023       Y=23 N=24                EDMUNDS, VT.               
+ 295  297 3 TO AMEND S. 782, A BILL GRANTING A SITE FOR THE PEABODY           
+ 295  297 4 SCHOOL IN ST. AUGUSTINE, F.A., BY REPEALING THE GRANT             
+ 295  297 5 WHEREVER ADMISSION TO THE SCHOOL IS REFUSED BECAUSE OF            
+ 295  297 6 RACE, COLOR OR PREVIOUS CONDITION OF SERVITUDE.                   
+ 296  298 1 CR-3-2-1101A  J 43-2-236     S1270     FEB. 10, 1875              
+ 296  298 2 S432024       Y=16 N=24                THURMAN, OHIO              
+ 296  298 3 TO AMEND S. 1270 (18-STAT-505), A BILL PROVIDING FOR THE          
+ 296  298 4 PURCHASE OF A SITE FOR PUBLIC BUILDINGS AT HARRISBURG, PA.,       
+ 296  298 5 BY STRIKING OUT REQUIREMENTS THAT THE STATE OF                    
+ 296  298 6 PENNSYLVANIA SURRENDER HER JURISDICTION OVER SITE                 
+ 296  298 7 PURCHASED.                                                        
+ 297  299 1 CR-3-2-1101B  J 43-2-237     S861      FEB. 10, 1875              
+ 297  299 2 S432025       Y=18 N=30                ROBERTSON, S.C.            
+ 297  299 3 TO REFER S. 861, A BILL ESTABLISHING A COMMISSION TO              
+ 297  299 4 REGULATE STEAM-RAILWAY TRACKS AND HORSE RAILWAYS IN               
+ 297  299 5 WASHINGTON, TO THE COMMITTEE OR THE DISTRICT OF COLUMBIA.         
+ 298  300 1 CR-3-2-1159A  J 43-2-241     S591      FEB. 11, 1875              
+ 298  300 2 S432026       Y=29 N=25                BOREMAN, WVA.              
+ 298  300 3 TO AMEND S. 591, A BILL GRANTING THE RIGHT-OF-WAY TO THE          
+ 298  300 4 SEATTLE AND WALLA WALLA RAILROAD AND TRANSPORTATION               
+ 298  300 5 COMPANY, BY ELIMINATING ALL AFTER THE ENACTING CLAUSE AND         
+ 298  300 6 INSERTING A PROVISION THAT THE COUNTY COMMISSIONERS OF            
+ 298  300 7 KINGS, YAKIMA, AND WALLA WALLA, AND THE CITY COUNCIL OF           
+ 298  300 8 SEATTLE AND WALLA WALLA IN THE TERRITORY OF WASHINGTON BE         
+ 298  300 9 AUTHORIZED TO CONTRACT WITH THE SEATTLE AND WALLA WALLA           
+ 298  30010 RAILROAD AND TRANSPORTATION COMPANY TO CONSTRUCT A RAILROAD       
+ 298  30011 FROM SEATTLE TO WALLA WALLA AND TO ISSUE BONDS NOT                
+ 298  30012 EXCEEDING $250,000, IN ANY ONE COUNTRY AND $100,000 IN ANY        
+ 298  30013 ONE CITY TO FINANCE THE RAILROAD, PROVIDED THAT THE               
+ 298  30014 CONTRACT AND BOND ISSUE IS AGREED TO IN EACH COUNTY AND           
+ 298  30015 CITY BY TWO-THIRD OF THE VOTERS.                                  
+ 299  301 1 CR-3-2-1159B  J 43-2-242     S963      FEB. 11, 1875              
+ 299  301 2 S432027       Y=16 N=32                BOREMAN, W. VA.            
+ 299  301 3 TO AMEND S. 963, A BILL PROVIDING FOR THE BETTER                  
+ 299  301 4 GOVERNMENT OF THE DISTRICT OF COLUMBIA, BY PROVIDING FOR A        
+ 299  301 5 BOARD OF THREE COMMISSIONERS TO BE ELECTED BY THE VOTERS          
+ 299  301 6 OF THE DISTRICT, INSTEAD OF BEING APPOINTED BY THE                
+ 299  301 7 PRESIDENT.                                                        
+ 300  302 1 CR-3-2-1169A  J 43-2-243A    S591      FEB. 11, 1875              
+ 300  302 2 S432028       Y=28 N=28                MORTON, IND.               
+ 300  302 3 TO PASS S. 591, A BILL GRANTING THE RIGHT-OF-WAY TO THE           
+ 300  302 4 SEATTLE AND WALLA WALLA RAILROAD AND TRANSPORTATION CO.           
+ 301  303 1 CR-3-2-1169B  J 43-2-243B    S963      FEB. 11, 1875              
+ 301  303 2 S432029       Y=23 N=35                EDMUNDS, VT.               
+ 301  303 3 TO TABLE S. 963, A BILL PROVIDING FOR THE BETTER                  
+ 301  303 4 GOVERNMENT OF THE DISTRICT OF COLUMBIA.                           
+ 302  304 1 CR-3-2-1200A  J 43-2-248A    S331      FEB. 2, 1875               
+ 302  304 2 S432030       Y=19 N=38                MITCHELL, ORE.             
+ 302  304 3 TO AMEND S. 331, A BILL PROVIDING FOR CONSTRUCTION OF THE         
+ 302  304 4 PORTLAND, DALLAS AND SALT LAKE RAILROAD AND TELEGRAPH AND         
+ 302  304 5 FOR PERFORMANCE OF ALL GOVERNMENT SERVICE FREE OF CHARGES,        
+ 302  304 6 BY DECLARING THE RAILROAD A MILITARY AND POST ROAD WHICH          
+ 302  304 7 MUST TRANSPORT, MAIL, ARMY AND INDIAN SUPPLIES, TROOPS AND        
+ 302  304 8 MUNITIONS OF WAR AND TRANSMIT ALL UNITED STATES TELEGRAPH         
+ 302  304 9 DISPATCHES, FOR WHICH SERVICE THE UNITED STATES GUARANTEES        
+ 302  30410 PAYMENT OF FIVE PER CENT INTEREST FOR TEN YEARS UPON              
+ 302  30411 CONSTRUCTION BONDS OF THE RAILROAD AT $8,000 FOR EACH MILE        
+ 302  30412 OF THE MAIN LINE, NOT TO EXCEED 700 MILES.                        
+ 303  305 1 CR-3-2-1200B  J 43-2-248B    S331      FEB. 12, 1875              
+ 303  305 2 S432031       Y=2 N=46                 STEWART, NEV.              
+ 303  305 3 ENGROSSMENT AND THIRD READING OF S. 331, A BILL PROVIDING         
+ 303  305 4 FOR THE CONSTRUCTION OF THE PORTLAND, DALLAS AND SALT LAKE        
+ 303  305 5 RAILROAD AND TELEGRAPH AND FOR THE PERFORMANCE OF ALL             
+ 303  305 6 GOVERNMENT SERVICE FREE OF CHARGE.                                
+ 304  306 1 CR-3-2-1202   J 43-2-249     S963      FEB. 12, 1875              
+ 304  306 2 S432032       Y=21 N=29                SARGENT, CALIF.            
+ 304  306 3 TO AMEND S. 963, BY PROVIDING FOR THE ELECTION OF A               
+ 304  306 4 DELEGATE TO REPRESENT THE DISTRICT OF COLUMBIA, IN CONGRESS       
+ 304  306 5 FOR A TERM OF TWO YEARS.                                          
+ 305  307 1 CR-3-2-1206A  J 43-2-251A    S963      FEB. 12, 1875              
+ 305  307 2 S432033       Y=24 N=23                SARGENT, CALIF.            
+ 305  307 3 TO AMEND S. 963, BY PROVIDING THAT THE PRESIDENT APPOINT          
+ 305  307 4 TWO MEMBERS AND THAT THE VOTERS OF THE DISTRICT ELECT THE         
+ 305  307 5 OTHER MEMBER TO THE BOARD OF COMMISSIONERS OF THE DISTRICT        
+ 305  307 6 OF COLUMBIA.                                                      
+ 306  308 1 CR-3-2-1206B  J 43-2-251B    S963      FEB. 12, 1875              
+ 306  308 2 S432034       Y=13 N=38                MORTON, IND.               
+ 306  308 3 TO AMEND S. 963, BY PROVIDING THAT TWO OF THE MEMBERS OF          
+ 306  308 4 THE BOARD OF COMMISSIONERS FOR THE DISTRICT OF COLUMBIA           
+ 306  308 5 BE APPOINTED BY THE PRESIDENT AND THE THIRD MEMBER BE             
+ 306  308 6 ELECTED BY THE VOTERS OF THE DISTRICT OF COLUMBIA.                
+ 307  309 1 CR-3-2-1208   J 43-2-252     S963      FEB. 12, 1875              
+ 307  309 2 S432035       Y=24 N=24                ROBERTSON, S.C.            
+ 307  309 3 TO GO INTO EXECUTIVE SESSION, MOTION MADE DURING                  
+ 307  309 4 CONSIDERATION OF S. 963.                                          
+ 308  310 1 CR-3-2-1233   J 43-2-256     HR3658    FEB. 13, 1875              
+ 308  310 2 S432036       Y=28 N=15                CRAGIN, N.H.               
+ 308  310 3 TO PASS H.R. 3658 (18-STAT-L.630), A BILL PROVIDING FOR           
+ 308  310 4 PAYMENT TO WILLIAM J. COITE, LATE ASSISTANT POSTMASTER OF         
+ 308  310 5 THE UNITED STATES NAVY OF $953.33, BEING THE AMOUNT               
+ 308  310 6 MISTAKENLY RETURNED BY HIS CLERK DURING HIS ABSENCE FOR           
+ 308  310 7 SICKNESS.                                                         
+ 309  311 1 CR-3-2-1248   J 43-2-259A    S963      FEB. 13, 1875              
+ 309  311 2 S432037       Y=27 N=23                SHERMAN, OHIO              
+ 309  311 3 TO AMEND S. 963, BY ELIMINATING THE CLAUSE RELATING TO            
+ 309  311 4 CHILD LABOR.                                                      
+ 310  312 1 CR-3-2-1249   J 43-2-259B    S963      FEB. 13, 1875              
+ 310  312 2 S432038       Y=23 N=2                 THURMAN, OHIO              
+ 310  312 3 TO AMEND S. 963, BY ELIMINATING THAT PART WHICH PROPOSED          
+ 310  312 4 THAT ALL CHILDREN BE REASONABLY INSTRUCTED EITHER IN FREE         
+ 310  312 5 SCHOOL OR PRIVATELY, AT LEAST IN READING , WRITING,               
+ 310  312 6 SPELLING, GEOGRAPHY, ELEMENTARY ARITHMETIC, AND THE               
+ 310  312 7 ELEMENTS OF ENGLISH GRAMMAR AND THAT THEY SECURE FROM THE         
+ 310  312 8 BOARD OF EDUCATION A CERTIFICATE STATING SUCH TO BE THE CASE      
+ 310  312 9 BEFORE THEY MAY BE EMPLOYED.                                      
+ 311  313 1 CR-3-2-1250A  J 43-2-260     S963      FEB. 13, 1875              
+ 311  313 2 S432039       Y=25 N=20                SARGENT, CALIF.            
+ 311  313 3 TO AMEND S. 963, BY AUTHORIZING A BOARD OF COMMISSIONERS          
+ 311  313 4 TO BE ESTABLISHED AND TO BE CALLED THE BOARD OF                   
+ 311  313 5 COMMISSIONERS OF THE DISTRICT OF COLUMBIA, TO CONSIST OF          
+ 311  313 6 THREE MEMBERS, ONE OF WHOM SHALL BE APPOINTED BY THE              
+ 311  313 7 PRESIDENT, AND TWO TO BE ELECTED BY THE VOTERS OF THE             
+ 311  313 8 DISTRICT.                                                         
+ 312  314 1 CR-3-2-1250B  J 43-2-261     S963      FEB. 13, 1875              
+ 312  314 2 S432040       Y=22 N=24                MORTON, IND.               
+ 312  314 3 TO AMEND S. 963, BY ESTABLISHING A BOARD OF COMMISSIONERS,        
+ 312  314 4 TO BE KNOWN AS THE BOARD OF COMMISSIONER OF THE DISTRICT          
+ 312  314 5 OF COLUMBIA, CONSISTING OF THREE MEMBERS, TWO OF WHOM             
+ 312  314 6 SHALL BE APPOINTED BY THE PRESIDENT, ANE ONE TO BE ELECTED        
+ 312  314 7 BY THE VOTERS OF THE DISTRICT.                                    
+ 313  315 1 CR-3-2-1250C  J 43-2-262A    S963      FEB. 13, 1875              
+ 313  315 2 S432041       Y=23 N=22                STEWART, NEV.              
+ 313  315 3 TO AMEND S. 963, BY PROPOSING THAT A BOARD OF COMMISSIONERS       
+ 313  315 4 BE ESTABLISHED TO BE KNOWN AS THE BOARD OF COMMISSIONERS          
+ 313  315 5 OF THE DISTRICT OF COLUMBIA TO CONSIST OF THREE MEMBERS,          
+ 313  315 6 TWO OF WHOM SHALL BE APPOINTED BY THE PRESIDENT, AND ONE          
+ 313  315 7 TO BE ELECTED BY THE VOTERS.                                      
+ 314  316 1 CR-3-2-1250D  J 43-2-262B    S963      FEB. 13, 1875              
+ 314  316 2 S432042       Y=29 N=19                EDMUNDS, VT.               
+ 314  316 3 TO ADJOURN BECAUSE OF LATENESS OF THE HOUR, MOTION MADE           
+ 314  316 4 DURING CONSIDERATION OF S. 963.                                   
+ 315  317 1 CR-3-2-1275   J 43-2-270     S963      FEB. 15, 1875              
+ 315  317 2 S432043       Y=34 N=23                MORTON, IND.               
+ 315  317 3 TO TABLE S. 963.                                                  
+ 316  318 1 CR-3-2-1277   J 43-2-271               FEB. 15, 1875              
+ 316  318 2 S432044       Y=25 N=29                EDMUNDS, VT.               
+ 316  318 3 POINT OF ORDER OR WHETHER THE MOTION TO TABLE A MOTION TO         
+ 316  318 4 CONSIDER THE RESOLUTION THAT P.B.S. PINCHBACK BE                  
+ 316  318 5 ADMITTED AS A SENATOR FROM LOUISIANA, IS IN ORDER, HAVING         
+ 316  318 6 IN MIND RULE TWO WHICH PERMITS SUCH A MOTION TO TABLE ONLY        
+ 316  318 7 IF THE ORIGINAL MOTION IS DEBATABLE.                              
+ 317  319 1 CR-3-2-1327   J 43-2-283     S782      FEB. 17, 1875              
+ 317  319 2 S432045       Y=31 N=25                HOWE, WISC.                
+ 317  319 3 TO RECONSIDER PASSAGE OF S. 782, A BILL TO GRANT A SITE           
+ 317  319 4 FOR THE PEABODY SCHOOL IN ST. AUGUSTINE, FLA.                     
+ 318  320 1 CR-3-2-1332   J 43-2-284               FEB. 17, 1875              
+ 318  320 2 S432046       Y=22 N=33                HAMILTON, MD.              
+ 318  320 3 TO ADJOURN DUE TO THE LATENESS OF THE HOUR, MOTION MADE           
+ 318  320 4 DURING CONSIDERATION OF THE RESOLUTION TO ADMIT                   
+ 318  320 5 P.B.S. PINCHBACK AS A SENATOR FROM LOUISIANA FOR THE TERM OF      
+ 318  320 6 SIX YEARS FROM MARCH 4, 1873.                                     
+ 319  321 1 CR-2-1333     J 43-2-285A              FEB. 17, 1875              
+ 319  321 2 S432047       Y=34 N=12                MORTON, IND.               
+ 319  321 3 TO RECESS UNTIL 7:30 P.M., MOTION MADE DURING                     
+ 319  321 4 CONSIDERATION OF THE RESOLUTION TO ADMIT P.B.S. PINCHBACK         
+ 319  321 5 AS A SENATOR FROM LOUISIANA FOR THE TERM OF SIX                   
+ 319  321 6 YEARS FROM MARCH 4, 1783.                                         
+ 320  322 1 CR-3-2-1342   J 43-2-285B              FEB. 17, 1875              
+ 320  322 2 S432048       Y=23 N=34                DAVIS, W. VA.              
+ 320  322 3 TO ADJOURN DUE TO THE LATE HOUR, MOTION MADE DURING               
+ 320  322 4 CONSIDERATION OF THE RESOLUTION TO ADMIT P.B.S. PINCHBACK         
+ 320  322 5 AS A SENATOR FROM LOUISIANA FOR THE TERM OF SIX                   
+ 320  322 6 YEARS FROM MARCH 4, 1783.                                         
+ 321  323 1 CR-3-2-1345A  J 43-2-286A              FEB. 17, 1875              
+ 321  323 2 S432049       Y=11 N=29                HAMILTON, MD.              
+ 321  323 3 TO ADJOURN, DUE TO THE LATE HOUR, MOTION POSTPONING DEBATE        
+ 321  323 4 ON SEATING P.B.S. PINCHBACK, AS SENATOR FROM LOUISIANA            
+ 321  323 5 FOR THE TERM OF SIX YEARS FROM MARCH 4, 1873.                     
+ 322  324 1 CR-3-2-1345B  J 43-2-286B              FEB. 17, 1875              
+ 322  324 2 S432050       Y=4 N=33                 RANSOM, N.C.               
+ 322  324 3 TO ADJOURN DUE TO THE LATE HOUR, MOTION POSTPONING                
+ 322  324 4 DISCUSSION ON A RESOLUTION TO SEAT P.B.S. PINCHBACK, AS           
+ 322  324 5 SENATOR FROM LOUISIAMA FOR A TERM OF SIX YEARS FROM               
+ 322  324 6 MARCH 4, 1873.                                                    
+ 323  325 1 CR-3-2-1347   J 43-2-286C              FEB. 17, 1875              
+ 323  325 2 S432051       Y=9 N=33                 DAVIS, W. VA.              
+ 323  325 3 TO ADJOURN DUE TO LATE HOUR, MOTION POSTPONING                    
+ 323  325 4 DEBATE ON RESOLUTION TO SEAT P.B.S. PINCHBACK, AS                 
+ 323  325 5 SENATOR FROM LOUISIANA FOR THE TERM OF SIX YEARS FROM             
+ 323  325 6 MARCH 4, 1873.                                                    
+ 324  326 1 CR-3-2-1351   J 43-2-287A              FEB. 17, 1875              
+ 324  326 2 S432052       Y=6 N=31                 NORWOOD, GA.               
+ 324  326 3 TO ADJOURN DUE TO THE LATE HOUR, MOTION POSTPONING                
+ 324  326 4 DISCUSSION ON THE RESOLUTION TO SEAT P.B.S. PINCHBACK,            
+ 324  326 5 FOR A TERM OF SIX YEARS, FROM MARCH 4, 1873.                      
+ 325  327 1 CR-3-2-1353   J 43-2-287B              FEB. 17, 1875              
+ 325  327 2 S432053       Y=2 N=33                 GORDON, GA.                
+ 325  327 3 TO ADJOURN DUE TO THE LATE HOUR, MOTION POSTPONING                
+ 325  327 4 DEBATE ON RESOLUTION TO SEAT P.B.S. PINCHBACK FOR A               
+ 325  327 5 TERM OF SIX YEARS, FROM MARCH 4, 1873.                            
+ 326  328 1 CR-3-2-1357   J 43-2-287C              FEB. 17, 1875              
+ 326  328 2 S432054       Y=12 N=32                DAVIS, W. VA.              
+ 326  328 3 TO ADJOURN DUE TO THE LATE HOUR, MOTION POSTPONING                
+ 326  328 4 DISCUSSION ON RESOLUTION TO SEAT P.B.S. PINCHBACK,                
+ 326  328 5 AS SENATOR FROM LOUISIANA, FROM MARCH 4, 1873.                    
+ 327  329 1 CR-3-2-1382   J 43-2-288A              FEB. 17, 1875              
+ 327  329 2 S432055       Y=39 N=22                MORRILL, ME.               
+ 327  329 3 TO TABLE RESOLUTION TO ADMIT P.B.S. PINCHBACK AS A                
+ 327  329 4 SENATOR FROM LOUISIANA, FOR THE TERM OF SIX YEARS FROM            
+ 327  329 5 MARCH 4, 1873.                                                    
+ 328  330 1 CR-3-2-1383   J 43-2-288B              FEB. 17, 1875              
+ 328  330 2 S432056       Y=6 N=52                 WEST, LA.                  
+ 328  330 3 TO ADJOURN, DUE TO LATENESS OF HOUR.                              
+ 329  331 1 CR-3-2-1489   J 43-2-299A    HR3821    FEB. 19, 1875              
+ 329  331 2 S432057       Y=19 N=22                WINDOM, MINN.              
+ 329  331 3 TO AMEND H.R. 3821 (18-STAT-L.420), THE INDIAN DEPARTMENT         
+ 329  331 4 APPROPRIATIONS BILL FOR FISCAL 1875, BY INCREASING FROM           
+ 329  331 5 $10,000 TO $35,000 THE APPROPRIATION FOR SUPERINTENDING           
+ 329  331 6 BOARDING SCHOOLS UNDER MANAGEMENT OF THE SOCIETY OF FRIENDS       
+ 329  331 7 FOR AIDING AND INSTRUCTING THE INDIANS.                           
+ 330  332 1 CR-3-2-1491A  J 43-2-299B    HR3821    FEB. 19, 1875              
+ 330  332 2 S432058       Y=22 N=26                WINDOM, MINN.              
+ 330  332 3 TO AMEND H.R. 3821, BY INCREASING FROM $10,000 TO $30,000         
+ 330  332 4 THE APPROPRIATION FOR INDIAN SCHOOLS.                             
+ 331  333 1 CR-2-1491B    J 43-2-299C    HR3821    FEB. 19, 1875              
+ 331  333 2 S432059       Y=12 N=32                BOGY, MO.                  
+ 331  333 3 TO AMEND H.R. 3821, BY ELIMINATING A $10,000 APPROPRIATION        
+ 331  333 4 FOR SUPERINTENDENCY OVER SCHOOLS FOR INDIANS.                     
+ 332  334 1 CR-3-2-1498   J 43-2-300     HR3821    FEB. 19, 1875              
+ 332  334 2 S432060       Y=21 N=19                WINDOM, MINN.              
+ 332  334 3 TO SUSTAIN THE DECISION OF THE CHAIR, MOTION MADE DURING          
+ 332  334 4 CONSIDERATION OF H.R. 3821, DECISION HELD THAT A PROPOSED         
+ 332  334 5 AMENDMENT TO PAY ARREARS OF INTEREST TO THE CHICKASAW             
+ 332  334 6 NATION OF INDIANS, MADE PROVISIONS FOR A PRIVATE CLAIM AND        
+ 332  334 7 THEREFORE COULD NOT BE RECEIVED UNDER THE 30TH RULE OF THE        
+ 332  334 8 SENATE.                                                           
+ 333  335 1 CR-3-2-1499   J 43-2-301     HR3821    FEB. 19, 1875              
+ 333  335 2 S432061       Y=23 N=21                LEWIS, VA.                 
+ 333  335 3 TO ADJOURN BECAUSE OF LATENESS OF THE HOUR, MOTION MADE           
+ 333  335 4 DURING CONSIDERATION OF H.R. 3821.                                
+ 334  336 1 CR-3-2-1523   J 43-2-304A    HJR51     FEB. 20, 1875              
+ 334  336 2 S432062       Y=36 N=8                 SHERMAN, OHIO              
+ 334  336 3 TO PASS H.J.R. 51, A RESOLUTION GIVING PRECEDENCE FOR             
+ 334  336 4 APPOINTMENTS TO SOLDIERS WOUNDED IN THE CIVIL WAR, AND            
+ 334  336 5 THEIR WIVES, WIDOWS AND ORPHANS, WHO HAVE SATISFACTORILY          
+ 334  336 6 PASSED CIVIL SERVICE EXAMINATIONS.                                
+ 335  337 1 CR-3-2-1530   J 43-2-304B    HR3821    FEB. 20, 1875              
+ 335  337 2 S432063       Y=26 N=22                WINDOM, MINN.              
+ 335  337 3 TO CONCUR IN AMENDMENT TO H.R. 3821, WHICH AMENDMENT              
+ 335  337 4 PROPOSES TO INCREASE THE TOTAL SPECIAL AGENCIES TO 70 FROM        
+ 335  337 5 69.                                                               
+ 336  338 1 CR-3-2-1533   J 43-2-305     HR3821    FEB. 20, 1875              
+ 336  338 2 S432064       Y=29 N=28                WINDOM, MINN.              
+ 336  338 3 TO CONCUR IN AMENDMENT H.R. 3821, WHICH AMENDMENT                 
+ 336  338 4 APPROPRIATES $375,000 FOR CARE OF THE APACHE INDIANS IN           
+ 336  338 5 ARIZONA, WHO HAVE BEEN OR MAY BE COLLECTED ON RESERVATIONS,       
+ 336  338 6 AND THE SUM OF $125,000 TO BE USED FOR THE SAME PURPOSE IN        
+ 336  338 7 NEW MEXICO.                                                       
+ 337  339 1 CR-3-2-1538A  J 43-2-306A    HR3821    FEB. 20, 1875              
+ 337  339 2 S432065       Y=23 N=24                WINDOM, MINN.              
+ 337  339 3 TO TABLE AMENDMENT H.R. 3821, WHICH AMENDMENT APPROPRIATES        
+ 337  339 4 $20,000 FOR THE GENERAL INCIDENTAL EXPENSES OF THE PIAUTE         
+ 337  339 5 RESERVATION IN SOUTHEASTERN NEVADA, AND $15,000 FOR THE           
+ 337  339 6 GENERAL INCIDENTAL EXPENSES OF THE WALKER RIVER AND               
+ 337  339 7 PYRAMID LAKE RESERVATION IN NEVADA.                               
+ 338  340 1 CR-3-2-1538B  J 43-2-306B    HR3821    FEB. 20, 1875              
+ 338  340 2 S432066       Y=42 N=3                 WINDOM, MINN.              
+ 338  340 3 TO SUSTAIN THE DECISION OF THE CHAIR, MOTION MADE DURING          
+ 338  340 4 CONSIDERATION OF H.R. 3821, WHICH DECISION HELD THAT UNDER        
+ 338  340 5 THE 30TH RULE OF THE SENATE, THE AMENDMENT WHICH PROPOSED         
+ 338  340 6 TO APPROPRIATE $20,000 FOR THE GENERAL INCIDENTAL EXPENSES        
+ 338  340 7 OF THE PIAUTE RESERVATION IN SOUTH EASTERN NEVADA AND             
+ 338  340 8 $15,000 FOR GENERAL INCIDENTAL EXPENSES OF THE WALKER             
+ 338  340 9 RIVER AND PYRAMID LAKE RESERVATION IN NEVADA, WAS OUT OF          
+ 338  34010 ORDER.                                                            
+ 339  341 1 CR-3-2-1539   J 43-2-307     HR3821    FEB. 20, 1875              
+ 339  341 2 S432067       Y=28 N=20                MORRILL, ME.               
+ 339  341 3 TO TABLE AMENDMENT TO H.R. 3821, WHICH AMENDMENT ELIMINATES       
+ 339  341 4 AN APPROPRIATION OF $9,000 FOR THE PAY OF THREE INDIAN            
+ 339  341 5 INSPECTORS AT $3,000 EACH.                                        
+ 340  342 1 CR-3-2-1572   J 43-2-315     HR3821    FEB. 22, 1875              
+ 340  342 2 S432068       Y=28 N=24                BOGY, MO.                  
+ 340  342 3 TO AMEND H.R. 3821, BY ELIMINATING THE $5,000 FOR EXPENSES        
+ 340  342 4 OF INDIAN DELEGATES VISITING WASHINGTON ON BUSINESS.              
+ 341  343 1 CR-3-2-1573   J 43-2-317A    HR3821    FEB. 22, 1875              
+ 341  343 2 S432069       Y=30 N=20                WINDOM, MINN.              
+ 341  343 3 TO TABLE AMENDMENT TO H.R. 3821, WHICH AMENDMENT ELIMINATES       
+ 341  343 4 AN APPROPRIATION OF $166,000 FOR THE GENERAL INCIDENTAL           
+ 341  343 5 EXPENSES OF THE INDIAN SERVICE FOR PRESENTS OF GOODS,             
+ 341  343 6 AGRICULTURAL IMPLEMENTS AND OTHER USEFUL ARTICLES AND FOR         
+ 341  343 7 ASSISTING THE INDIANS TO LOCATE IN PERMANENT ABODES AND TO        
+ 341  343 8 SUSTAIN THEMSELVES BY THE PURSUITS OF CIVILIZED LIFE.             
+ 342  344 1 CR-3-2-1575A  J 43-2-317B    HR4441    FEB. 22, 1875              
+ 342  344 2 S432070       Y=28 N=19                MORRILL, ME.               
+ 342  344 3 TO TABLE AMENDMENT TO H.R. 4441 (18-STAT-L.466), A BILL           
+ 342  344 4 MAKING APPROPRIATIONS FOR THE MILITARY ACADEMY FOR FISCAL         
+ 342  344 5 1875, WHICH AMENDMENT PROPOSES THAT HEREAFTER, UNTIL              
+ 342  344 6 OTHERWISE PROVIDED BY LAW THE NUMBER OF CADETS APPOINTED          
+ 342  344 7 EACH YEAR SHALL BE ONE-HALF OF THE NUMBER AUTHORIZED BY           
+ 342  344 8 EXISTING LAW, TO BE APPOINTED ALTERNATELY FROM RESPECTIVE         
+ 342  344 9 CONGRESSIONAL DISTRICTS.                                          
+ 343  345 1 CR-3-2-1575B  J 43-2-318     HR4441    FEB. 22, 1875              
+ 343  345 2 S432071       Y=29 N=21                MORTON, IND.               
+ 343  345 3 TO TABLE AMENDMENT TO H.R. 4441, A BILL MAKING                    
+ 343  345 4 APPROPRIATIONS FOR THE MILITARY ACADEMY FOR FISCAL 1875,          
+ 343  345 5 WHICH AMENDMENT PROPOSES THAT HEREAFTER, UNTIL OTHERWISE          
+ 343  345 6 PROVIDED BY LAW, THE NUMBER OF CADETS APPOINTED EACH YEAR         
+ 343  345 7 SHALL BE ONE-HALF THE NUMBER AUTHORIZED BY EXISTING LAW, AND      
+ 343  345 8 HEREAFTER THERE SHALL BE APPOINTED ONE CADET IN EACH              
+ 343  345 9 EIGHT YEARS.                                                      
+ 344  346 1 CR-3-2-1576   J 43-2-319     HR4677    FEB. 22, 1875              
+ 344  346 2 S432072       Y=32 N=22                SPRAGUE, R.I.              
+ 344  346 3 TO TABLE AMENDMENT TO H.R. 4677 (18-STAT-L9337), A BILL           
+ 344  346 4 MAKING APPROPRIATIONS FOR THE PAYMENT OF INVALID AND OTHER        
+ 344  346 5 PENSIONS OF THE FISCAL 1875, WHICH AMENDMENT INSERTS              
+ 344  346 6 CERTAIN PROVISIONS TO REGULATE THE COUNTING OF VOTES FOR          
+ 344  346 7 PRESIDENT AND VICE-PRESIDENT.                                     
+ 345  347 1 CR-3-2-1582   J 43-2-320A    HR4529    FEB. 22, 1875              
+ 345  347 2 S432073       Y=32 N=25                WEST, LA.                  
+ 345  347 3 TO TABLE AMENDMENT TO H.R. 4529 (18-STAT-L.340), THE POST         
+ 345  347 4 OFFICE APPROPRIATIONS BILL FOR FISCAL 1875, WHICH                 
+ 345  347 5 AMENDMENT ELIMINATES AN APPROPRIATION $986,000 FOR                
+ 345  347 6 OFFICIAL POSTAGE STAMPS FOR THE POST OFFICE DEPARTMENT,           
+ 345  347 7 AND IN LIEU THEREOF INSERTS:  THAT ALL LAWS AND CLAUSES OF        
+ 345  347 8 LAWS REPEALING THE FRANKING PRIVILEGE ARE HEREBY REPEATED,        
+ 345  347 9 AND THAT THE FRANKING PRIVILEGE AS IT EXISTED PRIOR TO THE        
+ 345  34710 PASSAGE OF THE ACT ABOLISHING IT IS RE-ESTABLISHED.               
+ 346  348 1 CR-3-2-1584   J 43-2-320B    HR4529    FEB. 22, 1875              
+ 346  348 2 S432074       Y=23 N=34                WEST, LA.                  
+ 346  348 3 TO TABLE AMENDMENT TO H.R. 4529, WHICH AMENDMENT PROPOSES         
+ 346  348 4 THAT FROM THE PASSAGE OF THIS ACT THE CONGRESSIONAL               
+ 346  348 5 RECORD UNDER SUCH REGULATIONS AS THE POST-MASTER                  
+ 346  348 6 GENERAL MAY PRESCRIBE, SHALL BE MAILED FREE OF POSTAGE,           
+ 346  348 7 AND THAT PUBLIC DOCUMENTS ALREADY PRINTED FOR THE USE OF          
+ 346  348 8 EITHER HOUSE OF CONGRESS MAY BE MAILED FREE UPON THE FRANK        
+ 346  348 9 OF ANY MEMBER OF THE PRESENT CONGRESS UNTIL DEC. 1, 1875.         
+ 347  349 1 CR-3-2-1585A  J 43-2-321A    HR4529    FEB. 22, 1875              
+ 347  349 2 S432075       Y=42 N=11                SARGENT, CALIF.            
+ 347  349 3 TO SUSTAIN THE DECISION OF THE CHAIR, MOTION MADE DURING          
+ 347  349 4 CONSIDERATION OF H.R. 4529, WHICH DECISION HELD THAT A            
+ 347  349 5 MOTION TO TABLE AN AMENDMENT TO AN AMENDMENT, DID NOT CARRY       
+ 347  349 6 WITH IT THE ORIGINAL AMENDMENT.                                   
+ 348  350 1 CR-3-2-1585B  J 43-2-321B    HR4529    FEB. 22, 1875              
+ 348  350 2 S432076       Y=29 N=27                EDMUNDS, VT.               
+ 348  350 3 TO TABLE AN AMENDMENT TO H.R. 4529, WHICH AMENDMENT DECLARES      
+ 348  350 4 THAT THE CONGRESSIONAL RECORD AND ALL OTHER PUBLIC                
+ 348  350 5 DOCUMENTS PRINTED BY CONGRESS SHALL BE MAILED POSTAGE-FREE        
+ 348  350 6 UNDER THE POSTMASTER GENERAL'S REGULATIONS.                       
+ 349  351 1 CR-3-2-1586   J 43-2-322A    HR4529    FEB. 22, 1875              
+ 349  351 2 S432077       Y=40 N=21                THURMAN, OHIO              
+ 349  351 3 TO AMEND H.R. 4529, BY PROPOSING THAT THE CONGRESSIONAL           
+ 349  351 4 RECORD SHALL BE MAILED FREE OF POSTAGE, UNDER SUCH                
+ 349  351 5 REGULATIONS AS THE POSTMASTER GENERAL MAY PRESCRIBE, AND          
+ 349  351 6 THAT PUBLIC DOCUMENTS ALREADY PRINTED FOR USE OF EITHER           
+ 349  351 7 HOUSE OF CONGRESS MAY BE MAILED FREE UPON THE FRANK OF ANY        
+ 349  351 8 MEMBER OF THE PRESENT CONGRESS UNTIL DEC. 1, 1875.                
+ 350  352 1 CR-3-2-1589A  J 43-2-322B    HR4529    FEB. 22, 1875              
+ 350  352 2 S432078       Y=27 N=33                WEST, LA.                  
+ 350  352 3 TO TABLE AMENDMENT TO H.R. 4529, WHICH AMENDMENT PROVIDES         
+ 350  352 4 THAT THE WEIGHT OF THIRD-CLASS MAIL BE LIMITED TO 12              
+ 350  352 5 OUNCES INSTEAD OF FOUR POUNDS.                                    
+ 351  353 1 CR-3-2-1589B  J 43-2-323A    HR4529    FEB. 22, 1875              
+ 351  353 2 S432079       Y=21 N=34                RAMSEY, MINN.              
+ 351  353 3 TO AMEND H.R. 4529, BY REDUCING THE WEIGHT LIMIT OF THIRD-        
+ 351  353 4 CLASS MAIL FROM FOUR POUNDS TO 12 OUNCES.                         
+ 352  354 1 CR-3-2-1591   J 43-2-323     HR4529    FEB. 22, 1875              
+ 352  354 2 S432080       Y=22 N=24                NORWOOD, GA.               
+ 352  354 3 TO ADJOURN, MOTION DELAYING ACTION ON H.R. 4529.                  
+ 353  355 1 CR-3-2-1627   J 43-2-328     HR4529    FEB. 23, 1875              
+ 353  355 2 S432081       Y=11 N=52                SPRAGUE, R.I.              
+ 353  355 3 TO AMEND H.R. 4529, BY REPEALING SO MUCH OF AN ACT AS             
+ 353  355 4 AUTHORIZES A CONTRACT BY THE POSTMASTER GENERAL WITH THE          
+ 353  355 5 PACIFIC MAIL STEAMSHIP COMPANY FOR STEAMSHIP SERVICE              
+ 353  355 6 BETWEEN SAN FRANCISCO, JAPAN, AND CHINA.                          
+ 354  356 1 CR-3-2-1630   J 43-2-329     S736      FEB. 23, 1875              
+ 354  356 2 S432082       Y=24 N=19                FLANAGAN, TEX.             
+ 354  356 3 TO TABLE MOTION TO RECONSIDER PASSAGE OF S. 736, A BILL           
+ 354  356 4 CHANGING THE BOUNDARIES OF THE EASTERN AND WESTERN                
+ 354  356 5 JUDICIAL DISTRICTS OF TEXAS, AND FIXING THE TIMES AND             
+ 354  356 6 PLACES OF HOLDING COURTS THERE.                                   
+ 355  357 1 CR-3-2-1633   J 43-2-330     HR3820    FEB. 23, 1875              
+ 355  357 2 S432083       Y=26 N=24                ALLISON, IOWA              
+ 355  357 3 TO AMEND H.R. 3820 (18-STAT-L.452), THE ARMY APPROPRIATIONS       
+ 355  357 4 BILL FOR FISCAL 1875, BY INCREASING AN APPROPRIATION              
+ 355  357 5 FROM $1,400,000 TO $1,500,000, TO BE USED FOR QUARTERS            
+ 355  357 6 FOR OFFICES ON MILITARY DUTY, AND TROOPS, OR STORE HOUSES         
+ 355  357 7 FOR THE SAFE KEEPING OF MILITARY STORES, OFFICERS AND OF          
+ 355  357 8 GROUNDS FOR CAMPS AND SUMMER CANTONMENTS, AND FOR                 
+ 355  357 9 REPAIRING BUILDINGS AT ESTABLISHED POSTS.                         
+ 356  358 1 CR-3-2-1636   J 43-2-331A    HR3820    FEB. 23, 1875              
+ 356  358 2 S432084       Y=33 N=21                ALLISON, IOWA              
+ 356  358 3 TO AMEND H.R. 3820, THE ARMY APPROPRIATIONS BILL FOR FISCAL       
+ 356  358 4 1875, BY INCREASING FROM $100,000 TO $200,000 THE                 
+ 356  358 5 APPROPRIATION FOR THE MANUFACTURE AT NATIONAL ARMORIES OF         
+ 356  358 6 THE NEW MODEL BREECH-LOADING MUSKET AND CARBINE.                  
+ 357  359 1 CR-3-2-1644   J 43-2-331B              FEB. 23, 1875              
+ 357  359 2 S432085       Y=23 N=27                SARGENT, CALIF.            
+ 357  359 3 TO ADJOURN, FOR LACK OF A QUORUM.                                 
+ 358  360 1 CR-3-2-1645   J 43-2-332     HR435     FEB. 23, 1875              
+ 358  360 2 S432086       Y=20 N=25                BOGY, MO.                  
+ 358  360 3 TO ADJOURN DUE TO THE LATE HOUR, MOTION PREVENTING FURTHER        
+ 358  360 4 CONSIDERATION OF H.R. 435 (18-STAT-L.475), A BILL FOR THE         
+ 358  360 5 ADMISSION OF COLORADO INTO THE UNION AS A STATE.                  
+ 359  361 1 CR-3-2-       J 43-2-33      HR435     FEB. 23, 1875              
+ 359  361 2 S432087       Y=27 N=22                EDMUNDS, VT.               
+ 359  361 3 TO AMEND H.R. 435, BY PROVIDING THAT THE STATE CONSTITUTION       
+ 359  361 4 BE SUBMITTED FOR RATIFICATION OR REJECTION AT AN ELECTION         
+ 359  361 5 IN JULY, 1876.                                                    
+ 360   26 1               EX J 19-527              FEB. 24, 1875              
+ 360   26 2 E432001       Y=19 N=32                HAMILTON, MD.              
+ 360   26 3 TO ADJOURN, DUE TO NO FURTHER BUSINESS BEFORE THE SENATE.         
+ 361  362 1 CR-3-2-1682   J 43-2-337B    HR435     FEB. 24, 1875              
+ 361  362 2 S432088       Y=22 N=28                EDMUNDS, VT.               
+ 361  362 3 TO AMEND H.R. 435, BY INSERTING THAT SECTION 2378 OF THE          
+ 361  362 4 REVISED STATUTES SHALL, IN ITS APPLICATION TO THE STATE OF        
+ 361  362 5 COLORADO, PROVIDE FOR THE DEDUCTION FROM THE AMOUNT OF            
+ 361  362 6 LANDS GRANTED BY THE SECTION OF THE AMOUNTS GRANTED IN ANY        
+ 361  362 7 MANNER TO AID WORKS OF INTERNAL IMPROVEMENTS IN ANY PART          
+ 361  362 8 OF THE TERRITORY AND STATE, THUS PROVIDING THAT IN MAKING         
+ 361  362 9 THIS ADJUSTMENT WITH THE STATE OF COLORADO THE LANDS              
+ 361  36210 GRANTED IN THAT TERRITORY FOR INTERIOR IMPROVEMENTS               
+ 361  36211 SHALL BE DEDUCTED IN MAKING UP 500,000 ACRES, WHICH PUTS          
+ 361  36212 HER UPON THE PRECISE FOOTING OF THE STATES.                       
+ 362  363 1 CR-3-3-1684   J 43-3-338A    HR435     FEB. 24, 1875              
+ 362  363 2 S432089       Y=24 N=32                EDMUNDS, VT.               
+ 362  363 3 TO PROCEED TO CONSIDERATION OF EXECUTIVE BUSINESS AND TO          
+ 362  363 4 CONTINUE DISCUSSION OF PRESENT BILL AFTERWARDS, MOTION MADE       
+ 362  363 5 DURING CONSIDERATION OF H.R. 435.                                 
+ 363  364 1 CR-3-3-1689   J 43-2-338B    HR435     FEB. 24, 1875              
+ 363  364 2 S432090       Y=17 N=39                HAMILTON, MD.              
+ 363  364 3 TO AMEND H.R. 435, BY ELIMINATING A PHRASE STATING THAT           
+ 363  364 4 COLORADO'S CONSTITUTION MUST MAKE NO DISTINCTION IN CIVIL         
+ 363  364 5 OR POLITICAL RIGHTS ON ACCOUNT OF RACE.                           
+ 364  365 1 CR-3-3-1690A  J 43-2-338C    HR435     FEB. 24, 1875              
+ 364  365 2 S432091       Y=12 N=36                TIPTON, NEB.               
+ 364  365 3 TO AMEND H.R. 435, BY ELIMINATING THE CLAUSE REQUIRING THE        
+ 364  365 4 DELEGATES OF COLORADO TO PLEDGE THEIR ALLEGIANCE TO THE           
+ 364  365 5 CONSTITUTION OF THE U.S.                                          
+ 365  366 1 CR-3-3-1690B  J 43-2-339A    HR435     FEB. 24, 1875              
+ 365  366 2 S432092       Y=43 N=13                HITCHCOCK, NEB.            
+ 365  366 3 TO PASS H.R. 435.                                                 
+ 366  367 1 CR-3-3-1692A  J 43-2-339B    HR218     FEB. 24, 1875              
+ 366  367 2 S432093       Y=31 N=11                HITCHCOCK, NEB.            
+ 366  367 3 TO PASS H.R. 218, A BILL FOR THE ADMISSION OF NEW MEXICO          
+ 366  367 4 INTO THE UNION AS A STATE.                                        
+ 367  368 1 CR-3-3-1692B  J 43-2-340A              FEB. 24, 1875              
+ 367  368 2 S432094       Y=21 N=25                DAVIS, W. VA.              
+ 367  368 3 TO ADJOURN DUE TO THE LATENESS OF THE HOUR.                       
+ 368  369 1 CR-3-3-1692C  J 43-2-340B    S1251     FEB. 24, 1875              
+ 368  369 2 S432095A      Y=10 N=16                CAMERON, PA.               
+ 368  369 3 TO POSTPONE CONSIDERATION OF S. 1251, A BILL PROVIDING FOR        
+ 368  369 4 THE COUNTING OF ELECTORAL VOTES FOR PRESIDENT AND VICE-           
+ 368  369 5 PRESIDENT, IN ORDER TO CONSIDER H.R. 4681, A BILL RELATING        
+ 368  369 6 TO A NATIONAL CEMETERY AT YORK, PA.                               
+ 369  370 1 CR-3-3-1692D  J 43-2-341A    S1251     FEB. 24, 1875              
+ 369  370 2 S432095B      Y=4 N=22                 THURMAN, OHIO              
+ 369  370 3 TO ADJOURN, DUE TO THE LATENESS OF THE HOUR AND LACK OF A         
+ 369  370 4 QUORUM, MOTION MADE DURING DISCUSSION OF S. 1251, A BILL          
+ 369  370 5 REGULATING THE COUNTING OF VOTES FOR PRESIDENT AND VICE-          
+ 369  370 6 PRESIDENT.                                                        
+ 370  371 1 CR-3-3-1693A  J 43-2-341B    S1251     FEB. 24, 1875              
+ 370  371 2 S432096       Y=24 N=3                 THURMAN, OHIO              
+ 370  371 3 TO SUSTAIN DECISION OF THE CHAIR, DURING CONSIDERATION OF         
+ 370  371 4 S. 1251, WHICH DECISION RULED THAT WHEN A QUORUM IS NOT           
+ 370  371 5 PRESENT DEBATE IS OUT OF ORDER ON A MOTION DIRECTING THE          
+ 370  371 6 SERGEANT-AT-ARMS TO REQUEST ATTENDANCE OF ABSENT SENATORS.        
+ 371  372 1 CR-3-3-1693B  J 43-2-341C    S1251     FEB. 24, 1875              
+ 371  372 2 S432097       Y=26 N=10                EDMUNDS, VT.               
+ 371  372 3 THAT THE SERGEANT-AT-ARMS BE DIRECTED TO REQUEST THE              
+ 371  372 4 ATTENDANCE OF ABSENT SENATORS, MOTION MADE DURING                 
+ 371  372 5 DISCUSSION OF S. 1251.                                            
+ 372  373 1 CR-3-3-1759   J 43-2-346A    S1251     FEB. 25, 1875              
+ 372  373 2 S432098       Y=29 N=34                PRATT, IND.                
+ 372  373 3 TO POSTPONE CONSIDERATION OF S. 1251, IN ORDER TO CONSIDER        
+ 372  373 4 H.R. 2190, A BILL GRANTING PENSIONS TO WAR OF 1812 VETERANS.      
+ 373  374 1 CR-3-3-1777   J 43-2-346B    S1251     FEB. 25, 1875              
+ 373  374 2 S432099       Y=14 N=31                EATON, CONN.               
+ 373  374 3 TO INDEFINITELY POSTPONE CONSIDERATION OF S. 1251.                
+ 374  375 1 CR-3-3-1786   J 43-2-347     S1251     FEB. 25, 1875              
+ 374  375 2 S432100       Y=28 N=20                MORTON, IND.               
+ 374  375 3 TO PASS S. 1251.                                                  
+ 375   27 1               EX J 19-535              FEB. 27, 1875              
+ 375   27 2 E432002       Y=27 N=13                SHERMAN, OHIO              
+ 375   27 3 TO ADJOURN DUE TO NO FURTHER BUSINESS BEFORE THE SENATE.          
+ 376  376 1 CR-3-3-1867A  J 43-2-360A    HR796     FEB. 27, 1875              
+ 376  376 2 S432101       Y=26 N=40                THURMAN, OHIO              
+ 376  376 3 TO AMEND H.R. 796 (18-STAT-L.335), A BILL PROTECTING ALL          
+ 376  376 4 CITIZENS IN THEIR CIVIL AND LEGAL RIGHTS, BY ELIMINATING          
+ 376  376 5 A PROPOSAL THAT NO CITIZEN BEING QUALIFIED BY LAW SHALL BE        
+ 376  376 6 DISQUALIFIED FOR SERVICE AS GRAND OR PETIT JUROR IN ANY           
+ 376  376 7 COURT OF UNITED STATES ON ACCOUNT OF RACE, COLOR, OR              
+ 376  376 8 PREVIOUS SERVITUDE, AND ANY OFFICER CHARGED WITH SELECTION        
+ 376  376 9 OF JURORS WHO FAILS TO SUMMON ANY CITIZEN FOR A FORESAID          
+ 376  37610 CAUSE, SHALL BE DEEMED GUILTY OF A MISDEMEANOR.                   
+ 377  377 1 CR-3-3-1867B  J 43-2-360B    HR796     FEB. 27, 1875              
+ 377  377 2 S432102       Y=25 N=36                BAYARD, DEL.               
+ 377  377 3 TO AMEND H.R. 796, BY REPEALING SECTIONS 820-821 OF THE           
+ 377  377 4 REVISED STATUTES OF THE UNITED STATES.  SECTION 820 LISTS         
+ 377  377 5 AS CAUSES OF DISQUALIFICATION OF GRAND AND PETIT JURORS IN        
+ 377  377 6 THE COURTS OF THE UNITED STATES, ANY PERSON WHO WITHOUT           
+ 377  377 7 DURESS AND COERCION HAS EVER TAKEN UP ARMS, OR HAS GIVEN          
+ 377  377 8 ASSISTANCE TO PERSONS IN REBELLION AGAINST THE U.S.               
+ 377  377 9 SECTION 821 AUTHORIZES THE UNITED STATES DISTRICT ATTORNY TO      
+ 377  37710 MOVE, AND THE COURT IN THEIR DISCRETION MAY REQUIRE A             
+ 377  37711 CLERK TO TEND TO EVERY PERSON SUMMONED TO SERVE AS A GRAND        
+ 377  37712 OR PETIT JUROR IN U.S. COURT, ON OATH TO SUPPORT THE              
+ 377  37713 CONSTITUTION OF THE UNITED STATES, AND ALSO SWEAR THAT            
+ 377  37714 THEY HAVE NOT TAKEN UP ARMS AGAINST THE UNITED STATES.            
+ 378  378 1 CR-3-3-1868   J 43-2-360C    HR796     FEB. 27, 1875              
+ 378  378 2 S432103       Y=22 N=36                THURMAN, OHIO              
+ 378  378 3 TO AMEND H.R. 796, BY PROPOSING THAT THE FINE FOR VIOLATION       
+ 378  378 4 AGAINST THE CIVIL RIGHTS OF ANY CITIZEN SHALL BE NOT MORE         
+ 378  378 5 THAN $500.00, AND MAKING THE AMOUNT OF THE FINE                   
+ 378  378 6 DISCRETIONARY.                                                    
+ 379  379 1 CR-3-3-1870   J 43-2-361     HR796     FEB. 27, 1875              
+ 379  379 2 S432104       Y=38 N=26                EDMUNDS, VT.               
+ 379  379 3 TO PASS H.R. 796.                                                 
+ 380  380 1 CR-3-3-1976   J 43-2-373     HR4680    MAR. 1, 1875               
+ 380  380 2 S432104       Y=28 N=26                JOHNSTON, VA.              
+ 380  380 3 TO AMEND H.R. 4680 (18-STAT-L.339), A BILL FURTHER                
+ 380  380 4 PROTECTING THE SINKING FUND AND PROVIDING FOR THE                 
+ 380  380 5 EXIGENCIES OF THE GOVERNMENT, BY ELIMINATING A PROVISION          
+ 380  380 6 THAT THE TAX INCREASE SHALL NOT APPLY TO TOBACCO ON WHICH         
+ 380  380 7 THE TAX UNDER EXISTING LAW SHALL HAVE BEEN PAID WHEN              
+ 380  380 8 THIS ACT TAKES EFFECT, AND INSERTING IN LIEU A CLAUSE             
+ 380  380 9 PROVIDING THAT THE INCREASE OF TAX SHALL ONLY APPLY TO            
+ 380  38010 TOBACCO MANUFACTURED AFTER PASSAGE OF THIS ACT.                   
+ 381  381 1 CR-3-3-1979   J 43-2-374A    HR4680    MAR. 1, 1875               
+ 381  381 2 S432106       Y=28 N=28                MCCREERY, KY.              
+ 381  381 3 TO TABLE H.R. 4680.                                               
+ 382  382 1 CR-3-3-1984A  J 43-2-374B    HR4680    MAR. 1, 1875               
+ 382  382 2 S432107       Y=6 N=56                 SARGENT, CALIF.            
+ 382  382 3 TO AMEND H.R. 4680, BY STRIKING OUT SECTIONS ONE AND TWO AND      
+ 382  382 4 ADDING THAT THE DUTIES ON TEA SHALL BE TEN CENTS A POUND          
+ 382  382 5 AND ON COFFEE TWO CENTS A POUND.                                  
+ 383  383 1 CR-3-3-1984B  J 43-2-374C    HR4680    MAR. 1, 1875               
+ 383  383 2 S432108       Y=30 N=29                JONES, NEV.                
+ 383  383 3 TO TABLE H.R. 4680.                                               
+ 384  384 1 CR-3-3-2034A  J 43-2-378     HR2685    MAR. 2, 1875               
+ 384  384 2 S432109       Y=26 N=12                LOGAN, ILL.                
+ 384  384 3 TO PASS H.R. 2685 (18-STAT-679), A BILL PROVIDING FOR THE         
+ 384  384 4 PAYMENT OF $9606.36, TO JOHN ALDRIDGE, OF MCNAIRY COUNTY,         
+ 384  384 5 TENN., FOR THE DESTRUCTION OF COTTON ON HIS PROPERTY BY           
+ 384  384 6 DISLOYAL CITIZENS OF AND AROUND HENDERSON STATION, TENN.,         
+ 384  384 7 SUM PAID TO BE CHARGED TO THE ACCOUNT OF CAPTURED AND             
+ 384  384 8 ABANDONED PROPERTY.                                               
+ 385  385 1 CR-3-3-2035   J 43-2-383A    HR3341    MAR. 2, 1875               
+ 385  385 2 S432110       Y=31 N=21                LOGAN, ILL.                
+ 385  385 3 TO CONSIDER H.R. 3341, A BILL EQUALIZING THE BOUNTIES OF          
+ 385  385 4 SOLDIERS WHO SERVED IN THE CIVIL WAR AS UNION SOLDIERS.           
+ 386  386 1 CR-3-3-2048   J 43-2-383B    HR3341    MAR. 2, 1875               
+ 386  386 2 S432111       Y=34 N=21                FERRY, CONN.               
+ 386  386 3 TO AMEND H.R. 3341, BY DEDUCTING BOUNTIES ONLY FROM MONIES        
+ 386  386 4 PAID UNDER THE LAWS OF THE UNITED STATES.                         
+ 387  387 1 CR-3-3-2050A  J 43-2-384A    HR3341    MAR. 2, 1875               
+ 387  387 2 S432112       Y=41 N=12                EDMUNDS, VT.               
+ 387  387 3 TO AMEND H.R. 3341, BY AUTHORIZING THE SECRETARY OF THE           
+ 387  387 4 TREASURY TO BORROW MONEY, WHENEVER NECESSARY, TO MEET             
+ 387  387 5 PAYMENTS REQUIRES BY THIS ACT, AND TO COVER SUCH LOANS AS         
+ 387  387 6 HE ISSUE AND DISPOSE OF THE KINDS OF BONDS DESCRIBED IN AN        
+ 387  387 7 ACT AUTHORIZING THE REFUNDING OF THE NATIONAL DEBT.               
+ 388  388 1 CR-3-3-2050B  J 43-2-384B    HR3341    MAR. 2, 1875               
+ 388  388 2 S432113       Y=30 N=30                LOGAN, ILL.                
+ 388  388 3 TO PASS H.R. 3341.                                                
+ 389  389 1 CR-3-3-2051   J 43-2-385     HR4680    MAR. 2, 1875               
+ 389  389 2 S432114       Y=26 N=23                MORRILL, VT.               
+ 389  389 3 TO RESUME CONSIDERATION ON H.R. 4680.                             
+ 390  390 1 CR-3-3-2057   J 43-2-386A    HR4680    MAR. 2, 1875               
+ 390  390 2 S432115       Y=26 N=30                PRATT, IND.                
+ 390  390 3 TO TABLE H.R. 4680.                                               
+ 391  391 1 CR-3-3-2058   J 43-2-386B    HR4680    MAR. 2, 1875               
+ 391  391 2 S432116       Y=23 N=29                SCHURZ, MO.                
+ 391  391 3 TO AMEND H.R. 4680, BY ELIMINATING A PROVISION THAT PROVIDES      
+ 391  391 4 FOR ONLY NINETY PER CENT OF THE DUTIES IMPOSED ON                 
+ 391  391 5 CERTAIN ARTICLES TO BE LEVIED, COLLECTED, AND ADDING THAT         
+ 391  391 6 THE DUTIES SHALL REMAIN WITHOUT ABATEMENT OF THE TEN              
+ 391  391 7 PER CENT.                                                         
+ 392  392 1 CR-3-3-2060   J 43-2-387A    HR4680    MAR. 2, 1875               
+ 392  392 2 S432117       Y=25 N=31                THURMAN, OHIO              
+ 392  392 3 TO AMEND H.R. 4680, BY STRIKING OUT THE SECOND SECTION OF         
+ 392  392 4 THE BILL WHICH IMPOSES AN INCREASED DUTY ON TOBACCO.              
+ 393  393 1 CR-3-3-2061   J 43-2-387B    HR4680    MAR. 2, 1875               
+ 393  393 2 S432118       Y=25 N=33                MERRIMON, N.C.             
+ 393  393 3 TO AMEND H.R. 4680, BY STRIKING OUT THE FIRST AND SECOND          
+ 393  393 4 SECTIONS, WHICH PROVIDES FOR INCREASING THE TAX ON WHISKEY        
+ 393  393 5 AND TOBACCO.                                                      
+ 394  394 1 CR-3-3-2062   J 43-2-387C    HR4680    MAR. 2, 1875               
+ 394  394 2 S432119       Y=27 N=29                JOHNSTON, VA.              
+ 394  394 3 TO AMEND H.R. 4680, BY ELIMINATING A PROVISION THAT THE TAX       
+ 394  394 4 INCREASE DOES NOT APPLY TO TOBACCO ON WHICH TAX HAS BEEN          
+ 394  394 5 PAID, AND INSERTING A PROVISION THAT THE TAX INCREASE             
+ 394  394 6 SHALL APPLY ONLY TO TOBACCO MANUFACTURED AFTER PASSAGE OF         
+ 394  394 7 THIS ACT.                                                         
+ 395  395 1 CR-3-3-2065   J 43-2-388     HR4680    MAR. 2, 1875               
+ 395  395 2 S432120       Y=30 N=29                SHERMAN, OHIO              
+ 395  395 3 TO PASS H.R. 4680.                                                
+ 396  396 1 CR-3-3-2070   J 43-2-391     HR4740    MAR. 2, 1875               
+ 396  396 2 S432121       Y=24 N=28                WEST, LA.                  
+ 396  396 3 TO CONSIDER H.R. 4740 (18-STAT-456), A BILL PROVIDING FOR         
+ 396  396 4 MAKING APPROPRIATIONS FOR THE REPAIR, PRESERVATION AND            
+ 396  396 5 COMPLETION OF CERTAIN PUBLIC WORKS ON RIVERS AND HARBORS.         
+ 397  397 1 CR-3-3-2135   J 43-2-397A    HR4729    MAR. 2, 1875               
+ 397  397 2 S432122       Y=36 N=17                SARGENT, CALIF.            
+ 397  397 3 TO AMEND H.R. 4729 (18-STAT-L.371), THE SUNDRY CIVIL              
+ 397  397 4 APPROPRIATIONS BILL FOR FISCAL 1875, BY ENABLING THE              
+ 397  397 5 SECRETARY OF THE NAVY TO PURCHASE THE STEVENS IRON-CLAD           
+ 397  397 6 STEAM-BATTERY TOGETHER WITH EXPENSES OF REMOVAL TO THE            
+ 397  397 7 BROOKLYN NAVY YARD, $150,000.                                     
+ 398  398 1 CR-3-3-2139   J 43-2-397B    HR4729    MAR. 28 1875               
+ 398  398 2 S432123       Y=30 N=27                SARGENT, CALIF.            
+ 398  398 3 TO TABLE AMENDMENT H.R. 4729, WHICH PROVIDES THAT FROM THE        
+ 398  398 4 PASSAGE OF THIS ACT, THE SALARY OF THE DISTRICT JUDGE OF          
+ 398  398 5 THE UNITED STATES FOR THE EASTERN DISTRICT OF WISCONSIN           
+ 398  398 6 SHALL BE $5,000 PER ANNUM.                                        
+ 399  399 1 CR-3-3-2142   J 43-2-398A    HR4729    MAR. 3, 1875               
+ 399  399 2 S432124       Y=31 N=18                FERRY, MICH.               
+ 399  399 3 TO AMEND H.R. 4729, BY APPROPRIATING $50,000 FOR THE              
+ 399  399 4 CONTINUATION OF THE BUILDING OF A CUSTOM HOUSE AND POST           
+ 399  399 5 OFFICE, AT GRAND RAPIDS, MICH.                                    
+ 400  400 1 CR-3-3-2151   J 43-2-398B    HR4729    MAR. 3, 1875               
+ 400  400 2 S432125       Y=15 N=31                CONKLING, N.Y.             
+ 400  400 3 TO AMEND H.R. 4729, BY ADDING THAT THE PRINCIPAL AND              
+ 400  400 4 INTEREST ON THREE-SIXTY-FIVE BONDS ARE PAYABLE IN GOLD.           
+ 401  401 1 CR-3-3-2155   J 43-2-399     HR4729    MAR. 3, 1875               
+ 401  401 2 S432126       Y=17 N=32                BAYARD, DEL.               
+ 401  401 3 TO AMEND H.R. 4729, BY REDUCING THE APPROPRATION FROM             
+ 401  401 4 $3,000,000 TO $2,500,000 FOR DEFRAYING EXPENSES OF U.S.           
+ 401  401 5 COURTS, SUITS INVOLVING THE UNITED STATES, PRISONERS,             
+ 401  401 6 SAFEKEEPING, RIGHT TO VOTE AND OTHER ACTS AMENDATORY TO           
+ 401  401 7 THE ACT OF FEB. 28, 1871.                                         
+ 402  402 1 CR-3-3-2158   J 43-2-400A    HR4740    MAR. 3, 1875               
+ 402  402 2 S432127       Y=32 N=11                WINDOM, MINN.              
+ 402  402 3 TO AMEND H.R. 4740, BY INCREASING THE APPROPRIATION FOR THE       
+ 402  402 4 IMPROVEMENT OF THE FOX AND WISCONSIN RIVERS FROM $500,000         
+ 402  402 5 TO $600,000.                                                      
+ 403  403 1 CR-3-3-2159   J 43-2-400B    HR4740    MAR. 3, 1875               
+ 403  403 2 S432128       Y=29 N=19                WINDOM, MINN.              
+ 403  403 3 TO AMEND H.R. 4740, BY INCREASING THE APPROPRIATION FOR THE       
+ 403  403 4 IMPROVEMENT OF THE OHIO RIVER, FROM $300,000 TO $800,000.         
+ 404  404 1 CR-3-3-2160A  J 43-2-400C    HR4740    MAR. 3, 1875               
+ 404  404 2 S432129       Y=25 N=19                WINDOM, MINN.              
+ 404  404 3 TO AMEND H.R. 4740, BY INCREASING THE APPROPRIATION FOR THE       
+ 404  404 4 IMPROVEMENT OF THE GREAT KANAROHA RIVER, W. VA., FROM             
+ 404  404 5 $100,000 TO $600,000.                                             
+ 405  405 1 CR-3-3-2160B  J 43-2-401A    HR4740    MAR. 3, 1875               
+ 405  405 2 S432130       Y=25 N=17                WINDOM, MINN.              
+ 405  405 3 TO AMEND H.R. 4740, BY APPROPRIATING $40,000, FOR THE             
+ 405  405 4 IMPROVEMENT OF THE TENNESSEE RIVER ABOVE CHATTANOOGA, AND         
+ 405  405 5 BY INCREASING THE APPROPRIATION FROM $160,000 TO $560,000         
+ 405  405 6 FOR THE IMPROVEMENT OF THE TENNESSEE RIVER BELOW                  
+ 405  405 7 CHATANOOGA INCLUDING MUSCLE SHOALS.                               
+ 406  406 1 CR-3-3-2165   J 43-2-401B    HR4740    MAR. 3, 1875               
+ 406  406 2 S432131       Y=26 N=24                ALCORN, MISS.              
+ 406  406 3 TO AMEND H.R. 4740, BY APPROPRIATING $3,420,000.00 FOR THE        
+ 406  406 4 IMPROVEMENT OF THE SHORES OF THE MISSISSIPPI RIVER TO             
+ 406  406 5 GUARD AGAINST FLOODS, TO BE DIVIDED AS FOLLOWS, AND               
+ 406  406 6 AWARDED TO THE LOWEST BIDDER:  $320,000 FOR THE STATE OF          
+ 406  406 7 MISSOURI, $1,000,000 FOR THE STATE OF ARKANSAS, $600,000          
+ 406  406 8 FOR THE STATE OF MISSISSIPPI, AND $1,500,000 FOR THE STATE        
+ 406  406 9 OF LOUISIANA.                                                     
+ 407  407 1 CR-3-3-2168   J 43-2-402A    HR4740    MAR. 3, 1875               
+ 407  407 2 S432132       Y=19 N=29                WRIGHT, IOWA               
+ 407  407 3 TO TABLE H.R. 4740.                                               
+ 408  408 1 CR-3-3-2169   J 43-2-402B    HR4740    MAR. 3, 1875               
+ 408  408 2 S432133       Y=29 N=16                WINDOM, MINN.              
+ 408  408 3 TO CONCUR IN AMENDMENT TO H.R. 4740, WHICH PROVIDES FOR THE       
+ 408  408 4 SURVEY AND COMMENCEMENT OF THE CONSTRUCTION OF A CANAL            
+ 408  408 5 FROM A POINT ON THE ILLINOIS RIVER, NEAR HENNEPIN, TO THE         
+ 408  408 6 MISSISSIPPI RIVER, AT OR ABOVE ROCK ISLAND, AND                   
+ 408  408 7 APPROPRIATING THE SUM OF $600,000 FOR THAT PURPOSE.               
+ 409  409 1 CR-3-3-2170   J 43-2-402C    HR4740    MAR. 3, 1875               
+ 409  409 2 S432134       Y=23 N=24                ALCORN, MISS.              
+ 409  409 3 TO CONCUR IN THE AMENDMENT TO H.R. 4740, BY APPROPRIATING         
+ 409  409 4 THE SUM OF $3,420,000 FOR REPAIRING THE BUILDING OF LEVEES        
+ 409  409 5 ON THE MISSISSIPPI RIVER.                                         
+ 410  410 1 CR-3-3-2171   J 43-2-403A    HR4740    MAR. 3, 1875               
+ 410  410 2 S432135       Y=40 N=6                 WEST, LA.                  
+ 410  410 3 TO CONCUR IN AMENDMENT TO H.R. 4740, WHICH PROVIDES FOR THE       
+ 410  410 4 IMPROVEMENT OF THE MOUTH OF THE MISSISSIPPI BY A PRIVATE          
+ 410  410 5 CONTRACTOR, WHO IS TO RECEIVE NO MONEY UNTIL THE                  
+ 410  410 6 GOVERNMENT IS SATISFIED THAT CHANNEL IS DREDGED BETWEEN           
+ 410  410 7 THE SOUTH PASS OF THE MISSISSIPPI RIVER AND THE GULF OF           
+ 410  410 8 MEXICO, THE CHANNEL TO BE AT LEAST TWENTY-FOUR FEET DEEP          
+ 410  410 9 AND AT LEAST TWENTY-FIVE WIDE.                                    
+ 411  411 1 CR-3-3-2172   J 43-2-403B    HR4740    MAR. 3, 1875               
+ 411  411 2 S432136       Y=19 N=25                WINDOM, MINN.              
+ 411  411 3 TO CONCUR IN THE AMENDMENT TO H.R. 4740, WHICH INCREASES THE      
+ 411  411 4 APPROPRIATION FOR THE IMPROVEMENT OF THE FOX AND WISCONSIN        
+ 411  411 5 RIVERS, FROM $500,000 TO $600,000.                                
+ 412  412 1 CR-3-3-2173A  J 43-2-403C    HR4740    MAR. 3, 1875               
+ 412  412 2 S432137       Y=21 N=20                WINDOM, MINN.              
+ 412  412 3 TO CONCUR IN THE AMENDMENT H.R. 4740, WHICH INCREASES THE         
+ 412  412 4 APPROPRIATION, FOR THE IMPROVEMENT OF THE GREAT KANAROHA          
+ 412  412 5 RIVER, W. VA., FROM $100,000 TO $600,000.                         
+ 413  413 1 CR-3-3-2173B  J 43-2-404A    HR4740    MAR. 3, 1875               
+ 413  413 2 S432138       Y=23 N=20                WINDOM, MINN.              
+ 413  413 3 TO CONCUR IN AMENDMENT TO H.R. 4740, WHICH INCREASES FROM         
+ 413  413 4 $160,000 TO $560,000, THE APPROPRIATION FOR THE IMPROVEMENT       
+ 413  413 5 OF THE TENNESSEE RIVER BELOW CHATTANOOGA, INCLUDING THE           
+ 413  413 6 MUSCLE SHOALS, ALSO $40,000 FOR IMPROVEMENTS ABOVE                
+ 413  413 7 CHATTANOOGA.                                                      
+ 414  414 1 CR-3-3-2179   J 43-2-404B    HR4740    MAR. 3, 1875               
+ 414  414 2 S432139       Y=15 N=32                ALCORN, MISS.              
+ 414  414 3 TO AMEND H.R. 4740, BY AUTHORIZING THE SECRETARY OF WAR TO        
+ 414  414 4 CONDUCT A SURVEY FOR THE LOCATION OF LEVEES, FOR THE              
+ 414  414 5 RECLAMATION OF THE DELTA OF THE MISSISSIPPI RIVER BETWEEN         
+ 414  414 6 CAIRO AND BALIZE, AND APPROPRIATING $160,000 FOR THE              
+ 414  414 7 PROJECT, ALLOWING $5,000 APIECE FOR THREE CIVIL ENGINEERS         
+ 414  414 8 TO ASSIST THE ARMY ENGINEERS.                                     
+ 415  415 1 CR-3-3-2192   J 43-2-417     HR4692    MAR. 3, 1875               
+ 415  415 2 S432140       Y=33 N=12                SCOTT, PA.                 
+ 415  415 3 TO PASS H.R. 4692 (18-STAT-L.637), A BILL MAKING                  
+ 415  415 4 APPROPRIATIONS FOR THE PAYMENT OF CLAIMS REPORTED AND             
+ 415  415 5 ALLOWED BY THE COMMISSIONER OF CLAIMS.                            
+ 416  416 1 CR-3-3-2193   J 43-2-419A    HR4847    MAR. 3, 1875               
+ 416  416 2 S432141       Y=24 N=16                SCOTT, PA.                 
+ 416  416 3 TO CONSIDER H.R. 4847, A BILL MAKING APPROPRIATIONS FOR THE       
+ 416  416 4 PAYMENT OF CLAIMS REPORTED TO CONGRESS UNDER THE SECOND           
+ 416  416 5 SECTION OF THE ACT APPROVED JUNE 16, 1874, BY THE                 
+ 416  416 6 SECRETARY OF THE TREASURY.                                        
+ 417  417 1 CR-3-3-2195   J 43-2-419B    HR4847    MAR. 3, 1875               
+ 417  417 2 S432142       Y=17 N=19                PRATT, IND.                
+ 417  417 3 TO TABLE H.R. 4847.                                               
+ 418  418 1 CR-3-3-2195B  J 43-2-419C    HR4847    MAR. 3, 1875               
+ 418  418 2 S432143       Y=17 N=23                PRATT, IND.                
+ 418  418 3 TO TABLE H.R. 4847.                                               
+ 419  419 1 CR-3-3-2206   J 43-2-433     HR3341    MAR. 3, 1875               
+ 419  419 2 S432144       Y=30 N=24                SPRAGUE, R.I.              
+ 419  419 3 TO TABLE THE REPORT OF THE COMMITTEE ON CONFERENCE, ON            
+ 419  419 4 H.R. 3341.                                                        
+ 420  420 1 CR-3-3-2209   J 43-2-441     HR1580    MAR. 3, 1875               
+ 420  420 2 S432145       Y=33 N=28                MITCHELL, ORE.             
+ 420  420 3 TO TABLE MOTION TO RECONSIDER H.R. 1580, A BILL RELATING TO       
+ 420  420 4 THE CLAIM OF THE HEIRS OF ASBURY DICKENS.                         

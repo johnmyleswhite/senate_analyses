@@ -1,0 +1,1077 @@
+   1    1 1 CR-77-1-67    J 73-1-13      S1        MAR. 6, 1933               
+   1    1 2 S731001       Y=73 N=7                                            
+   1    1 3 TO PASS S. 1, A BILL PROVIDING FOR EMERGENCY BANKING RELIEF.      
+   2    2 1 CR-77-1-254   J 73-1-25      S233      MAR. 13, 1933              
+   2    2 2 S731002       Y=60 N=20                HARRISON, MISS.            
+   2    2 3 TO TABLE THE MOTION TO REFER S. 233, A BILL PROVIDING FOR         
+   2    2 4 REDUCTION OF GOVERNMENTAL EXPENDITURES, TO THE COMMITTEE ON       
+   2    2 5 THE JUDICIARY.                                                    
+   3    3 1 CR-77-1-365   J 73-1-29      HR2820    MAR. 14, 1933              
+   3    3 2 S731003       Y=18 N=56                HARRISON, MISS.            
+   3    3 3 TO AMEND THE AMENDMENT TO H.R. 2820, A BILL PROVIDING FOR         
+   3    3 4 REDUCTION OF GOVERNMENT EXPENDITURES; WHICH ORIGINAL              
+   3    3 5 AMENDMENT PROVIDES THAT JUDGEMENTS THAT HAVE BEEN RENDERED        
+   3    3 6 SHALL BE PAID AND THAT CASES PENDING IN THE FEDERAL COURTS        
+   3    3 7 SHALL BE TRIED; WHICH AMENDED AMENDMENT WOULD DISMISS THE         
+   3    3 8 PENDING CASES AT THE COST OF THE GOVERNMENT.                      
+   4    4 1 CR-77-1-449   J 73-1-31A     HR2820    MAR. 15, 1933              
+   4    4 2 S731004       Y=16 N=62                LAFOLLETTE, WISC.          
+   4    4 3 TO AMEND H.R. 2820, BY REDUCING DISABILITY COMPENSATION AND       
+   4    4 4 VETERANS PENSION BY 15%.                                          
+   5    5 1 CR-77-1-451   J 73-1-31B     HR2820    MARCH 15, 1933             
+   5    5 2 S731005       Y=28 N=45                CONNALLY, TEX.             
+   5    5 3 TO AMEND H.R. 2820, BY PROVIDING THAT NO VETERANS PENSION OR      
+   5    5 4 COMPENSATION BE REDUCED BY MORE THAN 25%.                         
+   6    6 1 CR-77-1-452   J 73-1-32A     HR2820    MAR. 15, 1933              
+   6    6 2 S731006       Y=35 N=42                BORAH, IDA.                
+   6    6 3 TO AMEND H.R. 2820, BY PROVIDING THAT THE RATE OF MILEAGE         
+   6    6 4 ALLOWANCE OF U.S. SENATORS TO AND FROM EACH SESSION AND OF        
+   6    6 5 DELEGATE FROM HAWAII AND ALASKA AND PHILIPPINES BE 5 CENTS A      
+   6    6 6 MILE.                                                             
+   7    7 1 CR-77-1-468   J 73-1-32B     HR2820    MAR. 15, 1933              
+   7    7 2 S731007       Y=32 N=42                LAFOLLETTE, WISC.          
+   7    7 3 TO AMEND H.R. 2820, BY PROVIDING COMPENSATION MAY NOT BE          
+   7    7 4 LESS THAN $1,000 PER ANNUM.                                       
+   8    8 1 CR-77-1-471   J 73-1-32      HR2820    MAR. 15, 1933              
+   8    8 2 S731008       Y=62 N=13                                           
+   8    8 3 TO PASS H.R. 2820.                                                
+   9    9 1 CR-77-1-537   J 73-1-34      HR3341    MAR. 16, 1933              
+   9    9 2 S731009       Y=36 N=38                DILL, WASH.                
+   9    9 3 TO AMEND H.R. 3341, A BILL PROVIDING FOR TAXATION OF              
+   9    9 4 NON-INTOXICATING LIQUORS, BY PROVIDING THAT IF IT IS              
+   9    9 5 UNLAWFUL TO SELL OR MANUFACTURE ALCHOLIC LIQUORS OR FRUIT         
+   9    9 6 JUICES IN ANY STATE OR TERRITORY IT SHALL BE UNLAWFUL TO          
+   9    9 7 ADVERTISE BY ANY MEANS IN THAT STATE, SUCH LIQUORS OR             
+   9    9 8 FRUIT JUICES DESCRIBED IN SUBSECTION A OF THIS SECTION.           
+  10   10 1 CR-77-1-538   J 73-1-35A     HR3341    MAR. 16, 1933              
+  10   10 2 S731010       Y=50 N=23                BORAH, IDA.                
+  10   10 3 TO AMEND H.R. 3341, BY MAKING IT UNLAWFUL TO SELL LIQUORS         
+  10   10 4 DESCRIBED IN THIS BILL TO PERSONS UNDER 16 YEARS OF AGE.          
+  11   11 1 CR-77-1-539   J 73-1-35B     HR3341    MAR. 16, 1933              
+  11   11 2 S731011       Y=43 N=30                                           
+  11   11 3 TO PASS H.R. 3341.                                                
+  12   12 1 CR-77-1-625   J 73-1-40      HR3341    MAR. 20, 1933              
+  12   12 2 S731012       Y=43 N=36                                           
+  12   12 3 TO AGREE TO REPORT OF COMMITTEE OF CONFERENCE ON DISAGREEING      
+  12   12 4 VOTES OF TWO HOUSES ON THE AMENDMENTS TO H.R. 3341.               
+  13   13 1 CR-77-1-1042  J 73-1-62      S812      MAR. 30, 1933              
+  13   13 2 S731013       Y=55 N=17                                           
+  13   13 3 TO PASS S. 812, A BILL PROVIDING FEDERAL EMERGENCY RELIEF         
+  13   13 4 INCLUDING UNEMPLOYMENT, AND OTHER HARDSHIP, RELIEF.               
+  14   14 1 CR-77-1-1091  J 73-1-65      HR3342    MAR. 31, 1933              
+  14   14 2 S731014       Y=44 N=28                GORE, OKLA.                
+  14   14 3 TO AMEND H.R. 3342, A BILL PROVIDING FOR TAXATION OF              
+  14   14 4 BEVERAGES IN THE DISTRICT OF COLUMBIA, BY PROVIDING THAT          
+  14   14 5 LEASES FOR THE SALE OF BEVERAGES DESCRIBED IN THIS BILL BE        
+  14   14 6 ISSUED TO U.S. PUBLIC BUILDINGS.                                  
+  15   15 1 CR-77-2-1192  J 73-1-70      HR3342    APRIL 4, 1933              
+  15   15 2 S731015       Y=42 N=34                                           
+  15   15 3 TO AGREE TO REPORT OF THE CONFERENCE COMMITTEE ON H.R. 3342,      
+  15   15 4 A BILL PROVIDING FOR TAXATION OF BEVERAGES IN THE                 
+  15   15 5 DISTRICT OF COLUMBIA.                                             
+  16   16 1 CR-77-2-1289  J 73-1-73A     S158      APRIL 5, 1933              
+  16   16 2 S731016       Y=34 N=44                LEWIS, ILL.                
+  16   16 3 TO AMEND S. 158, A BILL PROVIDING FOR FIVE DAY WORK WEEK, BY      
+  16   16 4 PROVIDING THAT THE BILL DOES NOT APPLY TO PERISHABLE              
+  16   16 5 PRODUCTS OF LIVESTOCK, POULTRY, MILK.                             
+  17   17 1 CR-77-2-1291  J 73-1-73B     S158      APRIL 5, 1933              
+  17   17 2 S731017       Y=37 N=43                GOLDSBOROUG, MD.           
+  17   17 3 TO AMEND S. 158, BY DELETING "CANNERY", SO THAT CANNERIES         
+  17   17 4 MAY BE EXEMPTED FROM THE 5 DAY WORK WEEK PROVISIONS.              
+  18   18 1 CR-77-2-1333  J 73-1-75      S158      APRIL 6, 1933              
+  18   18 2 S731018       Y=41 N=48                ROBINSON, ARK.             
+  18   18 3 TO AMEND S. 158, BY PROVIDING THAT NO ARTICLE BE SHIPPED IN       
+  18   18 4 INTERSTATE COMMERCE WHICH WAS PRODUCED AT A FACTORY, MINE,        
+  18   18 5 IN WHICH ANY PERSON WAS PERMITTED TO WORK MORE THAN 36 HOURS      
+  18   18 6 PER WEEK OR 8 HOURS PER DAY.                                      
+  19   19 1 CR-77-2-1342  J 73-1-76A     S158      APRIL 6, 1933              
+  19   19 2 S731019       Y=39 N=41                HATFIELD, W. VA.           
+  19   19 3 TO AMEND S. 158, BY PROVIDING THAT ACT DOES NOT APPLY TO          
+  19   19 4 IMPORTED TEA, COFFEE, TIN, SISAL, RUBBER, FRUITS AND SPICES.      
+  20   20 1 CR-77-2-1349  J 73-1-76B     S158      APRIL 6, 1933              
+  20   20 2 S731020       Y=28 N=54                REED, PA.                  
+  20   20 3 TO AMEND S. 158, BY PROVIDING THAT NO MANUFACTURER BOUND BY       
+  20   20 4 CONTRACT BEFORE APRIL 1933 TO FURNISH GOODS FOR A SPECIFIC        
+  20   20 5 TIME IN DEFINITE QUANTITIES SHALL BE INCLUDED BY THIS ACT,        
+  20   20 6 IF IT WILL AFFECT THE CARRYING OUT OF THE CONTRACT.               
+  21   21 1 CR-77-2-1350  J 73-1-76C     S158      APRIL 6, 1933              
+  21   21 2 S731021       Y=53 N=30                                           
+  21   21 3 TO PASS S. 158.                                                   
+  22   22 1 CR-77-2-1637A J 73-1-89      HR3835    APRIL 13, 1933             
+  22   22 2 S731022       Y=47 N=41                MCGILL, KAN.               
+  22   22 3 TO AMEND H.R. 3835, A BILL PROVIDING FOR FARM RELIEF, BY          
+  22   22 4 AUTHORIZING SECRETARY OF AGRICULTURE TO ESTIMATE CONSUMPTION      
+  22   22 5 OF COMMODITIES AND COST OF PRODUCTION.                            
+  23   23 1 CR-77-2-1637B J 73-1-89      HR3835    APRIL 13, 1933             
+  23   23 2 S731023       Y=46 N=41                NORRIS, NEB.               
+  23   23 3 TO RECONSIDER THE VOTE BY WHICH AMENDMENT TO H.R. 3835 WAS        
+  23   23 4 ADOPTED, WHICH AMENDMENT AUTHORIZES THE SECRETARY OF              
+  23   23 5 AGRICULTURE TO ESTIMATE CONSUMPTION OF COMMODITIES AND            
+  23   23 6 COST OF PRODUCTION.                                               
+  24   24 1 CR-77-2-1812  J 73-1-95      S158      APRIL 17, 1933             
+  24   24 2 S731024       Y=31 N=52                TRAMMELL, FLA.             
+  24   24 3 TO RECONSIDER THE VOTE ON THE PASSAGE OF S. 158.                  
+  25   25 1 CR-77-2-1842  J 73-1-96      HR3835    APRIL 17, 1933             
+  25   25 2 S721025       Y=33 N=44                WHEELER, MONT.             
+  25   25 3 TO AMEND H.R. 3835, BY MAKING VALUE OF SILVER 16 TIMES THAT       
+  25   25 4 OF GOLD IN ALL COINS.                                             
+  26   26 1 CR-77-2-1932  J 73-1-102     HR3835    APRIL 19, 1933             
+  26   26 2 S731026       Y=44 N=37                COSTIGAN, COLO.            
+  26   26 3 TO AMEND H.R. 3835, BY PROVIDING PRICE SUPPORTS ON SUGAR.         
+  27   27 1 CR-77-2-1934  J 73-1-102     HR3835    APRIL 19, 1933             
+  27   27 2 S731027       Y=32 N=48                WHEELER, MONT.             
+  27   27 3 TO AMEND H.R. 3835, BY INCLUDING FLAX IN LIST OF BASIC            
+  27   27 4 AGRICULTURAL COMMODITIES, SO IT WILL HAVE PRICE SUPPORT.          
+  28   28 1 CR-77-2-1935  J 73-1-102     HR3835    APRIL 19, 1933             
+  28   28 2 S731028       Y=48 N=31                ROBINSON, ARK.             
+  28   28 3 TO RECONSIDER VOTE WHEREBY WHEELER'S AMENDMENT TO H.R. 3835       
+  28   28 4 WAS TABLE THE MOTION TO REJECTED, WHICH AMENDMENT INCLUDES        
+  28   28 5 FLAX IN LIST OF BASIC AGRICULTURAL COMMODITIES SO IT WILL         
+  28   28 6 HAVE PRICE SUPPORT.                                               
+  29   29 1 CR-77-2-1942  J 73-1-102     HR3835    APRIL 19, 1933             
+  29   29 2 S731029       Y=28 N=50                HATFIELD, W. VA.           
+  29   29 3 TO AMEND H.R. 3835, BY PROHIBITING ENTRY OF FOREIGN MADE          
+  29   29 4 GOODS IF THEY ARE SIMILAR TO AND CHEAPER THAN HOME                
+  29   29 5 PRODUCED GOODS.                                                   
+  30   30 1 CR-77-2-1943  J 73-1-103     HR3835    APRIL 19, 1933             
+  30   30 2 S731030       Y=38 N=38                GLASS, VA.                 
+  30   30 3 TO TABLE FRAZIER'S MOTION TO RECONSIDER VOTE AGREEING TO          
+  30   30 4 GLASS' AMENDMENT TO H.R. 3835.                                    
+  31   31 1 CR-77-2-1944A J 73-1-103     HR3835    APRIL 19, 1933             
+  31   31 2 S731031       Y=41 N=39                FRAZIER, N. D.             
+  31   31 3 TO RECONSIDER VOTE AGREEING TO GLASS' AMENDMENT TO                
+  31   31 4 H.R. 3835.                                                        
+  32   32 1 CR-77-2-1944B J 73-1-103     HR3835    APRIL 19, 1933             
+  32   32 2 S731032       Y=44 N=39                ROBINSON, ARK.             
+  32   32 3 TO TABLE GLASS' AMENDMENT TO H.R. 3835, WHICH AMENDMENT           
+  32   32 4 DEFINES PROCESSING OF PEANUTS.                                    
+  33   33 1 CR-77-2-1951  J 73-1-103     HR3835    APRIL 19, 1933             
+  33   33 2 S731033       Y=50 N=32                FRAZIER, N. D.             
+  33   33 3 TO AMEND H.R. 3835, BY PROVIDING THAT AMOUNT PAID FOR ADMIN-      
+  33   33 4 -ISTRATIVE EXPENSES NOT EXCEED 5% OF PROCEEDS OF TAXES.           
+  34   34 1 CR-72-2-1952  J 73-1-103     HR3835    APRIL 19, 1933             
+  34   34 2 S731034       Y=18 N=57                CLARK, MO.                 
+  34   34 3 TO AMEND H.R. 3835, BY PROVIDING THAT NO LAND BE LEASED           
+  34   34 4 DURING 1933 FOR THE PURPOSE OF REDUCTION OF ACREAGE IN ANY        
+  34   34 5 COMMODITY EXCEPT WINTER WHEAT SOWN FOR 1934.                      
+  35   35 1 CR-77-2-2005  J 73-1-106     HR3835    APRIL 20, 1933             
+  35   35 2 S731035       Y=33 N=45                DICKINSON, IOWA.           
+  35   35 3 TO AMEND H.R. 3835, BY PROVIDING FOR LOANS TO FARMERS AT          
+  35   35 4 3 1/2% (APPROPRIATION COSTS GOVERNMENT 4%).                       
+  36   36 1 CR-77-2-2161  J 73-1-116     HR3835    APRIL 22, 1933             
+  36   36 2 S731036       Y=25 N=44                FRAZIER, N.D.              
+  36   36 3 TO AMEND AN AMENDMENT OFFERED AS A SUBSTITUTE FOR THE             
+  36   36 4 AMENDMENT PROPOSED BY SEN. WAGNER AS A SUBSTITUTE FOR             
+  36   36 5 TITLE II.                                                         
+  37   37 1 CR-77-3-2410  J 73-1-120     HR3835    APRIL 26, 1933             
+  37   37 2 S731037       Y=41 N=26                WHEELER, MONT.             
+  37   37 3 TO AMEND H.R. 3835, BY FIXING WEIGHT OF GOLD DOLLAR IN            
+  37   37 4 GRAINS 1/10 FINE, WEIGHT OF SILVER DOLLAR IN GRAINS 1/10          
+  37   37 5 FINE AT DEFINITE FIXED RATIO TO THE GOLD DOLLAR, AND TO PRO-      
+  37   37 6 -VIDE FOR UNLIMITED COINAGE.                                      
+  38   38 1 CR-77-3-2468  J 73-1-123     HR3835    APRIL 27, 1933             
+  38   38 2 S731038       Y=35 N=53                REED, PA.                  
+  38   38 3 TO AMEND THE AMENDMENT TO H.R. 3835, BY INSERTING, "BY            
+  38   38 4 PROCLAMATION TO FIX THE WEIGHT OF THE SILVER DOLLAR IN            
+  38   38 5 GRAINS NINE TENTH FINE AT A DEFINITE FIXED RATIO IN RELATION      
+  38   38 6 TO THE GOLD DOLLAR AT SUCH AMOUNTS AS HE FINDS NECESSARY          
+  38   38 7 FROM HIS INVESTIGATION TO STABILIZE DOMESTIC PRICES OR TO         
+  38   38 8 PROTECT THE FOREIGN COMMERCE AGAINST THE ADVERSE EFFECT OF        
+  38   38 9 DEPRECIATED FOREIGN CURRENCIES, AND TO PROVIDE FOR THE            
+  38   3810 UNLIMITED COINAGE OF SUCH GOLD AND SILVER AT THE RATIO SO         
+  38   3811 FIXED."                                                           
+  39   39 1 CR-77-3-2531  J 73-1-125     HR3835    APRIL 28, 1933             
+  39   39 2 S731039       Y=28 N=60                ROBINSON, ARK.             
+  39   39 3 TO AMEND H.R. 3835, BY PERMITTING PAYING OF W.W. 1 ADJUSTED       
+  39   39 4 COMPENSATION CERTIFICATES BEFORE MATURITY AND DESCRIBING          
+  39   39 5 CONDITIONS AND RULES FOR SAME.                                    
+  40   40 1 CR-77-3-2550  J 73-1-126     HR3835    APRIL 28, 1933             
+  40   40 2 S731040       Y=53 N=33                HAYDEN, ARIZ.              
+  40   40 3 TO AMEND H.R. 3835, BY RAISING LIMIT OF SILVER WHICH THE          
+  40   40 4 PRESIDENT IS AUTHORIZED TO ACCEPT AS PAYMENT OF FOREIGN           
+  40   40 5 DEBTS FROM $100 MILLION TO $200 MILLION.                          
+  41   41 1 CR-77-3-2551  J 73-1-127     HR3835    APRIL 28, 1933             
+  41   41 2 S731041       Y=64 N=21                THOMAS, OKLA.              
+  41   41 3 TO AMEND H.R. 3835, BY ADDING TITLE III, WHICH REGULATES          
+  41   41 4 COINING AND THE VALUE THEREOF, GIVING SEC. OF TREASURY            
+  41   41 5 VARIOUS POWERS.                                                   
+  42   42 1 CR-77-3-2559  J 73-1-133A    HR3835    APRIL 28, 1933             
+  42   42 2 S731042       Y=19 N=65                CAREY, WYO.                
+  42   42 3 TO AMEND H.R. 3835, BY CHANGING ENTIRE AGRICULTURE ALLOTMENT      
+  42   42 4 AND SUBSTITUTING RURAL CREDIT LEASING PLAN.                       
+  43   43 1 CR-77-3-2562  J 73-1-133B    HR3835    APRIL 28, 1933             
+  43   43 2 S731043       Y=64 N=20                                           
+  43   43 3 TO PASS H.R. 3835.                                                
+  44   44 1 CR-77-3-2686  J 73-1-139     S1272     MAY 2, 1933                
+  44   44 2 S731044       Y=31 N=43                VANDENBERG, MICH.          
+  44   44 3 TO AMEND S. 1272 A BILL TO IMPROVE NAVIIGABILITY AND FLOOD        
+  44   44 4 CONTROL OF THE TENN. RIVER, REFORESTATION AND, "AGRICULTURAL      
+  44   44 5 DEVELOPEMENT OF TENN. RIVER VALLEY, BY STRIKING OUT SECTION       
+  44   44 6 13, PROVIDING FOR 5% PAYMENTS FROM PROCEEDS OF 2 DAMS TO          
+  44   44 7 STATES OF ALA. AND TENN., AND ADDITIONAL 2 1/2%.                  
+  45   45 1 CR-77-3-2790  J 73-1-143     S1272     MAY 3, 1933                
+  45   45 2 S731045       Y=12 N=73                BANKHEAD, ALA.             
+  45   45 3 TO AMEND S. 1272, BY PROVIDING THAT BOARD SHALL OPERATE           
+  45   45 4 NITRATE PLANTS, REGULATE POWERS AND OPERATIONS.                   
+  46   46 1 CR-77-3-2808  J 73-1-144     S1272     MAY 3, 1933                
+  46   46 2 S731046       Y=63 N=20                                           
+  46   46 3 TO PASS S. 1272.                                                  
+  47   47 1 CR-77-3-3121  J 73-1-156     HR3835    MAY 10, 1933               
+  47   47 2 S731047       Y=53 N=28                                           
+  47   47 3 TO AGREE TO REPORT OF CONFERENCE COMMITTEE ON H.R. 3835.          
+  48   48 1 CR-77-3-3124  J 73-1-156     HR3835    MAY 10, 1933               
+  48   48 2 S731048       Y=48 N=33                SMITH, S. C.               
+  48   48 3 TO RECEDE FROM THE AMENDMENT #83, TO H.R. 3835, WHICH IS          
+  48   48 4 PART IV OF THE BILL.                                              
+  49   49 1 CR-77-3-3139  J 73-1-157     HR4220    MAY 10, 1933               
+  49   49 2 S731049       Y=30 N=42                CUTTING, N.M.              
+  49   49 3 TO AMEND H.R. 4220, A BILL FOR THE PROTECTION OF GOVERNMENT       
+  49   49 4 RECORDS, BY PROVIDING UP TO 10 YEARS AND $10,000 FINE FOR         
+  49   49 5 ANYONE EMPLOYED BY U.S. GOVERNMENT WHO GIVES A DIPLOMATIC         
+  49   49 6 CODE AWAY.                                                        
+  50   50 1 CR-77-3-3240A J 73-1-159     HR5040    MAY 11, 1933               
+  50   50 2 S731050       Y=35 N=42                NORRIS, NEB.               
+  50   50 3 TO AMEND H.R. 5040 A BILL SETTING GASOLINE TAX AND POSTAGE        
+  50   50 4 RATES, BY PUTTING 3% TAX ON PRIVATELY OWNED ELECTRICITY USED      
+  50   50 5 FOR HOME CONSUMPTION.                                             
+  51   51 1 CR-77-3-3240B J 73-1-160A    HR5040    MAY 11, 1933               
+  51   51 2 S731051       Y=36 N=45                NORRIS, NEB.               
+  51   51 3 TO AMEND H.R. 5040, BY PUTTING 3% TAX ON ELECTRICAL POWER         
+  51   51 4 SOLD BY PRIVATELY OWNED COMPANIES FOR PRIVATE USE.                
+  52   52 1 CR-77-3-3244  J 73-1-160B    HR5040    MAY 11, 1933               
+  52   52 2 S731052       Y=45 N=31                JOHNSON, CALIF.            
+  52   52 3 TO AMEND H.R. 5040, BY PROVIDING THAT NO PROVISIONS OF            
+  52   52 4 SEC 615 1/2 OR 616 APPLY TO PUBLICLY OWNED ELECTRIC AND           
+  52   52 5 POWER COMPANIES.                                                  
+  53   53 1 CR-77-4-3307  J 73-1-163     HR5040    MAY 12, 1933               
+  53   53 2 S731053       Y=27 N=51                HATFIELD, W. VA.           
+  53   53 3 TO AMEND H.R. 5040, BY PUTTING TAX ON IMPORTED ARTICLES IF        
+  53   53 4 THE DEPRECIATION OF THE CURRENCY OF THE COUNTRY OF ORIGIN IS      
+  53   53 5 MORE THAN 5% OF THE STANDARD VALUE OF SUCH CURRENCY.              
+  54   54 1 CR-77-4-3314  J 73-1-164A    HR5040    MAY 12, 1933               
+  54   54 2 S731054       Y=37 N=37                VANDENBERG, MICH.          
+  54   54 3 TO AMEND H.R. 5040, BY CHANGING THE WORD "MODIFICATIONS" TO       
+  54   54 4 "REDUCTIONS" PERMITTING THE PRESIDENT TO REDUCE POSTAL RATES      
+  54   54 5 IF DEEMED ADVISABLE.                                              
+  55   55 1 CR-77-4-3315  J 73-1-164B    HR5040    MAY 12, 1933               
+  55   55 2 S731055       Y=39 N=39                HARRISON, MISS.            
+  55   55 3 TO TABLE H.R. 5040.                                               
+  56   56 1 CR-77-4-3316  J 73-1-164D    HR5040    MAY 12, 1933               
+  56   56 2 S731056       Y=30 N=46                                           
+  56   56 3 TO AMEND H.R. 5040, BY PLACING RECURRENT QUESTION ON              
+  56   56 4 REPEALING SUBSECTIONS (A) AND (C) OF SEC. 1001 OF TITLE 8 OF      
+  56   56 5 REVENUE ACT OF 1932.                                              
+  57   57 1 CR-77-4-3317  J 73-1-164C    HR5040    MAY 12, 1933               
+  57   57 2 S731057       Y=37 N=43                COSTIGAN, COLO.            
+  57   57 3 TO RECONSIDER VOTE ON H.R. 5040, WHICH VOTE DISAGREES TO          
+  57   57 4 VANDENBERG'S AMENDMENT.                                           
+  58   58 1 CR-77-4-3329  J 73-1-165     HR5040    MAY 12, 1933               
+  58   58 2 S731058       Y=14 N=50                LONG, LA.                  
+  58   58 3 TO AMEND H.R. 5040, BY STRIKING OUT THE CAPITAL TAX-LEVY          
+  58   58 4 FEATURE OF IT, LEAVING IT TO APPLY ONLY AS TO INHERITANCE         
+  58   58 5 AND GIFT TAXES AND INCOME TAXES, LIMITING THE INCOMES TO          
+  58   58 6 $1,000,000 AND INHERITANCES AND GIFT TO $5,000,000.               
+  59   59 1 CR-77-4-3516  IMP PROC-P.    IMP       MAY 17, 1933               
+  59   59 2 S731059       Y=67 N=4                                            
+  59   59 3 TO DECIDE WHETHER THE CERTIFIED COPIES OF CERTAIN RECORDS         
+  59   59 4 OFFERED BY THE MANAGERS ON THE PART OF THE HOUSE SHALL BE         
+  59   59 5 PRINTED IN THE RECORD, A MOTION MADE DURING CONSIDERATION         
+  59   59 6 OF AN IMPEACHMENT TRIAL OF JUDGE HAROLD LOUDERBACK.               
+  60   60 1 CR-77-4-4083  IMP PROC-P. 8  IMP       MAY 24, 1933               
+  60   60 2 S731060       Y=34 N=42                                           
+  60   60 3 TO DECIDE WHETHER HAROLD LOUDERBACK, JUDGE OF THE DISTRICT        
+  60   60 4 COURT OF THE UNITED STATES FOR THE NORTHERN DISTRICT OF           
+  60   60 5 CALIFORNIA, IS GUILTY OR NOT GUILTY UNDER THE FIRST ARTICLE       
+  60   60 6 OF THE IMPEACHMENT CHARGE.  (YES=GUILTY; NO=NOT GUILTY.)          
+  61   61 1 CR-77-4-4084  IMP PROC-P.    IMP       MAY 24, 1933               
+  61   61 2 S731061       Y=23 N=47                                           
+  61   61 3 TO DECIDE WHETHER JUDGE H. LOUDERBACK IS GUILTY OR NOT            
+  61   61 4 GUILTY, UNDER ARTICLE II OF THE IMPEACHMENT CHARGE.               
+  62   62 1 CR-77-4-4085A IMP PROC-P.    IMP       MAY 24, 1933               
+  62   62 2 S731062       Y=11 N=63                                           
+  62   62 3 TO DECIDE WHETHER JUDGE H. LOUDERBACK IS GUILTY OR NOT            
+  62   62 4 GUILTY UNDER THE THIRD ARTICLE OF THE IMPEACHMENT CHARGE.         
+  63   63 1 CR-77-4-4085B IMP PROC-P.    IMP       MAY 24, 1933               
+  63   63 2 S731063       Y=30 N=47                                           
+  63   63 3 TO DECIDE WHETHER JUDGE H. LOUDERBACK IS GUILTY OR NOT            
+  63   63 4 GUILTY UNDER THE FOURTH ARTICLE OF THE IMPEACHMENT CHARGE.        
+  64   64 1 CR-77-4-4088  IMP PROC-P.    IMP       MAY 24, 1933               
+  64   64 2 S731064       Y=45 N=34                                           
+  64   64 3 TO DECIDE WHETHER JUDGE H. LOUDERBACK IS GUILTY OR NOT            
+  64   64 4 GUILTY UNDER THE FIFTH ARTICLE OF THE IMPEACHMENT CHARGE.         
+  65   65 1 CR-77-5-4636  J 73-1-214     HR5389    MAY 31, 1933               
+  65   65 2 S731065       Y=28 N=35                                           
+  65   65 3 TO AMEND H.R. 5389, A BILL PROVIDING APPROPRIATIONS FOR           
+  65   65 4 INDEPENDENT OFFICERS, BY STRIKING OUT SEC. 6, AUTHORIZING         
+  65   65 5 PRESIDENT TO CANCEL ANY CONTRACT FOR TRANSPORTATION OF            
+  65   65 6 PERSONS OR THINGS, IF HE THINKS IT WILL BE IN THE PUBLIC          
+  65   65 7 INTEREST.                                                         
+  66   66 1 CR-77-5-4671  EX J 74-120    SRE       MAY 31, 1933               
+  66   66 2 S731066       Y=67 N=5                                            
+  66   66 3 TO CONFIRM THE NOMINATION OF JAMES F. MCKINLEY TO BE THE          
+  66   66 4 ADJUSTANT GENERAL.                                                
+  67   67 1 CR-77-5-4740  EX J 74-124    SRE       JUNE 1, 1933               
+  67   67 2 S731067       Y=56 N=21                                           
+  67   67 3 TO CONFIRM THE NOMINATION OF GUY T. HELVERING TO BE               
+  67   67 4 COMMISSIONER OF INTERNAL REVENUE.                                 
+  68   68 1 CR-77-5-4811  J 73-1-220     SRE       JUNE 2, 1933               
+  68   68 2 S731068       Y=59 N=21                TRAMMEL, FLA.              
+  68   68 3 TO SUSPEND A SENATE RULE.                                         
+  69   69 1 CR-77-5-4816  J 73-1-220A    HR5389    JUNE 2, 1933               
+  69   69 2 S731069       Y=25 N=51                                           
+  69   69 3 TO AMEND MR. TRAMMEL'S AMENDMENT TO H.R. 5389, A BILL PRO-        
+  69   69 4 VIDING APPROPRIATIONS FOR INDEPENDENT OFFICES, BY REDUDING        
+  69   69 5 COMPENSATION TO WOUNDED SOLDIERS BY 25% INSTEAD OF 15%.           
+  70   70 1 CR-77-5-4832  J 73-1-220B    HR5389    JUNE 2, 1933               
+  70   70 2 S731070       Y=42 N=42                CONNALLY, TEXAS            
+  70   70 3 TO AMEND H.R. 5389, IN THE NATURE OF SUBSTITUTE, BY PROVID-       
+  70   70 4 -ING THAT "NOTWITHSTANDING ANY OF THE PROVISIONS OF THE ACT       
+  70   70 5 APPROVED MARCH 20, 1933, ENTITLED, "AN ACT TO MAINTAIN THE        
+  70   70 6 CREDIT OF THE U.S. GOVERNMENT", IN NO EVENT SHALL WORLD WAR       
+  70   70 7 SERVICED CONNECTED DISABILITY COMPENSATION OF ANY VETERAN OR      
+  70   70 8 THE PENSION OF WIDOW AND OR DEPENDENTS OF SUCH VETERANS, BE       
+  70   70 9 REDUCED MORE THAN 25% OF THE RATE BEING RECEIVED PRIOR TO         
+  70   7010 MARCH 15, 1933." (VICE-PRESIDENT VOTED"YES.")                     
+  71   71 1 CR-77-5-4836  J 73-1-221     HR5389    JUNE 2, 1933               
+  71   71 2 S731071       Y=44 N=36                MCKELLAR, TENN.            
+  71   71 3 TO TABLE A MOTION TO RECONSIDER THE VOTE HAD ON MAY 31 BY         
+  71   71 4 WHICH THE SENATE DISAGREED TO THE COMMITTEE AMENDMENT TO          
+  71   71 5 H.R. 5389, WHICH AMENDMENT STRIKES OUT PROVISION PERMITTING       
+  71   71 6 THE PRESIDENT TO CANCEL OR MODIFY CERTAIN CONTRACTS WHICH         
+  71   71 7 ARE DEFINED IN THAT SECTION.                                      
+  72   72 1 CR-77-5-4921  J 73-1-224A    HJR192    JUNE 2, 1933               
+  72   72 2 S731072       Y=21 N=48                REED, PA.                  
+  72   72 3 TO AMEND H.J.RES. 192, PROVIDING UNIFORM VALUE OF COINS AND       
+  72   72 4 CURRENCY, BY MAKING PAYMENT OF OBLIGATIONS NON-RETROACTIVE.       
+  73   73 1 CR-77-5-4927  J 73-1-224B    HJR192    JUNE 3, 1933               
+  73   73 2 S731073       Y=26 N=38                WALCOTT, CONN.             
+  73   73 3 TO AMEND H.J.RES. 192, BY PROVIDING THAT THE RESOLUTION DOES      
+  73   73 4 NOT EXCEPT OBLIGATIONS INCURRED PRIOR TO DATE THAT THE            
+  73   73 5 RESOLUTION TAKES EFFECT.                                          
+  74   74 1 CR-77-5-4929  J 73-1-224C    HJR192    JUNE 3, 1933               
+  74   74 2 S731074       Y=48 N=20                                           
+  74   74 3 TO ADOPT H.J.RES. 192.                                            
+  75   75 1 CR-77-5-5095  J 73-1-231     HR5040    JUNE 6, 1933               
+  75   75 2 S731075       Y=41 N=31                BONE, WASH.                
+  75   75 3 TO RECOMMIT TO CONFERENCE THE REPORT ON H.R. 5040, A BILL         
+  75   75 4 PROVIDING FOR GASOLINE TAX AND POSTAGE RATES.                     
+  76   76 1 CR-77-6-5275  J 73-1-238     HR5755    JUNE 8, 1933               
+  76   76 2 S731076       Y=31 N=58                REED, PA.                  
+  76   76 3 TO AMEND H.R. 5755, A BILL PROVIDING FOR NATIONAL INDUSTRIAL      
+  76   76 4 RECOVERY, BY STRIKING OUT LAST 5 LINES ON PAGE 7 AND ALL OF       
+  76   76 5 PAGE 8, THAT CALLED THE "LICENSING SECTION."                      
+  77   77 1 CR-77-6-5284  J 73-1-242     HR5755    JUNE 8, 1933               
+  77   77 2 S731077       Y=31 N=46                                           
+  77   77 3 TO AMEND H.R. 5755, BY PROVIDING NOTHING IN THIS TITLE TO         
+  77   77 4 COMPEL CHANGE IN SATISFACTORY EMPLOYER - EMPLOYEE                 
+  77   77 5 RELATIONSHIPS IN ANY PLANT, EXCEPT TO GIVE EMPLOYEES COLLEC-      
+  77   77 6 -TIVE BARGAINING POWER.                                           
+  78   78 1 CR-77-6-5290  J 73-1-243     HR5755    JUNE 8, 1933               
+  78   78 2 S731078       Y=25 N=41                BLACK, ALA.                
+  78   78 3 TO AMEND H.R. 5755, BY PROVIDING THAT ANY TRADE OR                
+  78   78 4 INDUSTRIAL GROUP MUST GIVE EQUAL VOTING STRENGTH TO               
+  78   78 5 INDUSTRIES, TRADES, GROUPS OF EACH STATE, IN ORDER TO             
+  78   78 6 RECEIVE THE BENEFITS OF THE PROVISIONS OF THIS TITLE.             
+  79   79 1 CR-77-6-5293  J 73-1-244     HR5755    JUNE 8, 1933               
+  79   79 2 S731079       Y=59 N=12                                           
+  79   79 3 TO AMEND H.R. 5755, BY GIVING PRESIDENT POWER TO SET TERMS        
+  79   79 4 ON WHICH ARTICLES BEING IMPORTED IN SUBSTANTIAL AND               
+  79   79 5 INCREASING PROPORTION TO DOMESTIC PRODUCTION OF SUCH              
+  79   79 6 ARTICLES, MAY BE IMPORTED.                                        
+  80   80 1 CR-77-6-5308  J 73-1-246     HR5755    JUNE 8, 1933               
+  80   80 2 S731080       Y=31 N=49                                           
+  80   80 3 TO AMEND H.R. 5755, BY STRIKING OUT ALL OF TITLE 1.               
+  81   81 1 CR-77-6-5358  J 73-1-248A    HR5755    JUNE 9, 1933               
+  81   81 2 S731081       Y=48 N=35                                           
+  81   81 3 TO AMEND H.R. 5755, BY STRIKING OUT PROVISO THAT NO               
+  81   81 4 MATERIALS OR SUPPLIES SHALL BE USED IN PUBLIC PROJECTS            
+  81   81 5 UNLESS THEY WERE MANUFACTURED IN THE U.S.                         
+  82   82 1 CR-77-6-5364  J 73-1-248B    HR5755    JUNE 9, 1933               
+  82   82 2 S731082       Y=66 N=20                                           
+  82   82 3 TO AMEND H.R. 5755, IN LINES 21 TO 23, THE FOLLOWING,             
+  82   82 4 "AND ONE-FOURTH IN THE RATIO WHICH THE POPULATION OF EACH         
+  82   82 5 STATE BEARS TO THE TOTAL PAPULATION OF THE U.S. ACCORDING TO      
+  82   82 6 THE LATEST DECENNIAL CENSUS.                                      
+  83   83 1 CR-77-6-5372  J 73-1-249A    HR5755    JUNE 9, 1933               
+  83   83 2 S731083       Y=28 N=48                OVERTON, LA.               
+  83   83 3 TO AMEND H.R. 5755, BY ADDING TO TITLE II - "AND TO               
+  83   83 4 REFINANCE ... OUTSTANDING OBLIGATIONS ISSUED IN CONNECTION        
+  83   83 5 WITH LOCAL CONTRIBUTIONS MADE TO AID IN THE CONSTRUCTION OF       
+  83   83 6 FEDERAL FLOOD-CONTROL WORKS."                                     
+  84   84 1 CR-77-6-5392  J 73-1-249     HR5755    JUNE 9, 1933               
+  84   84 2 S731084       Y=29 N=51                WHEELER, MONT.             
+  84   84 3 TO AMEND H.R. 5755, BY AUTHORIZING ISSUE OF U.S. BANK NOTES       
+  84   84 4 TO MEET EXPENDITURES AUTHORIZED BY THIS ACT.                      
+  85   85 1 CR-77-6-5403  J 73-1-255     HR5755    JUNE 9, 1933               
+  85   85 2 S731085       Y=20 N=59                LAFOLLETTE, WISC.          
+  85   85 3 TO AMEND H.R. 5755, BY INSERTING SECTION CONCERNING USE OF        
+  85   85 4 THE ST. LAWRENCE RIVER.                                           
+  86   86 1 CR-77-6-5409  J 73-1-256A    HR5755    JUNE 9, 1933               
+  86   86 2 S731086       Y=35 N=46                GORE, OKLA.                
+  86   86 3 TO AMEND H.R. 5755, BY STRIKING OUT SECTION WHICH WOULD           
+  86   86 4 AMEND REVENUE ACT OF 1932 BY RAISING 1 CENT TO 1 1/2 CENT.        
+  87   87 1 CR-77-6-5410  J 73-1-256B    HR5755    JUNE 9, 1933               
+  87   87 2 S731087       Y=72 N=7                                            
+  87   87 3 TO AMEND H.R. 5755, BY PROVIDING THAT TAXES OF THE SECTION        
+  87   87 4 SHALL NOT APPLY TO DIVIDENDS OF ANY CORP. ENUMERATED IN           
+  87   87 5 SEC. 103 OF THE REVENUE ACT OF 1932 NOR TO ANY INSURANCE CO.      
+  87   87 6 SUBJECT TO TAX IMPOSED BY SEC. 201 AND 204.                       
+  88   88 1 CR-77-6-5416  J 73-1-260A    HR5755    JUNE 9, 1933               
+  88   88 2 S731088       Y=28 N=57                REED, PA.                  
+  88   88 3 TO AMEND H.R. 5755, BY INSERTING SECTION PROVIDING FOR            
+  88   88 4 GENERAL MANUFACTURES' EXCISE TAX.                                 
+  89   89 1 CR-77-6-5420  J 73-1-260B    HR5755    JUNE 9, 1933               
+  89   89 2 S731089       Y=56 N=27                LAFOLLETTE, WISC.          
+  89   89 3 TO AMEND H.R. 5755 BY PROVIDING THAT ALL RETURNS SHALL CONS-      
+  89   89 4 -TITUTE PUBLIC RECORDS AND SHALL BE OPEN TO INSPECTION.           
+  90   90 1 CR-77-6-5421  J 73-1-260C    HR5755    JUNE 9, 1933               
+  90   90 2 S731090       Y=45 N=37                CLARK, MO.                 
+  90   90 3 TO AMEND H.R. 5755, BY AMENDING SEC. 22, CONCERNING TAX FREE      
+  90   90 4 INTEREST, MAKING OWNERS OF SUCH SECURITIES FILE RECORD OF         
+  90   90 5 THEM, AND INCLUDE AMOUNT OF INCOME RECEIVED.                      
+  91   91 1 CR-77-6-5424  J 73-1-260D    HR5755    JUNE 9, 1933               
+  91   91 2 S731091       Y=58 N=24                                           
+  91   91 3 TO PASS H.R. 5755.                                                
+  92   92 1 CR-77-6-5578  EX J 74-187    SRE       JUNE 10, 1933              
+  92   92 2 S731092       Y=33 N=43                NYE, N. D.                 
+  92   92 3 TO RECOMMIT THE NOMINATION OF WALTER H. NEWTON OF MINNESOTA       
+  92   92 4 TO BE A MEMBER OF FEDERAL HOME LOAN BANK BOARD.                   
+  93   93 1 CR-77-6-5579  EX J 74-188    SRE       JUNE 10, 1933              
+  93   93 2 S731093       Y=43 N=30                                           
+  93   93 3 TO CONFIRM THE NOMINATION OF WALTER H. NEWTON OF MINNESOTA        
+  93   93 4 TO BE A MEMBER OF FEDERAL HOME LOAN BANK BOARD.                   
+  94   94 1 CR-77-6-5614  J 73-1-269     SRE85     JUNE 10, 1933              
+  94   94 2 S731094       Y=69 N=1                                            
+  94   94 3 TO AGREE TO S. RES. 85, PROVIDING FOR INTEREST RATES OF           
+  94   94 4 GOVERNMENT BONDS AND FAVORING THE REFUNDING OF GOVERNMENT         
+  94   94 5 BONDS AT A LOWER RATE OF INTEREST.                                
+  95   95 1 CR-77-6-5861  J 73-1-291     HR5755    JUNE 13, 1933              
+  95   95 2 S731095       Y=46 N=39                                           
+  95   95 3 TO AGREE TO REPORT OF COMMITTEE OF CONFERENCE ON DISAGREEING      
+  95   95 4 VOTES BETWEEN THE TWO HOUSES ON THE SENATE AMENDMENTS TO          
+  95   95 5 H.R. 5755.                                                        
+  96   96 1 CR-77-6-5891  J 73-1-294     HR5389    JUNE 13, 1933              
+  96   96 2 S731096       Y=48 N=31                BLACK, ALA.                
+  96   96 3 TO RECOMMIT H.R. 5389 TO THE COMMITTEE OF CONFERENCE.             
+  97   97 1 CR-77-6-6014  J 73-1-298     HR5389    JUNE 14, 1933              
+  97   97 2 S731097       Y=51 N=39                STEIWER, ORE.              
+  97   97 3 TO AMEND H.R. 5389, BY AMENDING SEC 20, AUTHORIZING               
+  97   97 4 PRESIDENT TO ESTABLISH REVIEW BOARDS DEALING WITH VETERANS        
+  97   97 5 PENSIONS.                                                         
+  98   98 1 CR-77-6-6130  J 73-1-303     HR5389    JUNE 15, 1933              
+  98   98 2 S731098       Y=45 N=36                                           
+  98   98 3 TO AGREE TO REPORT OF THE COMMITTEE ON CONFERENCE, ON             
+  98   98 4 DISAGREEING VOTES BETWEEN THE TWO HOUSES ON H.R. 5389.            
+  99   99 1 CR-78-1-335   J 73-2-31      HR6131    JAN. 10, 1934              
+  99   99 2 S732001       Y=40 N=39                CLARK, MO.                 
+  99   99 3 TO AMEND H.R. 6131, A BILL PROVIDING FOR TAXATION OF              
+  99   99 4 INTOXICATING LIQUORS, BY PUTTING $3 PER GAL. DUTY ON WINE         
+  99   99 5 AND $5 PER GAL. DUTY ON SPIRITS IMPORTED FROM COUNTRIES IN        
+  99   99 6 DEFAULT ON THEIR W.W.I. DEBTS.                                    
+ 100  100 1 CR-78-1-417A  J 73-2-34      HR6131    JAN. 11, 1934              
+ 100  100 2 S732002       Y=28 N=45                CLARK                      
+ 100  100 3 TO TABLE HARRISON'S MOTION TO RECONSIDER VOTE ON PASSAGE OF       
+ 100  100 4 H.R. 6131.                                                        
+ 101  101 1 CR-78-1-417B  J 73-2-35A     HR6131    JAN. 11, 1934              
+ 101  101 2 S732003       Y=43 N=30                HARRISON, MISS.            
+ 101  101 3 TO RECONSIDER VOTE ON PASSAGE OF H.R. 6131.                       
+ 102  102 1 CR-78-1-418A  J 73-2-35B     HR6131    JAN. 11, 1934              
+ 102  102 2 S732004       Y=44 N=31                MURPHY, IOWA               
+ 102  102 3 TO RECONSIDER VOTE AGREEING TO CLARK'S AMENDMENT                  
+ 102  102 4 TO H.R. 6131.                                                     
+ 103  103 1 CR-78-1-418B  J 73-2-35C     HR6131    JAN. 11, 1934              
+ 103  103 2 S732005       Y=30 N=44                                           
+ 103  103 3 TO AGREE TO CLARKS AMENDMENT TO H.R. 6131.                        
+ 104  104 1 CR-78-2-1405  J 73-2-64      HR6976    JAN. 26, 1934              
+ 104  104 2 S732006       Y=36 N=54                                           
+ 104  104 3 TO AMEND H.R. 6976, A BILL PROVIDING FOR GOLD RESERVE ACT         
+ 104  104 4 OF 1934, BY CREATING FIVE MEMBERS FOREIGN EXCHANGE BOARD,         
+ 104  104 5 TWO MEMBERS TO BE APPOINTED BY THE PRESIDENT, THESE 2 TO          
+ 104  104 6 HAVE A $10,000 YEAR SALARY.                                       
+ 105  105 1 CR-78-2-1412  J 73-2-65      HR6976    JAN. 26, 1934              
+ 105  105 2 S732007       Y=32 N=50                                           
+ 105  105 3 TO AMEND H.R. 6976, BY INSERTING "SOLE" SO THAT SEC. OF           
+ 105  105 4 TREASURY PURCHASES BONDS FOR THE SOLE PURPOSE OF STABILIZING      
+ 105  105 5 THE EXCHANGE VALUE OF THE DOLLAR.                                 
+ 106  106 1 CR-78-2-1464  J 73-2-67A     HR6976    JAN. 27, 1934              
+ 106  106 2 S732008       Y=43 N=45                WHEELER, MONT.             
+ 106  106 3 TO AMEND H.R. 6976, BY ADDING 750 MILLION OUNCES OF SILVER        
+ 106  106 4 TO TREASURY.                                                      
+ 107  107 1 CR-78-2-1484  J 73-2-67B     HR6976    JAN. 27, 1934              
+ 107  107 2 S732009       Y=66 N=23                                           
+ 107  107 3 TO PASS H.R. 6976.                                                
+ 108  108 1 CR-78-2-2195  J 73-1-94A     HR7527    FEB. 8, 1934               
+ 108  108 2 S732010       Y=10 N=58                CUTTING, N.M.              
+ 108  108 3 TO AMEND H.R. 7527, A BILL PROVIDING FOR CONTINUATION OF          
+ 108  108 4 CIVIL WORKS PROGRAM, BY CHANGING $950 MILLION TO $2 1/2           
+ 108  108 5 BILLION, TOTAL AMOUNT OF APPROPRIATIONS.                          
+ 109  109 1 CR-78-2-2197  J 73-2-94B     HR7527    FEB. 8, 1934               
+ 109  109 2 S732011       Y=14 N=52                LAFOLLETTE, WISC.          
+ 109  109 3 TO AMEND H.R. 7527, BY CHANGING $950 MILLION TO $1 1/2            
+ 109  109 4 BILLION TOTAL APPROPRIATION.                                      
+ 110  110 1 CR-78-2-2198  J 73-2-95      HR7527    FEB. 8, 1934               
+ 110  110 2 S732012       Y=42 N=19                MCCARRAN, NEV.             
+ 110  110 3 TO AMEND H.R. 7527, BY APPOINTING ANY STATE DIRECTOR WHOSE        
+ 110  110 4 DUTIES INCLUDE DISBURSEMENT OF FUNDS UNDER THE FEDERAL            
+ 110  110 5 EMERGENCY RELIEF ADMENDMENT OR THE FEDERAL CIVIL WORKS            
+ 110  110 6 ADMINISTRATION.                                                   
+ 111  111 1 CR-78-3-2423  J 73-2-113     HR7527    FEB. 12, 1934              
+ 111  111 2 S732013       Y=32 N=28                                           
+ 111  111 3 TO AGREE TO COMMITTEE OF CONFERENCE REPORT ON H.R. 7527.          
+ 112  112 1 CR-77-3-2492  J 73-2-117     HR7527    FEB. 14, 1934              
+ 112  112 2 S732014       Y=64 N=19                MCKELLAR, TENN.            
+ 112  112 3 TO RECEDE FROM AMENDMENT #4, WHICH GIVES PRESIDENT POWERS TO      
+ 112  112 4 DISBURSE FUNDS OF THE BILL, H.R. 7527.                            
+ 113  113 1 CR-7M-3-2494  J 73-2-118A    HR7527    FEB. 14, 1934              
+ 113  113 2 S732015       Y=41 N=42                BORAH, IDA.                
+ 113  113 3 TO RECONSIDER VOTE AGREEING TO COMMITTEE OF CONFERENCE            
+ 113  113 4 REPORT ON H.R. 7527.                                              
+ 114  114 1 CR-78-3-2495A J 73-2-118B    SRE184    FEB. 14, 1934              
+ 114  114 2 S732016       Y=22 N=62                WHITE, ME.                 
+ 114  114 3 TO AMEND S. RES. 184, RELATING TO CONTEMPT PROCEEDINGS            
+ 114  114 4 AGAINST W. MAC CRACKEN AND OTHERS, BY DIRECTING PRESIDENT         
+ 114  114 5 TO CERTIFY REPORTS AND PROCEEDINGS OF INVESTIGATION.              
+ 115  115 1 CR-78-3-2495B J 73-2-118C    SRE184    FEB. 14, 1934              
+ 115  115 2 S732017       Y=64 N=20                BLACK, ALA.                
+ 115  115 3 TO AGREE TO S. RES. 184 PLACING MAC CRACKEN IN CONTEMPT           
+ 115  115 4 OF THE SENATE.                                                    
+ 116  116 1 CR-78-3-2495C J 73-2-119A    SRE185    FEB. 14, 1934              
+ 116  116 2 S732018       Y=56 N=26                                           
+ 116  116 3 TO AGREE TO S. RES. 185, TAKING W. P. MAC CRACKEN INTO            
+ 116  116 4 CUSTODY, AND JAILING HIM FOR TEN DAYS.                            
+ 117  117 1 CR-78-3-2495D J 73-2-119B    SRE186    FEB. 14, 1934              
+ 117  117 2 S732019       Y=65 N=18                                           
+ 117  117 3 TO AGREE TO S. RES. 186, PLACING L.H. BRITTEN IN COMTEMPT OF      
+ 117  117 4 THE SENATE FOR DESTROYING SOME OF MAC CRACKEN'S PAPERS WHICH      
+ 117  117 5 HAD BEEN REQUIRED BY SUBPOENA.                                    
+ 118  118 1 CR-78-3-2496A J 73-2-119C    SRE187    FEB. 14, 1934              
+ 118  118 2 S732020       Y=60 N=21                                           
+ 118  118 3 TO AGREE TO S. RES. 187, TAKING BRITTEN INTO CUSTODY, IN          
+ 118  118 4 JAIL FOR 10 DAYS.                                                 
+ 119  119 1 CR-78-3-2496B J 73-2-120A    SRE188    FEB. 14, 1934              
+ 119  119 2 S732021       Y=35 N=45                                           
+ 119  119 3 TO AGREE TO S. RES. 188, PLACING HARRIS HANSHIRE IN CONTEMPT      
+ 119  119 4 OF SENATE FOR DESTRUCTION OF SOME OF MAC CRACKEN'S PAPERS.        
+ 120  120 1 CR-78-3-2496C J 73-2-120B    SRE189    FEB. 14, 1934              
+ 120  120 2 S732022       Y=62 N=18                                           
+ 120  120 3 TO AGREE TO S. RES. 189, A RESOLUTION JUDGING GILBERT GIVEN       
+ 120  120 4 NOT GUILTY OF CONTEMPT OF THE SENATE FOR DESTROYING PAPERS        
+ 120  120 5 SUBPEONED BY THE SENATE.                                          
+ 121  121 1 CR-78-3-2766  J 73-2-131     HR7295    FEB. 19, 1934              
+ 121  121 2 S732023       Y=34 N=29                                           
+ 121  121 3 TO AGREE TO COMMITTEE AMENDMENT TO H.R. 7295, A BILL MAKING       
+ 121  121 4 APPROPRIATIONS FOR THE TREASURY AND POST OFFICE DEPARTMENTS       
+ 121  121 5 FOR THE FISCAL YEAR ENDING JUNE 30, 1935, WHICH AMENDMENT         
+ 121  121 6 STRIKES OUT THE WORDS "EQUIPMENT SHOPS, WASHINGTON D.C."          
+ 122  122 1 CR-78-3-2845  J 73-2-136     SRE175    FEB. 20, 1934              
+ 122  122 2 S732024       Y=41 N=33                ROBINSON, ARK.             
+ 122  122 3 TO REFER TO COMMITTEE ON FINANCE, S. RES. 175, PROVIDING          
+ 122  122 4 THAT THE NATIONAL RECOVERY ADMINISTRATION IS REQUESTED TO         
+ 122  122 5 TRANSMIT CERTAIN INFORMATION TO THE SENATE, AT THE EARLIEST       
+ 122  122 6 PRACTICAL DATE.                                                   
+ 123  123 1 CR-78-3-2971  J 73-2-142     HR6663    FEB. 21, 1934              
+ 123  123 2 S732025       Y=41 N=40                MCCARRAN, NEV.             
+ 123  123 3 TO AMEND H.R. 6663, A BILL APPROPRIATING FOR INDEPENDENT          
+ 123  123 4 OFFICES, BY RESTORING FULL PAY TO GOVERNMENT EMPLOYEES.           
+ 124  124 1 CR-78-3-2973  J 73-2-143     HR6663    FEB. 21, 1934              
+ 124  124 2 S732026       Y=38 N=40                DICKINSON, IOWA.           
+ 124  124 3 TO AMEND H.R. 6663, BY PROVIDING THAT THE BILL DOES AWAY,         
+ 124  124 4 WITH RESTRICTIVE PROVISIONS AND PERMITS AUTOMATIC                 
+ 124  124 5 PROMOTION OF CIVILIAN AND MILITARY EMPLOYEES, INCLUDING           
+ 124  124 6 SALARY PROMOTIONS.                                                
+ 125  125 1 CR-78-3-3066  J 73-2-146     HR6663    FEB. 22, 1934              
+ 125  125 2 S732027       Y=14 N=60                HATFIELD, W. VA.           
+ 125  125 3 TO AMEND H.R. 6663, BY ADDING TITLE III, VETERANS' PROVIS-        
+ 125  125 4 -IONS.                                                            
+ 126  126 1 CR-78-3-3214  J 73-2-152     HR6663    FEB. 26, 1934              
+ 126  126 2 S732028       Y=51 N=40                STEIWER, ORE.              
+ 126  126 3 TO AMEND H.R. 6663, BY PROVIDING THAT NO REDUCTION OF             
+ 126  126 4 VETERAN'S COMPENSATION SHALL BE MORE THAN 25% OR 10% IN THE       
+ 126  126 5 CASE OF SPANISH-AMERICAN WAR VETS.                                
+ 127  127 1 CR-73-3-3304  J 73-2-155A    HR6663    FEB. 27, 1934              
+ 127  127 2 S732029       Y=24 N=64                LONG, LA.                  
+ 127  127 3 TO AMEND H.R. 6663, BY ADDING SECTION AUTHORIZING AND             
+ 127  127 4 REGULATING PAYMENT OF VETERAN'S CERTIFICATES BEFORE               
+ 127  127 5 MATURITY.                                                         
+ 128  128 1 CR-78-3-3308A J 73-2-155B    HR6663    FEB. 27, 1934              
+ 128  128 2 S732030       Y=45 N=39                BORAH, IDA.                
+ 128  128 3 TO AMEND H.R. 6663, BY PROVIDING THAT NO PART OF THE              
+ 128  128 4 APPROPRIATION BE USED IN PAYMENT IN EXCESS OF 85% OF ANY          
+ 128  128 5 SALARY GREATER THAN $6,000 PER YEAR, EXCEPT JUDICIAL              
+ 128  128 6 OFFICERS.                                                         
+ 129  129 1 CR-78-3-3308B J 73-2-157     HR6663    FEB. 27, 1934              
+ 129  129 2 S732031       Y=69 N=15                                           
+ 129  129 3 TO AMEND H.R. 6663, BY PLACING RECURRENT QUESTION ON              
+ 129  129 4 BYRNES' AMENDMENT OF COL. 102.                                    
+ 130  130 1 CR-78-3-3381  J 73-2-160     SRE181    FEB. 28, 1934              
+ 130  130 2 S732032       Y=51 N=25                ROBINSON, ARK.             
+ 130  130 3 TO REFER S. RES. 181, TO THE COMMITTEE ON FOREIGN RELATIONS,      
+ 130  130 4 PROVIDING THAT THE PRESIDENT IS HEREBY REQUESTED IF NOT           
+ 130  130 5 INCOMPATIBLE WITH THE PUBLIC INTEREST TO FURNISH THE              
+ 130  130 6 SENATE WITH CERTAIN INFORMATION.                                  
+ 131  131 1 CR-78-4-3813  J 73-2-173     HR6604    MAR. 6, 1934               
+ 131  131 2 S732033       Y=65 N=18                                           
+ 131  131 3 TO PASS H.R. 6604, A BILL TO PROVIDE FOR CONSTRUCTION OF          
+ 131  131 4 NAVAL VESSELS AND TO ESTABLISH COMPOSITION OF THE NAVY            
+ 131  131 5 ACCORDING TO THE WASHINGTON AND LONDON TREATIES.                  
+ 132  132 1 CR-78-4-4146  J 73-2-185A    HR7478    MAR. 10, 1934              
+ 132  132 2 S732034       Y=41 N=38                LAFOLLETTE, WISC.          
+ 132  132 3 TO AMEND H.R. 7478 A BILL PROVIDING TO TREAT CATTLE AS A          
+ 132  132 4 BASIC AGRICULTURE COMMODITY, BY APPROPRIATING $150 MILLION        
+ 132  132 5 FOR ELIMINATING DISEASED CATTLE AND PAYING OWNERS OF SAME,        
+ 132  132 6 AND FOR PURCHASE OF DAIRY COWS AND TRANSFER OF THEM TO FARMS      
+ 132  132 7 WHICH DO NOT HAVE DAIRY STOCK, FOR FAMILY AND NON-COMMERCIAL      
+ 132  132 8 USE.                                                              
+ 133  133 1 CR-78-4-4151  J 73-1-185B    HR7478    MAR. 10, 1934              
+ 133  133 2 S732035       Y=39 N=37                                           
+ 133  133 3 TO PASS H.R. 7478, A BILL PROVIDING TO TREAT CATTLE AS A          
+ 133  133 4 BASIC AGRICULTURE COMMODITY.                                      
+ 134  134 1 CR-78-4-4475  EX J 75-333    SRE       MAR. 14, 1934              
+ 134  134 2 S732036       Y=46 N=42                                           
+ 134  134 3 TO AGREE TO THE RESOLUTION OF RATIFICATION (WITH THE              
+ 134  134 4 RESERVATION) PROVIDING THAT THE SENATE ADVISE AND CONSENT TO      
+ 134  134 5 THE RATIFICATION OF THE GREAT LAKES ST. LAWRENCE DEEP             
+ 134  134 6 WATERWAY TREATY BETWEEN THE U.S. AND CANADA, SIGNED AT            
+ 134  134 7 WASHINGTON JULY 18, 1932.                                         
+ 135  135 1 CR-78-4-4482  J 73-2-192     HR7966    MAR. 14, 1934              
+ 135  135 2 S732037       Y=61 N=29                ROBINSON, ARK.             
+ 135  135 3 TO TABLE CAREY'S MOTION WHICH WOULD REFER H.R. 7966, A BILL       
+ 135  135 4 TO AUTHORIZE USE OF EQUIPMENT, MEN AND FIELDS OF THE WAR          
+ 135  135 5 DEPT. TO CARRY AIR MAIL, TO THE COMMITTEE ON MILITARY             
+ 135  135 6 AFFAIRS.                                                          
+ 136  136 1 CR-78-4-4506  J 73-2-193     HR7966    MAR. 14, 1934              
+ 136  136 2 S732038       Y=51 N=22                                           
+ 136  136 3 TO PASS H.R. 7966, A BILL TO AUTHORIZE USE OF EQUIPMENT, MEN      
+ 136  136 4 AND FIELDS OF THE WAR DEPT. TO CARRY AIR MAIL.                    
+ 137  137 1 CR-78-5-4812  J 73-2-202A    S2999     MAR. 19, 1934              
+ 137  137 2 S732039       Y=40 N=33                NORRIS, NEB.               
+ 137  137 3 TO AMEND S. 2999, A BILL PROVIDING FOR HOME OWNERS' LOAN          
+ 137  137 4 CORP. BONDS, BY PROVIDING THAT ALL AGENTS AND EMPLOYEES OF        
+ 137  137 5 THE CORP BE EMPLOYED AND PROMOTED ON THE BASIS OF MERIT,          
+ 137  137 6 WITH NO CONSIDERATION OF PARTISAN POLITICS.                       
+ 138  138 1 CR-78-5-4825  J 73-2-202B    S2999     MAR. 19,1934               
+ 138  138 2 S732040       Y=34 N=35                NEELY, W.VA.               
+ 138  138 3 TO RECONSIDER VOTE AGREEING TO NORRIS AMENDMENT TO                
+ 138  138 4 S. 2999, A BILL PROVIDING FOR HOME OWNERS LOAN CORPORATION        
+ 138  138 5 BONDS.                                                            
+ 139  139 1 CR-78-5-5117  J 73-2-215     HR8573    MAR. 22, 1934              
+ 139  139 2 S732041       Y=21 N=49                DICKINSON, IOWA.           
+ 139  139 3 TO AMEND H.R. 8573, A BILL PROVIDING FOR INDEPENDENCE OF THE      
+ 139  139 4 PHILIPPINES, BY SHORTENING THE TIME IN WHICH INDEPENDENCE         
+ 139  139 5 IS TO BE GRANTED BY FIVE YEARS.                                   
+ 140  140 1 CR-78-5-5162  J 73-2-217     HR8573    MAR. 22, 1934              
+ 140  140 2 S732042       Y=24 N=49                VANDENBERG, MICH           
+ 140  140 3 TO AMEND H.R. 8573, BY ACCEPTING VANDENBERG'S AMENDMENT AS A      
+ 140  140 4 SUBSTITUTE.                                                       
+ 141  141 1 CR-78-5-5163  J 73-2-218     HR8573    MAR. 22, 1934              
+ 141  141 2 S732043       Y=28 N=44                KING, UTAH.                
+ 141  141 3 TO AMEND H.R. 8573, IN THE NATURE OF SUBSTITUTE, BY               
+ 141  141 4 SHORTENING TIMES OF CONSTITUTION FRAMING AND AFTER WHICH,         
+ 141  141 5 INDEPENDENCE IS TO BE GRANTED TO THE PHILIPPINES.                 
+ 142  142 1 CR-78-5-5164  J 73-2-219     HR8573    MAR. 22, 1934              
+ 142  142 2 S732044       Y=68 N=8                                            
+ 142  142 3 TO PASS H.R. 8573.                                                
+ 143  143 1 CR-78-5-5390  J 73-2-227     HR6663    MAR. 26, 1934              
+ 143  143 2 S732045       Y=59 N=19                MCCARRAN, NEV.             
+ 143  143 3 TO AMEND H.R. 6663, BY RESTORING 2/3 OF THE SALARY CUTS OF        
+ 143  143 4 FEDERAL EMPLOYEES' WAGES MADE BY THE ECONOMY ACT.                 
+ 143  143 5 (AGREEING TO HOUSE AMENDMENTS.)                                   
+ 144  144 1 CR-78-5-5400  J 73-2-229     HR6663    MAR. 26, 1934              
+ 144  144 2 S732046       Y=48 N=39                                           
+ 144  144 3 TO AMEND A HOUSE AMENDMENT TO H.R. 6663, RELATING TO              
+ 144  144 4 VETERAN'S COMPENSATION.                                           
+ 145  145 1 CR-78-5-5511  J 73-2-234A    HR8402    MAR. 27, 1934              
+ 145  145 2 S732047       Y=36 N=42                CLARK, MO.                 
+ 145  145 3 TO AMEND H.R. 8402, A BILL PROVIDING FOR REGULATION OF            
+ 145  145 4 COTTON INDUSTRY, BY PROVIDING THAT ACT DOES NOT APPLY TO          
+ 145  145 5 FARMS WITH LESS THAN 40 ACRES OF COTTON.                          
+ 146  146 1 CR-78-5-5512  J 73-2-234B    PROC      MAR. 27, 1934              
+ 146  146 2 S732048       Y=48 N=34                ROBINSON, ARK.             
+ 146  146 3 TO ADJOURN.                                                       
+ 147  147 1 CR-78-5-5606  J 73-2-245     HR6663    MAR. 28, 1934              
+ 147  147 2 S732049       Y=63 N=27                                           
+ 147  147 3 TO PASS H.R. 6663, OVER THE PRESIDENT'S VETO.                     
+ 148  148 1 CR-78-6-5712  J 73-2-249     HR8402    MAR. 29, 1934              
+ 148  148 2 S732050       Y=46 N=39                                           
+ 148  148 3 TO PASS H.R. 8402, A BILL PROVIDING FOR REGULATION OF             
+ 148  148 4 COTTON INDUSTRY.                                                  
+ 149  149 1 CR-78-6-5958  J 73-2-259     HR7835    APR. 4, 1934               
+ 149  149 2 S732051       Y=24 N=55                HEBERT, R. I.              
+ 149  149 3 TO AMEND H.R. 7835, A BILL PROVIDING FOR REVENUE ACT OF 1934      
+ 149  149 4 BY INCLUDING MONEY RECEIVED UNDER INSURANCE ANNUITY, OR           
+ 149  149 5 ENDOWMENT WITH EXCEED AGGREGATED PREMUMS PAID, IN GROSS           
+ 149  149 6 INCOME.                                                           
+ 150  150 1 CR-78-6-6091  J 73-2-265     HR7835    APR. 5, 1934               
+ 150  150 2 S732052       Y=36 N=47                LAFOLLETTE, WISC.          
+ 150  150 3 TO AMEND H.R. 7835, BY PROVIDING FOR MODERATE RAISE OF            
+ 150  150 4 INDIVIDUAL INCOME TAX IN THE HIGHER BRACKETS.                     
+ 151  151 1 CR-78-6-6176  J 73-2-270A    HR7835    APR. 6, 1934               
+ 151  151 2 S732053       Y=36 N=42                MURPHY, IOWA.              
+ 151  151 3 TO AMEND H.R. 7835, BY REDEFINING CAPITAL GAINS AND LOSSES,       
+ 151  151 4 AND TAXATION OF SAME.                                             
+ 152  152 1 CR-78-6-6177  J 73-2-270B    HR7835    APR. 6, 1934               
+ 152  152 2 S732054       Y=43 N=32                                           
+ 152  152 3 TO AMEND H.R. 7835, BY INSERTING THE FOLLOWING; IF CAPITAL        
+ 152  152 4 ASSET HAS BEEN HELD FOR MORE THAN 10 YEARS, (TAX) IS 30%.         
+ 153  153 1 CR-78-6-6306  J 73-2-277     HR7835    APR. 10, 1934              
+ 153  153 2 S732055       Y=44 N=46                COUZENS, MICH.             
+ 153  153 3 TO AMEND H.R. 7835, BY INSERTING SECTION DEFINING CONDITIONS      
+ 153  153 4 FOR 10% TAX INCREASE.                                             
+ 154  154 1 CR-78-6-6392  J 73-2-281A    HR7835    APR. 11, 1934              
+ 154  154 2 S732056       Y=15 N=59                HARRISON, MISS.            
+ 154  154 3 TO AMEND H.R. 7835, BY PROVIDING 3 CENTS PER POUND DUTY ON        
+ 154  154 4 VEGETABLE OILS FROM THE PHILIPPINES.                              
+ 155  155 1 CR-78-6-6395  J 73-2-281B    HR7835    APR. 11, 1934              
+ 155  155 2 S732057       Y=59 N=17                                           
+ 155  155 3 TO AMEND H.R. 7835, BY PUTTING 5 CENTS PER POUND DUTY ON          
+ 155  155 4 VEGETABLE OIL.                                                    
+ 156  156 1 CR-78-6-6400  J 73-2-282A    HR7835    APR. 11, 1934              
+ 156  156 2 S732058       Y=7 N=64                 CLARK, MO.                 
+ 156  156 3 TO AMEND H.R. 7835, BY MAKING PROVISIONS FOR TAXES ON             
+ 156  156 4 VEGETABLE OIL AND REGULATING CONTRACTS FOR SALE OF SAME.          
+ 157  157 1 CR-78-6-6401  J 73-2-282B    HR7835    APR. 11, 1934              
+ 157  157 2 S732059       Y=40 N=35                COUZEN, MICH.              
+ 157  157 3 TO RECONSIDER THE AMENDMENT OF HIS DEFEATED YESTERDAY,            
+ 157  157 4 PROVIDING 10% TAX INCREASES.                                      
+ 158  158 1 CR-78-6-6402  J 73-2-282C    HR7835    APR. 11, 1934              
+ 158  158 2 S732060       Y=43 N=36                                           
+ 158  158 3 TO AMEND H.R. 7835, BY PLACING RECURRENT QUESTION ON              
+ 158  158 4 COUZEN'S AMENDMENT WHICH PROVIDES 10% INDIVIDUAL INCOME TAX       
+ 158  158 5 INCREASE.                                                         
+ 159  159 1 CR-78-6-6408  J 73-2-283     HR7835    APR. 11, 1934              
+ 159  159 2 S732061       Y=29 N=46                CAPPER, KAN.               
+ 159  159 3 TO AMEND THE COMMITTEE AMENDMENT TO H.R. 7835, BY STRIKING        
+ 159  159 4 OUT SEC. 603, WHICH PROVIDES A FEDERAL EMERGENCY TAX OF 1         
+ 159  159 5 PER GALLON OF GASOLINE.                                           
+ 160  160 1 CR-78-6-6461  J 73-2-287     HR7835    APR. 12, 1934              
+ 160  160 2 S732062       Y=65 N=14                LAFOLLETTE, WISC.          
+ 160  160 3 TO AMEND H.R. 7835, BY INCREASING RATES ON ESTATE TAX.            
+ 161  161 1 CR-78-6-6466  J 73-2-288A    HR7835    APR. 12, 1934              
+ 161  161 2 S732063       Y=40 N=37                BORAH, IDA.                
+ 161  161 3 TO AMEND H.R. 7835, BY STRIKING OUT SECTION 141 DEALING WITH      
+ 161  161 4 CONSOLIDATED RETURNS OF CORPORATIONS.                             
+ 162  162 1 CR-78-6-6471  J 73-2-288B    HR7835    APR. 12, 1934              
+ 162  162 2 S732064       Y=33 N=39                BORAH, IDA.                
+ 162  162 3 TO AMEND H.R. 7835, BY STRIKING OUT SECTION DEALING WITH          
+ 162  162 4 DIVIDENDS RECEVED BY CORPORATIONS.                                
+ 163  163 1 CR-78-6-6554  J 73-2-294A    HR7835    APR. 13, 1934              
+ 163  163 2 S732065       Y=41 N=34                LAFOLLETTE, WISC.          
+ 163  163 3 TO AMEND H.R. 7835, BY MAKING TAX RETURNS PUBLIC RECORDS          
+ 163  163 4 OPEN TO INSPECTION.                                               
+ 164  164 1 CR-78-6-6560  J 73-2-294B    HR7835    APR. 13, 1934              
+ 164  164 2 S732066       Y=19 N=58                HASTINGS, DEL.             
+ 164  164 3 TO RECONSIDER VOTE AGREEING TO BORAH'S AMENDMENT TO               
+ 164  164 4 H.R. 7835, WHICH AMENDMENT RELATES TO CONSOLIDATES RETURNS        
+ 164  164 5 OF CORPORATIONS.                                                  
+ 165  165 1 CR-78-6-6572  J 73-2-295A    HR7835    APR. 13, 1934              
+ 165  165 2 S732067       Y=38 N=27                MCKELLAR, TENN.            
+ 165  165 3 TO AMEND THE AMENDMENT TO H.R. 7835; WHICH ORIGINAL               
+ 165  165 4 AMENDMENT INCLUDES INTEREST ON FEDERAL, STATE, AND LOCAL          
+ 165  165 5 GOVERNMENT BONDS IN GROSS, TAXABLE INCOME; WHICH AMENDMENT        
+ 165  165 6 TO THE AMENDMENT EXCLUCES STATE AND LOCAL BOND INTEREST.          
+ 166  166 1 CR-78-6-6574  J 73-2-295B    HR7835    APR. 13, 1934              
+ 166  166 2 S732068       Y=53 N=7                                            
+ 166  166 3 TO PASS H.R. 7835.                                                
+ 167  167 1 CR-78-6-6620  J 73-2-297     HR8102    APR. 14, 1934              
+ 167  167 2 S732069       Y=39 N=28                                           
+ 167  167 3 TO AGREE TO REPORT OF CONFERENCE COMMITTEE ON DISAGREEING         
+ 167  167 4 VOTES ON AMENDMENTS TO H.R. 8102, A BILL PROVIDING                
+ 167  167 5 REGULATION OF COTTON INDUSTRY.                                    
+ 168  168 1 CR-78-6-6717  J 73-2-302     S2018     APR. 17, 1934              
+ 168  168 2 S732070       Y=31 N=31                BORAH, IDA.                
+ 168  168 3 TO PROCEED TO THE CONSIDERATION OF S. 2018, A BILL RELATIVE       
+ 168  168 4 TO MEMBERS OF CONGRESS ACTING AS ATTORNEYS IN MATTERS WHERE       
+ 168  168 5 THE U.S. HAS AN INTEREST.  (THE VICE-PRESIDENT VOTED "YES").      
+ 169  169 1 CR-78-6-6723  J 73-2-303     HR1       APR. 17, 1934              
+ 169  169 2 S732071       Y=48 N=25                MCKELLAR, TENN.            
+ 169  169 3 TO RAISE A POINT OF ORDER STATING THAT LONG'S MOTION TO           
+ 169  169 4 DISCHARGE COMMITTEE ON FINANCE FROM FURTHER CONSIDERATION         
+ 169  169 5 OF H.R. 1 IS NOT IN ORDER.                                        
+ 170  170 1 CR-78-7-6924  J 73-2-311A    HR8861    APR. 19, 1934              
+ 170  170 2 S732072       Y=20 N=50                REED, PA.                  
+ 170  170 3 TO AMEND H.R. 8861, A BILL PROVIDING REGULATION OF SUGAR          
+ 170  170 4 PRODUCTION, BY FORBIDDING HANDLERS AND PROCESSORS OF SUGAR        
+ 170  170 5 TO EXCEED QUOTAS OF SUGAR FROM HAWAII OR PUERTO RICO.             
+ 171  171 1 CR-78-7-6926  J 73-2-311B    HR8861    APR. 19, 1934              
+ 171  171 2 S732073       Y=19 N=48                COPELAND, N. Y.            
+ 171  171 3 TO AMEND H.R. 8861, BY PROVIDING THAT QUOTA FOR PUERTO RICO       
+ 171  171 4 SHALL NOT BE LESS THAN 875,000 TONS PER YEAR.                     
+ 172  172 1 CR-78-7-6937  J 73-2-311C    HR8861    APR. 19, 1934              
+ 172  172 2 S732074       Y=49 N=18                                           
+ 172  172 3 TO PASS H.R. 8861.                                                
+ 173  173 1 CR-78-7-7319  J 73-2-328     S2999     APR. 25, 1934              
+ 173  173 2 S732075       Y=40 N=30                                           
+ 173  173 3 TO AGREE TO CONFERENCE COMMITTEE REPORT ON S. 2999, A BILL        
+ 173  173 4 PROVIDING FOR HOME OWNERS LOAN CORP. BONDS.                       
+ 174  174 1 CR-78-7-7612  J 73-2-338     S3170     APR. 28, 1934              
+ 174  174 2 S732076       Y=19 N=56                AUSTIN, VT.                
+ 174  174 3 TO AMEND S. 3170, A BILL PROVIDING FOR REVISION OF AIR-MAIL       
+ 174  174 4 LAWS, BY AUTHORIZING PRESIDENT TO APPOINT COMMISSION TO           
+ 174  174 5 STUDY AIR-MAIL AND AERONAUTICS; AUTHORIZING POSTMASTER            
+ 174  174 6 GENERAL TO REINSTATE ANY AIR-MAIL CONTRACT; AND APPROPRIAT-       
+ 174  174 7 -ING NECESSARY FUNDS.                                             
+ 175  175 1 CR-78-7-7614  J 73-2-339     S3170     APR. 28, 1934              
+ 175  175 2 S732077       Y=19 N=56                AUSTIN, VT.                
+ 175  175 3 TO AMEND S. 3170, BY PUTTING AIR MAIL RATE AT 5 CENTS PER         
+ 175  175 4 OUNCE; AUTHORIZING 2 MILLS PER POUND PER MILE COMPENSATION        
+ 175  175 5 FOR AIR-MAIL CARRIERS, AUTHORIZING POSTMASTER GENERAL TO          
+ 175  175 6 ISSUE ROUTE CERTIFICATES AND WARRANTS, AND MAKE NEW ROUTES.       
+ 176  176 1 CR-78-7-7628A J 73-2-348     S3170     APR. 28, 1934              
+ 176  176 2 S732078       Y=26 N=46                MCCARRAN, NEV.             
+ 176  176 3 TO AMEND S. 3170, BY PROVIDING SUBSTITUTE WHICH PROVIDES FOR      
+ 176  176 4 CERTIFICATES OF CONVENIENCE AND NECESSITY, TO DETERMINE           
+ 176  176 5 CARRIERS.                                                         
+ 177  177 1 CR-78-7-7628B J 73-2-351     S3170     APR. 28, 1934              
+ 177  177 2 S732079       Y=54 N=20                                           
+ 177  177 3 TO AMEND S. 3170, BY OFFERING SHORTER SUBSTITUTE BILL.            
+ 178  178 1 CR-78-7-7746  J 73-2-356     HR5950    MAY, 1, 1934               
+ 178  178 2 S732080       Y=45 N=28                                           
+ 178  178 3 TO PASS H.R. 5950, A BILL TO ESTABLISH A UNIFORM SYSTEM OF        
+ 178  178 4 BANKRUPTCY IN THE U.S.                                            
+ 179  179 1 CR-78-8-8082  J 73-2-375     HR5884    MAY 4, 1934                
+ 179  179 2 S732081       Y=11 N=37                FRAZIER, N. D.             
+ 179  179 3 TO AMEND H.R. 5884, A BILL PROVIDING FOR CORPORATE REORGAN-       
+ 179  179 4 -IZATIONS, BY ADDING SECTION DEALING WITH BANKRUPCY PROCEED-      
+ 179  179 5 -INGS BY FARMERS.                                                 
+ 180  180 1 CR-78-8-8202  J 73-2-378     S3420     MAY 7, 1934                
+ 180  180 2 S732082       Y=45 N=30                FLETCHER, FLA.             
+ 180  180 3 TO AMEND S. 3420, A BILL PROVIDING FOR REGULATION OF              
+ 180  180 4 SECURITIES EXCHANGES, BY CHANGING TWO YEARS TO ONE YEAR AS        
+ 180  180 5 THE TIME IN WHICH NO ACTION TO ENFORCE ANY LIABILITY              
+ 180  180 6 CREATED UNDER THIS SECTION, IS TO BE TAKEN.                       
+ 181  181 1 CR-78-8-8298  J 73-2-383     S3420     MAY 8, 1934                
+ 181  181 2 S732083       Y=27 N=44                STEIWER, ORE.              
+ 181  181 3 TO AMEND S. 3420, BY PUTTING FINES OF $10,000 TO $100,000         
+ 181  181 4 FOR WILLFUL FRAUD AND 500 TO 10,000 FOR NON-WILLFUL FRAUD.        
+ 182  182 1 CR-78-8-8301  J 73-2-384     S3420     MAY 8, 1934                
+ 182  182 2 S732084       Y=17 N=50                STEIWER, ORE.              
+ 182  182 3 TO AMEND S. 3420, BY STRIKING OUT "ANY FURTHER FINANCIAL          
+ 182  182 4 STATEMENTS WHICH THE COMMISSION MAY DEEM NECESSARY FOR THE        
+ 182  182 5 PROTECTION OF INVESTORS.                                          
+ 183  183 1 CR-78-8-8396  J 73-2-386     S3420     MAY 8, 1934                
+ 183  183 2 S732085       Y=30 N=48                BULKLEY, OHIO.             
+ 183  183 3 TO AMEND S. 3420, BY PUTTING RESTRICTIONS ON LOANS BY             
+ 183  183 4 MEMBERS, BROKERS AND DEALERS.                                     
+ 184  184 1 CR-78-8-8503  J 73-2-393A    S3420     MAY 10, 1934               
+ 184  184 2 S732086       Y=29 N=51                COSTIGAN, COLO.            
+ 184  184 3 TO AMEND S. 3420, BY PROVIDING THAT FEDERAL TRADE COMMISSION      
+ 184  184 4 SHALL BE SEVEN MEMBERS APPOINTED BY THE PRESIDENT, NO MORE        
+ 184  184 5 THAN FOUR OF THE SAME POLITICAL PARTY.                            
+ 185  185 1 CR-78-8-8506  J 73-2-393B    S3420     MAY 10, 1934               
+ 185  185 2 S732087       Y=22 N=47                REYNOLDS, N. C.            
+ 185  185 3 TO AMEND S. 3420, BY PROVIDING THAT FEDERAL TRADE COMMITTEE       
+ 185  185 4 MAY REQUIRE THE ISSUER TO FILE WITH THE EXCHANGE ONLY SUCH        
+ 185  185 5 INFORMATION AS IS NECESSARY TO PROTECT THE PUBLIC AND THE         
+ 185  185 6 INVESTOR.                                                         
+ 186  186 1 CR-78-8-8587  J 73-2-399     S3420     MAY 11, 1934               
+ 186  186 2 S732088       Y=23 N=55                HASTINGS, DEL.             
+ 186  186 3 TO AMEND S. 3420.  THE AMENDMENT CONCERNS REGISTRATION OF         
+ 186  186 4 SECURITIES, AND INFORMATION NECESSARY TO BE FILED BY THE          
+ 186  186 5 ISSUER.                                                           
+ 187  187 1 CR-78-8-8708  J 73-2-407     S3420     MAY 12, 1934               
+ 187  187 2 S732089       Y=30 N=46                WALCOTT, CONN.             
+ 187  187 3 TO AMEND S. 3420, BY ADDING TITLE II, AMENDMENTS DEFINING         
+ 187  187 4 SECURITIES, PROSPECTIVES, UNDERWRITTER.                           
+ 188  188 1 CR-78-8-8714  J 73-2-408     S3420     MAY 12, 1934               
+ 188  188 2 S732090       Y=62 N=13                                           
+ 188  188 3 TO PASS S. 3420.                                                  
+ 189  189 1 CR-78-8-8739  J 73-2-411A    S3487     MAY 14, 1934               
+ 189  189 2 S732091       Y=37 N=37                JOHNSON, CALIF.            
+ 189  189 3 TO AMEND S. 3487, A BILL PROVIDING FOR A FEDERAL RESERVE          
+ 189  189 4 BANK LOANS FOR INDUSTRY, BY AUTHORIZING RECONSTRUCTION            
+ 189  189 5 FINANCE CORP. TO MAKE 20 YEAR LOANS FOR PRODUCTION OR             
+ 189  189 6 TRANSMISSION OF ELECTRICAL POWER BY PUBLIC COMPANIES.             
+ 190  190 1 CR-78-8-8751  J 73-2-411B    S3487     MAY 14, 1934               
+ 190  190 2 S732092       Y=34 N=36                VANDENBERG, MICH.          
+ 190  190 3 TO AMEND S. 3487, BY PROVIDING THAT THE RATE OF LOANS IS NOT      
+ 190  190 4 TO EXCEED 3 1/2% YR. AND 100% OF THE ESTIMATED LIQUIDATING        
+ 190  190 5 VALUE OF THE ASSETS TENDERED AS SECURITY SHALL BE THE             
+ 190  190 6 MAXIMUM LOAN.                                                     
+ 191  191 1 CR-78-8-8762A J 73-2-412A    S3487     MAY 14, 1934               
+ 191  191 2 S732093       Y=30 N=34                BARKLEY, KY.               
+ 191  191 3 TO TABLE ROBINSON'S MOTION TO RECONSIDER THE VOTE                 
+ 191  191 4 DISAGREEING TO JOHNSON'S AMENDMENT TO S. 3487, WHICH              
+ 191  191 5 AUTHORIZES RECONSTRUCTION FINANCE CORP., TO MAKE 20 YEAR          
+ 191  191 6 LOANS FOR PRODUCTION OR TRANSMISSION OF ELECTRICAL POWER BY       
+ 191  191 7 PUBLIC COMPANIES.                                                 
+ 192  192 1 CR-78-8-8762B J 73-2-412B    S3487     MAY 14, 1934               
+ 192  192 2 S732094       Y=30 N=32                JOHNSON, CALIF.            
+ 192  192 3 TO AMEND S. 3487, BY PLACING RECURRENT QUESTION ON JOHNSON'S      
+ 192  192 4 AMENDMENT WHICH AUTHORIZES RECONSTRUCTION FINANCE CORP. TO        
+ 192  192 5 MAKE 20 YEAR LOANS FOR PRODUCTION OR TRANSMISSION OF              
+ 192  192 6 ELECTRICAL POWER BY PUBLIC COMPANIES.                             
+ 193  193 1 CR-78-8-8763  J 73-2-412C    S3487     MAY 14, 1934               
+ 193  193 2 S732095       Y=21 N=38                CLARK, MO.                 
+ 193  193 3 TO RECONSIDER THE VOTE ADOPTING THE AMENDMENT TO S. 3487,         
+ 193  193 4 WHICH AMENDMENT PROVIDES THAT IT SHALL BE UNLAWFUL FOR ANY        
+ 193  193 5 FEDERAL, STATE, COUNTY OR MUNICIPAL OFFICIAL, ANY MEMBER          
+ 193  193 6 OF ANY NATIONAL, STATE, COUNTY, COMMITTEE OF ANY POLITICAL        
+ 193  193 7 PARTY, OR ANY OTHER, PERSON EXCEPT BONA FIDE AND REGULARLY        
+ 193  193 8 EMPLOYED OFFICER, AGENT, OR EMPLOYEE OF THE PERSON OR             
+ 193  193 9 CORPORATION SEEKING A LOAN UNDER THE PROVISIONS OF THIS           
+ 193  19310 SECTION, TO SEEK TO INFLUENCE IN ANY WAY, ANY AGENT, OFFICER      
+ 193  19311 OR EMPLOYEE OF THE RECONSTRUCTION ON FINANCE CORP. IN             
+ 193  19312 CONNECTION WITH A LOAN OR ANY APPLICATION THEREOF.                
+ 194  194 1 CR-78-8-8766  J 73-2-412D    S3487     MAY 14, 1934               
+ 194  194 2 S732096       Y=16 N=42                WALSH, MASS.               
+ 194  194 3 TO AMEND S. 3487, BY PROVIDING THAT RECONSTRUCTION FINANCE        
+ 194  194 4 CORP. IS AUTHORIZED TO LOAN DIRECTLY TO MUNICIPLITIES,            
+ 194  194 5 SUBJECT TO CERTAIN CONDITIONS.                                    
+ 195  195 1 CR-78-8-8846  J 73-2-418     S3285     MAY 15, 1934               
+ 195  195 2 S732097       Y=23 N=42                WAGNER, N. Y.              
+ 195  195 3 TO AMEND S. 3285, A BILL PROVIDING FOR REGULATION OF WIRE         
+ 195  195 4 AND RADIO COMMUNICATIONS, BY REALLOCATING FREQUENCIES,            
+ 195  195 5 VOIDING ALL RADIO BROADCASTING LICENCES, AND RESERVING 1/4        
+ 195  195 6 OF ALL FACILITIES TO EDUCATIONAL, RELIGIOUS, AGRICULTURAL         
+ 195  195 7 AND SIMILAR NON-PROFIT ASSOCIATION.                               
+ 196  196 1 CR-78-8-8956  J 73-2-422     S2800     MAY 15, 1934               
+ 196  196 2 S732098       Y=26 N=22                COPELAND, N. Y.            
+ 196  196 3 TO PROCEED TO CONSIDERATION OF S. 2800, A BILL PROVIDING FOR      
+ 196  196 4 FEDERAL FOOD AND DRUG ACT.                                        
+ 197  197 1 CR-78-9-9127  J 73-2-432     SJR29     MAY 21, 1934               
+ 197  197 2 S732099       Y=42 N=24                                           
+ 197  197 3 TO ADOPT S.J.RES. 29, AMENDING THE CONSTITUTION BY PROVIDING      
+ 197  197 4 FOR THE POPULAR ELECTION OF PRESIDENT AND VICE-PRESIDENT.         
+ 198  198 1 CR-78-9-9245  J 73-2-437     SJR29     MAY 22, 1934               
+ 198  198 2 S732100       Y=52 N=29                NORRIS, NEB.               
+ 198  198 3 TO PASS S.J.RES. 29, PROPOSING AN AMENDMENT TO THE                
+ 198  198 4 CONSTITUTION OF THE U.S. RELATING TO POPULAR ELECTION FOR         
+ 198  198 5 PRESIDENT AND VICE PRESIDENT.                                     
+ 199  199 1 CR-78-9-9957  J 73-2-475     HR8687    MAY 30, 1934               
+ 199  199 2 S732101       Y=29 N=46                VANDENBERG, MICH.          
+ 199  199 3 TO AMEND H.R. 8687, A BILL PROVIDING FOR RECIPROCAL TARIFF        
+ 199  199 4 AGREEMENTS, BY MAKING HEARINGS PUBLIC.                            
+ 200  200 1 CR78-10-10363AJ 73-2-49      HR8687    JUNE 4, 1934               
+ 200  200 2 S732102       Y=33 N=54                JOHNSON, CALIF.            
+ 200  200 3 TO AMEND H.R. 8687, BY PROVIDING THAT NO RECIPROCAL TRADE         
+ 200  200 4 AGREEMENT SHALL BE ENTERED INTO UNDER THIS ACT WITH RESPECT       
+ 200  200 5 TO ANY AGRICULTURAL OR HORTICULTURAL PRODUCT.                     
+ 201  201 1 CR78-10-10363BJ 73-2-49      HR8687    JUNE 4, 1934               
+ 201  201 2 S732103       Y=40 N=46                LONG, LA.                  
+ 201  201 3 TO AMEND H.R. 8687, BY PROVIDING THAT NO AGRICULTURAL OR          
+ 201  201 4 HORTICULTURAL TARIFFS TO BE LOWERED BELOW AMOUNT NECESSARY        
+ 201  201 5 TO EQUALIZE PRODUCTION COST.                                      
+ 202  202 1 CR78-10-10363CJ 73-2-49      HR8687    JUNE 4, 1934               
+ 202  202 2 S732104       Y=32 N=53                JOHNSON, CALIF.            
+ 202  202 3 TO AMEND H.R. 8687, BY PROVIDING THAT NO REDUCTIONS BE MADE       
+ 202  202 4 ON TARIFFS ON ANY AGRICULTURAL OR HORTICULTURAL PRODUCTS.         
+ 203  203 1 CR-78-10-10365J 73-2-492     HR8687    JUNE 4, 1934               
+ 203  203 2 S732105       Y=36 N=49                OVERTON, LA.               
+ 203  203 3 TO AMEND H.R. 8687, BY PROVIDING THAT NO REDUCTIONS BE MADE       
+ 203  203 4 ON TARIFFS ON WOOL AND ANY BASIC AGRICULTURAL COMMODITIES.        
+ 204  204 1 CR-78-10-10369J 73-2-493     HR8687    JUNE 4, 1934               
+ 204  204 2 S732106       Y=26 N=52                HEBERT, R.I.               
+ 204  204 3 TO AMEND H.R. 8687, BY EXEMPTING COMMODITIES OF WHICH 70% OR      
+ 204  204 4 MORE OF THE VALUE OF MATERIALS THEREOF IS COMPRISED OF FARM,      
+ 204  204 5 RANCH, OR DAIRY PRODUCTS.                                         
+ 205  205 1 CR-78-10-10386J 73-2-494     HR8687    JUNE 4, 1934               
+ 205  205 2 S732107       Y=34 N=50                JOHNSON, CALIF.            
+ 205  205 3 TO AMEND H.R. 8687, BY PROVIDING THAT NO FOREIGN TRADE            
+ 205  205 4 AGREEMENT UNDER THIS ACT SHALL BE EFFECTIVE UNTIL SUBMITTED       
+ 205  205 5 BY THE PRESIDENT TO BOTH HOUSES AND PASSED BY MAJORITY VOTE,      
+ 205  205 6 SUCH VOTE TO BE TAKEN WITHIN 20 DAYS AFTER SUBMISSION.            
+ 206  206 1 CR-78-10-10387J 73-2-494     HR8687    JUNE 4, 1934               
+ 206  206 2 S732108       Y=26 N=54                HASTING, DEL.              
+ 206  206 3 TO AMEND H.R. 8687, BY PROVIDING THAT EVERY FOREIGN TRADE         
+ 206  206 4 AGREEMENT CONCLUDED PURSUANT TO THIS ACT SHALL BE SUBJECT TO      
+ 206  206 5 TERMINATION NOT MORE THAN 6 MONTHS AFTER 3 YEARS FROM DATE        
+ 206  206 6 OF ENACTMENT.                                                     
+ 207  207 1 CR-78-10-10393J 73-2-495     HR8687    JUNE 4, 1934               
+ 207  207 2 S732109       Y=29 N=57                LONG, LA.                  
+ 207  207 3 TO AMEND H.R. 8687, BY PROVIDING THAT THE BILL DOES NOT           
+ 207  207 4 INDLUDE EXCISE TAXES UNDER SUBSECTION C, PARA., 4,5,6,7, OF       
+ 207  207 5 SEC. 601 OF REVENUE ACT OF 1932.                                  
+ 208  208 1 CR-78-10-10394J 73-2-495     HR8687    JUNE 4, 1934               
+ 208  208 2 S732110       Y=33 N=54                METCALF, R.I.              
+ 208  208 3 TO AMEND H.R. 8687, BY PROVIDING THAT NO AGREEMENTS BE MADE       
+ 208  208 4 WITH COUNTRIES WHOSE WAGES ARE 20% BELOW OURS.                    
+ 209  209 1 CR78-10-10395AJ 73-2-49      HR8687    JUNE 4, 1834               
+ 209  209 2 S732111       Y=59 N=29                HARRISON, MISS.            
+ 209  209 3 TO AGREE TO THE AMENDMENT TO H.R. 8687, WHICH AMENDMENT           
+ 209  209 4 INSERTS ON PAGE FOUR, LINE TWENTY, THE WORDS "OR ANY              
+ 209  209 5 PROVISION OF ANY SUCH AGREEMENT."                                 
+ 210  210 1 CR78-10-10395BJ 73-2-49      HR8687    JUNE 4, 1934               
+ 210  210 2 S732112       Y=57 N=33                                           
+ 210  210 3 TO PASS H.R. 8687.                                                
+ 211  211 1 CR-78-10-11048J 73-2-548     HR9745    JUNE 11, 1934              
+ 211  211 2 S732113       Y=17 N=65                THOMAS, UTAH               
+ 211  211 3 TO AMEND H.R. 9745, A BILL PROVIDING FOR SILVER PURCHASES,        
+ 211  211 4 BY PROVIDING THAT PROPORTION OF SILVER TO GOLD IN THE U.S.        
+ 211  211 5 RESERVES SHALL BE INCREASED, ULTIMATE OBJECTIVE TO HAVE 1/4       
+ 211  211 6 OF RESERVES, BY VALUE, SILVER.                                    
+ 212  212 1 CR-78-10-11050J 73-2-548     HR9745    JUNE 11, 1934              
+ 212  212 2 S732114       Y=18 N=59                LONG, LA.                  
+ 212  212 3 TO AMEND H.R. 9745, BY MAKING MONETARY STANDARD OF U.S.           
+ 212  212 4 BIMETALLIC, IN THE RATIO OF 16-1 SILVER PER GOLD.                 
+ 213  213 1 CR-78-10-11058J 73-2-549     HR9745    JUNE 11, 1934              
+ 213  213 2 S732115       Y=31 N=51                SHIPSTEAD, MINN.           
+ 213  213 3 TO AMEND H.R. 9745, BY PROVIDING FOR PAYMENT OF VETERAN'S         
+ 213  213 4 ADJUSTED SERVICE CERTIFICATES BEFORE MATURITY.                    
+ 214  214 1 CR-78-10-11059J 73-2-550     HR9745    JUNE 11, 1934              
+ 214  214 2 S732116       Y=29 N=53                LONG, LA.                  
+ 214  214 3 TO AMEND H.R. 9745, BY PUTTING 50% OF THE EXCESS AS TAX ON        
+ 214  214 4 INTEREST OF TRANSFERS, WHERE THE INTEREST EXCEEDS THE COST        
+ 214  214 5 THEREOF AND ALLOWED EXPENSES.                                     
+ 215  215 1 CR-78-10-11060J 73-2-551     HR9745    JUNE 11, 1934              
+ 215  215 2 S732117       Y=55 N=25                                           
+ 215  215 3 TO PASS H.R. 9745.                                                
+ 216  216 1 CR-78-11-11462EX J 75-78     SRE       JUNE 14, 1934              
+ 216  216 2 S732118       Y=53 N=24                                           
+ 216  216 3 TO CONFIRM THE NOMINATION OF REFORD G. TUGWELL TO BE UNDER-       
+ 216  216 4 SECRETARY OF AGRICULTURE.                                         
+ 217  217 1 CR-78-11-11489J 73-2-570     S3231     JUNE 14, 1934              
+ 217  217 2 S732119       Y=66 N=0                                            
+ 217  217 3 TO PASS S. 3231, A BILL PROVIDING RETIREMENT SYSTEM FOR           
+ 217  217 4 RAILROAD EMPLOYEES, TO PROVIDE UNEMPLOYMENT RELIEF.               
+ 218  218 1 CR-78-11-11617J 73-2-574     HR9830    JUNE 15, 1934              
+ 218  218 2 S732120       Y=52 N=24                BYRNES, S.C.               
+ 218  218 3 TO TABLE DICKENSON'S APPEAL, THAT MAKING $5,000,000               
+ 218  218 4 AVAILABLE TO THE PAN AMERICAN UNION WAS NOT AUTHORIZED BY         
+ 218  218 5 LAW AND VIOLATED RULE XVI, PARA. ONE, A MOTION MADE DURING        
+ 218  218 6 CONSIDERATION OF H.R. 9830, A BILL PROVIDING DEFICIENCY AND       
+ 218  218 7 SUPPLEMENTAL APPROPRIATIONS.                                      
+ 219  219 1 CR-78-11-11623J 73-2-576     HR9830    JUNE 15, 1934              
+ 219  219 2 S732121       Y=49 N=34                ADAMS, COLO.               
+ 219  219 3 TO DECIDE A POINT OF ORDER STATING THAT DILL'S AMENDMENT TO       
+ 219  219 4 H.R. 9830, GIVING $5,000,000 FOR U.S.  --- ALASKA HIGHWAY IS      
+ 219  219 5 NOT AUTHORIZED BY LAW, AND THEREFORE NOT IN ORDER.                
+ 220  220 1 CR-78-11-11624J 73-2-576     HR9830    JUNE 15, 1934              
+ 220  220 2 S732122       Y=48 N=38                                           
+ 220  220 3 TO AMEND H.R. 9830, BY APPROPRIATING $1,000,000 FOR               
+ 220  220 4 CONSTRUCTION OF PAN-AMERICAN HIGHWAY.                             
+ 221  221 1 CR-78-11-11638J 73-2-577     HR9830    JUNE 15, 1934              
+ 221  221 2 S732123       Y=57 N=25                                           
+ 221  221 3 TO AMEND H.R. 9830, BY PROVIDING THAT PRESIDENT MAY ALLOCATE      
+ 221  221 4 UP TO $500,000,000 OF THE SAVINGS OF UNOBLIGATED BALANCES OF      
+ 221  221 5 THE RECONSTRUCTION FINANCE CORP.                                  
+ 222  222 1 CR-78-11-11674J 73-2-580     HR9830    JUNE 15, 1934              
+ 222  222 2 S732124       Y=17 N=44                CUTTING, N.M.              
+ 222  222 3 TO AMEND H.R. 9830, BY APPROPRIATING AND DISTRIBUTING             
+ 222  222 4 $400,000,000 FOR PUBLIC WORKS.                                    
+ 223  223 1 CR-78-11-12011J 73-2-590     S3794     JUNE 16, 1934              
+ 223  223 2 S732125       Y=29 N=53                STEIWER, ORE.              
+ 223  223 3 TO AMEND S. 3794, A BILL IMPROVING HOUSING STANDARDS AND          
+ 223  223 4 CONDITIONS, BY STRIKING OUT TITLE III CONCERNING CREATION         
+ 223  223 5 AND POWERS OF NATIONAL MORTAGE ASSOCIATIONS.                      
+ 224  224 1 CR-78-11-12013J 73-2-591     S3794     JUNE 16, 1934              
+ 224  224 2 S732126       Y=71 N=12                                           
+ 224  224 3 TO PASS S. 3794, A BILL IMPROVING HOUSING STANDARDS AND           
+ 224  224 4 CONDITIONS.                                                       
+ 225  225 1 CR-78-11-12045J 73-2-599     HJR375    JUNE 16, 1934              
+ 225  225 2 S732127       Y=86 N=0                 LAFOLLETTE, WISC.          
+ 225  225 3 TO AMEND H.J.RES. 375, PROVIDING SETTLEMENT OF LABOR              
+ 225  225 4 DISPUTE, BY PROVIDING THAT THE RESOLUTION DOES NOT AFFECT         
+ 225  225 5 EMPLOYEES' RIGHT TO STRIKE.                                       
+ 226  226 1 CR-78-11-12356J 73-2-614     HR9830    JUNE 18, 1934              
+ 226  226 2 S732128       Y=41 N=39                ROBINSON, IND.             
+ 226  226 3 TO PROCEED TO CONSIDER REPORT OF CONFERENCE COMMITTEE ON          
+ 226  226 4 H.R. 9830, A BILL PROVIDING FOR DEFICIENCY AND SUPPLEMENTAL       
+ 226  226 5 APPROPRIATION.                                                    
+ 227  227 1 CR-78-11-12381J 73-2-617     HR9830    JUNE 18, 1934              
+ 227  227 2 S732129       Y=60 N=16                                           
+ 227  227 3 TO AGREE TO CONFERENCE COMMITTEE REPORT ON H.R. 9830, A BILL      
+ 227  227 4 PROVIDING FOR DEFICIENCY AND SUPPLEMENTAL APPROPRIATIONS.         
+ 228  228 1 CR-78-11-12384J 73-2-617     S3266     JUNE 18, 1934              
+ 228  228 2 S732130       Y=78 N=2                                            
+ 228  228 3 TO CONSIDER S. 3266, A BILL PROVIDING FOR SETTLEMENT OF           
+ 228  228 4 DISPUTES BETWEEN CARRIERS AND EMPLOYEES.                          

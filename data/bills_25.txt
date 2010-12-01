@@ -1,0 +1,2112 @@
+   1    1 1 G-5-  -       EX J 25-SP-17A SRE       MAR. 7, 1837               
+   1    1 2 E250001       Y=32 N=7                 BENTON, MO.                
+   1    1 3 TO CONSENT TO THE NOMINATION OF BENJAMIN K. PIERCE AND            
+   1    1 4 OTHERS FOR BREVET PROMOTIONS IN THE ARMY.                         
+   2    2 1 G-5-  -       EX J 25-SP-17B SRE       MAR. 7, 1837               
+   2    2 2 E250002       Y=28 N=13                PRESTON, S.C.              
+   2    2 3 TO CONSENT TO THE NOMINATIONS OF BENJAMIN K. PIERCE,              
+   2    2 4 THOMAS CHILDS, WM. M. GRAHAM, RICHARD B. LEE,                     
+   2    2 5 JAMES A. ASHBY, CAMPBELL GRAHAM, WM. S. MAITLAND, AND             
+   2    2 6 ALFRED HERBERT, FOR BREVIET PROMOTIONS IN THE ARMY.               
+   3    3 1 G-5-  -       EX J 25-SP-17C SRE       MAR. 7, 1837               
+   3    3 2 E250003A      Y=30 N=14                PRESTON, S.C.              
+   3    3 3 TO TABLE THE NOMINATION OF ARCHIBALD HENDERSON AND OTHERS         
+   3    3 4 FOR BREVET PROMOTIONS IN THE ARMY AND MARINE CORPS.               
+   4    4 1 G-5-  -       EX J 25-SP-19  PROC      MAR. 8, 1837               
+   4    4 2 E250003B      Y=26 N=19                GRUNDY, TENN.              
+   4    4 3 TO ADMINISTER THE REQUIRED OATH TO THE                            
+   4    4 4 HON. AMBROSE H. SEVIER, APPOINTED A SENATOR BY THE                
+   4    4 5 GOVERNOR OF ARKANSAS.                                             
+   5    5 1 G-5-  -       EX J 25-SP-21A SRE       MAR. 8, 1837               
+   5    5 2 E250004A      Y=28 N=15                GRUNDY, TENN.              
+   5    5 3 TO CONSENT TO THE NOMINATION OF JOHN CATRON AS ASSOCIATE          
+   5    5 4 JUDGE OF THE SUPREME COURT.                                       
+   6    6 1 G-13-1-       EX J 25-2-21B  SRE       MAR. 8, 1837               
+   6    6 2 E250004B      Y=23 N=18                GRUNDY, TENN.              
+   6    6 3 TO CONSENT TO THE NOMINATION OF WM. SMITH AS                      
+   6    6 4 ASSOCIATE JUDGE OF THE SUPREME COURT.                             
+   7    7 1               EX J 5-25      SRE       MAR. 9, 1837               
+   7    7 2 E250005       Y=19 N=8                 KING, ALA.                 
+   7    7 3 TO POSTPONE CONSIDERATION OF THE NOMINATION OF                    
+   7    7 4 DENNY MC COBB AS COLLECTOR OF THE CUSTOMS FOR THE                 
+   7    7 5 DISTRICT AND INSPECTOR OF REVENUE FOR THE PORT OF                 
+   7    7 6 WALDOBORO, MAINE, UNTIL THE NEXT SESSION OF CONGRESS.             
+   8   60 1 G-5-  -30A    J 25-1-32A     S1        SEPT. 13, 1837             
+   8   60 2 S251001       Y=33 N=12                BUCHANAN, PA.              
+   8   60 3 TO AMEND S. 1 (APP. OCT. 2, 1837, 5 STAT L. 201), A BILL          
+   8   60 4 POSTPONING PAYMENT OF THE FOURTH INSTALLMENT OF THE STATE         
+   8   60 5 DEPOSITS, BY PROVIDING THAT THE THREE FIRST INSTALLMENTS          
+   8   60 6 SHALL REMAIN ON DEPOSIT WITH THE STATES UNTIL OTHERWISE           
+   8   60 7 DIRECTED BY CONGRESS.                                             
+   9   61 1 G-5-  -30B    J 25-1-32B     S1        SEPT. 13, 1837             
+   9   61 2 S251002       Y=18 N=27                TALLMADGE, N.Y.            
+   9   61 3 TO AMEND S. 1 BY DIRECTING THAT THE MONEY TO BE                   
+   9   61 4 DEPOSITED WITH THE STATES UNDER THE 13TH SECTION OF THE           
+   9   61 5 ACT OF JUNE 23, 1836, SHALL REMAIN ON DEPOSIT WITH THE            
+   9   61 6 STATES UNTIL OTHERWISE DIRECTED BY CONGRESS.                      
+  10   62 1 G-5-  30E     J 25-1-32C     S1        SEPT. 13, 1837             
+  10   62 2 S251003       Y=27 N=18                WRIGHT, N.Y.               
+  10   62 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 1.                   
+  11   63 1 G-5-  32     J25-1-33        S1        SEPT. 16, 1837             
+  11   63 2 S251004       Y=28 N=17                WRIGHT, N.Y.               
+  11   63 3 TO PASS S. 1.                                                     
+  12   64 1 G-5-  -36     J 25-1-34      S2        SEPT. 16, 1837             
+  12   64 2 S251005       Y=28 N=18                CALHOUN, S.C.              
+  12   64 3 TO POSTPONE CONSIDERATION, AS IN COMMITTEE OF THE WHOLE, OF       
+  12   64 4 S. 2, A BILL AUTHORIZING THE SECRETARY OF TREASURY                
+  12   64 5 TO ISSUE TREASURY NOTES, IN ORDER TO DELAY ACTION UNTIL THE       
+  12   64 6 FOLLOWING MONDAY.                                                 
+  13   65 1 G-5-  -       J 25-1-35      S2        SEPT. 18, 1837             
+  13   65 2 S251006       Y=6 N=40                 WALKER, MISS.              
+  13   65 3 TO AMEND S. 2 BY PROVIDING A REDUCTION OF INTEREST FROM           
+  13   65 4 SIX TO THREE PERCENT.                                             
+  14   66 1 G-5-  -38     J 25-1-36A     S2        SEPT. 17, 1837             
+  14   66 2 S251007       Y=42 N=5                 WRIGHT, N.Y.               
+  14   66 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 2.                   
+  15   67 1 G-5-  -       J 25-1-36B     S3        SEPT. 18, 1837             
+  15   67 2 S251008A      Y=44 N=1                 WEBSTER, MASS.             
+  15   67 3 TO AMEND S. 3 (APP. OCT. 16, 1837, 5 STAT L 205), A BILL          
+  15   67 4 AUTHORIZING FURTHER POSTPONEMENT OF PAYMENT ON DUTY BONDS,        
+  15   67 5 BY EXTENDING THE TIME OF MAKING PAYMENTS FROM SIX TO              
+  15   67 6 NINE MONTHS.                                                      
+  16   68 1 G-5-  -74     J 25-1-44B     SRE       SEPT. 25, 1837             
+  16   68 2 S251008B      Y=29 N=15                TALLMADGE, N.Y.            
+  16   68 3 TO AMEND AMEND. TO THE RES. PROVIDING THAT THE RESPECTIVE         
+  16   68 4 MEMORIALISTS OUGHT NOT BE GRANTED THEIR REQUEST TO ESTABLISH      
+  16   68 5 A NATIONAL BANK, BY INSERTING "THAT IN THE OPINION OF THIS        
+  16   68 6 SENATE A CLEAR MAJORITY OF THE PEOPLE OF THE U.S. ARE             
+  16   68 7 OPPOSED TO THE ESTABLISHMENT OF A NATIONAL BANK."                 
+  17   69 1 G-5-  -68     J 25-1-43      S6        SEPT. 25, 1837             
+  17   69 2 S251009       Y=19 N=27                KING, GA.                  
+  17   69 3 TO POSTPONE, AS IN COMMITTEE OF THE WHOLE, FURTHER                
+  17   69 4 CONSIDERATION OF S. 6, A BILL IMPOSING ADDITIONAL DUTIES          
+  17   69 5 AS DEPOSITORIES IN CERTAIN CASES ON PUBLIC OFFICERS,              
+  17   69 6 UNTIL THE FIRST MONDAY OF DECEMBER NEXT.                          
+  18   70 1 G-5-  -73     J 25-1-44A     SRE       SEPT. 26, 1837             
+  18   70 2 S251010       Y=15 N=30                WEBSTER, MASS.             
+  18   70 3 TO POSTPONE, UNTIL MONDAY NEXT, CONSIDERATION OF THE              
+  18   70 4 RESOLUTION REJECTING A PETITION FOR A NATIONAL BANK.              
+  19   71 1 G-5-  -75     J 25-1-44C     SRE       SEPT. 26, 1837             
+  19   71 2 S251011       Y=19 N=27                TALLMADGE, N.Y.            
+  19   71 3 TO TABLE THE RESOLUTION CONCERNING THE NATIONAL BANK.             
+  20   72 1 G-5-  -76A    J 25-1-45A     SRE       SEPT. 26, 1837             
+  20   72 2 S251012       Y=16 N=30                CLAY, KY.                  
+  20   72 3 TO AMEND THE AMENDMENT AS AMENDED TO THE RESOLUTION               
+  20   72 4 CONCERNING THE NATIONAL BANK; WHICH AMENDED AMENDMENT             
+  20   72 5 STATES THAT THE SENATE THINKS IT UNNECESSARY AND                  
+  20   72 6 INEXPEDIENT TO ESTABLISH THE BANK; AND WHICH HERE IS FURTHER      
+  20   72 7 AMENDED BY ADDING THAT WHENEVER THE WILL OF THE PEOPLE            
+  20   72 8 DESIRES A BANK TO BE ESTABLISHED, IT WILL BE DONE.                
+  21   73 1 G-5-  -76B    J 25-1-45B     SRE       SEPT. 26, 1837             
+  21   73 2 S251013       Y=3 N=43                 TALLMADGE, N.Y.            
+  21   73 3 TO AMEND THE AMENDED AMENDMENT TO THE RESOLUTION CONCERNING       
+  21   73 4 THE NATIONAL BANK, WHICH AMENDED AMENDMENT STATES THAT THE        
+  21   73 5 SENATE THINKS IT INEXPEDIENT TO ESTABLISH A BANK BUT WILL DO      
+  21   73 6 SO WHEN THE WILL OF THE PEOPLE DICTATES IT, BY SUBSTITUTING       
+  21   73 7 THE STATEMENT THAT A CLEAR MAJORITY OF THE PEOPLE DO NOT          
+  21   73 8 DESIRE THE ESTABLISHMENT OF THE BANK AND THE REQUEST              
+  21   73 9 OF THE PETITIONERS OUGHT NOT BE GRANTED.                          
+  22   74 1 G-5-  -76C    J 25-1-45C     SRE       SEPT. 26, 1837             
+  22   74 2 S251014       Y=31 N=15                WRIGHT, N.Y.               
+  22   74 3 TO PASS THE RESOLUTION CONCERNING THE NATIONAL BANK AS            
+  22   74 4 AMENDED.                                                          
+  23   75 1 G-5-  -92     J 25-1-49      S1        SEPT. 30, 1837             
+  23   75 2 S251016       Y=30 N=2                 WRIGHT, N.Y.               
+  23   75 3 TO CONCUR WITH HOUSE AMENDMENT TO S. 1, PAYMENT OF                
+  23   75 4 DEPOSITS TO STATES UNDER ACT OF JUNE 23, 1836.                    
+  24   76 1 G-5-  -96A    J 25-1-51      S6        OCT. 3, 1837               
+  24   76 2 S251017       Y=24 N=23                CALHOUN, S.C.              
+  24   76 3 TO AMEND S. 6 BY REPEALING THE RESOLUTION OF 1816, WHICH          
+  24   76 4 AUTHORIZES THE RECEIVING OF NOTES OF SPECIE-PAYING BANKS          
+  24   76 5 FOR PAYMENTS DUE THE GOVERNMENT, IN GRADUAL STEPS FROM            
+  24   76 6 DEC. 31, 1839 UNTIL DEC. 31, 1841, AT WHICH TIME ALL SUMS         
+  24   76 7 DUE THE GOVERNMENT SHALL BE PAID IN GOLD OR SILVER OR IN          
+  24   76 8 AUTHORIZED GOVERNMENT NOTES, AND ALL SUMS SHALL BE PAID           
+  24   76 9 OUT BY THE GOVERNMENT OR ITS AGENTS MADE IN THE SAME MANNER.      
+  25   77 1 G-5-  -96B    J 25-1-52A     S6        OCT. 3, 1837               
+  25   77 2 S251018A      Y=22 N=26                RIVES, VA.                 
+  25   77 3 TO AMEND S. 6 BY MAKING BANKS SPECIAL DEPOSITORIES FOR            
+  25   77 4 ACCRUED U.S. REVENUE.                                             
+  26   78 1 G-5-  -96C    J 25-1-52B     S6        OCT. 3, 1837               
+  26   78 2 S251018B      Y=22 N=26                PRESTON, S.C.              
+  26   78 3 TO AMEND, AS IN COMMITTEE OF THE WHOLE, S. 6, BY STRIKING         
+  26   78 4 OUT ALL AFTER THE ENACTING CLAUSE AND INSERTING A                 
+  26   78 5 PROVISION THAT UNTIL RESUMPTION OF SPECIE PAYMENT BY THE          
+  26   78 6 BANKS, THE SEC. OF THE TREASURY SHALL MAKE DEPOSITS TO            
+  26   78 7 ACCURE U.S. REVENUE IN CONVENIENTLY LOCATED, INCORPORATED         
+  26   78 8 BANKS.                                                            
+  27   79 1 G-5-  -96C    J 25-1-53B     S6        OCT. 3, 1837               
+  27   79 2 S251019       Y=23 N=20                STRANGE, N.C.              
+  27   79 3 TO AMEND AMENDMENT PERMITTING TREASURY NOTES OF ANY               
+  27   79 4 DENOMINATION TO BE ACCEPTED AT THE PLACE WHERE THEY ARE           
+  27   79 5 PAYABLE, IN PAYMENT OF PUBLIC DUES.                               
+  28   80 1 G-5-  -96D    J 25-1-53C     S6        OCT. 3, 1837               
+  28   80 2 S251020       Y=25 N=23                WRIGHT, N.Y.               
+  28   80 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 6.                   
+  29   81 1 G-5-  -96D    J 25-1-53A     S6        OCT. 3, 1837               
+  29   81 2 S251021       Y=21 N=27                MORRIS, OHIO               
+  29   81 3 TO ADJOURN AND END DEBATE ON S. 6.                                
+  30   82 1 G-5-  -100    J 25-1-55      S6        OCT. 4, 1837               
+  30   82 2 S251022       Y=26 N=21                WRIGHT, N.Y.               
+  30   82 3 TO PASS S. 6.                                                     
+  31   83 1 G-5-  -116A   J 25-1-57A     S11       OCT. 7, 1837               
+  31   83 2 S251023       Y=22 N=18                CLAY, KY.                  
+  31   83 3 TO AMEND S. 11 (APP. OCT. 12, 1837, 5 STAT 204), A BILL           
+  31   83 4 REGULATING THE FEES OF DISTRICT ATTORNEYS IN CERTAIN CASES,       
+  31   83 5 BY REQUIRING EXTENSION OF PAYMENTS ON BONDS GIVEN FOR             
+  31   83 6 DUTIES ON IMPORTS, TO BE MADE ACCORDING TO THE SECRETARY          
+  31   83 7 OF THE TREASURY'S INSTRUCTIONS.                                   
+  32   84 1 G-5-  -116B   J 25-1-57B     S11       OCT. 7, 1837               
+  32   84 2 S251024       Y=15 N=26                BUCHANAN, PA.              
+  32   84 3 TO RECOMMIT S. 11, (APP. OCT. 12, 1837, 5 STAT 204), A BILL       
+  32   84 4 REGULATING THE FEES OF DISTRICT ATTORNEYS IN CERTAIN CASES,       
+  32   84 5 WITH INSTRUCTIONS THAT THE COMMITTEE ON FINANCE REPORT            
+  32   84 6 BILL BACK PROVIDING FOR REASONABLE RENUMERATION TO                
+  32   84 7 DISTRICT ATTORNEYS FOR SERVICES ALREADING RENDERED.               
+  33    8 1               EX J 5-42      SRE       OCT. 10, 1837              
+  33    8 2 E251001       Y=36 N=0                 BUCHANAN, PA.              
+  33    8 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE GENERAL          
+  33    8 4 CONVENTION OF PEACE, FRIENDSHIP, COMMERCE, AND                    
+  33    8 5 NAVIGATION BETWEEN THE U.S. AND THE PERU-BOLIVIAN                 
+  33    8 6 CONFEDERATION, CONCLUDED ON NOV. 30, 1836.                        
+  34   85 1 G-5-  -120    J 25-1-59A     S5        OCT. 10, 1837              
+  34   85 2 S251025       Y=17 N=22                CLAY, KY.                  
+  34   85 3 TO POSTPONE UNTIL THE FIRST MONDAY OF DECEMBER NEXT,              
+  34   85 4 CONSIDERATION OF S. 5, A BILL AUTHORIZING THE DEPOSITING          
+  34   85 5 OF MERCHANDISE IN PUBLIC STORES.                                  
+  35   86 1 G-5-  -121A   J 25-1-59B     S5        OCT. 10, 1837              
+  35   86 2 S251026       Y=14 N=23                CALHOUN, S.C.              
+  35   86 3 TO AMEND S. 5 BY GIVING IMPORTERS THE OPTION TO LAND GOODS,       
+  35   86 4 WAREHOUSE THEM, AND PLACE GOODS UPON WHICH SUCH DUTIES            
+  35   86 5 ARE CHARGEABLE IN STORAGE PURSUANT TO THE PROVISIONS OF           
+  35   86 6 THIS ACT.                                                         
+  36   87 1 G-5-  -121B   J 25-1-60A     HR2       OCT. 10, 1837              
+  36   87 2 S271027       Y=16 N=25                BENTON, MO.                
+  36   87 3 TO AMEND H.R. 2 (APP. OCT. 12, 1837, 5 STAT 201), A BILL          
+  36   87 4 AUTHORIZING THE ISSUANCE OF TREASURY NOTES, BY FIXING THEIR       
+  36   87 5 MINIMUM VALUE AT $100.                                            
+  37   88 1 G-5-  -121C   J 25-1-60B     HR2       OCT. 10, 1837              
+  37   88 2 S251028       Y=35 N=6                 WRIGHT, N.Y.               
+  37   88 3 TO PASS H.R. 2, (APP. OCT. 12, 1827, 5 STAT 201), A BILL          
+  37   88 4 AUTHORIZING THE ISSUANCE OF TREASURY NOTES.                       
+  38   89 1 G-5-  -124A   J 25-1-61A     S5        OCT. 11, 1837              
+  38   89 2 S251029       Y=15 N=23                CLAY, KY.                  
+  38   89 3 TO POSTPONE CONSIDERATION OF S. 5 UNTIL THE FIRST MONDAY          
+  38   89 4 IN DECEMBER NEXT.                                                 
+  39   90 1 G-5-  -124B   J 25-1-61      S5        OCT. 11, 1837              
+  39   90 2 S251030       Y=28 N=5                 WRIGHT, N.Y.               
+  39   90 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 5.                   
+  40    9 1               EX J 5-43A     SRE       OCT. 12, 1837              
+  40    9 2 E251002       Y=0 N=35                 WHITE, TENN.               
+  40    9 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE                  
+  40    9 4 ORIGINAL ARTICLES IN THE TREATY WITH THE MIAMI INDIANS            
+  40    9 5 OF OCT. 23, 1834, AND THE AMENDMENT THERETO PROPOSED BY           
+  40    9 6 THE COMMITTEE OF INDIAN AFFAIRS.                                  
+  41   10 1               EX J 5-43B     SRE       OCT. 12, 1837              
+  41   10 2 E251003       Y=0 N=32                 WHITE, TENN.               
+  41   10 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY           
+  41   10 4 WITH THE MIAMI INDIANS OF OCT. 23, 1837.                          
+  42   11 1               EX J 5-46      SRE       OCT. 12, 1837              
+  42   11 2 E251004       Y=32 N=1                 WHITE, TENN.               
+  42   11 3 TO ADVISE AND CONSENT TO AN AMENDMENT IN NATURE OF A              
+  42   11 4 SUBSTITUTE FOR THE TREATY BETWEEN THE U.S. AND THE                
+  42   11 5 MIAMI INDIANS, OF OCT. 23, 1834 (PROVIDED THAT THE TRIBES         
+  42   11 6 SHALL IN GENERAL COUNCIL AGREE TO SIGN SAME); SUBSTITUTE          
+  42   11 7 PROPOSES TO RATIFY SAID TREATY WITH THE MIAMI INDIANS,            
+  42   11 8 FIXES THE CEDING OF LANDS TO THE U.S. AND THE PAYMENT FOR         
+  42   11 9 SAME, AND GRANTS TO CERTAIN INDIANS PATENTS IN FEE SIMPLE         
+  42   1110 FOR LAND GRANTED THEM BY FORMER TREATIES.                         
+  43   12 1               EX J 5-49      SRE       OCT. 14, 1837              
+  43   12 2 E251005       Y=10 N=22                WHITE, TENN.               
+  43   12 3 TO POSTPONE INDEFINITELY THE NOMINATION OF THOMAS WILSON AS       
+  43   12 4 INDIAN AGENT.                                                     
+  44   91 1 G-6-  -39     J 25-2-52      SRE       DEC. 18, 1837              
+  44   91 2 S252001       Y=25 N=20                GRUNDY, TENN.              
+  44   91 3 TO TABLE A MOTION TO RECEIVE A PETITION BY NEW JERSEY WOMEN,      
+  44   91 4 PRAYING FOR THE IMMEDIATE ABOLITION OF SLAVERY IN THE             
+  44   91 5 DISTRICT OF COLUMBIA.                                             
+  45   92 1 G-6-  -45     J 25-2-71      S33       DEC. 21, 1837              
+  45   92 2 S252002       Y=14 N=27                CLAY, KY.                  
+  45   92 3 TO POSTPONE CONSIDERATION UNTIL THE SECOND MONDAY OF              
+  45   92 4 JANUARY NEXT, OF S. 33 (APP. JULY 7, 1838, 5 STAT 309),           
+  45   92 5 RESTRAINING THE ISSUANCE AND CIRCULATION OF SMALL NOTES           
+  45   92 6 AS CURRENCY IN THE DISTRICT OF COLUMBIA.                          
+  46   93 1 G-6-  -50A    J 25-2-73      S33       DEC. 22, 1837              
+  46   93 2 S252003       Y=9 N=30                 PRESTON, S.C.              
+  46   93 3 TO COMMIT S. 33 TO THE COMMITTEE ON THE                           
+  46   93 4 DISTRICT OF COLUMBIA.                                             
+  47   94 1 G-6-  -50B    J 25-2-74A     S33       DEC. 22, 1837              
+  47   94 2 S252004       Y=21 N=16                SMITH, IND.                
+  47   94 3 TO AMEND SECTION 2 OF S. 33 BY PROVIDING THAT A DEFENDANT         
+  47   94 4 MUST GO TO COURT AND COMMENCE AN ACTION FOR THE RECOVERY          
+  47   94 5 OF DAMAGES, INSTEAD OF INSTITUTING SUMMARY PROCEEDINGS.           
+  48   95 1 G-6-  -50C    J 25-2-74B     S33       DEC. 22, 1837              
+  48   95 2 S252005       Y=31 N=0                 WRIGHT, N.Y.               
+  48   95 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 33.                  
+  49   96 1 G-6-  -54     J 25-2-79      S33       DEC. 26, 1837              
+  49   96 2 S252006       Y=37 N=1                 WRIGHT, N.Y.               
+  49   96 3 TO PASS S. 33.                                                    
+  50   97 1 G-6-  -55     J 25-2-85      S5        DEC. 27, 1837              
+  50   97 2 S252007       Y=35 N=4                 WALKER, MISS.              
+  50   97 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 5, A BILL            
+  50   97 4 AUTHORIZING THE STATES TO TAX ANY LANDS WITHIN THEIR LIMITS       
+  50   97 5 SOLD BY U.S.                                                      
+  51   98 1 G-6-  -67     J 25-2-94A     S21       DEC. 29, 1837              
+  51   98 2 S252008       Y=23 N=16                SMITH, IND.                
+  51   98 3 TO AMEND S. 21, A BILL ALTERING AND AMENDING THE ACT              
+  51   98 4 PROVIDING FOR THE PUNISHMENT OF CERTAIN CRIMES AGAINST THE        
+  51   98 5 U.S., APPROVED APR. 30, 1790, BY SUBSTITUTING HARD LABOR          
+  51   98 6 FOR LIFE FOR THE DEATH PENALTY.                                   
+  52   99 1 G-6-  -       J 25-2-94B     S31       DEC. 29, 1837              
+  52   99 2 S252009       Y=30 N=10                CLAY, KY.                  
+  52   99 3 TO AMEND S. 31, A BILL PROVIDING FOR THE SETTLEMENT OF            
+  52   99 4 THE CLAIM OF EXECUTRIX OF THE ESTATE OF RICHARD MEADE,            
+  52   99 5 BY ELIMINATING THE PROVISION THAT IF THE CLAIM IS NOT             
+  52   99 6 ALLOWABLE IT SHALL BE SO REPORTED AT THE NEXT SESSION OF          
+  52   99 7 CONGRESS.                                                         
+  53  100 1 G-6-  -       J 25-2-95      S31       DEC. 29, 1837              
+  53  100 2 S252010       Y=15 N=28                HUBBARD, N.H.              
+  53  100 3 TO AMEND S. 31, A BILL PROVIDING FOR THE SETTLEMENT OF THE        
+  53  100 4 CLAIM OF EXECUTRIX OF THE ESTATE OF RICHARD MEADE,                
+  53  100 5 BY PROVIDING THAT THE BOARD EXAMINE THIS CLAIM AS IT              
+  53  100 6 EXISTED ORIGINALLY AGAINST SPAIN, AND REPORT BACK TO THE          
+  53  100 7 SENATE AT THE NEXT SESSION OF CONGRESS.                           
+  54  101 1 G-6-  -74A    J 25-2-106B    SRE       JAN. 3, 1838               
+  54  101 2 S252011       Y=14 N=31                MORRIS, OHIO               
+  54  101 3 TO AMEND THE FIRST RESOLUTION CONCERNING SLAVERY,                 
+  54  101 4 FREEDOM OF SPEECH AND THE PRESS, BY STATING THAT THE              
+  54  101 5 STATES RETAIN SOLE RIGHTS AND RESPONSIBILITIES OVER THEIR         
+  54  101 6 INSTITUTIONS AND POLICE, AND THAT ONE STATE SHALL NOT, FOR        
+  54  101 7 MORAL OR RELIGIOUS REASONS, INTERFERE WITH ANY OTHER STATE.       
+  55  102 1 G-6-  -74B    J 25-2-106A    SRE       JAN. 3, 1838               
+  55  102 2 S252012       Y=32 N=13                CALHOUN, S.C.              
+  55  102 3 TO PASS THE FIRST RESOLUTION CONCERNING SLAVERY, STATING          
+  55  102 4 THAT IN THE ADOPTION OF THE FEDERAL CONSTITUTION, THE             
+  55  102 5 INDIVIDUAL STATES ACTED AS FREE STATES AND VOLUNTARILY            
+  55  102 6 ENTERED THE UNION FOR INCREASED SECURITY AGAINST ALL              
+  55  102 7 DOMESTIC AND FOREIGN DANGERS, AND FOR ENJOYMENT OF NATURAL,       
+  55  102 8 POLITICAL AND SOCIAL ADVANTAGES.                                  
+  56  103 1 G-6-  -74C    J 25-2-107A    SRE       JAN. 3, 1838               
+  56  103 2 S252013       Y=12 N=32                MORRIS, OHIO               
+  56  103 3 TO AMEND THE SECOND RESOLUTION CONCERNING SLAVERY BY              
+  56  103 4 ELIMINATING THE CLAUSE WHICH STATES THAT MEDDLING BY ANY ONE      
+  56  103 5 OR MORE STATES IN THE DOMESTIC INSTITUTIONS OF OTHER STATES       
+  56  103 6 WILL TEND TO WEAKEN OR DESTROY THE UNION STATES.                  
+  57  104 1 G-6-  -74D    J 25-2-107B    SRE       JAN. 3, 1838               
+  57  104 2 S252014       Y=32 N=9                 CALHOUN, S.C.              
+  57  104 3 TO PASS THE SECOND RESOLUTION CONCERNING SLAVERY,                 
+  57  104 4 STATING THAT IN DELEGATING A PORTION OF THEIR POWERS TO THE       
+  57  104 5 FEDERAL GOVERNMENT, THE STATES RETAINED THE EXCLUSIVE RIGHT       
+  57  104 6 OVER THEIR OWN DOMESTIC INSTITUTIONS AND POLICE, AND THAT         
+  57  104 7 ANY INTERFERENCE BY OTHER STATES IS SUBVERSIVE TO THE             
+  57  104 8 CONSTITUTION.                                                     
+  58  105 1 G-6-  -80     J 25-2-114     SRE       JAN. 6, 1838               
+  58  105 2 S251015       Y=32 N=14                ALLEN, OHIO                
+  58  105 3 TO AMEND THE AMENDMENT TO THE THIRD RESOLUTION                    
+  58  105 4 CONCERNING SLAVERY, SO AS TO PROVIDE THAT THIS RESOLUTION         
+  58  105 5 SHOULD NOT BE INTERPRETED AS AN EFFORT ON THE PART OF             
+  58  105 6 CONGRESS TO IMPAIR THE FREEDOMS OF SPEECH, PRESS, OR              
+  58  105 7 PETITION.                                                         
+  59  106 1 G-6-  -80B    J 25-2-117A    SRE       JAN. 6, 1838               
+  59  106 2 S252016       Y=9 N=32                 MORRIS, OHIO               
+  59  106 3 TO AMEND THE AMENDMENT TO THE THIRD RESOLUTION CONCERNING         
+  59  106 4 SLAVERY, BY DECLARING THE RIGHT OF FREE SPEECH AND                
+  59  106 5 PUBLICATION OF OPINION CONCERNING ANY STATE, AND THAT THOSE       
+  59  106 6 EXERCISING SUCH RIGHTS ARE RESPONSIBLE ONLY TO THE STATE          
+  59  106 7 IN WHICH THE RIGHT IS EXERCISED.                                  
+  60  107 1 G-6-  -81A    J 25-2-117B    SRE       JAN. 15, 1838              
+  60  107 2 S252017       Y=8 N=34                 BAYARD, DEL.               
+  60  107 3 TO AMEND THE THIRD RESOLUTION CONCERNING SLAVERY, FREEDOM OF      
+  60  107 4 SPEECH AND THE PRESS, AND THE RIGHT OF PETITION, BY CHANGING      
+  60  107 5 THE WORDING TO READ "THE PEOPLE OF THE U.S.," RATHER THAN         
+  60  107 6 "THE SEVERAL STATES OF THIS UNION AS A COMMON AGENT."             
+  61  108 1 G-6-  -81B    J 25-2-117C    SRE       JAN. 15, 1838              
+  61  108 2 S252018       Y=31 N=11                CALHOUN, S.C.              
+  61  108 3 TO PASS THE THIRD RESOLUTION, AS AMENDED, CONCERNING              
+  61  108 4 SLAVERY, STATING THAT IT IS THE DUTY OF THE GOVERNMENT            
+  61  108 5 TO UPHOLD THE RIGHTS FOR MUTUAL SECURITY AND PROSPERITY; TO       
+  61  108 6 EXERCISE ITS POWERS SO AS NOT TO INTERFERE WITH THE               
+  61  108 7 DOMESTIC INSTITUTIONS OF THE STATES; AND TO PREVENT A STATE       
+  61  108 8 FROM ATTACKING, WEAKENING OR DESTROYING THE DOMESTIC              
+  61  108 9 INSTITUTIONS OF ANOTHER STATE.                                    
+  62  109 1 G-6-  -88     J 25-2-122     SRE       JAN. 9, 1838               
+  62  109 2 S252019       Y=34 N=5                 CALHOUN, S.C.              
+  62  109 3 TO PASS THE FOURTH RESOLUTION CONCERNING SLAVERY,                 
+  62  109 4 STATING THAT DOMESTIC SLAVERY AS IT EXISTS IN THE SOUTH           
+  62  109 5 AND WEST COMPRISES AN IMPORTANT PART OF THEIR DOMESTIC            
+  62  109 6 INSTITUTIONS AND SHOULD BE FREE FROM ATTACK BY OTHER STATES.      
+  63  110 1 G-6-  -88     J 25-2-126A    SRE       JAN. 10, 1838              
+  63  110 2 S252020       Y=19 N=18                CLAY, KY.                  
+  63  110 3 TO AMEND THE FIFTH RESOLUTION PROTESTING AGAINST                  
+  63  110 4 THE ABOLITION OF SLAVERY IN THE TERRITORIES AND THE               
+  63  110 5 DISTRICT OF COLUMBIA, BY REWORDING THE RESOLUTION TO STATE        
+  63  110 6 THAT IT WOULD BE INEXPEDIENT AND DANGEROUS TO THE UNION TO        
+  63  110 7 ABOLISH SLAVERY IN THE DISTRICT OF COLUMBIA OR ANY PART OF        
+  63  110 8 THE COUNTRY WHERE IT NOW EXISTS.                                  
+  64  111 1 G-6-  -91A    J 25-2-126B    SRE       JAN. 10, 1838              
+  64  111 2 S252021       Y=24 N=13                CLAY, KY.                  
+  64  111 3 TO SUBSTITUTE THE AMENDED RESOLUTION STATING THAT IT WOULD        
+  64  111 4 BE INEXPEDIENT AND DANGEROUS TO THE UNION TO ABOLISH              
+  64  111 5 SLAVERY IN THE DISTRICT OF COLUMBIA OR ANY PART OF THE COUN-      
+  64  111 6 TRY WHERE IT NOW EXISTS, FOR THE FIFTH RESOLUTION CONCERNING      
+  64  111 7 SLAVERY.                                                          
+  65  112 1 G-6-  -91B    J 25-2-127A    SRE       JAN. 10, 1838              
+  65  112 2 S252022       Y=36 N=8                 CALHOUN, S.C.              
+  65  112 3 TO PASS THE 5TH RESOLUTION AS AMENDED CONCERNING SLAVERY,         
+  65  112 4 STATING THAT IT WOULD BE INEXPEDIENT AND DANGEROUS TO THE         
+  65  112 5 UNION TO ABOLISH SLAVERY IN THE DISTRICT OF COLUMBIA OR ANY       
+  65  112 6 PART OF THE COUNTRY WHERE IT NOW EXISTS, AND THAT                 
+  65  112 7 TERRITORIES BE ALLOWED TO DECIDE THEMSELVES ABOUT SLAVERY         
+  65  112 8 WITHIN THEIR BOUNDRIES.                                           
+  66  113 1 G-6-  -96A    J 25-2-131A    SRE       JAN. 11, 1838              
+  66  113 2 S252023       Y=31 N=10                CLAY, KY.                  
+  66  113 3 TO AMEND THE SIXTH RESOLUTION CONCERNING SLAVERY,                 
+  66  113 4 STATING THAT IT WOULD BE INEXPEDIENT TO ABOLISH SLAVERY           
+  66  113 5 IN INDIAN TERRITORY OR IN FLORIDA SINCE IT WOULD ALARM THE        
+  66  113 6 SLAVE STATES, BY STRIKING OUT INDIAN TERRITORY FROM THE           
+  66  113 7 RESOLUTION.                                                       
+  67  114 1 G-6-  -96B    J 25-2-131B    SRE       JAN. 11, 1838              
+  67  114 2 S252024       Y=10 N=29                RIVES, VA.                 
+  67  114 3 TO AMEND THE AMENDMENT TO THE SIXTH RESOLUTION CONCERNING         
+  67  114 4 SLAVERY, STATING THAT IT WOULD BE INEXPEDIENT TO ABOLISH          
+  67  114 5 SLAVERY IN INDIAN TERRITORY OR FLORIDA SINCE IT WOULD ALARM       
+  67  114 6 THE SLAVE STATES, BY SUBSTITUTING THAT ANY INTERFERENCE WITH      
+  67  114 7 SLAVERY IN THE TERRITORIES WOULD INHIBIT THE RIGHTS AND           
+  67  114 8 INTERESTS OF THE INHABITANTS AND THE SECURITY OF THE SLAVE        
+  67  114 9 STATES; AND THAT THE ISSUE OF SLAVERY WILL BE DECIDED BY          
+  67  11410 THE TERRITORIES UPON ENTERING THE UNION.                          
+  68  115 1 G-6-  -97     J 25-2-132     SRE       JAN. 11, 1838              
+  68  115 2 S252025       Y=35 N=9                 CALHOUN, S.C.              
+  68  115 3 TO PASS THE SIXTH RESOLUTION CONCERNING SLAVERY WHICH             
+  68  115 4 PROVIDES THAT ANY ATTEMPT BY CONGRESS TO ABOLISH SLAVERY,         
+  68  115 5 IN ANY TERRITORY WHERE IT NOW EXISTS, WOULD CAUSE SERIOUS         
+  68  115 6 ALARM AND APPREHENSION IN SUCH STATES AND WOULD BE A VIOLA-       
+  68  115 7 TION OF GOOD FAITH AS NO ABOLISHMENT WAS ASKED, AND THAT          
+  68  115 8 TERRITORIES UPON THEIR ADMITTANCE INTO THE UNION SHALL            
+  68  115 9 DECIDE THE QUESTION FOR THEMSELVES.                               
+  69  116 1 G-6-  -98A    J 25-2-136     SRE       JAN. 12, 1838              
+  69  116 2 S252026       Y=35 N=9                 PRESTON, S.C.              
+  69  116 3 TO TABLE THE SEVENTH RESOLUTION CONCERNING SLAVERY,               
+  69  116 4 WHICH DEFINES THE NATURE OF THE UNION BETWEEN SLAVE AND FREE      
+  69  116 5 STATES AS RESTING UPON EQUALITY OF RIGHTS BETWEEN THEM,           
+  69  116 6 AND FURTHER STATES THAT TO REFUSE TO EXTEND SLAVERY IN            
+  69  116 7 THE WEST AND SOUTH VIOLATES THE RIGHTS OF THESE STATES.           
+  70  117 1 G-6-  -98B    J 25-2-137     SRE       JAN. 12, 1838              
+  70  117 2 S252027       Y=23 N=21                NILES, CONN.               
+  70  117 3 TO TABLE A RESOLUTION STATING THAT NOTHING IN THE FOREGOING       
+  70  117 4 RESOLUTIONS CONCERNING SLAVERY IS MEANT TO IMPAIR THE FREE-       
+  70  117 5 DOM OF SPEECH, PRESS OR PETITION AS SECURED IN THE                
+  70  117 6 CONSTITUTION.                                                     
+  71  118 1 G-6-  -109    J 25-2-144     SRE       JAN. 16, 1838              
+  71  118 2 S252028       Y=12 N=26                STRANGE, N.C.              
+  71  118 3 TO TABLE CONSIDERATION OF THE RESOLUTION PROTESTING               
+  71  118 4 AGAINST THE ADMISSION OF TEXAS OR ANY SLAVE STATE INTO            
+  71  118 5 THE UNION.  GLOBE DESCRIBES RESOLUTION AS ABOLISHING SLAVERY      
+  71  118 6 IN THE DISTRICT OF COLUMBIA.                                      
+  72  119 1 G-6-  -120A   J 25-2-152     S6        JAN. 18, 1838              
+  72  119 2 S252029       Y=19 N=27                WALKER, MISS.              
+  72  119 3 TO TABLE THE MOTION TO RECONSIDER VOTE BY WHICH S. 6 WAS          
+  72  119 4 MADE THE ORDER OF THE DAY FOR TUESDAY FORTNIGHT.                  
+  73  120 1 G-6-  -120B   J 25-2-153     S6        JAN. 18, 1838              
+  73  120 2 S252030       Y=25 N=21                ROANE, VA.                 
+  73  120 3 TO RECONSIDER VOTE BY WHICH TUESDAY FORTNIGHT WAS FIXED AS        
+  73  120 4 THE DAY FOR CONSIDERING S. 6.                                     
+  74  121 1 G-6-  -121A   J 25-2-156     S31       JAN. 19, 1838              
+  74  121 2 S252031       Y=17 N=24                HUBBARD, N.H.              
+  74  121 3 TO RECOMMIT S. 31, A BILL RELATING TO THE CLAIM OF THE            
+  74  121 4 EXECUTRIX OF THE ESTATE OF RICHARD MEADE, TO THE                  
+  74  121 5 COMMITTEE ON CLAIMS WITH INSTRUCTIONS TO INVESTIGATE IT           
+  74  121 6 THOROUGHLY AND AMEND IT BY STRIKING OUT SECTION 2.                
+  75  122 1 G-6-  -121B   J 25-2-157     S31       JAN. 19, 1838              
+  75  122 2 S252032       Y=23 N=16                CLAY, KY.                  
+  75  122 3 TO PASS S. 31, A BILL RELATING TO THE CLAIM OF THE                
+  75  122 4 EXECUTRIX OF THE ESTATE OF RICHARD MEADE.                         
+  76  123 1 G-6-  -125    J 25-2-163     S1        JAN. 22, 1838              
+  76  123 2 S252023       Y=15 N=21                SMITH, IND.                
+  76  123 3 TO AMEND S. 1, (APP. JULY 7, 1838, 5 STAT 304), A BILL            
+  76  123 4 PROVIDING FOR THE BETTER SECURITY OF LIVES OF PASSENGERS          
+  76  123 5 ON VESSELS, BY PROVIDING THAT ANY OFFICER WHO SHALL BE            
+  76  123 6 GUILTY OF RACING WITH ANY STEAMBOAT, SHALL BE GUILTY OF A         
+  76  123 7 HIGH MISDEMEANOR.                                                 
+  77  124 1 G-6-  -133    J 25-2-170     S138      JAN. 24, 1838              
+  77  124 2 S252034       Y=15 N=27                BAYARD, DEL.               
+  77  124 3 TO RECOMMIT S. 138, (APP. JULY 5, 1838, 5 STAT 256), A BILL       
+  77  124 4 INCREASING THE ARMY, TO COMMITTEE ON MILITARY                     
+  77  124 5 OFFICERS, WITH INSTRUCTIONS TO ADD THREE REGIMENTS.               
+  78  125 1 G-6-  -137A   J 25-2-174A    S2        JAN. 25, 1838              
+  78  125 2 S252035       Y=21 N=25                CLAY, KY.                  
+  78  125 3 TO ADJOURN AND TERMINATE DEBATE ON S. 2                           
+  78  125 4 (APP. JUNE 22, 1838, 5 STAT 251), A BILL GRANTING THE             
+  78  125 5 RIGHT OF PRE-EMPTION TO ACTUAL SETTLERS ON PUBLIC LANDS.          
+  79  126 1 G-6-  -137B   J 25-2-174B    S2        JAN. 25, 1838              
+  79  126 2 S252036       Y=18 N=29                SMITH, IND.                
+  79  126 3 TO AMEND S. 2 BY REFUSING THE RIGHT OF PRE-EMPTION                
+  79  126 4 TO FAMILIES WHO TOOK POSSESSION BEFORE THE RESOLUTION OF          
+  79  126 5 THE INDIAN TITLE TO THE LAND.                                     
+  80  127 1 G-6-  -137C   J 25-2-175A    S2        JAN. 25, 1838              
+  80  127 2 S252037       Y=18 N=28                SMITH, IND.                
+  80  127 3 TO AMEND THE AMENDMENT TO S. 2 BY DENYING PRE-EMPTION             
+  80  127 4 TO SETTLERS ON LANDS TO WHICH THE INDIAN TITLE HAD NOT            
+  80  127 5 BEEN RESOLVED SIX MONTHS PRIOR TO DECEMBER FIRST LAST.            
+  81  128 1 G-6-  -138    J 25-2-175B    S2        JAN. 25, 1838              
+  81  128 2 S252038       Y=36 N=10                WHITE, TENN.               
+  81  128 3 TO AMEND S. 2 BY GIVING EVERY MAN WHO WAS AN ACTUAL SETTLER       
+  81  128 4 ON THE PUBLIC LANDS ON THE FIRST OF DECEMBER LAST, A              
+  81  128 5 PRE-EMPTION, PROVIDED THE INDIAN TITLE WAS RESOLVED               
+  81  128 6 AT THE TIME OF SETTLEMENT.                                        
+  82  129 1 G-6-  -144A   J 25-2-178     S2        JAN. 26, 1838              
+  82  129 2 S252039       Y=26 N=21                CRITTENDEN, KY.            
+  82  129 3 TO AMEND S. 2 BY ELIMINATING THAT PART OF BILL RELATING TO        
+  82  129 4 SETTLEMENT AND BY INSERTING A PROVISION REQUIRING RESIDENCE       
+  82  129 5 THEREON BEFORE THE FIRST DAY OF DECEMBER 1837, THE                
+  82  129 6 CULTIVATION OF AT LEAST ONE ACRE, AND CONTINUED RESIDENCE         
+  82  129 7 AND CULTIVATION TO THIS TIME.                                     
+  83  130 1 G-6-  -144B   J 25-2-179A    S2        JAN. 26, 1838              
+  83  130 2 S252040       Y=23 N=25                BAYARD, DEL.               
+  83  130 3 TO POSTPONE CONSIDERATION OF S. 2 UNTIL MONDAY IN ORDER TO        
+  83  130 4 GIVE MEMBERS TIME TO LOOK INTO THE RULES OF THE GENERAL           
+  83  130 5 LAND OFFICE.                                                      
+  84  131 1 G-6-  -144C   J 25-2-179B    S2        JAN. 26, 1838              
+  84  131 2 S252041       Y=30 N=17                MORRIS, OHIO               
+  84  131 3 TO ADJOURN AND TERMINATE DEBATE ON S. 2.                          
+  85  132 1 G-6-  -       J 25-2-181A    S2        JAN. 27, 1838              
+  85  132 2 S252042       Y=13 N=27                BAYARD, DEL.               
+  85  132 3 TO AMEND S. 2 BY REQUIRING THAT PRIOR TO ANY ENTRIES BEING        
+  85  132 4 MADE UNDER THIS ACT, PROOF OF SETTLEMENT BE MADE UNDER THE        
+  85  132 5 RULES NOW IN FORCE.                                               
+  86  133 1 G-6-  -       J 25-2-181B    S2        JAN. 27, 1838              
+  86  133 2 S252043       Y=15 N=28                MERRICK, MD.               
+  86  133 3 TO AMEND S. 2 BY PROVIDING THAT THE PRIVILEGES OF THE             
+  86  133 4 ACT SHALL APPLY ONLY TO THOSE WHO WERE CITIZENS PRIOR             
+  86  133 5 TO DECEMBER 1, 1837.                                              
+  87  134 1 G-6-  -       J 25-2-182A    S2        JAN. 27, 1838              
+  87  134 2 S252044       Y=21 N=23                CLAY, KY.                  
+  87  134 3 TO AMEND S. 2 BY PROHIBITING SETTLEMENT AFTER                     
+  87  134 4 DECEMBER 1, 1837.                                                 
+  88  135 1 G-5-  -       J 25-2-182B    S2        JAN. 27, 1838              
+  88  135 2 S252045       Y=18 N=26                SMITH, IND.                
+  88  135 3 TO ADJOURN, MOTION MADE DURING CONSIDERATION OF S. 2.             
+  89  136 1 G-6-  -       J 25-2-182C    S2        JAN. 27, 1838              
+  89  136 2 S252046       Y=21 N=21                CRITTENDEN, KY.            
+  89  136 3 TO ADJOURN, MOTION MADE DURING DEBATE ON S. 2; VICE               
+  89  136 4 PRESIDENT VOTING IN THE NEGATIVE.                                 
+  90  137 1 G-6-  -       J 25-2-182D    S2        JAN. 27, 1838              
+  90  137 2 S252047       Y=17 N=19                SMITH, IND.                
+  90  137 3 TO AMEND S. 2 BY PROVIDING THAT THE ACT SHALL NOT APPLY TO        
+  90  137 4 THE LAND CEDED BY THE TREATY OF 1837 WITH THE                     
+  90  137 5 MIAMI INDIANS.                                                    
+  91  138 1 G-6-  -       J 25-2-183A    S2        JAN. 27, 1838              
+  91  138 2 S252048       Y=10 N=27                PRENTISS, VT.              
+  91  138 3 TO AMEND S. 2 BY PROVIDING THAT NO PERSON SHALL BE ENTITLED       
+  91  138 4 TO ANY RIGHTS OR A PATENT UNTIL HE PAYS AT LEAST                  
+  91  138 5 ONE-HALF OF THE REAL VALUE OF THE LAND IN ADDITION TO THE         
+  91  138 6 STATUTE MINIMUM PRICE.                                            
+  92  139 1 G-6-  -145    J 25-2-183B    S2        JAN. 27, 1838              
+  92  139 2 S252049       Y=26 N=12                WALKER, MISS.              
+  92  139 3 TO ORDER ENGROSSMENT OF S. 2.                                     
+  93  140 1 G-6-  -149A   J 25-2-191A    S84       JAN. 30, 1838              
+  93  140 2 S252050       Y=29 N=10                LINN, MO.                  
+  93  140 3 TO PASS S. 84, A BILL MAKING FINAL ADJUSTMENT AND SETTLEMENT      
+  93  140 4 OF CLAIMS TO LAND DERIVED UNDER GRANTS TO BARON BASTROP           
+  93  140 5 AND OTHERS.                                                       
+  94  141 1 G-6-  -149B   J 25-2-191B    S2        JAN. 30, 1838              
+  94  141 2 S252051       Y=30 N=18                WALKER, MISS.              
+  94  141 3 TO PASS S. 2.                                                     
+  95  142 1 G-6-  -153    J 25-2-197     S157      FEB. 1, 1838               
+  95  142 2 S252052       Y=24 N=13                CALHOUN, S.C.              
+  95  142 3 TO AMEND S. 157, A BILL IMPOSING ADDITIONAL DUTIES AS             
+  95  142 4 DEPOSITORIES ON CERTAIN PUBLIC OFFICERS AND REGULATING THE        
+  95  142 5 SAFEKEEPING AND DISPOSAL OF THE U.S. PUBLIC MONEYS,               
+  95  142 6 BY ELIMINATING THE SECTION RELATING TO THE FUNDING OF THE         
+  95  142 7 SURPLUS IN THE TREASURY WHEN IT EXCEEDS 4 MILLION                 
+  95  142 8 DOLLARS BY INVESTING IN STATE OR U.S. INTEREST-BEARING            
+  95  142 9 SECURITIES.                                                       
+  96  143 1 G-6-  -154    J 25-2-198     S157      FEB. 1, 1838               
+  96  143 2 S252053       Y=28 N=17                WRIGHT, N.Y.               
+  96  143 3 TO AMEND S. 157, A BILL IMPOSING DUTIES AS DEPOSITORIES           
+  96  143 4 ON CERTAIN PUBLIC OFFICERS AND REGULATING THE DISPOSAL            
+  96  143 5 OF U.S. PUBLIC MONEYS, BY FIXING THE SALARY OF THE                
+  96  143 6 RECEIVER GENERAL IN NEW YORK AT $3,000 PER ANNUM.                 
+  97  144 1 G-6-  -156    J 25-2-201     S93       FEB. 2, 1838               
+  97  144 2 S252054       Y=23 N=17                HUBBARD, N.H.              
+  97  144 3 TO RECOMMIT TO THE COMM. ON CLAIMS S. 93, A BILL RELATING TO      
+  97  144 4 THE CLAIM OF THOMAS L. WINTHROP, WITH INSTRUCTIONS                
+  97  144 5 TO SEND BACK A NEW BILL REFERRING THE MATTER TO THE THIRD         
+  97  144 6 AUDITOR OF THE TREASURY.                                          
+  98   13 1               EX J 5-70      SRE       FEB. 8, 1838               
+  98   13 2 E252001A      Y=33 N=6                 BUCHANAN, PA.              
+  98   13 3 TO ADVISE AND CONSENT TO THE NOMINATION OF                        
+  98   13 4 HENRY A. MUHLENBERG AS ENVOY EXTRAORDINARY AND MINISTER           
+  98   13 5 PLENIPOTENTIARY TO AUSTRIA.                                       
+  99   14 1               EX J 5-72      SRE       FEB. 16, 1838              
+  99   14 2 E252001B      Y=29 N=1                 WHITE, TENN.               
+  99   14 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE                  
+  99   14 4 TREATY OF PEACE, AND FRIENDSHIP BETWEEN THE U.S., AND             
+  99   14 5 REPRESENTATIVES OF THE KIOWAY, KATAKA, AND TOWA-KA-RO             
+  99   14 6 NATIONS OF INDIANS, CONCLUDED ON MAY 26, 1837.                    
+ 100   15 1               EX J 5-73A     SRE       FEB. 16, 1838              
+ 100   15 2 E252002       Y=29 N=0                 WHITE, TENN.               
+ 100   15 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY           
+ 100   15 4 MADE BETWEEN CAREY A. HARRIS, THERETO SPECIALLY AUTHORIZED        
+ 100   15 5 BY THE PRESIDENT AND THE YANCTON TRIBE OF SOUIX INDIANS,          
+ 100   15 6 ON OCT. 21, 1837.                                                 
+ 101   16 1               EX J 5-73B     SRE       FEB. 16, 1838              
+ 101   16 2 E252003       Y=27 N=0                 WHITE, TENN.               
+ 101   16 3 TO ADVISE AND CONSENT TO RATIFICATION OF THE TREATY               
+ 101   16 4 BETWEEN CAREY A. HARRIS, THERETO SPECIALLY AUTHORIZED             
+ 101   16 5 BY THE PRESIDENT, AND THE SACS AND FOXES OF MISSOURI              
+ 101   16 6 ON OCT. 21, 1837.                                                 
+ 102   17 1               EX J 5-73C     SRE       FEB. 16, 1838              
+ 102   17 2 E252004       Y=30 N=0                 WHITE, TENN.               
+ 102   17 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY           
+ 102   17 4 MADE BETWEEN JOSHUA PILCHER, THERETO SPECIALLY AUTHORIZED         
+ 102   17 5 BY THE PRESIDENT, AND THE IOWAY INDIANS ON NOV. 23, 1837.         
+ 103   18 1               EX J 5-73D     SRE       FEB. 16, 1838              
+ 103   18 2 E252005       Y=0 N=27                 WHITE, TENN.               
+ 103   18 3 TO DECIDE THE QUESTION RELATING TO ELIMINATING FROM THE           
+ 103   18 4 SECOND ARTICLE, THE APPROPRIATION OF $14,000 FOR PAYMENT OF       
+ 103   18 5 DEBTS IN THE TREATY WITH THE CONFEDERATED TRIBES OF SACS          
+ 103   18 6 AND FOXES; THE QUESTION BEING, SHALL THE WORDS STAND.             
+ 104   19 1               EX J 5-74A     SRE       FEB. 16, 1838              
+ 104   19 2 E252006       Y=29 N=0                 WHITE, TENN.               
+ 104   19 3 TO AMEND THE RATIFICATION OF THE TREATY MADE AT THE CITY          
+ 104   19 4 OF WASHINGTON, BETWEEN CAREY A. HARRIS, THERETO AUTHORIZED        
+ 104   19 5 BY THE PRESIDENT, AND THE CONFEDERATED TRIBES OF SACS AND         
+ 104   19 6 FOXES, ON OCT. 21, 1837 BY INCREASING THE APPROPRIATION           
+ 104   19 7 FOR THE PAYMENT OF DEBTS TO THE INDIANS FROM                      
+ 104   19 8 $14,000 TO $24,000.                                               
+ 105   20 1               EX J 5-74B     SRE       FEB. 16, 1838              
+ 105   20 2 E252007       Y=29 N=0                 WHITE, TENN.               
+ 105   20 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY           
+ 105   20 4 BETWEEN CAREY A. HARRIS, THERETO AUTHORIZED BY THE PRES.,         
+ 105   20 5 AND THE TRIBES OF SACS AND FOXES ON OCT. 21, 1837, AS             
+ 105   20 6 AMENDED TO INCREASE THE APPROPRIATION FOR THE PAYMENT             
+ 105   20 7 OF DEBTS, AND TO ELIMINATE THE APPROPRIATION TO SUPPLY            
+ 105   20 8 THEM WITH PROVISIONS.                                             
+ 106  145 1 G-6-  -194    J 25-2-244     S86       FEB. 21, 1838              
+ 106  145 2 S252055       Y=21 N=21                TIPTON, IND.               
+ 106  145 3 TO POSTPONE PREVIOUS ORDER IN ORDER TO CONSIDER S. 86,            
+ 106  145 4 A BILL PROVIDING FOR THE CONTINUATION OF THE CUMBERLAND           
+ 106  145 5 ROAD THROUGH OHIO, INDIANA, AND ILLINOIS; VICE PRESIDENT          
+ 106  145 6 VOTING NAY.                                                       
+ 107  146 1 G-6-  -195    J 25-2-245     S86       MAR. 5, 1838               
+ 107  146 2 S252056       Y=18 N=19                NORVELL, MICH.             
+ 107  146 3 TO PRINT AMENDMENT AND LAY ON THE TABLE S. 86, A BILL             
+ 107  146 4 CONTINUING THE CUMBERLAND ROAD THROUGH INDIANA, ILLINOIS,         
+ 107  146 5 AND OHIO.                                                         
+ 108  147 1 G-6-  -       J 25-2-262     PROC      MAR. 2, 1838               
+ 108  147 2 S252057       Y=15 N=23                CLAY, KY.                  
+ 108  147 3 THAT WHEN THE SENATE ADJOURNS TODAY, IT WILL DO SO UNTIL          
+ 108  147 4 MONDAY.                                                           
+ 109  148 1 G-6-  -223A   J 25-2-272A    S132      MAR. 6, 1838               
+ 109  148 2 S252058       Y=20 N=18                PRENTISS, VT.              
+ 109  148 3 TO AMEND S. 132, A BILL ESTABLISHING A SURVEYOR                   
+ 109  148 4 GENERALS OFFICE IN ILLINOIS, BY FIXING SALARY AT                  
+ 109  148 5 $2,000.                                                           
+ 110  149 1 G-6-  -223B   J 25-2-272B    S132      MAR. 6, 1838               
+ 110  149 2 S252059       Y=29 N=15                CLAY, KY.                  
+ 110  149 3 TO LAY ON THE TABLE S. 132, A BILL ESTABLISHING A SURVEYOR        
+ 110  149 4 GENERALS OFFICE IN ILLINOIS.                                      
+ 111  150 1 G-6-  -227    J 25-2-276     S157      MAR. 7, 1838               
+ 111  150 2 S252060       Y=23 N=29                BUCHANAN, PA.              
+ 111  150 3 TO POSTPONE CONSIDERATION OF S. 157, A BILL IMPOSING              
+ 111  150 4 ADDITIONAL DUTIES AS DEPOSITORIES ON CERTAIN PUBLIC OFFICERS      
+ 111  150 5 AND REGULATING THE DISPOSAL OF U.S. PUBLIC MONEYS.                
+ 112  151 1 G-6-  -231    J 25-2-279     S157      MAR. 9, 1838               
+ 112  151 2 S252061       Y=19 N=32                PRESTON, S.C.              
+ 112  151 3 TO ACCEPT THE AMENDMENT TO S. 157 WHICH DESIGNATES AS DEPO-       
+ 112  151 4 SITORIES ONLY THOSE BANKS WHOSE STOCK IS OWNED IN WHOLE OR        
+ 112  151 5 PART BY THE STATE.                                                
+ 113  152 1 G-6-  -239    J 25-2-291     S29       MAR. 14, 1838              
+ 113  152 2 S252062       Y=17 N=21                LYON, MICH.                
+ 113  152 3 TO AMEND S. 29 (APP. JULY 7, 1838, 5 STAT 303), A BILL            
+ 113  152 4 MAKING APPROPRIATIONS FOR CERTAIN ROADS IN WISCONSIN              
+ 113  152 5 TERRITORY, BY APPROPRIATING AN ADDITIONAL $5,000 FOR OPENING      
+ 113  152 6 A ROAD FROM LAKE MICHIGAN TO THE MISSISSIPPI.                     
+ 114  153 1 G-6-  -247    J 25-2-300     SRE       MAR. 20, 1838              
+ 114  153 2 S252063       Y=32 N=9                 WALKER, MISS.              
+ 114  153 3 TO LAY ON THE TABLE A RESOLUTION PROVIDING FOR THE                
+ 114  153 4 TRANSFER OF SLAVES FROM THE U.S. TO TEXAS.                        
+ 115  154 1 G-6-  -250    J 25-2-305A    S157      MAR. 21, 1838              
+ 115  154 2 S252064       Y=20 N=29                RIVES, VA.                 
+ 115  154 3 TO AMEND BY SUBSTITUTION S. 157, SO AS TO IMPOSE                  
+ 115  154 4 ADDITIONAL DUTIES UPON CERTAIN PUBLIC OFFICERS, APPOINT           
+ 115  154 5 A RECEIVER GENERAL OF PUBLIC MONEYS, AND REGULATE THE             
+ 115  154 6 CURRENCY.                                                         
+ 116  155 1 G-6-  -251    J 25-2-305B    S157      MAR. 21, 1838              
+ 116  155 2 S252065       Y=22 N=30                BENTON, MO.                
+ 116  155 3 TO AMEND S. 157, BY ADOPTING A SUBSTITUTE WHICH IMPOSES           
+ 116  155 4 ADDITIONAL DUTIES AS DEPOSITORIES UPON CERTAIN PUBLIC             
+ 116  155 5 OFFICIALS, REGULATES DEPOSITS OF U.S. PUBLIC MONEYS, AND          
+ 116  155 6 PROVIDES FOR THE APPOINTMENT OF A RECEIVER GENERAL OF PUBLIC      
+ 116  155 7 MONEYS.                                                           
+ 117  156 1 G-6-  -259A   J 25-2-312     S157      MAR. 24, 1838              
+ 117  156 2 S252066       Y=42 N=9                 KING, ALA.                 
+ 117  156 3 TO AMEND S. 157 BY GRADUALLY PROHIBITING THE GOVERNMENT           
+ 117  156 4 FROM RECEIVING BANK NOTES, BEGINING 1839 INSTEAD OF 1838.         
+ 118  157 1 G-6-  -259B   J 25-2-313     S157      MAR. 24, 1838              
+ 118  157 2 S252067       Y=31 N=21                CUTHBERT, GA.              
+ 118  157 3 TO AMEND S. 157, BY STRIKING THE 23RD SECTION.                    
+ 119  158 1 G-6-  -259C   J 25-2-314A    S157      MAR. 24, 1838              
+ 119  158 2 S252068       Y=22 N=30                TIPTON, IND.               
+ 119  158 3 TO AMEND S. 157, BY PROVIDING THAT ALL SUMS PAYABLE TO THE        
+ 119  158 4 U.S. BE PAID IN LEGAL CURRENCY.                                   
+ 120  159 1 G-6-  -259D   J 25-2-314B    S157      MAR. 24, 1838              
+ 120  159 2 S252069       Y=8 N=44                 BENTON, MO.                
+ 120  159 3 TO AMEND THE AMENDMENT TO S. 157 WHICH AMENDMENT PROVIDES         
+ 120  159 4 THAT ALL SUMS PAYABLE TO U.S. BE PAID IN LEGAL CURRENCY,          
+ 120  159 5 BY PROVIDING THAT ALL PUBLIC DUES BE PAID IN CASH WITH NO         
+ 120  159 6 CHANGE IN THE MONEY MEDIUM.                                       
+ 121  160 1 G-6-  -259E   J 25-2-315A    S157      MAR. 24, 1838              
+ 121  160 2 S252070       Y=37 N=14                WEBSTER, MASS.             
+ 121  160 3 TO AMEND S. 157 BY SUBSTITUTING FOR SEC. 23 A PROVISION           
+ 121  160 4 THAT THE TREASURY SHALL NOT CHANGE MONEY OR MEDIUM OF             
+ 121  160 5 PAYMENT OF PUBLIC DUES.                                           
+ 122  161 1 G-6-  -259F   J 25-2-315B    S157      MAR. 24, 1838              
+ 122  161 2 S252071       Y=27 N=25                WRIGHT, N.Y.               
+ 122  161 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 157.                 
+ 123   21 1               EX J 5-94      SRE       MAR. 2L, 1838              
+ 123   21 2 E252008       Y=40 N=0                 BUCHANAN, PA.              
+ 123   21 3 TO CONSENT, AS IN THE COMMITTEE OF THE WHOLE, TO THE              
+ 123   21 4 RATIFICATION OF THE TREATY OF COMMERCE AND NAVIGATION             
+ 123   21 5 CONCLUDED ON DEC. 22, 1837 BETWEEN THE U.S. AND GREECE.           
+ 124   22 1               EX J 5-95      SRE       MAR. 26, 1838              
+ 124   22 2 E252009       Y=38 N=0                 BUCHANAN, PA.              
+ 124   22 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY           
+ 124   22 4 OF COMMERCE AND NAVIGATION BETWEEN THE U.S. AND GREECE,           
+ 124   22 5 CONCLUDED ON DEC. 10, 1837.                                       
+ 125  162 1 G-6-  -264A   J 25-2-317     SRE       MAR. 26, 1838              
+ 125  162 2 S252072       Y=36 N=10                CLAY, ALA.                 
+ 125  162 3 TO TABLE THE RESOLUTION CONCERNING COMPLAINTS AND APPEAL FOR      
+ 125  162 4 THE RELIEF OF THE CHEROKEE INDIANS AGAINST ENFORCEMENT OF         
+ 125  162 5 THE CHEROKEE TREATY.                                              
+ 126  163 1 G-6-  -264B   J 25-2-319     S157      MAR. 26, 1838              
+ 126  163 2 S252073       Y=23 N=29                MCKEAN, PA.                
+ 126  163 3 TO POSTPONE S. 157 UNTIL THE NEXT SESSION OF CONGRESS.            
+ 127  164 1 G-6-  -264C   J 25-2-320     S157      MAR. 26, 1838              
+ 127  164 2 S252074       Y=27 N=25                WRIGHT, N.Y.               
+ 127  164 3 TO PASS S. 157.                                                   
+ 128  165 1               J 25-2-326     HR35      MAR. 29, 1838              
+ 128  165 2 S252075       Y=10 N=21                HUBBARD, N.H.              
+ 128  165 3 TO POSTPONE INDEFINITELY CONSIDERATION OF H.R. 35                 
+ 128  165 4 (APP. APR. 6, 1838, 6 STAT 711), A BILL RELATING TO THE           
+ 128  165 5 CLAIM OF WILLIAM R. TAYLOR, ADMINISTRATOR OF THE ESTATE           
+ 128  165 6 OF JONATHAN TAYLOR.                                               
+ 129  166 1               J 25-2-328     S29       MAR. 30, 1838              
+ 129  166 2 S252076       Y=23 N=17                WALKER, MISS.              
+ 129  166 3 TO AMEND S. 29 (APP JULY 7, 1838, 5 STAT 303), A BILL             
+ 129  166 4 MAKING APPROPRIATIONS FOR CERTAIN ROADS IN WISCONSIN, BY          
+ 129  166 5 PROVIDING THAT THE U.S. SHALL NOT BE OBLIGATED TO MAKE            
+ 129  166 6 FURTHER APPROPRIATIONS FOR SUCH ROADS.                            
+ 130  167 1 G-6-  -282    J 25-2-339     S108      APR. 5, 1838               
+ 130  167 2 S252077       Y=10 N=20                BAYARD, DEL.               
+ 130  167 3 TO AMEND S. 108 (APP. JULY 7, 1838, 6 STAT L. 730), A BILL        
+ 130  167 4 RELATING TO CLAIM OF LEGAL REPRESENTATIVES OF THE LATE            
+ 130  167 5 MAJOR HENRY FISHER, BY ADDING INTEREST AT THE RATE OF             
+ 130  167 6 6 PER CENT ON THE AMOUNT OF CLAIM.                                
+ 131  168 1               25-2-341       PROC      APR. 6, 1838               
+ 131  168 2 S252078       Y=19 N=14                NORVELL, MICH.             
+ 131  168 3 THAT WHEN SENATE ADJOURNS, IT DO SO UNTIL MONDAY NEXT.            
+ 132  169 1 G-6-  -       J 25-2-342     S250      APR. 6, 1838               
+ 132  169 2 S252079       Y=5 N=27                 SEVIER, ARK.               
+ 132  169 3 TO TABLE, IN COMMITTEE OF THE WHOLE, S. 250, A BILL               
+ 132  169 4 PROHIBITING DUELLING IN THE DISTRICT OF COLUMBIA AND              
+ 132  169 5 PROVIDING FOR THE PUNISHMENT THEREOF.                             
+ 133  170 1 G-6-  -287    J 25-2-343A    S250      APR. 6, 1838               
+ 133  170 2 S252080       Y=12 N=20                CLAYTON, DEL.              
+ 133  170 3 TO AMEND THE AMENDMENT TO S. 250 BY IMPOSING A FINE NOT           
+ 133  170 4 TO EXCEED $2,000 AND IMPRISONMENT BY A TERM OF NOT LESS           
+ 133  170 5 THAN TWO YEARS.                                                   
+ 134  171 1 G-6-  -       J 25-2-343B    S250      APR. 6, 1838               
+ 134  171 2 S252081       Y=17 N=15                NORVELL, MICH.             
+ 134  171 3 TO AMEND S. 250 BY REDUCING THE MAXIMUM PENALTY FROM 20           
+ 134  171 4 YEARS TO 10 YEARS.                                                
+ 135  172 1 G-6-  -288A   J 25-2-343E    S250      APR. 6, 1838               
+ 135  172 2 S252082       Y=14 N=17                NILES, CONN.               
+ 135  172 3 TO AMEND S. 250 BY STIPULATING THAT ANYONE GUILTY SHALL           
+ 135  172 4 BE INCAPABLE OF HOLDING OFFICE OR APPOINTMENT UNDER               
+ 135  172 5 AUTHORITY OF U.S.                                                 
+ 136  173 1 G-6-  -288B   J 25-2-344A    S250      APR. 6, 1838               
+ 136  173 2 S252083       Y=13 N=19                WHITE, TENN.               
+ 136  173 3 TO AMEND S. 250 BY REQUIRING ALL APPOINTEES TO DECLARE            
+ 136  173 4 UNDER OATH THAT THEY HAVE NOT BEEN CONNECTED WITH ANY DUEL.       
+ 137  174 1 G-6-  -288C   J 25-2-344B    S250      APR. 6, 1838               
+ 137  174 2 S252084       Y=15 N=16                CLAY, KY.                  
+ 137  174 3 TO CONCUR, AS IN THE COMMITTEE OF THE WHOLE, WITH THE             
+ 137  174 4 AMENDMENT TO S. 250, PROVIDING FOR THE PUNISHMENT                 
+ 137  174 5 OF CITIZENS OF THE DISTRICT FOR DUELLING WITHIN OR OUTSIDE        
+ 137  174 6 THE DISTRICT.                                                     
+ 138  175 1 G-  -292      J25-2-347      S250      APR. 9, 1838               
+ 138  175 2 S252085       Y=34 N=1                 PRENTISS, VT.              
+ 138  175 3 TO PASS S. 250.                                                   
+ 139  176 1 G-6-  -295    J 25-2-348     S155      APR. 9, 1838               
+ 139  176 2 S252086       Y=23 N=11                BUCHANAN, PA.              
+ 139  176 3 TO POSTPONE, UNTIL DECEMBER, CONSIDERATION OF S. 155,             
+ 139  176 4 AN ACT SUPPLEMENTARY TO THE ACT ESTABLISHING THE                  
+ 139  176 5 NORTHERN BOUNDARY OF OHIO, AND PROVIDING FOR THE ADMISSION        
+ 139  176 6 OF THE STATE OF MICHIGAN.                                         
+ 140  177 1               J 25-2-350     HR31      APR. 11, 1838              
+ 140  177 2 S252087       Y=32 N=5                 HUBBARD, N.H.              
+ 140  177 3 TO POSTPONE INDEFINITELY H.R. 31, A BILL RELATING TO THE          
+ 140  177 4 CLAIM OF THE LEGAL REPRESENTATIVE OF BOLITHA LAWS.                
+ 141  178 1 G-6-  -303A   J 25-2-354A    S4        APR. 12, 1838              
+ 141  178 2 S252088       Y=23 N=14                TIPTON, IND.               
+ 141  178 3 TO AGREE TO THE AMENDMENT AS AMENDED TO S. 4, A BILL              
+ 141  178 4 PROVIDING FOR THE REDUCTION AND GRADUATION OF THE PRICE OF        
+ 141  178 5 PUBLIC LANDS, WHICH AMENDMENT PROHIBITS ANY PERSON FROM           
+ 141  178 6 ENTERING MORE THAN ONE SECTION OF LAND UNDER THE PROVISIONS       
+ 141  178 7 OF THIS ACT.                                                      
+ 142  179 1 G-6-  -303B   J 25-2-354B    S4        APR. 12, 1838              
+ 142  179 2 S252089       Y=22 N=15                WALKER, MISS.              
+ 142  179 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 4, A BILL            
+ 142  179 4 PROVIDING FOR THE REDUCTION AND GRADUATION OF THE PRICE OF        
+ 142  179 5 PUBLIC LANDS.                                                     
+ 143  180 1 G-6-  -305    J 25-2-356     S4        APR. 13, 1838              
+ 143  180 2 S252090       Y=27 N=16                WALKER, MISS.              
+ 143  180 3 TO PASS S. 4, A BILL PROVIDING FOR THE REDUCTION AND              
+ 143  180 4 GRADUATION OF THE PRICE OF PUBLIC LANDS.                          
+ 144  181 1 G-6-  -313    J 25-2-364     S208      APR. 17, 1838              
+ 144  181 2 S252091       Y=23 N=14                CLAYTON, DEL.              
+ 144  181 3 TO PASS S. 208, A BILL MAKING APPROPRIATIONS FOR THE              
+ 144  181 4 RELIEF OF THOMAS L. WINTHROP AND THE NEW ENGLAND-                 
+ 144  181 5 MISSISSIPPI LAND COMPANY.                                         
+ 145  182 1               J 25-2-366     SRE       APR. 18, 1838              
+ 145  182 2 S252092       Y=12 N=25                NORVELL, MICH.             
+ 145  182 3 TO TABLE THE RESOLUTION FIXING THE TIME FOR FINAL                 
+ 145  182 4 ADJOURNMENT OF THE SENATE.                                        
+ 146  183 1 G-6-  -318    J 25-2-368     JRE       APR. 19, 1838              
+ 146  183 2 S252093       Y=25 N=16                GRUNDY, TENN.              
+ 146  183 3 TO POSTPONE CONSIDERATION OF A JOINT RESOLUTION, WHICH FIXES      
+ 146  183 4 THE DAY FOR ADJOURNMENT, UNTIL MONDAY NEXT.                       
+ 147  184 1 G-6-  -319    J 25-2-371     S211      APR. 20, 1838              
+ 147  184 2 S252094       Y=27 N=14                GRUNDY, TENN.              
+ 147  184 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 211                  
+ 147  184 4 (APP. JULY 7, 1838, 5 STAT L. 297), A BILL PREVENTING             
+ 147  184 5 THE RE-ISSUE AND CIRCULATION OF BILLS, NOTES AND SECURITIES,      
+ 147  184 6 ISSUED BY CORPORATIONS CREATED BY CONGRESS.  WHICH HAVE           
+ 147  184 7 EXPIRED.                                                          
+ 148  185 1 G-6-  -324    J 25-2-373     S211      APR. 23, 1838              
+ 148  185 2 S252095       Y=27 N=13                GRUNDY, TENN.              
+ 148  185 3 TO PASS S. 211 (APP. JULY 7, 1838, 5 STAT L. 297), A BILL         
+ 148  185 4 PREVENTING THE RE-ISSUE AND CIRCULATION OF BILLS, NOTES,          
+ 148  185 5 AND SECURITIES, WHICH HAVE EXPIRED, OF CORPORATIONS CREATED       
+ 148  185 6 BY CONGRESS.                                                      
+ 149   23 1               EX J 5-103     SRE       APR. 24, 1838              
+ 149   23 2 E252010       Y=0 N=29                 WHITE, TENN.               
+ 149   23 3 TO DECIDE WHETHER TO RETAIN THE 6TH ARTICLE OF TREATY WITH        
+ 149   23 4 THE SAGINAW TRIBE WHICH PROPOSES THAT SAID TRIBE                  
+ 149   23 5 SET APART $9,800, FROM THE SALE OF THEIR LANDS, TO BE PAID        
+ 149   23 6 TO THE INDIVIDUALS NAMED IN A LIST OF CLAIMS.                     
+ 150   24 1               EX J 5-104     SRE       APR. 24, 1838              
+ 150   24 2 E252011       Y=28 N=0                 WHITE, TENN.               
+ 150   24 3 TO CONSENT TO THE RATIFICATION OF THE TREATY, BETWEEN             
+ 150   24 4 THE U.S. AND THE SAGINAW TRIBE MADE ON JAN. 14, 1837; AND         
+ 150   24 5 TO FURTHER CONSENT TO THE RATIFICATION OF THE TREATY MADE         
+ 150   24 6 ON DEC. 20, 1837, AS AMENDED.                                     
+ 151   25 1               EX J 5-105A    SRE       APR. 24, 1838              
+ 151   25 2 E252012       Y=0 N=28                 WHITE, TENN.               
+ 151   25 3 TO DECIDE WHETHER TO RETAIN AN ARTICLE IN THE TREATY WITH         
+ 151   25 4 THE SEVERAL BANDS OF THE CHIPPEWA NATION MADE ON 1/23/1838;       
+ 151   25 5 SAID ARTICLE PROPOSING TO GIVE OCCUPANCY TO THE INDIAND FOR       
+ 151   25 6 FIVE YEARS ON LAND CEDED; AND TO PAY A CERTAIN PRICE PER          
+ 151   25 7 ACRE TO THE INDIANS, SHOULD THE INDIANS AGREE TO EMIGRATE         
+ 151   25 8 AND GIVE UP THEIR RESERVATIONS ON THE WEST SHORE OF SAGINAW       
+ 151   25 9 BAY.                                                              
+ 152   26 1               EX J 5-105B    SRE       APR. 25, 1838              
+ 152   26 2 E252013       Y=27 N=0                 WHITE, TENN.               
+ 152   26 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY           
+ 152   26 4 BETWEEN THE U.S. AND THE SEVERAL BANDS OF THE                     
+ 152   26 5 CHIPPEWA NATION CONCLUDED ON JAN. 23, 1838, AS AMENDED.           
+ 153  186 1 G-6-  -334    J 25-2-377     S161      APR. 25, 1838              
+ 153  186 2 S252096       Y=13 N=27                CLAY, ALA.                 
+ 153  186 3 TO TABLE S. 161, A BILL ESTABLISHING A BOARD TO EXAMINE           
+ 153  186 4 CLAIMS AGAINST THE U.S.                                           
+ 154  187 1 G-6-  -337A   J 25-2-379A    S161      APR. 26, 1838              
+ 154  187 2 S252097       Y=12 N=23                TIPTON, IND.               
+ 154  187 3 TO AMEND S. 161 BY REDUCING COMPENSATION OF EACH                  
+ 154  187 4 COMMISSIONER FROM $3,000 TO $2,500.                               
+ 155  188 1 G-6-  -337B   J 25-2-379B    S161      APR. 26, 1838              
+ 155  188 2 S252098       Y=23 N=15                PRENTISS, VT.              
+ 155  188 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 161.                 
+ 156  189 1 G-6-  -340    J 25-2-381     S75       APR. 27, 1838              
+ 156  189 2 S252099       Y=16 N=24                NORVELL, MICH.             
+ 156  189 3 TO AMEND S. 75, A BILL PROVIDING PROTECTION FOR EMIGRANTS         
+ 156  189 4 AND INDIANS WEST OF MISSOURI AND ARKANSAS, BY ELIMINATING         
+ 156  189 5 THE 8TH SECTION WHICH ALLOWS CONFEDERATION TRIBES TO              
+ 156  189 6 SELECT A DELEGATE TO CONGRESS.                                    
+ 157  190 1 G-6-  -348    J 25-2-383A    S75       APR. 29, 1838              
+ 157  190 2 S252100       Y=11 N=33                KING, ALA.                 
+ 157  190 3 TO AMEND S. 75 BY SETTING APART U.S. TERRITORY NORTH OF THE       
+ 157  190 4 MISSOURI AND WEST OF THE MISSISSIPPI, TO WHICH THE INDIAN         
+ 157  190 5 TITLE HAS NOT BEEN EXTINGUISHED, FOR THE NORTHERN INDIANS.        
+ 158  191 1 G-6-  -348    J 25-2-383B    S75       APR. 29, 1838              
+ 158  191 2 S252101       Y=38 N=6                 WHITE, TENN.               
+ 158  191 3 TO ORDER ENGROSSMENT, AND THIRD READING OF S. 75.                 
+ 159  192 1 G-6-  -352A   J 25-2-385     S75       MAY 2, 1838                
+ 159  192 2 S252102       Y=39 N=6                 WHITE, TENN.               
+ 159  192 3 TO PASS S. 75.                                                    
+ 160  193 1 G-6-  -352B   J 25-2-386     S11       MAY 3, 1838                
+ 160  193 2 S252103       Y=28 N=19                WRIGHT, N.Y.               
+ 160  193 3 TO REFER S. 11 (APP. JUNE 1, 1838, 5 STAT L. 310), A BILL         
+ 160  193 4 RESPECTING RECEIPTS AND DISBURSEMENTS OF THE TREASURY, TO         
+ 160  193 5 THE COMMITTEE ON FINANCE FOR RECOMMENDATIONS.                     
+ 161  194 1 G-6-  -356    J 25-2-389A    S153      MAY 7, 1838                
+ 161  194 2 S252104       Y=6 N=29                 WALKER, MISS.              
+ 161  194 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 153, A BILL          
+ 161  194 4 INCREASING THE COMPENSATION OF COMMISSIONER OF GENERAL            
+ 161  194 5 LAND OFFICES.                                                     
+ 162  195 1 G-6-  -357    J 25-2-389B    S47       MAY 7, 1838                
+ 162  195 2 S252105       Y=22 N=18                SEVIER, ARK.               
+ 162  195 3 TO AMEND S. 47, A BILL AUTHORIZING THE ERECTION OF A              
+ 162  195 4 HOSPITAL IN WASHINGTON, D.C., BY RESTRICTING HOSPITALIZATION      
+ 162  195 5 TO LUNATICS, SEAMEN AND SOLDIERS.                                 
+ 163  196 1 G-6-  -357    J 25-2-390     S218      MAY 7, 1838                
+ 163  196 2 S252106       Y=26 N=12                SEVIER, ARK.               
+ 163  196 3 TO POSTPONE INDEFINITELY CONSIDERATION OF S. 218, A BILL          
+ 163  196 4 INCREASING THE SALARIES OF CERTAIN U.S. DISTRICT JUDGES.          
+ 164   27 1               EX J 5-109     SRE       MAY 10, 1838               
+ 164   27 2 E252014       Y=34 N=3                 BUCHANAN, PA.              
+ 164   27 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE                  
+ 164   27 4 CONVENTION BETWEEN THE U.S. AND THE REPUBLIC OF TEXAS FOR         
+ 164   27 5 MAKING THE BOUNDARY BETWEEN THEM, CONCLUDED ON                    
+ 164   27 6 APR. 25, 1838.                                                    
+ 165  197 1 G-6-  -360    J 25-2-392     S47       MAY 10, 1838               
+ 165  197 2 S252107       Y=23 N=20                BUCHANAN, PA.              
+ 165  197 3 TO POSTPONE CONSIDERATION OF S. 47 UNTIL THE FIRST MONDAY         
+ 165  197 4 OF DECEMBER NEXT.  S. 47 IS A BILL AUTHORIZING                    
+ 165  197 5 THE ERECTION OF A HOSPITAL IN WASHINGTON D.C., IN ORDER           
+ 165  197 6 TO TEST THE SENSE OF SENATE.                                      
+ 166  198 1 G-6-  -368    J 25-2-395     S270      MAY 10, 1838               
+ 166  198 2 S252108       Y=29 N=12                BUCHANAN, PA.              
+ 166  198 3 TO AMEND SEC. 2 OF S. 270 (APP. JUNE 1, 1838, 5 STAT L. 232)      
+ 166  198 4 A BILL CONTINUING THE CORPORATE EXISTENCE OF BANKS IN THE         
+ 166  198 5 DISTRICT OF COLUMBIA, BY MAKING THE CAPITAL STOCK OF THE          
+ 166  198 6 BANK $335,000 AND REVISISNG THE VALUE OF SHARES.                  
+ 167   28 1               EX J 5-110     SRE       MAY 12, 1838               
+ 167   28 2 E252015       Y=33 N=0                 WHITE, TENN.               
+ 167   28 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY           
+ 167   28 4 WITH THE FIRST CHRISTIAN AND ORCHARD PARTIES OF THE               
+ 167   28 5 ONEIDA INDIANS, CONCLUDED ON FEB. 3, 1838.                        
+ 168  199 1 G-6-  -       J 25-2-397     PROC      MAY 12, 1838               
+ 168  199 2 S252109       Y=26 N=15                BENTON, MO.                
+ 168  199 3 TO GO INTO EXECUTIVE SESSION.                                     
+ 169  200 1 G-6-  -376    J 25-2-400     S270      MAY 15, 1838               
+ 169  200 2 S252110       Y=15 N=23                ALLEN, OHIO                
+ 169  200 3 TO TABLE S. 270.                                                  
+ 170  201 1 G-6-  -379    J 25-2-401     SR11      MAY 16, 1838               
+ 170  201 2 S252111       Y=23 N=19                ALLEN, OHIO                
+ 170  201 3 TO PRINT 30,000 EXTRA COPIES OF THE REPORT OF THE COMMITTEE       
+ 170  201 4 ON FINANCE ON S.R. 11, (APP. JUNE 1, 1838, 5 STAT 310),           
+ 170  201 5 A BILL MAKING BANK NOTES RECEIVABLE AND PAYABLE IN                
+ 170  201 6 GOVERNMENT RECEIPTS AND EXPENDITURES.                             
+ 171  202 1 G-6-  -381    J 25-2-402     S270      MAY 17, 1838               
+ 171  202 2 S252112       Y=17 N=18                ROANE, VA.                 
+ 171  202 3 TO TABLE A RESOLUTION CONCERNING THE CONDITION OF THE BANKS       
+ 171  202 4 IN THE DISTRICT OF COLUMBIA, APPLYING FOR EXTENSION               
+ 171  202 5 OF THEIR CHARTERS, AND CONSIDER S. 270.                           
+ 172  203 1 G-6-  -382A   J 25-2-403A    SRE       MAY 17, 1838               
+ 172  203 2 S252113       Y=31 N=10                TIPTON, IND.               
+ 172  203 3 TO TABLE THE RESOLUTION CONCERNING THE CONDITION OF THE           
+ 172  203 4 BANKS IN THE DISTRICT OF COLUMBIA APPLYING FOR                    
+ 172  203 5 EXTENSIONS OF THEIR CHARTERS, IN ORDER TO TAKE UP S. 270.         
+ 173  204 1 G-6-  -382B   J 25-2-403B    S270      MAY 17, 1838               
+ 173  204 2 S252114       Y=19 N=22                BUCHANAN, PA.              
+ 173  204 3 TO AMEND S. 270 BY REQUIRING BANKS TO KEEP ON                     
+ 173  204 4 HAND AN AMOUNT OF COIN EQUAL TO ONE-FOURTH OF THAT ON             
+ 173  204 5 PRIVATE DEPOSITS IN ADDITION TO COIN EQUAL TO ONE-FOURTH THE      
+ 173  204 6 AMOUNT OF THEIR CIRCULATION.                                      
+ 174  205 1 G-6-  -382C   J 25-2-404A    S270      MAY 17, 1838               
+ 174  205 2 S252115       Y=32 N=10                HUBBARD, N.H.              
+ 174  205 3 TO AMEND S. 270 BY REQUIRING BANKS TO KEEP ON HAND AN             
+ 174  205 4 AMOUNT OF COIN EQUAL TO ONE-THIRD INSTEAD OF ONE-FOURTH           
+ 174  205 5 OF THEIR CIRCULATION.                                             
+ 175  206 1 G-6-  -391A   J 25-2-404B    HR76      MAY 18, 1838               
+ 175  206 2 S252116       Y=16 N=27                WEBSTER, MASS.             
+ 175  206 3 TO AMEND H.R. 762 (APP. MAY 21, 1838, 5 STAT L. 228), A BILL      
+ 175  206 4 AUTHORIZING THE ISSUANCE OF TREASURY NOTES TO MEET CURRENT        
+ 175  206 5 EXPENSES OF THE GOVERNMENT BY LIMITING THE ISSUANCE TO            
+ 175  206 6 $4,000,000.  GLOBE GIVES THE AMOUNT AS $2,000,000.                
+ 176  207 1 G-6-  -391B   J 25-2-405A    HR76      MAY 18, 1838               
+ 176  207 2 S252117       Y=27 N=13                WRIGHT, N.Y.               
+ 176  207 3 TO ORDER ENGROSSMENT AND THIRD READING OF H.R. 762                
+ 176  207 4 (APP. MAY 21, 1838, 5 STAT L. 228), A BILL AUTHORIZING            
+ 176  207 5 THE ISSUANCE OF TREASURY NOTES TO MEET CURRENT EXPENSES OF        
+ 176  207 6 THE GOVERNMENT.                                                   
+ 177  208 1 G-6-  -       J 25-2-405B    PROC      MAY 18, 1838               
+ 177  208 2 S252118       Y=21 N=19                CALHOUN, S.C.              
+ 177  208 3 THAT WHEN SENATE ADJOURNS, IT DO SO UNTIL MONDAY NEXT.            
+ 178  209 1 G-6-  -399A   J 25-2-407     S270      MAY 21, 1838               
+ 178  209 2 S252119       Y=24 N=16                BENTON, MO.                
+ 178  209 3 TO SUBSTITUTE FOR S. 270, A BILL EXTENDING THE CHARTERS           
+ 178  209 4 OF VARIOUS BANKS TO JULY 4, 1840 PROVIDED THAT THEY               
+ 178  209 5 CEASE RECEIVING OR PAYING OUT ALL PAPER CURRENCY SMALLER          
+ 178  209 6 THAN $5.00, REDEEM ALL THEIR NOTES OF $5.00 IN SPECIE,            
+ 178  209 7 AND RESUME SPECIE PAYMENTS IN FULL BEFORE                         
+ 178  209 8 JAN. 1, 1839 OR SOONER.                                           
+ 179  210 1 G-6-  -399B   J 25-2-408     S270      MAY 21, 1838               
+ 179  210 2 S252120       Y=37 N=2                 WRIGHT, N.Y.               
+ 179  210 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 270.                 
+ 180  211 1 G-6-  -       J 25-2-411A    HR60      MAY 22, 1838               
+ 180  211 2 S252121       Y=29 N=9                 ROANE, VA.                 
+ 180  211 3 TO AGREE TO H.R. 604, A BILL ASSENTING TO THE ACT OF THE          
+ 180  211 4 GENERAL ASSEMBLY OF VIRGINIA, AMENDING THE ACT                    
+ 180  211 5 INCORPORATING THE FALMOUTH AND ALEXANDRIA RAILROAD                
+ 180  211 6 COMPANY, BY AUTHORIZING THE SECRETARY OF THE TREASURY TO          
+ 180  211 7 SUBSCRIBE FOR STOCK OF THAT COMPANY, PROVIDED THE                 
+ 180  211 8 COMPANY EXTENDS ITS SYSTEM INTO THE DISTRICT OF COLUMBIA,         
+ 180  211 9 CONNECTS WITH THE BALTIMORE AND OHIO RAILROAD, AND CARRIES        
+ 180  21110 U.S. MAIL AS FREQUENTLY AS NECESSARY.                             
+ 181  212 1 G-6- -        J 25-2-411B    HR60      MAY 22, 1838               
+ 181  212 2 S252122       Y=25 N=18                ROANE, VA.                 
+ 181  212 3 TO AMEND H.R. 604, BY APPROPRIATING $300,000 TO HAVE THE          
+ 181  212 4 RAILROAD CARRY MAIL.                                              
+ 182  213 1 G-6-  -404B   J 25-2-412     HR60      MAY 22, 1838               
+ 182  213 2 S252123       Y=21 N=17                ROANE, VA.                 
+ 182  213 3 TO ORDER ENGROSSMENT AND THIRD READING OF H.R. 604.               
+ 183  214 1 G-6-  -       J 25-2-413     HR60      MAY 23, 1838               
+ 183  214 2 S252124       Y=23 N=17                ROANE, VA.                 
+ 183  214 3 TO PASS H.R. 604.                                                 
+ 184  215 1 G-6-  -407A   J 25-2-414A    HR23      MAY 23, 1838               
+ 184  215 2 S252125       Y=12 N=29                NORVELL, MICH.             
+ 184  215 3 TO AMEND THE PROPOSED AMENDMENT TO H.R. 230                       
+ 184  215 4 (APP. MAY 25, 1838, 5 STAT L. 228), A BILL MAKING                 
+ 184  215 5 APPROPRIATIONS FOR CONTINUING THE CUMBERLAND ROAD THROUGH         
+ 184  215 6 OHIO, INDIANA AND ILLINOIS, (WHICH AMENDMENT PROVIDES THAT        
+ 184  215 7 THE BILL BE SUBJECT TO THE TERMS OF THE ACT PROVIDING FOR         
+ 184  215 8 CONSTRUCTION OF CERTAIN ROADS, MAR. 3, 1837), BY ADDING           
+ 184  215 9 "EXCEPT THE PROVISIONS CONTAINED IN THE FOURTH SECTION            
+ 184  21510 OF SAID ACT."                                                     
+ 185  216 1 G-6-  -407B   J 25-2-414B    HR23      MAY 23, 1838               
+ 185  216 2 S252126       Y=27 N=15                BENTON, MO.                
+ 185  216 3 TO AMEND H.R. 230 BY STIPULATING THAT ALL APPROPRIATIONS          
+ 185  216 4 MADE SHOULD BE SUBJECT TO THE CONDITIONS, RESTRICTIONS,           
+ 185  216 5 AND LIMITATIONS CONTAINED IN THE ACT PROVIDING FOR THE            
+ 185  216 6 CONSTRUCTION OF CERTAIN ROADS, MAR. 3, 1837.                      
+ 186  217 1 G-6-  -408A   J 25-2-414C    HR23      MAY 23, 1838               
+ 186  217 2 S252127       Y=17 N=23                HUBBARD, N.H.              
+ 186  217 3 TO AMEND H.R. 230 BY REDUCING THE APPROPRIATIONS FROM             
+ 186  217 4 $150,000 TO $100,000 FOR ROADS IN OHIO.                           
+ 187  218 1 G-6-  -408B   J 25-2-415     HR23      MAY 23, 1838               
+ 187  218 2 S252128       Y=26 N=17                TIPTON, IND.               
+ 187  218 3 TO ORDER ENGROSSMENT AND THIRD READING OF H.R. 230.               
+ 188  219 1 G-6-  -409    J 25-2-417     HR23      MAY 24, 1838               
+ 188  219 2 S252129       Y=23 N=18                TIPTON, IND.               
+ 188  219 3 TO PASS H.R. 230.                                                 
+ 189  220 1 G-6-  -411    J 25-2-419     HR22      MAY 25, 1838               
+ 189  220 2 S252130       Y=13 N=28                CRITTENDEN, KY.            
+ 189  220 3 TO AMEND H.R. 225, A BILL MAKING APPROPRIATIONS FOR               
+ 189  220 4 THE NAVAL SERVICE, BY REDUCING THE APPROPRIATION FOR THE          
+ 189  220 5 ORGANIZATION OF THE SOUTH SEA EXPLORING EXPEDITION FROM           
+ 189  220 6 $312,000 TO $101,152.                                             
+ 190  221 1 G-6-  -412A   J 25-2-421A    SR11      MAY 26, 1838               
+ 190  221 2 S252131       Y=44 N=1                 CLAY, KY.                  
+ 190  221 3 TO AMEND S.J.RES. 11, (APP. JUNE 1, 1838, 5 STAT 307),            
+ 190  221 4 A BILL MAKING BANK NOTES RECEIVABLE AND PAYABLE FOR               
+ 190  221 5 GOVERNMENT RECEIPTS AND EXPENDITURES, BY MAKING THEM ONLY         
+ 190  221 6 RECEIVABLE.                                                       
+ 191  222 1 G-6-  -412B   J 25-2-421B    SR11      MAY 26, 1838               
+ 191  222 2 S252132       Y=28 N=19                WRIGHT, N.Y.               
+ 191  222 3 TO AMEND S.J.RES. 11, BY ELIMINATING THE CLAUSE MAKING THE        
+ 191  222 4 RECEPTION OF BANK NOTES IMPERATIVE.                               
+ 192  223 1 G-6-  -415    J 25-2-429A    SR11      MAY 28, 1838               
+ 192  223 2 S252133       Y=8 N=36                 MORRIS, OHIO               
+ 192  223 3 TO AMEND S.J.RES. 11 BY PROVIDING THAT THE RESOLUTION             
+ 192  223 4 RELATIVE TO THE COLLECTION OF PUBLIC REVENUE, APPROVED            
+ 192  223 5 APR. 30, 1816, IS HEREBY REPEALED.                                
+ 193  224 1 G-6-  -416    J 25-2-429B    SR11      MAY 28, 1838               
+ 193  224 2 S252134       Y=34 N=10                CLAY, KY.                  
+ 193  224 3 TO ORDER ENGROSSMENT AND THIRD READING OF S.J.RES. 11.            
+ 194  225 1 G-6-  -       J 25-2-432A    PROC      MAY 29, 1838               
+ 194  225 2 S25213K       Y=26 N=14                NORVELL, MICH.             
+ 194  225 3 TO TABLE A RESOLUTION, SETTING THE TIME OF DAILY MEETINGS AT      
+ 194  225 4 11 A.M.                                                           
+ 195  226 1 G-6-  -417    J 25-2-432B    SJR1      MAY 29, 1838               
+ 195  226 2 S252136A      Y=34 N=9                 CLAY, KY.                  
+ 195  226 3 TO PASS S.J.RES. 11.                                              
+ 196  227 1 G-6-  -418    J 25-2-433     S22       MAY 30, 1838               
+ 196  227 2 S252136B      Y=22 N=13                BUCHANAN, PA.              
+ 196  227 3 TO TABLE S. 22, A BILL DEFINING THE CLAIM OF THE LEGAL            
+ 196  227 4 REPRESENTATIVE OF JOHN J. BULOW, JR.                              
+ 197  228 1 G-6-  -421A   J 25-2-436     S276      MAY 30, 1838               
+ 197  228 2 S252137       Y=24 N=12                WALKER, MISS.              
+ 197  228 3 TO PASS S. 276, A BILL REQUESTING A SPECIAL PRE-EMPTION           
+ 197  228 4 LAW IN FAVOR OF CITIZENS OF SOUTHPORT AND ITS VACINITY            
+ 197  228 5 AND THAT THE PROCEEDS OF THE LANDS THUS SOLD MAY BE APPRO-        
+ 197  228 6 PRIATED FOR THE CONSTRUCTION OF A HARBOR AT THAT PLACE.           
+ 198  229 1 G-6-  -       J 25-2-437     S68       MAY 31, 1838               
+ 198  229 2 S252139       Y=23 N=14                LYON, MICH.                
+ 198  229 3 TO PROCEED TO THE CONSIDERATION OF S. 68, A BILL TO SETTLE        
+ 198  229 4 CONTESTED CLAIMS ARISING UNDER THE PRE-EMPTION LAWS.              
+ 199   29 1               EX J 5-117     SRE       JUNE 1, 1838               
+ 199   29 2 E252016       Y=17 N=12                KING, ALA.                 
+ 199   29 3 TO CONSENT TO THE APPOINTMENT OF BYRD BRANDON                     
+ 199   29 4 AS COUNSUL OF THE U.S., FOR THE PORT OF CAMPECHE, MEXICO.         
+ 200  230 1 G-6-  -429    J 25-2-442     S309      JUNE 5, 1838               
+ 200  230 2 S252140       Y=22 N=21                WALKER, MISS.              
+ 200  230 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 309, A BILL          
+ 200  230 4 MAKING APPROPRIATIONS FOR THE COMPLETION OF CERTAIN ROADS         
+ 200  230 5 IN MICHIGAN.                                                      
+ 201  231 1 G-6-  -430    J 25-2-443     S115      JUNE 5, 1838               
+ 201  231 2 S252141       Y=25 N=14                CLAY, ALA.                 
+ 201  231 3 TO POSTPONE INDEFINITELY S. 115, A BILL GRANTING A                
+ 201  231 4 TOWNSHIP OF LAND TO THE FRENCH UNIVERSITY AT                      
+ 201  231 5 ST. LOUIS, MISSOURI.                                              
+ 202  232 1 G-6-  -       J 25-2-444     S178      JUNE 5, 1838               
+ 202  232 2 S252142       Y=20 N=18                SEVIER, ARK.               
+ 202  232 3 TO TABLE S. 178, A BILL RELATING TO THE CLAIMS OF THE             
+ 202  232 4 WIDOW AND HEIRS OF COLONEL ALBERT PANLING.                        
+ 203   30 1               EX J 5-118     SRE       JUNE 6, 1838               
+ 203   30 2 E252017       Y=22 N=12                FULTON, ARK.               
+ 203   30 3 TO ADVISE AND CONSENT TO THE NOMINATION OF EZEKIEL P. HAINES      
+ 203   30 4 AS SURVEYOR GENERAL OF PUBLIC LANDS FOR THE DISTRICT OF           
+ 203   30 5 OHIO, INDIANA AND MICHIGAN.                                       
+ 204  233 1 G-6-  -434    J 25-2-448A    S234      JUNE 6, 1838               
+ 204  233 2 S252143       Y=23 N=11                HUBBARD, N.H.              
+ 204  233 3 TO AMEND S. 234, A BILL PROVIDING FOR THE BENEFIT OF THE          
+ 204  233 4 MOUNT CARMEL AND NEW ALBANY RAILROAD COMPANY BY ELIMINATING       
+ 204  233 5 ALL AFTER THE ENACTING CLAUSE, AND INTRODUCING SOME LESS          
+ 204  233 6 OBJECTIONABLE FEATURES.                                           
+ 205  234 1 G-6-  -435    J 25-2-448B    S269      JUNE 6, 1838               
+ 205  234 2 S252144       Y=6 N=33                 PRESTON, S.C.              
+ 205  234 3 TO TABLE S. 269 (APP. JUNE 12, 1838, C 96-5 STAT L. 235),         
+ 205  234 4 A BILL DIVIDING THE TERRITORY OF WISCONSIN AND ESTABLISHING       
+ 205  234 5 THE TERRITORY OF IOWA.                                            
+ 206  235 1 G-6-  -440    J 25-2-451     HR67      JUNE 7, 1838               
+ 206  235 2 S252145       Y=40 N=0                 WRIGHT, N.Y.               
+ 206  235 3 TO ORDER ENGROSSMENT OF H.R. 676 (APP. JUNE 12, 1838, 5 STAT      
+ 206  235 4 L. 241), A BILL MAKING APPROPRIATIONS FOR THE                     
+ 206  235 5 SUPPRESSION AND PREVENTION OF INDIAN HOSTILITIES IN 1838,         
+ 206  235 6 AND FOR THE PAYMENT OF 1837 ARREARAGES.                           
+ 207   31 1               EX J 5-121     SRE       JUNE 11, 1838              
+ 207   31 2 E252018       Y=32 N=11                SEVIER, ARK.               
+ 207   31 3 TO DECIDE WHETHER TO RETAIN IN THE 4TH ARTICLE OF THE             
+ 207   31 4 TREATY WITH THE WINNEBAGO INDIANS, THE CLAUSE WHICH               
+ 207   31 5 PROPOSES TO SET APART THE SUM OF $500,000 TO PAY THE CLAIMS       
+ 207   31 6 OF INDIVIDUALS AGAINST THE INDIANS, AND TO INVEST THE             
+ 207   31 7 REMAINDER FOR THE BENEFIT OF THE INDIANS.                         
+ 208   32 1               EX J 5-122     SRE       JUNE 11, 1838              
+ 208   32 2 E252019       Y=35 N=9                 WHITE, TENN.               
+ 208   32 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY           
+ 208   32 4 BETWEEN THE U.S. AND WINNEBAGO INDIANS, CONCLUDED ON              
+ 208   32 5 NOV. 1, U837.  THE RESOLUTION HAD PREVIOUSLY BEEN AMENDED BY      
+ 208   32 6 STRIKING THE WORD "NOT" APPEARING BEFORE THE WORDS                
+ 208   32 7 "ADVISE AND CONSENT."                                             
+ 209   33 1               EX J 5-123A    SRE       JUNE 11, 1838              
+ 209   33 2 E252020       Y=23 N=7                 TIPTON, IND.               
+ 209   33 3 TO DECIDE WHETHER TO RETAIN CERTAIN CLAUSES OF THE                
+ 209   33 4 SECOND ARTICLE OF THE TREATY WITH THE SIOUX INDIANS,              
+ 210   34 1               EX J 5-123B    SRE       JUNE 11, 1838              
+ 210   34 2 E252021       Y=2 N=30                 WHITE, TENN.               
+ 210   34 3 TO DECIDE AS IN COMMITTEE OF THE WHOLE, WHETHER TO                
+ 210   34 4 RETAIN THE CLAUSE IN THE TREATY WITH THE SIOUX INDIANS            
+ 210   34 5 WHICH PROPOSED TO PAY SCOTT CAMPBELL, AN INTERPRETER,             
+ 210   34 6 THE SUM OF $450 ANNUALLY FOR 20 YEARS, TO SECURE                  
+ 210   34 7 HIS TITLE TO LAND ON THE WEST SIDE OF THE MISSISSIPPI.            
+ 211   35 1               EX J 5-124     SRE       JUNE 11, 1838              
+ 211   35 2 E252022       Y=25 N=6                 WHITE, TENN.               
+ 211   35 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY           
+ 211   35 4 BETWEEN THE U.S. AND SIOUX INDIANS, AS AMENDED IN                 
+ 211   35 5 COMMITTEE OF THE WHOLE.                                           
+ 212   36 1               EX J 5-125A    SRE       JUNE 11, 1838              
+ 212   36 2 E252023       Y=25 N=10                WHITE, TENN.               
+ 212   36 3 TO DECIDE WHETHER TO RETAIN THE 4TH ARTICLE IN THE TREATY         
+ 212   36 4 WITH THE CHIPPEWA INDIANS.  THE ARTICLE APPROPRIATES $70,000      
+ 212   36 5 FOR PAYMENT OF SPECIFIED CLAIMS AGAINST THE INDIANS.              
+ 213   37 1               EX J 5-125B    SRE       JUNE 11, 1838              
+ 213   37 2 E252024       Y=25 N=3                 HUBBARD, N.H.              
+ 213   37 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY           
+ 213   37 4 BETWEEN THE U.S. AND THE CHIPPEWA INDIANS CONCLUDED ON            
+ 213   37 5 JULY 29, 1837.                                                    
+ 214   38 1               EX J 5-125C    SRE       JUNE 11, 1838              
+ 214   38 2 E252025E      Y=33 N=0                 WRIGHT, N.Y.               
+ 214   38 3 AS IN COMMITTEE OF THE WHOLE, TO AGREE TO AMENDMENTS TO THE       
+ 214   38 4 TREATY WITH THE NEW YORK INDIANS RELATING THE DETAILS             
+ 214   38 5 NECESSARY FOR THEIR REMOVAL TO THE WEST.                          
+ 215   39 1               EX J 5-131     SRE       JUNE 11, 1838              
+ 215   39 2 E252026       Y=33 N=2                 WHITE, TENN.               
+ 215   39 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY           
+ 215   39 4 BETWEEN THE U.S. AND THE NEW YORK INDIANS, CONCLUDED ON           
+ 215   39 5 JAN. 15, 1838 AS AMENDED.                                         
+ 216  236 1 G-6-  -449    J 25-2-466     S241      JUNE 12, 1838              
+ 216  236 2 S252146       Y=26 N=11                LINN, MO.                  
+ 216  236 3 TO PASS S. 241 (APP. JULY 7, 1838, 5 STAT L. 302), A BILL TO      
+ 216  236 4 PROMOTE THE CULTIVATION OF TROPICAL PLANTS IN U.S.  GLOBE         
+ 216  236 5 SHOWS ACTION WAS TO ORDER ENGROSSMENT.                            
+ 217   40 1               EX J 5-132     SRE       JUNE 13, 1838              
+ 217   40 2 E252027       Y=39 N=0                 BUCHANAN, PA.              
+ 217   40 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE                  
+ 217   40 4 CONVENTION BETWEEN THE U.S. AND REPUBLIC OF TEXAS,                
+ 217   40 5 CONCLUDED ON APR. 11, 1838.                                       
+ 218   41 1               EX J 5-133     SRE       JUNE 13, 1838              
+ 218   41 2 E252028       Y=33 N=1                 WHITE, TENN.               
+ 218   41 3 TO NOT ADVISE AND CONSENT TO THE RATIFICATION OF THE              
+ 218   41 4 TREATY MADE ON SEPT. 19, 1836, BETWEEN THE U.S. AND THE           
+ 218   41 5 STOCKBRIDGE AND MUNSEE TRIBES OF INDIANS.                         
+ 219  237 1 G-6-  -450    J 25-2-469     S194      JUNE 14, 1838              
+ 219  237 2 S252147       Y=9 N=29                 WALKER, MISS.              
+ 219  237 3 TO ORDER ENGROSSMENT OF S. 194, A BILL SETTING A BELT OF          
+ 219  237 4 LAND ON THE WESTERN BORDER OF THE STATES OF MISSOURI AND          
+ 219  237 5 ARKANSAS AS BOUNTY LANDS TO BE GRANTED TO SETTLERS ENGAGED        
+ 219  237 6 IN THE DEFENSE OF THE FRONTIER.                                   
+ 220  238 1 G-6-  -453    J 25-2-470     SJR       JUNE 14, 1838              
+ 220  238 2 S252148       Y=24 N=14                NORVELL, MICH.             
+ 220  238 3 TO TABLE THE JOINT RESOLUTION RELATING TO THE ANNEXATION OF       
+ 220  238 4 TEXAS.                                                            
+ 221  239 1 G-6-  -455A   J 25-2-475A    S356      JUNE 16, 1838              
+ 221  239 2 S252149       Y=27 N=4                 TIPTON, IND.               
+ 221  239 3 TO AMEND AN AMENDMENT TO S. 356, A BILL CREATING THE OFFICE       
+ 221  239 4 OF THE SURVEYOR OF PUBLIC LANDS FOR MICHIGAN, BY STRIKING         
+ 221  239 5 OUT MICHIGAN CITY AND INSERTING ST. JOSEPHS AS THE NEW LOCA-      
+ 221  239 6 TION FOR HIS OFFICE PROVIDED IN THE AMENDMENT.                    
+ 222  240 1 G-6-  -455B   J 25-2-475B    S356      JUNE 16, 1838              
+ 222  240 2 S252150       Y=19 N=19                SMITH, IND.                
+ 222  240 3 TO AGREE TO THE AMENDMENT TO S. 356 TRANSFERRING THE              
+ 222  240 4 OFFICE OF THE SURVEYOR GENERAL, PRESENTLY LOCATED AT              
+ 222  240 5 CINCINNATI, TO THE NEW LOCATION OF ST. JOSEPH'S, MICHIGAN.        
+ 223  241 1 G-6-  -456C   J 25-2-475C    S356      JUNE 16, 1838              
+ 223  241 2 S252151       Y=34 N=6                 CLAY, ALA.                 
+ 223  241 3 TO LAY ON THE TABLE S. 356.                                       
+ 224  242 1 G-6-  -456B   J 25-2-476     HR15      JUNE 16, 1838              
+ 224  242 2 S252152       Y=9 N=24                 HUBBARD, N.H.              
+ 224  242 3 TO ORDER ENGROSSMENT OF H.R. 15, A BILL RELATING TO THE           
+ 224  242 4 CLAIM OF MAJOR GENERAL ALEXANDER MACOMB, FOR PAY AS BREVET        
+ 224  242 5 MAJOR GENERAL.                                                    
+ 225  243 1 G-6-  -462    J 25-2-480     S2        JUNE 19, 1838              
+ 225  243 2 S252153       Y=11 N=26                YOUNG, ILL.                
+ 225  243 3 TO AMEND S. 2 (APP. JUNE 22, 1838), BY ELIMINATING ANY            
+ 225  243 4 PORTIONS OF LAND SELECTED AS SITES FOR TOWNS OR FOR USE FOR       
+ 225  243 5 TRADE RATHER THAN AGRICULTURE AND IMPROVEMENTS.  S. 2 IS A        
+ 225  243 6 BILL GRANTING THE RIGHT OF PRE-EMPTION TO ACTUAL SETTLERS         
+ 225  243 7 OF PUBLIC LANDS.                                                  
+ 226  244 1 G-6-  -463A   J 25-2-481A    S2        JUNE 19, 1838              
+ 226  244 2 S252154       Y=24 N=19                CLAY, KY.                  
+ 226  244 3 TO AMEND THE AMENDMENT OF THE HOUSE TO S. 2 BY STRIKING OUT       
+ 226  244 4 CERTAIN PARTS OF THE 4TH AMENDMENT AND ADDING CERTAIN             
+ 226  244 5 FRACTIONS OF PUBLIC LANDS WHICH HAVE BEEN RESERVED FROM SALE      
+ 226  244 6 IN CONSEQUENCE OF THE FILING OF A CLAIM TO A FRENCH OR            
+ 226  244 7 SPANISH GRANT OR DONATION OUTSIDE THE LIMITS OF SAID CLAIM.       
+ 227  245 1 G-6-  -463B   J 25-2-481B    S2        JUNE 19, 1838              
+ 227  245 2 S252155       Y=42 N=2                 WALKER, MISS.              
+ 227  245 3 TO CONCUR WITH THE HOUSE AMENDMENT AS AMENDED, TO S. 2.           
+ 228  246 1 G-6-  -464    J 25-2-483     S364      JUNE 20, 1838              
+ 228  246 2 S252156       Y=36 N=4                 GRUNDY, TENN.              
+ 228  246 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 364, A BILL TO       
+ 228  246 4 ABOLISH IMPRISONMENT FOR DEBT IN CERTAIN CASES.                   
+ 229   42 1               EX J 5-138     SRE       JUNE 21, 1838              
+ 229   42 2 E252029       Y=33 N=1                 WHITE, TENN.               
+ 229   42 3 TO NOT ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY       
+ 229   42 4 BETWEEN THE U.S. AND THE ATOE, MISSOURI AND OMAHA TRIBES OF       
+ 229   42 5 INDIANS, CONCLUDED ON APR. 22, 1838.                              
+ 230  247 1 G-6-  -       J 25-2-489     PROC      JUNE 22, 1838              
+ 230  247 2 S252157       Y=25 N=13                BAYARD, DEL.               
+ 230  247 3 THAT WHEN SENATE ADJOURN TODAY, IT BE TO MEET ON                  
+ 230  247 4 MONDAY NEXT.                                                      
+ 231  248 1 G-6-  -478A   J 25-2-492A    SRE       JUNE 25, 1838              
+ 231  248 2 S252158       Y=20 N=19                CLAY, KY.                  
+ 231  248 3 TO RESCIND A PORTION OF THE RESOLUTION THAT ORIGINAL              
+ 231  248 4 PAPERS ON PRIVATE CLAIMS NOT BE WITHDRAWN FROM SENATE FILES       
+ 231  248 5 BUT COPIED AND PROVIDED TO CLAIMANTS ON PAYMENT OF A              
+ 231  248 6 COMPENSATION, SO THAT THERE WILL BE NO CHARGE FOR SAID            
+ 231  248 7 COPIES.                                                           
+ 232  249 1 G-6-  -478B   J 25-2-492B    SRE       JUNE 25, 1838              
+ 232  249 2 S252159       Y=12 N=26                SEVIER, ARK.               
+ 232  249 3 TO RESCIND THE RESOLUTION THAT ORIGINAL PAPERS ON PRIVATE         
+ 232  249 4 CLAIMS NOT BE WITHDRAWN FROM SENATE FILES BUT COPIED AND          
+ 232  249 5 PROVIDED TO CLAIMANTS ON PAYMENT OF A COMPENSATION, SINCE         
+ 232  249 6 LAND REPORTS ARE SUFFICIENT EVIDENCE TO GUIDE THEM IN             
+ 232  249 7 RESEARCH.                                                         
+ 233  250 1 G-6-  -479    J 25-2-493     S260      JUNE 25, 1838              
+ 233  250 2 S252160       Y=28 N=6                 TIPTON, IND.               
+ 233  250 3 TO PASS S. 260, A BILL FOR THE BENEFIT OF THE ALABAMA,            
+ 233  250 4 FLORIDA AND GEORGIA RAILROAD COMPANY.                             
+ 234  251 1 G-6-  -481    J 25-2-496     SRE       JUNE 26, 1838              
+ 234  251 2 S252161       Y=8 N=39                 BENTON, MO.                
+ 234  251 3 TO POSTPONE CONSIDERATION OF THE RESOLUTION ON ADJOURNMENT        
+ 234  251 4 OF CONGRESS UNTIL FOLLOWING MONDAY.                               
+ 235  252 1 G-6-  -485A   J 25-2-501     S128      JUNE 26, 1838              
+ 235  252 2 S252162       Y=15 N=25                WRIGHT, N.Y.               
+ 235  252 3 TO AMEND S. 128, A BILL RELATING TO THE CLAIM OF                  
+ 235  252 4 PIERRE MENARD AND OTHERS, BY ELIMINATING THE PROVISION FOR        
+ 235  252 5 PAYMENT OF INTEREST AT 5 PERCENT PER ANNUM THEREON, FROM          
+ 235  252 6 FEB. 5, 1779.                                                     
+ 236  253 1 G-6-  -       J 25-2-503     S298      JUNE 27, 1838              
+ 236  253 2 S252163       Y=29 N=2                 BENTON, MO.                
+ 236  253 3 TO AMEND S. 298, A BILL TO REVIVE AN ACT, APPROVED                
+ 236  253 4 MAY 26, 1824, ENABLING THE CLAIMANTS TO LAND IN MISSOURI          
+ 236  253 5 AND ARKANSAS TO TRY THE VALIDITY OF THEIR CLAIMS, BY PROVI-       
+ 236  253 6 DING THAT THE ACT REVIVED SHALL NOT APPLY TO THE CLAIMS OF        
+ 236  253 7 JACQUES CLAMORGAN.                                                
+ 237  254 1 G-6-  -485B   J 25-2-505A    S245      JUNE 28, 1838              
+ 237  254 2 S252164       Y=15 N=20                LINN, MO.                  
+ 237  254 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 245, A BILL          
+ 237  254 4 PURCHASING THE RIGHT TO USE DOCTOR BOYD REILLY'S,                 
+ 237  254 5 VAPOR BATH.                                                       
+ 238  255 1 G-6-  -485C   J 25-2-505B    S254      JUNE 28, 1838              
+ 238  255 2 S252165       Y=11 N=26                WHITE, TENN.               
+ 238  255 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 254, A BILL          
+ 238  255 4 RELATING TO THE CLAIM OF THE HEIRS OF LIEUT. COL.                 
+ 238  255 5 JOHN CROPPER.                                                     
+ 239  256 1 G-6-  -487A   J 25-2-509A    S359      JUNE 29, 1838              
+ 239  256 2 S252166       Y=21 N=26                STRANGE, N.C.              
+ 239  256 3 TO AMEND S. 359, A BILL MAKING FURTHER PROVISION FOR THE          
+ 239  256 4 COLLECTION OF THE PUBLIC REVENUE, BY ALLOWING THE                 
+ 239  256 5 TREASURER OF THE U.S., TO AUTHORIZE COLLECTORS AND RECEIVERS      
+ 239  256 6 TO MAKE SPECIAL DEPOSITS OF BANK NOTES WITH THE DEPOSIT           
+ 239  256 7 BANKS FOR TERM OF 60 DAYS, AT THE END OF WHICH THEY ARE TO        
+ 239  256 8 BE CONVERTED INTO SPECIE.                                         
+ 240  257 1 G-6-  -487B   J 25-2-509B    S359      JUNE 29, 1838              
+ 240  257 2 S252167       Y=22 N=24                STRANGE, N.C.              
+ 240  257 3 TO AMEND S. 359 BY ELIMINATING OPTIONAL PRIVILEGES AS             
+ 240  257 4 REASON TO RECEIVE BANK NOTES IN PAYMENT OF SAME.                  
+ 241  258 1 G-6-  -487C   J 25-2-509C    S359      JUNE 29, 1838              
+ 241  258 2 S252168       Y=19 N=29                STRANGE, N.C.              
+ 241  258 3 TO AMEND S. 359 BY PROVIDING THAT PAYMENTS OF ALL PUBLIC          
+ 241  258 4 MONEYS SHALL BE MADE TO THE PUBLIC CREDITORS BY THE OFFICER       
+ 241  258 5 OR OFFICERS OF THE GOVERNMENT MAKING THE DEPOSIT.                 
+ 242  259 1 G-6-  -487D   J 25-2-511A    S359      JUNE 29, 1838              
+ 242  259 2 S252169       Y=26 N=24                BUCHANAN, PA.              
+ 242  259 3 TO AMEND S. 359 BY AUTHORIZING THE TREASURER OF THE U.S.          
+ 242  259 4 TO ORDER COLLECTORS AND RECEIVERS OF PUBLIC MONEY TO              
+ 242  259 5 CHANGE BANK NOTES TO SPECIE AT LEAST ONCE EVERY SIXTY DAYS.       
+ 243  260 1 G-6-  -487B   J 25-2-511B    S359      JUNE 29, 1838              
+ 243  260 2 S252170       Y=21 N=29                WEBSTER, MASS.             
+ 243  260 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 359.                 
+ 244  261 1 G-6-  -488A   J 25-2-513     S382      JUNE 30, 1838              
+ 244  261 2 S252171       Y=2 N=32                 STRANGE, N.C.              
+ 244  261 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 382, A BILL          
+ 244  261 4 PROVIDING FOR THE RELIEF OF THE WIDOW OF JOHN S. CAMERON FOR      
+ 244  261 5 HALF PAY OF HER LATE HUSBAND'S SALARY.                            
+ 245  262 1 G-6-  -488B   J 25-2-514     S384      JUNE 30, 1838              
+ 245  262 2 S252172       Y=26 N=21                WRIGHT, N.Y.               
+ 245  262 3 TO AMEND S. 384 (APP. JULY 5, 1838, 5 STAT L. 255), A BILL        
+ 245  262 4 MODIFYING THE LAST CLAUSE OF THE 5TH SECTION OF THE DEPOSIT       
+ 245  262 5 ACT OF 1836, BY INSERTING AS AN ADDITIONAL SECTION, THAT IT       
+ 245  262 6 SHALL BE UNLAWFUL TO PROHIBIT THE RECEPTION BY THE GOVERN-        
+ 245  262 7 MENT OF THE NOTES OF SUCH BANKS AS MAY HAVE ISSUED NOTES OF       
+ 245  262 8 DENOMINATIONS LESS THAN $5, SAID AMEND. REPEALING 1ST 12          
+ 245  262 9 SECTIONS OF ACT OF JUNE 1836, SO AS TO ENABLE TREAS. DEPT.        
+ 245  26210 TO COLLECT ANY DEBTS WHICH MAY BE DUE OR OWING FROM THE LATE      
+ 245  26211 DEPOSIT BANKS.                                                    
+ 246  263 1 G-6-  -491A   J 25-2-516     S384      JULY 2, 1838               
+ 246  263 2 S252173       Y=27 N=22                WRIGHT, N.Y.               
+ 246  263 3 TO PASS S. 384 (APP. JULY 5, 1838), A BILL MODIFYING THE          
+ 246  263 4 LAST CLAUSE OF THE 5TH SECTION OF THE DEPOSIT ACT OF              
+ 246  263 5 JUNE 23, 1836.                                                    
+ 247  264 1 G-6-  -       J 25-2-517A    S380      JULY 2, 1838               
+ 247  264 2 S252174       Y=23 N=14                NORVELL, MICH.             
+ 247  264 3 TO POSTPONE THE REGULAR ORDER OF THE DAY IN ORDER TO              
+ 247  264 4 CONSIDER S. 380, A BILL MAKING APPROPRIATIONS FOR BUILDING        
+ 247  264 5 LIGHTHOUSES AND SIMILAR STRUCTURES.                               
+ 248  265 1 G-6-  -       J 25-2-517B    HR49      JULY 2, 1838               
+ 248  265 2 S252175       Y=19 N=16                SEVIER, ARK.               
+ 248  265 3 TO POSTPONE INDEFINITELY H.R. 497, A BILL ESTABLISHING            
+ 248  265 4 A NEW JUDICIAL DISTRICT IN FLORIDA.                               
+ 249  266 1 G-6-  -491B   J 25-2-518     S356      JULY 2, 1838               
+ 249  266 2 S252176       Y=20 N=16                TIPTON, IND.               
+ 249  266 3 TO AMEND S. 356 BY TRANSFERRING SURVEYOR'S OFFICE FROM            
+ 249  266 4 CINCINNATI TO ST. JOSEPHS.                                        
+ 250  267 1 G-6-  -494A   J 25-2-522A    S88       JULY 3, 1838               
+ 250  267 2 S252177       Y=20 N=18                BENTON, MO.                
+ 250  267 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 88, A BILL           
+ 250  267 4 REGULATING THE PAY OF BREVET OFFICERS.                            
+ 251  268 1 G-6-  -494    J 25-2-522B    H76       JULY 3, 1838               
+ 251  268 2 S252178       Y=13 N=21                MERRICK, MD.               
+ 251  268 3 TO ORDER ENGROSSMENT AND THIRD READING OF H.R. 76, A BILL         
+ 251  268 4 RELATING TO THE CLAIM OF WILLIAM AND JAMES CROOKS.                
+ 252  269 1 G-6-  -496A   J 25-2-525A    S384      JULY 4, 1838               
+ 252  269 2 S252179       Y=29 N=17                WRIGHT, N.Y.               
+ 252  269 3 TO CONCUR IN THE AMENDMENT OF THE HOUSE TO S. 384                 
+ 252  269 4 (APP. JULY 5, 1838, 5 STAT L. 255), A BILL MODIFYING THE          
+ 252  269 5 LAST CLAUSE OF THE 5TH SECTION OF THE DEPOSIT ACT OF              
+ 252  269 6 JUNE 23, 1836.                                                    
+ 253  270 1 G-6-  -496B   J 25-2-525B    S88       JULY 4, 1838               
+ 253  270 2 S252180       Y=14 N=21                LYON, MICH.                
+ 253  270 3 TO POSTPONE INDEFINITELY S. 88, A BILL REGULATING THE PAY OF      
+ 253  270 4 BREVET OFFICERS.                                                  
+ 254  271 1 G-6-  -496C   J 25-2-525C    S88       JULY 4, 1838               
+ 254  271 2 S252181       Y=21 N=16                BENTON, MO.                
+ 254  271 3 TO PASS S. 88, A BILL REGULATING THE PAY OF BERVET OFFICERS.      
+ 255  272 1               25-2-535       PROC      JULY 6, 1838               
+ 255  272 2 S252182       Y=13 N=23                NORVELL, MICH.             
+ 255  272 3 TO SUSPEND JOINT RULE 16 FOR ONE DAY, IN ORDER TO ALLOW           
+ 255  272 4 SENATE TO SEND BILLS TO THE HOUSE FOR CONCURRENCE DURING          
+ 255  272 5 THE LAST THREE DAYS OF THE SESSION.                               
+ 256  273 1               J 25-2-536     HR78      JULY 6, 1838               
+ 256  273 2 S252183       Y=12 N=27                SEVIER, ARK.               
+ 256  273 3 TO TABLE H.R. 78, A BILL RELATING TO THE CLAIM OF THE             
+ 256  273 4 REPRESENTATIVES OF NIMROD FARROW AND RICHARD HARRIS.              
+ 257  274 1 G-6-  -499A   J 25-2-537A    HR78      JULY 6, 1838               
+ 257  274 2 S252184       Y=21 N=12                TALLMADGE, N.Y.            
+ 257  274 3 TO TABLE AS IN COMMITTEE OF THE WHOLE, H.R. 78, A BILL FOR        
+ 257  274 4 THE RELIEF OF THE LEGAL REPRESENTATIVES OF NIMROD FARROW          
+ 257  274 5 AND RICHARD HARRIS.                                               
+ 258  275 1 G-6-  -499B   J 25-2-537B    HR83      JULY 6, 1838               
+ 258  275 2 S252185       Y=19 N=13                CLAY, ALA.                 
+ 258  275 3 TO AMEND H.R. 839 (APP. JULY 7, 1838, 5 STAT L 271), A BILL       
+ 258  275 4 ESTABLISHING CERTAIN POST ROUTES AND DISCONTINUING OTHERS,        
+ 258  275 5 BY ELIMINATING SECTION 2, WHICH REQUIRES POSTMASTER GENERAL       
+ 258  275 6 TO DISCONTINUE ALL EXPRESS MAIL ROUTES.                           
+ 259  276 1 G-6-  -500    J 25-2-538A    HR39      JULY 6, 1838               
+ 259  276 2 S252186       Y=18 N=11                DAVIS, MASS.               
+ 259  276 3 TO PROCEED TO THE CONSIDERATION OF H.R. 394, A BILL               
+ 259  276 4 PROVIDING FOR CERTAIN HARBORS AND FOR THE REMOVAL OF              
+ 259  276 5 OBSTRUCTIONS IN AND AT THE MOUTHS OF CERTAIN RIVERS DURING        
+ 259  276 6 1838.                                                             
+ 260  277 1 G-6-  -501A   J 25-2-538B    HR39      JULY 6, 1838               
+ 260  277 2 S282187       Y=18 N=21                PRESTON, S.C.              
+ 260  277 3 TO POSTPONE INDEFINITELY CONSIDERATION OF H.R. 394.               
+ 261  278 1 G-6-  -501B   J 25-2-539A    HR39      JULY 6, 1838               
+ 261  278 2 S252188       Y=17 N=21                DAVIS, MASS.               
+ 261  278 3 TO AMEND H.R. 394 BY APPROPRIATING $48,000 FOR A SEA-WALL         
+ 261  278 4 AT BUFFALO, N.Y.                                                  
+ 262  279 1 G-6-  -501C   J 25-2-539B    HR39      JULY 6, 1838               
+ 262  279 2 S252189       Y=20 N=15                WRIGHT, N.Y.               
+ 262  279 3 TO AMEND H.R. 394 BY STRIKING OUT THE PROVISION FOR               
+ 262  279 4 $20,000 FOR THE IMPROVEMENT OF THE RIVER ABOVE NASHVILLE.         
+ 263  280 1 G-6-  -501D   J 25-2-539C    HR39      JULY 6, 1838               
+ 263  280 2 S252190       Y=19 N=16                WRIGHT, N.Y.               
+ 263  280 3 TO AMEND H.R. 394 BY PROVIDING THAT EXPENDITURES UNDER THIS       
+ 263  280 4 BILL BE MADE UNDER THE DIRECTION OF THE PRES. AND SHALL NOT       
+ 263  280 5 INTERFERE WITH THE REGULAR ANNUAL EXPENSES OF THE                 
+ 263  280 6 GOVERNMENT.                                                       
+ 264  281 1 G-6-  -501E   J 25-2-540     HR39      JULY 6, 1838               
+ 264  281 2 S252191       Y=18 N=18                KING, ALA.                 
+ 264  281 3 TO ORDER ENGROSSMENT OF H.R. 394.                                 
+ 265  282 1               J 25-2-541     S356      JULY 6, 1838               
+ 265  282 2 S252192       Y=23 N=8                 LYON, MICH.                
+ 265  282 3 TO TABLE S. 356.                                                  
+ 266  283 1 G-6-  -501F   J 25-2-542     SRE       JULY 6, 1838               
+ 266  283 2 S252193       Y=17 N=15                BENTON, MO.                
+ 266  283 3 TO POSTPONE INDEFINITELY CONSIDERATION OF THE RESOLUTION          
+ 266  283 4 PROVIDING FOR PURCHASE OF CERTAIN BOOKS FOR MEMBERS OF THE        
+ 266  283 5 HOUSE.                                                            
+ 267  284 1 G-6-  -504A   J 25-2-555     HR26      JULY 7, 1838               
+ 267  284 2 S252194       Y=23 N=15                WHITE, TENN.               
+ 267  284 3 TO AMEND H.R. 269 (APP. JULY 7, 1838, 5 STAT 298),                
+ 267  284 4 A BILL MAKING APPROPRIATIONS FOR CURRENT AND CONTINGENT           
+ 267  284 5 EXPENSES OF THE INDIAN DEPARTMENT, AND FOR FULFILLING TREATY      
+ 267  284 6 STIPULATIONS, BY APPROPRIATING $150,000 FOR THE SUPPORT OF        
+ 267  284 7 INDIANS REMOVED WEST OF THE MISSISSIPPI.  JOURNAL SHOWS           
+ 267  284 8 APPROPRIATIONS OF $260,000.                                       
+ 268  285 1 G-6-  -504B   J 25-2-556A    HR39      JULY 7, 1838               
+ 268  285 2 S252195       Y=24 N=14                MERRICK, MD.               
+ 268  285 3 TO RECONSIDER VOTE REJECTING H.R. 394.                            
+ 269  286 1 G-6-  -504    J 25-2-556B    HR39      JULY 7, 1838               
+ 269  286 2 S252197       Y=28 N=12                NILES, CONN.               
+ 269  286 3 TO RECOMMIT H.R. 394, WITH INSTRUCTIONS TO ELIMINATE THE          
+ 269  286 4 PROVISION THAT EXPENDITURES BE MADE UNDER DIRECTION OF THE        
+ 269  286 5 PRESIDENT AND TO PROVIDE THAT ON ALL SINGLE APPROPRIATIONS        
+ 269  286 6 OVER $12,000, ONLY 50 PERCENT BE EXPENDED IN 1838, AND THE        
+ 269  286 7 REMAINDER IN 1839.                                                
+ 270  287 1 G-6-  -504D   J 25-2-557     HR83      JULY 7, 1838               
+ 270  287 2 S252198       Y=17 N=21                CLAY, ALA.                 
+ 270  287 3 TO AMEND H.R. 836 (APP. JULY 7, 1838, 5 STAT L. 262),             
+ 270  287 4 A BILL EXTENDING THE TIME FOR LOCATING VIRGINIA MILITARY          
+ 270  287 5 LAND WARRANTS AND RETURNING SURVEYS TO THE GENERAL LAND           
+ 270  287 6 OFFICE, BY PROVIDING THAT 300,000 ACRES OF MILITARY LAND          
+ 270  287 7 SCRIP BE APPROPRIATED TO SATISFY OUTSTANDING MILITARY LAND        
+ 270  287 8 WARRANTS ISSUED BY VIRGINIA FOR REVOLUTIONERY SERVICES.           
+ 271  288 1 G-6-  -504    J 25-2-559     HR39      JULY 7, 1838               
+ 271  288 2 S252200       Y=24 N=11                                           
+ 271  288 3 TO ORDER ENGROSSMENT AND THIRD READING OF H.R. 394.               
+ 272  289 1 G-6-  -505A   J 25-2-563A    HR89      JULY 7, 1838               
+ 272  289 2 S252201       Y=14 N=19                WALL, N.J.                 
+ 272  289 3 TO AMEND H.R. 89 (APP. JULY 7, 1838, 5 STAT 284), A BILL          
+ 272  289 4 APPROPRIATING CERTAIN SUMS FOR FORTIFICATION OF THE U.S. FOR      
+ 272  289 5 1838, BY PROVIDING FOR AN APPROPRIATION OF $40,000, AND           
+ 272  289 6 INSTRUCTING THE SECRETARY OF WAR TO ACQUIRE TITLE TO THE          
+ 272  289 7 ISLAND ON WHICH FORT DELAWARE STANDS.                             
+ 273  290 1 G-6-  -505B   J 25-2-563B    HR89      JULY 7, 1838               
+ 273  290 2 S252202       Y=20 N=14                CLAY, ALA.                 
+ 273  290 3 TO AMEND H.R. 89 BY ELIMINATING THE APPROPRIATION OF              
+ 273  290 4 $40,000 FOR FORT DELAWARE.                                        
+ 274  291 1 G-6-  -505C   J 25-2-563C    HR89      JULY 7, 1838               
+ 274  291 2 S252203       Y=15 N=19                CLAY, ALA.                 
+ 274  291 3 TO CONCUR TO THE AMENDMENT, AS IN COMMITTEE OF THE WHOLE,         
+ 274  291 4 TO H.R. 89, ELIMINATING THE APPROPRIATION OF $40,000              
+ 274  291 5 FOR FORT DELAWARE.                                                
+ 275  292 1 G-6-  -505D   J 25-2-564     HR89      JULY 7, 1838               
+ 275  292 2 S252204       Y=8 N=23                 WALL, N.J.                 
+ 275  292 3 TO AMEND H.R. 89, BY PROVIDING FOR AN APPROPRIATION OF            
+ 275  292 4 $40,000 AND INSTRUCTING THE SECRETARY OF WAR TO ACQUIRE           
+ 275  292 5 TITLE TO THE ISLAND ON WHICH FORT DELAWARE STANDS.                
+ 276  293 1 G-6-  -504    J 25-2-571     HR59      JULY 7, 1838               
+ 276  293 2 S2522055      Y=16 N=19                PIERCE, N.H.               
+ 276  293 3 TO ORDER THIRD READING OF H.R. 591, A BILL PROVIDING FOR THE      
+ 276  293 4 CLAIM OF MARY HUNTER, WIDOW OF CAPTAIN JAMES HUNTER.              
+ 277  294 1 G-7-  -37     J 25-3-52A     S65       DEC. 14, 1838              
+ 277  294 2 S253001       Y=17 N=36                CLAY, KY.                  
+ 277  294 3 TO AMEND AS IN COMMITTEE OF THE WHOLE, A BILL POSTPONING          
+ 277  294 4 THE FOURTH DEPOSIT WITH THE STATES UNDER THE ACT OF               
+ 277  294 5 JUNE 1836, UNTIL JAN. 1, 1840; INSTEAD OF INDEFINITELY.           
+ 278  295 1 G-7-  -37     J 25-3-52B     S36       DEC. 17, 1838              
+ 278  295 2 S253002       Y=16 N=16                TIPTON, IND.               
+ 278  295 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 36, A BILL           
+ 278  295 4 MAKING APPROPRIATIONS FOR COMPLETION OF CERTAIN ROADS             
+ 278  295 5 IN MICHIGAN.                                                      
+ 279  296 1 G-7-  -49     J 25-3-61      S7        DEC. 19, 1838              
+ 279  296 2 S253003       Y=18 N=18                CLAY, ALA.                 
+ 279  296 3 TO PASS S. 7 (APP. FEB. 6, 1839, 5 STAT L. 746), A BILL           
+ 279  296 4 PROVIDING FOR THE RELIEF OF WILLIAM EAST.                         
+ 280  297 1 G-7-  -59     J 25-3-67      HR89      DEC. 20, 1838              
+ 280  297 2 S253004       Y=11 N=21                WALL, N.J.                 
+ 280  297 3 TO AMEND H.R. 891, A BILL MAKING APPROPRIATIONS FOR GOVERN-       
+ 280  297 4 MENT SUPPORT FOR FISCAL 1838 AND 1839, BY APPROPRIATING           
+ 280  297 5 $250,000 FOR PAYMENT OF PENSIONS TO WIDOWS OF CERTAIN             
+ 280  297 6 REVOLUTIONARY SOLDIERS MARRIED BETWEEN THE YEARS                  
+ 280  297 7 1873 AND 1894.                                                    
+ 281  298 1 G-7-  -85     J 25-3-85                DEC. 31, 1838              
+ 281  298 2 S253005       Y=23 N=15                MORRIS, OHIO               
+ 281  298 3 TO RESCIND ORDER TO PRINT 30,000 COPIES OF A CERTAIN              
+ 281  298 4 DOCUMENT ORIGINALLY LAID BEFORE THE BRITISH HOUSE OF              
+ 281  298 5 COMMONS.                                                          
+ 282  299 1 G-7-  -95A    J 25-3-91A     SRE       JAN. 3, 1839               
+ 282  299 2 S253006       Y=24 N=13                WILLIAMS, MISS.            
+ 282  299 3 TO LAY ON THE TABLE THE QUESTION OF RECEPTION OF THE              
+ 282  299 4 RESOLUTION DENYING ADMITTANCE TO ANY NEW STATE TOLERATING         
+ 282  299 5 SLAVERY, AND REMONSTRATING AGAINST THE ANNEXATION OF TEXAS.       
+ 283  300 1 G-7-  -95B    J 25-3-91B     SRE       JAN. 3, 1839               
+ 283  300 2 S253007       Y=27 N=12                WILLIAMS, MISS.            
+ 283  300 3 TO LAY QUESTION OF RECEIVING MEMORIAL ASKING FOR ABOLISHMENT      
+ 283  300 4 OF INTERSTATE SLAVE TRADE ON THE TABLE.                           
+ 284  301 1 G-7-  -95C    J 25-3-94A     S1        JAN. 3, 1839               
+ 284  301 2 S253008       Y=23 N=20                CLAY, KY.                  
+ 284  301 3 TO RECOMMIT TO THE COMMITTEE OF PUBLIC LANDS, S. 1, A BILL        
+ 284  301 4 GRADUATING AND REDUCING THE PRICE OF PUBLIC LANDS.                
+ 285  302 1 G-7-  -95D    J 25-3-94B     S1        JAN. 3, 1839               
+ 285  302 2 S253009       Y=26 N=17                CLAY, KY.                  
+ 285  302 3 TO RECOMMIT TO THE COMMITTEE ON PUBLIC LANDS S. 1, WITH           
+ 285  302 4 INSTRUCTIONS TO AMEND IT SO AS TO RESTRICT ITS BENEFITS           
+ 285  302 5 TO ACTUAL SETTLERS, AND LEAVE THE NUMBER OF ACRES TO BE SO        
+ 285  302 6 GRANTED TO COMMITTEE'S DISCRETION.                                
+ 286  303 1 G-7-  -101    J 25-3-99      SRE       JAN. 5, 1839               
+ 286  303 2 S253010       Y=20 N=17                NILES, CONN.               
+ 286  303 3 TO POSTPONE INDEFINITELY THE RESOLUTION WHICH ADMITS              
+ 286  303 4 REPORTERS INTO THE EASTERN GALLERY OF THE SENATE.                 
+ 287  304 1 G-7-  -110A   J 25-3-105     SRE       JAN. 8, 1839               
+ 287  304 2 S253011       Y=29 N=8                 LUMPKIN, GA.               
+ 287  304 3 TO TABLE THE MOTION TO PRINT THE RESOLUTION OF                    
+ 287  304 4 LEGISLATURE OF VERMONT CONCERNING THE ABOLITION OF SLAVERY.       
+ 288  305 1 G-7-  -110B   J 25-3-108     S1        JAN. 8, 1839               
+ 288  305 2 S253012       Y=24 N=22                CLAY, ALA.                 
+ 288  305 3 TO AMEND AMENDMENT TO S. 1, BY EXTENDING                          
+ 288  305 4 THE PRIVILEGE TO ALL PERSONS, WHO OWN, RESIDE UPON AND            
+ 288  305 5 CULTIVATE ADJOINING LAND, TO PURCHASE CONTIGUOUS TRACTS AT        
+ 288  305 6 REDUCED PRICE.                                                    
+ 289  306 1 G-7-  -112C   J 25-3-106     SRE       JAN. 11, 1839              
+ 289  306 2 S253013       Y=22 N=19                BAYARD DEL.                
+ 289  306 3 TO RESCIND THE RESOLUTION, ADOPTED ON DEC. 21, 1838, THAT         
+ 289  306 4 THE COMMITTEE OF CLAIMS BE DISCHARGED FROM CONSIDERING THE        
+ 289  306 5 PETITION OF THE EXECUTORS OF JOHN J. BULOW JR., AND OTHERS        
+ 289  306 6 FOR DEPREDATIONS COMMITTED DURING THE LATE WAR WITH THE           
+ 289  306 7 SEMINOLE INDIANS, AND THAT PETITIONS BE POSTPONED UNTIL           
+ 289  306 8 SOME GENERAL MEASURE IS ADOPTED BY CONGRESS FOR THE FINAL         
+ 289  306 9 ADJUSTMENT OF SUCH CLAIMS.                                        
+ 290  307 1 G-7-  -112A   J 25-3-114     S1        JAN. 10, 1839              
+ 290  307 2 S253014       Y=13 N=29                CLAY, KY.                  
+ 290  307 3 TO AMEND S. 1 BY LIMITING THE REDUCTIONS IN THE PRICE FOR         
+ 290  307 4 LANDS ONLY TO LANDS THAT HAVE BEEN ON THE MARKET 15 YEARS         
+ 290  307 5 AND TO QUANTITIES OF 80, 160 AND 320 ACRES, AND BY DISTRIBU-      
+ 290  307 6 TING PROCEEDS OF SALE AMONG THE STATES.                           
+ 291  308 1 G-7-  -112B   J 25-3-115     S1        JAN. 8, 1839               
+ 291  308 2 S253015       Y=24 N=19                BENTON, MO.                
+ 291  308 3 TO AMEND S. 1 BY PERMITTING ACTUAL SETTLERS TO ENTER              
+ 291  308 4 LANDS ON MARKET 15 YEARS AT FIFTY CENTS AN ACRE, AND              
+ 291  308 5 LIMITING QUANTITY TO 80 ACRES EACH.                               
+ 292  309 1 G-7-  -       J 25-3-118     S1        JAN. 11, 1839              
+ 292  309 2 S253016       Y=25 N=16                WALKER, MISS.              
+ 292  309 3 TO CONCUR IN THE AMENDMENT MADE IN THE COMMITTEE OF THE           
+ 292  309 4 WHOLE, TO S. 1, GIVING THE RIGHT OF ENTRY AT A REDUCED            
+ 292  309 5 PRICE TO ACTUAL SETTLERS OR THOSE WHO RESIDE UPON, OWN OR         
+ 292  309 6 CULTIVATE ADJOINING LAND, ALL APPLICATIONS TO BE IN               
+ 292  309 7 ACCORDANCE WITH REGULATIONS PRESCRIBED BY THE SECRETARY           
+ 292  309 8 OF THE TREASURY.                                                  
+ 293  310 1 G-7-  -114A   J 25-3-119A    S1        JAN. 11, 1839              
+ 293  310 2 S253017       Y=21 N=23                BENTON, MO.                
+ 293  310 3 TO CONCUR IN THE AMENDMENT TO S. 1, WHICH PERMITS ENTRY           
+ 293  310 4 BY ACTUAL SETTLERS OF LANDS ON THE MARKET FOR 15 YEARS AT         
+ 293  310 5 50 CENTS AN ACRE.                                                 
+ 294  311 1 G-7-  -114B   J 25-3-119B    S1        JAN. 11, 1839              
+ 294  311 2 S253018       Y=25 N=22                MORRIS, OHIO               
+ 294  311 3 TO ADJOURN, MADE DURING DEBATE ON S. 1.                           
+ 295  312 1 G-7-  -121    J 25-3-124     S1        JAN. 14, 1839              
+ 295  312 2 S253019       Y=23 N=27                RIVES, VA.                 
+ 295  312 3 TO POSTPONE CONSIDERATION OF S. 1 INDEFINITELY.                   
+ 296  313 1 G-7-  -125    J 25-3-126     S78       JAN. 15, 1839              
+ 296  313 2 S253020       Y=28 N=16                WHITE, TENN.               
+ 296  313 3 TO AMEND S. 78 (APP. JULY 20, 1839, 5 STAT L. 319), A BILL        
+ 296  313 4 AMENDING AN ACT ESTABLISHING A CRIMINAL COURT IN THE              
+ 296  313 5 DISTRICT OF COLUMBIA, BY WITHDRAWING SECTION 11 WHICH             
+ 296  313 6 INCREASES THE SALARY OF JUDGE FROM $2,000 TO $2,700.              
+ 297  314 1 G-7-  -126A   J 25-3-127A    S1        JAN. 15, 1839              
+ 297  314 2 S253021       Y=23 N=25                BAYARD, DEL.               
+ 297  314 3 TO ADJOURN, MOTION MADE DURING DEBATE ON S. 1.                    
+ 298  315 1 G-7-  -126B   J 25-3-127B    S1        JAN. 15, 1839              
+ 298  315 2 S253022       Y=14 N=34                MORRIS, OHIO               
+ 298  315 3 TO AMEND S. 1 BY CEDING TO ANY NEW STATE 2,000,000 ACRES          
+ 298  315 4 REMAINING AFTER SALE, TO BE DISPOSED OF IN ANY MANNER AS          
+ 298  315 5 STATE AUTHORITIES MAY DIRECT.                                     
+ 299  316 1 G-7-  -126C   J 25-3-127C    S1        JAN. 15, 1839              
+ 299  316 2 S253023       Y=21 N=26                RUGGLES, ME.               
+ 299  316 3 TO ADJOURN, MOTION MADE DURING DEBATE ON S. 1.                    
+ 300  317 1 G-7-  -126D   J 25-3-128     S1        JAN. 15, 1839              
+ 300  317 2 S253024       Y=25 N=23                TALLMADGE, N.Y.            
+ 300  317 3 TO ADJOURN, MOTION MADE DURING DEBATE ON S. 1.                    
+ 301  318 1 G-7-  -127    J 25-3-131     S1        JAN. 16, 1839              
+ 301  318 2 S253025       Y=27 N=22                WALKER, MISS.              
+ 301  318 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 1.                   
+ 302  319 1 G-7-  -130    J 25-3-134     S1        JAN. 17, 1839              
+ 302  319 2 S253026       Y=27 N=22                WALKER, MISS.              
+ 302  319 3 TO PASS S. 1.                                                     
+ 303  320 1 G-7-  -132A   J 25-3-139A    S53       JAN. 18, 1839              
+ 303  320 2 S253027       Y=27 N=17                HUBBARD, N.H.              
+ 303  320 3 TO AMEND S. 53 BY REDUCING THE APPROPRIATION BY                   
+ 303  320 4 $150,000, THUS REDUCING EACH STATE'S ALLOTMENT BY $50,000.        
+ 303  320 5 S. 53 IS A BILL MAKING APPROPRIATIONS FOR THE CONTINUATION        
+ 303  320 6 OF THE CUMBERLAND ROAD IN OHIO, IND. AND ILL.                     
+ 304  321 1 G-7-  -132B   J 25-3-139B    S53       JAN. 18, 1839              
+ 304  321 2 S253028       Y=23 N=22                KING, ALA.                 
+ 304  321 3 TO AMEND S. 53, BY STRIKING OUT THE ENACTING CLAUSE.              
+ 305  322 1 G-7-  -133A   J 25-3-139C    S53       JAN. 18, 1839              
+ 305  322 2 S253029       Y=23 N=26                KING, ALA.                 
+ 305  322 3 TO TABLE THE MOTION TO RECONSIDER THE VOTE STRIKING OUT THE       
+ 305  322 4 ENACTING CLAUSE OF S. 53.                                         
+ 306  323 1 G-7-  -133B   J 25-3-140A    S53       JAN. 18, 1839              
+ 306  323 2 S253030       Y=23 N=26                KING, ALA.                 
+ 306  323 3 TO RECONSIDER THE VOTE S. 53.                                     
+ 307  324 1 G-7-  -133C   J 25-3-140B    S53       JAN. 18, 1839              
+ 307  324 2 S253031       Y=22 N=24                WALKER, MISS.              
+ 307  324 3 TO AMEND S. 53 BY ELIMINATING ITS PROVISION FOR REPAYMENT OF      
+ 307  324 4 THE APPROPRIATIONS OUT OF THE TWO PER CENT                        
+ 307  324 5 RESERVED FOR MAKING ROADS, BECAUSE THIS FUND IS EXHAUSTED.        
+ 308  325 1 G-7-  -133D   J 25-3-140C    S53       JAN. 18, 1839              
+ 308  325 2 S253032       Y=25 N=23                TIPTON, IND.               
+ 308  325 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 53.                  
+ 309  326 1 G-7-  -136    J 25-3-145     S53       JAN. 21, 1839              
+ 309  326 2 S253033       Y=24 N=22                TIPTON, IND.               
+ 309  326 3 TO PASS S. 53.                                                    
+ 310  327 1 G-7-  -       J 25-3-146A    S185      JAN. 21, 1839              
+ 310  327 2 S253034A      Y=16 N=27                CALHOUN, S.C.              
+ 310  327 3 TO TABLE S. 185, A BILL RELATING TO THE CLAIMS OF                 
+ 310  327 4 GAD HUMPHREYS, FOR DEPREDATIONS COMMITTED DURING THE              
+ 310  327 5 LATE WAR WITH THE SEMINOLE INDIANS.                               
+ 311   43 1               EX J 5-181     SRE       JAN. 22, 1839              
+ 311   43 2 E253001       Y=18 N=15                TIPTON, IND.               
+ 311   43 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY           
+ 311   43 4 BETWEEN THE U.S., AND THE MIAMI INDIANS CONCLUDED ON              
+ 311   43 5 NOV. 6, 1838.                                                     
+ 312  328 1 G-7-  -       J 25-3-146B    S185      JAN. 22, 1839              
+ 312  328 2 S253034B      Y=13 N=28                NORVELL, MICH.             
+ 312  328 3 TO POSTPONE TO THE NEXT SESSION, S. 185, A BILL RELATING          
+ 312  328 4 TO CLAIMS OF GAD HUMPHREYS.                                       
+ 313  329 1 G-7-  -139A   J 25-3-150A    S2        JAN. 22, 1839              
+ 313  329 2 S253035       Y=11 N=31                CLAY, ALA.                 
+ 313  329 3 TO AMEND S. 2 BY WITHHOLDING PUNISHMENT FROM DUELLERS, WHO        
+ 313  329 4 ALTHOUGH PLANNING TO DUEL WITHIN THE SAID DISTRICT, PERPE-        
+ 313  329 5 TRATE THE ACT ELSEWHERE.  S. 2 IS A BILL PROHIBITING              
+ 313  329 6 DUELLING IN THE DISTRICT OF COLUMBIA.                             
+ 314  330 1 G-7-  -139C   J 25-3-150B    S4        JAN. 22, 1839              
+ 314  330 2 S253037       Y=15 N=25                KING, ALA.                 
+ 314  330 3 TO AMEND S. 4, A BILL RELATING TO THE CLAIM OF PIERRE MENARD      
+ 314  330 4 AND OTHERS, BY ELIMINATING ALL PROVISIONS FOR THE PAYMENT OF      
+ 314  330 5 INTEREST.                                                         
+ 315   44 1               EX J 5-183     SRE       JAN. 23, 1839              
+ 315   44 2 E253002       Y=33 N=5                 TIPTON, IND.               
+ 315   44 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE                  
+ 315   44 4 TREATY BETWEEN THE U.S. AND THE MIAMI INDIANS, CONCLUDED          
+ 315   44 5 ON NOV. 6, 1838.                                                  
+ 316   45 1               EX J 5-184     SRE       JAN. 23, 1839              
+ 316   45 2 E253003       Y=26 N=6                 BENTON, MO.                
+ 316   45 3 TO CONSENT TO THE NOMINATION OF THOMAS J. CRAM, AS A              
+ 316   45 4 CAPTAIN IN THE CORPS OF TOPOGRAPHICAL ENGINEERS.                  
+ 317  331 1 G-7-  -141    J 25-3-153     S2        JAN. 23, 1839              
+ 317  331 2 S253038       Y=29 N=7                 WALL, N.J.                 
+ 317  331 3 TO PASS S. 2.                                                     
+ 318  332 1 G-7-  -144    J 25-3-156     S173      JAN. 24, 1839              
+ 318  332 2 S253039       Y=33 N=3                 WALKER, MISS.              
+ 318  332 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 173, A BILL TO       
+ 318  332 4 AMEND AN ACT AUTHORIZING THE STATE OF TENN. TO GRANT              
+ 318  332 5 AND PERFECT TITLES TO THE LAND THEREON DESCRIBED AND TO           
+ 318  332 6 SETTLE THE CLAIMS TO THE VACANT AND UNAPPROPRIATED LANDS,         
+ 318  332 7 WHICH ACT WAS PASSED APRIL 18, 1806.                              
+ 319  333 1 G-7-  -       J 25-3-157     S81       JAN. 24, 1839              
+ 319  333 2 S273043       Y=18 N=14                HUBBARD, N.H.              
+ 319  333 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 81                   
+ 319  333 4 (APP. MARCH 3, 1839, 6 STAT 760), A BILL TO PAY THE CLAIM OF      
+ 319  333 5 PETER BARGY JR.                                                   
+ 320  334 1 G-7-  -157    J 25-3-172     S261      JAN. 29, 1839              
+ 320  334 2 S253041       Y=12 N=24                RUGGLES, ME.               
+ 320  334 3 TO TABLE S. 261, A BILL REPEALING THE DUTY ON SALT,               
+ 320  334 4 FISHING BOUNTIES AND ALLOWANCES DEPENDENT, THEREON.               
+ 321  335 1 G-7-  -158A   J 25-3-175A              JAN. 30, 1839              
+ 321  335 2 S253042       Y=13 N=23                TALLMADGE, N.Y.            
+ 321  335 3 TO TABLE THE MOTION TO INQUIRE WHAT WOULD BE THE                  
+ 321  335 4 DEFICIENCY IN THE U.S. TREASURY IF THE BILL DISTRIBUTING          
+ 321  335 5 THE PROCEEDS FROM SALES OF PUBLIC LAND HAD BECOME LAW.            
+ 322  336 1 G-7-  -158B   J 25-3-175B              JAN. 30, 1839              
+ 322  336 2 S253043       Y=37 N=1                 BENTON, MO.                
+ 322  336 3 TO PASS THE MOTION INQUIRING WHAT WOULD BE THE DEFICIENCY         
+ 322  336 4 IN THE U.S. TREASURY, HAD THE BILL FOR DISTRIBUTING THE PRO-      
+ 322  336 5 CEEDS FROM THE SALE OF PUBLIC LANDS BECOME LAW.                   
+ 323  337 1 G-7-  -159A   J 25-3-176     S261      JAN. 29, 1839              
+ 323  337 2 S253044       Y=20 N=19                BENTON, MO.                
+ 323  337 3 TO CONSIDER S. 26, A BILL REPEALING THE DUTY ON SALT,             
+ 323  337 4 FISHING BOUNTIES AND ALLOWANCES DEPENDENT THEREON.                
+ 324   46 1               EX J 5-190A    SRE       JAN. 31, 1839              
+ 324   46 2 E253004       Y=37 N=0                 BUCHANAN, PA.              
+ 324   46 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY OF        
+ 324   46 4 COMMERCE AND NAVIGATION BETWEEN THE U.S. AND THE                  
+ 324   46 5 NETHERLANDS, CONCLUDED ON JAN. 19, 1839.                          
+ 325   47 1               EX J 5-190B    SRE       JAN. 31, 1839              
+ 325   47 2 E253005       Y=36 N=0                 BUCHANAN, PA.              
+ 325   47 3 TO CONSENT TO THE RATIFICATION OF THE CONVENTION FOR THE          
+ 325   47 4 ADJUSTMENT OF CLAIMS OF CITIZENS OF THE U.S. UPON THE             
+ 325   47 5 GOVERNMENT OF THE MEXICAN REPUBLIC, CONCLUDED                     
+ 325   47 6 SEPT. 10, 1838.                                                   
+ 326  338 1 G-7-  -159B   J 25-3-180     S224      JAN. 31, 1839              
+ 326  338 2 S253045       Y=34 N=10                WRIGHT, N.Y.               
+ 326  338 3 TO PASS S. 224, A BILL AUTHORIZING AN EXTENSION FOR PAYMENT       
+ 326  338 4 OF DUTIES ON RAILROAD IRON IMPORTED BY THE ALABAMA, FLORIDA,      
+ 326  338 5 AND GEORGIA RAILROAD COMPANY.                                     
+ 327  339 1 G-7-  -       J 25-3-184     S10       FEB. 1, 1839               
+ 327  339 2 S253046       Y=29 N=9                 KNIGHT, RI.                
+ 327  339 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 10, A BILL           
+ 327  339 4 ALLOWING A DRAWBACK OF DUTIES ON IMPORTED HEMP WHEN               
+ 327  339 5 MANUFACTURED INTO CORDAGE AND EXPORTED.                           
+ 328  340 1 G-7-  -168A   J 25-3-197A    S231      FEB. 4, 1839               
+ 328  340 2 S253047       Y=19 N=20                NILES, CONN.               
+ 328  340 3 TO POSTPONE CONSIDERATION OF S. 231, A BILL RELATING TO THE       
+ 328  340 4 CLAIM OF THE HEIRS OF JOHN J. BULOW, TO THE FIRST MONDAY OF       
+ 328  340 5 DECEMBER NEXT.                                                    
+ 329  341 1 G-7-  -168B   J 25-3-197B    S231      FEB. 4, 1839               
+ 329  341 2 S253048       Y=19 N=19                HUBBARD, N.H.              
+ 329  341 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 231, A BILL          
+ 329  341 4 RELATING TO THE CLAIMS OF THE HEIRS OF JOHN J. BULOW.             
+ 330   48 1               EX J 5-197     SRE       FEB. 5, 1839               
+ 330   48 2 E253006       Y=23 N=13                BENTON, MO.                
+ 330   48 3 TO CONSENT TO THE NOMINATION OF WASHINGTON HOOD AS A              
+ 330   48 4 CAPTAIN IN THE CORPS OF TOPOGRAPHICAL ENGINEERS.                  
+ 331  342 1 G-7-  -       J 25-3-205     S231      FEB. 6, 1839               
+ 331  342 2 S253049       Y=23 N=21                BAYARD, DEL.               
+ 331  342 3 TO RECONSIDER THE VOTE TO PASS S. 231, A BILL RELATING TO         
+ 331  342 4 THE CLAIMS OF THE HEIRS OF JOHN BULOW.                            
+ 332  343 1 G-7-  -174    J 25-3-206     S160      FEB. 5, 1839               
+ 332  343 2 S253050       Y=23 N=19                PRESTON, S.C.              
+ 332  343 3 TO POSTPONE INDEFINITELY IN COMMITTEE OF THE WHOLE,               
+ 332  343 4 CONSIDERATION OF S. 160, A BILL PROVIDING FOR THE ARMED           
+ 332  343 5 OCCUPATION OF THAT PART OF THE FLORIDA TERRITORY OVERRUN BY       
+ 332  343 6 HOSTILE INDIANS.                                                  
+ 333  344 1 G-7-  -       J 25-3-207     S11       FEB. 6, 1839               
+ 333  344 2 S253051       Y=18 N=18                PRENTISS, VT.              
+ 333  344 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 11, A BILL FOR       
+ 333  344 4 THE PAYMENT OF THE CLAIM OF JOHN MC CLOUD.                        
+ 334  345 1 G-7-  -179    J 25-3-214     SRE       FEB. 8, 1839               
+ 334  345 2 S253052       Y=22 N=20                NORVELL, MICH.             
+ 334  345 3 TO TABLE A MOTION TO CONSIDER THE RESOLUTION DIRECTING THE        
+ 334  345 4 COMMITTEE ON JUDICIARY TO INQUIRE INTO CERTAIN MATTERS            
+ 334  345 5 PERTAINING TO THE INSTITUTION OF SLAVERY IN THE STATES.           
+ 335  346 1 G-7-  -180    J 25-3-218     S160      FEB. 9, 1839               
+ 335  346 2 S253053       Y=20 N=24                PRESTON, S.C.              
+ 335  346 3 TO POSTPONE INDEFINITELY S. 160, A BILL PROVIDING FOR THE         
+ 335  346 4 ARMED OCCUPATION OF THAT PART OF THE FLORIDA TERRITORY,           
+ 335  346 5 OVERRUN BY HOSTILE INDIANS.                                       
+ 336   49 1               EX J 5-201     SRE       FEB. 13, 1839              
+ 336   49 2 E253007       Y=4 N=26                 FULTON, ARK.               
+ 336   49 3 TO CONSENT TO THE NOMINATION OF JAMES TURNEY AS REGISTER          
+ 336   49 4 OF THE LAND OFFICE FOR LANDS SUBJECT TO SALE AT GALENA, IN        
+ 336   49 5 THE STATE OF ILLINOIS.                                            
+ 337  347 1 G-7-  -200    J 25-3-241     S234      FEB. 16, 1839              
+ 337  347 2 S253054       Y=17 N=13                ALLEN, OHIO                
+ 337  347 3 TO POSTPONE CONSIDERATION INDEFINITELY OF S. 234, A BILL          
+ 337  347 4 INCORPORATING THE WASHINGTON SILK COMPANY OF THE                  
+ 337  347 5 DISTRICT OF COLUMBIA.                                             
+ 338  348 1 G-7-  -202A   J 25-3-245     S267      FEB. 18, 1839              
+ 338  348 2 S253055       Y=18 N=17                BROWN, N.C.                
+ 338  348 3 TO ORDER ENGROSSMENT OF S. 267, A BILL RELATING TO THE            
+ 338  348 4 CLAIMS OF MIRA ALEXANDER FOR COMPENSATION ON ACCOUNT OF           
+ 338  348 5 REVOLUTIONARY SERVICE.                                            
+ 339  349 1               J 25-3-246     S258      FEB. 18, 1839              
+ 339  349 2 S253056       Y=31 N=9                 WRIGHT, N.Y.               
+ 339  349 3 TO RESUME THE CONSIDERATION OF S. 258, MORE EFFECTIVELY TO        
+ 339  349 4 SECURE PUBLIC MONEY IN THE HANDS OF OFFICERS AND AGENTS OF        
+ 339  349 5 THE GOVERNMENT AND TO PUNISH PUBLIC DEFAULTERS.                   
+ 340  350 1 G-7-  -202    J 25-3-250A    S258      FEB. 18, 1839              
+ 340  350 2 S253057       Y=15 N=27                RIVES, VA.                 
+ 340  350 3 TO AMEND S. 258, BY PROVIDING FOR THE DEPOSIT OF GOVERNMENT       
+ 340  350 4 REVENUES AND SECURITIES IN BANKS.                                 
+ 341  351 1 G-7-  -202C   J 25-3-250B    S258      FEB. 18, 1839              
+ 341  351 2 S253058       Y=20 N=23                TALLMADGE, N.Y.            
+ 341  351 3 TO AMEND S. 258, BY PROVIDING THAT COLLECTORS SHALL DEPOSIT       
+ 341  351 4 PUBLIC MONEYS TO CREDIT OF U.S. TREASURY.                         
+ 342  352 1 G-7-  -202D   J 25-3-250C    S258      FEB. 18, 1839              
+ 342  352 2 S253059       Y=26 N=16                WRIGHT, N.Y.               
+ 342  352 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 258.                 
+ 343  353 1 G-7-  -205A   J 25-3-253     S110      FEB. 19, 1839              
+ 343  353 2 S253060       Y=25 N=18                BENTON, MO.                
+ 343  353 3 TO PASS S. 110, PROVIDING FOR THE ARMED OCCUPATION AND            
+ 343  353 4 SETTLEMENT OF A PART OF THE TERRITORY OF FLORIDA.                 
+ 344  354 1 G-7-  -205B   J 25-3-254     S114      FEB. 19, 1839              
+ 344  354 2 S253061       Y=4 N=30                 WHITE, TENN.               
+ 344  354 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 114, A BILL          
+ 344  354 4 RELINQUISHING THE REVERSIONARY INTEREST OF U.S. TO CERTAIN        
+ 344  354 5 INDAIN RESERVATIONS.                                              
+ 345  355 1 G-7-  -207    J 25-3-258     S267      FEB. 20, 1839              
+ 345  355 2 S253062       Y=19 N=19                BROWN, N.C.                
+ 345  355 3 TO PASS S. 267, A BILL RELATING TO CLAIM OF                       
+ 345  355 4 MRS. MIRA ALEXANDER, FOR COMPENSATION ON ACCOUNT OF               
+ 345  355 5 REVOLUTIONARY SERVICES.                                           
+ 346  356 1 G-7-  -208    J 25-3-260     S82       FEB. 21, 1839              
+ 346  356 2 S253063       Y=21 N=14                NORVELL, MICH.             
+ 346  356 3 TO TABLE S. 82, A BILL RELATING TO THE CLAIMS OF LEGAL            
+ 346  356 4 REPRESENTATIVES OF OWNERS OF THE SHIP "ALLEGHANY."                
+ 347  357 1 G-7-  -209A   J 25-3-261A    S258      FEB. 21, 1839              
+ 347  357 2 S253064       Y=16 N=25                CLAY, KY.                  
+ 347  357 3 TO RECOMMIT TO THE COMMITTEE ON FINANCE, S. 258, WITH             
+ 347  357 4 INSTRUCTIONS TO AMEND BY PROVIDING THAT COLLECTORS DEPOSIT        
+ 347  357 5 GOVERNMENT REVENUES AND SECURITIES IN BANKS TO THE CREDIT         
+ 347  357 6 OF THE U.S. TREASURER AND NOT TO THE PRIVATE CREDIT OF THE        
+ 347  357 7 OFFICERS DEPOSITING THE SAME.                                     
+ 348  358 1 G-7-  -209B   J 25-3-261B    S258      FEB. 21, 1839              
+ 348  358 2 S253065       Y=28 N=15                WRIGHT, N.Y.               
+ 348  358 3 TO PASS S. 258.                                                   
+ 349  359 1 G-7-  -210    J 25-3-264     S231      FEB. 22, 1839              
+ 349  359 2 S253066A      Y=19 N=16                HUBBARD, N.H.              
+ 349  359 3 TO PASS S. 231, A BILL RELATING TO CLAIMS OF THE HEIRS OF         
+ 349  359 4 JOHN J. BULOW.                                                    
+ 350  360 1 G-7-  -210A   J 25-3-265A    HR11      FEB. 22, 1839              
+ 350  360 2 S253066B      Y=5 N=24                 NILES, CONN.               
+ 350  360 3 TO AMEND BY SUBSTITUTION H.R. 1146 (APP. MAR. 3, 1839,            
+ 350  360 4 5 STAT L. 364), A BILL PROVIDING FOR THE ERECTION OF A NEW        
+ 350  360 5 JAIL IN THE DISTRICT OF COLUMBIA, WASHINGTON, D.C.                
+ 350  360 6 THE SUBSTITUTE PROVIDES THAT THE "COUNTY OF WASHINGTON" AND       
+ 350  360 7 THE U.S. TREASURY SHALL SHARE THE COST OF THE JAIL.               
+ 351  361 1 G-7-  -210B   J 25-3-265B    HR11      FEB. 22, 1839              
+ 351  361 2 S253067       Y=19 N=14                ROANE, VA.                 
+ 351  361 3 TO ORDER ENGROSSMENT AND A THIRD READING OF H.R. 1146             
+ 351  361 4 (APP. MAR. 3, 1829, 5 STAT L. 364), A BILL PROVIDING              
+ 351  361 5 FOR THE ERECTION OF A NEW JAIL IN THE DISTRICT OF COLUMBIA.       
+ 352  362 1 G-7-  -       J 25-3-266               FEB. 22, 1839              
+ 352  362 2 S253068       Y=10 N=19                ROANE, VA.                 
+ 352  362 3 TO RESUME CONSIDERATION OF VARIOUS BILLS REPORTED BY THE          
+ 352  362 4 COMMITTEE ON THE DISTRICT OF COLUMBIA.                            
+ 353  363 1 G-7-  -       J 25-3-269A    S9        FEB. 23, 1839              
+ 353  363 2 S253069       Y=15 N=21                BENTON, MO.                
+ 353  363 3 TO TABLE S. 9, ESTABLISHING A COMMISSION TO HEAR AND              
+ 353  363 4 EXAMINE CLAIMS AGAINST THE U.S.                                   
+ 354  364 1 G-7-  -       J 25-3-269B    S9        FEB. 23, 1839              
+ 354  364 2 S253070       Y=17 N=18                SMITH, IND.                
+ 354  364 3 TO AMEND S. 9, A BILL ESTABLISHING COMMISSION TO HEAR AND         
+ 354  364 4 EXAMINE CLAIMS AGAINST THE U.S., BY SUBSTITUTING                  
+ 354  364 5 $2500 FOR $3000.                                                  
+ 355  365 1 G-7-  -216A   J 25-3-271     PROC      FEB. 25, 1839              
+ 355  365 2 S253071       Y=23 N=17                DAVIS, MASS.               
+ 355  365 3 TO TABLE A MOTION TO PROCEED TO ELECT AN ASSISTANT DOOR-          
+ 355  365 4 KEEPER OF THE SENATE.                                             
+ 356  366 1 G-7-  -216B   J 25-3-272A    S23       FEB. 25, 1839              
+ 356  366 2 S253072       Y=31 N=10                WHITE, TENN.               
+ 356  366 3 TO PASS S. 23, A BILL PROVIDING FOR THE SECURITY AND              
+ 356  366 4 PROTECTION OF EMIGRANTS AND INDIANS WEST OF THE STATES OF         
+ 356  366 5 MISSOURI AND ARKANSAS.                                            
+ 357  367 1 G-7-  -216C   J 25-3-272B    S9        FEB. 25, 1839              
+ 357  367 2 S253073       Y=30 N=12                WALL, N.J.                 
+ 357  367 3 TO PASS S. 9, A BILL PROVIDING FOR THE APPOINTMENT OF A           
+ 357  367 4 BOARD OF COMMISSIONERS TO HEAR AND EXAMINE CLAIMS AGAINST         
+ 357  367 5 THE UNITED STATES.                                                
+ 358  368 1 G-7-  -216D   J 25-3-273A    S292      FEB. 25, 1839              
+ 358  368 2 S253074       Y=20 N=15                HUBBARD, N.H.              
+ 358  368 3 TO TABLE S. 292, A BILL PROVIDING FOR THE DEPOSITION AND          
+ 358  368 4 MANAGEMENT OF THE BEQUEST OF JAMES SMITHSON, ESTABLISHING         
+ 358  368 5 AN INSTITUTION FOR THE INCREASE AND DIFFUSION OF                  
+ 358  368 6 KNOWLEDGE.                                                        
+ 359  369 1 G-7-  -218    J 25-3-273B    S144      FEB. 25, 1839              
+ 359  369 2 S253075       Y=24 N=10                WALL, N.J.                 
+ 359  369 3 TO ORDER ENGROSSMENT OF S. 144, A BILL EXPLAINING AND             
+ 359  369 4 LIMITING POWERS OF THE CIRCUIT COURT OF THE DISTRICT OF           
+ 359  369 5 COLUMBIA.                                                         
+ 360  370 1 G-7-  -221A   J 25-3-278     S144      FEB. 26, 1839              
+ 360  370 2 S253076       Y=15 N=26                PRESTON, S.C.              
+ 360  370 3 TO POSTPONE INDEFINITELY CONSIDERATION OF S. 144.                 
+ 361  371 1 G-7-  -221B   J 25-3-279A    S144      FEB. 26, 1839              
+ 361  371 2 S253077       Y=15 N=27                PRENTISS, VT.              
+ 361  371 3 TO RECOMMIT TO THE COMMITTEE ON THE JUDICIARY S. 144, WITH        
+ 361  371 4 INSTRUCTIONS TO AMEND AND GIVE CIRCUIT COURTS THE POWER TO        
+ 361  371 5 ISSUE WRITS OF MANDAMUS.                                          
+ 362  372 1 G-7-  -221C   J 25-3-279B    S144      FEB. 26, 1839              
+ 362  372 2 S253078       Y=27 N=15                WALL, N.J.                 
+ 362  372 3 TO PASS S. 144.                                                   
+ 363  373 1 G-7-  -       J 25-3-286A    SRE       FEB. 27, 1839              
+ 363  373 2 S253079       Y=19 N=21                                           
+ 363  373 3 TO TABLE THE RESOLUTION REQUESTING THE POSTMASTER GENERAL         
+ 363  373 4 TO INFORM THE SENATE WHY HE HAS NOT COMMUNICATED THE              
+ 363  373 5 INFORMATION REQUIRED BY THE RESOLUTION ADOPTED                    
+ 363  373 6 FEB. 12, 1839, REQUESTING INFORMATION REGARDING THE REMOVAL       
+ 363  373 7 OF DEPUTY POSTMASTERS SINCE MAR. 4, 1837.                         
+ 364  374 1 G-7-  -       J 25-3-286B    SRE       FEB. 27, 1839              
+ 364  374 2 S253080       Y=30 N=10                TALLMADGE, N.Y.            
+ 364  374 3 TO ADOPT THE RESOLUTION REQUESTING THE POSTMASTER GENERAL TO      
+ 364  374 4 INFORM THE SENATE WHY HE HAS NOT COMMUNICATED THE                 
+ 364  374 5 INFORMATION REGARDING THE REMOVAL OF DEPUTY POSTMASTERS           
+ 364  374 6 SINCE MAR. 4, 1837.                                               
+ 365  375 1 G-7-  -226A   J 25-3-289A    S131      FEB. 27, 1839              
+ 365  375 2 S273081       Y=18 N=25                CRITTENDEN, KY.            
+ 365  375 3 TO AMEND S. 131, A BILL PREVENTING THE INTERFERENCE OF            
+ 365  375 4 CERTAIN FEDERAL OFFICERS IN ELECTIONS, BY WITHDRAWING             
+ 365  375 5 PENALTY OF $500 AND INCAPACITY TO HOLD GOVERNMENT OFFICE,         
+ 365  375 6 AND INSERTING A CLAUSE PROVIDING FOR REMOVAL OF OFFENDER          
+ 365  375 7 FROM OFFICE.                                                      
+ 366  376 1 G-7-  -226B   J 25-3-289B    S131      FEB. 27, 1839              
+ 366  376 2 SS253082      Y=15 N=26                TALLMADGE, N.Y.            
+ 366  376 3 TO AMEND S. 131, BY MAKING PROVISIONS AND PENALTIES               
+ 366  376 4 APPLICABLE ONLY TO OFFICE HOLDERS NAMED WHEN THEY SHALL           
+ 366  376 5 SUBSCRIBE MONEYS TO CARRY ON ELECTIONS.                           
+ 367  377 1 G-7-  -226C   J 25-3-290A    S131      FEB. 27, 1839              
+ 367  377 2 S253083       Y=13 N=26                RIVES, VA.                 
+ 367  377 3 TO RECOMMIT S. 131 TO THE COMMITTEE ON JUDICIARY, WITH            
+ 367  377 4 INSTRUCTIONS TO AMEND THE BILL TO CONFORM WITH RESOLUTIONS        
+ 367  377 5 PROVIDING FOR LEGALLY RESTRAINING ALL INTERFERENCE BY             
+ 367  377 6 FEDERAL OFFICERS IN ELECTIONS.                                    
+ 368  378 1 G-7-  -226D   J 25-3-290B    S131      FEB. 27, 1839              
+ 368  378 2 S253084       Y=5 N=28                 WALL, N.J.                 
+ 368  378 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 131                  
+ 369   50 1               EX J 5-213A    SRE       FEB. 28, 1839              
+ 369   50 2 E253008       Y=31 N=0                 SEVIER, ARK.               
+ 369   50 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY MADE      
+ 369   50 4 AND CONCLUDED ON NOV. 23, 1838, BETWEEN THE U.S. AND THE          
+ 369   50 5 CREEK NATION TO ADJUST THE CLAIMS OF THE CREEKS FOR               
+ 369   50 6 PROPERTY AND IMPROVEMENTS ABANDONED OR LOST IN CONSEQUENCE        
+ 369   50 7 OF THEIR IMMIGRATION WEST OF THE MISSISSIPPI.                     
+ 370   51 1               EX J 5-213B    SRE       FEB. 28, 1839              
+ 370   51 2 E253009       Y=29 N=0                 SEVIER, ARK.               
+ 370   51 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY           
+ 370   51 4 MADE ON OCT. 19, 1838, BETWEEN THE U.S. AND THE KORWAY TRIBE      
+ 370   51 5 OF INDIANS.                                                       
+ 371   52 1               EX J 5-213C    SRE       FEB. 28, 1839              
+ 371   52 2 E253010       Y=31 N=0                 SEVIER, ARK.               
+ 371   52 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY MADE      
+ 371   52 4 ON JAN. 11, 1839, BETWEEN THE U.S. AND GREAT AND                  
+ 371   52 5 LITTLE OSAGE INDIANS.                                             
+ 372   53 1               EX J 5-214A    SRE       FEB. 28, 1839              
+ 372   53 2 E253011       Y=31 N=0                 SEVIER, ARK.               
+ 372   53 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE ARTICLES         
+ 372   53 4 SUPPLEMENTARY TO CERTAIN TREATIES BETWEEN THE U.S. AND THE        
+ 372   53 5 SAGINAW INDIANS, CONCLUDED ON FEB. 7, 1839.                       
+ 373   54 1               EX J 5-214B    SRE       FEB. 28, 1839              
+ 373   54 2 E253012       Y=33 N=0                 SEVIER, ARK.               
+ 373   54 3 TO CONSENT TO THE RATIFICATION OF THE SUPPLEMENTARY               
+ 373   54 4 ARTICLES TO A CERTAIN TREATY BETWEEN THE U.S. AND THE             
+ 373   54 5 CHIPPEWA CHIEFS OF SAGINAW, CONCLUDED ON FEB. 7, 1839.            
+ 374   55 1               EX J 5-214C    SRE       FEB. 28, 1839              
+ 374   55 2 E253013       Y=34 N=8                 RIVES, VA.                 
+ 374   55 3 TO NOT ADVISE AND CONSENT TO THE NOMINATIONS OF                   
+ 374   55 4 ISAAC MC KIEVER AND JOHN P. JANTZINGER AS CAPTAINS IN THE         
+ 374   55 5 U.S. NAVY.                                                        
+ 375  379 1 G-7-  -       J 25-3-301A    HR89      FEB. 28, 1839              
+ 375  379 2 S253085       Y=16 N=16                BENTON, MO.                
+ 375  379 3 TO AMEND H.R. 897 (APP. MAR. 3, 1839, 5 STAT 359), A BILL         
+ 375  379 4 MAKING APPROPRIATIONS FOR THE ARMY FOR THE YEAR 1839,             
+ 375  379 5 BY APPROPRIATING MONEY FOR REPAIR OF VARIOUS FORTS AND            
+ 375  379 6 BARRACKS.                                                         
+ 376  380 1 G-7-  -230A   J 25-3-301B    HR89      FEB. 28, 1839              
+ 376  380 2 S253086       Y=17 N=18                DAVIS, MASS.               
+ 376  380 3 TO AMEND H.R. 897, BY APPROPRIATING $272,000 FOR SERVICES         
+ 376  380 4 OF THE MASSACHUSETTS MILITIA DURING WAR WITH                      
+ 376  380 5 GREAT BRITAIN.                                                    
+ 377  381 1 G-7-  -       J 25-3-301C    HR89      FEB. 28, 1839              
+ 377  381 2 S253087       Y=13 N=19                RUGGLES, ME.               
+ 377  381 3 TO AMEND H.R. 897 BY APPROPRIATING $200,000 FOR ERECTING          
+ 377  381 4 MILITARY WORKS AT VARIOUS SITES.                                  
+ 378  382 1 G-7-  -230B   J 25-3-302A    HR89      FEB. 28, 1839              
+ 378  382 2 S253088       Y=19 N=16                DAVIS, MASS.               
+ 378  382 3 TO AMEND H.R. 897 BY APPROPRIATING $272,716.14 FOR PAYMENT        
+ 378  382 4 OF SERVICES OF THE MASSACHUSETTS MILITIA DURING THE WAR           
+ 378  382 5 WITH GREAT BRITAIN.                                               
+ 379  383 1 G-7-  -       J 25-3-302B    HR89      FEB. 28, 1839              
+ 379  383 2 S253089       Y=13 N=19                RUGGLES, ME.               
+ 379  383 3 TO AMEND H.R. 897 BY APPROPRIATING $200,000 FOR                   
+ 379  383 4 ERECTING MILITARY WORKS AT VARIOUS SITES.                         
+ 380  384 1 G-7-  -       J 25-3-303     HR89      FEB. 28, 1839              
+ 380  384 2 S253090       Y=12 N=21                FULTON, ARK.               
+ 380  384 3 TO AMEND H.R. 897 BY APPROPRIATING $120,000 FOR THE               
+ 380  384 4 CONSTRUCTION OF BARRACKS, QUARTERS, STOREHOUSES, HOSPITALS,       
+ 380  384 5 AND STABLES AND THE NECESSARY DEFENSES OF THE POSTS ALREADY       
+ 380  384 6 OCCUPIED OR SUCH ADDITIONAL POSTS AS IT MAY BE DEEMED PROPER      
+ 380  384 7 TO ESTABLISH FOR THE BETTER PROTECTION OF THE WESTERN             
+ 380  384 8 FRONTIER, AMENDMENT REJECTED.                                     
+ 381   56 1               EX J 5-216     SRE       MAR. 1, 1839               
+ 381   56 2 E253014       Y=0 N=30                 SEVIER, ARK.               
+ 381   56 3 TO CONSENT TO THE RATIFICATION OF THE TREATY WITH THE             
+ 381   56 4 OMAHA, IOWAY, AND THE ATOE INDIANS.                               
+ 382  385 1 G-7-  -234A   J 25-3-309A    SRE       MAR. 1, 1839               
+ 382  385 2 S253091       Y=38 N=8                 SEVIER, ARK.               
+ 382  385 3 TO PASS RESOLUTION, CENSURING POSTMASTER-GENERAL, FOR             
+ 382  385 4 SAYING, IN A LETTER TO THE SENATE, THAT HE HAD NOT SENT AN        
+ 382  385 5 ANSWER TO THEIR RESOLUTION BECAUSE IT WAS NOT READY.              
+ 383  386 1 G-7-  -234B   J 25-3-309B    SRE       MAR. 1, 1839               
+ 383  386 2 S253092       Y=31 N=15                SEVIER, ARK.               
+ 383  386 3 TO PASS RESOLUTION, ASKING PRESIDENT TO TAKE SUCH ACTION HE       
+ 383  386 4 MAY DEEM PROPER ON POSTMASTER-GENERALS' DISRESPECT TO THE         
+ 383  386 5 SENATE.                                                           
+ 384  387 1 G-7-  -234C   J 25-3-        HR89      MAR. 1, 1839               
+ 384  387 2 S253093       Y=14 N=22                BENTON, MO.                
+ 384  387 3 TO AMEND H.R. 897 BY APPROPRIATING $140,000 FOR IMPROVEMENTS      
+ 384  387 4 OF CERTAIN OLD FORTIFICATIONS AND FOR COMPLETING NEW WORKS.       
+ 385  388 1 G-7-  -       J 25-3-314A    SRE       MAR. 1, 1839               
+ 385  388 2 S253094       Y=18 N=26                NORVEL, MICH.              
+ 385  388 3 TO AMEND THE FOURTH RESOLUTION RELATING TO THE EXISTING           
+ 385  388 4 DIFFICULTIES REGARDING THE NORTHEASTERN FRONTIER,                 
+ 385  388 5 BY ELIMINATING THE PROVISION THAT IF THE STATE OF MAINE           
+ 385  388 6 OCCUPIES THE DISPUTED TERRITORY, THE FEDERAL GOVERNMENT WILL      
+ 385  388 7 NOT SUSTAIN HER BY MILITARY AID.                                  
+ 386  389 1 G-7-  -       J 25-3-314B    SRE       MAR. 1, 1839               
+ 386  389 2 S253095       Y=24 N=21                WEBSTER, MASS.             
+ 386  389 3 TO AMEND THE FOURTH RES. BY PROVIDING THAT THE STATE OF           
+ 386  389 4 MAINE SHOULD LEAVE THE DECISION OF HER RIGHTS TO THE DIS-         
+ 386  389 5 PUTED LANDS TO THE FEDERAL GOVT. AND REFRAIN FROM ATTEMPTING      
+ 386  389 6 A MILITARY OCCUPATION.                                            
+ 387  390 1 G-7-  -       J 25-3-315A    SRE       MAR. 1, 1839               
+ 387  390 2 S253096       Y=44 N=1                 BUCHANAN, PA.              
+ 387  390 3 TO AGREE TO THE RESOLUTIONS, PROVIDING THAT                       
+ 387  390 4 MAINE AND THE BRITISH GOVERNMENT REFRAIN FROM EXERCISING          
+ 387  390 5 JURISDICTION OVER ANY PART OF SUCH LAND, EXCEPT THAT              
+ 387  390 6 ACTUALLY OCCUPIED BY EACH, UNTIL THE QUESTION IS FINALLY          
+ 387  390 7 DETERMINED; AND THAT IF BRITAIN ATTEMPTS TO OBTAIN                
+ 387  390 8 JURISDICTION BY FORCE OVER ANY PART WHICH THE U.S. BELIEVES       
+ 387  390 9 BELONGS TO MAINE, IT IS THE DUTY OF THE PRESIDENT TO CALL         
+ 387  39010 FORTH THE MILITIA.                                                
+ 388  391 1 G-7-  -       J 25-3-315B    SRE       MAR. 1, 1839               
+ 388  391 2 S253097       Y=45 N=0                 BUCHANAN, PA.              
+ 388  391 3 TO AGREE TO THE FOURTH RESOLUTION PROVIDING THAT SHOULD THE       
+ 388  391 4 BRITISH AUTHORITIES REFRAIN FROM ATTEMPTING A MILITARY            
+ 388  391 5 OCCUPATION OF THE LAND IN DISPUTE, THEN THE STATE OF MAINE        
+ 388  391 6 SHOULD DO LIKEWISE, AND LEAVE THE ULTIMATE VINDICATION OF         
+ 388  391 7 HER RIGHTS TO THE FEDERAL GOVERNMENT.                             
+ 389   57 1               EX J 5-219     SRE       MAR. 2, 1839               
+ 389   57 2 E253015       Y=40 N=0                 BUCHANAN, PA.              
+ 389   57 3 TO ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY OF        
+ 389   57 4 COMMERCE AND NAVIGATION BETWEEN THE U.S. AND                      
+ 389   57 5 SARDINIA, CONCLUDED ON NOV. 26, 1838.                             
+ 390   58 1               EX J 5-220     SRE       MAR. 2, 1839               
+ 390   58 2 E253016       Y=34 N=0                 BUCHANAN, PA.              
+ 390   58 3 TO ADVISE AND CONSENT TO THE EXCHANGE OF RATIFICATIONS            
+ 390   58 4 OF THE CONVENTION, AT ANY TIME PRIOR TO DEC. 10, 1839,            
+ 390   58 5 WHENEVER THE SAME SHALL BE OFFERED BY THE MEXICAN REPUBLIC.       
+ 391   59 1               EX J 5-218     SRE       MAR. 2, 1839               
+ 391   59 2 E253017       Y=26 N=13                TALLMADGE, N.Y.            
+ 391   59 3 TO RECOMMEND THAT THE PRESIDENT MAKE PROCLAMATION OF THE          
+ 391   59 4 TREATY OF JUNE 11, 1838 WITH THE NEW YORK INDIANS,                
+ 391   59 5 WHEN HE SHALL BE SATISFIED OF THE ASSENT OF THE                   
+ 391   59 6 SENECA INDIANS, AND THAT HE THEN CARRY SAID TREATY INTO           
+ 391   59 7 EFFECT.                                                           
+ 392  392 1 G-7-  -  -238AJ 25-3-323     HR981     MAR. 2, 1839               
+ 392  392 2 S253098       Y=20 N=13                WRIGHT, N.Y.               
+ 392  392 3 TO AGREE TO THE AMENDMENT TO H.R. 98 (APP. MAR. 3, 1939,          
+ 392  392 4 5 STAT L 339), A BILL MAKING CIVIL AND DIPLOMATIC                 
+ 392  392 5 APPROPRIATIONS FOR FISCAL 1839, WHICH ELIMINATES THE              
+ 392  392 6 APPROPRIATIONS OF $5,602 TO CLARKE AND FORCE FOR PRINTING         
+ 392  392 7 THE DOCUMENTARY HISTORY OF THE U.S.                               
+ 393  393 1 G-7-  -238B   J 25-3-323B    HR981     MAR. 2, 1839               
+ 393  393 2 S253099A      Y=29 N=3                 WRIGHT, N.Y.               
+ 393  393 3 TO AGREE TO THE AMENDMENT TO H.R. 981 (APP. MAR. 3, 1839,         
+ 393  393 4 5 STAT L 339), A BILL MAKING APPROPRIATIONS FOR CIVIL AND         
+ 393  393 5 DIPLOMATIC EXPENSES FOR 1839, WHICH PREVENTS A PROPOSED           
+ 393  393 6 DISTRIBUTION OF COPIES OF FORCE AND CLARKE'S GOVERNMENTARY        
+ 393  393 7 HISTORY OF THE U.S. TO MEMBERS OF CONGRESS.                       
+ 394  394 1 G- -   -238B  J 25-3-        HR981     MAR. 2, 1839               
+ 394  394 2 S253099B      Y=23 N=7                 WRIGHT, N.Y.               
+ 394  394 3 TO RETAIN THE SENATE AMENDMENT TO H.R. 981                        
+ 394  394 4 (APP. MAR. 3, 1839, 5 STAT L. 339), A BILL MAKING                 
+ 394  394 5 APPROPRIATIONS FOR CIVIL AND DIPLOMATIC EXPENSES FOR 1839,        
+ 394  394 6 WHICH AMENDMENT STRIKES OUT THE PROVISION FOR THE                 
+ 394  394 7 DISTRIBUTION OF COPIES OF THE DOCUMENTARY HISTORY OF THE          
+ 394  394 8 U.S. AMONG MEMBERS OF CONGRESS.                                   
+ 395  395 1 G-7-  -238C   J 25-3-325A    HR892     MAR. 2, 1839               
+ 395  395 2 S253100       Y=19 N=22                BENTON, MO.                
+ 395  395 3 TO AGREE TO THE AMENDMENT TO H.R. 892 (APP. MAR. 3, 1839,         
+ 395  395 4 5 STAT L. 35), A BILL MAKING APPROPRIATIONS FOR CERTAIN           
+ 395  395 5 TERRITORY ON THE NORTHERN FRONTIER, WHICH APPROPRIATES            
+ 395  395 6 $100,000 FOR CONSTRUCTING VARIOUS FORTIFICATIONS IN MAINE.        
+ 396  396 1 G-7-  -238D   J 25-3-325B    HR892     MAR. 2, 1839               
+ 396  396 2 S253101       Y=20 N=17                BENTON, MO.                
+ 396  396 3 TO AGREE TO THE AMENDMENT TO H.R. 892, WHICH APPROPRIATES         
+ 396  396 4 $80,000 FOR BARRACKS, QUARTERS, STORE HOUSES, HOSPITALS           
+ 396  396 5 AND STABLES, AS WELL AS FOR THE DEFENSE OF THESE POSTS.           
+ 397  397 1 G-7-  -238E   J 25-3-326A    HR892     MAR. 2, 1839               
+ 397  397 2 S253102       Y=14 N=23                BENTON, MO.                
+ 397  397 3 TO AGREE TO THE AMENDMENT TO H.R. 892, WHICH APPROPRIATES         
+ 397  397 4 $740,000 FOR FORTIFICATIONS AND MILITARY DEFENSES ON THE          
+ 397  397 5 ATLANTIC AND GULF COAST.                                          
+ 398  398 1 G-7-  -238F   J 25-3-326B    HR892     MAR. 2, 1839               
+ 398  398 2 S253103       Y=14 N=18                BENTON, MO.                
+ 398  398 3 TO AGREE TO THE AMENDMENT TO H.R. 892, WHICH APPROPRIATES         
+ 398  398 4 $80,000 FOR THE PROTECTION OF THE WESTERN FRONTIER.               
+ 399  399 1 G-7-  -       J 25-3-329     HR1090    MAR. 2, 1839               
+ 399  399 2 S253104       Y=11 N=26                CLAY, ALA.                 
+ 399  399 3 TO AMEND H.R. 1090 (APP. MAR. 3, 1839, 5 STAT 357), A BILL        
+ 399  399 4 MAKING APPROPRIATIONS FOR PREVENTING AND SUPPRESSING              
+ 399  399 5 INDIAN HOSTILITIES FOR THE YEAR 1839, BY APPROPRIATING            
+ 399  399 6 THE SUM OF $100,000 TO PAY CLAIMS FOR PROPERTY WHICH,             
+ 399  399 7 DURING THE WAR WITH THE SEMINOLE AND CREEK INDIANS,               
+ 399  399 8 WAS CONSUMED IN THE SERVICE OF THE U.S.                           
+ 400  400 1 G-7-  -240A   J 25-3-330A    HR1179    MAR. 2, 1839               
+ 400  400 2 S253105       Y=1 N=38                 SOUTHARD, N.J.             
+ 400  400 3 TO AMEND H.R. 1179 (APP. MAR. 3, 1839, 5 STAT L. 355), A          
+ 400  400 4 BILL GIVING THE PRESIDENT ADDITIONAL POWERS FOR THE DEFENSE       
+ 400  400 5 OF THE U.S. AGAINST INVASION, BY WITHDRAWING THE PROVISION        
+ 400  400 6 PERMITTING THE RESIDENT TO RAISE 50,000 VOLUNTEERS.               
+ 401  401 1 G-7-  -240B   J 25-3-330B    HR1176    MAR. 2, 1839               
+ 401  401 2 S253106       Y=41 N=0                 BENTON, MO.                
+ 401  401 3 TO ORDER THIRD READING OF H.R. 1176 (APP. MAR. 3, 1839,           
+ 401  401 4 5 STAT L. 355), A BILL GIVING THE PRESIDENT ADDITIONAL            
+ 401  401 5 POWERS FOR THE DEFENSE OF THE U.S. AGAINST INVASION.              
+ 402  402 1 G-7-  -       J 25-3-333     HR1059    MAR. 2, 1839               
+ 402  402 2 S253107       Y=23 N=8                 SMITH, IND.                
+ 402  402 3 TO TABLE H.R. 1059, A BILL AMENDING THE ACT ESTABLISHING          
+ 402  402 4 THE TERRITORIAL GOVERNMENT OF WISCONSIN.                          
+ 403  403 1 G-7-  -246A   J 25-3-336     HR981     MAR. 2, 1839               
+ 403  403 2 S253108       Y=23 N=7                 WRIGHT, N.Y.               
+ 403  403 3 TO AMEND H.R. 981 (APP. MAR. 3, 1839, 5 STAT 339), A BILL         
+ 403  403 4 MAKING CIVIL AND DIPLOMATIC APPROPRIATIONS FOR FISCAL             
+ 403  403 5 YEAR 1839, BY HAVING THE SENATE RECEDE FROM ITS AMENDMENT         
+ 403  403 6 PROVIDING MANNER OF PRINTING FOR EXECUTIVE DEPARTMENTS, AND       
+ 403  403 7 PROHIBITING DISTRIBUTION OF COPIES OF THE DOCUMENTARY HIS-        
+ 403  403 8 TORY OF THE U.S. TO SENATORS.  GLOBE READS TO AGREE TO THE        
+ 403  403 9 REPORT OF COMMITTEE ON CONFERENCE REGARDING AS ABOVE.             
+ 404  404 1 G-7-  -       J 25-3-337A    HJR46     MAR. 2, 1839               
+ 404  404 2 S253109       Y=17 N=17                WALL, N.J.                 
+ 404  404 3 TO ORDER THIRD READING OF H.J.RES. 46, A BILL ON REQUESTING       
+ 404  404 4 THE PRESIDENT TO PRESENT A GOLD MEDAL TO JAMES RAMSEY.            
+ 405  405 1 G-7-  -       J 25-3-337B    SRE       MAR. 2, 1839               
+ 405  405 2 S253110       Y=17 N=13                ROBINSON, ILL.             
+ 405  405 3 TO TABLE THE MOTION TO RECONSIDER THE VOTE ADOPTING               
+ 405  405 4 THE RESOLUTION FOR THE DISTRIBUTION OF THE COMPILATION            
+ 405  405 5 OF LAND LAWS, OPINIONS AND INSTRUCTIONS.                          
+ 406  406 1 G-7-  -       J 25-3-342     HR1051    MAR. 3, 1839               
+ 406  406 2 S253111       Y=21 N=31                HUBBARD, N.H.              
+ 406  406 3 TO TABLE H.R. 1051, A BILL REGARDING THE CLAIM OF THE             
+ 406  406 4 REPRESENTATIVES OF CAPTAIN JOSHUA HUDDY.                          
+ 407  407 1 G-7-  -       J 25-3-346     HR1136    MAR. 3, 1839               
+ 407  407 2 S253112       Y=6 N=23                 ALLEN, OHIO                
+ 407  407 3 TO AMEND H.R. 1136 (APP. MAR. 3, 1839, 5 STAT L 331), A           
+ 407  407 4 BILL FOR THE IMPROVEMENT AND SURVEY OF CERTAIN                    
+ 407  407 5 RIVERS AND ROADS IN FLORIDA, BY AUTHORIZING THE SECRETARY OF      
+ 407  407 6 THE TREASURY TO APPLY THE PROCEEDS OF THE GOVERNMENT              
+ 407  407 7 STOCK OF THE LOUISVILLE AND PORTLAND CANAL TO THE PURCHASE        
+ 407  407 8 OF OTHER STOCK IN THE CANAL.                                      
+ 408  408 1 G-7-  -246B   J 25-3-354     HR981     MAR. 3, 1839               
+ 408  408 2 S253113       Y=24 N=7                 WRIGHT, N.Y.               
+ 408  408 3 TO AGREE TO THE REPORT OF THE CONFERENCE COMMITTEE ON THE         
+ 408  408 4 7TH AMENDMENT OF THE SENATE TO H.R. 981 (APP. MAR. 3, 1839,       
+ 408  408 5 5 STAT L. 339), A BILL MAKING APPROPRIATIONS FOR THE CIVIL        
+ 408  408 6 AND DIPLOMATIC EXPENSES FOR THE FISCAL 1839, WHICH REPORT         
+ 408  408 7 ADVISES THE SENATE TO RECEDE FROM AS MUCH OF THAT AMENDMENT       
+ 408  408 8 AS RELATES TO THE PRINTING FOR THE EXECUTIVE DEPARTMENT AND       
+ 408  408 9 ADHERE TO THE PORTION RELATING TO THE DISTRIBUTION OF THE         
+ 408  40810 CLARK AND FORCE PAPERS AMONG THE SENATORS.                        
+ 409  409 1 G-7-  -       J 25-3-355     HR1089    MAR. 3, 1839               
+ 409  409 2 S253114       Y=18 N=10                CLAY, ALA.                 
+ 409  409 3 TO TABLE H.R. 1089, A BILL TO INCORPORATE WASHINGTON'S            
+ 409  409 4 MANUAL LABOR SCHOOL AND MALE ORPHAN ASYLUM SOCIETY.               
+ 410  410 1 G-7-  -247    J 25-3-369     SRE       MAR. 3, 1839               
+ 410  410 2 S253115       Y=6 N=12                 BENTON, MO.                
+ 410  410 3 TO ADJOURN, DURING DEBATE ON RESOLUTION CONCERNING DISTRIBU-      
+ 410  410 4 TION OF THE MADISON PAPERS.                                       

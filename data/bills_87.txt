@@ -1,0 +1,2236 @@
+   1    1 1 J 87-40                      SRE4      JAN. 11, 1961              
+   1    1 2 S871001       Y=50 N=46                MANSFIELD, MONT            
+   1    1 3 S. RES. 4.  ANDERSON PROPOSAL TO REVISE RULE 22, TO ENABLE        
+   1    1 4 3/5 RATHER THAN 2/3 OF SENATOR'S VOTING TO INVOKE CLOTURE.        
+   1    1 5 MANSFIELD-DIRKSEN MOTION TO REFER TO COMMITTEE ON RULES AND       
+   1    1 6 ADMINISTRATION.  AGREED TO.  (SEE CQ 193, 194.)                   
+   2    2 1                              SRE       MAR. 07, 1961              
+   2    2 2 S871002       Y=18 N=66                JAVITS, NY                 
+   2    2 3 NOMINATION OF CHARLES M. MERIWETHER AS DIRECTOR OF EXPORT-        
+   2    2 4 IMPORT BANK.  JAVITS MOTION TO RECOMMIT.  REJECTED.  NAY          
+   2    2 5 SUPPORTS PRESIDENT'S POSITION.                                    
+   3    3 1                              SRE       MAR. 08, 1961              
+   3    3 2 S871003       Y=67 N=18                                           
+   3    3 3 NOMINATION OF CHARLES M. MERIWETHER AS DIRECTOR OF EXPORT-        
+   3    3 4 IMPORT BANK.  CONFIRMED.  YEA SUPPORTS PRESIDENT'S POSITION.      
+   4    4 1 J 87-200                     HR4510    MAR. 10, 1961              
+   4    4 2 S871004       Y=52 N=26                                           
+   4    4 3 HR 4510.  ADMINISTRATION'S 1961 EMERGENCY FEED GRAINS             
+   4    4 4 PROGRAM.  PROVIDE FEED GRAINS PRICE SUPPORTS, CASH AND KIND       
+   4    4 5 PAYMENTS TO FARMERS CUTTING FEED ACREAGE 30 PERCENT, AND          
+   4    4 6 LOSS OF ELIGIBILITY TO FARMERS NOT CUTTING ACREAGE.  PASSED.      
+   4    4 7 YEA SUPPORTS PRESIDENT'S POSITION.                                
+   5    5 1                              S1        MAR. 14, 1961              
+   5    5 2 S871005       Y=45 N=49                ROBERTSON, VA              
+   5    5 3 S. 1.  AREA REDEVELOPMENT ACT AUTHORIZING REDEVELOPMENT           
+   5    5 4 LOANS AND GRANTS FOR DEPRESSED INDUSTRIAL AND RURAL AREAS.        
+   5    5 5 ROBERTSON AMENDMENT REQUIRING CONGRESSIONAL APPROPRIATIONS        
+   5    5 6 RATHER THAN TREASURY FINANCING.  REJECTED.  YEA SUPPORTS          
+   5    5 7 PRESIDENT'S POSITION.                                             
+   6    6 1                              S1        MAR. 15, 1961              
+   6    6 2 S871006       Y=32 N=61                JAVITS, NY                 
+   6    6 3 S. 1.  AREA REDEVELOPMENT ACT.  JAVITS AMENDMENT RESTRICTING      
+   6    6 4 USE OF FUNDS TO LAND AND BUILDINGS.  REJECTED.  NAY SUPPORTS      
+   6    6 5 PRESIDENT'S POSITION.                                             
+   7    7 1                              S1        MAR. 15, 1961              
+   7    7 2 S871007       Y=27 N=66                DIRKSEN, ILL               
+   7    7 3 S. 1.  AREA REDEVELOPMENT ACT.  DIRKSEN AMENDMENT TO SUBSTI-      
+   7    7 4 TUTE LANGUAGE SIMILAR TO 1960 EISENHOWER ADMINISTRATION           
+   7    7 5 MEASURE.  REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.           
+   8    8 1                              S1        MAR. 15, 1961              
+   8    8 2 S871008       Y=19 N=71                CAPEHART, IND              
+   8    8 3 S. 1.  AREA REDEVELOPMENT ACT.  CAPEHART AMENDMENT PROVIDING      
+   8    8 4 THAT ONLY AREAS OF CHRONIC UNEMPLOYMENT DEPENDENT ON ONE          
+   8    8 5 INDUSTRY BE ELIGIBLE FOR GRANTS.  REJECTED.  NAY SUPPORTS         
+   8    8 6 PRESIDENT'S POSITION.                                             
+   9    9 1                              S1        MAR. 15, 1961              
+   9    9 2 S871009       Y=36 N=55                LAUSCHE, OHIO              
+   9    9 3 S. 1.  AREA REDEVELOPMENT ACT.  LAUSCHE AMENDMENT TO STRIKE       
+   9    9 4 FUNDS FOR PUBLIC FACILITY GRANTS.  REJECTED.  NAY SUPPORTS        
+   9    9 5 PRESIDENT'S POSITION.                                             
+  10   10 1                              S1        MAR. 15, 1961              
+  10   10 2 S871010       Y=31 N=57                SCOTT, PA                  
+  10   10 3 S. 1.  AREA REDEVELOPMENT ACT.  SCOTT AMENDMENT TO SUBSTI-        
+  10   10 4 TUTE LANGUAGE AUTHORIZING A BREAKDOWN OF TOTAL FUNDS INTO         
+  10   10 5 SEPARATE REVOLTING LOAN FUNDS FOR INDUSTRIAL DEVELOPMENT,         
+  10   10 6 RURAL DEVELOPMENT, AND PUBLIC FACILITIES.  REJECTED.  NAY         
+  10   10 7 SUPPORTS PRESIDENT'S POSITION.                                    
+  11   11 1                              S1        MAR. 15, 1961              
+  11   11 2 S871011       Y=63 N=27                                           
+  11   11 3 S. 1.  AREA REDEVELOPMENT ACT.  PASSED.  YEA SUPPORTS             
+  11   11 4 PRESIDENT'S POSITION.                                             
+  12   12 1                              SRE       MAR. 16, 1961              
+  12   12 2 S871012       Y=90 N=1                                            
+  12   12 3 EXEC C, 87TH CONGRESS, 1 ST SESSION.  COLUMBIA RIVER TREATY       
+  12   12 4 WITH CANADA.  TWO-THIRDS MAJORITY REQUIRED.  RATIFIED.  YEA       
+  12   12 5 SUPPORTS PRESIDENT'S POSITION.                                    
+  13   13 1                              SRE       MAR. 16, 1961              
+  13   13 2 S871013       Y=72 N=18                                           
+  13   13 3 EXEC E, 87TH CONGRESS, 1ST SESSION.  CONVENTION CREATING THE      
+  13   13 4 ORGANIZATION FOR ECONOMIC COOPERATION AND DEVELOPMENT.            
+  13   13 5 TWO-THIRDS MAJORITY REQUIRED.  RATIFIED.  YEA SUPPORTS            
+  13   13 6 PRESIDENT'S POSITION.                                             
+  14   14 1                              HR4806    MAR. 16, 1961              
+  14   14 2 S871014       Y=42 N=44                                           
+  14   14 3 HR 4806.  TEMPORARY EXTENDED UNEMPLOYMENT COMPENSATION ACT        
+  14   14 4 OF 1961.  AUTHORIZE FEDERAL ADVANCES TO PERMIT MAXIMUM            
+  14   14 5 13-WEEK STATE EXTENSION OF UNEMPLOYMENT BENEFITS FOR THOSE        
+  14   14 6 WHO HAVE EXHAUSTED NORMAL BENEFITS DURING RECESSION.              
+  14   14 7 FINANCE COMMITTEE AMENDMENT REQUIRING STATE REPAYMENT OF          
+  14   14 8 ADVANCES SOLELY BY EMPLOYERS' TAX.  REJECTED.  NAY SUPPORTS       
+  14   14 9 PRESIDENT'S POSITION.                                             
+  15   15 1                              HR4806    MAR. 16, 1961              
+  15   15 2 S871015       Y=51 N=38                                           
+  15   15 3 HR 4806.  TEMPORARY EXTENDED UNEMPLOYMENT COMPENSATION ACT.       
+  15   15 4 COMMITTEE AMENDMENT TO REDUCE BENEFITS TO AN INDIVIDUAL           
+  15   15 5 UNDER THE BILL BY THE AMOUNT THE PERSON IS DRAWING IN ANY         
+  15   15 6 PUBLIC OR PRIVATE PENSION, EXCEPT DISABILITY PENSIONS OR          
+  15   15 7 PENSIONS FOR VETERANS 65 AND OVER.  AGREED TO.                    
+  16   16 1                              HR4806    MAR. 16, 1961              
+  16   16 2 S871016       Y=45 N=42                WILLIAMS, DEL              
+  16   16 3 HR 4806.  TEMPORARY EXTENDED UNEMPLOYMENT COMPENSATION ACT        
+  16   16 4 OF 1961.  WILLIAMS AMENDMENT TO FINANCE REPAYMENT OF AD-          
+  16   16 5 VANCES BY TEMPORARY 1961-62, RATHER THAN 1962-63, PAYROLL         
+  16   16 6 TAX INCREASE FOR EMPLOYERS.  AGREED TO. NAY SUPPORTS              
+  16   16 7 PRESIDENT'S POSITION.                                             
+  17   17 1                              HR4806    MAR. 16, 1961              
+  17   17 2 S871017       Y=84 N=4                                            
+  17   17 3 HR 4806.  TEMPORARY EXTENDED UNEMPLOYMENT COMPENSATION ACT        
+  17   17 4 OF 1961.  PASSED.  YEA SUPPORTS PRESIDENT'S POSITION.             
+  18   18 1                              S205      MAR. 21, 1961              
+  18   18 2 S871018       Y=67 N=13                                           
+  18   18 3 S. 205.  FIVE YEAR PROGRAM OF FEDERAL GRANTS TO STATES FOR        
+  18   18 4 IMPROVEMENT OF EDUCATIONAL TELEVISION FACILITIES.  PASSED.        
+  19   19 1                              HR4510    MAR. 22, 1961              
+  19   19 2 S871019       Y=58 N=31                                           
+  19   19 3 HR 4510.  EMERGENCY FEED GRAINS PLAN FOR 1961.  CQ 4 WITH A       
+  19   19 4 CHANGE IN FEED ACREAGE CUT FROM 30 TO 20-40 PERCENT.  CON-        
+  19   19 5 FERENCE REPORT.  ADOPTED.  YEA SUPPORTS PRESIDENT'S               
+  19   19 6 POSITION.                                                         
+  20   20 1                              HR5188    MAR. 27, 1961              
+  20   20 2 S871020       Y=31 N=50                BRIDGES, NH                
+  20   20 3 HR 5188.  THIRD SUPPLEMENTAL APPROPRIATIONS BILL FOR FISCAL       
+  20   20 4 1961.  BRIDGES AMENDMENT TO ELIMINATE PAYMENTS TO COMMODITY       
+  20   20 5 CREDIT CORPORATION FOR PRICE SUPPORT COSTS.  REJECTED.            
+  20   20 6 NAY SUPPORTS PRESIDENT'S POSITION.                                
+  21   21 1                              HR5188    MAR. 27, 1961              
+  21   21 2 S871021       Y=29 N=53                BRIDGES, NH                
+  21   21 3 HR 5188.  FISCAL 1961 THIRD SUPPLEMENTAL APPROPRIATIONS           
+  21   21 4 BILL.  BRIDGES AMENDMENT TO ELIMINATE PAYMENTS TO COMMODITY       
+  21   21 5 CREDIT CORPORATION FOR SALE OF AGRICULTURAL COMMODITIES FOR       
+  21   21 6 FOREIGN CURRENCIES.  REJECTED.  NAY SUPPORTS PRESIDENT'S          
+  21   21 7 POSITION.                                                         
+  22   22 1                              S107      MAR. 28, 1961              
+  22   22 2 S871022       Y=17 N=68                WILLIAMS, DEL              
+  22   22 3 S. 107.  AUTHORIZE FUNDS FOR IRRIGATION AND WATER DIVERSION       
+  22   22 4 PROJECT IN NEW MEXICO.  WILLIAMS MOTION TO RECOMMIT.              
+  22   22 5 REJECTED.                                                         
+  23   23 1                              HR5463    MAR. 29, 1961              
+  23   23 2 S871023       Y=55 N=34                ELLENDER, LA               
+  23   23 3 HR 5463.  EXTEND THE SUGAR ACT OF 1948 AND AUTHORIZE              
+  23   23 4 PRESIDENT TO DENY ANY QUOTA BONUS TO DOMINICAN REPUBLIC           
+  23   23 5 RESULTING FROM CUTBACK IN CUBAN ALLOTMENT.  ELLENDER MOTION       
+  23   23 6 TO DELETE AMENDMENT DIRECTING PAYMENT INTO TREASURY OF            
+  23   23 7 DIFFERENCE BETWEEN U.S. AND WORLD PRICE UNDER REALLOCATION        
+  23   23 8 OF CUBAN QUOTAS.  AGREED TO.  YEA SUPPORTS PRESIDENT'S            
+  23   23 9 POSITION.                                                         
+  24   24 1                              HR3935    APR. 18, 1961              
+  24   24 2 S871024       Y=34 N=63                DIRKSEN, ILL               
+  24   24 3 HR 3935.  FAIR LABOR STANDARDS AMENDMENTS OF 1961.  DIRKSEN       
+  24   24 4 AMENDMENT TO EXTEND MINIMUM-WAGE COVERAGE, BUT NOT OVERTIME       
+  24   24 5 PROVISIONS, AND RETAIN MINIMUM-WAGE RAISE.  REJECTED.  NAY        
+  24   24 6 SUPPORTS PRESIDENT'S POSITION.                                    
+  25   25 1                              HR3935    APR. 18, 1961              
+  25   25 2 S871025       Y=34 N=63                RUSSELL, GA                
+  25   25 3 HR 3935.  FAIR LABOR STANDARDS AMENDMENTS OF 1961.  RUSSELL       
+  25   25 4 AMENDMENT TO EXCLUDE OVERTIME AND COVERAGE CHANGES, AND           
+  25   25 5 LIMIT BILL TO $1.15 MINIMUM-WAGE RAISE FOR FIRST TWO YEARS        
+  25   25 6 AND $1.25 THEREAFTER.  REJECTED.  NAY SUPPORTS PRESIDENT'S        
+  25   25 7 POSITION.                                                         
+  26   26 1                              HR3935    APR. 18, 1961              
+  26   26 2 S871026       Y=35 N=62                HOLLAND, FLA               
+  26   26 3 HR 3935.  FAIR LABOR STANDARDS AMENDMENTS OF 1961.  HOLLAND       
+  26   26 4 AMENDMENT LIMITING COVERAGE.  REJECTED.  NAY SUPPORTS             
+  26   26 5 PRESIDENT'S POSITION.                                             
+  27   27 1                              HR3935    APR. 18, 1961              
+  27   27 2 S871027       Y=39 N=58                PROUTY, VT                 
+  27   27 3 HR 3935.  FAIR LABOR STANDARDS AMENDMENTS OF 1961.  PROUTY        
+  27   27 4 AMENDMENT TO PERMIT SECRETARY OF LABOR TO SUSPEND MINIMUM         
+  27   27 5 WAGE INCREASE FOR 60 DAYS IF HE FOUND INCREASE WOULD CREATE       
+  27   27 6 SUBSTANTIAL UNEMPLOYMENT.  REJECTED.                              
+  28   28 1                              HR3935    APR. 19, 1961              
+  28   28 2 S871028       Y=39 N=55                GOLDWATER, ARIZ            
+  28   28 3 HR 3935.  FAIR LABOR STANDARDS AMENDMENTS OF 1961.                
+  28   28 4 GOLDWATER AMENDMENT TO REQUIRE THE SECRETARY OF LABOR TO          
+  28   28 5 RECOMMEND QUOTAS OR TARIFFS ON IMPORTS FROM LOW WAGE              
+  28   28 6 COUNTRIES.  REJECTED.                                             
+  29   29 1                              HR3935    APR. 19, 1961              
+  29   29 2 S871029       Y=39 N=56                MONRONEY, OKLA             
+  29   29 3 HR 3936.  FAIR LABOR STANDARDS AMENDMENTS OF 1961.                
+  29   29 4 MONRONEY AMENDMENT TO REDUCE COVERAGE.  REJECTED.  NAY            
+  29   29 5 SUPPORTS PRESIDENT'S POSITION.                                    
+  30   30 1                              HR3935    APR. 19, 1961              
+  30   30 2 S871030       Y=45 N=52                SMATHERS, FLA              
+  30   30 3 HR 3935.  FAIR LABOR STANDARDS AMENDMENTS OF 1961.  SMATHERS      
+  30   30 4 AMENDMENT TO LIMIT COVERAGE.  REJECTED.  NAY SUPPORTS             
+  30   30 5 PRESIDENT'S POSITION.                                             
+  31   31 1                              HR3935    APR. 20, 1961              
+  31   31 2 S871031       Y=65 N=28                                           
+  31   31 3 HR 3935.  1961 FAIR LABOR STANDARDS AMENDMENTS.  RAISE            
+  31   31 4 MINIMUM-WAGE TO $1.15 FOR FIRST TWO YEARS, $1.25 THEREAFTER       
+  31   31 5 FOR WORKERS ALREADY COVERED, AND EXTEND MINIMUM-WAGE COVER-       
+  31   31 6 AGE (AT $1.25 REACHED IN FOUR STEPS) AND OVERTIME COVERAGE.       
+  31   31 7 PASSED.  YEA SUPPORTS PRESIDENT'S POSITION.                       
+  32   32 1                              HR3935    MAY 03, 1961               
+  32   32 2 S871032       Y=64 N=28                                           
+  32   32 3 HR 3935.  1961 FAIR LABOR STANDARDS AMENDMENTS.  CQ 31, WITH      
+  32   32 4 A REDUCTION OF THE NUMBER OF WORKERS TO WHICH OVERTIME AND        
+  32   32 5 MINIMUM-WAGE COVERAGE WOULD BE EXTENDED.  CONFERENCE REPORT.      
+  32   32 6 ADOPTED.  YEA SUPPORTS PRESIDENT'S POSITION.                      
+  33   33 1                              SRE       MAY 04, 1961               
+  33   33 2 S871033       Y=86 N=5                                            
+  33   33 3 EXEC D, 87TH CONGRESS, 1ST SESSION.  GERMAN AGREEMENT ON          
+  33   33 4 VALIDATION OF BOND HOLDINGS ISSUED IN THE 1920'S TO U.S.          
+  33   33 5 CITIZENS BY CORPORATIONS NOW IN EAST GERMANY.  TWO-THIRDS         
+  33   33 6 MAJORITY REQUIRED.  RATIFIED.                                     
+  34   34 1                              SRE       MAY 08, 1961               
+  34   34 2 S871034       Y=63 N=17                                           
+  34   34 3 CONFIRMATION OF J. C. HOLMES AS AMBASSADOR TO IRAN.  YEA          
+  34   34 4 SUPPORTS PRESIDENT'S POSITION.                                    
+  35   35 1                              S1215     MAY 11, 1961               
+  35   35 2 S871035       Y=28 N=54                MILLER, IOWA               
+  35   35 3 S. 1215.  1951 BATTLE ACT.  AMEND TO GIVE PRESIDENT DISCRE-       
+  35   35 4 TIONARY AUTHORITY TO PROVIDE ECONOMIC AND FINANCIAL AID TO        
+  35   35 5 COUNTRIES OTHER THAN U.S.S.R. OR COMMUNIST FAR EAST.  MILLER      
+  35   35 6 AMENDMENT TO BAR AID TO COMMUNIST STATES IN DEBT TO               
+  35   35 7 UNITED NATIONS.  REJECTED.  NAY SUPPORTS PRESIDENT'S              
+  35   35 8 POSITION.                                                         
+  36   36 1                              S1215     MAY 11, 1961               
+  36   36 2 S871036       Y=43 N=36                                           
+  36   36 3 S. 1215.  AMEND 1951 BATTLE ACT TO GIVE PRESIDENT AUTHORITY       
+  36   36 4 TO GIVE AID TO COUNTRIES OTHER THAN U.S.S.R. AND COMMUNIST        
+  36   36 5 FAR EAST.  PASSED.  YEA SUPPORTS PRESIDENT'S POSITION.            
+  37   37 1                              SRE       MAY 16, 1961               
+  37   37 2 S871037       Y=92 N=0                                            
+  37   37 3 EXEC C, 86TH CONGRESS, 2ND SESSION.  INTERNATIONAL CONVEN-        
+  37   37 4 TION FOR PREVENTION OF SEA POLLUTION BY OIL.  EXECS H AND I,      
+  37   37 5 87TH CONGRESS, 1ST SESSION.  BRAZILIAN EXTRADITION TREATY         
+  37   37 6 AND INTERNATIONAL LOAD LINE CONVENTION.  RATIFIED EN BLOC.        
+  37   37 7 TWO-THIRDS MAJORITY REQUIRED.  YEA SUPPORTS PRESIDENT'S           
+  37   37 8 POSITION.                                                         
+  38   38 1                              S1021     MAY 17, 1961               
+  38   38 2 S871038       Y=25 N=70                THURMOND, SC               
+  38   38 3 S. 1021.  1961 SCHOOL ASSISTANCE ACT.  GRANTS FOR PUBLIC          
+  38   38 4 SCHOOLS AND TEACHERS' SALARIES.  THURMOND AMENDMENT TO PRO-       
+  38   38 5 HIBIT WITHHOLDING OF FUNDS BECAUSE OF SEGREGATION IN THE          
+  38   38 6 SCHOOLS.  REJECTED.                                               
+  39   39 1                              S1021     MAY 17, 1961               
+  39   39 2 S871039       Y=30 N=64                BLAKLEY, TEXAS             
+  39   39 3 S. 1021.  1961 SCHOOL ASSISTANCE ACT.  BLAKLEY AMENDMENT TO       
+  39   39 4 RETURN TWO PERCENT OF FEDERAL TAXES ON PERSONAL INCOME TO         
+  39   39 5 STATES TO FINANCE FEDERAL AID TO EDUCATION.  REJECTED.  NAY       
+  39   39 6 SUPPORTS PRESIDENT'S POSITION.  (SEE CQ 41.)                      
+  40   40 1                              HR6518    MAY 18, 1961               
+  40   40 2 S871040       Y=0 N=95                 HAYDEN, ARIZ               
+  40   40 3 HR 6518.  APPROPRIATE $600 MILLION FOR INTER-AMERICAN SOCIAL      
+  40   40 4 AND ECONOMIC COOPERATION AND CHILEAN RECONSTRUCTION PRO-          
+  40   40 5 GRAMS.  CONFERENCE STAGE.  HAYDEN MOTION THAT SENATE RECEDE       
+  40   40 6 FROM ITS AMENDMENT SETTING RATE CEILING ON FUNDS RELOANED BY      
+  40   40 7 RECIPIENTS.  REJECTED.  (SEE CQ 55.)                              
+  41   41 1                              S1021     MAY 19, 1961               
+  41   41 2 S871041       Y=29 N=63                COTTON, NH                 
+  41   41 3 S. 1021.  SCHOOL ASSISTANCE ACT.  COTTON AMENDMENT TO RETURN      
+  41   41 4 TWO PERCENT OF CIGARETTE TAX MONEY TO STATES.  REJECTED.          
+  41   41 5 NAY SUPPORTS PRESIDENT'S POSITION.                                
+  42   42 1                              S1021     MAY 19, 1961               
+  42   42 2 S871042       Y=22 N=73                PROXMIRE, WISC             
+  42   42 3 S. 1021.  SCHOOL ASSISTANCE ACT.  PROXMIRE AMENDMENT THAT         
+  42   42 4 MONEY ALLOCATED TO STATES CONSTITUTE A RETURN OF A PORTION        
+  42   42 5 OF FEDERAL INCOME TAX.  REJECTED.                                 
+  43   43 1                              S1021     MAY 19, 1961               
+  43   43 2 S871043       Y=33 N=50                COOPER, KY                 
+  43   43 3 S. 10219  SCHOOL ASSISTANCE ACT.  COOPER-JAVITS AMENDMENT TO      
+  43   43 4 SUBSTITUTE GRANT OF $20 PER PUBLIC SCHOOL CHILD, WITH HIGHER      
+  43   43 5 ALLOCATIONS TO RICHEST AND POOREST STATES THAN BILL               
+  43   43 6 PROVIDES.  REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.          
+  44   44 1                              S1021     MAY 22, 1961               
+  44   44 2 S871044       Y=61 N=25                MORSE, ORE                 
+  44   44 3 S. 1021.  SCHOOL ASSISTANCE ACT.  MORSE MOTION TO TABLE BUSH      
+  44   44 4 AMENDMENT THAT FUNDS BE GRANTED ONLY TO STATES PROCEEDING         
+  44   44 5 TOWARD FULL INTEGRATION.  AGREED TO.                              
+  45   45 1                              S1021     MAY 23, 1961               
+  45   45 2 S871045       Y=51 N=39                PROUTY, VT                 
+  45   45 3 S. 1021.  1961 SCHOOL ASSISTANCE ACT.  PROUTY AMENDMENT TO        
+  45   45 4 ALLOW FUNDS TO BE USED FOR SCHOOL MAINTENANCE COSTS.              
+  45   45 5 ACCEPTED.                                                         
+  46   46 1                              S1021     MAY 23, 1961               
+  46   46 2 S871046       Y=32 N=62                KEATING, NY                
+  46   46 3 S. 1021.  1961 SCHOOL ASSISTANCE ACT.  KEATING AMENDMENT          
+  46   46 4 AUTHORIZING TAXPAYERS' SUITS AGAINST UNCONSTITUTIONAL USE OF      
+  46   46 5 FUNDS UNDER THE BILL.  REJECTED.                                  
+  47   47 1                              S1021     MAY 23, 1961               
+  47   47 2 S871047       Y=10 N=79                GOLDWATER, ARIZ            
+  47   47 3 S. 1021.  1961 SCHOOL ASSISTANCE ACT.  GOLDWATER SUBSTITUTE       
+  47   47 4 BILL GRANTING COLLEGE SCHOLARSHIPS, TAX CREDITS FOR PROPERTY      
+  47   47 5 TAXES USED IN CONSTRUCTION AND MAINTENANCE OF PUBLIC              
+  47   47 6 SCHOOLS, AND TAX RELIEF TO PARENTS OF COLLEGE STUDENTS.           
+  47   47 7 REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.                     
+  48   48 1                              S1021     MAY 24, 1961               
+  48   48 2 S871048       Y=32 N=61                LAUSCHE, OHIO              
+  48   48 3 S. 1021.  SCHOOL ASSISTANCE ACT.  LAUSCHE AMENDMENT TO            
+  48   48 4 RESTORE ORIGINAL ADMINISTRATION FORMULA COUNTING ONLY             
+  48   48 5 PUBLIC SCHOOL CHILDREN WHEN ALLOCATING FUNDS.  REJECTED.          
+  48   48 6 NAY SUPPORTS PRESIDENT'S POSITION.                                
+  49   49 1                              S1021     MAY 24, 1961               
+  49   49 2 S871049       Y=66 N=25                MORSE, ORE                 
+  49   49 3 S. 1021.  SCHOOL ASSISTANCE ACT.  MORSE MOTION TO TABLE           
+  49   49 4 (REJECT) GOLDWATER AMENDMENT TO AUTHORIZE LOANS FOR THE           
+  49   49 5 CONSTRUCTION OF PRIVATE SCHOOLS.  AGREED TO.  YEA SUPPORTS        
+  49   49 6 PRESIDENT'S POSITION.                                             
+  50   50 1                              S1021     MAY 24, 1961               
+  50   50 2 S871050       Y=30 N=61                CASE, NJ                   
+  50   50 3 S. 1021.  SCHOOL ASSISTANCE ACT.  CASE SUBSTITUTE TO SET          
+  50   50 4 ASIDE ONE PERCENT OF FEDERAL INCOME TAX TO BE RETURNED TO         
+  50   50 5 STATES, BASED ON SCHOOL AGE POPULATION, FOR EDUCATIONAL           
+  50   50 6 PURPOSES.  REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.          
+  51   51 1                              S1021     MAY 24, 1961               
+  51   51 2 S871051       Y=30 N=59                COOPER, KY                 
+  51   51 3 S. 1021.  SCHOOL ASSISTANCE ACT.  COOPER-JAVITS AMENDMENT TO      
+  51   51 4 REDUCE AUTHORIZATION.  REJECTED.  NAY SUPPORTS PRESIDENT'S        
+  51   51 5 POSITION.                                                         
+  52   52 1                              S1021     MAY 24, 1961               
+  52   52 2 S871052       Y=61 N=30                MORSE, ORE                 
+  52   52 3 S. 1021.  SCHOOL ASSISTANCE ACT.  MORSE MOTION TO TABLE           
+  52   52 4 (REJECT) TALMADGE AMENDMENT TO BAR WITHHOLDING OF FUNDS FROM      
+  52   52 5 STATES WHICH COMPLY WITH ACT.  AGREED TO.                         
+  53   53 1                              S1021     MAY 24, 1961               
+  53   53 2 S871053       Y=24 N=63                MILLER, IOWA               
+  53   53 3 S. 1021.  SCHOOL ASSISTANCE ACT.  MILLER AMENDMENT TO LIMIT       
+  53   53 4 ADMINISTRATIVE COSTS OF PROGRAM.  REJECTED.                       
+  54   54 1                              S1021     MAY 25, 1961               
+  54   54 2 S871054       Y=49 N=34                                           
+  54   54 3 S. 1021.  SCHOOL ASSISTANCE ACT, AUTHORIZING GRANTS FOR           
+  54   54 4 TEACHERS' SALARIES, AND PUBLIC SCHOOL CONSTRUCTION, OPERA-        
+  54   54 5 TION AND MAINTENANCE.  PASSED.  YEA SUPPORTS PRESIDENT'S          
+  54   54 6 POSITION.                                                         
+  55   55 1                              HR6518    MAY 25, 1961               
+  55   55 2 S871055       Y=41 N=26                                           
+  55   55 3 HR 6518.  APPROPRIATE FUNDS FOR INTER-AMERICAN SOCIAL AND         
+  55   55 4 ECONOMIC COOPERATION PROGRAM AND CHILEAN RECONSTRUCTION PRO-      
+  55   55 5 GRAM.  CONFERENCE REPORT.  HOUSE AMENDMENT TO DROP SENATE         
+  55   55 6 PROVISION SETTING INTEREST RATE CEILING ON FUNDS RELOANED BY      
+  55   55 7 RECIPIENT NATION AND SUBSTITUTE PROVISION THAT INTEREST           
+  55   55 8 RATES BE WITHIN LEGAL LIMIT OF RECIPIENT NATION.  AGREED TO.      
+  56   56 1                              HR6345    JUNE 07, 1961              
+  56   56 2 S871056       Y=77 N=13                DIRKSEN, ILL               
+  56   56 3 HR 6345.  FISCAL 1962 INTERIOR DEPARTMENT APPROPRIATIONS.         
+  56   56 4 DIRKSEN AMENDMENT TO REDUCE AMOUNT FOR FOREST PROTECTION.         
+  56   56 5 AGREED TO.  YEA SUPPORTS PRESIDENT'S POSITION.                    
+  57   57 1                              HR6345    JUNE 07, 1961              
+  57   57 2 S871057       Y=48 N=43                GRUENING, ALASKA           
+  57   57 3 HR 6345.  FISCAL 1962 INTERIOR DEPARTMENT APPROPRIATIONS.         
+  57   57 4 GRUENING AMENDMENT ADDING FUNDS FOR AN INTERIOR DEPARTMENT        
+  57   57 5 SHIP TO SERVICE N. ALASKAN PORTS.  AGREED TO.  YEA SUPPORTS       
+  57   57 6 PRESIDENT'S POSITION.                                             
+  58   58 1                              S1922     JUNE 07, 1961              
+  58   58 2 S871058       Y=35 N=56                CAPEHART, IND              
+  58   58 3 S. 1922.  1961 HOUSING ACT.  AUTHORIZE $6.2 BILLION FOR           
+  58   58 4 EXISTING OR NEW HOUSING PROGRAMS.  CAPEHART AMENDMENT TO          
+  58   58 5 REDUCE MAXIMUM TERM AND VALUE OF LOANS UNDER THE PROPOSED         
+  58   58 6 HOME REHABILITATION PROGRAM.  REJECTED.  NAY SUPPORTS             
+  58   58 7 PRESIDENT'S POSITION.                                             
+  59   59 1                              S1922     JUNE 07, 1961              
+  59   59 2 S871059       Y=41 N=50                CAPEHART, IND              
+  59   59 3 S. 1922.  1961 HOUSING ACT.  CAPEHART AMENDMENT TO ELIMINATE      
+  59   59 4 LOANS TO NON-PROFIT AGENCIES FOR MIDDLE INCOME HOUSING.           
+  59   59 5 REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.                     
+  60   60 1                              S1922     JUNE 07, 1961              
+  60   60 2 S871060       Y=25 N=64                JAVITS, NY                 
+  60   60 3 S. 1922.  HOUSING ACT.  JAVITS AMENDMENT TO DELETE MODERATE       
+  60   60 4 INCOME HOUSING PROVISION AND CREATE A GOVERNMENT CORPORATION      
+  60   60 5 TO ASSITS IN PROVIDING SUCH HOUSING.  REJECTED.  NAY              
+  60   60 6 SUPPORTS PRESIDENT'S POSITION.                                    
+  61   61 1                              S1922     JUNE 08, 1961              
+  61   61 2 S871061       Y=39 N=57                CAPEHART, IND              
+  61   61 3 S. 1922.  HOUSING ACT.  CAPEHART AMENDMENT TO REDUCE MAXIMUM      
+  61   61 4 TERM OF LOANS ON MIDDLE-INCOME HOUSING AND EASE MORTGAGE          
+  61   61 5 RATES.  REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.             
+  62   62 1                              S1922     JUNE 08, 1961              
+  62   62 2 S871062       Y=49 N=44                GORE, TENN                 
+  62   62 3 S. 1922.  HOUSING ACT.  GORE AMENDMENT TO ELIMINATE MIDDLE-       
+  62   62 4 INCOME SALES AND RENTAL HOUSING PROGRAMS.  AGREED TO.  NAY        
+  62   62 5 SUPPORTS PRESIDENT'S POSITION.  (PROGRAM LATER REINSTATED.        
+  62   62 6 SEE CQ 74.)                                                       
+  63   63 1                              S1922     JUNE 08, 1961              
+  63   63 2 S871063       Y=34 N=58                CAPEHART, IND              
+  63   63 3 S. 1922.  HOUSING ACT.  CAPEHART AMENDMENT TO REDUCE NUMBER       
+  63   63 4 OF PUBLIC HOUSING UNITS.  REJECTED.  NAY SUPPORTS                 
+  63   63 5 PRESIDENT'S POSITION.                                             
+  64   64 1                              S1922     JUNE 08, 1961              
+  64   64 2 S871064       Y=38 N=55                CAPEHART, IND              
+  64   64 3 S. 1922.  HOUSING ACT.  CAPEHART AMENDMENT TO REDUCE URBAN        
+  64   64 4 RENEWAL GRANTS BY $700 MILLION.  REJECTED.  NAY SUPPORTS          
+  64   64 5 PRESIDENT'S POSITION.                                             
+  65   65 1                              S1922     JUNE 08, 1961              
+  65   65 2 S871065       Y=43 N=51                HUMPHREY, MINN             
+  65   65 3 S. 1922.  HOUSING ACT.  HUMPHREY AMENDMENT TO RAISE FEDERAL       
+  65   65 4 SHARE OF COST OF URBAN RENEWAL IN DISTRESSED AREA CITIES          
+  65   65 5 UNDER 150,000.  REJECTED.                                         
+  66   66 1                              S1922     JUNE 08, 1961              
+  66   66 2 S871066       Y=44 N=46                LAUSCHE, OHIO              
+  66   66 3 S. 1922.  HOUSING ACT.  LAUSCHE AMENDMENT TO DELETE GRANTS        
+  66   66 4 FOR MASS TRANSPORTATION DEMONSTRATION PROJECTS.  REJECTED.        
+  67   67 1                              S1922     JUNE 08, 1961              
+  67   67 2 S871067       Y=47 N=41                HUMPHREY, MINN             
+  67   67 3 S. 1922.  HOUSING ACT.  HUMPHREY MOTION TO TABLE DIRKSEN          
+  67   67 4 MOTION TO RECONSIDER THE VOTE BY WHICH CQ 66 WAS REJECTED.        
+  67   67 5 AGREED TO.                                                        
+  68   68 1                              S1922     JUNE 08, 1961              
+  68   68 2 S871068       Y=28 N=59                JAVITS, NY                 
+  68   68 3 S. 1922.  HOUSING ACT.  JAVITS AMENDMENT TO PERMIT DIRECT         
+  68   68 4 LOANS TO VETERANS IN 'HOUSING CREDIT SHORTAGE AREAS.'             
+  68   68 5 REJECTED.                                                         
+  69   69 1                              S1922     JUNE 08, 1961              
+  69   69 2 S871069       Y=46 N=42                CASE, NJ                   
+  69   69 3 S. 1922.  HOUSING ACT.  CASE AMENDMENT TO DELETE FUNDS TO         
+  69   69 4 CREATE OPEN SPACES AROUND URBAN CENTERS.  AGREED TO.  NAY         
+  69   69 5 SUPPORTS PRESIDENT'S POSITION.                                    
+  70   70 1                              S1922     JUNE 08, 1961              
+  70   70 2 S871070       Y=42 N=46                CAPEHART, IND              
+  70   70 3 S. 1922.  HOUSING ACT.  CAPEHART MOTION TO TABLE PENDING          
+  70   70 4 SPARKMAN AMENDMENT, CQ 74.  REJECTED.  NAY SUPPORTS PRESI-        
+  70   70 5 DENT'S POSITION.                                                  
+  71   71 1                              S1922     JUNE 08, 1961              
+  71   71 2 S871071       Y=45 N=46                BUSH, CONN                 
+  71   71 3 S. 1922.  HOUSING ACT.  BUSH AMENDMENT TO MODIFY CQ 74 BY         
+  71   71 4 LIMITING BELOW-THE-MARKET HOUSING LOANS TO FAMILIES DIS-          
+  71   71 5 PLACED BY GOVERNMENT ACTION.  REJECTED.  NAY SUPPORTS             
+  71   71 6 PRESIDENT'S POSITION.                                             
+  72   72 1                              S1922     JUNE 08, 1961              
+  72   72 2 S871072       Y=47 N=45                MORSE, ORE                 
+  72   72 3 S. 1922.  HOUSING ACT.  MORSE MOTION TO TABLE (KILL) GORE         
+  72   72 4 AMENDMENT MODIFYING CQ 74 BY REDUCING TERM OF MODERATE            
+  72   72 5 INCOME HOUSING LOANS TO 30 YEARS.  AGREED TO.  YEA SUPPORTS       
+  72   72 6 PRESIDENT'S POSITION.                                             
+  73   73 1                              S1922     JUNE 08, 1961              
+  73   73 2 S871073       Y=60 N=33                MANSFIELD, MONT            
+  73   73 3 S. 1922.  HOUSING ACT.  MANSFIELD MOTION TO TABLE CAPEHART        
+  73   73 4 MOTION TO RECOMMIT BILL TO COMMITTEE AND REPORT IT BACK TO        
+  73   73 5 SENATE IN TEN DAYS.  AGREED TO.  YEA SUPPORTS PRESIDENT'S         
+  73   73 6 POSITION.                                                         
+  74   74 1                              S1922     JUNE 08, 1961              
+  74   74 2 S871074       Y=47 N=42                SPARKMAN, ALA              
+  74   74 3 S. 1922.  HOUSING ACT.  SPARKMAN SUBSTITUTE TO RESTORE IN         
+  74   74 4 MODIFIED FORM THE MODERATE INCOME HOUSING PROVISION DELETED       
+  74   74 5 BY CQ 62.  AGREED TO.  YEA SUPPORTS PRESIDENT'S POSITION.         
+  75   75 1                              S1922     JUNE 12, 1961              
+  75   75 2 S871075       Y=64 N=25                                           
+  75   75 3 S. 1922.  HOUSING ACT OF 1961 AUTHORIZING $6.1 BILLION IN         
+  75   75 4 HOUSING PROGRAMS.  PASSED.  YEA SUPPORTS PRESIDENT'S              
+  75   75 5 POSITION.  (SEE CQ 84.)                                           
+  76   76 1                              SRE       JUNE 13, 1961              
+  76   76 2 S871076       Y=57 N=27                                           
+  76   76 3 NOMINATION OF H. MORGAN AS MEMBER OF FEDERAL POWER                
+  76   76 4 COMMISSION.  CONFIRMED.  YEA SUPPORTS PRESIDENT'S POSITION.       
+  77   77 1                              HR6713    JUNE 15, 1961              
+  77   77 2 S871077       Y=38 N=55                                           
+  77   77 3 HR 6713.  FINANCING FEDERAL AID TO HIGHWAYS.  CHANGE              
+  77   77 4 FEDERAL-AID HIGHWAY PROGRAM FINANCING METHOD FOR FISCAL YRS.      
+  77   77 5 1963-71.  AMENDMENT TO LIMIT TO ONE YEAR PENDING AMENDMENT        
+  77   77 6 EXTENDING FEDERAL BONUS TO STATES WITH BILLBOARD CONTROL FOR      
+  77   77 7 TWO YEARS.  REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.         
+  78   78 1                              HR7444    JUNE 20, 1961              
+  78   78 2 S871078       Y=26 N=64                DOUGLAS, ILL               
+  78   78 3 HR 7444.  FISCAL 1962 APPROPRIATIONS AUTHORIZATION FOR            
+  78   78 4 AGRICULTURE DEPARTMENT AND COMMODITIES CREDIT CORPORATION.        
+  78   78 5 DOUGLAS AMENDMENT TO REDUCE CONSERVATION PAYMENTS.                
+  78   78 6 REJECTED.  YEA SUPPORTS PRESIDENT'S POSITION.                     
+  79   79 1                              SRE148    JUNE 21, 1961              
+  79   79 2 S871079       Y=52 N=38                                           
+  79   79 3 S. RES. 148.  RESOLUTION DISAPPROVING PRESIDENT'S REORGANI-       
+  79   79 4 ZATION PLAN FOR SECURITIES AND EXCHANGE COMMISSION.  AGREED       
+  79   79 5 TO.  NAY SUPPORTS PRESIDENT'S POSITION.                           
+  80   80 1                              HR6027    JUNE 26, 1961              
+  80   80 2 S871080       Y=59 N=30                HARTKE, IND                
+  80   80 3 HR 6027.  SOCIAL SECURITY AMENDMENTS OF 1961.  INCREASE           
+  80   80 4 BENEFITS FOR WIDOWS AND RETIRED WORKERS, PERMIT AGE 62            
+  80   80 5 RETIREMENT FOR MEN WITH REDUCED BENEFITS, LIBERALIZE              
+  80   80 6 ELIGIBILITY REQUIREMENTS, AND INCREASE PAYROLL TAX.  HARTKE       
+  80   80 7 SUBSTITUTE (FOR COTTON AMENDMENT INCREASING CEILING ON MONEY      
+  80   80 8 RETIRED MAY EARN WITHOUT DEDUCTIONS FROM SOCIAL SECURITY          
+  80   80 9 BENEFITS) TO RETAIN CEILING BUT INCREASE INCOME FROM WHICH        
+  80   8010 $1 OF SOCIAL SECURITY BENEFITS IS DEDUCTED FROM EVERY $2          
+  80   8011 EARNED.  AGREED TO.                                               
+  81   81 1                              HR6027    JUNE 26, 1961              
+  81   81 2 S871081       Y=89 N=0                 COTTON, NH                 
+  81   81 3 HR 6027.  SOCIAL SECURITY.  COTTON AMENDMENT AS REPLACED BY       
+  81   81 4 HARTKE AMENDMENT.  AGREED TO.                                     
+  82   82 1                              HR6027    JUNE 26, 1961              
+  82   82 2 S871082       Y=90 N=0                                            
+  82   82 3 HR 6027.  SOCIAL SECURITY AMENDMENTS OF 1961.  PASSED.  YEA       
+  82   82 4 SUPPORTS PRESIDENT'S POSITION.                                    
+  83   83 1                              HR7577    JUNE 27, 1961              
+  83   83 2 S871083       Y=60 N=21                MAGNUSON, WASH             
+  83   83 3 HR 7577.  FISCAL 1962 APPROPRIATIONS FOR COMMERCE DEPART-         
+  83   83 4 MENTS, EXECUTIVE OFFICE, ETC.  MAGNUSON AMENDMENT PROVIDING       
+  83   83 5 FOR OFF-SEASON SHIP SUBSIDIES.  AGREED TO.                        
+  84   84 1                              S1922     JUNE 28, 1961              
+  84   84 2 S871084       Y=42 N=47                BUSH, CONN                 
+  84   84 3 S. 1922.  HOUSING ACT.  BUSH AMENDMENT TO RECOMMIT TO             
+  84   84 4 CONFERENCE WITH INSTRUCTION TO CUT FUNDS.  REJECTED.              
+  85   85 1                              S1922     JUNE 28, 1961              
+  85   85 2 S871085       Y=53 N=38                                           
+  85   85 3 S. 1922.  HOUSING ACT.  CONFERENCE REPORT AUTHORIZING $4.88       
+  85   85 4 BILLION IN HOUSING PROGRAMS OVER FOUR YEARS.  ADOPTED.  YEA       
+  85   85 5 SUPPORTS PRESIDENT'S POSITION.                                    
+  86   86 1                              SRE147    JUNE 29, 1961              
+  86   86 2 S871086       Y=31 N=47                                           
+  86   86 3 S. RES. 147.  RESOLUTION DISAPPROVING PRESIDENT'S REORGANI-       
+  86   86 4 ZATION PLAN FOR FEDERAL TRADE COMMISSION.  REJECTED.  NAY         
+  86   86 5 SUPPORTS PRESIDENT'S POSITION.                                    
+  87   87 1                              SRE143    JUNE 29, 1961              
+  87   87 2 S871087       Y=33 N=38                                           
+  87   87 3 S. RES. 143.  RESOLUTION DISAPPROVING PRESIDENT'S REORGANI-       
+  87   87 4 ZATION PLAN FOR CIVIL AERONAUTICS BOARD.  REJECTED.  NAY          
+  87   87 5 SUPPORTS PRESIDENT'S POSITION.                                    
+  88   88 1                              S1154     JULY 10, 1961              
+  88   88 2 S871088       Y=17 N=71                DIRKSEN, ILL               
+  88   88 3 S. 1154.  1961 EDUCATIONAL AND CULTURAL EXCHANGE ACT.             
+  88   88 4 DIRKSEN MOTION TO RECOMMIT TO FOREIGN RELATIONS COMMITTEE.        
+  88   88 5 REJECTED.                                                         
+  89   89 1                              S1154     JULY 11, 1961              
+  89   89 2 S871089       Y=56 N=34                FULBRIGHT, ARK             
+  89   89 3 S. 1154.  EDUCATIONAL AND CULTURAL EXCHANGE ACT.  FULBRIGHT       
+  89   89 4 AMENDMENT THAT MEMBERS OF COMMISSION ON INTERNATIONAL EDUCA-      
+  89   89 5 TION AND CULTURAL AFFAIRS BE APPOINTED ON NON-PARTISAN            
+  89   89 6 BASIS.  (SUBSTITUTE FOR PENDING AMENDMENT THAT NO MORE THAN       
+  89   89 7 SIX OF NINE MEMBERS BE OF THE SAME PARTY.)  AGREED TO.            
+  90   90 1                              S1154     JULY 12, 1961              
+  90   90 2 S871090       Y=47 N=42                MUNDT, SD                  
+  90   90 3 S. 1154.  1961 EDUCATIONAL AND CULTURAL EXCHANGE ACT.  MUNDT      
+  90   90 4 AMENDMENT TO ELIMINATE TRAVEL EXPENSES FOR DEPENDENTS OF          
+  90   90 5 PARTICIPANTS IN EXCHANGE PROGRAMS.  AGREED TO.                    
+  91   91 1                              S1154     JULY 12, 1961              
+  91   91 2 S871091       Y=40 N=51                MUNDT, SD                  
+  91   91 3 S. 1154.  EDUCATIONAL AND CULTURAL EXCHANGE ACT.  MUNDT           
+  91   91 4 AMENDMENT TO FINANCE FOREIGN STUDENTS AT U. S. SCHOOLS ONLY.      
+  91   91 5 REJECTED.                                                         
+  92   92 1                              S1154     JULY 12, 1961              
+  92   92 2 S871092       Y=35 N=57                MUNDT, SD                  
+  92   92 3 S. 1154.  EDUCATIONAL AND CULTURAL EXCHANGE ACT.  MUNDT           
+  92   92 4 AMENDMENT TO PROHIBIT PRESIDENT FROM MAKING AGREEMENTS WITH       
+  92   92 5 INTERNATIONAL ORGANIZATIONS TO SPONSOR EXCHANGE PROGRAMS.         
+  92   92 6 REJECTED.                                                         
+  93   93 1                              S1154     JULY 12, 1961              
+  93   93 2 S871093       Y=53 N=35                MUNDT, SD                  
+  93   93 3 S. 1154.  1961 EDUCATIONAL AND CULTURAL EXCHANGE ACT.  MUNDT      
+  93   93 4 AMENDMENT REQUIRING THAT LOYALTY QUESTIONS AND SECURITY           
+  93   93 5 RISKS MUST BE INVESTIGATED BY THE FBI.  AGREED TO.                
+  94   94 1                              S1154     JULY 12, 1961              
+  94   94 2 S871094       Y=42 N=43                MANSFIELD, MONT            
+  94   94 3 S. 1154.  EDUCATIONAL AND CULTURAL EXCHANGE ACT.  MANSFIELD       
+  94   94 4 MOTION TO TABLE KEATING AMENDMENT (CQ 95) EXTENDING ALIEN         
+  94   94 5 ORPHAN ADOPTION ACT.  REJECTED.                                   
+  95   95 1                              S1154     JULY 12, 1961              
+  95   95 2 S871095       Y=69 N=12                KEATING, NY                
+  95   95 3 S. 1154.  EDUCATIONAL AND CULTURAL EXCHANGE ACT.  KEATING         
+  95   95 4 AMENDMENT, TO EXTEND ALIEN ORPHAN ACT FOR TWO YEARS.  AGREED      
+  95   95 5 TO.                                                               
+  96   96 1                              S1154     JULY 14, 1961              
+  96   96 2 S871096       Y=79 N=5                                            
+  96   96 3 S. 1154.  EDUCATIONAL AND CULTURAL EXCHANGE ACT, CONSOLIDAT-      
+  96   96 4 ING AND EXPANDING EXCHANGE-OF-PERSONS PROGRAMS.  PASSED.          
+  97   97 1                              HR7576    JULY 18, 1961              
+  97   97 2 S871097       Y=36 N=54                HICKENLOOPE, IOWA          
+  97   97 3 HR 7576.  FISCAL 1962 ATOMIC ENERGY COMMISSION                    
+  97   97 4 AUTHORIZATION.  HICKENLOOPER AMENDMENT TO DELETE $95 MILLION      
+  97   97 5 FOR GENERATING PLANT AT HANFORD, WASHINGTON.  REJECTED.  NAY      
+  97   97 6 SUPPORTS PRESIDENT'S POSITION.                                    
+  98   98 1                              S1643     JULY 25, 1961              
+  98   98 2 S871098       Y=39 N=57                KEFAUVER, TENN             
+  98   98 3 S. 1643.  1961 AGRICULTURAL ACT.  KEFAUVER AMENDMENT TO           
+  98   98 4 DELETE A SECTION REAFFIRMING THE RIGHT OF COOPERATIVES TO         
+  98   98 5 JOIN IN FEDERATIONS.  REJECTED.  NAY SUPPORTS PRESIDENT'S         
+  98   98 6 POSITION.                                                         
+  99   99 1                              S1643     JULY 26, 1961              
+  99   99 2 S871099       Y=36 N=59                WILLIAMS, DEL              
+  99   99 3 S. 1643.  AGRICULTURAL ACT.  WILLIAMS AMENDMENT TO ELIMINATE      
+  99   99 4 EXTENSION OF 1961 FEED GRAINS PROGRAM.  REJECTED.  NAY            
+  99   99 5 SUPPORTS PRESIDENT'S POSITION.                                    
+ 100  100 1                              S1643     JULY 26, 1961              
+ 100  100 2 S871100       Y=40 N=53                KEFAUVER, TENN             
+ 100  100 3 S. 1643.  AGRICULTURAL ACT.  KEFAUVER AMENDMENT TO APPLY          
+ 100  100 4 ANTI-TRUST LAWS TO FEDERATIONS OF COOPERATIVES.  REJECTED.        
+ 101  101 1                              S1643     JULY 26, 1961              
+ 101  101 2 S871101       Y=50 N=39                KEFAUVER, TENN             
+ 101  101 3 S. 1643.  AGRICULTURAL ACT.  KEFAUVER AMENDMENT DELETING          
+ 101  101 4 AUTHORITY FOR COOPERATIVES TO MERGE WITHOUT BEING SUBJECT TO      
+ 101  101 5 ANTI-TRUST LAWS.  AGREED TO.                                      
+ 102  102 1                              S1643     JULY 26, 1961              
+ 102  102 2 S871102       Y=32 N=42                MILLER, IOWA               
+ 102  102 3 S. 1643.  AGRICULTURAL ACT.  MILLER AMENDMENT TO LONG             
+ 102  102 4 AMENDMENT (CQ 103).  SUBSTITUTE ATTORNEY GENERAL FOR              
+ 102  102 5 SECRETARY OF AGRICULTURE AS OFFICIAL TO DETERMINE WHETHER AN      
+ 102  102 6 ACQUISITION OR MERGER BY A COOPERATIVE CREATED A MONOPOLY.        
+ 102  102 7 REJECTED.                                                         
+ 103  103 1                              S1643     JULY 26, 1961              
+ 103  103 2 S871103       Y=41 N=37                LONG, LA                   
+ 103  103 3 S. 1643.  AGRICULTURAL ACT.  LONG AMENDMENT TO RESTORE THE        
+ 103  103 4 PROVISION ELIMINATED BY CQ 101, BUT TO AUTHORIZE THE SECRE-       
+ 103  103 5 TARY OF AGRICULTURE TO PROHIBIT ACQUISITIONS OR MERGERS BY        
+ 103  103 6 COOPERATIVES IF THEY CREATE A MONOPOLY.  KEFAUVER MOTION TO       
+ 103  103 7 TABLE (KILL) AMENDMENT.  AGREED TO.                               
+ 104  104 1                              SRE       JULY 27, 1961              
+ 104  104 2 S871104       Y=73 N=17                                           
+ 104  104 3 NOMINATION OF SPOTTSWOOD ROBINSON, III, TO CIVIL RIGHTS           
+ 104  104 4 COMMISSION.  CONFIRMED.  YEA SUPPORTS PRESIDENT'S POSITION.       
+ 105  105 1                              S901      JULY 28, 1961              
+ 105  105 2 S871105       Y=50 N=32                                           
+ 105  105 3 S. 901.  OCEANOGRAPHIC AND GREAT LAKES SURVEY PROGRAM             
+ 105  105 4 AUTHORIZATION.  PASSED.                                           
+ 106  106 1                              S2311     JULY 28, 1961              
+ 106  106 2 S871106       Y=81 N=0                                            
+ 106  106 3 S. 2311.  AUTHORIZE FUNDS FOR ADDITIONAL AIRCRAFT, MISSILES,      
+ 106  106 4 AND VESSELS TO MEET POSSIBLE BERLIN CRISIS.  PASSED.  YEA         
+ 106  106 5 SUPPORTS PRESIDENT'S POSITION.                                    
+ 107  107 1                              SJRE120   JULY 28, 1961              
+ 107  107 2 S871107       Y=75 N=0                                            
+ 107  107 3 S.J. RES. 120.  GIVE PRESIDENT POWER TO CALL UP RESERVES AND      
+ 107  107 4 EXTEND FOR ONE YEAR TOURS OF SERVICE FOR THOSE ON ACTIVE          
+ 107  107 5 DUTY TO MEET POSSIBLE BERLIN CRISIS.  PASSED.  YEA SUPPORTS       
+ 107  107 6 PRESIDENT'S POSITION.                                             
+ 108  108 1                              SCRE34    JULY 28, 1961              
+ 108  108 2 S871108       Y=76 N=0                                            
+ 108  108 3 S. CON. RES. 34.  STATE SENSE OF CONGRESS IN OPPOSITION TO        
+ 108  108 4 ADMISSION OF COMMUNIST CHINA TO U.N. AND U.S. RECOGNITION OF      
+ 108  108 5 COMMUNIST CHINA.  ADOPTED.  YEA SUPPORTS PRESIDENT'S              
+ 108  108 6 POSITION.                                                         
+ 109  109 1                              HR7445    JULY 29, 1961              
+ 109  109 2 S871109       Y=35 N=35                SYMINGTON, MO              
+ 109  109 3 HR 7445.  FISCAL 1962 INDEPENDENT OFFICES APPROPRIATION           
+ 109  109 4 BILL.  SYMINGTON AMENDMENT TO CUT MONEY TO DEVELOP SUPER-         
+ 109  109 5 SONIC COMMERCIAL AIRPLANE.  REJECTED.  NAY SUPPORTS PRESI-        
+ 109  109 6 DENT'S POSITION.                                                  
+ 110  110 1                              HR7445    JULY 29, 1961              
+ 110  110 2 S871110       Y=46 N=25                ANDERSON, NM               
+ 110  110 3 HR 7445.  FISCAL 1962 INDEPENDENT OFFICES APPROPRIATION           
+ 110  110 4 BILL.  ANDERSON MOTION TO TABLE PROXMIRE AMENDMENT CUTTING        
+ 110  110 5 BILL BY $50 MILLION.  ADOPTED.  NAY SUPPORTS PRESIDENT'S          
+ 110  110 6 POSITION.                                                         
+ 111  111 1                              HR7445    JULY 31, 1961              
+ 111  111 2 S871111       Y=26 N=63                WILLIAMS, DEL              
+ 111  111 3 HR 7445.  INDEPENDENT OFFICES APPROPRIATION BILL.  WILLIAMS       
+ 111  111 4 AMENDMENT TO DELETE $9 MILLION FROM CAB HELICOPTER                
+ 111  111 5 OPERATIONS.  REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.        
+ 112  112 1                              HR7445    JULY 31, 1961              
+ 112  112 2 S871112       Y=32 N=55                PROXMIRE, WISC             
+ 112  112 3 HR 7445.  INDEPENDENT OFFICES APPROPRIATION BILL.  PROXMIRE       
+ 112  112 4 AMENDMENT TO RESTORE $300,000 TO GSA TRANSPORTATION AND PUB-      
+ 112  112 5 LIC UTILITY SERVICE.  REJECTED.  YEA SUPPORTS PRESIDENT'S         
+ 112  112 6 POSITION.                                                         
+ 113  113 1                              HR7445    JULY 31, 1961              
+ 113  113 2 S871113       Y=40 N=47                PROXMIRE, WISC             
+ 113  113 3 HR 7445.  INDEPENDENT OFFICES APPROPRIATION BILL.  PROXMIRE       
+ 113  113 4 AMENDMENT TO CUT FUNDS FOR PURCHASE OF RADIOLOGICAL DEFENSE       
+ 113  113 5 EQUIPMENT BY OCDM.  REJECTED.  YEA SUPPORTS PRESIDENT'S           
+ 113  113 6 POSITION.                                                         
+ 114  114 1                              HR7445    JULY 31, 1961              
+ 114  114 2 S871114       Y=54 N=33                MANSFIELD, MONT            
+ 114  114 3 HR 7445.  INDEPENDENT OFFICES APPROPRIATION BILL.  MANSFIELD      
+ 114  114 4 MOTION TO TABLE AMENDMENT PROHIBITING PAYMENT OF OBLIGATED        
+ 114  114 5 CONTRACT FUNDS TO AIR TERMINALS WITH RACIALLY SEGREGATED          
+ 114  114 6 FACILITIES.  ADOPTED.                                             
+ 115  115 1                              HR7445    JULY 31, 1961              
+ 115  115 2 S871115       Y=67 N=19                MCNAMARA, MICH             
+ 115  115 3 HR 7445.  INDEPENDENT OFFICES APPROPRIATION BILL.  MCNAMARA       
+ 115  115 4 AMENDMENT TO ADD MONEY FOR HHFA RESEARCH INTO HOUSING FOR         
+ 115  115 5 ELDERLY.  AGREED TO.  YEA SUPPORTS PRESIDENT'S POSITION.          
+ 116  116 1                              HR7445    JULY 31, 1961              
+ 116  116 2 S871116       Y=17 N=68                PROXMIRE, WISC             
+ 116  116 3 HR 7445.  INDEPENDENT OFFICES APPROPRIATION BILL.  PROXMIRE       
+ 116  116 4 AMENDMENT TO DELETE $22 MILLION FOR CONSTRUCTION OF FEDERAL       
+ 116  116 5 BUILDINGS NOT REQUESTED BY ADMINISTRATION.  REJECTED.  YEA        
+ 116  116 6 SUPPORTS PRESIDENT'S POSITION.                                    
+ 117  117 1                              HR7445    JULY 31, 1961              
+ 117  117 2 S871117       Y=23 N=60                PROXMIRE, WISC             
+ 117  117 3 HR 7445.  INDEPENDENT OFFICES APPROPRIATION BILL.  PROXMIRE       
+ 117  117 4 AMENDMENT TO DELETE VA MEDICAL RESEARCH FUNDS.  REJECTED.         
+ 117  117 5 YEA SUPPORTS PRESIDENT'S POSITION.                                
+ 118  118 1                              HR7035    AUG. 01, 1961              
+ 118  118 2 S871118       Y=22 N=67                PROXMIRE, WISC             
+ 118  118 3 HR 7035.  FISCAL 1962 APPROPRIATIONS FOR DEPARTMENTS OF           
+ 118  118 4 LABOR AND HEALTH, EDUCATION, AND WELFARE.  PROXMIRE AMEND-        
+ 118  118 5 MENT TO DELETE $297 MILLION FROM 34 ITEMS EXCEEDING PRESI-        
+ 118  118 6 DENT'S REQUEST.  REJECTED.  YEA SUPPORTS PRESIDENT'S              
+ 118  118 7 POSITION.                                                         
+ 119  119 1                              HR7035    AUG. 01, 1961              
+ 119  119 2 S871119       Y=37 N=50                BUSH, CONN                 
+ 119  119 3 HR 7035.  APPROPRIATIONS FOR DEPARTMENTS OF LABOR AND             
+ 119  119 4 HEALTH, EDUCATION, AND WELFARE.  BUSH AMENDMENT TO REDUCE         
+ 119  119 5 NIH APPROPRIATIONS FOR GENERAL RESEARCH.  REJECTED.  YEA          
+ 119  119 6 SUPPORTS PRESIDENT'S POSITION.                                    
+ 120  120 1                              HR7035    AUG. 01, 1961              
+ 120  120 2 S871120       Y=25 N=58                BUSH, CONN                 
+ 120  120 3 HR 7035.  FISCAL 1962 APPROPRIATIONS FOR DEPARTMENTS OF           
+ 120  120 4 LABOR AND HEALTH, EDUCATION, AND WELFARE.  BUSH AMENDMENT TO      
+ 120  120 5 REDUCE NIH APPROPRIATIONS FOR RESEARCH IN NEUROLOGY AND           
+ 120  120 6 AND BLINDNESS.  REJECTED.  YEA SUPPORTS PRESIDENT'S               
+ 120  120 7 POSITION.                                                         
+ 121  121 1                              HR7035    AUG. 02, 1961              
+ 121  121 2 S871121       Y=39 N=53                BUSH, CONN                 
+ 121  121 3 HR 7035.  FISCAL 1962 APPROPRIATIONS FOR DEPARTMENTS OF           
+ 121  121 4 LABOR AND HEALTH, EDUCATION, AND WELFARE.  BUSH AMENDMENT TO      
+ 121  121 5 REDUCE NIH APPROPRIATIONS.  REJECTED.  YEA SUPPORTS               
+ 121  121 6 PRESIDENT'S POSITION.                                             
+ 122  122 1                              HR7035    AUG. 02, 1961              
+ 122  122 2 S871122       Y=57 N=37                DIRKSEN, ILL               
+ 122  122 3 HR 7035.  FISCAL 1962 APPROPRIATIONS FOR DEPARTMENTS OF           
+ 122  122 4 LABOR AND HEALTH, EDUCATION, AND WELFARE.  DIRKSEN AMENDMENT      
+ 122  122 5 TO ADD THREE-YEAR EXTENSION OF FEDERAL AID TO IMPACTED            
+ 122  122 6 SCHOOL DISTRICTS.  MANSFIELD MOTION TO TABLE DIRKSEN REQUEST      
+ 122  122 7 THAT SENATE VOTE ON WHETHER DIRKSEN AMENDMENT IS GERMANE TO       
+ 122  122 8 THE BILL.  AGREED TO.  YEA SUPPORTS PRESIDENT'S POSITION.         
+ 123  123 1                              HR7035    AUG. 02, 1961              
+ 123  123 2 S871123       Y=51 N=40                MANSFIELD, MONT            
+ 123  123 3 HR 7035.  FISCAL 1962 APPROPRIATIONS FOR DEPARTMENTS OF           
+ 123  123 4 LABOR AND HEALTH, EDUCATION, AND WELFARE.  MANSFIELD MOTION       
+ 123  123 5 TO TABLE DIRKSEN MOTION TO RECOMMIT HR 7035 TO APPROPRIA-         
+ 123  123 6 TIONS COMMITTEE WITH INSTRUCTIONS TO INSERT THREE-YEAR            
+ 123  123 7 EXTENSION OF FEDERAL AID TO IMPACTED SCHOOL AREAS.  AGREED        
+ 123  123 8 TO.  YEA SUPPORTS PRESIDENT'S POSITION.                           
+ 124  124 1                              HR7851    AUG. 03, 1961              
+ 124  124 2 S871124       Y=4 N=87                                            
+ 124  124 3 HR 7851.  FISCAL 1962 DEFENSE APPROPRIATIONS.  AMENDMENT TO       
+ 124  124 4 DELETE ADMINISTRATION-OPPOSED FUNDS FOR B-52 OR B-58              
+ 124  124 5 BOMBERS.  REJECTED.  YEA SUPPORTS PRESIDENT'S POSITION.           
+ 125  125 1                              HR7851    AUG. 04, 1961              
+ 125  125 2 S871125       Y=37 N=47                MUNDT, SD                  
+ 125  125 3 HR 7851.  FISCAL 1962 DEFENSE APPROPRIATIONS.  MUNDT MOTION       
+ 125  125 4 TO SUSPEND RULES TO OFFER AMENDMENT FOR THREE-YEAR EXTENSION      
+ 125  125 5 OF FEDERAL AID TO IMPACTED SCHOOL AREAS.  TWO-THIRDS              
+ 125  125 6 MAJORITY REQUIRED.  REJECTED.  NAY SUPPORTS PRESIDENT'S           
+ 125  125 7 POSITION.                                                         
+ 126  126 1                              HR7851    AUG. 04, 1961              
+ 126  126 2 S871126       Y=85 N=0                                            
+ 126  126 3 HR 7851.  FISCAL 1962 DEFENSE APPROPRIATIONS.  PASSED.            
+ 127  127 1                              SRE       AUG. 09, 1961              
+ 127  127 2 S871127       Y=83 N=12                                           
+ 127  127 3 NOMINATION OF LAWRENCE J. O'CONNER, JR. AS MEMBER OF FEDERAL      
+ 127  127 4 POWER COMMISSION.  CONFIRMED.  YEA SUPPORTS PRESIDENT'S           
+ 127  127 5 POSITION.                                                         
+ 128  128 1                              S2268     AUG. 10, 1961              
+ 128  128 2 S871128       Y=92 N=0                                            
+ 128  128 3 S. 2268.  AMEND FEDERAL AVIATION ACT TO PRESCRIBE PENALTIES,      
+ 128  128 4 INCLUDING DEATH SENTENCE, FOR HIJACKING OF COMMERCIAL AIR-        
+ 128  128 5 CRAFT IN FLIGHT AND OTHER MID-AIR CRIMES.  PASSED.                
+ 129  129 1                              SRE186    AUG. 10, 1961              
+ 129  129 2 S871129       Y=35 N=60                                           
+ 129  129 3 S. RES. 186.  RESOLUTION DISAPPROVING PRESIDENTIAL REORGANI-      
+ 129  129 4 ZATION OF FEDERAL MARITIME ADMINISTRATION.  REJECTED.  NAY        
+ 129  129 5 SUPPORTS PRESIDENT'S POSITION.                                    
+ 130  130 1                              S1983     AUG. 11, 1961              
+ 130  130 2 S871130       Y=39 N=56                BYRD, VA                   
+ 130  130 3 S. 1983.  FOREIGN ASSISTANCE ACT OF 1961.  BYRD AMENDMENT         
+ 130  130 4 REQUIRING ANNUAL APPROPRIATION FOR DEVELOPMENT LOAN FUND.         
+ 130  130 5 REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.                     
+ 131  131 1                              S1983     AUG. 15, 1961              
+ 131  131 2 S871131       Y=52 N=44                DIRKSEN, ILL               
+ 131  131 3 S. 1983.  FOREIGN ASSISTANCE ACT.  DIRKSEN AMENDMENT REQUIR-      
+ 131  131 4 ING CONGRESSIONAL APPROVAL OF LOANS OVER $5 MILLION AND           
+ 131  131 5 PRESIDENTIAL SUBMISSION OF SUCH LOAN PLANS TO CONGRESS 30         
+ 131  131 6 DAYS PRIOR TO ENTERING INTO LOAN AGREEMENTS.  (SUBSTITUTE         
+ 131  131 7 FOR PENDING HICKENLOOPER AMENDMENT (CQ 132) REQUIRING CON-        
+ 131  131 8 GRESS TO APPROVE, OR LIMIT, ANNUALLY DEVELOPMENT LOAN FUND        
+ 131  131 9 BUDGET.)  AGREED TO.                                              
+ 132  132 1                              S1983     AUG. 15, 1961              
+ 132  132 2 S871132       Y=63 N=34                HICKENLOOPE, IOWA          
+ 132  132 3 S. 1983.  FOREIGN ASSISTANCE ACT.  HICKENLOOPER AMENDMENT         
+ 132  132 4 REQUIRING CONGRESS TO APPROVE DEVELOPMENT LOAN FUND BUDGET        
+ 132  132 5 ANNUALLY) AS AMENDED BY DIRKSEN AMENDMENT (REQUIRING CON-         
+ 132  132 6 GRESSIONAL APPROVAL ONLY OF LOANS OVER $5 MILLION.)  AGREED       
+ 132  132 7 TO.                                                               
+ 133  133 1                              S1983     AUG. 15, 1961              
+ 133  133 2 S871133       Y=38 N=57                ELLENDER, LA               
+ 133  133 3 S. 1983.  FOREIGN ASSISTANCE ACT.  ELLENDER AMENDMENT             
+ 133  133 4 REDUCING MILITARY ASSISTANCE FOR FISCAL YEARS 1962 AND 1963       
+ 133  133 5 BY $500 MILLION.  REJECTED.  NAY SUPPORTS PRESIDENT'S             
+ 133  133 6 POSITION.                                                         
+ 134  134 1                              S1983     AUG. 15, 1961              
+ 134  134 2 S871134       Y=46 N=46                LAUSCHE, OHIO              
+ 134  134 3 S. 1983.  FOREIGN ASSISTANCE ACT.  LAUSCHE AMENDMENT REDUC-       
+ 134  134 4 ING BORROWING AUTHORIZATION FOR FISCAL YEARS 1962-1966.           
+ 134  134 5 REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.                     
+ 135  135 1                              S1983     AUG. 15, 1961              
+ 135  135 2 S871135       Y=44 N=51                ELLENDER, LA               
+ 135  135 3 S. 1983.  FOREIGN ASSISTANCE ACT.  ELLENDER AMENDMENT LIMIT-      
+ 135  135 4 ING U. S. CONTRIBUTION TO U. N. CONGO OPERATIONS TO 40            
+ 135  135 5 PERCENT OF TOTAL COST.  REJECTED.                                 
+ 136  136 1                              S1983     AUG. 16, 1961              
+ 136  136 2 S871136       Y=48 N=45                FULBRIGHT, ARK             
+ 136  136 3 S. 1983.  1961 FOREIGN ASSISTANCE ACT.  FULBRIGHT AMENDMENT       
+ 136  136 4 SETTING DEVELOPMENT LOAN FUND INTEREST RATE CEILING.              
+ 136  136 5 ADOPTED.                                                          
+ 137  137 1                              S1983     AUG. 16, 1961              
+ 137  137 2 S871137       Y=51 N=43                ELLENDER, LA               
+ 137  137 3 S. 1983.  FOREIGN ASSISTANCE ACT.  ELLENDER AMENDMENT TO          
+ 137  137 4 REDUCE DEVELOPMENT LOAN FUND BORROWING AUTHORIZATION FOR          
+ 137  137 5 FISCAL YEARS 1963-1966.  AGREED TO.  NAY SUPPORTS                 
+ 137  137 6 PRESIDENT'S POSITION.                                             
+ 138  138 1                              S1983     AUG. 16, 1961              
+ 138  138 2 S871138       Y=57 N=37                ELLENDER, LA               
+ 138  138 3 S. 1983.  FOREIGN ASSISTANCE ACT.  ELLENDER AMENDMENT TO          
+ 138  138 4 REDUCE MILITARY ASSISTANCE AUTHORIZATION FOR FISCAL YEARS         
+ 138  138 5 1962-1963.  AGREED TO.  NAY SUPPORTS PRESIDENT'S POSITION.        
+ 139  139 1                              S1983     AUG. 16, 1961              
+ 139  139 2 S871139       Y=27 N=67                CAPEHART, IND              
+ 139  139 3 S. 1983.  FOREIGN ASSISTANCE ACT.  CAPEHART AMENDMENT             
+ 139  139 4 REQUIRING THAT ANY EQUIPMENT, PROPERTY, OR ENGINEERING SER-       
+ 139  139 5 VICE NOT PURCHASED IN COUNTRY OF PROJECT BE PURCHASED IN          
+ 139  139 6 U.S.  REJECTED.                                                   
+ 140  140 1                              S1983     AUG. 16, 1961              
+ 140  140 2 S871140       Y=22 N=70                CHURCH, IDAHO              
+ 140  140 3 S. 1983.  FOREIGN ASSISTANCE ACT.  CHURCH AMENDMENT TO END        
+ 140  140 4 MILITARY GRANTS TO EUROPE EXCEPT IF PRESIDENT DECLARES A          
+ 140  140 5 NATIONAL EMERGENCY OR IF A COUNTRY'S PURCHASING MILITARY          
+ 140  140 6 EQUIPMENT AND SUPPLIES ON ITS OWN WOULD CAUSE UNDUE BURDEN        
+ 140  140 7 ON THE COUNTRY CONCERNED.  REJECTED.                              
+ 141  141 1                              S1983     AUG. 17, 1961              
+ 141  141 2 S871141       Y=45 N=50                CAPEHART, IND              
+ 141  141 3 S. 1983.  FOREIGN ASSISTANCE ACT.  CAPEHART AMENDMENT RE-         
+ 141  141 4 DUCING DEVELOPMENT LOAN FUND BORROWING AUTHORIZATION FROM         
+ 141  141 5 FIVE TO THREE YEARS.  REJECTED.  NAY SUPPORTS PRESIDENT'S         
+ 141  141 6 POSITION.                                                         
+ 142  142 1                              S1983     AUG. 17, 1961              
+ 142  142 2 S871142       Y=33 N=63                CAPEHART, IND              
+ 142  142 3 S. 1983.  FOREIGN ASSISTANCE ACT.  CAPEHART AMENDMENT EAR-        
+ 142  142 4 MARKING 30 PERCENT OF ALL DEVELOPMENT LOAN FUNDS FOR PRIVATE      
+ 142  142 5 ENTERPRISE.  REJECTED.                                            
+ 143  143 1                              S1983     AUG. 17, 1961              
+ 143  143 2 S871143       Y=61 N=34                BUSH, CONN                 
+ 143  143 3 S. 1983.  FOREIGN ASSISTANCE ACT.  BUSH AMENDMENT BARRING         
+ 143  143 4 AID TO ANY COMMUNIST-CONTROLLED COUNTRIES.  (SUBSTITUTE FOR       
+ 143  143 5 DODD AMENDMENT (CQ 144) BARRING AID TO 14 LISTED MEMBERS OF       
+ 143  143 6 THE SINO-SOVIET BLOC.)  PASSED.                                   
+ 144  144 1                              S1983     AUG. 17, 1961              
+ 144  144 2 S871144       Y=93 N=0                 DODD, CONN                 
+ 144  144 3 S. 1983.  FOREIGN ASSISTANCE ACT.  DODD AMENDMENT AS AMENDED      
+ 144  144 4 BY BUSH.  AGREED TO.                                              
+ 145  145 1                              S1983     AUG. 18, 1961              
+ 145  145 2 S871145       Y=30 N=59                PROUTY, VT                 
+ 145  145 3 S. 1983.  FOREIGN ASSISTANCE ACT.  PROUTY AMENDMENT REQUIR-       
+ 145  145 4 ING GRANTS OVER $5 MILLION TO BE APPROVED BY CONGRESS.            
+ 145  145 5 REJECTED.                                                         
+ 146  146 1                              S1983     AUG. 18, 1961              
+ 146  146 2 S871146       Y=43 N=45                BRIDGES, NH                
+ 146  146 3 S. 1983.  FOREIGN ASSISTANCE ACT.  BRIDGES AMENDMENT BARRING      
+ 146  146 4 AID TO COUNTRIES EXPORTING ARMS AND STRATEGIC MATERIALS TO        
+ 146  146 5 SOVIET-CONTROLLED NATIONS.  REJECTED.  NAY SUPPORTS PRESI-        
+ 146  146 6 DENT'S POSITION.                                                  
+ 147  147 1                              S1983     AUG. 18, 1961              
+ 147  147 2 S871147       Y=24 N=66                MILLER, IOWA               
+ 147  147 3 S. 1983.  FOREIGN ASSISTANCE ACT.  MILLER AMENDMENT DENYING       
+ 147  147 4 DEVELOPMENT FUND LOANS OR GRANTS TO NATIONS BEHIND IN PAY-        
+ 147  147 5 MENT OF ASSESSMENTS TO U.N.  REJECTED.  NAY SUPPORTS              
+ 147  147 6 PRESIDENT'S POSITION.                                             
+ 148  148 1                              S1983     AUG. 18, 1961              
+ 148  148 2 S871148       Y=38 N=53                SPARKMAN, ALA              
+ 148  148 3 S. 1983.  FOREIGN ASSISTANCE ACT.  SPARKMAN AMENDMENT             
+ 148  148 4 (SUBSTITUTE FOR CQ 149) TO CONTROL INTEREST RATES REQUIRED        
+ 148  148 5 BY RECIPIENT COUNTRY RELOANING DEVELOPMENT LOANS.  REJECTED.      
+ 149  149 1                              S1983     AUG. 18, 1961              
+ 149  149 2 S871149       Y=74 N=16                GRUENING, ALASKA           
+ 149  149 3 S. 1983.  FOREIGN ASSISTANCE ACT.  GRUENING AMENDMENT ESTAB-      
+ 149  149 4 LISHING CEILING ON INTEREST RATES FOR RELENDING OF DLF FUNDS      
+ 149  149 5 IN ANY RECIPIENT NATION.  AGREED TO.                              
+ 150  150 1                              S1983     AUG. 18, 1961              
+ 150  150 2 S871150       Y=51 N=40                MANSFIELD, MONT            
+ 150  150 3 S. 1983.  FOREIGN ASSISTANCE ACT.  MANSFIELD MOTION TO TABLE      
+ 150  150 4 MUNDT RIDER TO FOREIGN AID BILL EXTENDING LEGISLATION             
+ 150  150 5 AUTHORIZING SCHOOL AID TO IMPACTED AREAS FOR THREE YEARS.         
+ 150  150 6 AGREED TO.  YEA SUPPORTS PRESIDENT'S POSITION.                    
+ 151  151 1                              S1983     AUG. 18, 1961              
+ 151  151 2 S871151       Y=66 N=24                                           
+ 151  151 3 S. 1983.  FOREIGN ASSISTANCE ACT.  PASSED.  YEA SUPPORTS          
+ 151  151 4 PRESIDENT'S POSITION.  (SEE CQ 167.)                              
+ 152  152 1                              S1991     AUG. 23, 1961              
+ 152  152 2 S871152       Y=43 N=44                PROUTY, VT                 
+ 152  152 3 S. 1991.  1961 MANPOWER DEVELOPMENT AND TRAINING ACT              
+ 152  152 4 AUTHORIZING $655 MILLION FOR FOUR YEARS TO TRAIN UNEMPLOYED       
+ 152  152 5 WORKERS.  PROUTY AMENDMENT TO AUTHORIZE $255 FOR TWO YEARS.       
+ 152  152 6 REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.                     
+ 153  153 1                              S1991     AUG. 23, 1961              
+ 153  153 2 S871153       Y=47 N=40                MORSE, ORE                 
+ 153  153 3 S. 1991.  MANPOWER DEVELOPMENT AND TRAINING ACT.  MORSE           
+ 153  153 4 MOTION TO TABLE MOTION TO RECONSIDER CQ 152.  PASSED.  YEA        
+ 153  153 5 SUPPORTS PRESIDENT'S POSITION.                                    
+ 154  154 1                              S1991     AUG. 23, 1961              
+ 154  154 2 S871154       Y=53 N=39                CLARK, PA                  
+ 154  154 3 S. 1991.  MANPOWER DEVELOPMENT AND TRAINING ACT.  CLARK           
+ 154  154 4 AMENDMENT LIMITING TRAINING ALLOWANCES FOR 16-21 YEAR OLDS        
+ 154  154 5 TO FIVE PERCENT OF PROGRAMS FUNDS.  (SUBSTITUTE FOR PROUTY        
+ 154  154 6 AMENDMENT ELIMINATING ALL FUNDS TO 16-21 YEAR OLDS.)              
+ 154  154 7 PASSED.                                                           
+ 155  155 1                              S1991     AUG. 23, 1961              
+ 155  155 2 S871155       Y=60 N=31                                           
+ 155  155 3 S. 1991.  MANPOWER DEVELOPMENT AND TRAINING ACT.  PASSED.         
+ 155  155 4 YEA SUPPORTS PRESIDENT'S POSITION.                                
+ 156  156 1                              S2000     AUG. 24, 1961              
+ 156  156 2 S871156       Y=32 N=59                HICKENLOOPE, IOWA          
+ 156  156 3 S. 2000.  PEACE CORPS ACT.  HICKENLOOPER AMENDMENT TO REDUCE      
+ 156  156 4 1962 AUTHORIZATION FROM $40 MILLION TO $25 MILLION.               
+ 156  156 5 REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.                     
+ 157  157 1                              SRE       AUG. 24, 1961              
+ 157  157 2 S871157       Y=37 N=46                                           
+ 157  157 3 SMITH MOTION TO RECOMMIT NOMINATION OF MAJOR G. H. WILLIAMS       
+ 157  157 4 FOR PROMOTION TO BRIGADIER GENERAL IN U. S. ARMY RESERVES.        
+ 157  157 5 REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.                     
+ 158  158 1                              SRE       AUG. 24, 1961              
+ 158  158 2 S871158       Y=45 N=37                                           
+ 158  158 3 NOMINATION OF MAJOR G. H. WILLIAMS FOR PROMOTION TO               
+ 158  158 4 BRIGADIER GENERAL IN U.S. ARMY RESERVES.  CONFIRMED.  YEA         
+ 158  158 5 SUPPORTS PRESIDENT'S POSITION.                                    
+ 159  159 1                              HR7391    AUG. 28, 1961              
+ 159  159 2 S871159       Y=65 N=8                                            
+ 159  159 3 HR 7391.  AUTHORIZE $50 MILLION FOR FEDERAL PROGRAM OF            
+ 159  159 4 ACQUISITION OF WETLANDS AS MIGRATORY WATERFOWL HAVEN.             
+ 159  159 5 PASSED.  YEA SUPPORTS PRESIDENT'S POSITION.                       
+ 160  160 1                              HR7371    AUG. 30, 1961              
+ 160  160 2 S871160       Y=72 N=21                MANSFIELD, MONT            
+ 160  160 3 HR 7371.  FISCAL 1962 APPROPRIATIONS FOR THE DEPARTMENTS OF       
+ 160  160 4 STATE AND JUSTICE AND THE JUDICIARY.  MANSFIELD MOTION TO         
+ 160  160 5 SUSPEND RULES TO CONSIDER EXTENSION OF CIVIL RIGHTS               
+ 160  160 6 COMMISSION.  RULES SUSPENDED.  TWO-THIRDS VOTE REQUIRED.          
+ 160  160 7 YEA SUPPORTS PRESIDENT'S POSITION.                                
+ 161  161 1                              HR7371    AUG. 30, 1961              
+ 161  161 2 S871161       Y=56 N=36                MANSFIELD, MONT            
+ 161  161 3 HR 7371.  FISCAL 1962 APPROPRIATIONS FOR THE DEPARTMENTS OF       
+ 161  161 4 STATE AND JUSTICE AND THE JUDICIARY.  MANSFIELD MOTION TO         
+ 161  161 5 TABLE AMENDMENT MAKING CIVIL RIGHTS COMMISSION PERMANENT          
+ 161  161 6 AGENCY.  PASSED.                                                  
+ 162  162 1                              HR7371    AUG. 30, 1961              
+ 162  162 2 S871162       Y=48 N=42                MANSFIELD, MONT            
+ 162  162 3 HR 7371.  FISCAL 1962 APPROPRIATIONS FOR THE DEPARTMENTS OF       
+ 162  162 4 STATE AND JUSTICE AND THE JUDICIARY.  MANSFIELD MOTION TO         
+ 162  162 5 TABLE AMENDMENT EXTENDING CIVIL RIGHTS COMMISSION FOR FOUR        
+ 162  162 6 YEARS.  PASSED.                                                   
+ 163  163 1                              HR7371    AUG. 30, 1961              
+ 163  163 2 S871163       Y=47 N=42                MANSFIELD, MONT            
+ 163  163 3 HR 7371.  FISCAL 1962 APPROPRIATIONS FOR THE DEPARTMENTS OF       
+ 163  163 4 STATE AND JUSTICE AND THE JUDICIARY.  MANSFIELD MOTION TO         
+ 163  163 5 KILL JAVITS AMENDMENT WHICH WOULD ALLOW ATTORNEY GENERAL TO       
+ 163  163 6 BRING CIVIL SUITS FOR INJUNCTIONS TO PREVENT DEPRIVATION OF       
+ 163  163 7 CIVIL RIGHTS.  AGREED TO.                                         
+ 164  164 1                              HR7371    AUG. 30, 1961              
+ 164  164 2 S871164       Y=50 N=40                MANSFIELD, MONT            
+ 164  164 3 HR 7371.  FISCAL 1962 APPROPRIATIONS FOR THE DEPARTMENTS OF       
+ 164  164 4 STATE AND JUSTICE AND THE JUDICIARY.  MANSFIELD MOTION TO         
+ 164  164 5 TABLE (KILL) KEATING AMENDMENT AUTHORIZING FEDERAL AID TO         
+ 164  164 6 HELP LOCAL AREAS CARRY OUT SCHOOL DESEGREGATION.  PASSED.         
+ 165  165 1                              HR7371    AUG. 30, 1961              
+ 165  165 2 S871165       Y=70 N=19                MANSFIELD, MONT            
+ 165  165 3 HR 7371.  FISCAL 1962 APPROPRIATIONS FOR THE DEPARTMENTS OF       
+ 165  165 4 STATE AND JUSTICE AND THE JUDICIARY.  MANSFIELD-DIRKSEN           
+ 165  165 5 AMENDMENT TO EXTEND CIVIL RIGHTS COMMISSION FOR TWO YEARS.        
+ 165  165 6 AGREED TO.  YEA SUPPORTS PRESIDENT'S POSITION.                    
+ 166  166 1                              HR7371    AUG. 30, 1961              
+ 166  166 2 S871166       Y=31 N=50                JAVITS, NY                 
+ 166  166 3 HR 7371.  FISCAL 1962 APPROPRIATIONS FOR THE DEPARTMENTS OF       
+ 166  166 4 STATE AND JUSTICE AND THE JUDICIARY.  JAVITS AMENDMENT TO         
+ 166  166 5 INCREASE FUNDS FOR USIA INFORMATIONAL MEDIA GUARANTEE PRO-        
+ 166  166 6 GRAM.  REJECTED.  YEA SUPPORTS PRESIDENT'S POSITION.              
+ 167  167 1                              S1983     AUG. 31, 1961              
+ 167  167 2 S871167       Y=69 N=24                                           
+ 167  167 3 S. 1983.  FISCAL YEAR 1961 FOREIGN ASSISTANCE ACT.  CONFER-       
+ 167  167 4 ENCE REPORT INCLUDES $4.2 BILLION IN FOREIGN AID FOR FISCAL       
+ 167  167 5 1962 AND $1.5 BILLION IN DEVELOPMENTAL LOANS FOR FISCAL           
+ 167  167 6 YEARS 1963-1966.  AGREED TO.  YEA SUPPORTS PRESIDENT'S            
+ 167  167 7 POSITION.                                                         
+ 168  168 1                              S1703     AUG. 31, 1961              
+ 168  168 2 S871168       Y=9 N=73                                            
+ 168  168 3 S. 1703.  EXTEND FEDERAL AIRPORT ACT AND AUTHORIZE FUNDS FOR      
+ 168  168 4 5-YEAR PROGRAM OF FEDERAL MATCHING GRANTS FOR CONSTRUCTION        
+ 168  168 5 AND MODERNIZATION OF AIRPORTS.  AMENDMENT TO DISCONTINUE          
+ 168  168 6 OBLIGATORY CONTRACT PRIOR TO APPROPRIATION.  REJECTED.  NAY       
+ 168  168 7 SUPPORTS PRESIDENT'S POSITION.                                    
+ 169  169 1                              S1703     SEPT. 01, 1961             
+ 169  169 2 S871169       Y=10 N=72                PROXMIRE, WISC             
+ 169  169 3 S. 1703.  EXTEND FEDERAL AIRPORT ACT AND AUTHORIZE FUNDS FOR      
+ 169  169 4 FIVE YEAR PROGRAM OF FEDERAL MATCHING GRANTS FOR CONSTRUC-        
+ 169  169 5 TION AND MODERNIZATION OF AIRPORTS.  PROXMIRE AMENDMENT TO        
+ 169  169 6 REDUCE AUTHORIZATION BY ONE-THIRD.  REJECTED.  NAY SUPPORTS       
+ 169  169 7 PRESIDENT'S POSITION.                                             
+ 170  170 1                              HR6974    SEPT. 01, 1961             
+ 170  170 2 S871170       Y=40 N=41                BUTLER, MD                 
+ 170  170 3 HR 6974.  AMEND MERCHANT MARINE ACT OF 1936.  AUTHORIZE           
+ 170  170 4 OWNERS OF FEDERALLY SUBSIDIZED VESSELS TO FINANCE EQUIPMENT       
+ 170  170 5 AND MACHINERY FROM CAPITAL RESERVE FUND.  BUTLER AMENDMENT        
+ 170  170 6 TO ELIMINATE DIFFERENTIAL PREFERENCE GRANTED TO WEST COAST        
+ 170  170 7 IN BIDS FOR SHIPBUILDING.  REJECTED.                              
+ 171  171 1                              HR856     SEPT. 01, 1961             
+ 171  171 2 S871171       Y=50 N=18                                           
+ 171  171 3 HR 856.  PERMIT VETERANS TO CONVERT NATIONAL SERVICE LIFE         
+ 171  171 4 INSURANCE TO PENSION AND PAYMENT PLAN.  COMMITTEE AMENDMENT       
+ 171  171 5 PROVIDING TWO-YEAR PERIOD WHEN 1940-1952 VETERANS COULD           
+ 171  171 6 APPLY FOR NATIONAL SERVICE LIFE INSURANCE.  AGREED TO.            
+ 172  172 1                              S174      SEPT. 05, 1961             
+ 172  172 2 S871172       Y=32 N=41                                           
+ 172  172 3 S. 174.  ESTABLISH NATIONAL WILDERNESS PRESERVATION SYSTEM.       
+ 172  172 4 ELLENDER MOTION TO RECOMMIT TO COMMITTEE.  DEFEATED.              
+ 173  173 1                              S174      SEPT. 06, 1961             
+ 173  173 2 S871173       Y=32 N=53                ALLOTT, COLO               
+ 173  173 3 S. 174.  ESTABLISH NATIONAL WILDERNESS PRESERVATION SYSTEM.       
+ 173  173 4 ALLOTT AMENDMENT REQUIRING APPROVAL BY CONCURRENT RESOLUTION      
+ 173  173 5 FOR PERMANENT INCLUSION OF 'PRIMITIVE' NATIONAL FOREST AREAS      
+ 173  173 6 AND WILDLIFE PRESERVES IN WILDERNESS SYSTEM.  REJECTED.           
+ 174  174 1                              S174      SEPT. 06, 1961             
+ 174  174 2 S871174       Y=35 N=51                ALLOTT, COLO               
+ 174  174 3 S. 174.  ESTABLISH NATIONAL WILDERNESS PRESERVATION SYSTEM.       
+ 174  174 4 ALLOTT AMENDMENT TO HAVE APPROPRIATE SECRETARY, NOT THE           
+ 174  174 5 PRESIDENT, MAKE EXCEPTIONS TO RULES COVERING WILDERNESS           
+ 174  174 6 SYSTEM.  REJECTED.                                                
+ 175  175 1                              S174      SEPT. 06, 1961             
+ 175  175 2 S871175       Y=78 N=8                                            
+ 175  175 3 S. 174.  ESTABLISH NATIONAL WILDERNESS PRESERVATION SYSTEM.       
+ 175  175 4 PASSED.  YEA SUPPORTS PRESIDENT'S POSITION.                       
+ 176  176 1                              HR8762    SEPT. 07, 1961             
+ 176  176 2 S871176       Y=35 N=55                TOWER, TEXAS               
+ 176  176 3 HR 8762.  SMALL BUSINESS ACT AMENDMENTS OF 1961.  TOWER           
+ 176  176 4 AMENDMENT TO REQUIREMENT THAT THE SMALL BUSINESS AND GENERAL      
+ 176  176 5 SERVICES AND THE DEFENSE DEPARTMENT APPROVE REGULATIONS           
+ 176  176 6 DESIGNED TO PROVIDE SMALL BUSINESSES WITH MORE GOVERNMENT         
+ 176  176 7 SUBCONTRACTS.  REJECTED.                                          
+ 177  177 1                              S2180     SEPT. 08, 1961             
+ 177  177 2 S871177       Y=43 N=46                GOLDWATER, ARIZ            
+ 177  177 3 S. 2180.  ESTABLISHMENT OF ARMS CONTROL AND DISARMAMENT           
+ 177  177 4 AGENCY FOR WORLD PEACE.  GOLDWATER AMENDMENT TO ELIMINATE         
+ 177  177 5 AGENCY'S AUTHORITY TO CONDUCT, SUPPORT, OR COORDINATE             
+ 177  177 6 STUDIES ON DISARMAMENT.  REJECTED.  NAY SUPPORTS PRESIDENT'S      
+ 177  177 7 POSITION.                                                         
+ 178  178 1                              S2180     SEPT. 08, 1961             
+ 178  178 2 S871178       Y=33 N=54                DIRKSEN, ILL               
+ 178  178 3 S. 2180.  ESTABLISHMENT OF ARMS CONTROL AND DISARMAMENT           
+ 178  178 4 AGENCY FOR WORLD PEACE.  DIRKSEN MOTION TO SEND THE BILL TO       
+ 178  178 5 THE ARMED SERVICES COMMITTEE FOR STUDY.  REJECTED.  NAY           
+ 178  178 6 SUPPORTS PRESIDENT'S POSITION.                                    
+ 179  179 1                              S2180     SEPT. 08, 1961             
+ 179  179 2 S871179       Y=73 N=14                                           
+ 179  179 3 S. 2180.  ESTABLISHMENT OF DISARMAMENT AGENCY WITHIN STATE        
+ 179  179 4 DEPARTMENT.  PASSED.  YEA SUPPORTS PRESIDENT'S POSITION.          
+ 180  180 1                              SREK      SEPT. 11, 1961             
+ 180  180 2 S871180       Y=83 N=0                                            
+ 180  180 3 EXECS. J AND L, 87TH CONGRESS, 1ST SESSION.  TREATIES WITH        
+ 180  180 4 BELGIUM AND VIETNAM PROTECTING THE PROPERTY AND INTERESTS OF      
+ 180  180 5 U. S. CITIZENS IN THOSE COUNTRIES.  TWO-THIRDS MAJORITY           
+ 180  180 6 REQUIRED.  RATIFIED.  YEA SUPPORTS PRESIDENT'S POSITION.          
+ 181  181 1                              HR2010    SEPT. 11, 1961             
+ 181  181 2 S871181       Y=42 N=40                MCCARTHY, MINN             
+ 181  181 3 HR 2010.  AMEND AND EXTEND MEXICAN FARM LABOR PROGRAM.            
+ 181  181 4 MC CARTHY AMENDMENT TO SET MINIMUM WAGE FOR MEXICAN WORKERS.      
+ 181  181 5 PASSED.                                                           
+ 182  182 1                              HR2010    SEPT. 11, 1961             
+ 182  182 2 S871182       Y=42 N=41                MANSFIELD, MONT            
+ 182  182 3 HR 2010.  AMEND AND EXTEND MEXICAN FARM LABOR PROGRAM.            
+ 182  182 4 MANSFIELD MOTION TO TABLE RECONSIDERATION OF CQ 181.  AGREED      
+ 182  182 5 TO.                                                               
+ 183  183 1                              HR2010    SEPT. 11, 1961             
+ 183  183 2 S871183       Y=35 N=49                KEATING, NY                
+ 183  183 3 HR 2010.  AMEND AND EXTEND MEXICAN FARM LABOR PROGRAM.            
+ 183  183 4 KEATING AMENDMENT REQUIRING EMPLOYERS TO PROVIDE EQUAL WORK-      
+ 183  183 5 ING CONDITIONS FOR MEXICAN AND AMERICAN LABORERS.  REJECTED.      
+ 184  184 1                              HR2010    SEPT. 11, 1961             
+ 184  184 2 S871184       Y=76 N=9                                            
+ 184  184 3 HR 2010.  AMEND AND EXTEND MEXICAN FARM LABOR PROGRAM.            
+ 184  184 4 PASSED.  (SEE CQ 199.)                                            
+ 185  185 1                              S2393     SEPT. 12, 1961             
+ 185  185 2 S871185       Y=40 N=45                MORSE, ORE                 
+ 185  185 3 EXTEND LAWS PROVIDING FEDERAL AID TO IMPACTED SCHOOL              
+ 185  185 4 DISTRICTS.  MORSE AMENDMENT TO PENDING CQ 186 FOR 1-YEAR,         
+ 185  185 5 RATHER THAN 2-YEARS, EXTENSION OF THE PROGRAM.  REJECTED.         
+ 185  185 6 YEA SUPPORTS PRESIDENT'S POSITION.                                
+ 186  186 1                              S2393     SEPT. 12, 1961             
+ 186  186 2 S871186       Y=80 N=7                 MONRONEY, OKLA             
+ 186  186 3 S. 2393.  FEDERAL AID TO IMPACTED SCHOOL DISTRICTS.               
+ 186  186 4 MONRONEY AMENDMENT TO EXTEND IMPACTED AREAS PROGRAM AND           
+ 186  186 5 NATIONAL DEFENSE EDUCATION ACT FOR TWO TEARS.  PASSED.  NAY       
+ 186  186 6 SUPPORTS PRESIDENT'S POSITION.                                    
+ 187  187 1                              HR6775    SEPT. 14, 1961             
+ 187  187 2 S871187       Y=28 N=54                KEFAUVER, TENN             
+ 187  187 3 HR 6775.  LEGALIZE DUAL-RATE CONTRACTS BY STEAMSHIP               
+ 187  187 4 CONFERENCES.  KEFAUVER AMENDMENT TO FORBID SUCH CONTRACTS         
+ 187  187 5 BETWEEN NATURALLY COMPETITIVE CONFERENCES.  REJECTED.             
+ 188  188 1                              HR6775    SEPT. 14, 1961             
+ 188  188 2 S871188       Y=33 N=45                KEFAUVER, TENN             
+ 188  188 3 HR 6775.  LEGALIZE DUAL-RATE CONTRACTS BY STEAMSHIP               
+ 188  188 4 CONFERENCES.  KEFAUVER AMENDMENTS PROHIBITING DUAL-RATE CON-      
+ 188  188 5 TRACTS LIKELY TO EXCLUDE OTHER CARRIERS FROM TRADE.               
+ 188  188 6 REJECTED.                                                         
+ 189  189 1                              HR9033    SEPT. 15, 1961             
+ 189  189 2 S871189       Y=29 N=52                ELLENDER, LA               
+ 189  189 3 HR 9033.  FOREIGN ASSISTANCE APPROPRIATION ACT FOR FISCAL         
+ 189  189 4 1962.  ELLENDER AMENDMENT TO CUT MILITARY AID ABOUT 10            
+ 189  189 5 PERCENT.  REJECTED.  NAY SUPPORTS PRESIDENT'S POSITION.           
+ 190  190 1                              HR9033    SEPT. 15, 1961             
+ 190  190 2 S871190       Y=62 N=17                                           
+ 190  190 3 HR 9033.  FOREIGN ASSISTANCE APPROPRIATION ACT FOR FISCAL         
+ 190  190 4 1962.  PASSED.  YEA SUPPORTS PRESIDENT'S POSITION.                
+ 191  191 1                              S2426     SEPT. 15, 1961             
+ 191  191 2 S871191       Y=30 N=43                LONG, MO.                  
+ 191  191 3 S. 2426.  FEDERAL ELECTIONS ACT OF 1961.  LONG (MISSOURI)         
+ 191  191 4 AMENDMENT REQUIRING FINANCIAL REPORTS FROM POLITICAL              
+ 191  191 5 COMMITTEES THAT RECEIVED OR SPENT $2,500 OR MORE.  REJECTED.      
+ 192  192 1                              S2426     SEPT. 15, 1961             
+ 192  192 2 S871192       Y=30 N=44                KEATING, NY                
+ 192  192 3 S. 2426.  FEDERAL ELECTIONS ACT OF 1961.  KEATING AMENDMENT       
+ 192  192 4 APPLYING BILL TO PRIMARIES, CAUCUSES AND CONVENTIONS.             
+ 192  192 5 REJECTED.                                                         
+ 193  193 1                              SRE4      SEPT. 19, 1961             
+ 193  193 2 S871193       Y=37 N=43                MANSFIELD, MONT            
+ 193  193 3 S. RES. 4.  CHANGE VOTE REQUIRED TO INVOKE CLOTURE TO             
+ 193  193 4 THREE-FIFTHS.  MANSFIELD-DIRKSEN MOTION TO INVOKE CLOTURE TO      
+ 193  193 5 CLOSE DEBATE ON CONSIDERATION OF THE RESOLUTION.  TWO-THIRDS      
+ 193  193 6 MAJORITY REQUIRED.  REJECTED.                                     
+ 194  194 1                              SRE4      SEPT. 19, 1961             
+ 194  194 2 S871194       Y=47 N=35                MANSFIELD, MONT            
+ 194  194 3 S. RES. 4.  CHANGE VOTE REQUIRED TO INVOKE CLOTURE TO             
+ 194  194 4 THREE-FIFTHS.  MANSFIELD MOTION TABLING HIS EARLIER MOTION        
+ 194  194 5 TO CONSIDER THE RESOLUTION.  AGREED TO.                           
+ 195  195 1                              HR8444    SEPT. 19, 1961             
+ 195  195 2 S871195       Y=28 N=48                KEATING, NY                
+ 195  195 3 HR 8444.  ESTABLISH REGULATIONS FOR D.C. SUFFRAGE IN ACCOR-       
+ 195  195 4 DANCE WITH 23RD AMENDMENT TO CONSTITUTION.  KEATING-              
+ 195  195 5 KEAFAUVER AMENDMENT FOR 90-DAY RESIDENCE REQUIREMENT.             
+ 195  195 6 REJECTED.  YEA SUPPORTS PRESIDENT'S POSITION.                     
+ 196  196 1                              HR8444    SEPT. 19, 1961             
+ 196  196 2 S871196       Y=33 N=43                RANDOLPH, WVA              
+ 196  196 3 HR 8444.  ESTABLISH REGULATIONS FOR D.C. SUFFRAGE IN PRESI-       
+ 196  196 4 DENTIAL ELECTIONS.  RANDOLPH AMENDMENT FOR SIX-MONTH              
+ 196  196 5 RESIDENCE REQUIREMENT.  REJECTED.  YEA SUPPORTS PRESIDENT'S       
+ 196  196 6 POSITION.                                                         
+ 197  197 1                              HR8444    SEPT. 19, 1961             
+ 197  197 2 S871197       Y=38 N=36                LONG, LA.                  
+ 197  197 3 HR 8444.  ESTABLISH REGULATIONS FOR D.C. SUFFRAGE IN PRESI-       
+ 197  197 4 DENTIAL ELECTIONS.  LONG (LOUISIANA) AMENDMENT MAKING 21 THE      
+ 197  197 5 MINIMUM VOTING AGE.  AGREED TO.  NAY SUPPORTS PRESIDENT'S         
+ 197  197 6 POSITION.                                                         
+ 198  198 1                              HR8444    SEPT. 19, 1961             
+ 198  198 2 S871198       Y=66 N=6                                            
+ 198  198 3 HR 8444.  ESTABLISH REGULATIONS FOR D.C. SUFFRAGE IN PRESI-       
+ 198  198 4 DENTIAL ELECTIONS, INCLUDING PROVISIONS FOR ONE-YEAR RESI-        
+ 198  198 5 DENCE REQUIREMENT.  PASSED.  YEA SUPPORTS PRESIDENT'S             
+ 198  198 6 POSITION.                                                         
+ 199  199 1                              HR2010    SEPT. 21, 1961             
+ 199  199 2 S871199       Y=34 N=40                MCCARTHY, MINN             
+ 199  199 3 HR 2010.  EXTEND MEXICAN FARM LABOR LAW TWO YEARS.                
+ 199  199 4 MC CARTHY MOTION TABLING CONFERENCE REPORT.  REJECTED.            
+ 200  200 1                              HR2010    SEPT. 22, 1961             
+ 200  200 2 S871200       Y=38 N=33                JORDAN, NC                 
+ 200  200 3 HR 2010.  EXTEND MEXICAN FARM LABOR LAW TWO YEARS.  JORDAN        
+ 200  200 4 MOTION TABLING KEATING MOTION TO RECONSIDER MC CARTHY MOTION      
+ 200  200 5 TABLING CONFERENCE REPORT.  AGREED TO.                            
+ 201  201 1                              HR2010    SEPT. 22, 1961             
+ 201  201 2 S871201       Y=43 N=30                JORDAN, NC                 
+ 201  201 3 HR 2010.  EXTEND MEXICAN FARM LABOR LAW TWO YEARS.  JORDAN        
+ 201  201 4 MOTION TABLING KEATING MOTION TO DEFER CONSIDERATION OF           
+ 201  201 5 OF CONFERENCE REPORT UNTIL 87TH CONGRESS, 2ND SESSION.            
+ 201  201 6 AGREED TO.                                                        
+ 202  202 1                              HR2010    SEPT. 23, 1961             
+ 202  202 2 S871202       Y=41 N=31                                           
+ 202  202 3 HR 2010.  EXTEND MEXICAN FARM LABOR LAW TWO YEARS.  CONFER-       
+ 202  202 4 ENCE REPORT.  PASSED.                                             
+ 203  203 1                              SRE       SEPT. 25, 1961             
+ 203  203 2 S871203       Y=66 N=0                                            
+ 203  203 3 EXECS. I AND J, 86TH CONGRESS, 2ND SESSION.  GENEVA RADIO...      
+ 203  203 4 AND TELECOMMUNICATION TREATY.  SIGNED 1959.  SUBMITTED TO         
+ 203  203 5 SENATE 1960.  TWO-THIRDS MAJORITY REQUIRED.  RATIFIED.            
+ 204  204 1                              S1745     SEPT. 26, 1961             
+ 204  204 2 S871204       Y=35 N=25                MORSE, ORE                 
+ 204  204 3 S. 1745.  PROVIDE THAT D.C. MAY REIMBURSE D.C. TRANSIT            
+ 204  204 4 CORPORATION FOR BUSSING CHILDREN AT HALF FAIR.  MORSE MOTION      
+ 204  204 5 TABLING DIRKSEN MOTION TO RECOMMIT BILL.  AGREED TO.  (BILL       
+ 204  204 6 SUBSEQUENTLY PASSED BY VOICE VOTE BUT NOT CONSIDERED BY           
+ 204  204 7 HOUSE.)                                                           
+ 205  205 1                              HR8847    JAN. 23, 1962              
+ 205  205 2 S872001       Y=25 N=67                                           
+ 205  205 3 HR 8847.  TAX RELIEF TO INDIVIDUAL DUPONT STOCKHOLDERS            
+ 205  205 4 RECEIVING DISTRIBUTIONS OF GM STOCK.  MOTION TO RECOMMIT TO       
+ 205  205 5 FINANCE COMM.                                                     
+ 206  206 1                              HR8847    JAN. 23, 1962              
+ 206  206 2 S872002       Y=18 N=72                                           
+ 206  206 3 HR 8847.  AMENDMENT TO TAX ANY DISTRIBUTION OF GM STOCK TO        
+ 206  206 4 DUPONT CORPORATE SHAREHOLDERS AS A CAPITAL GAIN.                  
+ 207  207 1                              S2750     JAN. 30, 1962              
+ 207  207 2 S872003       Y=61 N=25                                           
+ 207  207 3 S. 2750.  PROHIBITION OF DISCRIMINATION BY LITERACY TESTS.        
+ 207  207 4 MOTION TO TABLE APPEAL AGAINST RULING THAT S. 2750 SHOULD BE      
+ 207  207 5 REFERRED TO JUDICIARY COMMITTEE.                                  
+ 208  208 1                              SRE       JAN. 31, 1962              
+ 208  208 2 S872004       Y=71 N=12                                           
+ 208  208 3 CONFIRMATION OF NOMINATION OF JOHN MC CONE AS DIRECTOR OF         
+ 208  208 4 THE CIA.                                                          
+ 209  209 1                              SRE       JAN. 31, 1962              
+ 209  209 2 S872005       Y=84 N=0                                            
+ 209  209 3 EXECS G, M, AND N, 87TH CONG., 1ST SESS:  ESTATE TAX CONVEN-      
+ 209  209 4 TION W/CANADA (G), UNDERSTANDING REGARDING N.W. ATLANTIC          
+ 209  209 5 FISHERIES CONVENTION (M), AND AMEND. TO 1944 INTERNATIONAL        
+ 209  209 6 CIVIL AVIATION CONVENTION (N).                                    
+ 210  210 1                              S1241     FEB. 06, 1962              
+ 210  210 2 S872006       Y=61 N=28                                           
+ 210  210 3 S. 1241.  MOTION TO KILL AMEND TO AUTHORIZE IN EDUCATIONAL        
+ 210  210 4 APPROPRIATIONS TO STATES, AN AMOUNT EQUAL TO 25 PERCENT OF        
+ 210  210 5 FEDERAL CIGARETTE TAX COLLECTED IN THE STATE.                     
+ 211  211 1                              S1241     FEB. 06, 1962              
+ 211  211 2 S872007       Y=59 N=28                                           
+ 211  211 3 S. 1241.  MOTION TO TABLE AMEND EXTENDING "FORGIVENESS" OF        
+ 211  211 4 50 PERCENT OF NDEA LOAN REPAYMENTS FOR STUDENTS WHO BECOME        
+ 211  211 5 TEACHERS IN PRIVATE ELEMENTARY OR HIGH SCHOOLS OR PRIVATE OR      
+ 211  211 6 PUBLIC COLLEGES.                                                  
+ 212  212 1                              S1241     FEB. 06, 1962              
+ 212  212 2 S872008       Y=37 N=50                                           
+ 212  212 3 S. 1241.  AMEND TO DELETE SCHOLARSHIP PROVISIONS AND SUBSTI-      
+ 212  212 4 TUTE $85 MILLION INCREASE IN LOANS UNDER NDEA.                    
+ 213  213 1                              S1241     FEB. 06, 1962              
+ 213  213 2 S872009       Y=15 N=72                                           
+ 213  213 3 S. 1241.  AMEND TO PERMIT LOANS FOR CONSTRUCTION TO PUBLIC        
+ 213  213 4 COLLEGES ONLY.                                                    
+ 214  214 1                              HR8900    FEB. 06, 1962              
+ 214  214 2 S872010       Y=69 N=17                                           
+ 214  214 3 HR 8900.  PASSAGE OF HOUSE COLLEGE-AID BILL, AMENDED TO           
+ 214  214 4 INCLUDE TEXT OF S. 1241.                                          
+ 215  215 1                              SRE234    FEB. 07, 1962              
+ 215  215 2 S872011       Y=30 N=55                                           
+ 215  215 3 S. RES. 234.  AMEND TO GIVE MINORITY PARTY RIGHT TO APPOINT       
+ 215  215 4 ONE OUT OF EVERY 10 AERONAUTICAL AND SPACE COMMITTEE STAFF        
+ 215  215 5 EMPLOYEES.                                                        
+ 216  216 1                              S2520     FEB. 07, 1962              
+ 216  216 2 S872012       Y=25 N=57                TOWER, TEXAS               
+ 216  216 3 S. 2520.  STRENGHTEN 1958 WELFARE AND PENSION PLANS               
+ 216  216 4 DISCLOSURE ACT.  TOWER AMEND TO EXEMPT ALL PLANS INVOLVING        
+ 216  216 5 100 OR FEWER EMPLOYEES FROM THE ACT.                              
+ 217  217 1                              S2520     FEB. 07, 1962              
+ 217  217 2 S872013       Y=25 N=57                TOWER, TEXAS               
+ 217  217 3 S. 2520.  TOWER AMEND. TO TRANSFER RESPONSIBILITY FOR             
+ 217  217 4 ADMINISTERING AMENDED WELFARE AND PENSION PLANS DISCLOSURE        
+ 217  217 5 ACT FROM THE LABOR DEPT. TO THE SECURITIES AND EXCHANGE           
+ 217  217 6 COMMISSION.                                                       
+ 218  218 1                              SRE288    FEB. 20, 1962              
+ 218  218 2 S872014       Y=42 N=58                                           
+ 218  218 3 S. RES. 288.  MOTION TO DISCHARGE GOV'T OPERATIONS COMMITTEE      
+ 218  218 4 FROM FURTHER CONSIDERATION OF S. 288, DISAPPROVING KENNEDY'S      
+ 218  218 5 REORGANIZATION PLAN TO CREATE AN URBAN AFFAIRS AND                
+ 218  218 6 HOUSING DEPARTMENT.                                               
+ 219  219 1                              SRE       MAR. 13, 1962              
+ 219  219 2 S872015       Y=80 N=00                                           
+ 219  219 3 EXEC A, 87TH CONGRESS, 2ND SESSION, EXEC F, 87 CONG., 1ST         
+ 219  219 4 SESS.  A:  INTL. ATOMIC ENERGY BOARD OF GOVERNORS ENLARGED.       
+ 219  219 5 F:  AMEND. CONVENTION OF THE WORLD METEOROLOGICAL                 
+ 219  219 6 ORGANIZATION BY CLARIFYING LANGUAGE AND ENLARGING THE EX.         
+ 219  219 7 COMMITTEE.                                                        
+ 220  220 1                              HR5143    MAR. 13, 1962              
+ 220  220 2 S872016       Y=22 N=60                MORSE, ORE                 
+ 220  220 3 HR 5143.  ABOLISH MANDATORY DEATH PENALTY IN D.C.  MORSE          
+ 220  220 4 MOTION TO REFER BACK TO D.C.  COMMITTEE FOR FURTHER HEARINGS      
+ 220  220 5 AND REPORT BACK IN TWO WEEKS.                                     
+ 221  221 1                              HR5143    MAR. 14, 1962              
+ 221  221 2 S872017       Y=19 N=63                                           
+ 221  221 3 HR 5143.  AMEND. TO ABOLISH CAPITAL PUNISHMENT IN D.C.            
+ 222  222 1                              HR5143    MAR. 14, 1962              
+ 222  222 2 S872018       Y=16 N=69                                           
+ 222  222 3 HR 5143.  AMEND. TO GIVE D.C. JURIES THREE ALTERNATIVES IN        
+ 222  222 4 FIRST DEGREE MURDER VERDICTS.                                     
+ 223  223 1                              SJRE29    MAR. 26, 1962              
+ 223  223 2 S872019       Y=62 N=15                MANSFIELD, MONT            
+ 223  223 3 S.J. RES. 29.  MAKE A FORMER HOME OF A. HAMILTON IN N.Y.C. A      
+ 223  223 4 NATIONAL SHRINE.  MANSFIELD MOTION THAT THE RESOLUTION BE         
+ 223  223 5 CONSIDERED.                                                       
+ 224  224 1                              SJRE29    MAR. 27, 1962              
+ 224  224 2 S872020       Y=58 N=34                MANSFIELD, MONT            
+ 224  224 3 S.J. RES. 29.  MANSFIELD MOTION TO TABLE RUSSELL POINT OF         
+ 224  224 4 ORDER THAT IT WAS UNCONSTITUTIONAL TO SUBSTITUTE A CONSTITU-      
+ 224  224 5 TIONAL AMENDMENT FOR OTHER LEGISLATION.                           
+ 225  225 1                              SJRE29    MAR. 27, 1962              
+ 225  225 2 S872021       Y=59 N=34                MANSFIELD, MONT            
+ 225  225 3 S.J. RES. 29.  MANSFIELD MOTION TO TABLE JAVITS AMENDMENT TO      
+ 225  225 4 BAN THE POLL TAX BY STATUTE INSTEAD OF BY CONSTITUTIONAL          
+ 225  225 5 AMEND.                                                            
+ 226  226 1                              SJRE29    MAR. 27, 1962              
+ 226  226 2 S872022       Y=77 N=16                                           
+ 226  226 3 S.J. RES. 29.  APPROVAL OF RESOLUTION BANNING THE POLL TAX        
+ 226  226 4 AS PREREQUISITE FOR VOTING IN FEDERAL ELECTIONS.                  
+ 227  227 1                              S2768     APR. 05, 1962              
+ 227  227 2 S872023       Y=15 N=78                                           
+ 227  227 3 S. 2768.  AMEND. TO WITHHOLD U.S. ECONOMIC AID FROM ANY U.N.      
+ 227  227 4 MEMBER WHICH WAS MORE THAN ONE YEAR IN ARREARS.                   
+ 228  228 1                              S2768     APR. 05, 1962              
+ 228  228 2 S872024       Y=21 N=72                                           
+ 228  228 3 S. 2768.  AMEND. PROHIBITING U.S. PARTICIPATION IN U.N.           
+ 228  228 4 MILITARY OPERATIONS WITHOUT CONGRESSIONAL AUTHORIZATION AND       
+ 228  228 5 RELIEVING U.N. FROM REPAYMENT TO THE U.S. OF DEBTS INCURRED       
+ 228  228 6 IN THE CONGO AND MIDDLE EAST.                                     
+ 229  229 1                              S2786     APR. 05, 1962              
+ 229  229 2 S872025       Y=29 N=64                                           
+ 229  229 3 S. 2786.  AMEND. AUTHORIZING U.S. TO LEND, ABOVE $25              
+ 229  229 4 MILLION, ONLY AMOUNTS MATCHED BY ACTUAL, NOT PROMISED, LOANS      
+ 229  229 5 BY OTHER U.N. MEMBERS.                                            
+ 230  230 1                              S2786     APR. 05, 1962              
+ 230  230 2 S872026       Y=24 N=67                                           
+ 230  230 3 S. 2786.  AMEND. TO LIMIT U.S. LOAN TO $25 MILLION PLUS AN        
+ 230  230 4 AMOUNT EQUAL TO HALF THE SUM OF LOANS MADE BY OTHER NATIONS.      
+ 231  231 1                              S2786     APR. 05, 1962              
+ 231  231 2 S872027       Y=20 N=72                                           
+ 231  231 3 S. 2786.  AMEND. AUTHORIZING PRESIDENT TO MAKE A THREE-YEAR,      
+ 231  231 4 $100 MILLION LOAN TO U.N. AT INTEREST RATE U.S. TREASURY          
+ 231  231 5 PAID ON ITS OWN BORROWING.                                        
+ 232  232 1                              S2786     APR. 05, 1962              
+ 232  232 2 S872028       Y=70 N=22                                           
+ 232  232 3 S. 2768.  PASSAGE AS AMENDED BY MANSFIELD-DIRKSEN SUBSTI-         
+ 232  232 4 TUTE, WHICH AUTHORIZED THE PRES.  TO LOAN UP TP $100 MILLION      
+ 232  232 5 TO U.N., AND LEFT THE FINANCING TO THE PRES' DISCRETION.          
+ 233  233 1                              S4        APR. 10, 1962              
+ 233  233 2 S872029       Y=39 N=45                TOWER, TEXAS               
+ 233  233 3 S. 4.  PADRE ISLAND NATIONAL SEASHORE.  TOWER MOTION TO           
+ 233  233 4 RECOMMIT TO INTERIOR COMMITTEE.                                   
+ 234  234 1                              S4        APR. 10, 1962              
+ 234  234 2 S872030       Y=24 N=58                                           
+ 234  234 3 S. 4.  AMEND. DIRECTING SEC. OF INTERIOR TO BUILD ROAD            
+ 234  234 4 THROUGH LENGTH OF PADRE ISLAND AREA.                              
+ 235  235 1                              HR9751    APR. 11, 1962              
+ 235  235 2 S872031       Y=85 N=0                                            
+ 235  235 3 HR 9751.  AUTHORIZE APPROPRIATION OF $12,969,300,000 FOR          
+ 235  235 4 PROCUREMENT OF AIRCRAFT, MISSLES AND NAVAL VESSELS IN FISCAL      
+ 235  235 5 1963.                                                             
+ 236  236 1                              SRE       APR. 12, 1962              
+ 236  236 2 S872032       Y=73 N=0                                            
+ 236  236 3 EXEC K, 87TH CONGRESS, 1ST SESSION.  INTERNATIONAL                
+ 236  236 4 CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1960.  SET FORTH        
+ 236  236 5 PRINCIPLES AND RULES FOR MARITIME SAFETY.                         
+ 237  237 1                              HR11038   APR. 16, 1962              
+ 237  237 2 S872033       Y=13 N=60                                           
+ 237  237 3 HR 11038.  SECOND SUPPLEMENTAL APPROPRIATION BILL FOR FISCAL      
+ 237  237 4 1962.  AMEND. TO DELETE $15 MILLION FOR FEDERAL PARTICIPA-        
+ 237  237 5 TION IN THE N.Y. WORLD'S FAIR.                                    
+ 238  238 1                              PROC      MAY 09, 1962               
+ 238  238 2 S872034       Y=43 N=53                                           
+ 238  238 3 S. 2750.  MOTION TO INVOKE CLOTURE.                               
+ 239  239 1                              S2750     MAY 09, 1962               
+ 239  239 2 S872035       Y=33 N=64                                           
+ 239  239 3 S. 2750.  MOTION TO TABLE THE BILL.                               
+ 240  240 1                              PROC      MAY 14, 1962               
+ 240  240 2 S872036       Y=42 N=52                                           
+ 240  240 3 S. 2750.  MOTION TO INVOKE CLOTURE.                               
+ 241  241 1                              S2750     MAY 15, 1962               
+ 241  241 2 S872037       Y=49 N=34                                           
+ 241  241 3 S. 2750.  MOTION TO LAY BILL ASIDE AND PROCEED TO OTHER           
+ 241  241 4 BUSINESS.                                                         
+ 242  242 1                              HR10788   MAY 17, 1962               
+ 242  242 2 S872038       Y=23 N=63                                           
+ 242  242 3 HR 10788.  TEXTILES AND FARM PRODUCTS, IMPORTS:  MOTION TO        
+ 242  242 4 TABLE HUMPHREY AMEND. OFFERED AS A SUBSTITUTE FOR MUNDT-          
+ 242  242 5 HRUSKA AMEND.                                                     
+ 243  243 1                              HR10788   MAY 17, 1962               
+ 243  243 2 S872039       Y=62 N=23                HUMPHREY, MINN             
+ 243  243 3 HR 10788.  ADOPTION OF HUMPHREY AMEND. AS SUBSTITUTE FOR          
+ 243  243 4 MUNDT AMEND.                                                      
+ 244  244 1                              HR10788   MAY 17, 1962               
+ 244  244 2 S872040       Y=62 N=24                                           
+ 244  244 3 HR 10788.  MUNDT AMEND. AS MODIFIED BY HUMPHREY SUBSTITUTE.       
+ 245  245 1                              HR10788   MAY 17, 1962               
+ 245  245 2 S872041       Y=80 N=03                                           
+ 245  245 3 HR 10788.  PASSAGE.                                               
+ 246  246 1                              S3225     MAY 24, 1962               
+ 246  246 2 S872042       Y=53 N=36                                           
+ 246  246 3 S. 3225.  FOOD AND AGRICULTURE ACT OF 1962:  AMEND. TO            
+ 246  246 4 ELIMINATE OPTION OFFERED FARMERS TO EXTEND FOR TWO YEARS THE      
+ 246  246 5 1962 SPECIAL WHEAT PROGRAM IN PLACE OF NEW PERMANENT SUPPLY-      
+ 246  246 6 MANAGEMENT WHEAT PROGRAM.                                         
+ 247  247 1                              S3225     MAY 24, 1962               
+ 247  247 2 S872043       Y=36 N=53                YOUNG, ND                  
+ 247  247 3 S. 3225.  YOUNG AMEND. TO STRIKE TITLE I OF THE BILL.             
+ 248  248 1                              S3225     MAY 14, 1962               
+ 248  248 2 S872044       Y=40 N=45                EASTLAND, MISS             
+ 248  248 3 S. 3255.  EASTLAND AMEND TO PENDING ELLENDER AMEND. (BELOW)       
+ 248  248 4 TO EXEMPT FEED GRAINS FED TO STOCK ON THE FARM ON WHICH THEY      
+ 248  248 5 ARE GROWN.                                                        
+ 249  249 1                              S3225     MAY 24, 1962               
+ 249  249 2 S872045       Y=46 N=37                ELLENDER, LA               
+ 249  249 3 S. 3225.  ELLENDER AMEND. TO SUBSTITUTE A PERMANENT SUPPLY-       
+ 249  249 4 MANAGEMENT PROGRAM WHICH OFFERED FARMERS A CHOICE BETWEEN         
+ 249  249 5 STRICT ACREAGE AND MARKETING CONTROLS W/HIGH SUPPORTS OR NO       
+ 249  249 6 ACREAGE OR MARKETING CONTROLS AND LOW OR NO SUPPORTS.             
+ 250  250 1                              S3225     MAY 25, 1962               
+ 250  250 2 S872046       Y=13 N=70                                           
+ 250  250 3 S. 3225.  AMEND. TO PROVIDE DAIRY FARMERS WHO VOLUNTARILY         
+ 250  250 4 REDUCED THEIR MARKETINGS WITH INCENTIVE PAYMENTS.                 
+ 251  251 1                              S3225     MAY 25, 1962               
+ 251  251 2 S872047       Y=21 N=60                                           
+ 251  251 3 S. 3225.  AMEND. TO PROVIDE DAIRY FARMERS WHO VOLUNTARILY         
+ 251  251 4 REDUCED THEIR MARKETINGS WITH INCENTIVE PAYMENTS, AND TO          
+ 251  251 5 PROVIDE PRODUCERS OF MILK FOR MANUFACTURE INTO DAIRY PRO-         
+ 251  251 6 DUCTS WHO REDUCED THEIR MARKETINGS W/PAYMENTS OF APPROXI-         
+ 251  251 7 MATELY 90 PERCENT OF PARITY.                                      
+ 252  252 1                              S3225     MAY 25, 1962               
+ 252  252 2 S872048       Y=17 N=65                                           
+ 252  252 3 S. 3225.  AMEND. TO STRIKE TITLE I.                               
+ 253  253 1                              S3225     MAY 25, 1962               
+ 253  253 2 S872049       Y=43 N=40                                           
+ 253  253 3 S. 3225.  MOTION TO TABLE KEATING AMEND. THAT ALL PUBLIC          
+ 253  253 4 FACILITIES DEVELOPED W/FED. ASSISTANCE UNDER TITLE I BE FREE      
+ 253  253 5 OF RACIAL DISCRIMINATION.                                         
+ 254  254 1                              S3225     MAY 25, 1962               
+ 254  254 2 S872050       Y=43 N=40                                           
+ 254  254 3 S. 3225.  MOTION TO TABLE AMEND. EXEMPT FOR TWO YEARS FROM        
+ 254  254 4 THE PROVISIONS OF THE SUPPLY-MANAGEMENT FEED GRAINS PROGRAM       
+ 254  254 5 ALL FEED GRAINS FED TO STOCK ON THE FARM ON WHICH THEY ARE        
+ 254  254 6 GROWN.                                                            
+ 255  255 1                              S3225     MAY 25, 1962               
+ 255  255 2 S872051       Y=42 N=38                                           
+ 255  255 3 S. 3225.  PASSAGE.                                                
+ 256  256 1                              S2965     MAY 28, 1962               
+ 256  256 2 S872052       Y=70 N=04                                           
+ 256  256 3 S. 2965.  STANDBY PUBLIC WORKS ACT OF 1962:  AMEND. TO AGREE      
+ 256  256 4 TO PORTION OF KERR SUBSTITUTE AMEND. ELIMINATING AUTHORITY        
+ 256  256 5 TO FINANCE THE PROGRAM BY BORROWING $2 MILLION FROM TREASURY      
+ 256  256 6 FUNDS SET ASIDE FOR HOUSING AND BANKING AGENCIES.                 
+ 257  257 1                              S2965     MAY 28, 1962               
+ 257  257 2 S872053       Y=43 N=32                                           
+ 257  257 3 S. 2965.  AMEND. TO AUTHORIZE APPROPRIATION OF $750,000,000       
+ 257  257 4 FOR IMMEDIATE PROGRAM OF PUBLIC WORKS IN AREAS OF HEAVY           
+ 257  257 5 UNEMPLOYMENT.                                                     
+ 258  258 1                              S2965     MAY 28, 1962               
+ 258  258 2 S872054       Y=37 N=36                                           
+ 258  258 3 S. 2965.  AMEND. TO AUTHORIZE APPROPRIATION OF $750,000,000       
+ 258  258 4 FOR STANDBY PUBLIC WORKS PROGRAM AFTER JUNE 30, 1963.             
+ 259  259 1                              S2965     MAY 28, 1962               
+ 259  259 2 S872055       Y=38 N=35                                           
+ 259  259 3 S. 2965.  MOTION TO TABLE KERR MOTION TO RECONSIDER THE VOTE      
+ 259  259 4 ON KERR AMEND. (ABOVE).                                           
+ 260  260 1                              S2965     MAY 28, 1962               
+ 260  260 2 S872056       Y=21 N=56                                           
+ 260  260 3 S. 2965.  AMEND. TO RAISE FROM 5 TO 6 PERCENT THE RATE OF         
+ 260  260 4 NATIONAL UNEMPLOYMENT REQUIRED TO TRIGGER THE STANDBY PUBLIC      
+ 260  260 5 WORKS PROGRAM.                                                    
+ 261  261 1                              S2965     MAY 28, 1962               
+ 261  261 2 S872057       Y=33 N=43                                           
+ 261  261 3 S. 2965.  AMEND. TO PROVIDE TWO-YEAR PROGRAM W/A 10 PERCENT       
+ 261  261 4 ANNUAL STEP-UP IN SPENDING ON PRESENTLY FUNDED PROJECTS.          
+ 262  262 1                              S2965     MAY 28, 1962               
+ 262  262 2 S872058       Y=34 N=44                                           
+ 262  262 3 S. 2965.  AMEND. TO ELIMINATE $750,000,000 STANDBY PROGRAM        
+ 262  262 4 AND RESTRICT THE IMMEDIATE PROGRAM TO COMMUNITY PROJECTS NOT      
+ 262  262 5 ALREADY AUTHORIZED BY CONGRESS.                                   
+ 263  263 1                              S2965     MAY 28, 1962               
+ 263  263 2 S872059       Y=12 N=66                                           
+ 263  263 3 S. 2965.  AMEND. TO EXCLUDE FROM THE TRIGGERING FORMULA FOR       
+ 263  263 4 THE STANDBY PROGRAM ANY UNEMPLOYMENT CAUSED BY STRIKES.           
+ 264  264 1                              S2965     MAY 28, 1962               
+ 264  264 2 S872060       Y=44 N=32                                           
+ 264  264 3 S. 2965.  PASSAGE.                                                
+ 265  265 1                              S2996     JUNE 06, 1962              
+ 265  265 2 S872061       Y=57 N=24                                           
+ 265  265 3 S. 2996.  FOREIGN ASSISTANCE ACT OF 1962:  AMEND. TO PROHI-       
+ 265  265 4 BIT FURNISHING AID OR THE SALE OR GIFT OF SURPLUS AGRICULTU-      
+ 265  265 5 RAL COMMODITIES TO ANY COUNTRY KNOWN TO BE DOMINATED BY           
+ 265  265 6 COMMUNISM OR MARXISM.                                             
+ 266  266 1                              S2996     JUNE 06, 1962              
+ 266  266 2 S872062       Y=39 N=42                                           
+ 266  266 3 S. 2996.  AMEND. TO PROHIBIT USE OF FOREIGN AID GRANTS OR         
+ 266  266 4 LOANS FOR REBUILDING OR MAINTENANCE OF ROAD OR HIGHWAY IF         
+ 266  266 5 U.S. FUNDS HAD BEEN USED IN THE ORIGINAL CONSTRUCTION.            
+ 267  267 1                              S2996     JUNE 07, 1962              
+ 267  267 2 S872063       Y=56 N=34                                           
+ 267  267 3 S. 2996.  AMEND. TO PERMIT THE PRESIDENT TO SELL OR GIVE          
+ 267  267 4 SURPLUS FOOD TO COMMUNIST COUNTRIES SUCH AS YUGOSLAVIA AND        
+ 267  267 5 POLAND.                                                           
+ 268  268 1                              S2996     JUNE 07, 1962              
+ 268  268 2 S872064       Y=40 N=45                                           
+ 268  268 3 S. 2996.  AMEND. BARRING AID TO ANY NATION WHICH EXPORTED TO      
+ 268  268 4 U.S.S.R. OR NATION DOMINATED BY U.S.S.R. ANY WAR IMPLEMENTS       
+ 268  268 5 OR ARTICLES OF STRATEGIC SIGNIFICANCE.                            
+ 269  269 1                              S2996     JUNE 07, 1962              
+ 269  269 2 S872065       Y=61 N=23                                           
+ 269  269 3 S. 2996.  PASSAGE OF THE BILL MAKING NEW FISCAL 1963              
+ 269  269 4 AUTHORIZATIONS FOR ECONOMIC AID OF $1,908,900,000 AND PRO-        
+ 269  269 5 VIDING A FOUR-YEAR AUTHORIZATION OF $3 BILLION, INCLUDING         
+ 269  269 6 $600 MILLION FOR AID TO LATIN.                                    
+ 270  270 1                              HR10802   JUNE 11, 1962              
+ 270  270 2 S872066       Y=28 N=41                MOSS, UTAH                 
+ 270  270 3 HR 10802.  APPROPRIATIONS FOR INTERIOR DEPT.:  MOSS AMEND.        
+ 270  270 4 TO PROVIDE $129,800 TO ADD 16 PUBLIC INFORMATION AND              
+ 270  270 5 EDUCATION OFFICERS IN REGIONAL OFFICES OF THE BUREAU OF LAND      
+ 270  270 6 MANAGEMENT.                                                       
+ 271  271 1                              HR10802   JUNE 11, 1962              
+ 271  271 2 S872067       Y=30 N=44                DWORSHAK, IDAHO            
+ 271  271 3 HR 10802.  DWORSHAK MOTION TO TABLE MORSE AMEND. (BELOW).         
+ 272  272 1                              HR10802   JUNE 11, 1962              
+ 272  272 2 S872068       Y=42 N=28                MORSE, ORE                 
+ 272  272 3 HR 10802.  MORSE AMEND. TO PROVIDE $2 MILLION FOR RANGE           
+ 272  272 4 REHABILITATION.                                                   
+ 273  273 1                              HR10802   JUNE 12, 1962              
+ 273  273 2 S872069       Y=47 N=41                MAGNUSON, WASH             
+ 273  273 3 HR 10802.  MAGNUSON AMEND. TO INCREASE TO $6 MILLION FUNDS        
+ 273  273 4 FOR ACQUIRING ACCESS ROADS TO NATIONAL FOREST LANDS.              
+ 274  274 1                              HR10802   JUNE 12, 1962              
+ 274  274 2 S872070       Y=49 N=40                MAGNUSON, WASH             
+ 274  274 3 HR 10802.  MAGNUSON AMEND. TO PROVIDE $6 MILLION FOR ACCESS       
+ 274  274 4 ROADS TO NATIONAL FOREST LANDS.  (ABOVE AMEND. WAS DELETED        
+ 274  274 5 ON POINT OF ORDER.)                                               
+ 275  275 1                              HR10802   JUNE 12, 1962              
+ 275  275 2 S872071       Y=36 N=52                                           
+ 275  275 3 HR 10802.  AMEND. TO DELETE $2,450,000 PROVIDED FOR SUBSI-        
+ 275  275 4 DIES TO SMALL PRODUCERS OF LEAD AND ZINC.                         
+ 276  276 1                              HR10802   JUNE 12, 1962              
+ 276  276 2 S872072       Y=26 N=60                DIRKSEN, ILL               
+ 276  276 3 HR 10802.  DIRKSEN MOTION TO RECOMMIT TO SENATE APPROPRIA-        
+ 276  276 4 TIONS COMMITTEE W/INSTRUCTIONS TO REPORT BACK W/A TOTAL NOT       
+ 276  276 5 EXCEEDING THE AMOUNT VOTED BY THE HOUSE.                          
+ 277  277 1                              HR11289   JUNE 13, 1962              
+ 277  277 2 S872073       Y=13 N=74                PROXMIRE, WISC             
+ 277  277 3 HR 11289.  APPRORPIATE $48,429,221,000 TO DEPT. OF DEFENSE        
+ 277  277 4 IN 1963.  PROXMIRE AMEND. PROVIDING $171 MILLION FOR              
+ 277  277 5 DEVELOPMENT OF RS-70 BUT PERMITTING TRANSFER OF ADDITIONAL        
+ 277  277 6 FUNDS FOR RS-70 IF SEC. OF DEFENSE SO DECIDED.                    
+ 278  278 1                              HR11289   JUNE 13, 1962              
+ 278  278 2 S872074       Y=15 N=72                DIRKSEN, ILL               
+ 278  278 3 HR 11289.  DIRKSEN AMEND. TO LIMIT FUNDS FOR RE-70 TO $171        
+ 278  278 4 MILLION.                                                          
+ 279  279 1                              HR11289   JUNE 13, 1962              
+ 279  279 2 S872075       Y=88 N=0                                            
+ 279  279 3 HR 11289.  PASSAGE.                                               
+ 280  280 1                              S3161     JUNE 23, 1962              
+ 280  280 2 S872076       Y=57 N=02                KEATING, NY                
+ 280  280 3 S. 3161.  AMEND. TO MAKE PERMANENT THE EXPORT CONTROL ACT.        
+ 280  280 4 KEATING AMENDS. STRENGTHENING PENALTIES AND CALLING FOR U.S.      
+ 280  280 5 ECONOMIC RESOURCES IN EAST-WEST TRADE TO FURTHER NATIONAL         
+ 280  280 6 SECURITY.                                                         
+ 281  281 1                              S3161     JUNE 23, 1962              
+ 281  281 2 S872077       Y=59 N=01                                           
+ 281  281 3 S. 3161.  PASSAGE.                                                
+ 282  282 1                              HR12154   JUNE 27, 1962              
+ 282  282 2 S872078       Y=29 N=57                MCCARTHY, MINN             
+ 282  282 3 HR 12154.  SUGAR ACT AMENDMENTS OF 1962:  MC CARTHY AMEND.        
+ 282  282 4 TO EXTEND NATIONAL MINIMUM WAGE TO SUGAR FIELD WORKERS.           
+ 283  283 1                              HR12154   JUNE 27, 1962              
+ 283  283 2 S872079       Y=76 N=02                                           
+ 283  283 3 HR 12154.  PASSAGE.                                               
+ 284  284 1                              HR11990   JUNE 28, 1962              
+ 284  284 2 S872080       Y=37 N=52                WILLIAMS, DEL              
+ 284  284 3 HR 11990.  INCREASE TEMPORARILY PUBLIC DEBT LIMIT TO $308         
+ 284  284 4 BILLION WITH PROVISIONS FOR GRADUAL REDUCTION.  WILLIAMS          
+ 284  284 5 AMEND. TO MAKE CEILING $306 BILLION.                              
+ 285  285 1                              HR11990   JUNE 28, 1962              
+ 285  285 2 S872081       Y=55 N=34                                           
+ 285  285 3 HR 11990.  PASSAGE.                                               
+ 286  286 1                              S3161     JUNE 28, 1962              
+ 286  286 2 S872082       Y=44 N=33                KEATING, NY                
+ 286  286 3 S. 3161.  AMEND AND EXTEND EXPORT CONTROL ACT OF 1949.            
+ 286  286 4 CONFERENCE REPORT EXTENDING ACT FOR ONE YEAR W/OUT                
+ 286  286 5 AMENDMENT.  KEATING MOTION TO REJECT CONFERENCE REPORT.           
+ 287  287 1                              HR12061   JUNE 29, 1962              
+ 287  287 2 S872083       Y=26 N=46                                           
+ 287  287 3 HR 12061.  AMEND AND EXTEND RENEGOTIATION ACT OF 1951 FOR         
+ 287  287 4 TWO YEARS.  FINANCE COMMITTEE AMEND. TO PROHIBIT GOV'T            
+ 287  287 5 AGENCIES UNDER THE ACT FROM INSERTING IN RENEGOTIABLE CON-        
+ 287  287 6 TRACTS PROVISIONS WHICH LIMIT PROFITS OF CONTRACTORS.             
+ 288  288 1                              HR12061   JUNE 29, 1962              
+ 288  288 2 S872084       Y=28 N=38                                           
+ 288  288 3 HR 12061.  FINANCE COMMITTEE AMEND. TO EXEMPT FROM                
+ 288  288 4 RENEGOTIATION STANDARD COMMERCIAL ARTICLES AND SERVICES           
+ 288  288 5 LEASED TO THE GOV'T.                                              
+ 289  289 1                              HR12154   JULY 02, 1962              
+ 289  289 2 S872085       Y=54 N=12                                           
+ 289  289 3 HR 12154.  SUGAR ACT AMENDMENTS OF 1962.  CONFERENCE REPORT       
+ 289  289 4 AGREED TO.                                                        
+ 290  290 1                              HR8050    JULY 05, 1962              
+ 290  290 2 S872086       Y=26 N=40                PROXMIRE, WISC             
+ 290  290 3 HR 8050.  RESTRICT IMPORTS OF ADULT HONEY BEES.  PROXMIRE         
+ 290  290 4 AMEND. TO MANSFIELD RIDER AMENDING SUGAR BILL (ABOVE)--           
+ 290  290 5 ELIMINATE ALL SUGAR QUOTAS FOR COUNTRIES NOT IN WESTERN           
+ 290  290 6 HEMISPHERE EXCEPT PHILIPPINES AND FORMOSA.                        
+ 291  291 1                              SRE       JULY 09, 1962              
+ 291  291 2 S872087       Y=79 N=00                                           
+ 291  291 3 EXEC. D, 87TH CONGRESS, SESSION 2.  INTERNATIONAL WHEAT           
+ 291  291 4 AGREEMENT OF 1962.                                                
+ 292  292 1                              HR11737   JULY 11, 1962              
+ 292  292 2 S872088       Y=23 N=72                PROXMIRE, WISC             
+ 292  292 3 HR 11737.  NASA AUTHORIZATION ACT.  PROXMIRE AMEND. TO            
+ 292  292 4 REQUIRE NASA TO EMPLOY COMPETITIVE BIDDING PRACTICES.             
+ 293  293 1                              HR11737   JULY 11, 1962              
+ 293  293 2 S872089       Y=12 N=83                PROXMIRE, WISC             
+ 293  293 3 HR 11737.  PROXMIRE AMEND. TO ESTABLISH A SEVEN-MEMBER            
+ 293  293 4 SPACE PROGRAM MANPOWER COMMISSION.                                
+ 294  294 1                              SRE       JULY 12, 1962              
+ 294  294 2 S872090       Y=30 N=62                                           
+ 294  294 3 NOMINATION OF MATTHEW MC CLOSKEY AS AMBASSADOR TO IRELAND.        
+ 294  294 4 WILLIAMS MOTION TO RECOMMIT TO FOREIGN RELATIONS COMMITTEE.       
+ 295  295 1                              HR10606   JULY 12, 1962              
+ 295  295 2 S872091       Y=34 N=50                SALTONSTALL, MASS          
+ 295  295 3 HR 10606.  PUBLIC WELFARE AMENDMENTS OF 1962.  SALTONSTALL        
+ 295  295 4 SUBSTITUTE AMEND. PROVIDING FOR CHOICE OF SPECIFIED MINIMUM       
+ 295  295 5 MEDICAL BENEFITS, FINANCED BY FEDERAL-STATE MATCHING GRANTS,      
+ 295  295 6 FOR PERSONS OVER 65 IN STATES PARTICIPATING IN THE PROGRAM.       
+ 296  296 1                              HR10606   JULY 13, 1962              
+ 296  296 2 S872092       Y=05 N=75                BUSH, CONN                 
+ 296  296 3 HR 10606.  BUSH SUBSTITUTE AMEND. PROVIDING FOR PAYMENTS OF       
+ 296  296 4 $9 MILLION A MONTH TO SOCIAL SECURITY BENEFICIARIES FOR           
+ 296  296 5 PURCHASE OF HEALTH INSURANCE FROM PRIVATE COMPANIES.              
+ 297  297 1                              HR10606   JULY 17, 1962              
+ 297  297 2 S872093       Y=52 N=48                KERR, OKLA                 
+ 297  297 3 HR 10606.  KERR MOTION TO TABLE ANDERSON AMEND. PROVIDING         
+ 297  297 4 HEALTH INSURANCE FOR MOST PERSONS 65 AND OVER, TO BE              
+ 297  297 5 FINANCED BY AN INCREASE IN THE SOCIAL SECURITY TAX.               
+ 298  298 1                              S2996     JULY 19, 1962              
+ 298  298 2 S872094       Y=41 N=48                MORSE, ORE                 
+ 298  298 3 S. 2996.  FOREIGN ASSISTANCE ACT OF 1962.  MORSE MOTION TO        
+ 298  298 4 POSTPONE UNTIL AUG. 1, A VOTE ON THE CONFERENCE REPORT.           
+ 299  299 1                              S2996     JULY 20, 1962              
+ 299  299 2 S872095       Y=56 N=27                                           
+ 299  299 3 S. 2996.  ADOPTION OF CONFERENCE REPORT.                          
+ 300  300 1                              HR10904   JULY 20, 1962              
+ 300  300 2 S872096       Y=24 N=59                PROXMIRE, WISC             
+ 300  300 3 HR 10904.  APPROPRIATIONS FOR DEPT. OF LABOR AND DEPT. OF         
+ 300  300 4 H.E.W.  PROXMIRE AMEND. TO REDUCE EVERY ITEM IN BILL TO THE       
+ 300  300 5 AMOUNT REQUESTED BY THE PRESIDENT.                                
+ 301  301 1                              HR10904   JULY 20, 1962              
+ 301  301 2 S872097       Y=32 N=48                PROXMIRE, WISC             
+ 301  301 3 HR 10904.  PROXMIRE AMEND. TO REDUCE FUNDS FOR NATIONAL           
+ 301  301 4 INSTITUTES OF HEALTH TO THE LEVEL REQUESTED BY PRESIDENT.         
+ 302  302 1                              HR10904   JULY 20, 1962              
+ 302  302 2 S872098       Y=36 N=42                SALTONSTALL, MASS          
+ 302  302 3 HR 10904.  SALTONSTALL AMEND. TO REDUCE FUNDS FOR NATIONAL        
+ 302  302 4 INSTITUTES OF HEALTH TO LEVEL APPROVED BY THE HOUSE.              
+ 303  303 1                              HR10904   JULY 20, 1962              
+ 303  303 2 S872099       Y=33 N=39                DIRKSEN, ILL               
+ 303  303 3 HR 10904.  DIRKSEN AMEND. TO LIMIT USE OF H.E.W. FUNDS FOR        
+ 303  303 4 PAYMENT OF SALARIES TO THE NUMBER OR PERSONNEL EMPLOYED AS        
+ 303  303 5 OF JUNE 30, 1962.                                                 
+ 304  304 1                              HR10904   JULY 20, 1962              
+ 304  304 2 S872100       Y=37 N=33                MANSFIELD, MONT            
+ 304  304 3 HR 10904.  MANSFIELD MOTION TO TABLE JAVITS AMEND. TO PROHI-      
+ 304  304 4 BIT USE OF FED. FUNDS FOR SEGREGATED HOSPITALS.                   
+ 305  305 1                              HR10904   JULY 20, 1962              
+ 305  305 2 S872101       Y=37 N=34                MANSFIELD, MONT            
+ 305  305 3 HR 10904.  MANSFIELD MOTION TO TABLE BUSH AMEND. PROHIBITING      
+ 305  305 4 PAYMENT OF FED. FUNDS TO LOCAL EDUCATIONAL AGENCIES MAIN-         
+ 305  305 5 TAINING SEGREGATED SCHOOLS.                                       
+ 306  306 1                              HR10904   JULY 20, 1962              
+ 306  306 2 S872102       Y=30 N=43                COOPER, KY                 
+ 306  306 3 HR 10904.  COOPER AMEND. TO REDUCE ALL APPROPRIATIONS IN          
+ 306  306 4 BILL BY 5 PERCENT.                                                
+ 307  307 1                              HR11040   JULY 27, 1962              
+ 307  307 2 872103       Y=62 N=02                 DIRKSEN, ILL               
+ 307  307 3 HR 11040.  COMMUNICATIONS SATELLITE ACT DIRKSEN MOTION TO         
+ 307  307 4 TABLE HIS APPEAL FROM THE RULING THAT A MORSE MOTION TO           
+ 307  307 5 AMEND THE SENATE JOURNAL WAS PRIVILEGED.                          
+ 308  308 1                              S3153     AUG. 08, 1962              
+ 308  308 2 S872104       Y=33 N=53                SCOTT, PA                  
+ 308  308 3 S. 3153.  GUARANTEE ELECTRIC CONSUMERS IN PACIFIC N.W. FIRST      
+ 308  308 4 CALL ON ELECTRIC ENERGY GENERATED IN FED. PLANTS OPERATED BY      
+ 308  308 5 BONNEVILLE POWER AD.  SCOTT MOTION TO RECOMMIT TO INTERIOR        
+ 308  308 6 COMMITTEE.                                                        
+ 309  309 1                              S3153     AUG. 08, 1962              
+ 309  309 2 S872105       Y=51 N=36                                           
+ 309  309 3 S. 3153.  PASSAGE.                                                
+ 310  310 1                              S1108     AUG. 09, 1962              
+ 310  310 2 S872106       Y=13 N=73                MORSE, ORE                 
+ 310  310 3 S. 1108.  AUTHORIZE CONVEYANCE OF CERTAIN PROPERTY IN             
+ 310  310 4 SAN DIEGO TO THE REGENTS OF THE U. OF CALIFORNIA.  MORSE          
+ 310  310 5 AMEND. TO REQUIRE THE UNIV. TO PAY 50 PERCENT OF FAIR             
+ 310  310 6 MARKET VALUE.                                                     
+ 311  311 1                              HR7913    AUG. 09, 1962              
+ 311  311 2 S872107       Y=32 N=46                LONG, LA                   
+ 311  311 3 HR 7913.  AUTHORIZE ADDITIONAL NUMBER OF APPOINTMENTS TO          
+ 311  311 4 U.S. MILITARY ACADEMY AND AIR FORCE ACADEMY.  LONG AMEND.         
+ 311  311 5 THAT APPOINTMENTS BE MADE BY MEMBERS OF CONGRESS WHO              
+ 311  311 6 NOMINATED THOSE RANKING HIGHEST IN THE SENIOR CLASS.              
+ 312  312 1                              HR11040   AUG. 10, 1962              
+ 312  312 2 S872108       Y=70 N=14                MANSFIELD, MONT            
+ 312  312 3 HR 11040.  COMMUNICATIONS SATELLITE ACT.  MANSFIELD MOTION        
+ 312  312 4 TO TABLE MORSE MOTION TO DISCHARGE THE RULES AND                  
+ 312  312 5 ADMINISTRATION COMMITTEE FROM THE CONSIDERATION OF S. RES.        
+ 312  312 6 24, A RESOLUTION CHANGING SENATE RULE 22.                         
+ 313  313 1                              HR11040   AUG. 10, 1962              
+ 313  313 2 S872109       Y=69 N=15                MANSFIELD, MONT            
+ 313  313 3 HR 11040.  MANSFIELD MOTION TO TABLE MORSE MOTION TO TAKE UP      
+ 313  313 4 THE FOOD AND AGRICULTURE ACT OF 1962.                             
+ 314  314 1                              HR11040   AUG. 10, 1962              
+ 314  314 2 S872110       Y=70 N=13                MANSFIELD, MONT            
+ 314  314 3 HR 11040.  MANSFIELD MOTION TO TABLE KEFAUVER MOTION TO TAKE      
+ 314  314 4 UP THE DRUG INDUSTRY ACT.                                         
+ 315  315 1                              HR11040   AUG. 13, 1962              
+ 315  315 2 S872111       Y=19 N=56                GORE, TENN                 
+ 315  315 3 HR 11040.  GORE AMEND. TO REQUIRE THAT THE STATE DEPT.,           
+ 315  315 4 RATHER THAN THE COMMUNICATIONS SATELLITE CORPORATION, CON-        
+ 315  315 5 DUCT OR SUPERVISE ALL FOREIGN AGREEMENTS.                         
+ 316  316 1                              HR11040   AUG. 13, 1962              
+ 316  316 2 S872112       Y=14 N=54                KEFAUVER, TENN             
+ 316  316 3 HR 11040.  KEFAUVER AMEND. TO REQUIRE THE PRES. TO DETERMINE      
+ 316  316 4 THE KIND OF COMMUNICATIONS SATELLITE SYSTEM TO BE USED.           
+ 317  317 1                              PROC      AUG. 13, 1962              
+ 317  317 2 S872113       Y=15 N=06                KERR, OKLA                 
+ 317  317 3 HR 11040.  KERR MOTION TO ADJOURN.                                
+ 318  318 1                              PROC      AUG. 14, 1962              
+ 318  318 2 S872114       Y=63 N=27                MANSFIELD, MONT            
+ 318  318 3 HR 11040.  MANSFIELD-DIRKSEN MOTION TO INVOKE CLOTURE AND         
+ 318  318 4 LIMIT DEBATE.                                                     
+ 319  319 1                              HR11040   AUG. 14, 1962              
+ 319  319 2 S872115       Y=74 N=15                MANSFIELD, MONT            
+ 319  319 3 HR 11040.  MANSFIELD MOTION TO TABLE MORSE AMEND. TO RETAIN       
+ 319  319 4 GOV'T OWNERSHIP OF THE SYSTEM.                                    
+ 320  320 1                              HR11040   AUG. 14, 1962              
+ 320  320 2 S872116       Y=63 N=27                PASTORE, RI                
+ 320  320 3 HR 11040.  PASTORE MOTION TO TABLE LONG AMEND. TO LIMIT TO        
+ 320  320 4 10 PERCENT OF STOCK OUTSTANDING THE NUMBER OF SHARES TO BE        
+ 320  320 5 OWNED BY A COMMUNICATIONS CARRIER.                                
+ 321  321 1                              HR11040   AUG. 14, 1962              
+ 321  321 2 S872117       Y=73 N=17                PASTORE, RI                
+ 321  321 3 HR 11040.  PASTORE MOTION TO TABLE KEFAUVER AMEND. TO ASSURE      
+ 321  321 4 THAT PUBLIC COULD PURCHASE SHARES ISSUED BY THE CORPORATION       
+ 321  321 5 SUBSEQUENTLY, AS WELL AS INITIALLY.                               
+ 322  322 1                              HR11040   AUG. 14, 1962              
+ 322  322 2 S872118       Y=71 N=18                PASTORE, RI                
+ 322  322 3 HR 11040.  PASTORE MOTION TO TABLE MORSE AMEND. TO REINSTATE      
+ 322  322 4 LANGUAGE REQUIRING THE PRES. TO MAKE ARRANGEMENTS FOR             
+ 322  322 5 DETERMINATION OF A U.N. ROLE IN THE SATELLITE SYSTEM.             
+ 323  323 1                              HR11040   AUG. 14, 1962              
+ 323  323 2 S872119       Y=66 N=20                PASTORE, RI                
+ 323  323 3 HR 11040.  PASTORE MOTION TO TABLE GRUENING AMEND. TO             
+ 323  323 4 PROVIDE THAT THE CORPORATION PAY ROYALTIES FOR INVENTIONS         
+ 323  323 5 AND TECHNOLOGY FURNISHED TO IT BY NASA.                           
+ 324  324 1                              HR11040   AUG. 14, 1962              
+ 324  324 2 S872120       Y=73 N=17                MANSFIELD, MONT            
+ 324  324 3 HR 11040.  MANSFIELD MOTION TO TABLE MORSE AMEND. TO REQUIRE      
+ 324  324 4 THE SATELLITE COMMUNICATIONS CORP. TO SET ASIDE 8 PERCENT OF      
+ 324  324 5 ITS ANNUAL NET PROCEEDS FOR AN EDUCATIONAL RESERVE FUND.          
+ 325  325 1                              HR11040   AUG. 15, 1962              
+ 325  325 2 S872121       Y=66 N=20                MANSFIELD, MONT            
+ 325  325 3 HR 11040.  MANSFIELD MOTION TO TABLE BURDICK AMEND. TO            
+ 325  325 4 REQUIRE THE PRESIDENT TO APPROVE AMENDMENTS TO THE ARTICLES       
+ 325  325 5 OF INCORPORATION OF THE COMMUNICATIONS SATELLITE CORP.            
+ 326  326 1                              HR11040   AUG. 15, 1962              
+ 326  326 2 S872122       Y=72 N=16                PASTORE, RI                
+ 326  326 3 HR 11040.  PASTORE MOTION TO TABLE LONG AMEND. TO REQUIRE         
+ 326  326 4 THE CORP. TO SUBMIT TO THE ATTY. GEN. PRIOR TO ENTERING INTO      
+ 326  326 5 A CONTRACT W/A COMMUNICATIONS CARRIER, A COPY OF THE AGREE-       
+ 326  326 6 MENT TO ENABLE THE ATTY. GEN. TO DETERMINE IF IT VIOLATES         
+ 326  326 7 ANTI-TRUST LAWS.                                                  
+ 327  327 1                              HR11040   AUG. 15, 1962              
+ 327  327 2 S872123       Y=73 N=13                PASTORE, RI                
+ 327  327 3 HR 11040.  PASTORE MOTION TO TABLE MORSE AMEND. TO PROVIDE        
+ 327  327 4 FOR CREATION OF GOV'T AGENCY, THE COMMUNICATIONS SATELLITE        
+ 327  327 5 AUTHORITY, TO OWN THE COMMUNICATIONS SATELLITE SYSTEM.            
+ 328  328 1                              HR11040   AUG. 15, 1962              
+ 328  328 2 S872124       Y=52 N=34                MANSFIELD, MONT            
+ 328  328 3 HR 11040.  SUSTAIN A POINT OF ORDER BY MANSFIELD THAT             
+ 328  328 4 REPEATED SUGGESTIONS OF THE ABSENCE OF A QUORUM WERE              
+ 328  328 5 DILATORY AND IN VIOLATION OF SENATE RULE 22.                      
+ 329  329 1                              HR11040   AUG. 15, 1962              
+ 329  329 2 S872125       Y=72 N=14                PASTORE, RI                
+ 329  329 3 HR 11040.  PASTORE MOTION TO TABLE KEFAUVER AMEND. TO PRO-        
+ 329  329 4 VIDE NON-VOTING SECURITIES OF THE CORP. OWNED BY COMMUNICA-       
+ 329  329 5 TIONS CARRIERS COULD NOT BE INCLUDED IN THEIR RATE BASES.         
+ 330  330 1                              HR11040   AUG. 15, 1962              
+ 330  330 2 S872126       Y=69 N=13                PASTORE, RI                
+ 330  330 3 HR 11040.  PASTORE MOTION TO TABLE KEFAUVER AMEND. TO PRO-        
+ 330  330 4 VIDE THAT DIVIDEND AND INTEREST-BEARING NON-VOTING SECURI-        
+ 330  330 5 TIES OF THE CORP. OWNED BY CARRIERS COULD NOT BE INCLUDED IN      
+ 330  330 6 THEIR RATE BASES IF THE SECURITIES PAID DIVIDENDS OR              
+ 330  330 7 INTEREST.                                                         
+ 331  331 1                              HR11040   AUG. 15, 1962              
+ 331  331 2 S872127       Y=53 N=17                PASTORE, RI                
+ 331  331 3 HR 11040.  PASTORE MOTION TO TABLE HUMPHREY AMEND. REQUIRING      
+ 331  331 4 THAT THE CORP. NOT ENTER INTO INTERNATIONAL NEGOTIATIONS          
+ 331  331 5 W/OUT PRIOR NOTIFICATION TO THE PRES. WHO WOULD CONDUCT OR        
+ 331  331 6 SUPERVISE THE NEGOTIATIONS.                                       
+ 332  332 1                              HR11040   AUG. 15, 1962              
+ 332  332 2 S872128       Y=61 N=07                PASTORE, RI                
+ 332  332 3 HR 11040.  PASTORE MOTION TO TABLE MORSE AMEND. TO PROHIBIT       
+ 332  332 4 MANUFACTURERS OF SATELLITE EQUIPMENT FROM OWNING STOCK IN         
+ 332  332 5 THE CORP.                                                         
+ 333  333 1                              HR11040   AUG. 15, 1962              
+ 333  333 2 S872129       Y=61 N=10                PASTORE, RI                
+ 333  333 3 HR 11040.  PASTORE MOTION TO TABLE MORSE AMEND. TO RESERVE        
+ 333  333 4 NOT LESS THAN TWO HOURS OF DAILY TRANSMITTAL TIME THROUGH         
+ 333  333 5 THE SYSTEM TO THE U.S. GOV'T AND TO PROVIDE SUCH SERVICE AT       
+ 333  333 6 COST.                                                             
+ 334  334 1                              HR11040   AUG. 16, 1962              
+ 334  334 2 S872130       Y=54 N=37                MANSFIELD, MONT            
+ 334  334 3 HR 11040.  MANSFIELD MOTION TO TABLE CLARK-MORSE AMEND. TO        
+ 334  334 4 PROHIBIT THE CORP. FROM DISCRIMINATING AGAINST ANY EMPLOYEE       
+ 334  334 5 BECAUSE OF RACE, CREED, COLOR, OR NATIONAL ORIGIN.                
+ 335  335 1                              HR11040   AUG. 16, 1962              
+ 335  335 2 S872131       Y=67 N=20                PASTORE, RI                
+ 335  335 3 HR 11040.  PASTORE MOTION TO TABLE KEFAUVER AMEND. TO AMEND       
+ 335  335 4 THE COMMUNICATIONS ACT TO PROVIDE THAT REQUIREMENTS FOR           
+ 335  335 5 DIVESTMENT OF INTERNATIONAL TELEGRAPH OPERATIONS NOT APPLY        
+ 335  335 6 TO MERGERS OF DOMESTIC TELEGRAPH CARRIERS PREVIOUSLY              
+ 335  335 7 APPROVED BY THE FCC.                                              
+ 336  336 1                              HR11040   AUG. 16, 1962              
+ 336  336 2 S872132       Y=68 N=15                PASTORE, RI                
+ 336  336 3 HR 11040.  PASTORE MOTION TO TABLE YARBOROUGH AMEND. TO           
+ 336  336 4 DIRECT THE PRESIDENT TO INSURE THE USE OF THE COMMERCIAL          
+ 336  336 5 SYSTEM BY A GOV'T DEPT. OR AGENCY BUT ONLY TO THE EXTENT          
+ 336  336 6 NECESSARY FOR THE PERFORMANCE OF ITS FUNCTIONS.                   
+ 337  337 1                              HR11040   AUG. 16, 1962              
+ 337  337 2 S872133       Y=73 N=13                PASTORE, RI                
+ 337  337 3 HR 11040.  PASTORE MOTION TO TABLE MORSE AMEND. TO LIMIT TO       
+ 337  337 4 12 PERCENT OF THE CORP.'S VOTING-STOCK OUTSTANDING THE NUM-       
+ 337  337 5 BER OF SHARES TO BE OWNED DIRECTLY OR INDIRECTLY BY ANY ONE       
+ 337  337 6 COMMON CARRIER.                                                   
+ 338  338 1                              HR11040   AUG. 16, 1962              
+ 338  338 2 S872134       Y=64 N=11                MANSFIELD, MONT            
+ 338  338 3 HR 11040.  MANSFIELD MOTION TO TABLE KEFAUVER SUB. AMEND. TO      
+ 338  338 4 PROVIDE FOR ESTABLISHMENT OF A SPACE COMMUNICATIONS               
+ 338  338 5 COMMISSION.                                                       
+ 339  339 1                              HR11040   AUG. 17, 1962              
+ 339  339 2 S872135       Y=64 N=15                PASTORE, RI                
+ 339  339 3 HR 11040.  PASTORE MOTION TO TABLE MORSE AMEND. TO DIRECT         
+ 339  339 4 THE FCC TO INVESTIGATE THE STRUCTURAL AND FINANCIAL ASPECTS       
+ 339  339 5 OF CARRIERS AND TO REPORT TO CONGRESS.                            
+ 340  340 1                              HR11040   AUG. 17, 1962              
+ 340  340 2 S872136       Y=64 N=15                PASTORE, RI                
+ 340  340 3 HR 11040.  PASTORE MOTION TO TABLE MORSE AMEND. TO REQUIRE        
+ 340  340 4 THE CORP. TO PAY A ROYALTY ON ALL INVENTIONS FURNISHED TO IT      
+ 340  340 5 BY NASA.                                                          
+ 341  341 1                              HR11040   AUG. 17, 1962              
+ 341  341 2 S872137       Y=68 N=11                PASTORE, RI                
+ 341  341 3 HR 11040.  PASTORE MOTION TO TABLE YARBOROUGH AMEND. TO           
+ 341  341 4 LIMIT TO 50 PERCENT OF THE OUTSTANDING DIVIDEND AND INTEREST      
+ 341  341 5 PAYING SHARES THE NUMBER THAT MAY BE HELD AT ONE TIME BY          
+ 341  341 6 CARRIERS.                                                         
+ 342  342 1                              HR11040   AUG. 17, 1962              
+ 342  342 2 S872138       Y=61 N=17                PASTORE, RI                
+ 342  342 3 HR 11040.  PASTORE MOTION TO TABLE MOSS AMEND. TO DIRECT          
+ 342  342 4 NASA TO FURNISH SERVICES TO THE CORP. TO THE EXTENT DEEMED        
+ 342  342 5 APPROPRIATE BY NASA.                                              
+ 343  343 1                              HR11040   AUG. 17, 1962              
+ 343  343 2 S872139       Y=50 N=29                PASTORE, RI                
+ 343  343 3 HR 11040.  PASTORE MOTION TO TABLE LONG AMEND. TO DEFINE THE      
+ 343  343 4 TERM "COMMUNICATIONS COMMON CARRIER" IN ORDER TO MAKE             
+ 343  343 5 PERSONS AND COMPANIES OTHER THAN LARGE INTERNATIONAL              
+ 343  343 6 CARRIERS ELIGIBLE TO OWN STOCK.                                   
+ 344  344 1                              HR11040   AUG. 17, 1962              
+ 344  344 2 S872140       Y=65 N=13                PASTORE, RI                
+ 344  344 3 HR 11040.  PASTORE MOTION TO TABLE MORSE AMEND. TO DIRECT         
+ 344  344 4 NASA TO FURNISH ASSISTANCE ON A REIMBURSABLE BASIS TO ANY         
+ 344  344 5 OTHER SYSTEM WHICH MAY BE ESTABLISHED.                            
+ 345  345 1                              HR11040   AUG. 17, 1962              
+ 345  345 2 S872141       Y=69 N=11                                           
+ 345  345 3 HR 11040.  COMMITTEE AMENDMENTS AS AMENDED AGREED TO.             
+ 346  346 1                              HR11040   AUG. 17, 1962              
+ 346  346 2 S872142       Y=66 N=11                                           
+ 346  346 3 HR 11040.  PASSAGE.                                               
+ 347  347 1                              HR12391   AUG. 21, 1962              
+ 347  347 2 S872143       Y=58 N=23                ELLENDER, LA               
+ 347  347 3 HR 12391.  FOOD AND AGRICULTURE ACT.  ELLENDER MOTION TO          
+ 347  347 4 TABLE COOPER MOTION TO RECONSIDER VOICE VOTE ON ADOPTION OF       
+ 347  347 5 ELLENDER AMEND. REPEALING PROVISIONS AFFECTING PRICE              
+ 347  347 6 SUPPORTS FOR CORN AND OTHER FEED GRAINS.                          
+ 348  348 1                              HR12391   AUG. 21, 1962              
+ 348  348 2 S872144       Y=29 N=50                MUNDT, SD                  
+ 348  348 3 HR 12391.  MUNDT AMEND. GIVING FARMERS CHOICE BETWEEN A           
+ 348  348 4 TWO-YEAR EXTENSION OF THE SPECIAL FEED GRAINS PROGRAM AND         
+ 348  348 5 THE BILL'S PERMANENT SUPPLY MANAGEMENT PROGRAM.                   
+ 349  349 1                              HR12391   AUG. 21, 1962              
+ 349  349 2 S872145       Y=40 N=37                MANSFIELD, MONT            
+ 349  349 3 HR 12391.  MANSFIELD MOTION TO TABLE KEATING AMEND. PROHI-        
+ 349  349 4 BITING USE OF FED. FUNDS TO ESTABLISH SEGREGATED PUBLIC           
+ 349  349 5 FACILITIES.                                                       
+ 350  350 1                              HR12391   AUG. 21, 1962              
+ 350  350 2 S872146       Y=17 N=55                TOWER, TEXAS               
+ 350  350 3 HR 12391.  TOWER AMEND. REQUIRING SEC. OF AGRICULTURE TO          
+ 350  350 4 SUBMIT TO CONGRESS W/IN 120 DAYS OF ENACTMENT A PLAN TO           
+ 350  350 5 ABOLISH ALL PRICE SUPPORTS AND PRODUCTION CONTROLS IN FOUR        
+ 350  350 6 TO SIX YEARS.                                                     
+ 351  351 1                              HR12391   AUG. 22, 1962              
+ 351  351 2 S872147       Y=47 N=37                                           
+ 351  351 3 HR 12391.  PASSAGE.                                               
+ 352  352 1                              S1552     AUG. 23, 1962              
+ 352  352 2 S872148       Y=53 N=28                MANSFIELD, MONT            
+ 352  352 3 S. 1552.  DRUG INDUSTRY ACT.  MANSFIELD MOTION TO TABLE           
+ 352  352 4 KEFAUVER AMEND. REQUIRING A DRUG PATENT HOLDER, THREE YEARS       
+ 352  352 5 AFTER RECEIVING PATENT, WHO CHARGED MORE THAN 500 PERCENT OF      
+ 352  352 6 PRODUCTION COSTS, TO LICENSE OTHER MANUFACTURES TO USE THE        
+ 352  352 7 PATENT.                                                           
+ 353  353 1                              S1552     AUG. 23, 1962              
+ 353  353 2 S872149       Y=78 N=00                                           
+ 353  353 3 S. 1552.  PASSAGE.                                                
+ 354  354 1                              HR10650   AUG. 28, 1962              
+ 354  354 2 S872150       Y=30 N=52                BYRD, VA                   
+ 354  354 3 HR 10650.  REVENUE ACT OF 1962.  BYRD AMEND. TO DELETE PRO-       
+ 354  354 4 VISION FOR 7 PERCENT INVESTMENT TAX CREDIT TO ENCOURAGE           
+ 354  354 5 BUSINESSES TO MODERNIZE AND EXPAND THEIR PLANTS.                  
+ 355  355 1                              HR10650   AUG. 29, 1962              
+ 355  355 2 S872151       Y=54 N=39                                           
+ 355  355 3 HR 10650.  COMMITTEE AMEND. TO PERMIT BUSINESSMEN TO DEDUCT       
+ 355  355 4 ENTERTAINMENT EXPENSES "ASSOCIATED WITH," AS WELL AS              
+ 355  355 5 "DIRECTLY RELATED TO," THE ACTIVE CONDUCT OF A TRADE OR           
+ 355  355 6 BUSINESS.                                                         
+ 356  356 1                              HR10650   AUG. 29, 1962              
+ 356  356 2 S872152       Y=66 N=20                                           
+ 356  356 3 HR 10650.  COMMITTEE AMEND. TO DELETE PROVISION TO W/HOLD         
+ 356  356 4 20 PERCENT OF DIVIDENDS AT THEIR SOURCE AND SUBSTITUTE            
+ 356  356 5 PROVISION TO REQUIRE CORPORATIONS TO REPORT ANY DIVIDEND,         
+ 356  356 6 INTEREST OR PATRONAGE PAYMENT IN EXCESS OF $10 PER PERSON         
+ 356  356 7 PER YEAR.                                                         
+ 357  357 1                              HR10650   AUG. 29, 1962              
+ 357  357 2 S872153       Y=62 N=17                MANSFIELD, MONT            
+ 357  357 3 HR 10650.  MANSFIELD MOTION TO TABLE DOUGLAS AMEND. TO            
+ 357  357 4 REPEAL EXISTING REQUIREMENTS FOR WITHHOLDING OF INCOME TAX        
+ 357  357 5 ON WAGES AND SALARIES AT THEIR SOURCE.                            
+ 358  358 1                              SRE       AUG. 30, 1962              
+ 358  358 2 S872154       Y=74 N=17                                           
+ 358  358 3 REVENUE ACT OF 1962.  COMMITTEE AMEND TO GRANT TAX RELIEF TO      
+ 358  358 4 A MINNEAPOLIS-ST. PAUL BUS COMPANY FOR LOSSES SUFFERED IN         
+ 358  358 5 CONVERTING FROM STREET RAILWAY TO BUS OPERATION.                  
+ 359  359 1                              HR10650   AUG. 31, 1962              
+ 359  359 2 S872155       Y=21 N=65                MCCARTHY, MINN             
+ 359  359 3 HR 10650.  MC CARTHY AMEND. TO REPLACE PROVISION ON TAXATION      
+ 359  359 4 OF CONTROLLED FOREIGN CORPORATIONS W/NEW SECTION REQUIRING        
+ 359  359 5 U.S. TAXATION OF EARNINGS BY FOREIGN SUBSIDIARIES THAT ARE        
+ 359  359 6 ACCUMULATED "BEYOND THE REASONABLE NEEDS OF THE BUSINESS."        
+ 360  360 1                              HR12711   AUG. 31, 1962              
+ 360  360 2 S872156       Y=14 N=68                YOUNG, ND                  
+ 360  360 3 HR 12711.  INDEPENDENT OFFICES APPROPRIATION BILL:  YOUNG         
+ 360  360 4 AMEND. TO DELETE $93.8 MILLION APPROPRIATED FOR CIVIL             
+ 360  360 5 DEFENSE SHELTER IN GOV'T BUILDINGS AND PROVIDE $10 MILLION        
+ 360  360 6 FOR FURTHER CIVIL DEFENSE RESEARCH.                               
+ 361  361 1                              HR12711   AUG. 31, 1962              
+ 361  361 2 S872157       Y=21 N=57                PROXMIRE, WISC             
+ 361  361 3 HR 12711.  PROXMIRE AMEND. TO CUT $8 MILLION FROM FUNDS FOR       
+ 361  361 4 V.A. MEDICAL RESEARCH.                                            
+ 362  362 1                              HR12711   AUG. 31, 1962              
+ 362  362 2 S872158       Y=04 N=66                PROXMIRE, WISC             
+ 362  362 3 HR 12711.  PROXMIRE AMEND. TO REDUCE FUNDS FOR NASA BELOW         
+ 362  362 4 THE PRESIDENT'S REQUEST.                                          
+ 363  363 1                              HR12711   AUG. 31, 1962              
+ 363  363 2 S872159       Y=12 N=57                MILLER, IOWA               
+ 363  363 3 HR 12711.  MILLER MOTION TO RECOMMIT TO APPROPRIATIONS            
+ 363  363 4 COMMITTEE W/INSTRUCTIONS TO REDUCE BY $275 MILLION.               
+ 364  364 1                              HR12711   AUG. 31, 1962              
+ 364  364 2 S872160       Y=65 N=05                                           
+ 364  364 3 HR 12711.  PASSAGE.                                               
+ 365  365 1                              HR10650   SEPT. 04, 1962             
+ 365  365 2 S872161       Y=16 N=49                PROXMIRE, WISC             
+ 365  365 3 HR 10650.  REVENUE ACT.  PROXMIRE AMEND. TO STRIKE PROVISION      
+ 365  365 4 GIVING REGULATED UTILITIES A TAX CREDIT EQUAL TO 3 PERCENT        
+ 365  365 5 OF COST OF INVESTMENTS IN NEW AND USED PROPERTY.                  
+ 366  366 1                              HR10650   SEPT. 04, 1962             
+ 366  366 2 S872162       Y=27 N=38                PROXMIRE, WISC             
+ 366  366 3 HR 10650.  PROXMIRE AMEND. TO REDUCE INVESTMENT TAX CREDIT        
+ 366  366 4 AVAILABLE TO GAS PIPELINES FROM 7 PERCENT TO 3 PERCENT OF         
+ 366  366 5 COST OF NEW PURCHASES.                                            
+ 367  367 1                              HR10650   SEPT. 04, 1962             
+ 367  367 2 S872163       Y=40 N=28                COOPER, KY                 
+ 367  367 3 HR 10650.  COOPER AMEND. TO ELIMINATE PROVISION PERMITTING        
+ 367  367 4 TAX DEDUCTIONS FOR A BUSINESS FIRM'S EXPENSES INVOLVED IN         
+ 367  367 5 INFORMING EMPLOYEES OR STOCKHOLDERS OF LEGISLATION DIRECTLY       
+ 367  367 6 AFFECTING THE FIRM.                                               
+ 368  368 1                              HR10650   SEPT. 04, 1962             
+ 368  368 2 S872164       Y=13 N=51                DOUGLAS, ILL               
+ 368  368 3 HR 10650.  DOUGLAS AMEND. TO STRIKE THE SECTION PERMITTING        
+ 368  368 4 TAX DEDUCTIONS FOR LOBBYING EXPENSES.                             
+ 369  369 1                              HR10650   SEPT. 05, 1962             
+ 369  369 2 S872165       Y=45 N=41                MANSFIELD, MONT            
+ 369  369 3 HR 10650.  MANSFIELD MOTION TO TABLE DIRKSEN AMEND. TO            
+ 369  369 4 PERMIT SELF-EMPLOYED PERSONS TO DEDUCT FROM TAXABLE INCOME        
+ 369  369 5 UP TO $1,750 FOR PURPOSES OF INVESTING IN A RETIREMENT FUND.      
+ 370  370 1                              HR10650   SEPT. 05, 1962             
+ 370  370 2 S872166       Y=30 N=58                GORE, TENN                 
+ 370  370 3 HR 10650.  GORE AMEND. TO REQUIRE ANNUAL PAYMENT OF TAXES BY      
+ 370  370 4 U.S. TAXPAYERS ON PROFITS EARNED IN FOREIGN COUNTRIES BY ALL      
+ 370  370 5 U.S. CONTROLLED FOREIGN CORPORATIONS EXCEPT THOSE OPERATING       
+ 370  370 6 IN UNDERDEVELOPED AREAS.                                          
+ 371  371 1                              HR10650   SEPT. 05, 1962             
+ 371  371 2 S872167       Y=20 N=69                HARTKE, IND                
+ 371  371 3 HR 10650.  HARTKE AMEND. REQUIRING W/HOLDING OF TAXES ON          
+ 371  371 4 INTEREST AND DIVIDEND INCOME EXCEPT ON DEPOSITS IN                
+ 371  371 5 COMMERCIAL BANKS, MUTUAL SAVINGS BANKS AND SAVINGS AND LOAN       
+ 371  371 6 ASSOCIATIONS.                                                     
+ 372  372 1                              HR10650   SEPT. 05, 1962             
+ 372  372 2 S872168       Y=57 N=30                MANSFIELD, MONT            
+ 372  372 3 HR 10650.  MANSFIELD MOTION TO TABLE WILLIAMS AMEND. TO           
+ 372  372 4 REDUCE OVER 3-YEAR PERIOD THE OVER-ALL LIMITATION ON INCOME       
+ 372  372 5 TAX RATES FROM 87 TO 60 PERCENT ON GAS AND OIL DEPLETION          
+ 372  372 6 ALLOWANCE FROM 27.5 TO 20 PERCENT.                                
+ 373  373 1                              HR10650   SEPT. 05, 1962             
+ 373  373 2 S872169       Y=36 N=53                GORE, TENN                 
+ 373  373 3 HR 10650.  GORE AMEND. TO REDUCE THE LIMITATION ON INCOME         
+ 373  373 4 THAT MAY BE EARNED BY AMERICANS LIVING ABROAD WITHOUT BEING       
+ 373  373 5 SUBJECTED TO U.S. INCOME TAXES.                                   
+ 374  374 1                              HR10650   SEPT. 05, 1962             
+ 374  374 2 S872170       Y=23 N=50                DOUGLAS, ILL               
+ 374  374 3 HR 10650.  DOUGLAS AMEND. TO REDUCE THE DEPLETION ALLOWANCE       
+ 374  374 4 FROM 27.5 TO 15 PERCENT.                                          
+ 375  375 1                              HR1065    SEPT. 05, 1962             
+ 375  375 2 S872171       Y=59 N=24                                           
+ 375  375 3 HR 10650.  PASSAGE.                                               
+ 376  376 1                              HR10      SEPT. 07, 1962             
+ 376  376 2 S872172       Y=75 N=04                                           
+ 376  376 3 HR 10.  SENATE VERSION OF SELF-EMPLOYED INDIVIDUALS               
+ 376  376 4 TAX RETIREMENT ACT.  PASSAGE.                                     
+ 377  377 1                              S2965     SEPT. 10, 1962             
+ 377  377 2 S872173       Y=30 N=38                COOPER, KY                 
+ 377  377 3 S. 2965.  PUBLIC WORKS ACCELERATION ACT.  COOPER AMEND. TO        
+ 377  377 4 CORRECT TECHNICAL ERROR IN BILL AS PASSED BY HOUSE.               
+ 378  378 1                              S2965     SEPT. 10, 1962             
+ 378  378 2 S872174       Y=45 N=22                KERR, OKLA                 
+ 378  378 3 S. 2965.  KERR MOTION THAT SENATE AGREE TO HOUSE AMENDMENTS.      
+ 379  379 1                              SRE       SEPT. 11, 1962             
+ 379  379 2 S872175       Y=54 N=16                                           
+ 379  379 3 CONFIRMATION OF NOMINATION OF THURGOOD MARSHALL AS JUDGE OF       
+ 379  379 4 THE SECOND CIRCUIT COURT OF APPEALS.                              
+ 380  380 1                              HR7283    SEPT. 12, 1962             
+ 380  380 2 S872176       Y=47 N=24                KEATING, NY                
+ 380  380 3 HR 7283.  PROVIDE FOR SETTLEMENT OF CERTAIN WORLD WAR II          
+ 380  380 4 CLAIMS OF U.S. NATIONALS.  KEATING AMEND. TO AUTHORIZE THE        
+ 380  380 5 SALE OF GENERAL ANILINE AND FILM CO.                              
+ 381  381 1                              SJRE224   SEPT. 13, 1962             
+ 381  381 2 S872177       Y=76 N=00                                           
+ 381  381 3 S.J. RES. 224.  RESOLUTION GRANTING THE PRES. STANDBY             
+ 381  381 4 AUTHORITY, UNTIL FEB. 28, 1963, TO CALL UP 150,000 MEMBERS        
+ 381  381 5 OF THE READY RESERVE TO ACTIVE DUTY AND TO EXTEND                 
+ 381  381 6 ENLISTMENTS.                                                      
+ 382  382 1                              HR11970   SEPT. 18, 1962             
+ 382  382 2 S872178       Y=38 N=40                BUSH, CONN                 
+ 382  382 3 HR 11970.  TRADE EXPANSION ACT.  BUSH AMEND. RESTORING            
+ 382  382 4 "PERIL POINT" PROCEDURE OF EXISTING ACT.                          
+ 383  383 1                              HR11970   SEPT. 18, 1962             
+ 383  383 2 S872179       Y=40 N=39                MANSFIELD, MONT            
+ 383  383 3 HR 11970.  MANSFIELD MOTION TO TABLE DIRKSEN MOTION TO            
+ 383  383 4 RECONSIDER VOTE ON ABOVE AMEND.                                   
+ 384  384 1                              HR11970   SEPT. 18, 1962             
+ 384  384 2 S872180       Y=13 N=65                CURTIS, NEB                
+ 384  384 3 HR 11970.  CURTIS AMEND. ESTABLISHING LEGISLATIVE COMMITTEE       
+ 384  384 4 TO APPROVE TRADE AGREEMENTS.                                      
+ 385  385 1                              HR11970   SEPT. 18, 1962             
+ 385  385 2 S872181       Y=23 N=58                CURTIS, NEB                
+ 385  385 3 HR 11970.  CURTIS AMEND. ELIMINATING THE TRADE ADJUSTMENT         
+ 385  385 4 PROVISIONS GIVING AID TO FIRMS AND WORKERS ADVERSELY              
+ 385  385 5 AFFECTED BY THE ACT.                                              
+ 386  386 1                              HR11970   SEPT. 18, 1962             
+ 386  386 2 S872182       Y=31 N=51                BYRD, VA                   
+ 386  386 3 HR 11970.  BYRD AMEND. LOWERING THE LEVEL OF UNEMPLOYMENT         
+ 386  386 4 COMPENSATION PAYMENTS UNDER THE BILL.                             
+ 387  387 1                              HR11970   SEPT. 18, 1962             
+ 387  387 2 S872183       Y=25 N=55                BUSH, CONN                 
+ 387  387 3 HR 11970.  BUSH AMEND. REMOVING THE PRESIDENT'S AUTHORITY TO      
+ 387  387 4 ELIMINATE TARIFFS WHICH WERE CURRENTLY 5 PERCENT OR LESS.         
+ 388  388 1                              HR11970   SEPT. 18, 1962             
+ 388  388 2 S872184       Y=34 N=45                BUSH, CONN                 
+ 388  388 3 HR 11970.  BUSH AMEND. DIRECTING TARIFF COMMITTEE IN STUDIES      
+ 388  388 4 ON WHETHER TO RECOMMEND USE OF ESCAPE CLAUSE, TO TAKE INTO        
+ 388  388 5 ACCOUNT DOWNWARD TRENDS OF SALES, PROFITS, EMPLOYMENT AND         
+ 388  388 6 WAGES AND A DECLINE IN THE PROPORTION OF THE MARKET THE           
+ 388  388 7 INDUSTRY SUPPLIES, AS UNDER EXISTING LAW, INSTEAD OF AN           
+ 388  388 8 ALREADY EXISTING INABILITY TO OPERATE AT A PROFIT, ETC., AS       
+ 388  388 9 UNDER THE BILL.                                                   
+ 389  389 1                              HR11970   SEPT. 18, 1962             
+ 389  389 2 S872185       Y=20 N=63                CURTIS, NEB                
+ 389  389 3 HR 11970.  CURTIS AMEND. PROVIDING THAT EVERY TRADE AGREE-        
+ 389  389 4 MENT BE DESIGNED TO MAINTAIN OR EXPAND THE 1957 VOLUME OF         
+ 389  389 5 EXPORTS OF AGRICULTURAL COMMODITIES.                              
+ 390  390 1                              HR11970   SEPT. 18, 1962             
+ 390  390 2 S872186       Y=28 N=56                DIRKSEN, ILL               
+ 390  390 3 HR 11970.  DIRKSEN AMEND. REDUCING THE PRESIDENT'S NEGOTIA-       
+ 390  390 4 TING AUTHORITY FROM FIVE YEARS TO THREE.                          
+ 391  391 1                              HR11970   SEPT. 18, 1962             
+ 391  391 2 S872187       Y=21 N=54                PROUTY, VT                 
+ 391  391 3 HR 11970.  PROUTY AMEND. REQUIRING THAT THE PRESIDENT'S           
+ 391  391 4 REPORT TO CONGRESS ON TRADE NEGOTIATIONS INCLUDE THE PRE-         
+ 391  391 5 NEGOTIATION ADVICE GIVEN HIM BY THE TARIFF COMMISSION.            
+ 392  392 1                              HR11970   SEPT. 19, 1962             
+ 392  392 2 S872188       Y=78 N=08                                           
+ 392  392 3 HR 11970.  PASSAGE.                                               
+ 393  393 1                              SRE       SEPT. 19, 1962             
+ 393  393 2 S872189       Y=86 N=00                                           
+ 393  393 3 EXEC. B.  87TH CONG., 2ND SESSION.  TREATY OF FRIENDSHIP,         
+ 393  393 4 ESTABLISHMENT AND NAVIGATION BETWEEN THE U.S. AND                 
+ 393  393 5 LUXEMBOURG, PROVIDED AN AGREED BASIS FOR PROTECTION OF THE        
+ 393  393 6 PROPERTY AND INTEREST OF AMERICAN CITIZENS AND COMPANIES IN       
+ 393  393 7 LUXEMBOURG W/RECIPROCAL RIGHTS FOR LUXEMBOURG'S CITIZENS.         
+ 394  394 1                              S2800     SEPT 20, 1962              
+ 394  394 2 S872190       Y=50 N=29                WILLIAMS, DEL              
+ 394  394 3 S. 2800.  EXTEND FOR ONE YEAR THE 55 PERCENT CEILING ON           
+ 394  394 4 GOV'T COST-DIFFERENTIAL SUBSIDIES FOR DOMESTIC SHIP CON-          
+ 394  394 5 STRUCTION AND CONVERSION.  WILLIAMS AMEND. TO ELIMINATE THE       
+ 394  394 6 6 PERCENT DIFFERENTIAL PREFERENCE ALLOWED PACIFIC COAST           
+ 394  394 7 COMMERCIAL SHIPBUILDERS.                                          
+ 395  395 1                              SJRE230   SEPT. 20, 1962             
+ 395  395 2 S872191       Y=86 N=01                                           
+ 395  395 3 S.J. RES. 230.  EXPRESS U.S. DETERMINATION TO PREVENT THE         
+ 395  395 4 SPREAD OF COMMUNISM FROM CUBA TO REST OF THE WESTERN              
+ 395  395 5 HEMISPHERE, BY ANY MEANS NECESSARY, INCLUDING USE OF ARMS.        
+ 396  396 1                              HR11164   SEPT. 20, 1962             
+ 396  396 2 S872192       Y=13 N=61                MILLER, IOWA               
+ 396  396 3 HR 11164.  AMEND REPAYMENT CONTRACT W/QUINCY COLUMBIA BASIN       
+ 396  396 4 IRRIGATION DISTRICT, WASHINGTON.  MILLER AMEND. TO PROHIBIT       
+ 396  396 5 DELIVERY OF WATER TO NEWLY IRRIGATED LANDS IF USED TO PRO-        
+ 396  396 6 DUCE PRICE-SUPPORTED CROPS ALREADY IN SURPLUS.                    
+ 397  397 1                              HR8181    SEPT. 21, 1962             
+ 397  397 2 S872193       Y=28 N=43                MORSE, ORE                 
+ 397  397 3 HR 8181.  AUTHORIZE THE GENERAL SERVICES ADMINISTRATION TO        
+ 397  397 4 CONSTRUCT A NATIONAL FISHERIES CENTER AND AQUARIUM IN D.C.        
+ 397  397 5 AT COST OF $10,000,000.  MORSE MOTION TO RECOMMIT.                
+ 398  398 1                              HR8181    SEPT. 21, 1962             
+ 398  398 2 S872194       Y=42 N=20                                           
+ 398  398 3 HR 8181.  PASSAGE.                                                
+ 399  399 1                              HR12648   SEPT. 24, 1962             
+ 399  399 2 S872195       Y=77 N=00                RUSSELL, GA                
+ 399  399 3 HR 12648.  FISCAL 1963 AGRICULTURE DEPT.  APPROPRIATIONS          
+ 399  399 4 BILL.  RUSSELL MOTION TO INSIST ON SENATE AMENDS. ON              
+ 399  399 5 RESEARCH FUNDS AND CONSTRUCTION OF FACILITIES FOR THE             
+ 399  399 6 AGRICULTURAL RESEARCH SERVICE.                                    
+ 400  400 1                              HR12391   SEPT. 25, 1962             
+ 400  400 2 S872196       Y=52 N=41                                           
+ 400  400 3 HR 12391.  CONFERENCE REPORT ON THE FOOD AND AGRICULTURE ACT      
+ 400  400 4 OF 1962.  ADOPTION.                                               
+ 401  401 1                              HR7927    SEPT. 27, 1962             
+ 401  401 2 S872197       Y=23 N=51                CLARK, PA                  
+ 401  401 3 HR 7927.  POSTAL RATE INCREASES AND FEDERAL EMPLOYEE PAY          
+ 401  401 4 RAISES.  CLARK SUBSTITUTE AMEND. TO REQUIRE PLACEMENT OF          
+ 401  401 5 PUBLIC NOTICES WHEN NECESSARY TO WARN THE PUBLIC THAT             
+ 401  401 6 COMMUNIST PROPAGANDA AND OBCENE MATTER MIGHT BE SENT THROUGH      
+ 401  401 7 THE MAILS.                                                        
+ 402  402 1                              HR7927    SEPT. 27, 1962             
+ 402  402 2 S872198       Y=33 N=48                CLARK, PA                  
+ 402  402 3 HR 7927.  CLARK AMEND. PERMITTING THE PRESIDENT TO WAIVE THE      
+ 402  402 4 PROVISION REQUIRING INTERCEPTION OF COMMUNIST POLITICAL           
+ 402  402 5 PROPAGANDA IF HE DETERMINED THAT IT WAS IN THE NATIONAL           
+ 402  402 6 INTEREST TO PERMIT THE HANDLING OF MAIL IN ACCORD WITH            
+ 402  402 7 INTERNATIONAL POSTAL AGREEMENTS.                                  
+ 403  403 1                              HR7927    SEPT. 27, 1962             
+ 403  403 2 S872199       Y=06 N=72                MORSE, ORE                 
+ 403  403 3 HR 7927.  MORSE AMEND. TO DELETE POSTAL RATE INCREASES FROM       
+ 403  403 4 BILL.                                                             
+ 404  404 1                              HR7927    SEPT. 27, 1962             
+ 404  404 2 S872200       Y=12 N=65                MORSE, ORE                 
+ 404  404 3 HR 7927.  MORSE AMEND. TO DELETE PROPOSED INCREASES IN            
+ 404  404 4 FIRST-CLASS AND AIRMAIL POSTAL RATES.                             
+ 405  405 1                              HR7927    SEPT. 27, 1962             
+ 405  405 2 S872201       Y=21 N=59                LAUSCHE, OHIO              
+ 405  405 3 HR 7927.  LAUSCHE AMEND. REQUIRING FEDERAL SALARY FIXING TO       
+ 405  405 4 BE BASED ON THE PRINCIPLE THAT RATES BE COMPARABLE NOT ONLY       
+ 405  405 5 W/THOSE IN PRIVATE ENTERPRISE, BUT ALSO W/THOSE IN STATE AND      
+ 405  405 6 LOCAL GOV'T.                                                      
+ 406  406 1                              HR7927    SEPT. 27, 1962             
+ 406  406 2 S872202       Y=38 N=40                SMITH, ME                  
+ 406  406 3 HR 7927.  SMITH AMEND. RAISING CEILING TO $20,000 FOR             
+ 406  406 4 HIGHER-GRADE LEG. EMPLOYEES.                                      
+ 407  407 1                              HR7927    SEPT. 27, 1962             
+ 407  407 2 S872203       Y=15 N=62                MILLER, IOWA               
+ 407  407 3 HR 7927.  MILLER AMEND. REQUIRING PROMPT DELIVERY OF MAIL         
+ 407  407 4 SENT FROM U.S. TO COMMUNIST NATIONS, UNDER INTERNATIONAL          
+ 407  407 5 RECIPROCAL AGREEMENTS AS A CONDITION FOR EXEMPTION OF             
+ 407  407 6 COMMUNIST POLITICAL PROPAGANDA FROM INTERCEPTION.                 
+ 408  408 1                              HR7927    SEPT. 27, 1962             
+ 408  408 2 S872204       Y=72 N=03                                           
+ 408  408 3 HR 7927.  PASSAGE.                                                
+ 409  409 1                              HR10      SEPT. 28, 1962             
+ 409  409 2 S872205       Y=70 N=08                                           
+ 409  409 3 HR 10.  ACCEPTANCE OF CONFERENCE REPORT ON THE SELF-EMPLOYED      
+ 409  409 4 INDIVIDUALS TAX RETIREMENT ACT.                                   
+ 410  410 1                              HR12900   SEPT. 29, 1962             
+ 410  410 2 S872206       Y=16 N=44                HRUSKA, NEB                
+ 410  410 3 HR 12900.  APPROPRIATE $5,211,271,400 FOR PUBLIC WORKS            
+ 410  410 4 PROJECTS AND THE AEC.  HRUSKA AMEND. TO PROVIDE $300              
+ 410  410 5 MILLION INSTEAD OF $500 MILLION FOR AN ACCELERATED WORKS          
+ 410  410 6 PROGRAM.                                                          
+ 411  411 1                              HR12900   OCT. 01, 1962              
+ 411  411 2 S872207       Y=17 N=52                PROXMIRE, WISC             
+ 411  411 3 HR 12900.  PROXMIRE AMEND. TO ELIMINATE $750,000 TO BEGIN         
+ 411  411 4 CONSTRUCTION OF THE GLEN ELDER DAM, KANSAS.                       
+ 412  412 1                              HR12900   OCT. 01, 1962              
+ 412  412 2 S872208       Y=64 N=08                                           
+ 412  412 3 HR 12900.  PASSAGE.                                               
+ 413  413 1                              HR12080   OCT. 01, 1962              
+ 413  413 2 S872209       Y=50 N=21                                           
+ 413  413 3 HR 12080.  AMEND THE FED. RESERVE ACT AND FDIA TO EXEMPT          
+ 413  413 4 FROM FEDERAL INTEREST CEILINGS THE TIME DEPOSITS OF FOREIGN       
+ 413  413 5 GOVERNMENTS IN U.S. COMMERCIAL BANKS.                             
+ 414  414 1                              HR13175   OCT. 01, 1962              
+ 414  414 2 S872210       Y=47 N=28                                           
+ 414  414 3 HR 13175.  FOREIGN ASSISTANCE APPROPRIATION ACT.  ADOPTION        
+ 414  414 4 OF SENATE APPROPRIATIONS COMMITTEE AMENDMENTS PROVIDING           
+ 414  414 5 $785 MILLION MORE THAN THAT PROVIDED BY HOUSE FOR THE             
+ 414  414 6 DEVELOPMENT OF GRANTS AND LOANS, THE CONTINGENCY FUND,            
+ 414  414 7 SUPPORTING ASSISTANCE, THE ALLIANCE FOR PROGRESS AND              
+ 414  414 8 MILITARY AID.                                                     
+ 415  415 1                              HR13175   OCT. 01, 1962              
+ 415  415 2 S872211       Y=39 N=36                                           
+ 415  415 3 HR 13175.  ADOPTION OF APPROPRIATIONS COMMITTEE AMENDMENTS        
+ 415  415 4 BARRING AID TO NATIONS WHICH AIDED CUBA OR PERMITTED THEIR        
+ 415  415 5 SHIPS TO DELIVER STRATEGIC ITEMS TO CUBA, AND BARRING             
+ 415  415 6 SHIPPING OF FOREIGN AID CARGOES IN SHIPS OF NATIONS WHICH         
+ 415  415 7 SUPPLIED GOODS TO CUBA, UNLESS PRESIDENT DETERMINED THAT          
+ 415  415 8 W/HOLDING AID OR CARGOES WOULD BE DETRIMENTAL TO U.S.             
+ 415  415 9 NATIONAL INTERESES.                                               
+ 416  416 1                              HR13175   OCT. 01, 1962              
+ 416  416 2 S872212       Y=39 N=37                                           
+ 416  416 3 HR 13175.  ADOPTION OF APPROPRIATIONS COMMITTEE AMENDMENTS        
+ 416  416 4 BARRING AID TO COMMUNIST COUNTRIES UNLESS THE PRESIDENT           
+ 416  416 5 DETERMINED AND REPORTED TO CONGRESS THAT THE AID WAS VITAL        
+ 416  416 6 TO U.S. SECURITY, THAT THE RECIPIENT WAS NOT CONTROLLED BY        
+ 416  416 7 THE INTERNATIONAL COMMUNIST CONSPIRACY AND THAT THE AID           
+ 416  416 8 WOULD PROMOTE THE RECIPIENT'S INDEPENDENCE FROM                   
+ 416  416 9 INTERNATIONAL COMMUNISM.                                          
+ 417  417 1                              HR13175   OCT. 01, 1962              
+ 417  417 2 S872213       Y=60 N=14                KEATING, NY                
+ 417  417 3 HR 13175.  KEATING AMEND. REQUIRING PUBLICATION IN THE            
+ 417  417 4 FEDERAL REGISTER OF A REPORT GIVING THE PRESIDENT'S REASONS       
+ 417  417 5 FOR DETERMINING THAT IT WAS IN THE U.S. NATIONAL INTEREST TO      
+ 417  417 6 AID A COMMUNIST NATION.                                           
+ 418  418 1                              HR13175   OCT. 01, 1962              
+ 418  418 2 S872214       Y=35 N=41                ELLENDER, LA               
+ 418  418 3 HR 13175.  ELLENDER AMEND. TO REDUCE BY $150 MILLION THE          
+ 418  418 4 PROPOSED APPROPRIATION FOR MILITARY AID.                          
+ 419  419 1                              HR13175   OCT. 01, 1962              
+ 419  419 2 S872215       Y=34 N=40                ELLENDER, LA               
+ 419  419 3 HR 13175.  ELLENDER AMEND. TO REDUCE BY $200 MILLION THE          
+ 419  419 4 PROPOSED APPROPRIATION FOR DEVELOPMENT LOANS.                     
+ 420  420 1                              HR13175   OCT. 01, 1962              
+ 420  420 2 S872216       Y=40 N=34                HAYDEN, ARIZ               
+ 420  420 3 HR 13175.  HAYDEN AMEND. TO PERMIT OBLIGATED UNEXPENDED           
+ 420  420 4 BALANCES OF FISCAL 1962 ECONOMIC AID FUNDS SUBSEQUENTLY           
+ 420  420 5 DEOBLIGATED TO REMAIN AVAILABLE IN FISCAL 1963 FOR PROJECTS       
+ 420  420 6 PREVIOUSLY JUSTIFIED TO CONGRESS.                                 
+ 421  421 1                              HR13175   OCT. 02, 1962              
+ 421  421 2 S872217       Y=26 N=52                DODD, CONN                 
+ 421  421 3 HR 13175.  DODD AMEND. TO INCREASE BY $2 MILLION THE              
+ 421  421 4 $16,677,000 PROVIDED FOR MIGRATION AND REFUGEES AID.              
+ 422  422 1                              HR13175   OCT. 02, 1962              
+ 422  422 2 S872218       Y=38 N=40                MUNDT, SD                  
+ 422  422 3 HR 13175.  MUNDT AMEND. TO REDUCE BY $125 MILLION THE             
+ 422  422 4 $1,125,000,000 PROPOSED FOR DEVELOPMENT LOANS.                    
+ 423  423 1                              HR13175   OCT. 02, 1962              
+ 423  423 2 S872219       Y=57 N=24                                           
+ 423  423 3 HR 13175.  PASSAGE.                                               
+ 424  424 1                              HR10650   OCT. 02, 1962              
+ 424  424 2 S872220       Y=56 N=22                                           
+ 424  424 3 HR 10650.  CONFERENCE REPORT ON REVENUE ACT OF 1962.              
+ 424  424 4 ACCEPTANCE.                                                       
+ 425  425 1                              HR12580   OCT. 03, 1962              
+ 425  425 2 S872221       Y=30 N=52                PROXMIRE, WISC             
+ 425  425 3 HR 12580.  APPROPRIATE $2,036,808,700 FOR DEPARTMENTS OF          
+ 425  425 4 STATE, JUSTICE, COMMERCE AND RELATED AGENCIES, INCLUDING THE      
+ 425  425 5 CIVIL RIGHTS COMMISSION.  PROXMIRE AMEND. TO REDUCE FUNDS         
+ 425  425 6 FOR THE MARITIME ADMIN.                                           
+ 426  426 1                              HR12580   OCT. 03, 1962              
+ 426  426 2 S872222       Y=53 N=22                MANSFIELD, MONT            
+ 426  426 3 HR 12580.  MANSFIELD MOTION TO TABLE MORSE AMEND. TO ATTACH       
+ 426  426 4 TO THE BILL S. 2985, PROVIDING INCREASES IN WORLD WAR I           
+ 426  426 5 VETERANS' PENSIONS.                                               
+ 427  427 1                              S3313     OCT. 04, 1962              
+ 427  427 2 S872223       Y=22 N=50                MORSE, ORE                 
+ 427  427 3 S. 3313.  AUTHORIZE AN INCREASE IN THE BORROWING AUTHORITY        
+ 427  427 4 FOR THE GENERAL FUND OF THE DISTRICT COLUMBIA FROM $75            
+ 427  427 5 MILLION TO $150 MILLION.  MORSE SUBSTITUTE AMEND. TO              
+ 427  427 6 INCREASE THE AUTHORITY TO $230 MILLION WITH THE STIPULATION       
+ 427  427 7 THAT $120 MILLION WOULD BE AVAILABLE, ON AN INTEREST-FREE         
+ 427  427 8 BASIS, FOR EDUCATIONAL PURPOSES ONLY.                             
+ 428  428 1                              HR10117   OCT. 05, 1962              
+ 428  428 2 S872224       Y=40 N=15                MCCARTHY, MINN             
+ 428  428 3 HR 10117.  PERMIT INCLUSION UNDER CORPORATE PENSION PLANS OF      
+ 428  428 4 PROGRAMS PROVIDING MEDICAL AND HOSPITALIZATION BENEFITS TO        
+ 428  428 5 RETIRED EMPLOYEES AND THEIR DEPENDENTS.  MC CARTHY AMEND. TO      
+ 428  428 6 RENEW FOR FOUR MONTHS THE PROGRAM FOR PAYMENT OF ADDITIONAL       
+ 428  428 7 UNEMPLOYMENT INSURANCE BENEFITS TO JOBLESS WORKERS WHO HAD        
+ 428  428 8 EXHAUSTED THEIR REGULAR ENTITLEMENTS.                             

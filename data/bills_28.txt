@@ -1,0 +1,1777 @@
+   1  102 1 G 13- -117    J 28-1-62      SRE       JAN. 8, 1844               
+   1  102 2 S281001       Y=14 N=31                ALLEN, OHIO                
+   1  102 3 TO REQUEST THE PRESIDENT TO FURNISH A COPY OF ANY                 
+   1  102 4 INSTRUCTIONS HE MAY HAVE GIVEN TO THE MINISTER TO ENGLAND         
+   1  102 5 WITH RESPECT TO THE TITLE AND OCCUPATION OF OREGON,               
+   1  102 6 TOGETHER WITH COPY OF ANY CORRESPONDENCE BETWEEN THE TWO          
+   1  102 7 COUNTRIES REGARDING THIS SUBJECT.                                 
+   2  103 1 G 13- -125    J 28-1-66      S16       JAN. 10, 1844              
+   2  103 2 S281002       Y=11 N=31                BENTON, MO.                
+   2  103 3 TO POSTPONE INDEFINITELY, THE BILL S. 16, SETTLING THE            
+   2  103 4 TITLE TO PEA PATCH ISLAND IN THE DELAWARE RIVER.                  
+   3    1 1               EX J 6-209     SRE       JAN. 11, 1844              
+   3    1 2 E281001       Y=8 N=33                 ARCHER, VA.                
+   3    1 3 TO CONSENT TO THE NOMINATION OF GEORGE H. PROFFIT AS ENVOY        
+   3    1 4 EXTRAORDINARY AND MINISTER PLENIPOTENTIARY TO BRAZIL, IN          
+   3    1 5 PLACE OF WILLIAM HUNTER, RECALLED.                                
+   4    2 1               EX J 6-210     SRE       JAN. 15, 1844              
+   4    2 2 E281002       Y=8 N=34                 BAYARD, DEL.               
+   4    2 3 TO CONSENT TO THE NOMINATION OF DAVID HENSHAW AS SECRETARY        
+   4    2 4 OF THE NAVY IN PLACE OF ABEL P. UPSHUR, RESIGNED.                 
+   5    3 1               EX J 6-217     SRE       JAN. 17, 1844              
+   5    3 2 E281003       Y=11 N=25                BAYARD, DEL.               
+   5    3 3 TO CONSENT TO THE NOMINATION OF ISSAC HILL AS CHIEF OF            
+   5    3 4 BUREAUS OF PROVISIONS AND CLOTHING OF THE NAVY DEPARTMENT TO      
+   5    3 5 FILL VACANCY CAUSED BY DEATH OF CHARLES W. GOLDSBOROUGH.          
+   6    4 1               EX J 6-220     SRE       JAN. 19, 1844              
+   6    4 2 E281004       Y=35 N=5                 ARCHER, VA.                
+   6    4 3 TO ADOPT THE RESOLUTION CONSENTING TO RATIFICATION OF THE         
+   6    4 4 CONVENTION FOR THE SURRENDER OF CRIMINALS BETWEEN THE             
+   6    4 5 UNITED STATES AND THE KING OF FRANCE, SIGNED AT WASHINGTON,       
+   6    4 6 NOV. 9, 1843, BY THE SECRETARY OF STATE AND THE MINISTER          
+   6    4 7 PLENIPOTENIARY AD INTERIM FROM THE FRENCH GOVERNMENT TO THE       
+   6    4 8 UNITED STATES.                                                    
+   7    5 1               EX J 6-221     SRE       JAN. 22, 1844              
+   7    5 2 E281005       Y=3 N=37                 ARCHER, VA.                
+   7    5 3 TO AMEND, AS IN THE COMMITTEE OF THE WHOLE, RESOLUTION            
+   7    5 4 RELATING TO THE CONVENTION FOR SETTLEMENT OF CLAIMS OF THE        
+   7    5 5 CITIZENS AND GOVERNMENT OF THE MEXICAN REPUBLIC AGAINST THE       
+   7    5 6 UNITED STATES GOVERNMENT; AND OF THE CITIZENS AND GOVERNMENT      
+   7    5 7 OF THE UNITED STATES AGAINST THE MEXICAN GOVERNMENT, SIGNED       
+   7    5 8 IN MEXICO CITY, NOV. 20, 1843, BY PROVIDING THAT THE WORD         
+   7    5 9 'MEXICO', IN ARTICLE 4, LINE 2 AND IN ARTICLE 7, LINE 22          
+   7    510 SHALL STAND, (AS THE PLACE WHERE THE TREATY WAS CONCLUDED).       
+   8    6 1               EX J 6-222     SRE       JAN. 22, 1844              
+   8    6 2 E281006       Y=38 N=4                 ARCHER, VA.                
+   8    6 3 TO AMEND, AS IN THE COMMITTEE OF THE WHOLE, RESOLUTION            
+   8    6 4 RELATING TO THE CONVENTION FOR SETTLEMENT OF CLAIMS OF THE        
+   8    6 5 CITIZENS AND GOVERNMENT OF THE MEXICAN REPUBLIC AGAINST THE       
+   8    6 6 UNITED STATES GOVERNMENT; AND OF THE CITIZENS AND GOVERNMENT      
+   8    6 7 OF THE U.S. AGAINST THE MEXICAN GOVERNMENT, SIGNED IN             
+   8    6 8 MEXICO CITY, NOV. 20, 1843, BY INSERTING THE WORD                 
+   8    6 9 'WASHINGTON' IN LIEU OF THE WORD 'MEXICO' IN BOTH ARTICLE 4,      
+   8    610 LINE 2 AND ARTICLE 7, LINE 22, AS THE PLACE WHERE TREATY          
+   8    611 WAS CONCLUDED.                                                    
+   9  104 1 G 13- -176    J 28-1-85      SRE       JAN. 23, 1844              
+   9  104 2 S281003       Y=14 N=26                BATES, MASS.               
+   9  104 3 TO PERMIT THE GOVERNMENT TO PRINT COPIES OF A RESOLUTION          
+   9  104 4 FROM THE STATE OF MASS. PROPOSING TO AMEND THE CONSTITUTION       
+   9  104 5 SO THAT REPRESENTATION SHALL BE APPORTIONED ACCORDING TO THE      
+   9  104 6 RESPECTIVE NUMBER OF FREE PERSONS RESIDING IN EACH STATE.         
+  10    7 1               EX J 6-227     SRE       JAN. 30, 1844              
+  10    7 2 E281007       Y=3 N=38                 CRITTENDEN, KY.            
+  10    7 3 TO CONSENT TO THE NOMINATION OF JAMES M. PORTER, AS               
+  10    7 4 SECRETARY OF WAR IN PLACE OF JOHN C. SPENCER, RESIGNED.           
+  11    8 1               EX J 6-228     SRE       JAN. 30, 1844              
+  11    8 2 E281008       Y=25 N=17                ARCHER, VA.                
+  11    8 3 TO DECIDE THE QUESTION, MADE IN THE COMMITTEE OF THE WHOLE,       
+  11    8 4 JAN. 30, 1844, SHALL ARTICLE 16 STAND AS PART OF CONVENTION       
+  11    8 5 FOR SETTLEMENT OF CLAIMS OF THE CITIZENS AND                      
+  11    8 6 GOVERNMENT; AND THE CITIZENS AND GOVERNMENT OF THE                
+  11    8 7 UNITED STATES AGAINST THE MEXICAN GOVERNMENT, SIGNED IN           
+  11    8 8 MEXICO CITY, NOV. 20, 1843, WHICH ARTICLE PROVIDES FOR            
+  11    8 9 ARBITRATION OF MUTUAL CLAIMS OF MEX. AND THE U.S., DECISION       
+  11    810 OF ARBITER TO BE FINAL AND TO BE GIVEN WITHIN ONE YEAR:           
+  11    811 THAT ALL CASES INVOLVING NATIONAL HONOR BE TREATED                
+  11    812 DIPLOMATICALLY; AND THAT NO BOUNDARY QUESTION BE SUBMITTED        
+  11    813 TO ARBITER BUT SHALL BE ARRANGED ACCORDING TO STIPULATIONS        
+  11    814 OF EXISTING TREATIES BETWEEN THE TWO COUNTRIES.                   
+  12    9 1               EX J 6-229A    SRE       JAN. 30, 1844              
+  12    9 2 E281009       Y=36 N=3                 ARCHER, VA.                
+  12    9 3 TO ADOPT THE RESOLUTION AS AMENDED, CONSENTING TO                 
+  12    9 4 RATIFICATION OF THE CONVENTION FOR SETTLEMENT OF CLAIMS OF        
+  12    9 5 THE CITIZENS AND GOVT OF THE MEXICAN REPUBLIC AGAINST THE         
+  12    9 6 UNITED STATES GOVERNMENT; AND OF THE CITIZENS AND                 
+  12    9 7 GOVERNMENT OF THE U.S. AGAINST THE MEXICAN GOVERNMENT,            
+  12    9 8 SIGNED IN MEXICO CITY, NOV. 20, 1843.                             
+  13   10 1               EX J 6-229B    SRE       JAN. 31, 1844              
+  13   10 2 E281010       Y=21 N=26                BERRIEN, GA.               
+  13   10 3 TO CONSENT TO THE NOMINATION OF JOHN C. SPENCER AS                
+  13   10 4 ASSOCIATE JUSTICE OF THE SUPREME COURT IN PLACE OF                
+  13   10 5 SMITH THOMPSON, DECEASED.                                         
+  14   11 1               EX J 6-230     SRE       FEB. 1, 1844               
+  14   11 2 E281011       Y=30 N=15                ARCHER, VA.                
+  14   11 3 TO ADOPT THE RESOLUTION RATIFYING THE CONVENTION FOR THE          
+  14   11 4 SURRENDER OF CRIMINALS BETWEEN THE UNITED STATES AND THE          
+  14   11 5 KING OF FRANCE, SIGNED AT WASHINGTON, NOV. 9, 1843, BY THE        
+  14   11 6 SECRETARY OF STATE AND THE MINISTER PLENIPOTENAIRY                
+  14   11 7 AD INTERIM FROM THE FRENCH GOVERNMENT TO THE UNITED STATES.       
+  15  105 1 G 13- -245    J 28-1-110     HR1       FEB. 8, 1844               
+  15  105 2 S281010       Y=18 N=22                ALLEN, OHIO                
+  15  105 3 TO POSTPONE ALL PREVIOUS ORDERS, AND CONSIDER THE BILL H.R.1      
+  15  105 4 (APP. 2/16/1844, 5 STAT. L. 651), REFUNDING THE FINE              
+  15  105 5 IMPOSED ON GENERAL JACKSON AT NEW ORLEANS.                        
+  16   12 1               EX J 6-234A    SRE       FEB. 9, 1844               
+  16   12 2 E281012       Y=30 N=10                ARCHER, VA.                
+  16   12 3 TO CONSENT TO THE NOMINATION OF HENRY A. WISE, OF VIRGINIA,       
+  16   12 4 TO BE ENVOY EXTRAORDINARY AND MINISTER PLENIPOTENTIARY OF         
+  16   12 5 THE UNITED STATES NEAR HIS MAJESTY THE EMPEROR OF BRAZIL, IN      
+  16   12 6 PLACE OF GEORGE H. PROFFIT, WHOSE NOMINATION WAS REJECTED         
+  16   12 7 BY THE SENATE.                                                    
+  17   13 1               EX J 6-234B    SRE       FEB. 9, 1844               
+  17   13 2 E281013       Y=28 N=19                BUCHANAN, PA.              
+  17   13 3 TO AMEND THE MOTION THAT THE INJUNCTION OF SECRECY BE             
+  17   13 4 REMOVED FROM THE PROCEEDINGS, PAPERS, EVIDENCE AND SPEECHES       
+  17   13 5 AND VOTE OF THE SENATE ON THE NOMINATION OF DAVID HENSHAW OF      
+  17   13 6 MASS. FOR APPOINTMENT AS SECRETARY OF THE NAVY, BY LIMITING       
+  17   13 7 THE REMOVAL OF SUCH INJUNCTION TO THE VOTE ONLY ON SUCH           
+  17   13 8 NOMINATION.                                                       
+  18   14 1               EX J 6-234C    SRE       FEB. 9, 1844               
+  18   14 2 E281014       Y=29 N=16                SEVIER, ARK.               
+  18   14 3 TO AMEND THE MOTION RELATIVE TO THE NOMINATION OF                 
+  18   14 4 DAVID HENSHAW OF MASS. AS SECRETARY OF THE NAVY (IN PLACE         
+  18   14 5 OF ABEL P. UPSHUR, RESIGNED), BY ADDING AFTER DAVID HENSHAW       
+  18   14 6 THE NAMES OF GEORGE H. PROFFIT, ISSAC HALL, JAMES M. PORTER,      
+  18   14 7 *****MISSING TEXT*****                                            
+  18   14 8 ITY TO VOTE ON NOMINATION OF THESE MEN IN ADDITION TO             
+  18   14 9 DAVID HENSHAW.                                                    
+  19  106 1 G 13- -252    J 28-1-112     S10       FEB. 9, 1844               
+  19  106 2 S281011       Y=29 N=13                MILLER, N.J.               
+  19  106 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL S. 10,         
+  19  106 4 (APP. 6/17/1844 5 STAT. L. 672), MAKING APPROPRIATIONS FOR        
+  19  106 5 THE INSANE ASYLUM IN THE DISTRICT OF COLUMBIA.                    
+  20  107 1 G 13- -269    J 28-1-116     HR1       FEB. 13, 1844              
+  20  107 2 S281012       Y=18 N=26                BERRIEN, GA.               
+  20  107 3 TO AMEND H.R. 1 BY RELIEVING THE HON. DOMINICK A. HALL OF         
+  20  107 4 PERSONAL BLAME FOR IMPOSING SAID FINE.  (P. 267)                  
+  21  108 1 G 13- -274    J 28-1-119     HR1       FEB. 14, 1844              
+  21  108 2 S281013       Y=30 N=16                BERRIEN, GA.               
+  21  108 3 TO ORDER A THIRD READING OF H.R. 1.  (P. 274)                     
+  22  109 1 G 13- -282A   J 28-1-122A    S15       FEB. 15, 1844              
+  22  109 2 S281014       Y=8 N=32                 ALLEN, OHIO                
+  22  109 3 TO TABLE THE BILL S. 15, MAKING APPROPRIATIONS FOR                
+  22  109 4 REPAIRING AND REPAVING A PORTION OF PENNSYLVANIA AVENUE IN        
+  22  109 5 WASHINGTON, D.C.                                                  
+  23  110 1 G 13- -282B   J 28-1-122B    S15       FEB. 15, 1844              
+  23  110 2 S281015       Y=33 N=8                 MILLER, N.J.               
+  23  110 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 15.  (P. 282)        
+  24  111 1 G 13- -298    J 28-1-129     S15       FEB. 20, 1844              
+  24  111 2 S281016       Y=22 N=7                 MILLER, N.J.               
+  24  111 3 TO PASS S. 15.  (P. 298)                                          
+  25  112 1 G 13- -299A   J 28-1-130A    S46       FEB. 20, 1844              
+  25  112 2 S281017       Y=15 N=15                ALLEN, OHIO                
+  25  112 3 TO AMEND THE AMENDMENT TO BILL S. 46, MAKING COMPENSATION         
+  25  112 4 TO PENSION AGENTS, THIS AMENDMENT EXCLUDING FROM THE              
+  25  112 5 BENEFITS OF THE BILL, SUCH AGENTS WHO MAY BECOME CONNECTED        
+  25  112 6 AS OFFICERS, AGENTS, ATTORNEYS, OR DIRECTORS OF BANKS OR          
+  25  112 7 BANKING CORPORATIONS.  (P. 299)                                   
+  26  113 1 G 13- -299B   J 28-1-130B    S46       FEB. 20, 1844              
+  26  113 2 S281018       Y=14 N=16                HAYWOOD, N.C.              
+  26  113 3 TO AMEND S. 46, BY REDUCING COMPENSATIONS OF AGENTS FROM          
+  26  113 4 $1,000 TO $500.  (P. 299)                                         
+  27  114 1 G 13- -300    J 28-1-130C    S46       FEB. 20, 1844              
+  27  114 2 S281019       Y=17 N=12                BATES, MASS.               
+  27  114 3 TO ORDER ENFROSSMENT AND THIRD READING OF S. 46.  (P. 300)        
+  28  115 1 G 13- -327    J 28-1-140     S75       FEB. 27, 1844              
+  28  115 2 S281020       Y=32 N=11                MERRICK, MD.               
+  28  115 3 TO PASS THE BILL S. 75, AUTHORIZING THE TRANSFER TO THE           
+  28  115 4 STATE OF MARYLAND, ON CERTAIN CONDITIONS, THE STOCK HELD BY       
+  28  115 5 THE UNITED STATES IN THE CHESAPEAKE AND OHIO CANAL.               
+  28  115 6 (P. 327)                                                          
+  29  116 1 G 13- -350    J 28-1-148A    S56       MAR. 5, 1844               
+  29  116 2 S281021       Y=19 N=17                BAYARD, DEL.               
+  29  116 3 TO AMEND THE BILL S. 56, TO AFFORD RELIEF TO CERTAIN              
+  29  116 4 CONTRACTORS WITH THE GOVERNMENT, BY AUTHORIZING THE               
+  29  116 5 EXTENSION OF A CERTAIN CONTRACT WITH THE TREDAGAR IRON CO.        
+  29  116 6 OF RICHMOND, MADE ON JULY 20TH, 1842, FOR FURNISHING ONE          
+  29  116 7 HUNDRED 32 LB. CANNONS WITH SHOT, UPON TERMS DEEMED JUST AND      
+  29  116 8 EQUITABLE BY THE SECRETARY OF THE NAVY.  (P. 342)                 
+  30  117 1 G 13- -350    J 28-1-148B    S56       MAR. 5, 1844               
+  30  117 2 S281022       Y=23 N=13                PEARCE, MD.                
+  30  117 3 TO AMEND THE BILL S. 56, TO AFFORD RELIEF TO CERTAIN              
+  30  117 4 CONTRACTORS WITH THE GOVERNMENT, BY ELIMINATING A PROVISION       
+  30  117 5 IN THE THIRD SECTION GIVING THE SECRETARY OF THE NAVY POWER       
+  30  117 6 TO MODIFY TERMS OF CONTRACT.  (P. 342)                            
+  31  118 1 G 13- -355    J 28-1-151     S7        MAR. 6, 1844               
+  31  118 2 S281023       Y=29 N=7                 PORTER, MICH.              
+  31  118 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL S. 7,          
+  31  118 4 RELATIVE TO THE OFFICE OF SURVEYOR GENERAL OF OHIO,               
+  31  118 5 INDIANA AND MICHIGAN.  (P. 347)                                   
+  32   15 1               EX J 6-241     SRE       MAR. 8, 1844               
+  32   15 2 E281015       Y=20 N=26                MERRICK, MD.               
+  32   15 3 TO CONSENT TO THE NOMINATION OF HARVEY CHAPIN TO BE DEPUTY        
+  32   15 4 POSTMASTER AT SPRINGFIELD, MASS. (IN PLACE OF                     
+  32   15 5 SOLOMON WARRINER, REMOVED).                                       
+  33   16 1               EX J 6-242A    SRE       MAR. 8, 1844               
+  33   16 2 E281016       Y=18 N=27                MERRICK, MD.               
+  33   16 3 TO CONSENT TO THE NOMINATION OF ENOCH C. CHAPMAN, TO BE           
+  33   16 4 DEPUTY POSTMASTER AT NORWICH, CONN. (APP. DURING THE RECESS       
+  33   16 5 OF THE SENATE, IN PLACE OF S.M. DOWNER, REMOVED).                 
+  34   17 1               EX J 6-242B    SRE       MAR. 8, 1844               
+  34   17 2 E281017       Y=20 N=27                MERRICK, MD.               
+  34   17 3 TO CONSENT TO THE NOMINATION OF DANA WINSLOW TO BE DEPUTY         
+  34   17 4 POSTMASTER AT BURLINGTON, VT. (APPOINTED DURING RECESS OF         
+  34   17 5 THE SENATE, IN PLACE OF HENRY STACY, REMOVED).                    
+  35   18 1               EX J 6-243     SRE       MAR. 8, 1844               
+  35   18 2 E281018       Y=19 N=27                HUNTINGTON, CONN.          
+  35   18 3 TO CONSENT TO THE NOMINATION OF EBENEZER H. STACY TO BE           
+  35   18 4 COLLECTOR OF THE CUSTOMS FOR THE DISTRICT OF GLOUCESTER,          
+  35   18 5 MASS., IN PLACE OF LEVI LINCOLN, REMOVED.                         
+  36  119 1 G 13- -367-8  J 28-1-157     S33       MAR. 8, 1844               
+  36  119 2 S281024       Y=15 N=23                HAYWOOD, N.C.              
+  36  119 3 TO AMEND THE BILL S. 33, GRANTING A CERTIAN SECTION OF LAND       
+  36  119 4 TO AID IN THE IMPROVEMENT OF THE FOX AND WISCONSIN RIVERS         
+  36  119 5 AND TO CONNECT THE SAME BY A CANAL IN THE TERRITORY OF            
+  36  119 6 WISCONSIN, BY ELIMINATING THE PROVISION GIVING THE RIGHT TO       
+  36  119 7 THE SECRETARY OF TREASURY TO SELECT VACANT LANDS IN LIEU OF       
+  36  119 8 LANDS ALREADY SOLD TO PURCHASERS AND APPROPRIATED BY THIS         
+  36  119 9 ACT FOR THE CANAL AND RIVERS.                                     
+  37   19 1               EX J 6-245A    SRE       MAR. 14, 1844              
+  37   19 2 E281019       Y=21 N=26                MERRICK, MD.               
+  37   19 3 TO CONSENT TO THE NOMINATION OF JOHN CAIN TO BE DEPUTY            
+  37   19 4 POSTMASTER AT INDIANAPOLIS, INDIANA, APPOINTED DURING THE         
+  37   19 5 RECESS OF THE SENATE, IN PLACE OF JOSEPH M. MOORE, REMOVED.       
+  38   20 1               EX J 6-245B    SRE       MAR. 14, 1844              
+  38   20 2 E281020       Y=21 N=26                MERRICK, MD.               
+  38   20 3 TO CONSENT TO THE NOMINATION OF DANIEL C. WESTON TO BE            
+  38   20 4 DEPUTY POSTMASTER AT AUGUSTA, MAINE, APPOINTED DURING THE         
+  38   20 5 RECESS OF THE SENATE, IN PLACE OF R.F. PERKINS, REMOVED.          
+  39   21 1               EX J 6-246A    SRE       MAR. 14, 1844              
+  39   21 2 E281021       Y=20 N=26                HUNTINGTON, CONN.          
+  39   21 3 TO CONSENT TO THE NOMINATION OF ANSON G. CHANDLER, TO BE          
+  39   21 4 COLLECTOR OF THE CUSTOMS FOR THE DISTRICT OF PASSAMQUADDY,        
+  39   21 5 MAINE, IN PLACE OF J.C. NOYES, REMOVED.                           
+  40   22 1               EX J 6-246B    SRE       MAR. 14, 1844              
+  40   22 2 E281022       Y=15 N=28                HUNTINGTON, CONN.          
+  40   22 3 TO CONSENT TO THE NOMINATION OF ROBERT RANTOUL, JR. TO BE         
+  40   22 4 COLLECTOR OF THE CUSTOMS FOR THE DISTRICT OF BOSTON AND           
+  40   22 5 CHARLESTOWN, MASS. (VICE LEVI LINCOLN, REMOVED).                  
+  41  120 1 G 13- -369    J 28-1-169     S33       MAR. 15, 1844              
+  41  120 2 S281025       Y=11 N=31                HAYWOOD, N.C.              
+  41  120 3 TO AMEND S. 33, BY PROVIDING NOT TO DEDUCT THE 320,000            
+  41  120 4 ACRES APPROPRIATED TO WISCONSIN FROM THE 500,000 ACRES            
+  41  120 5 APPROPRIATED IN ANOTHER ACT, SO THAT WIS. RECEIVES A              
+  41  120 6 TOTAL LAND ALLOTMENT OF 820,000 ACRES.                            
+  42  121 1 G 13- -399    J 28-1-170A    S33       MAR. 15, 1844              
+  42  121 2 S281026       Y=16 N=27                ALLEN, OHIO                
+  42  121 3 TO AMEND S. 33, BY A PROVISION THAT THIS ACT IS NOT TO            
+  42  121 4 BECOME EFFECTIVE UNLESS WISCONSIN SIGNIFIES ITS APPROVAL OF       
+  42  121 5 SAID ACT WITHIN TWELVE MONTHS.  (P. 390)                          
+  43  122 1 G 13- -400    J 28-1-170B    HR18      MAR. 15, 1844              
+  43  122 2 S281027       Y=22 N=19                CRITTENDEN, KY.            
+  43  122 3 TO TABLE THE BILL H.R. 18, TO REPEAL CERTAIN SECTIONS OF AN       
+  43  122 4 ACT TO APPROPRIATE THE PROCEEDS OF THE SALES OF THE PUBLIC        
+  43  122 5 LANDS, AND TO GRANT PRE-EMPTION RIGHTS.  (P. 391)                 
+  44  123 1 G 13- -420    J 28-1-178     S33       MAR. 20, 1844              
+  44  123 2 S281028       Y=11 N=28                ALLEN, OHIO                
+  44  123 3 TO AMEND S. 33, BY PROPOSING TO GRANT TO THE TERRITORY OF         
+  44  123 4 WISCONSIN 320,000 ACRES OF LAND IN ADDITION TO THE ORIGINAL       
+  44  123 5 GRANT OF 500,000 ACRES PROPOSED IN THIS BILL.                     
+  45  124 1 G 13- -426    J 28-1-181     S33       MAR. 21, 1844              
+  45  124 2 S281029       Y=31 N=7                 TALLMADGE, N.Y.            
+  45  124 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 33.  (P. 416)        
+  46  125 1 G 13- -427    J 28-1-182     SRE       MAR. 21, 1844              
+  46  125 2 S281030       Y=18 N=28                SEMPLE, ILL.               
+  46  125 3 TO ADOPT A RESOLUTION DIRECTING THE PRESIDENT TO GIVE NOTICE      
+  46  125 4 TO THE BRITISH GOVERNMENT OF THE DESIRE OF THE UNITED STATES      
+  46  125 5 TO ABROGATE THE 3RD ARTICLE OF THE TREATY RELATIVE TO THE         
+  46  125 6 OCCUPATION OF THE OREGON TERRITORY.  (P. 418)                     
+  47  126 1 G 13- -428    J 28-1-183     HR60      MAR. 21, 1844              
+  47  126 2 S281031       Y=19 N=21                EVANS, ME.                 
+  47  126 3 TO AGREE TO THE AMENDMENT TO THE BILL H.R. 60,                    
+  47  126 4 (APP. 4/30/1844, 5 STAT. L. 656), MAKING APPROPRIATIONS FOR       
+  47  126 5 THE PAYMENT OF REVOLUTIONARY AND OTHER PENSIONS FOR FISCAL        
+  47  126 6 1845; SAID AMENDMENT SEEKING TO ELIMINATE PAYMENT OF              
+  47  126 7 PENSIONS TO ANY PERSON EMPLOYED OR OTHERWISE IN THE SERVICE       
+  47  126 8 OF THE UNITED STATES.  (P. 418)                                   
+  48  127 1 G 13- -431    J 28-1-185     HR60      MAR. 22, 1844              
+  48  127 2 S281032       Y=18 N=24                EVANS, ME.                 
+  48  127 3 TO CONCUR TO THE AMENDMENT TO H.R. 60, WHICH SEEKS TO             
+  48  127 4 ELIMINATE THE PROVISION GIVING A PERSON IN SERVICE OF ARMY        
+  48  127 5 OR NAVY A PENSION ONLY IF HIS DISABILITY FORCED HIS               
+  48  127 6 EMPLOYMENT IN A LOWER GRADE.  (P. 421)                            
+  49  128 1 G 13- -438    J 28-1-189     SRE       MAR. 25, 1844              
+  49  128 2 S281033       Y=18 N=21                EVANS, ME.                 
+  49  128 3 TO TABLE THE RESOLUTION PROPOSING THE APPOINTMENT OF AN           
+  49  128 4 ADDITIONAL STANDING COMMITTEE OF FIVE TO BE KNOWN AS              
+  49  128 5 STANDING COMMITTEE ON TERRITORIES.  (P. 428)                      
+  50  129 1 G 13- -484    J 28-1-209A    S51       APR. 2, 1844               
+  50  129 2 S281034       Y=7 N=31                 SIMMONS, R.I.              
+  50  129 3 TO AMEND THE BILL S. 51, A BILL TO REDUCE THE POSTAGE             
+  50  129 4 RATES, LIMIT THE FRANKING PRIVILEGE AND PREVENT FRAUDS ON         
+  50  129 5 THE REVENUES OF THE POST OFFICE DEPT., BY A PROPOSAL TO           
+  50  129 6 INCREASE FROM 100 TO 750 MILES, THE DISTANCE PERMITTED FOR        
+  50  129 7 A FIVE CENT POSTAGE RATE.  (P. 470)                               
+  51  130 1 G 13- -484    J 28-1-209B    S51       APR. 2, 1844               
+  51  130 2 S281035       Y=10 N=28                WRIGHT, N.Y.               
+  51  130 3 TO AMEND S. 51, BY AUTHORIZING THE FRANKING OF DOCUMENTS          
+  51  130 4 WHICH HAVE BEEN OR MAY BE, PRINTED BY ORDER OF EITHER HOUSE       
+  51  130 5 OF CONGRESS.  (P. 470)                                            
+  52  131 1 G 13- -488    J 28-1-212     HR30      APR. 3, 1844               
+  52  131 2 S281036       Y=27 N=11                EVANS, ME.                 
+  52  131 3 TO PASS THE BILL H.R. 30, (APP. 4/12/1844, 5 STAT. L. 655)        
+  52  131 4 TO MAKE APPROPRIATIONS FOR THE SUPPORT OF THE MILITARY            
+  52  131 5 ACADEMY FOR FISCAL 1845.  (P. 474)                                
+  53  132 1 G 13- -488    J 28-1-213     HR61      APR. 3, 1844               
+  53  132 2 S281037       Y=12 N=17                BARROW, LA.                
+  53  132 3 TO AMEND THE 1845 FORTIFICATION BILL, H.R. 61                     
+  53  132 4 (APP. 5/31/1844, 5 STAT. L. 658), BY INCREASING THE               
+  53  132 5 APPROPRIATION FROM $40,000 TO $55,000 FOR FORT LIVINGSTON         
+  53  132 6 IN LOUISIANA.                                                     
+  54  133 1 G 13- -524    J 28-1-228     S18       APR. 11, 1844              
+  54  133 2 S281038       Y=13 N=27                BREESE, ILL.               
+  54  133 3 TO AMEND THE BILL S. 18 (APP. 6/15/1844, 5 STAT. 665)             
+  54  133 4 ESTABLISHING A NAVY YARD AND DEPOT AT OR NEAR MEMPHIS, TENN.      
+  54  133 5 AND APPROPRIATING $100,000 FOR THAT PURPOSE, SAID AMENDMENT       
+  54  133 6 AUTHORIZING THE PRESIDENT TO APPOINT A NAVAL OFFICER AND AN       
+  54  133 7 ENGINEER TO SURVEY AND SELECT A SITE AND REPORT THEIR             
+  54  133 8 FINDINGS TO CONGRESS, APPROPRIATING $5,000 FOR SURVEY COST,       
+  54  133 9 AND REWORDING THE TITLE OF THE BILL.  (P. 508)                    
+  55  134 1 G 13- -530    J 28-1-230     S18       APR. 12, 1844              
+  55  134 2 S281039       Y=31 N=11                BAYARD, DEL.               
+  55  134 3 TO PASS THE BILL S. 18, (APP. 6/15/1844, 5 STAT. 665), TO         
+  55  134 4 ESTABLISH A NAVY YARD AND DEPOT AT OR ADJACENT TO                 
+  55  134 5 MEMPHIS, TENNESSEE.  (P. 511)                                     
+  56  135 1 G 13- -542    J 28-1-237     S51       APR. 16, 1844              
+  56  135 2 S281040       Y=5 N=35                 WRIGHT, N.Y.               
+  56  135 3 TO AMEND S. 51, BY A PROPOSAL TO TAKE AWAY THE PERSONAL           
+  56  135 4 FRANKING PRIVILEGE OF MEMBERS OF CONGRESS.  (P. 521)              
+  57  136 1 G 13- -547    J 28-1-240A    S51       APR. 17, 1844              
+  57  136 2 S281041       Y=11 N=23                SEMPLE, ILL.               
+  57  136 3 TO AMEND S. 51, BY A PROVISION THAT IN LIEU OF PRESENT            
+  57  136 4 PRIVILEGE TO MEMBERS OF CONGRESS TO SEND COMMUNICATIONS           
+  57  136 5 THROUGH THE MAILS FREE OF POSTAGE, THAT EACH MEMBER BE            
+  57  136 6 FURNISHED WITH FIVE FREE STAMPS OR ENVELOPES PER DAY OF           
+  57  136 7 SESSION OF CONGRESS, WITHIN CERTAIN LIMITATIONS.  (P. 526)        
+  58  137 1 G 13- -548    J 28-1-240B    S51       APR. 17, 1844              
+  58  137 2 S281042       Y=6 N=34                 BREESE, ILL.               
+  58  137 3 TO AMEND S. 51, BY A PROPOSAL TO MAKE FIVE CENTS THE              
+  58  137 4 UNIFORM RATE FOR POSTAGE FOR ALL DISTANCES.  (P. 526)             
+  59  138 1 G 13- -555    J 28-1-242     S84       APR. 18, 1844              
+  59  138 2 S281043       Y=27 N=13                ARCHER, VA.                
+  59  138 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL S. 84,         
+  59  138 4 TO PURCHASE CERTAIN COPIES OF THE HISTORY OF OREGON,              
+  59  138 5 CALIFORNIA AND OTHER TERRITORIES ON THE NORTH AND WEST            
+  59  138 6 COAST OF NORTH AMERICA.  (P. 532)                                 
+  60  139 1 G 13- -555    J 28-1-243     S51       APR. 18, 1844              
+  60  139 2 S281044       Y=14 N=21                HANNEGAN, IND.             
+  60  139 3 TO AMEND S. 51, BY SEEKING TO ESTABLISH RATES BASED ON            
+  60  139 4 DISTANCE TRANSMITTED, FOR MAILING MATTER NOT EXCEEDING            
+  60  139 5 ONE-HALF OUNCE.  (P. 532)                                         
+  61  140 1 G 13- -556    J 28-1-244     S51       APR. 18, 1844              
+  61  140 2 S281045       Y=24 N=17                EVANS, ME.                 
+  61  140 3 TO AMEND S. 51, BY MAKING THE FIVE CENT POSTAGE ZONE COVER        
+  61  140 4 FROM 30 TO 100 MILES INSTEAD OF 30 TO 180 MILES, AND THE          
+  61  140 5 TEN CENT ZONE FROM 100 TO 300 MILES, INSTEAD OF 180 TO 300        
+  61  140 6 MILES.  (P. 532)                                                  
+  62  141 1 G 13- -561    J 28-1-247A    S51       APR. 19, 1844              
+  62  141 2 S281046       Y=21 N=21                MERRICK, MD.               
+  62  141 3 TO CONSIDER S. 51.                                                
+  63  142 1 G 13- -561    J 28-1-247B    S19       APR. 19, 1844              
+  63  142 2 S281047       Y=22 N=19                MCDUFFIE, S.C.             
+  63  142 3 TO RESUME CONSIDERATION OF THE RESOLUTIONS IN RELATION TO         
+  63  142 4 THE BILL S. 19, TO REVIVE THE ACT OF MAR. 2, 1833,                
+  63  142 5 USUALLY CALLED THE COMPROMISE ACT, AND TO MODIFY THE              
+  63  142 6 EXISTING DUTIES UPON FOREIGN IMPORTS, SAID RESOLUTIONS            
+  63  142 7 PROVIDING FOR THE INDEFINITE POSTPONEMENT OF THE TARIFF           
+  63  142 8 BILL.                                                             
+  64  143 1 G 13- -581    J 28-1-253A    S51       APR. 24, 1844              
+  64  143 2 S281048       Y=17 N=26                ARCHER, VA.                
+  64  143 3 TO AMEND S. 51, BY SEEKING TO GIVE CONGRESSMEN AUTHORITY TO       
+  64  143 4 FRANK AND RECEIVE POSTAGE FREE LETTERS IN MANUSCRIPT DURING       
+  64  143 5 THE RECESS OF CONGRESS.  (P. 555)                                 
+  65  144 1 G 13- -582    J 28-1-253B    S51       APR. 24, 1844              
+  65  144 2 S281049       Y=40 N=1                 EVANS, ME.                 
+  65  144 3 TO AMEND S. 51, BY PROVIDING THAT ALL MEMBERS OF CONGRESS         
+  65  144 4 BE PLACED ON AN EQUAL BASIS ON THE MATTER OF FREE STAMPS, BY      
+  65  144 5 REMOVING ALL LIMITATIONS AS TO DISTANCES.  (P. 554)               
+  66  145 1 G 13- -583    J 28-1-253C    S51       APR. 24, 1844              
+  66  145 2 S281050       Y=29 N=14                MERRICK, MD.               
+  66  145 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 51.  (P. 556)        
+  67  146 1 G 13- -590    J 28-1-257     S51       APR. 29, 1844              
+  67  146 2 S281051       Y=23 N=14                MERRICK, MD.               
+  67  146 3 TO PASS S. 51.  (P. 562)                                          
+  68  147 1 G 13- -598    J 28-1-261     PROC      MAY 1, 1844                
+  68  147 2 S281052       Y=16 N=11                JARNAGIN, TENN.            
+  68  147 3 THAT WHEN THE SENATE ADJOURNS TODAY, IT WILL MEET AGAIN ON        
+  68  147 4 FRIDAY NEXT.                                                      
+  69  148 1 G 13- -605    J 28-1-264     S35       MAY 6, 1844                
+  69  148 2 S281053       Y=23 N=12                HANNEGAN, IND.             
+  69  148 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL S. 35,         
+  69  148 4 MAKING APPROPRIATIONS FOR THE CONTINUATION OF THE                 
+  69  148 5 CUMBERLAND ROAD THROUGH THE STATES OF OHIO, INDIANA AND           
+  69  148 6 ILLINOIS.  (P. 576)                                               
+  70  149 1 G 13- -606    J 28-1-265A    S101      MAY 6, 1844                
+  70  149 2 S281054       Y=13 N=23                ALLEN, OHIO                
+  70  149 3 TO AMEND THE BILL S. 101, SUPPLEMENTAL TO THE ACT TO              
+  70  149 4 REGULATE THE PAY OF THE NAVY, BY ELIMINATING THE 2ND SECTION      
+  70  149 5 PROVIDING THAT WHERE ANY VESSEL OF THE UNITED STATES IS           
+  70  149 6 LOST BY SHIPWRECK OR OTHERWISE, COMPENSATION SHALL BE GIVEN       
+  70  149 7 TO THE OFFICERS AND CREWS OF SAID SHIPS FOR LOSSES                
+  70  149 8 SUSTAINED AND ESTABLISHED BY THEM, ALSO DETAILING AMOUNTS         
+  70  149 9 PROPOSED TO BE GIVEN TO EACH INDIVIDUAL ACCORDING TO HIS          
+  70  14910 GRADE.                                                            
+  71  150 1 G 13- -606    J 28-1-265B    S101      MAY 6, 1844                
+  71  150 2 S281055       Y=21 N=12                TAPPAN, OHIO               
+  71  150 3 TO AMEND S. 101 BY EXCLUDING FROM SUCH PROPOSED                   
+  71  150 4 COMPENSATION, ALL CASES IN WHICH A VESSEL IS SUFFERED BY ITS      
+  71  150 5 CREW TO BE CAPTURED BY AN ENEMY.  (P. 576)                        
+  72  151 1 G 13- -610    J 28-1-267A    S35       MAY 7, 1844                
+  72  151 2 S281056       Y=20 N=11                HANNEGAN, IND.             
+  72  151 3 TO PASS THE BILL S. 35, MAKING APPROPRIATIONS FOR THE             
+  72  151 4 CONTINUATION OF THE CUMBERLAND ROAD THROUGH THE STATES OF         
+  72  151 5 OHIO, INDIANA AND ILLINOIS.  (P. 580)                             
+  73  152 1 G 13- -610    J 28-1-267B    S101      MAY 7, 1844                
+  73  152 2 S281057       Y=23 N=13                BAYARD, DEL.               
+  73  152 3 TO PASS S. 101.  (P. 580)                                         
+  74  153 1 G 13- -611    J 28-1-268     S90       MAY 7, 1844                
+  74  153 2 S281058       Y=20 N=9                 WOODBRIDGE, MICH.          
+  74  153 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL S. 90,         
+  74  153 4 GRANTING A RIGHT OF WAY THROUGH THE STATE OF ILLINOIS TO THE      
+  74  153 5 GREAT WESTERN RAILROAD FOR RAILROAD CONSTRUCTION.                 
+  75  154 1 G 13- -616    J 28-1-269     S86       MAY 8, 1844                
+  75  154 2 S281059       Y=17 N=26                TAPPAN, OHIO               
+  75  154 3 TO AMEND AMENDMENT TO THE BILL S. 86,                             
+  75  154 4 (APP. 6/17/1844, 5 STAT. L. 677), EXTENDING THE CHARTERS OF       
+  75  154 5 THE BANKS IN THE DISTRICT OF COLUMBIA, BY MAKING "ALL             
+  75  154 6 STOCKHOLDERS LIABLE, INDIVIDUALLY AS WELL AS COLLECTIVELY,        
+  75  154 7 IN CASE OF BANK FAILURE.  (P. 585)                                
+  76  155 1 G 13- -616    J 28-1-271     S86       MAY 8, 1844                
+  76  155 2 S281060       Y=21 N=19                SEVIER, ARK.               
+  76  155 3 TO AMEND S. 86, BY PROVIDING THAT IN CASE OF BANK FAILURE,        
+  76  155 4 THE DIRECTORS OR THE STOCKHOLDERS, COPARTNERSHIP OR BODY          
+  76  155 5 POLITE, MAY BE HELD LIABLE FOR NOT EXCEEDING TWICE THE            
+  76  155 6 AMOUNT OF THEIR SHARES IN SAID BANK AND, IN CASE OF REFUSAL       
+  76  155 7 OF SAID HOLDERS OF STOCK TO ACCEPT THIS PROVISION, THE            
+  76  155 8 AFFAIRS OF THE BANK ARE TO BE WOUND UP AND FURTHER, THAT          
+  76  155 9 EACH BANK SHALL KEEP AN ACCURATE LIST OF THE NAMES OF             
+  76  15510 STOCKHOLDERS AND AMOUNTS OF STOCK OWNED BY THEM, TO BE            
+  76  15511 POSTED FOR PUBLIC INSPECTION AND PUBLISHED IN NEWSPAPERS          
+  76  15512 EVERY THREE MONTHS.  (P. 586)                                     
+  77   23 1               EX J 6-272A    SRE       MAY 10, 1844               
+  77   23 2 E281023       Y=33 N=12                SIMMONS, R.I.              
+  77   23 3 TO AMEND THE RESOLUTION REPRIMANDING BENJAMIN TAPPAN FOR          
+  77   23 4 VIOLATING SENATE RULE 36, SO AS TO ALSO REPRIMAND HIM FOR         
+  77   23 5 FURNISHING FOR PUBLICATION DOCUMENTS DIRECTED BY THE SENATE       
+  77   23 6 TO BE PRINTED IN CONFIDENCE.                                      
+  78   24 1               EX J 6-272B    SRE       MAY 10, 1844               
+  78   24 2 E281024       Y=38 N=7                 BAYARD, DEL.               
+  78   24 3 TO AGREE TO THE AMENDED AMENDMENT, REPRIMANDING                   
+  78   24 4 BENJAMIN TAPPAN FOR VIOLATING SENATE RULE 36, FOR FURNISHING      
+  78   24 5 FOR PUBLICATION, DOCUMENTS DIRECTED BY THE SENATE TO BE           
+  78   24 6 PRINTED IN CONFIDENCE.                                            
+  79   25 1               EX J 6-272C    SRE       MAY 10, 1844               
+  79   25 2 E281025       Y=35 N=7                 ARCHER, VA.                
+  79   25 3 TO PASS THE RESOLUTION AS AMENDED, REPRIMANDING                   
+  79   25 4 BENJAMIN TAPPAN FOR VIOLATING RULE 36, FURNISHING FOR             
+  79   25 5 PUBLICATION, DOCUMENTS DIRECTED BY THE SENATE TO BE PRINTED       
+  79   25 6 IN CONFIDENCE.                                                    
+  80   26 1               EX J 6-273A    SRE       MAY 10, 1844               
+  80   26 2 E281026       Y=39 N=3                 ARCHER, VA.                
+  80   26 3 TO ADOPT THE RESOLUTION THAT, IN CONSIDERATION OF THE             
+  80   26 4 ACKNOWLEDGEMENT AND APOLOGY TENDERED BY BENJAMIN TAPPAN FOR       
+  80   26 5 HIS OFFENCE, NO FURTHER CENSURE BE INFLICTED UPON HIM.            
+  81   27 1               EX J 6-273B    SRE       MAY 10, 1844               
+  81   27 2 E281027       Y=21 N=17                ARCHER, VA.                
+  81   27 3 TO PASS THE RESOLUTION AMENDING THE RULES SO THAT ANY             
+  81   27 4 OFFICER OR MEMBER OF THE SENATE CONVICTED OF DISCLOSING FOR       
+  81   27 5 PUBLICATION ANY WRITTEN OR PRINTED MATTER DIRECTED TO BE          
+  81   27 6 HELD IN CONFIDENCE, SHALL BE LIABLE TO DISMISSAL, OR              
+  81   27 7 EXPULSION.                                                        
+  82  156 1 G 13- -620    J 28-1-274     S73       MAY 10, 1844               
+  82  156 2 S281066       Y=33 N=4                 DAYTON, N.J.               
+  82  156 3 TO PASS THE BILL S. 73, N.P., FOR PAYMENT FOR SERVICES TO         
+  82  156 4 THE MILITIA OF VERMONT AT THE BATTLE OF PLATTSBURG.               
+  82  156 5 (P. 589)                                                          
+  83  157 1 G 13- -620    J 28-1-275     PROC      MAY 10, 1844               
+  83  157 2 S281067       Y=29 N=14                BENTON, MO.                
+  83  157 3 TO PROCEED WITH EXECUTIVE BUSINESS.  (P. 589)                     
+  84   28 1               EX J 6-277     SRE       MAY 13, 1844               
+  84   28 2 E281028       Y=18 N=23                SEVIER, ARK.               
+  84   28 3 TO AMEND THE RESOLUTION TO REMOVE THE INJUNCTION OF SECRECY       
+  84   28 4 FROM THE TREATY WITH TEXAS AND THE MESSAGES AND DOCUMENTS         
+  84   28 5 BE PRINTED IN CONFIDENCE FOR USE IN THE SENATE, THE               
+  84   28 6 TREATIES AND DOCUMENTS HAVING BEEN SURREPUITIONSLY MADE           
+  84   28 7 PUBLIC.                                                           
+  85  158 1 G 13- -624    J 28-1-276     S86       MAY 13, 1844               
+  85  158 2 S281068       Y=22 N=15                MILLER, N.J.               
+  85  158 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 86 (JOURNAL          
+  85  158 4 DESCRIPTION) TO CONCUR IN THE AMENDED AMENDMENT TO S. 86          
+  85  158 5 WHICH PROVIDES FOR THE APPOINTMENT OF THREE TRUSTEES OR           
+  85  158 6 RECEIVERS BY THE CIRCUIT COURT FOR THE DISTRICT OF                
+  85  158 7 COLUMBIA UPON THE APPLICATION OF BANKS FOR RECEIVERSHIP.          
+  85  158 8 (GLOBE DISCRIPTION).  (P. 593)                                    
+  86  159 1 G 13- -625    J 28-1-277A    HR36      MAY 13, 1844               
+  86  159 2 S281069       Y=12 N=22                HENDERSON, MISS.           
+  86  159 3 TO AMEND THE BILL H.R. 36, (APP. 6/15/1844, 5 STAT. L. 677)       
+  86  159 4 GRANTING RELIEF TO THE WIDOWS AND ORPHANS OF OFFICERS,            
+  86  159 5 SEAMEN AND MARINES OF CERTAIN SHIPS, BY DENYING RELIEF TO         
+  86  159 6 CHILDREN WHEN THERE IS NO LIVING WIDOW.  (P. 593)                 
+  87  160 1 G 13- -       J 28-1-277B    S86       MAY 13, 1844               
+  87  160 2 S281070       Y=22 N=14                MILLER, N.J.               
+  87  160 3 TO PASS S. 86, (APP. 6/17/1844, 5 STAT. L. 677).  (P. 593)        
+  88   29 1               EX J 6-278A    SRE       MAY 14, 1844               
+  88   29 2 E281029       Y=20 N=27                RIVES, VA.                 
+  88   29 3 TO POSTPONE, FOR ONE WEEK, CONSIDERATION OF THE TREATY OF         
+  88   29 4 ANNEXATION OF TEXAS.                                              
+  89   30 1               EX J 6-278B    SRE       MAY 14, 1844               
+  89   30 2 E281030       Y=18 N=29                BUCHANAN, PA.              
+  89   30 3 TO AMEND THE RESOLUTION POSTPONING THE CONSIDERATION OF THE       
+  89   30 4 TEXAS TREATY TO 1ST DAY OF JUNE NEXT.                             
+  90   31 1               EX J 6-278C    SRE       MAY 14, 1844               
+  90   31 2 E281031       Y=20 N=24                MCDUFFIE, S.C.             
+  90   31 3 TO AMEND THE RESOLUTION MAKING THE TREATY OF ANNEXATION OF        
+  90   31 4 TEXAS THE SPECIAL ORDER, IN THE EXECUTIVE SESSION FOR,            
+  90   31 5 THURSDAY NEXT AT TWO O'CLOCK INSTEAD OF ONE O'CLOCK P.M. AND      
+  90   31 6 EVERY SUCCEEDING DAY AT THE SAME HOUR, UNTIL DISPOSED OF.         
+  91  161 1 G 13- -629    J 28-1-279     S94       MAY 14, 1844               
+  91  161 2 S281072       Y=25 N=16                WOODBRIDGE, MICH.          
+  91  161 3 TO PASS THE BILL S. 94 (APP. 6/12/1844, 5 STAT. L. 662),          
+  91  161 4 AMENDING AN ACT ENTITLED, AN ACT TO REORGANIZE THE GENERAL        
+  91  161 5 LAND OFFICE (JOURNAL DESCRIPTION). TO ORDER ENGROSSMENT AND       
+  91  161 6 THIRD READING OF THE BILL S. 94 (APP. 6/12/1844, 5 STAT. L.       
+  91  161 7 662) AMENDING AN ACT ENTITLED AN ACT TO REORGANIZE THE            
+  91  161 8 GENERAL LAND OFFICE. (GLOBE DESCRIPTION).                         
+  92   32 1               EX J 6-281A    SRE       MAY 15, 1844               
+  92   32 2 E281032       Y=11 N=29                SEVIER, ARK.               
+  92   32 3 TO AMEND AMENDMENT TO RESOLUTION RELATING TO THE                  
+  92   32 4 ANNEXATION OF TEXAS, BY ELIMINATING THE WORDS "THAT THE WILL      
+  92   32 5 OF THE PEOPLE OUGHT TO BE CONSULTED".                             
+  93   33 1               EX J 6-281B    PROC      MAY 15, 1844               
+  93   33 2 E281033       Y=19 N=24                MCDUFFIE, S.C.             
+  93   33 3 TO ADJOURN, IN ORDER TO PREVENT FURTHER ACTION ON THE             
+  93   33 4 RESOLUTION RELATING TO THE ANNEXATION OF TEXAS.                   
+  94   34 1               EX J 6-281C    SRE       MAY 15, 1844               
+  94   34 2 E281034       Y=21 N=22                MCDUFFIE, S.C.             
+  94   34 3 TO AMEND AMENDMENT TO RESOLUTION RELATING TO THE                  
+  94   34 4 ANNEXATION OF TEXAS, BY REMOVING THE INJUNCTION OF SECRECY        
+  94   34 5 EXCEPT ALL MESSAGES AND DOCUMENTS RECEIVED THIS DAY.              
+  95   35 1               EX J 6-282A    SRE       MAY 15, 1844               
+  95   35 2 E281035       Y=15 N=28                WALKER, MISS.              
+  95   35 3 TO AMEND AN AMENDMENT BY PROVIDING THAT A REASONABLE TIME         
+  95   35 4 SHOULD BE GIVEN TO HEAR FROM THE PEOPLE, AFTER THIS               
+  95   35 5 PUBLICATION, BEFORE THE FINAL DECISION OF THE SENATE UPON         
+  95   35 6 THE TEXAS TREATY.                                                 
+  96   36 1               EX J 6-282B    SRE       MAY 15, 1844               
+  96   36 2 E281036       Y=27 N=14                CRITTENDEN, KY.            
+  96   36 3 TO AMEND THE RESOLUTION, BY REMOVING THE INJUNCTION OF            
+  96   36 4 SECRECY ON ALL MESSAGES AND DOCUMENTS FOR PUBLICATION             
+  96   36 5 RELATIVE TO ANNEXATION OF TEXAS.                                  
+  97   37 1               EX J 6-282C    SRE       MAY 15, 1844               
+  97   37 2 E281037       Y=26 N=17                CRITTENDEN, KY.            
+  97   37 3 TO AGREE TO THE RESOLUTION AS AMENDED, REMOVING THE               
+  97   37 4 INJUNCTION OF SECRECY ON ALL MESSAGES AND DOCUMENTS FOR           
+  97   37 5 PUBLICATION RELATIVE TO THE TEXAS TREATY.                         
+  98  162 1 G 13- -632    J 28-1-281     S66       MAY 15, 1844               
+  98  162 2 S281076       Y=21 N=14                BERRIEN, GA.               
+  98  162 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL S. 66,         
+  98  162 4 RELATING TO CLAIM OF HENRY GARDNER AND OTHERS, DIRECTORS OF       
+  98  162 5 NEW ENGLAND LAND COMPANY ASSOCIATION.  (P. 599)                   
+  99   38 1               EX J 6-283     SRE       MAY 16, 1844               
+  99   38 2 E281038       Y=18 N=26                HAYWOOD, N.C.              
+  99   38 3 TO RECONSIDER THE VOTE AGREEING TO RESOLUTION REMOVING            
+  99   38 4 INJUNCTION OF SECRECY ON ALL DOCUMENTS AND MESSAGES FOR           
+  99   38 5 PUBLICATION FROM THE TREATY OF ANNEXATION OF TEXAS.               
+ 100   39 1               EX J 6-284A    SRE       MAY 16, 1844               
+ 100   39 2 E281039       Y=15 N=26                WALKER, MISS.              
+ 100   39 3 TO AMEND THE RESOLUTION TO TEXAS TREATY, BY INCLUDING IN THE      
+ 100   39 4 PRINTING OF 20,000 COPIES OF DOCUMENTS AND TREATY, A LETTER       
+ 100   39 5 OF MR. WEBSTER, AS SECRETARY OF STATE, TO MR. THOMPSON, OUR       
+ 100   39 6 MINISTER AT MEXICO, DATED JULY 8, 1842.                           
+ 101   40 1               EX J 6-284B    SRE       MAY 16, 1844               
+ 101   40 2 E281040       Y=17 N=26                MCDUFFIE, S.C.             
+ 101   40 3 TO AMEND THE RESOLUTION RELATIVE TO TEXAS TREATY, BY              
+ 101   40 4 INCLUDING IN THE PRINTING OF 20,000 COPIES OF DOCUMENTS           
+ 101   40 5 AND TREATY, ALL CORRESPONDENCE OF MR. CLAY AND VAN BUREN          
+ 101   40 6 WITH OUR MINISTERS AT MEXICO RELATIVE TO ANNEXATION OF            
+ 101   40 7 TEXAS TO THE UNITED STATES.                                       
+ 102   41 1               EX J 6-285     SRE       MAY 16, 1844               
+ 102   41 2 E281041       Y=12 N=30                BENTON, MO.                
+ 102   41 3 TO CONSIDER THE RESOLUTION RELATING TO ANNEXATION OF TEXAS,       
+ 102   41 4 THAT FURTHER PROCEEDINGS ON THE TEXAS TREATY BE HAD WITH          
+ 102   41 5 OPEN DOORS.                                                       
+ 103  164 1 G 13- -636    J 28-1-284     S66       MAY 16, 1844               
+ 103  164 2 S281078       Y=18 N=11                BERRIEN, GA.               
+ 103  164 3 TO PASS THE BILL S. 66, N.P. RELATING TO CLAIM OF                 
+ 103  164 4 HENRY GARDNER AND OTHERS, DIRECTORS OF NEW ENGLAND LAND           
+ 103  164 5 COMPANY ASSOCIATION.  (P. 603)                                    
+ 104   42 1               EX J 6-287A    SRE       MAY 17, 1844               
+ 104   42 2 E281042       Y=17 N=27                SEVIER, ARK.               
+ 104   42 3 TO AGREE TO HAVE PRINTED IN CONFIDENCE PRESIDENT                  
+ 104   42 4 JOHN TYLER'S MESSAGE RECOMMENDING IMMEDIATE ANNEXATION OF         
+ 104   42 5 TEXAS, WITH PAPERS AND LETTERS SUPPORTING HIS STAND LEST          
+ 104   42 6 TEXAS BE LOST FOREVER TO ENGLAND, FOR USE OF THE SENATE           
+ 104   42 7 ONLY.                                                             
+ 105   43 1               EX J 6-287B    SRE       MAY 17, 1844               
+ 105   43 2 E281043       Y=24 N=22                BERRIEN, GA.               
+ 105   43 3 TO REFER THE REPORT FROM THE SECRETARY OF STATE, WITH             
+ 105   43 4 SUNDRY PAPERS, IN ANSWER TO RESOLUTION OF THE SENATE OF           
+ 105   43 5 MAY 13, RELATING TO A SUPPOSED ARMISTICE BETWEEN THE              
+ 105   43 6 REPUBLIC OF MEXICO AND TEXAS, FOR USE OF THE SENATE.              
+ 106  165 1 G 13- -641    J 28-1-287     PROC      MAY 17, 1844               
+ 106  165 2 S281090       Y=21 N=20                MOREHEAD, KY.              
+ 106  165 3 TO TABLE THE RESOLUTION TO ADJOURN CONGRESS, SINE DIE.            
+ 106  165 4 (P. 607)                                                          
+ 107   44 1               EX J 6-289     PROC      MAY 18, 1844               
+ 107   44 2 E281044       Y=16 N=22                BERRIEN, GA.               
+ 107   44 3 TO ADJOURN, MATION MADE DURING CONSIDERATION OF A RESOLUTION      
+ 107   44 4 PROVIDING THAT THE INJUNCTION OF SECRECY BE REMOVED ON ALL        
+ 107   44 5 MESSAGES AND DOCUMENTS FOR PUBLICATION RELATIVE TO THE            
+ 107   44 6 TEXAS TREATY.                                                     
+ 108  163 1 G 13- -633    J 28-1-282     S26       MAY 18, 1844               
+ 108  163 2 S281077       Y=19 N=10                BREESE, ILL.               
+ 108  163 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL S. 26,         
+ 108  163 4 N.P. WHICH AUTHORIZES PERSONS TO WHOM RESERVATIONS OF LAND        
+ 108  163 5 HAVE BEEN OR SHALL BE MADE UNDER INDIAN TREATIES TO               
+ 108  163 6 ALIENATE THE SAME IN FEE.                                         
+ 109   45 1               EX J 6-290     SRE       MAY 20, 1844               
+ 109   45 2 E281045       Y=29 N=12                WALKER, MISS.              
+ 109   45 3 TO AMEND RESOLUTION TO TEXAS TREATY, BY REMOVING THE              
+ 109   45 4 INJUNCTION OF SECRECY ON THE TEXAS TREATY, AND ALL OTHER          
+ 109   45 5 SPEECHES ON THE SAME SUBJECT AS SOON AS DELIVERED.                
+ 110  166 1 G 13- -652    J 28-1-295     HR256     MAY 22, 1844               
+ 110  166 2 S281091       Y=26 N=19                BARROW, LA.                
+ 110  166 3 TO POSTPONE INDEFINITELY, CONSIDERATION OF THE BILL H.R.          
+ 110  166 4 256, TO REGULATE THE PAY OF THE ARMY.  (P. 615)                   
+ 111   46 1               EX J 6-292     SRE       MAY 23, 1844               
+ 111   46 2 E281046       Y=20 N=8                 WHITE, IND.                
+ 111   46 3 TO CONSENT TO THE NOMINATION OF GEORGE C. WASHINGTON AND          
+ 111   46 4 JOHN T. MASON TO BE CHEROKEE COMMISSIONERS REPLACING              
+ 111   46 5 RESPECTIVELY, JOHN H. EATON AND EDWARD B. HUBLEY, BOTH            
+ 111   46 6 REMOVED.                                                          
+ 112   47 1               EX J 6-293     SRE       MAY 24, 1844               
+ 112   47 2 E281047       Y=19 N=17                SEVIER, ARK.               
+ 112   47 3 TO ADOPT THE RESOLUTION AS AMENDED, THAT 1,000 COPIES OF THE      
+ 112   47 4 MAP OF TEXAS, LATELY SENT BY THE EXECUTIVE, TO THE SENATE,        
+ 112   47 5 BE PUBLISHED FOR THE USE OF THE SENATE; THE AMENDED               
+ 112   47 6 RESOLUTION TO PROVIDE FOR LITHOGRAPHING, RATHER THAN              
+ 112   47 7 PRINTING THESE MAPS, AND THAT THEY BE HALF THE SIZE OF THAT       
+ 112   47 8 SENT, PROVIDED THE COST DOES NOT EXCEED $200.                     
+ 113  167 1 G 13- -659    J 28-1-300     HR256     MAY 24, 1844               
+ 113  167 2 S281092       Y=16 N=21                HANNEGAN, IND.             
+ 113  167 3 TO REQUEST THE HOUSE TO RETURN TO THE SENATE FOR FURTHER          
+ 113  167 4 CONSIDERATION, THE BILL H.R. 256, REGULATING THE PAY OF THE       
+ 113  167 5 ARMY.  (P. 623)                                                   
+ 114  168 1 G 13- -663    J 28-1-303     PROC      MAY 25, 1844               
+ 114  168 2 S281093       Y=24 N=21                SEVIER, ARK.               
+ 114  168 3 TO POSTPONE FURTHER CONSIDERATION OF THE RESOLUTION               
+ 114  168 4 PROVIDING FOR THE ADJOURNMENT OF CONGRESS UNTIL FRIDAY NEXT.      
+ 114  168 5 (P. 623)                                                          
+ 115  169 1 G 13- -669    J 28-1-307A    S109      MAY 28, 1844               
+ 115  169 2 S281094       Y=19 N=16                CHOATE, MASS.              
+ 115  169 3 TO AMEND THE BILL S. 109, N.P. GRANTING PENSIONS TO WIDOWS        
+ 115  169 4 AND ORPHANS OF NAVAL OFFICERS, SEAMEN AND MARINES, BY A           
+ 115  169 5 PROPOSAL THAT SUCH PENSIONS SHALL INCLUDE WIDOWS AND              
+ 115  169 6 ORPHANS OF SAID NAVAL OFFICERS, SEAMEN AND MARINES WHO            
+ 115  169 7 SHALL HAVE DIED BY REASON OF DISEASE.  (P. 628)                   
+ 116  170 1 G 13- -669    J 28-1-307B    S109      MAY 28, 1844               
+ 116  170 2 S281095       Y=20 N=16                BAYARD, DEL.               
+ 116  170 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL S. 109,        
+ 116  170 4 AS AMENDED, GRANTING PENSIONS TO THE WIDOWS OF OFFICERS,          
+ 116  170 5 SEAMEN OR MARINES WHO HAVE BEEN KILLED, OR DIED BY REASON         
+ 116  170 6 OF WOUNDS RECEIVED IN THE LINE OF THEIR DUTY, OR WHO HAVE         
+ 116  170 7 DIED BY REASON OF DISEASE CONTRACTED, OR BY DROWNING, OR          
+ 116  170 8 OTHERWISE.  (P. 628)                                              
+ 117  171 1 G 13- -665    J 28-1-308A    S143      MAY 28, 1844               
+ 117  171 2 S281096       Y=21 N=16                WOODBURY, N.H.             
+ 117  171 3 TO AMEND THE BILL S. 143, RELIEVING THE HEIRS OF                  
+ 117  171 4 ROBERT FULTON AND APPROPRIATING $76,300 AS A BALANCE DUE HIS      
+ 117  171 5 REPRESENTATIVES, AFTER DEDUCTING $45,000 ADVANCED TO HIM AS       
+ 117  171 6 BEING PAYMENT IN FULL OF HIS CLAIM, ON ACCOUNT OF HIS             
+ 117  171 7 STEAMER, VESUVIUS AND THE USE OF HIS SERVICES IN                  
+ 117  171 8 CONSTRUCTION OF THE FRIGATE FULTON, BY ADDING A STIPULATION       
+ 117  171 9 THAT SAID PAYMENT IS ALSO FOR THE GREAT BENEFITS CONFERRED        
+ 117  17110 ON THE COUNTRY BY MR. FULTON'S APPLICATION OF STEAM TO            
+ 117  17111 PURPOSES OF NAVIGATION.                                           
+ 118  172 1 G 13- -669B   J 28-1-308B    S143      MAY 28, 1844               
+ 118  172 2 S281097       Y=23 N=11                PEARCE, MD.                
+ 118  172 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL S. 143,        
+ 118  172 4 RELEIVING THE HEIRS OF ROBERT FULTON BY APPROPRIATING             
+ 118  172 5 $76,300 AS THE BALANCE DUE HIS REPRESENTATIVES AFTER              
+ 118  172 6 DEDUCTING $45,000 ADVANCED TO HIM, IN FULL PAYMENT OF CLAIM       
+ 118  172 7 FOR HIS STEAMER, VESUVIUS.                                        
+ 119  173 1 G 13- -669C   J 28-1-308C    S103      MAY 28, 1844               
+ 119  173 2 S281098       Y=16 N=12                PORTER, MICH.              
+ 119  173 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL S. 103,        
+ 119  173 4 AUTHORIZING THE OPENING OF A CANAL AROUND ST. MARY'S              
+ 119  173 5 FALLS AT THE OUTLET OF LAKE SUPERIOR.                             
+ 120  174 1 G 13- -671A   J 28-1-311A    S103      MAY 29, 1844               
+ 120  174 2 S281099       Y=10 N=22                HAYWOOD, N.C.              
+ 120  174 3 TO RECOMMIT WITH INSTRUCTIONS S. 103 IN ORDER TO CONSIDER         
+ 120  174 4 LIMITING ALL CONTRACTS AND EXPENDITURES TO THE SUMS               
+ 120  174 5 APPROPRIATED.                                                     
+ 121  175 1 G 13- -671B   J 28-1-311B    S103      MAY 29, 1844               
+ 121  175 2 S281100       Y=22 N=14                PORTER, MICH.              
+ 121  175 3 TO PASS S. 103.  (P. 630)                                         
+ 122   48 1               EX J 6-295A    SRE       MAY 30, 1844               
+ 122   48 2 E281048       Y=11 N=23                HUNTINGTON, CONN.          
+ 122   48 3 TO CONSENT TO THE NOMINATION OF RODNEY FRENCH, TO BE              
+ 122   48 4 COLLECTOR OF CUSTOMS FOR THE DISTRICT AND INSPECTOR OF            
+ 122   48 5 REVENUE FOR THE PORT OF NEW BEDFORD, MASS., (VICE                 
+ 122   48 6 WILLIAM H. ALLEN, REMOVED).                                       
+ 123   49 1               EX J 6-295B    SRE       MAY 30, 1844               
+ 123   49 2 E281049       Y=12 N=23                HUNTINGTON, CONN.          
+ 123   49 3 TO CONSENT TO THE NOMINATION OF EDWIN WILBUR, TO BE THE           
+ 123   49 4 COLLECTOR OF CUSTOMS FOR THE DISTRICT OF NEWPORT, R.I.            
+ 123   49 5 (VICE WILLIAM LITTLEFIELD, REMOVED).                              
+ 124   50 1               EX J 6-296A    SRE       MAY 30, 1844               
+ 124   50 2 E281050       Y=12 N=23                HUNTINGTON, CONN.          
+ 124   50 3 TO CONSENT TO THE NOMINATION OF CHARLES F. LESTER TO BE           
+ 124   50 4 COLLECTOR OF CUSTOMS FOR THE DISTRICT OF NEW LONDON, CONN.        
+ 124   50 5 (VICE ALCOTT HUNTINGTON, REMOVED).                                
+ 125   51 1               EX J 6-296B    SRE       MAY 30, 1844               
+ 125   51 2 E281051       Y=12 N=23                HUNTINGTON, CONN.          
+ 125   51 3 TO CONSENT TO THE NOMINATION OF DAVID WHITE TO BE SURVEYOR        
+ 125   51 4 AND INSPECTOR OF REVENUE FOR THE PORT OF GLOUCESTER, MASS.        
+ 125   51 5 (VICE LONSON NASH, REMOVED).                                      
+ 126   52 1               EX J 6-297A    SRE       MAY 30, 1844               
+ 126   52 2 E281052       Y=12 N=23                HUNTINGTON, CONN.          
+ 126   52 3 TO CONSENT TO THE NOMINATION OF JOSEPH C. BURKE, TO BE            
+ 126   52 4 SURVEYOR AND INSPECTOR OF REVENUE FOR THE PORT OF HARTFORD,       
+ 126   52 5 CONN., (VICE PERRY SMITH, REMOVED).                               
+ 127   53 1               EX J 6-297B    SRE       MAY 30, 1844               
+ 127   53 2 E281053       Y=12 N=23                HUNTINGTON, CONN.          
+ 127   53 3 TO CONSENT TO THE NOMINATION OF EDWARD PALPAY TO BE SURVEYOR      
+ 127   53 4 FOR THE DISTRICT OF SALEM AND BEVERLY, AND INSPECTOR OF           
+ 127   53 5 REVENUE FOR THE PORT OF SALEM, MASS.                              
+ 128   54 1               EX J 6-297C    SRE       MAY 30, 1844               
+ 128   54 2 E281054       Y=12 N=23                MERRICK, MD.               
+ 128   54 3 TO CONSENT TO THE NOMINATION OF JACOB K. MEAD, TO BE DEPUTY       
+ 128   54 4 POSTMASTER AT NEWARK, N.J. (APPOINTED DURING RECESS OF THE        
+ 128   54 5 SENATE, IN PLACE OF WILLIAM STEVENS, REMOVED).                    
+ 129   55 1               EX J 6-298A    SRE       MAY 30, 1844               
+ 129   55 2 E281055       Y=12 N=23                HUNTINGTON, CONN.          
+ 129   55 3 TO CONSENT TO THE NOMINATION OF FRANCES W. BRINLEY, TO BE         
+ 129   55 4 COLLECTOR OF CUSTOMS FOR THE DISTRICT AND INSPECTOR OF            
+ 129   55 5 REVENUE FOR THE PORT OF PERTH AMBOY, N.J. (APPOINTED DURING       
+ 129   55 6 RECESS OF THE SENATE, VICE CHARLES N. SMITH, REMOVED).            
+ 130   56 1               EX J 6-298B    SRE       MAY 30, 1844               
+ 130   56 2 E281056       Y=17 N=23                HUNTINGTON, CONN.          
+ 130   56 3 TO CONSENT TO THE NOMINATION OF JOSHUA VANSANT, TO BE NAVAL       
+ 130   56 4 OFFICER FOR THE DISTRICT OF BALTIMORE, MD., REPLACING             
+ 130   56 5 DABNEY S. CARR, RESIGNED.                                         
+ 131   57 1               EX J 6-299     SRE       MAY 30, 1844               
+ 131   57 2 E281057       Y=26 N=2                 ARCHER, VA.                
+ 131   57 3 TO CONSENT TO THE NOMINATION OF ARTHUR UPSHUR OF VIRGINIA,        
+ 131   57 4 TO BE SECRETARY OF STATE (IN PLACE OF DANIEL WEBSTER,             
+ 131   57 5 RESIGNED).                                                        
+ 132  176 1 G 13- -673    J 28-1-314     SRE       MAY 31, 1844               
+ 132  176 2 S281101       Y=21 N=15                WOODBRIDGE, MICH.          
+ 132  176 3 TO ADOPT THE RESOLUTION S.R. 14, CONCERNING THE COPPER ROCK       
+ 132  176 4 OF LAKE SUPERIOR, PROPOSING TO GIVE THE UNITED STATES             
+ 132  176 5 POSSESSION OF THE PRIVATE PROPERTY SIEZED BY THE SECRETARY        
+ 132  176 6 OF WAR AS A GREAT NATURAL CURIOSITY FOR PUBLIC COLLECTION.        
+ 132  176 7 (P. 632)                                                          
+ 133  177 1 G 13- -674A   J 28-1-315A    SRE       MAY 31, 1844               
+ 133  177 2 S281102       Y=18 N=25                ALLEN, OHIO                
+ 133  177 3 TO AMEND THE RESOLUTION THAT THE BILL REVIVING THE ACT OF         
+ 133  177 4 MAR. 2, 1833, USUALLY CALLED THE COMPROMISE ACT, IS A BILL        
+ 133  177 5 FOR RAISING REVENUE AND CANNOT THEREFORE ORIGINATE IN THE         
+ 133  177 6 SENATE, BY INSERTING A CLAUSE TO THE EFFECT THAT THE DUTIES       
+ 133  177 7 IMPOSED BY EXISTING LAWS ARE UNJUST AND OPPRESSIVE AND            
+ 133  177 8 OUGHT TO BE REDUCED. (THE GLOBE DESCRIBES THE MOTION AS           
+ 133  177 9 STRIKING OUT THE ENTIRE ORIGINAL RESOLUTION AND INSERTING         
+ 133  17710 THE CLAUSE AS ABOVE).                                             
+ 134  178 1 G 13- -674B   J 28-1-315B    SRE       MAY 31, 1844               
+ 134  178 2 S281103       Y=33 N=4                 EVANS, ME.                 
+ 134  178 3 TO ADOPT THE RESOLUTION THAT THE BILL REVIVING THE ACT OF         
+ 134  178 4 MAR. 2, 1833, USUALLY CALLED THE COMPROMISE ACT, IS A BILL        
+ 134  178 5 FOR RAISING REVENUE AND CANNOT THEREFORE ORIGINATE IN THE         
+ 134  178 6 SENATE.                                                           
+ 135   58 1               EX J 6-302A    SRE       JUNE 1, 1844               
+ 135   58 2 E281058       Y=14 N=32                MCDUFFIE, S.C.             
+ 135   58 3 TO AMEND THE RESOLUTION PROVIDING THAT THE MESSAGE RECEIVED       
+ 135   58 4 THIS DAY FROM THE PRESIDENT IN ANSWER TO THE SENATE               
+ 135   58 5 RESOLUTION OF MAY 22, LAST, TOGETHER WITH THE DOCUMENTS           
+ 135   58 6 COMMUNICATED THEREWITH, BE PRINTED AND THAT THE INJUNCTION        
+ 135   58 7 OF SECRECY BE REMOVED THEREFROM AND THAT 20,000 COPIES            
+ 135   58 8 THEREOF BE FURNISHED FOR THE USE OF THE SENATE, BY ADDING A       
+ 135   58 9 PROVISION THAT THERE BE PRINTED, ALSO, ALL OTHER                  
+ 135   5810 COMMUNICATIONS FROM THE EXECUTIVE TO THE SENATE UPON THE          
+ 135   5811 SUBJECT OF THE TREATY WITH TEXAS AND THE DOCUMENTS                
+ 135   5812 ACCOMPANYING SAID COMMUNICATIONS WHICH HAVE NOT HERETOFORE        
+ 135   5813 BEEN PRINTED.                                                     
+ 136   59 1               EX J 6-302B    SRE       JUNE 1, 1844               
+ 136   59 2 E281059       Y=26 N=17                BENTON, MO.                
+ 136   59 3 TO ADOPT THE RESOLUTION THAT THE PRESIDENTIAL MESSAGE (IN         
+ 136   59 4 ANSWER TO SENATE RESOLUTION OF MAY 22) TOGETHER WITH              
+ 136   59 5 DOCUMENTS COMMUNICATED THEREWITH, BE PRINTED; THAT THE            
+ 136   59 6 INJUNCTION OF SECRECY BE REMOVED THEREFROM, AND THAT 20,000       
+ 136   59 7 COPIES THEREOF BE FURNISHED FOR USE OF THE SENATE.                
+ 137  179 1 G 13- -676A   J 28-1-317A    HR126     JUNE 1, 1844               
+ 137  179 2 S281104       Y=32 N=6                 HUNTINGTON, CONN.          
+ 137  179 3 TO PASS THE BILL H.R. 126, (APP. 6/11/1844, 5 STAT. L. 661),      
+ 137  179 4 MAKING APPROPRIATIONS FOR CERTAIN RIVERS AND HARBORS,             
+ 137  179 5 COMMONLY CALLED THE WESTERN HARBOR BILL.                          
+ 138  180 1 G 13- -676B   J 28-1-317B    HR203     JUNE 1, 1844               
+ 138  180 2 S281105       Y=14 N=23                MERRICK, MD.               
+ 138  180 3 TO AMEND THE BILL H.R. 203, MAKING APPROPRIATIONS FOR             
+ 138  180 4 CERTAIN RIVERS AND HARBORS AND COMMONLY CALLED THE EASTERN        
+ 138  180 5 OR ATLANTIC HARBOR BILL, BY INCLUDING AN APPROPRIATION OF         
+ 138  180 6 $20,000 FOR THE IMPROVEMENT OF BALTIMORE HARBOR.  (P. 635)        
+ 139  181 1 G 13- -676C   J 28-1-318     HR203     JUNE 1, 1844               
+ 139  181 2 S281106       Y=32 N=8                 HUNTINGTON, CONN.          
+ 139  181 3 TO PASS THE BILL H.R. 203, MAKING APPROPRIATIONS FOR CERTAIN      
+ 139  181 4 RIVERS AND HARBORS, AND COMMONLY CALLED THE EASTERN OR            
+ 139  181 5 ATLANTIC HARBOR BILL.                                             
+ 140  182 1 G 13- -679    J 28-1-320     SRE       JUNE 3, 1844               
+ 140  182 2 S281107       Y=24 N=14                BERRIEN, GA.               
+ 140  182 3 TO TABLE THE REPORT ON PRINTING OF A MEMORIAL RECEIVED FROM       
+ 140  182 4 THE SOCIETY OF FRIENDS, RESISTING THE ANNEXATION OF TEXAS         
+ 140  182 5 BECAUSE IT WOULD FURNISH AN ADDITIONAL STIMULANT AND MARKET       
+ 140  182 6 FOR THE SLAVE TRADE AND PERPETUATE SLAVERY IN THE U.S.            
+ 140  182 7 (P. 638)                                                          
+ 141  183 1 G 13- -682    J 28-1-327     HR241     JUNE 4, 1844               
+ 141  183 2 S281108       Y=17 N=20                CRITTENDEN, KY.            
+ 141  183 3 TO TABLE MOTION TO POSTPONE PREVIOUS BUSINESS, THEREBY            
+ 141  183 4 PREVENTING CONSIDERATION OF THE BILL H.R. 241, FOR THE            
+ 141  183 5 IMPROVEMENT OF THE WESTERN SHORE OF LAKE MICHIGAN.                
+ 142   60 1               EX J 6-307A    SRE       JUNE 5, 1844               
+ 142   60 2 E281060       Y=16 N=21                HUNTINGTON, CONN.          
+ 142   60 3 TO CONSENT TO THE NOMINATION OF MORDECAI MYERS, TO BE             
+ 142   60 4 COLLECTOR OF CUSTOMS FOR THE DISTRICT OF SAVANNAH, GA.            
+ 142   60 5 (VICE JAMES HUNTER, REMOVED).                                     
+ 143   61 1               EX J 6-307B    SRE       JUNE 5, 1844               
+ 143   61 2 E281061       Y=25 N=12                BAYARD, DEL.               
+ 143   61 3 TO CONSENT TO THE NOMINATION OF THOMAS BROWNELL, NOW A            
+ 143   61 4 MASTER, TO BE A LIEUTENANT IN THE NAVY FROM DEC. 26, 1843         
+ 143   61 5 (TO FILL A VACANCY OCCASIONED BY DEATH OF LIEUTENANT              
+ 143   61 6 JAMES K. BOWIE).                                                  
+ 144   62 1               EX J 6-309     SRE       JUNE 5, 1844               
+ 144   62 2 E281062       Y=10 N=24                BERRIEN, GA.               
+ 144   62 3 TO CONSENT TO THE NOMINATION OF WESTON F. BIRCH AS                
+ 144   62 4 UNITED STATES MARSHALL, FOR THE DISTRICT OF MISSOURI IN           
+ 144   62 5 PLACE OF WILLIAM K. RUSSELL, REMOVED.                             
+ 145  184 1 G 13- -686    J 28-1-329     S16       JUNE 5, 1844               
+ 145  184 2 S281109       Y=30 N=6                 DAYTON, N.J.               
+ 145  184 3 TO PASS S. 16, SETTLING THE TITLE TO PEA PATCH ISLAND             
+ 145  184 4 IN THE DELAWARE RIVER.                                            
+ 146  185 1 G 13- -691A   J 28-1-330A    SRE       JUNE 6, 1844               
+ 146  185 2 S281110       Y=19 N=24                BERRIEN, GA.               
+ 146  185 3 TO TABLE THE MOTION TO RECEIVE THE MEMORIAL FROM THE SOCIETY      
+ 146  185 4 OF FRIENDS RESISTING THE ANNEXATION OF TEXAS BECAUSE IT           
+ 146  185 5 WOULD FURNISH AN ADDITIONAL MARKET FOR THE SLAVE TRADE.           
+ 147  186 1 G 13- -691B   J 28-1-330B    SRE       JUNE 6, 1844               
+ 147  186 2 S281111       Y=27 N=12                WHITE, IND.                
+ 147  186 3 TO RECEIVE THE MEMORIAL OF THE SOCIETY OF FRIENDS,                
+ 147  186 4 REMONSTRATING AGAINST THE ANNEXATION OF TEXAS AND THE             
+ 147  186 5 EXTENSION OF SLAVERY INTO THE UNITED STATES.  (P. 647)            
+ 148   63 1               EX J 6-312     SRE       JUNE 8, 1844               
+ 148   63 2 E281063       Y=16 N=35                WALKER, MISS.              
+ 148   63 3 TO ADOPT THE RESOLUTION CONSENTING TO RATIFICATION OF THE         
+ 148   63 4 ANNEXATION OF TEXAS, AT WASHINGTON, APR. 12, 1844,                
+ 148   63 5 TWO-THIRDS OF THE SENATE CONCURRING THEREIN.                      
+ 149   64 1               EX J 6-314     SRE       JUNE 11, 1844              
+ 149   64 2 E281064       Y=16 N=25                HUNTINGTON, CONN.          
+ 149   64 3 TO CONSENT TO THE NOMINATION OF GEORGE W. MULLET TO BE            
+ 149   64 4 SURVEYOR AND INSPECTOR OF REVENUE FOR THE DISTRICT OF SALEM       
+ 149   64 5 AND PORT OF BEVERLY, MASS. (VICE EDWARD PALFRAY, WHO WAS          
+ 149   64 6 REJECTED BY THE SENATE).                                          
+ 150   65 1               EX J 6-316     SRE       JUNE 11, 1844              
+ 150   65 2 E281065       Y=22 N=17                HUNTINGTON, CONN.          
+ 150   65 3 TO CONSENT TO THE NOMINATION OF JOHN ANDERSON TO BE THE           
+ 150   65 4 COLLECTOR OF CUSTOMS FOR THE DISTRICT OF PORTLAND AND             
+ 150   65 5 FALMOUTH, MAINE (VICE NATHAN CUMMINGS, REMOVED).                  
+ 151   66 1               EX J 6-317A    SRE       JUNE 11, 1844              
+ 151   66 2 E281066       Y=21 N=24                HUNTINGTON, CONN.          
+ 151   66 3 TO CONSENT TO THE NOMINATION OF GREGORY DILLON TO BE              
+ 151   66 4 CUSTOMS APPRAISER FOR THE PORT OF NEW YORK, N.Y. (VICE            
+ 151   66 5 MEIGS D. BENJAMIN, REMOVED).                                      
+ 152   67 1               EX J 6-317B    SRE       JUNE 11, 1844              
+ 152   67 2 E281067       Y=26 N=12                HUNTINGTON, CONN.          
+ 152   67 3 TO CONSENT TO THE NOMINATION OF FRANCIS I. GRUND TO BE            
+ 152   67 4 CONSUL AT BREMEN, GERMANY (IN PLACE OF MARCUS DERKHEIM,           
+ 152   67 5 RESIGNED).                                                        
+ 153  187 1 G 13- -706    J 28-1-342     HR31      JUNE 11, 1844              
+ 153  187 2 S281113       Y=11 N=23                HAYWOOD, N.C.              
+ 153  187 3 TO AMEND THE BILL H.R. 31, (APP. 6/17/1844, 5 STAT. L. 696),      
+ 153  187 4 MAKING APPROPRIATIONS FOR THE SUPPORT OF THE ARMY FOR FISCAL      
+ 153  187 5 1845, BY APPROPRIATING $35,000 FOR THE COMPLETION OF THE          
+ 153  187 6 UNITED STATES ARSENAL AT FAYETTEVILLE, NORTH CAROLINA.            
+ 154  188 1 G 13- -707    J 28-1-343     SRE       JUNE 11, 1844              
+ 154  188 2 S281114       Y=27 N=19                WOODBRIDGE, MICH.          
+ 154  188 3 TO TABLE THE RESOLUTION S.R. 22, RATIFYING THE COMPACT OF         
+ 154  188 4 ANNEXATION BETWEEN THE UNITED STATES AND TEXAS AS THE             
+ 154  188 5 FUNDAMENTAL LAW BETWEEN SAID COUNTRIES, AS SOON AS                
+ 154  188 6 LEGISLATIVE POWER OF TEXAS SHALL RATIFY AND CONFIRM THIS          
+ 154  188 7 PACT.                                                             
+ 155  189 1 G 13- -707    J 28-1-344A    S88       JUNE 11, 1844              
+ 155  189 2 S281115       Y=18 N=21                MILLER, N.J.               
+ 155  189 3 TO TABLE THE BILL S. 88, PROVIDING FOR THE REMISSION              
+ 155  189 4 OF DUTIES ON RAILROAD IRON IMPORTED PRIOR TO JULY 14, 1842.       
+ 155  189 5 (P. 661)                                                          
+ 156  190 1 G 13- -708    J 28-1-344B    S88       JUNE 11, 1844              
+ 156  190 2 S281116       Y=16 N=30                EVANS, ME.                 
+ 156  190 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL S. 88,         
+ 156  190 4 REMITTING DUTIES ON RAILROAD IRON IMPORTED PRIOR TO               
+ 156  190 5 JULY 14, 1842.                                                    
+ 157   68 1               EX J 6-320A    SRE       JUNE 12, 1844              
+ 157   68 2 E281068       Y=36 N=0                 ARCHER, VA.                
+ 157   68 3 TO ADOPT THE RESOLUTION CONSENTING TO RATIFICATION OF THE         
+ 157   68 4 CONVENTION FOR MUTUAL ABOLITION OF THE DROIT D'AUBAINE AND        
+ 157   68 5 TAXES ON IMMIGRATION BETWEEN THE U.S. AND THE KING OF             
+ 157   68 6 WURTIMBERG, CONCLUDED AT BERLIN, APR. 10, 1844.                   
+ 158   69 1               EX J 6-320B    SRE       JUNE 12, 1844              
+ 158   69 2 E281069       Y=35 N=0                 ARCHER, VA.                
+ 158   69 3 TO ADOPT THE RESOLUTION CONSENTING TO RATIFICATION OF THE         
+ 158   69 4 CONVENTION FOR THE MUTUAL ABOLITION OF THE DROIT D'AUBAINE        
+ 158   69 5 AND TAXES ON IMMIGRATION BETWEEN THE U.S. AND THE GRAND           
+ 158   69 6 DUCHY OF HESSE, CONCLUDED AT BERLIN, MAR. 26, 1844.               
+ 159   70 1               EX J 6-320C    SRE       JUNE 12, 1844              
+ 159   70 2 E281070       Y=19 N=17                BAYARD, DEL.               
+ 159   70 3 TO CONSENT TO THE NOMINATION OF JOHN ROBB TO BE A CHAPLAIN        
+ 159   70 4 IN THE NAVY FROM OCT. 7, 1843 (AT WHICH TIME HE WAS               
+ 159   70 5 APPOINTED TO FILL VACANCY OCCASIONED BY DEATH OF                  
+ 159   70 6 JAMES WILTBANK).                                                  
+ 160   71 1               EX J 6-321     SRE       JUNE 12, 1844              
+ 160   71 2 E281071       Y=37 N=0                 ARCHER, VA.                
+ 160   71 3 TO ADOPT THE RESOLUTION CONSENTING TO RATIFICATION OF THE         
+ 160   71 4 POSTAL CONVENTION BETWEEN THE U.S. AND THE REPUBLIC OF            
+ 160   71 5 NEW GRANADA, CONCLUDED AT BOGOTA, COLUMBIA, ON MAR. 6, 1844.      
+ 161  191 1 G 13- -714    J 28-1-347     S169      JUNE 12, 1844              
+ 161  191 2 S281117       Y=19 N=13                BERRIEN, GA.               
+ 161  191 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL S. 169,        
+ 161  191 4 SUPPLEMENTING AN ACT AUTHORIZING THE SECRETARY OF                 
+ 161  191 5 STATE TO LIQUIDATE CERTAIN CLAIMS THEREIN MENTIONED.              
+ 161  191 6 (P. 668)                                                          
+ 162  192 1 G 13- -715A   J 28-1-348     SRE       JUNE 12, 1844              
+ 162  192 2 S281118       Y=4 N=28                 WHITE, IND.                
+ 162  192 3 TO AMEND S.R. 24, (APP. 6/15/1844, 5 STAT. 719), RELATING         
+ 162  192 4 TO THE RELIEF OF CERTAIN CLAIMANTS UNDER THE CHEROKEE TREATY      
+ 162  192 5 OF 1836 FOR TRANSPORTATION AND SUBSISTANCE OF INDIANS, BY         
+ 162  192 6 PROVIDING THAT THE PRESIDENT SHALL APPROVE OF THE                 
+ 162  192 7 CERTIFICATES AND ACCOUNTS, THE CLAIMS NOT HAVING BEEN             
+ 162  192 8 DECIDED NOR PAID BEFORE BY ANY FORMER BOARD OF COMMISSIONS.       
+ 163  193 1 G 13- -715    J 28-1-349     S99       JUNE 12, 1844              
+ 163  193 2 S281119       Y=27 N=12                NILES, CONN.               
+ 163  193 3 TO AMEND THE BILL S. 99, PROVIDING FOR THE RELIEF OF              
+ 163  193 4 MARY REESIDE, EXECUTRIX OF THE LATE JAMES REESIDE, DECEASED,      
+ 163  193 5 BY INVESTIGATING CLAIM AND REPORTING RESULTS TO CONGRESS AT       
+ 163  193 6 ITS NEXT SESSION WITH RECOMMENDATIONS FOR AMOUNT, IF ANY,         
+ 163  193 7 TO BE PAID.  (P. 669)                                             
+ 164  194 1 G 13- -719    J 28-1-353     S191      JUNE 13, 1844              
+ 164  194 2 S281120       Y=25 N=20                EVANS, ME.                 
+ 164  194 3 TO TABLE THE BILL S. 191, REGARDING THE ANNEXATION OF             
+ 164  194 4 TEXAS.  (P. 673)                                                  
+ 165  195 1 G 13- -721C   J 28-1-354C    HR32      JUNE 13, 1844              
+ 165  195 2 S281121       Y=34 N=9                 EVANS, ME.                 
+ 165  195 3 TO AGREE TO AN AMENDMENT TO THE BILL H.R. 32,                     
+ 165  195 4 (APP. 6/17/1844, 5 STAT. L. 681), MAKING APPROPRIATIONS FOR       
+ 165  195 5 THE CIVIL AND DIPLOMATIC SERVICE FOR THE FISCAL 1845, WHICH       
+ 165  195 6 WOULD AUTHORIZE AN APPROPRIATION OF $275,000 FOR THE              
+ 165  195 7 PURCHASE OF A BUILDING IN PHILADELPHIA, FORMERLY THE BANK         
+ 165  195 8 OF THE UNITED STATES, TO BE USED AS A CUSTOM HOUSE FOR THE        
+ 165  195 9 PORT OF PHILADELPHIA.                                             
+ 166  196 1 G 13- -720A   J 28-1-355A    HR32      JUNE 13, 1844              
+ 166  196 2 S281122       Y=15 N=28                EVANS, ME.                 
+ 166  196 3 TO AMEND H.R. 32 BY DISPENSING WITH APPROPRIATIONS FOR            
+ 166  196 4 MAINTAINING A CHARGES DES AFFAIRS IN SARDINIA.  (P. 674)          
+ 167  197 1 G 13- -721A   J 28-1-354A    HR32      JUNE 13, 1844              
+ 167  197 2 S281123       Y=24 N=5                 EVANS, ME.                 
+ 167  197 3 TO ADOPT THE AMENDMENT TO H.R. 32, TO AUTHORIZE THE PAYMENT       
+ 167  197 4 OF $48,297 FOR PRINTING THE 4TH AND 5TH VOLUMES OF                
+ 167  197 5 DOCUMENTARY HISTORY UNDER CONTRACT WITH THE SECRETARY OF          
+ 167  197 6 STATE.  (P. 674)                                                  
+ 168  198 1 G 13- -721B   J 28-1-354B    HR32      JUNE 13, 1844              
+ 168  198 2 S281124       Y=30 N=14                EVANS, ME.                 
+ 168  198 3 TO AMEND H.R. 32, BY APPROPRIATING $4,000 TO DEFRAY THE           
+ 168  198 4 EXPENSES INCURRED BY THE NATIONAL INSTITUTE IN TAKING CARE        
+ 168  198 5 OF PUBLIC PROPERTY AND COLLECTIONS THEREOF, PROVIDED THE          
+ 168  198 6 TITLE OF ALL PROPERTY NOT BELONGING TO THE UNITED STATES          
+ 168  198 7 SHALL BE VESTED IN THEM.                                          
+ 169  199 1 G 13- -722A   J 28-1-355B    HR32      JUNE 13, 1844              
+ 169  199 2 S281125       Y=22 N=20                WRIGHT, N.Y.               
+ 169  199 3 TO AMEND THE AMENDMENT TO H.R. 32, BY AUTHORIZING THE U.S.        
+ 169  199 4 TREASURER TO PAY MSSRS. BLAIR AND RIVES FOR THEIR PART IN         
+ 169  199 5 PRINTING THE COMPENDIUM OF THE SIXTH CENSUS, ACCORDING TO         
+ 169  199 6 THE RATES ALLOWED BY LAW, OUT OF MONIES IN TREASURY AND NOT       
+ 169  199 7 OTHERWISE APPROPRIATED.  (P. 675)                                 
+ 170  200 1 G 13- -722B   J 28-1-355C    HR32      JUNE 13, 1844              
+ 170  200 2 S281126       Y=23 N=19                TALLMADGE, N.Y.            
+ 170  200 3 TO RECONSIDER THE VOTE MADE DURING DEBATE ON H.R. 32, IN          
+ 170  200 4 ORDER TO CONSIDER FURTHER THE AMENDMENT TO AMENDMENT WHICH        
+ 170  200 5 AUTHORIZES THE PAYMENT FOR PRINTING THE COMPENDIUM OF THE         
+ 170  200 6 SIXTH CENSUS OUT OF TREASURY FUNDS BY MONIES NOT OTHERWISE        
+ 170  200 7 APPROPRIATED.  (P. 675)                                           
+ 171  201 1 G 13- -675C   J 28-1-356A    HR32      JUNE 13, 1844              
+ 171  201 2 S281127       Y=20 N=21                WRIGHT, N.Y.               
+ 171  201 3 TO AGREE TO THE AMENDMENT TO AMENDMENT TO H.R. 32,                
+ 171  201 4 PROVIDING FOR PAYMENT TO MSSRS. BLAIR AND RIVES FOR THEIR         
+ 171  201 5 PART IN PRINTING THE COMPENDIUM OF THE SIXTH CENSUS.              
+ 172  202 1 G 13- -722D   J 28-1-356B    HR32      JUNE 13, 1844              
+ 172  202 2 S281128       Y=26 N=13                EVANS, ME.                 
+ 172  202 3 TO AGREE TO AMENDMENT TO H.R. 32, AUTHORIZING THE TREASURER       
+ 172  202 4 TO PAY THOMAS ALLEN FOR PRINTING THE COMPENDIUM OF THE            
+ 172  202 5 SIXTH CENSUS, ACCORDING TO THE RATES ALLOWED BY LAW, FROM         
+ 172  202 6 MONIES IN THE TREASURY AND NOT OTHERWISE APPROPRIATED.            
+ 173   72 1               EX J 6-333     SRE       JUNE 14, 1844              
+ 173   72 2 E281072       Y=12 N=30                HUNTINGTON, CONN.          
+ 173   72 3 TO CONSENT TO THE NOMINATION OF HENRY COMAJER TO BE               
+ 173   72 4 COLLECTOR OF CUSTOMS FOR THE DISTRICT OF MAUMEE AND               
+ 173   72 5 INSPECTOR OF THE REVENUE FOR THE PORT OF MAUMEE, OHIO (VICE       
+ 174   73 1               EX J 6-336A    SRE       JUNE 14, 1844              
+ 174   73 2 E281073       Y=14 N=33                HUNTINGTON, CONN.          
+ 174   73 3 TO CONSENT TO THE NOMINATION OF DAVID HAYDEN TO BE COLLECTOR      
+ 174   73 4 OF CUSTOMS FOR THE DISTRICT OF MISSISSIPPI, (LOUISIANA)           
+ 174   73 5 (VICE M.J. CUCULLU, DECEASED).                                    
+ 175   74 1               EX J 6-336B    SRE       JUNE 14, 1844              
+ 175   74 2 E281074       Y=19 N=25                MERRICK, MD.               
+ 175   74 3 TO CONSENT TO THE NOMINATION OF DANIEL T. PIKE TO BE DEPUTY       
+ 175   74 4 POSTMASTER AT AUGUSTA, ME. (VICE DANIEL C. WESTON, REJECTED       
+ 175   74 5 BY THE SENATE).                                                   
+ 176   75 1               EX J 6-337A    SRE       JUNE 14, 1844              
+ 176   75 2 E281075       Y=18 N=26                MERRICK, MD.               
+ 176   75 3 TO CONSENT TO THE NOMINATION OF HENRY SHEPHERD TO BE DEPUTY       
+ 176   75 4 POSTMASTER AT NORTHAMPTON, MASS. (VICE THOMAS SHEPHERD,           
+ 176   75 5 WHOSE NOMINATION WAS REJECTED BY SENATE).                         
+ 177   76 1               EX J 6-337B    SRE       JUNE 14, 1844              
+ 177   76 2 E281076       Y=29 N=10                ARCHER, VA.                
+ 177   76 3 TO CONSENT TO THE NOMINATION OF ROBERT WICKLIFFE,JR. AS           
+ 177   76 4 CHARGE'D'AFFAIRS TO SARDINIA.                                     
+ 178   77 1               EX J 6-338     SRE       JUNE 14, 1844              
+ 178   77 2 E281077       Y=16 N=24                HUNTINGTON, CONN.          
+ 178   77 3 TO CONSENT TO THE NOMINATION OF CHARLES A. FERRIS, AS             
+ 178   77 4 COLLECTOR OF CUSTOMS FOR THE DISTRICT OF NEW YORK, N.Y.           
+ 179  203 1 G 13- -272    J 28-1-359     SRE       JUNE 14, 1844              
+ 179  203 2 S281129       Y=21 N=20                EVANS, ME.                 
+ 179  203 3 TO TABLE THE RESOLUTIONS THAT THE PRESIDENT BE REQUESTED TO       
+ 179  203 4 INFORM THE SENATE WHETHER THE PARLIAMENT OF GREAT BRITAIN         
+ 179  203 5 HAS PASSED ANY ACT EXTENDING ITS CRIMINAL JURISDICTION TO         
+ 179  203 6 THE UNITED STATES, SO AS TO SUBJECT ANY PORTION OF THEIR          
+ 179  203 7 CITIZENS TO ITS PENALTIES, AND TO ALSO INQUIRE IF THIS            
+ 179  203 8 PARLIAMENT IS COLLECTING INFORMATION CONCERNING THE               
+ 179  203 9 CONDITION OF ANY PORTION OF UNITED STATES POPULATION.             
+ 179  20310 (P. 678)                                                          
+ 180  204 1 G 13- -727B   J 28-1-360A    HR80      JUNE 14, 1844              
+ 180  204 2 S281130       Y=24 N=22                ATHERTON, N.H.             
+ 180  204 3 TO POSTPONE PREVIOUS ORDERS TO REPORT THE BILL H.R. 80,           
+ 180  204 4 PROPOSING TO FIX THE SAME DAY OR DAYS FOR THE CHOICE OF           
+ 180  204 5 PRESIDENTIAL ELECTORS THROUGHOUT THE UNITED STATES.               
+ 180  204 6 (P. 679)                                                          
+ 181  205 1 G 13- -729    J 28-1-360B    HR80      JUNE 14, 1844              
+ 181  205 2 S281131       Y=26 N=25                BARROW, LA.                
+ 181  205 3 TO TABLE THE BILL H.R. 80, PROPOSING TO FIX THE SAME              
+ 181  205 4 DAY OR DAYS FOR THE CHOICE OF PRESIDENTIAL ELECTORS               
+ 181  205 5 THROUGHOUT THE UNITED STATES.                                     
+ 182  206 1 G 13- -731A   J 28-1-361A    HR62      JUNE 14, 1844              
+ 182  206 2 S281132       Y=26 N=14                BAYARD, DEL.               
+ 182  206 3 TO AMEND THE BILL H.R. 62, (APP. 6/17/1844, 5 STAT. L. 699)       
+ 182  206 4 MAKING APPROPRIATIONS FOR THE SUPPORT OF THE NAVAL SERVICE        
+ 182  206 5 FOR FISCAL 1845, BY CONTINUING TO ALLOW THE USE OF SPIRIT         
+ 182  206 6 RATIONS AS HERETOFORE FURNISHED.  (P. 682)                        
+ 183  207 1 G 13- -731B   J 28-1-361B    HR62      JUNE 14, 1844              
+ 183  207 2 S281133       Y=29 N=15                BAYARD, DEL.               
+ 183  207 3 TO AMEND THE BILL H.R. 62, (APP. 6/17/1844, 5 STAT. L. 699)       
+ 183  207 4 MAKING APPROPRIATIONS FOR THE SUPPORT OF THE NAVAL SERVICE        
+ 183  207 5 FOR FISCAL 1845, BY AUTHORIZING THE TREASURER TO PAY              
+ 183  207 6 COMMANDER CHARLES WILKES AND LIEUTENANT CALDWALLADER              
+ 183  207 7 RINGGOLD EXTRA PAY FOR SERVICES RENDERED IN EXPLORING THE         
+ 183  207 8 PACIFIC OCEAN AND SOUTH SEAS IN SCIENTIFIC DUTIES.  (P. 682)      
+ 184  208 1 G 13- -732A   J 28-1-363A    HR396     JUNE 14, 1844              
+ 184  208 2 S281134       Y=6 N=32                 BERRIEN, GA.               
+ 184  208 3 TO AMEND THE BILL H.R. 396, (APP. 6/15/1844), MAKING              
+ 184  208 4 APPROPRIATIONS FOR CERTAIN OBJECTS OF EXPENDITURE THEREIN         
+ 184  208 5 NAMED FOR FISCAL 1844, BY ELIMINATING CERTAIN WORDS IN            
+ 184  208 6 ORDER TO REMOVE THE ABSURDITY OF MAKING A VIOLATION OF THE        
+ 184  208 7 LAW A REASON FOR APPROPRIATING FUNDS.                             
+ 185  209 1 G 13- -732B   J 28-1-363B    HR396     JUNE 14, 1844              
+ 185  209 2 S281135       Y=26 N=15                EVANS, ME.                 
+ 185  209 3 TO PASS THE BILL H.R. 396, (APP. 6/15/1844), MAKING               
+ 185  209 4 APPROPRIATIONS FOR CERTAIN OBJECTS OF EXPENDITURES THEREIN        
+ 185  209 5 NAMED FOR FISCAL 1844.  (P. 683)                                  
+ 186  210 1 G 13- -732C   J 28-1-364     S88       JUNE 14, 1844              
+ 186  210 2 S281136       Y=22 N=22                MCDUFFIE, S.C.             
+ 186  210 3 TO RECONSIDER MOTION TO RECONSIDER VOTE ON ENGROSSMENT OF         
+ 186  210 4 TO BILL S. 88, FOR REMISSION OF DUTIES ON RAILROAD                
+ 186  210 5 IRON, WHICH VOTE REJECTED ENGROSSMENT.  (P. 683)                  
+ 187  211 1 G 13- -733A   J 28-1-365     S88       JUNE 14, 1844              
+ 187  211 2 S281137       Y=19 N=16                WOODBURY, N.H.             
+ 187  211 3 TO RECONSIDER THE VOTE WHICH REFUSED TO ORDER ENGROSSMENT         
+ 187  211 4 AND THIRD READING OF S. 88.                                       
+ 188  212 1 G 13- -733B   J 28-1-366A    S88       JUNE 14, 1844              
+ 188  212 2 S281138       Y=21 N=22                ALLEN, OHIO                
+ 188  212 3 TO TABLE S. 88.                                                   
+ 189  213 1 G 13- -733C   J 28-1-366B    S88       JUNE 14, 1844              
+ 189  213 2 S281139       Y=20 N=20                ALLEN, OHIO                
+ 189  213 3 TO POSTPONE CONSIDERATION OF S. 88 UNTIL THE FIRST MONDAY         
+ 189  213 4 IN DEC., IN ORDER TO PREVENT FURTHER ACTION DURING THE            
+ 189  213 5 PRESENT SESSION OF CONGRESS.                                      
+ 190  214 1 G 13- -733D   J 28-1-366C    S88       JUNE 14, 1844              
+ 190  214 2 S281140       Y=21 N=20                ALLEN, OHIO                
+ 190  214 3 TO POSTPONE INDEFINITELY CONSIDERATION OF S. 88.                  
+ 191   78 1               EX J 6-341     SRE       JUNE 15, 1844              
+ 191   78 2 E281078       Y=20 N=24                BERRIEN, GA.               
+ 191   78 3 TO CONSENT TO THE NOMINATION OF JOHN B. CHRISTIAN, AS JUDGE       
+ 191   78 4 FOR THE EASTERN DISTRICT OF VIRGINIA.                             
+ 192   79 1               EX J 6-342A    SRE       JUNE 15, 1844              
+ 192   79 2 E281079       Y=16 N=23                BERRIEN, GA.               
+ 192   79 3 TO CONSENT TO THE NOMINATION OF JOHN B. CHRISTIAN, AS JUDGE       
+ 192   79 4 FOR THE EASTERN DISTRICT OF VIRGINIA.                             
+ 193   80 1               EX J 6-342B    SRE       JUNE 15, 1844              
+ 193   80 2 E281080       Y=17 N=21                BAYARD, DEL.               
+ 193   80 3 TO CONSENT TO THE NOMINATION OF JOHN ROBB TO BE A CHAPLAIN        
+ 193   80 4 IN THE NAVY FROM OCT. 7, 1843.                                    
+ 194   81 1               EX J 6-343     SRE       JUNE 15, 1844              
+ 194   81 2 E281081       Y=16 N=22                WOODBRIDGE, MICH.          
+ 194   81 3 TO CONSENT TO THE NOMINATION OF JONATHAN KEARSLEY, AS             
+ 194   81 4 RECEIVER OF PUBLIC MONEY AT DETROIT, MICHIGAN FROM                
+ 194   81 5 FEB. 10, 1844.                                                    
+ 195   82 1               EX J 6-344A    SRE       JUNE 15, 1844              
+ 195   82 2 E281082       Y=18 N=22                WOODBRIDGE, MICH.          
+ 195   82 3 TO CONSENT TO THE NOMINATION OF ABRAHAM K. MEAD TO BE             
+ 195   82 4 APPRAISER OF CUSTOMS FOR THE PORT OF NEW YORK, N.Y.               
+ 196   83 1               EX J 6-344B    PROC      JUNE 15, 1844              
+ 196   83 2 E281083       Y=32 N=3                 HAYWOOD, N.C.              
+ 196   83 3 TO SUSTAIN THE RULING OF THE CHAIR, APPEALED FROM BY WILLIAM      
+ 196   83 4 HAYWOOD, MISS., MADE DURING CONSIDERATION OF NOMINATION OF        
+ 196   83 5 REUBEN N. WALWORTH, TO BE APPRAISER OF CUSTOMS FOR THE PORT       
+ 196   83 6 OF NEW YORK, WHICH DECISION HELD THAT, ACCORDING TO RULES         
+ 196   83 7 OF THE SENATE, THE QUESTION TO TABLE WAS NOT DEBATEABLE.          
+ 197   84 1               EX J 6-344C    SRE       JUNE 15, 1844              
+ 197   84 2 E281084       Y=27 N=20                BERRIEN, GA.               
+ 197   84 3 TO TABLE THE NOMINATION OF REUBEN H. WALWORTH, AS                 
+ 197   84 4 ASSOCIATE JUSTICE OF THE SUPREME COURT OF THE UNITED STATES.      
+ 198   85 1               EX J 6-545A    SRE       JUNE 15, 1844              
+ 198   85 2 E281085       Y=29 N=18                BERRIEN, GA.               
+ 198   85 3 TO TABLE THE NOMINATION OF EDWARD KING AS ASSOCIATE OF THE        
+ 198   85 4 SUPREME COURT OF THE UNITED STATES.                               
+ 199   86 1               EX J 6-345B    SRE       JUNE 15, 1844              
+ 199   86 2 E281086       Y=0 N=31                 ARCHER, VA.                
+ 199   86 3 TO ELIMINATE THE CLAUSE "THE CRIMES OF ROBBERY AND                
+ 199   86 4 BURGLARY" FROM THE ARTICLE RELATING TO THE CONVENTION FOR         
+ 199   86 5 THE SURRENDER OF CRIMINALS BETWEEN THE UNITED STATES AND HIS      
+ 199   86 6 MAJESTY THE KING OF FRANCE, CONCLUDED AT WASHINGTON,              
+ 199   86 7 APR. 14, 1844, WITH AMENDMENTS THERETO, THE QUESTION BEING        
+ 199   86 8 "SHALL THE WORDS STAND".                                          
+ 200   87 1               EX J 6-345C    SRE       JUNE 15, 1844              
+ 200   87 2 E281087       Y=28 N=6                 ARCHER, VA.                
+ 200   87 3 TO AMEND THE ARTICLE RELATING TO THE CONVENTION FOR THE           
+ 200   87 4 SURRENDER OF CRIMINALS BETWEEN THE UNITED STATES AND HIS          
+ 200   87 5 MAJESTY THE KING OF FRANCE, CONCLUDED AT WASHINGTON,              
+ 200   87 6 APR. 15, 1844, THE AMENDMENT TO PROVIDE A DEFINITION OF THE       
+ 200   87 7 TERMS "ROBBERY" AND "BURGLARY".                                   
+ 201   88 1               EX J 6-346A    SRE       JUNE 15, 1844              
+ 201   88 2 E281088       Y=0 N=31                 ARCHER, VA.                
+ 201   88 3 RELATING TO THE CLAUSE "THE CRIMES OF ROBBERY AND                 
+ 201   88 4 BURGLARY" FROM THE ARTICLE RELATING TO THE CONVENTION FOR         
+ 201   88 5 THE SURRENDER OF CRIMINALS BETWEEN THE U.S. AND HIS MAJESTY       
+ 201   88 6 THE KING OF FRANCE, CONCLUDED AT WASHINGTON, APR. 14, 1844,       
+ 201   88 7 WITH AMENDMENTS THERETO, THE QUESTION BEING "SHALL THE            
+ 201   88 8 WORDS STAND"?                                                     
+ 202   89 1               EX J 6-346B    SRE       JUNE 15, 1844              
+ 202   89 2 E281089       Y=28 N=6                 ARCHER, VA.                
+ 202   89 3 TO AMEND, AGAIN, DUE TO RECONSIDERATION OF PREVIOUS VOTE ON       
+ 202   89 4 SAME, THE ARTICLE RELATING TO THE CONVENTION FOR THE              
+ 202   89 5 SURRENDER OF CRIMINALS BETWEEN THE UNITED STATES AND HIS          
+ 202   89 6 MAJESTY THE KING OF FRANCE, CONCLUDED AT WASHINGTON, 4/15/44      
+ 202   89 7 WITH AMENDMENTS DEFINING THE TERMS "ROBBERY" AND "BURGLARY".      
+ 203   90 1               EX J 6-346C    SRE       JUNE 15, 1844              
+ 203   90 2 E281090       Y=29 N=11                ARCHER, VA.                
+ 203   90 3 TO ADOPT THE RESOLUTION THAT THE SENATE CONSENT TO                
+ 203   90 4 RATIFICATION OF AN ADDITIONAL ARTICLE TO THE CONVENTION FOR       
+ 203   90 5 THE SURRENDER OF CRIMINALS BETWEEN THE UNITED STATES AND          
+ 203   90 6 FRANCE, CONCLUDED AT WASHINGTON, APR. 15, 1844, WITH              
+ 203   90 7 AMENDMENTS.                                                       
+ 204   91 1               EX J 6-347A    SRE       JUNE 15, 1844              
+ 204   91 2 E281091       Y=26 N=18                MOREHEAD, KY.              
+ 204   91 3 TO TABLE THE COMMERCIAL CONVENTION                                
+ 204   91 4 BETWEEN THE UNITED STATES AND PRUSSIA AND THE OTHER STATES        
+ 204   91 5 OF THE GERMANIC ASSOCIATION OF CUSTOMS AND COMMERCE,              
+ 204   91 6 CONCLUDED AT BERLIN, MAR. 25, 1844.                               
+ 205   92 1               EX J 6-347B    SRE       JUNE 15, 1844              
+ 205   92 2 E281092       Y=30 N=11                BATES, MASS.               
+ 205   92 3 TO POSTPONE CONSIDERATION OF THE NOMINATION OF CALEB CUSHING      
+ 205   92 4 TO BE SECRETARY OF THE TREASURY, TO 10 P.M. THIS DAY.             
+ 206   93 1               EX J 6-349     SRE       JUNE 15, 1844              
+ 206   93 2 E281093       Y=24 N=14                ARCHER, VA.                
+ 206   93 3 TO TABLE THE RESOLUTION THAT IN THE JUDGEMENT OF SENATE, IT       
+ 206   93 4 IS ITS CONSTITUTIONAL RIGHT, ACTING IN ITS EXECUTIVE              
+ 206   93 5 CHARACTER, TO CALL FOR AND TO HAVE FROM THE PRESIDENT, THE        
+ 206   93 6 INFORMATION REQUESTED BY THE SENATE, IN THE SENATE                
+ 206   93 7 RESOLUTION OF THE 3RD INSTANT, AND WHICH INFORMATION, THE         
+ 206   93 8 PRESIDENT IN HIS MESSAGE DATED THE 6TH INSTANT, AND THIS          
+ 206   93 9 DAY 6/14/1844, DEEMS IT EXPEDIENT TO COMMUNICATE AND THAT         
+ 206   9310 THIS RESOLUTION BE IMMEDIATELY COMMUNICATED TO THE                
+ 207   94 1               EX J 6-350     SRE       JUNE 15, 1844              
+ 207   94 2 E281094       Y=19 N=9                 HUNTINGTON, CONN.          
+ 207   94 3 TO CONSENT TO THE NOMINATION OF JEREMIAH TOWLE, TO BE NAVAL       
+ 207   94 4 OFFICER FOR THE DISTRICT OF NEW YORK, N.Y.                        
+ 208  215 1 G 13- -740    J 28-1-373     HR252     JUNE 15, 1844              
+ 208  215 2 S281141       Y=14 N=20                HENDERSON, MISS.           
+ 208  215 3 TO TABLE THE BILL H.R. 252, TO SUPPLEMENT AN ACT LAYING           
+ 208  215 4 OFF THE TOWNS OF FORT MADISON AND BURLINGTON IN THE COUNTY        
+ 208  215 5 OF DES MOINES AND THE TOWNS OF BELLEVUE, DUBUQUE, AND PERU        
+ 208  215 6 IN THE COUNTY OF DUBUQUE IN THE TERRITORY OF WISCONSIN,           
+ 208  215 7 APPROVED JULY 2, 1836; AND AN ACT AMENDATORY THERETO,             
+ 208  215 8 APPROVED MAR. 3, 1837, EXTENDING THE RIGHT OF PREEMPTION ON       
+ 208  215 9 THE AFOREMENTIONED PROPERTIES.  (P. 690)                          
+ 209   95 1               EX J 6-352     SRE       JUNE 17, 1844              
+ 209   95 2 E281095       Y=22 N=19                                           
+ 209   95 3 TO CONSENT TO THE NOMINATION OF CALEB CUSHING TO BE               
+ 209   95 4 SECRETARY OF THE TREASURY.                                        
+ 210  216 1 G 13- -695    J 28-1-398     HR75      JUNE 17, 1844              
+ 210  216 2 S281142       Y=29 N=14                BATES, MASS.               
+ 210  216 3 TO PASS THE BILL H.R. 75, (APP. 6/17/1844, 6 STAT. L. 931)        
+ 210  216 4 PROVIDING FOR THE RELIEF OF MAJOR THOMAS HARRISON. THE            
+ 210  216 5 GLOBE VERSION OF THIS ACTION STATES THAT A MOTION WAS MADE        
+ 210  216 6 FOR A THIRD READING OF THIS BILL.                                 
+ 211  217 1 G 14-1-20     J 28-2-31      SRE       DEC. 4, 1844               
+ 211  217 2 S282001       Y=24 N=16                ALLEN, OHIO                
+ 211  217 3 TO ADOPT THE RESOLUTION REQUESTING THE PRESIDENT TO LAY           
+ 211  217 4 BEFORE THE SENATE, A COPY OF ANY INSTRUCTIONS GIVEN THE           
+ 211  217 5 AMERICAN MINISTER TO ENGLAND, ON THE SUBJECT OF THE               
+ 211  217 6 TERRITORY OF OREGON.                                              
+ 212  218 1 G 14-1-44     J 28-2-44      S6        DEC. 18, 1844              
+ 212  218 2 S282002       Y=26 N=14                BAYARD, DEL.               
+ 212  218 3 TO PASS THE BILL S. 6, TO PAY THE CLAIM OF THEIR HEIRS            
+ 212  218 4 OF ROBERT FULTON.                                                 
+ 213  219 1 G 14-1-48     J 28-2-52      S45       DEC. 19, 1844              
+ 213  219 2 S282003       Y=21 N=24                ATCHISON, MO.              
+ 213  219 3 TO REFER TO THE COMMITTEE ON TERRITORIES, THE BILL S. 45,         
+ 213  219 4 ORGANIZING THE GOVERNMENT OF OREGON.  (P. 48)                     
+ 214  220 1 G 14-1-49     J 28-2-52B     S45       DEC. 19, 1844              
+ 214  220 2 S282004       Y=20 N=24                ARCHER, VA.                
+ 214  220 3 TO REFER TO THE COMMITTEE ON FOREIGN RELATIONS, THE BILL          
+ 214  220 4 S. 45, ORGANIZING THE GOVERNMENT OF OREGON.  (P. 49)              
+ 215  221 1 G 14-1-80     J 28-2-68      S3        JAN. 2, 1845               
+ 215  221 2 S282005       Y=31 N=8                 WHITE, IND.                
+ 215  221 3 TO PASS THE BILL S. 3, (APP. 3/1/1845, 5 STAT. L. 731),           
+ 215  221 4 GRANTING LANDS TO THE STATE OF INDIANA TO COMPLETE THE            
+ 215  221 5 WABASH AND ERIE CANAL FROM TERRE HAUTE TO THE OHIO RIVER.         
+ 216   96 1               EX J 6-375     SRE       JAN. 7, 1845               
+ 216   96 2 E282001       Y=14 N=27                FAIRFIELD, ME.             
+ 216   96 3 TO TABLE THE NOMINATION OF ALFRED I. STONE AS COLLECTOR OF        
+ 216   96 4 CUSTOMS FOR THE DISTRICT AND INSPECTOR OF REVENUE FOR THE         
+ 216   96 5 PORT OF BATH, MAINE.                                              
+ 217   97 1               EX J 6-379     SRE       JAN. 13, 1845              
+ 217   97 2 E282002       Y=39 N=0                 ARCHER, VA.                
+ 217   97 3 TO ADOPT THE PREAMBLE AND RESOLUTION THAT, WHEREAS, THE TIME      
+ 217   97 4 LIMITED BY THE SIXTH ARTICLE OF THE CONVENTION FOR MUTUAL         
+ 217   97 5 ABOLITION OF THE DROIT D'AUBAINE AND TAXES ON IMIGRATION          
+ 217   97 6 BETWEEN THE UNITED STATES AND THE GRANDE DUCHY OF HESSE, HAS      
+ 217   97 7 EXPIRED BEFORE RATIFICATION,RESOLVED, THAT THE SENATE             
+ 217   97 8 CONSENT TO EXCHANGE OF RATIFICATION OF THE FORESAID               
+ 217   97 9 CONVENTION AT ANY TIME PRIOR TO JULY 4, 1845, WHEREEVER           
+ 217   9710 OFFERED BY THE GRAND DUCHY OF HESSE, AND THE SAID                 
+ 217   9711 RATIFICATION SHALL BE DEEMED TO HAVE BEEN REGULARLY               
+ 217   9712 EXCHANGED, LIMITATIONS TO THE CONTRARY NOTWITHSTANDING.           
+ 218  222 1 G 14-1-129    J 28-2-85      S27       JAN. 13, 1845              
+ 218  222 2 S282006       Y=17 N=22                HAYWOOD, N.C.              
+ 218  222 3 TO AMEND THE BILL S. 27, CONCERNING THE SETTLEMENT OF             
+ 218  222 4 THE ACCOUNT OF MILES KING, FORMERLY NAVY AGENT AT NORFOLK.        
+ 218  222 5 SAID AMENDMENT IS TO COMPEL THE AUDITORS TO EXAMINE KING'S        
+ 218  222 6 CLAIM AND TO REPORT TO CONGRESS THE AMOUNT DUE, RATHER THAN       
+ 218  222 7 TO AUTHORIZE THE AUDITORS TO SETTLE THE CLAIM, (JOURNAL           
+ 218  222 8 DESCRIPTION). TO COMMIT THE BILL S. 27 CONCERNING THE             
+ 218  222 9 SETTLEMENT OF THE ACCOUNT OF MILES KING, FORMERLY NAVY            
+ 218  22210 AGENT AT HORFOLK, TO THE COMMITTEE ON CLAIMS. (GLOBE              
+ 218  22211 DESCRIPTION).  (P. 129)                                           
+ 219  223 1 G 14-1-134    J 28-2-87      S40       JAN. 14, 1845              
+ 219  223 2 S282007       Y=31 N=12                BAYARD, DEL.               
+ 219  223 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE AMENDED BILL,       
+ 219  223 4 S. 40, (APP. 3/1/1845, 5 STAT. L. 731), RENEWING CERTAIN          
+ 219  223 5 NAVAL PENSIONS FOR THE FIVE YEAR TERM.                            
+ 220   98 1               EX J 6-380     SRE       JAN. 15, 1845              
+ 220   98 2 E282003       Y=14 N=25                FAIRFIELD, ME.             
+ 220   98 3 TO TABLE THE NOMINATION OF VIRGIL D. PARRIS, AS UNITED            
+ 220   98 4 STATES MARSHALL FOR THE DISTRICT OF MAINE.                        
+ 221  224 1 G 14-1-139A   J 28-2-91A     S21       JAN. 15, 1845              
+ 221  224 2 S282008       Y=17 N=26                BAYARD, DEL.               
+ 221  224 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL S. 21 N.P      
+ 221  224 4 WHICH INCREASES THE PAY OF CERTAIN OFFICERS OF REVENUE            
+ 221  224 5 CUTTERS WHILE TEMPORARILY SERVING IN THE UNITED STATES NAVY.      
+ 221  224 6 (P. 139)                                                          
+ 222  225 1 G 14-1-139B   J 28-2-91B     S37       JAN. 15, 1845              
+ 222  225 2 S282009       Y=24 N=15                CHOATE, MASS.              
+ 222  225 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL                
+ 222  225 4 S. 37, TO SETTLE A CLAIM AGAINST THE GOVERNMENT BY                
+ 222  225 5 ASA ANDREWS, BASED ON A VERDICT OF THE UNITED STATES              
+ 222  225 6 CIRCUIT COURT.                                                    
+ 223   99 1               EX J 6-385A    SRE       JAN. 16, 1845              
+ 223   99 2 E282004       Y=42 N=0                 ARCHER, VA.                
+ 223   99 3 TO ADOPT THE RESOLUTION, TWO-THIRDS THEREOF CONCURRING,           
+ 223   99 4 THAT THE SENATE CONSENT TO THE RATIFICATION OF THE TREATY         
+ 223   99 5 BETWEEN THE UNITED STATES AND THE TA TSING EMPIRE,                
+ 223   99 6 CONCLUDED AT NANG SHIA, JULY 3, 1844.                             
+ 224  100 1               EX J 6-385B    SRE       JAN. 16, 1845              
+ 224  100 2 E282005       Y=25 N=5                 BREESE, ILL.               
+ 224  100 3 TO RECONSIDER THE SENATE RESOLUTION OF JAN. 15, 1845,             
+ 224  100 4 REJECTING THE NOMINATION OF ALEXANDER G. ABELL, AS UNITED         
+ 224  100 5 STATES COUNSUL, FOR THE ISLAND OF HAWAII.                         
+ 225  101 1               EX J 6-386     SRE       JAN. 16, 1845              
+ 225  101 2 E282006       Y=22 N=16                HUNTINGTON, CONN.          
+ 225  101 3 TO CONSENT TO THE NOMINATION OF ALEXANDER G. ABELL, AS            
+ 225  101 4 UNITED STATES CONSUL, FOR THE ISLAND OF HAWAII, ONE OF THE        
+ 225  101 5 SANDWICH ISLANDS.                                                 
+ 226  226 1 G 14-1-156    J 28-2-98      S29       JAN. 20, 1845              
+ 226  226 2 S282013       Y=27 N=17                BATES, MASS.               
+ 226  226 3 TO ORDER ENGROSSMENT AND 3RD READING OF S. 29, A BILL             
+ 226  226 4 TO REFUND AN ASCERTAINED BALANCE DUE THE                          
+ 226  226 5 STATE OF MASSACHUSETTS.  (P. 156)                                 
+ 227  227 1 G 14-1-172A   J 28-2-105A    S2        JAN. 22, 1845              
+ 227  227 2 S282014       Y=25 N=14                WHITE, IND.                
+ 227  227 3 TO PASS THE BILL S. 2, MAKING APPROPRIATIONS FOR THE              
+ 227  227 4 CUMBERLAND ROAD IN THE STATES OF OHIO, INDIANA AND ILLINOIS.      
+ 227  227 5 (P. 172)                                                          
+ 228  228 1 G 14-1-172B   J 28-2-105B    S29       JAN. 22, 1845              
+ 228  228 2 S282015       Y=25 N=18                BATES, MASS.               
+ 228  228 3 TO PASS THE BILL S. 29, REFUNDING AN ASCERTAINED                  
+ 228  228 4 BALANCE DUE THE STATE OF MASSACHUSETTS.  (P. 172)                 
+ 229  229 1 G 14-1-172C   J 28-2-106A    S52       JAN. 22, 1845              
+ 229  229 2 S282016       Y=20 N=23                BAGBY, ALA.                
+ 229  229 3 TO RECOMMIT TO THE COMMITTEE ON MILITARY AFFAIRS, THE BILL        
+ 229  229 4 S. 52, DIRECTING THE SECRETARY OF WAR TO INVESTIGATE              
+ 229  229 5 THE CLAIM OF JOSHUA SHAW AGAINST THE UNITED STATES                
+ 229  229 6 GOVERNMENT, FOR COMPENSATION FOR THE USE OF HIS INVENTION         
+ 229  229 7 BY THE ARMY AND NAVY.  (P. 172)                                   
+ 230  230 1 G 14-1-172D   J 28-2-106B    S52       JAN. 22, 1845              
+ 230  230 2 S282017       Y=26 N=16                CRITTENDEN, KY.            
+ 230  230 3 TO PASS THE BILL S. 52, AUTHORIZING THE SECRETARY OF              
+ 230  230 4 THE TREASURY TO MAKE JUST COMPENSATION TO JOSHUA SHAW NOT         
+ 230  230 5 TO EXCEED THE SUM OF $25,000, FOR THE USE OF HIS INVENTIONS       
+ 230  230 6 BY THE ARMY AND NAVY.  (P. 172)                                   
+ 231  231 1 G 14-1-214A   J 28-2-120A    S46       JAN. 29, 1845              
+ 231  231 2 S282018       Y=18 N=29                HUNTINGTON, CONN.          
+ 231  231 3 TO AMEND THE AMENDMENT TO THE BILL S. 46,                         
+ 231  231 4 (APP. 3/3/1845, 5 STAT. L. 748), REDUCING THE RATES OF            
+ 231  231 5 POSTAGE, LIMITING THE USE AND CORRECTING THE ABUSE OF THE         
+ 231  231 6 FRANKING PRIVILEGE, AND PREVENTING FRAUDS ON THE POST OFFICE      
+ 231  231 7 REVENUES, BY DECREASING THE RATES OF POSTAGE PROPOSED.            
+ 232  232 1 G 14-1-214B   J 28-2-120B    S46       JAN. 29, 1845              
+ 232  232 2 S282019       Y=21 N=25                SIMMONS, R.I.              
+ 232  232 3 TO AMEND S. 46, TO INCREASE FROM 100 TO 250 MILES THE             
+ 232  232 4 DISTANCE TO WHICH THE FIVE CENT POSTAGE EXTENDS.                  
+ 233  233 1 G 14-1-214C   J 28-2-121     S46       JAN. 29, 1845              
+ 233  233 2 S282020       Y=17 N=24                NILES, CONN.               
+ 233  233 3 TO AMEND S. 46 TO ELIMINATE THE FIRST SECTION OF THE BILL         
+ 233  233 4 AND TO PROVIDE THAT 1) POSTAGE RATES ARE DETERMINED               
+ 233  233 5 ACCORDING TO BOTH DISTANCE TRANSMITTED AND WEIGHT OF THE          
+ 233  233 6 LETTER; 2) IT SHALL BE UNLAWFUL TO ENCLOSE MORE THAN ONE          
+ 233  233 7 LETTER TO DIFFERENT PERSONS IN ONE ENVELOPE; 3) A FIXED           
+ 233  233 8 RATE OF POSTAGE SHALL BE SET FOR LETTERS DEPOSITED IN A POST      
+ 233  233 9 OFFICE FOR DELIVERY, RATHER THAN TRANSMISSION; 4) AND THAT        
+ 233  23310 ADVERTISED LETTERS SHALL BE CHARGED A FIXED RATE OF POSTAGE       
+ 233  23311 IN ADDITION TO ADVERTIZING COSTS.                                 
+ 234  234 1 G 14-1-221    J 28-2-125     S46       JAN. 30, 1845              
+ 234  234 2 S282021       Y=27 N=17                BAGBY, ALA.                
+ 234  234 3 TO AMEND S. 46 TO PROVIDE EACH MEMBER OF CONGRESS AND THE         
+ 234  234 4 DELEGATES FROM THE TERRITORIES WITH FIVE FREE COVERS EACH         
+ 234  234 5 DAY TO SEND THROUGHT THE MAIL; THESE COVERS ARE TO BE IN          
+ 234  234 6 LIEU OF THE PRESENT FRANKING PRIVILEGE.  (P. 221)                 
+ 235  235 1 G 14-1-234A   J 28-2-129A    S46       FEB. 3, 1845               
+ 235  235 2 S282022       Y=16 N=24                BAGBY, ALA.                
+ 235  235 3 TO AMEND S. 46 TO PROVIDE EXEMPTION FOR MEMBERS OF CONGRESS,      
+ 235  235 4 DELEGATES FROM TERRITORIES, THE PRESIDING OFFICERS OF THE         
+ 235  235 5 TWO HOUSES OF CONGRESS, THE SECRETARY OF THE SENATE, AND THE      
+ 235  235 6 CLERK OF THE HOUSE OF REPRESENTATIVES FROM THE REPEAL OF          
+ 235  235 7 ANY LAWS PRESENTLY GRANTING THE FRANKING PRIVILEGE.               
+ 236  236 1 G 14-1-234B   J 28-2-129B    S46       FEB. 3, 1845               
+ 236  236 2 S282023       Y=15 N=20                HUNTINGTON, CONN.          
+ 236  236 3 TO AMEND S. 46 TO ELIMINATE THE FRANKING PRIVILEGE                
+ 236  236 4 EXTENDED TO DELEGATES OF CONGRESS, CLERKS OF THE HOUSE AND        
+ 236  236 5 SECRETARY OF THE SENATE, THEREBY PLACING ALL GOVERNMENT           
+ 236  236 6 ADMINISTRATION EMPLOYEES ON THE SAME FOOTING.  (P. 234)           
+ 237  237 1 G 14-1-234C   J 28-2-129C    S46       FEB. 3, 1845               
+ 237  237 2 S282024       Y=21 N=18                HUNTINGTON, CONN.          
+ 237  237 3 TO AMEND S. 46 TO ALLOW PUBLISHERS OF NEWSPAPERS AND              
+ 237  237 4 PERIODICALS THE RIGHT OF TRANSMITTING THEM TO THEIR               
+ 237  237 5 SUBSCRIBERS IN ANY MANNER THEY CHOOSE.  (P. 234)                  
+ 238  238 1 G 14-1-248    J 28-2-136     S118      FEB. 5, 1845               
+ 238  238 2 S282025       Y=22 N=23                BERRIEN, GA.               
+ 238  238 3 TO REFER TO THE COMMITTEE ON FOREIGN RELATIONS, THE BILL          
+ 238  238 4 S. 118, TO PROVIDE FOR THE ANNEXATION OF TEXAS TO                 
+ 238  238 5 THE UNITED STATES.  (P. 248)                                      
+ 239  239 1 G 14-1-252A   J 28-2-138     S46       FEB. 6, 1845               
+ 239  239 2 S282026       Y=17 N=23                BUCHANAN, PA.              
+ 239  239 3 TO AMEND THE AMENDMENT TO S. 46 TO DENY MEMBERS OF CONGRESS       
+ 239  239 4 THE PRIVILEGE OF FRANKING PERSONAL LETTERS.  (P. 252)             
+ 240  240 1 G 14-1-252B   J 28-2-139     S46       FEB. 6, 1845               
+ 240  240 2 S282027       Y=19 N=22                SIMMONS, R.I.              
+ 240  240 3 TO AMEND S. 46 TO PERMIT THE MEMBERS OF CONGRESS THE              
+ 240  240 4 PRIVILEGE OF FRANKING THEIR WRITTEN LETTERS NOT EXCEEDING         
+ 240  240 5 TWO OUNCES IN WEIGHT, AND PRINTED COPIES OF SPEECHES              
+ 240  240 6 DELIVERED IN CONGRESS.                                            
+ 241  241 1 G 14-1-252C   J 28-2-140A    S46       FEB. 6, 1845               
+ 241  241 2 S282028       Y=35 N=2                 BUCHANAN, PA.              
+ 241  241 3 TO CONCUR IN THE AMENDMENT TO S. 46, SAID AMENDMENT TO            
+ 241  241 4 STRIKE OUT SECTION 9 OF THE BILL. SECTION 9 PROVIDES FOR THE      
+ 241  241 5 ABOLITION OF THE FRANKING PRIVILEGE.                              
+ 242  242 1 G 14-1-253A   J 28-2-140B    S46       FEB. 6, 1845               
+ 242  242 2 S282029       Y=33 N=9                                            
+ 242  242 3 TO CONCUR IN THE AMENDMENT TO S. 46 TO GIVE THE POSTMASTER        
+ 242  242 4 GENERAL AUTHORITY ONLY OVER PUBLICATIONS SENT THROUGH THE         
+ 242  242 5 MAIL, AND TO LEAVE PUBLISHERS FREE TO SEND THEM WHERE, WHEN       
+ 242  242 6 AND HOW THEY PLEASE.  (P. 253)                                    
+ 243  243 1 G 14-1-253B   J 28-2-140C    S46       FEB. 6, 1845               
+ 243  243 2 S282030       Y=33 N=14                SIMMONS, R.I.              
+ 243  243 3 TO AMEND S. 46 TO ESTABLISH A UNIFORM RATE OF 5 CENTS             
+ 243  243 4 POSTAGE FOR ALL DISTANCES.  (P. 253)                              
+ 244  244 1 G 14-1-254    J 28-2-141     S46       FEB. 6, 1845               
+ 244  244 2 S282031       Y=24 N=16                HUGER, S.C.                
+ 244  244 3 TO RECONSIDER THE VOTE BY WHICH AN AMENDMENT TO S. 46, TO         
+ 244  244 4 LIMIT THE RATES ALLOWED TO RAILROADS TRANSPORTING MAIL, WAS       
+ 244  244 5 AGREED TO.  (P. 254)                                              
+ 245  245 1 G 14-1-257A   J 28-2-146     S46       FEB. 7, 1845               
+ 245  245 2 S282032       Y=22 N=21                BAGBY, ALA.                
+ 245  245 3 TO ADOPT THE AMENDMENT TO S. 46 TO ALLOW MEMBERS OF CONGRESS      
+ 245  245 4 TO MAIL THEIR OWN LETTERS FREE DURING THE WHOLE YEAR.             
+ 246  246 1 G 14-1-257B   J 28-2-147A    S46       FEB. 7, 1845               
+ 246  246 2 S282033       Y=18 N=27                FOSTER, TENN.              
+ 246  246 3 TO AMEND S. 46, BY PROVIDING THAT WHEN THE COMPENSATION OF        
+ 246  246 4 THE DEPUTY POSTMASTERS FALLS SHORT OF THAT WHICH THEY             
+ 246  246 5 RECEIVED IN 1844, AS LONG AS IT DOES NOT EXCEED $50, THE          
+ 246  246 6 DIFFERENCE SHALL BE MADE GOOD OUT OF THE POSTAGE HE RE-           
+ 246  246 7 CEIVES.  THIS IS EFFECTIVE EVEN IF THE DEFICIENCY AMOUNTS TO      
+ 246  246 8 THE WHOLE POSTAGE HE RECEIVES, BUT NEVER TO EXCEED HIS            
+ 246  246 9 RECEIPTS.  (P. 257)                                               
+ 247  247 1 G 14-1-258    J 28-2-147B    S46       FEB. 7, 1845               
+ 247  247 2 S282034       Y=17 N=29                ATHERTON, N.H.             
+ 247  247 3 TO AMEND S. 46 BY INSERTING THE CLAUSE, "THAT THE RATE OF         
+ 247  247 4 POSTAGE ON LETTERS CONVEYED BY MAIL ANY DISTANCE NOT              
+ 247  247 5 EXCEEDING 50 MILES SHALL BE 3 CENTS".  (P. 258)                   
+ 248  248 1 G 14-1-264    J 28-2-151     S46       FEB. 8, 1845               
+ 248  248 2 S282035       Y=38 N=12                MERRICK, MD.               
+ 248  248 3 TO PASS S. 46 WITH THE AMENDMENT PROVIDING FOR THE                
+ 248  248 4 ELIMINATION OF THE 16TH SECTION AND EXTENDING THE FRANKING        
+ 248  248 5 PRIVILEGE TO EX-PRESIDENTS.  (P. 264)                             
+ 249  249 1 G 14-1-267A   J 28-2-155A    S47       FEB. 10, 1845              
+ 249  249 2 S282036       Y=26 N=15                CHOATE, MASS.              
+ 249  249 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL                
+ 249  249 4 (S. 47, TO PROVIDE FOR ASCERTAINING OF CLAIMS OF                  
+ 249  249 5 AMERICAN CITIZENS FOR SPOLIATION PRIOR TO JULY 31, 1801.          
+ 249  249 6 (P. 267)                                                          
+ 250  250 1 G 14-1-267B   J 28-2-155B    S75       FEB. 10, 1845              
+ 250  250 2 S282037       Y=28 N=17                MILLER, N.J.               
+ 250  250 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL                
+ 250  250 4 S. 75, PROVIDING FOR A FREE BRIDGE ACROSS THE                     
+ 250  250 5 EASTERN BRANCH OF THE POTOMAC RIVER IN THE CITY OF                
+ 250  250 6 WASHINGTON.  (P. 267)                                             
+ 251  251 1 G 14-1-271    J 28-2-160     HR440     FEB. 11, 1845              
+ 251  251 2 S282038       Y=30 N=18                CHOATE, MASS.              
+ 251  251 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL                
+ 251  251 4 H.R. 440, (APP. 2/20/1845, 5 STAT. L. 722), FOR THE PURCHASE      
+ 251  251 5 OF COPIES OF GREENBOWS HISTORY OF OREGON.  (P. 272)               
+ 252  252 1 G 14-1-272A   J 28-2-161A    S119      FEB. 11, 1845              
+ 252  252 2 S282039       Y=26 N=19                DAYTON, N.J.               
+ 252  252 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL                
+ 252  252 4 S. 119, TO PROVIDE FOR THE PURCHASE AND DISTRIBUTION              
+ 252  252 5 OF THE REPORTS OF THE DECISIONS OF THE SUPREME COURT OF THE       
+ 252  252 6 UNITED STATES AMONG THE SEVERAL STATES AND TERRITORIES.           
+ 252  252 7 (P. 272)                                                          
+ 253  253 1 G 14-1-272B   J 28-2-161B    S77       FEB. 11, 1845              
+ 253  253 2 S282040       Y=17 N=21                BAYARD, DEL.               
+ 253  253 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL                
+ 253  253 4 S. 77, AUTHORIZING THE APPOINTMENT OF ASSISTANT                   
+ 253  253 5 SURGEONS AND PURSERS IN THE NAVY.                                 
+ 254  254 1 G 14-1-272C   J 28-2-162     S63       FEB. 11, 1845              
+ 254  254 2 S282041       Y=19 N=16                PHELPS, VT.                
+ 254  254 3 TO POSTPONE INDEFINITELY, FURTHER CONSIDERATION OF THE BILL       
+ 254  254 4 S. 63, CONFIRMING TITLE TO A TRACT OF LAND IN THE                 
+ 254  254 5 TERRITORY OF IOWA TO THE HEIRS OF JULIAN DUBUQUE.                 
+ 255  255 1 G 14-1-278    J 28-2-168     S119      FEB. 13, 1845              
+ 255  255 2 S282042       Y=21 N=20                DAYTON, N.J.               
+ 255  255 3 TO PASS S. 119 AS AMENDED, A BILL PROVIDING FOR                   
+ 255  255 4 THE PURCHASE OF UNITED STATES SURPREME COURT DECISIONS FOR        
+ 255  255 5 DISTRIBUTION AMONG THE SEVERAL STATES AND TERRITORIES.            
+ 255  255 6 (P. 278)                                                          
+ 256  256 1 G 14-1-287    J 28-2-172     HR497     FEB. 14, 1845              
+ 256  256 2 S282043       Y=24 N=23                EVANS, ME.                 
+ 256  256 3 TO REFER TO THE COMMITTEE ON JUDICIARY THE BILL H.R. 497,         
+ 256  256 4 (APP. 3/3/1845, 76 STAT. L. 789) AND (48-5 STAT. L. 742) TO       
+ 256  256 5 PROVIDE FOR THE ADMISSION OF THE STATES OF IOWA AND               
+ 256  256 6 FLORIDA INTO THE UNION.  (P. 287)                                 
+ 257  257 1 G 14-1-292    J 28-2-175     SRE       FEB. 15, 1845              
+ 257  257 2 S282044       Y=24 N=22                ARCHER, VA.                
+ 257  257 3 TO POSTPONE UNTIL WEDNESDAY NEXT THE CONSIDERATION OF THE         
+ 257  257 4 RESOLUTION PROVIDING THAT THE DAILY HOUR OF THE MEETING OF        
+ 257  257 5 THE SENATE SHALL BE AT 11 O'CLOCK.  (P. 292)                      
+ 258  258 1 G 14-1-308A   J 28-2-186A    SRE       FEB. 19, 1845              
+ 258  258 2 S282045       Y=22 N=21                ALLEN, OHIO                
+ 258  258 3 TO AMEND THE RESOLUTION WHICH FIXED THE HOUR FOR THE              
+ 258  258 4 MEETING OF THE SENATE AT ELEVEN O'CLOCK, THE AMENDMENT TO         
+ 258  258 5 CHANGE THE HOUR TO TEN O'CLOCK.  (P. 308)                         
+ 259  259 1 G 14-1-308B   J 28-2-186B    SRE       FEB. 19, 1845              
+ 259  259 2 S282046       Y=26 N=20                BAGBY, ALA.                
+ 259  259 3 TO ADOPT THE RESOLUTION AS AMENDED, FIXING THE HOUR FOR THE       
+ 259  259 4 MEETING OF THE SENATE AT TEN O'CLOCK INSTEAD OF ELEVEN            
+ 259  259 5 O'CLOCK.  (P. 308)                                                
+ 260  260 1 G 14-1-314    J 28-2-187     SRE       FEB. 20, 1845              
+ 260  260 2 S282047       Y=25 N=21                WHITE, IND.                
+ 260  260 3 TO RECONSIDER THE RESOLUTION FIXING THE HOUR OF MEETING OF        
+ 260  260 4 THE SENATE AT 10 O'CLOCK.  (P. 314)                               
+ 261  261 1 G 14-1-315    J 28-2-189     SRE       FEB. 20, 1845              
+ 261  261 2 S282048       Y=23 N=23                ALLEN, OHIO                
+ 261  261 3 TO ADOPT A RESOLUTION THAT THE SPECIAL ORDER OF THE DAY BE        
+ 261  261 4 HEREAFTER CALLED BY THE CHAIR AT TWELVE O'CLOCK.  (P. 315)        
+ 262  262 1 G 14-1-330    J 28-2-200     HJR46     FEB. 24, 1845              
+ 262  262 2 S282049       Y=24 N=21                DAYTON, N.J.               
+ 262  262 3 TO ADJOURN, IN ORDER TO TERMINATE FOR THE TIME BEING, THE         
+ 262  262 4 DEBATE ON THE RESOLUTION H.J. RES. 46, (APP. 3/1/1845,            
+ 262  262 5 C8-5 STAT. L. 797), PROVIDING FOR THE ANNEXATION OF TEXAS         
+ 262  262 6 TO THE UNITED STATES.  (P. 330)                                   
+ 263  263 1 G 14-1-332    J 28-2-202     HR493     FEB. 24, 1845              
+ 263  263 2 S282050       Y=32 N=10                EVANS, ME.                 
+ 263  263 3 TO PASS THE BILL H.R. 493 (APP. 3/3/1845, 5 STAT. L. 742),        
+ 263  263 4 TO MAKE APPROPRIATIONS FOR THE SUPPORT OF THE MILITARY            
+ 263  263 5 ACADEMY AT WEST POINTE FOR FISCAL 1846.  (P. 332)                 
+ 264  264 1 G 14-1-334    J 28-2-204     HJR46     FEB. 24, 1845              
+ 264  264 2 S282051       Y=30 N=11                ARCHER, VA.                
+ 264  264 3 TO PROCEED TO CONSIDERATION OF H.J.R. 46.  (P. 334)               
+ 265  265 1 G 14-1-352B   J 28-2-212     HJR46     FEB. 26, 1845              
+ 265  265 2 S282052       Y=21 N=23                BATES, MASS.               
+ 265  265 3 TO ADJOURN, DURING DEBATE ON THE RESOLUTION H.J.R. 46.            
+ 265  265 4 (P. 352)                                                          
+ 266  266 1 G 14-1-352B   J 28-2-213     HJR46     FEB. 26, 1845              
+ 266  266 2 S282053       Y=26 N=26                DAYTON, N.J.               
+ 266  266 3 TO ADJOURN BECAUSE OF THE LATENESS OF THE HOUR, DURING            
+ 266  266 4 DEBATE ON THE RESOLUTION H.J.R. 46.  (P. 352)                     
+ 267  267 1 G 14-1-360A   J 28-2-215A    HJR46     FEB. 27, 1845              
+ 267  267 2 S282054       Y=18 N=33                FOSTER, TENN.              
+ 267  267 3 TO CONSIDER THE FIRST DIVISION OF THE AMENDMENT OF H.J.R. 46      
+ 267  267 4 TO ADMIT THE STATE OF TEXAS AND ANY OTHER TERRITORY               
+ 267  267 5 CONTAINED IN ANY PORTION OF THE PRESENT TERRITORY OF TEXAS,       
+ 267  267 6 LYING SOUTH 36 DEGREES, 30 MINUTES, NORTH LATITUDE (KNOWN AS      
+ 267  267 7 THE MISSOURI COMPROMISE LINE), INTO THE UNION WITH OR             
+ 267  267 8 WITHOUT SLAVERY, AS THE PEOPLE OF EACH STATE MAY DIRECT.          
+ 267  267 9 (P. 360)                                                          
+ 268  268 1 G 14-1-360B   J 28-2-215B    HJR46     FEB. 27, 1845              
+ 268  268 2 S282055       Y=20 N=31                FOSTER, TENN.              
+ 268  268 3 TO CONSIDER THE SECOND DIVISION OF THE AMENDMENT TO H.J.R.46      
+ 268  268 4 TO PROVIDE AGAINST THE PUBLIC DEBT OF TEXAS BECOMING A            
+ 268  268 5 CHARGE UPON THE UNITED STATES.  (P. 361)                          
+ 269  269 1 G 14-1-360B   J 28-2-216A    HJR46     FEB. 27, 1845              
+ 269  269 2 S282056       Y=26 N=26                ARCHER, VA.                
+ 269  269 3 TO AMEND H.J.R.46, BY ELIMINATING THE RESOLUTION WHICH            
+ 269  269 4 REQUESTED THE PRESIDENT TO ORDER NEGOTIATIONS TO BE ENTERED       
+ 269  269 5 INTO WITH THE GOVERNMENT OF TEXAS, FOR THE PURPOSE OF             
+ 269  269 6 ANNEXING TEXAS INTO THE UNITED STATES.  (P. 360)                  
+ 270  270 1 G 14-1-360D   J 28-2-216B    HJR46     FEB. 27, 1845              
+ 270  270 2 S282057       Y=27 N=25                WALKER, MISS.              
+ 270  270 3 TO AMEND IN THE COMMITTEE OF THE WHOLE, H.J.R.46, AMENDMENT       
+ 270  270 4 BEING THAT IF THE PRESIDENT OF THE U.S., SHALL DEEM IT            
+ 270  270 5 ADVISABLE, INSTEAD OF PROCEEDING TO SUBMIT THE FOREGOING          
+ 270  270 6 RESOLUTION TO THE REPRESENTATIVES OF TEXAS, AS AN OVERTURE        
+ 270  270 7 ON THE PART OF THE U.S. FOR ADMISSION TO NEGOTIATE WITH THAT      
+ 270  270 8 REPUBLIC, THEN, BE IT RESOLVED, THAT A STATE BE FORMED OUT        
+ 270  270 9 OF THE PRESENT REPUBLIC OF TEXAS, AND TO AGREE UPON THE           
+ 270  27010 TERMS OF SAID ADMISSION AND CESSION, EITHER BY TREATY TO BE       
+ 270  27011 SUBMITTED TO THE SENATE, OR BY ARTICLES TO BE SUBMITTED TO        
+ 270  27012 THE HOUSE OF CONGRESS, AS THE PRESIDENT MAY DIRECT.               
+ 271  271 1 G 14-1-361    J 28-2-217A    HJR46     FEB. 27, 1845              
+ 271  271 2 S282058       Y=25 N=26                BERRIEN, GA.               
+ 271  271 3 TO AMEND AN AMENDMENT TO H.J.R.46 TO ELIMINATE THE HOUSE          
+ 271  271 4 GRANTING THE AUTHORITY TO THE PRESIDENT TO DIRECT THE TWO         
+ 271  271 5 HOUSES OF CONGRESS IN AGREEING TO THE TERMS OF THE                
+ 271  271 6 ADMISSION OF TEXAS.  (P. 361)                                     
+ 272  272 1 G 14-1-361A   J 28-2-217B    HJR46     FEB. 27, 1845              
+ 272  272 2 S282059       Y=27 N=25                WALKER, MISS.              
+ 272  272 3 TO CONCUR IN THE AMENDMENT TO H.J.R.46, AS IN THE COMMITTEE       
+ 272  272 4 OF THE WHOLE, AMENDMENT PROPOSING THAT THE PRESIDENT MAY,         
+ 272  272 5 INSTEAD OF PROCEEDING TO SUBMIT THE FOREGOING RESOLUTION TO       
+ 272  272 6 THE REPUBLIC OF TEXAS, AS AN OVERTURE ON THE PART OF THE          
+ 272  272 7 UNITED STATES FOR ADMISSION TO NEGOTIATE WITH THAT                
+ 272  272 8 REPUBLIC, THEN LET IT BE RESOLVED, THAT, A STATE BE FORMED        
+ 272  272 9 OF THE PRESENT REPUBLIC OF TEXAS, AND THE TERMS OF SAID           
+ 272  27210 ADMISSION AND CESSION SHALL BE AGREED UPON EITHER BY              
+ 272  27211 TREATYS OR BY ARTICLES.                                           
+ 273  273 1 G 14-1-362B   J 28-2-218     HJR46     FEB. 27, 1845              
+ 273  273 2 S282060       Y=24 N=28                CRITTENDEN, KY.            
+ 273  273 3 TO AMEND H.J.R.46 TO PREVENT THE PUBLIC DEBT OF TEXAS FROM        
+ 273  273 4 BECOMING CHARGED UPON THE UNITED STATES GOVERNMENT, ALSO TO       
+ 273  273 5 OUTLINE STIPULATIONS FOR ADMISSION TO THE UNION CONCERNING        
+ 273  273 6 THE FORMATION OF MORE THAN ONE STATE FROM THE TERRITORY OF        
+ 273  273 7 TEXAS, AND ITS DECISIONS INTO SLAVE-HOLDING AND                   
+ 273  273 8 NON-SLAVE-HOLDING TERRITORY. (JOURNAL VERSION). TO                
+ 273  273 9 ELIMINATE FROM H.J.R.46 ALL THAT PORTION INSERTED BY THE          
+ 273  27310 HOUSE, THUS TO MAKE THE STATE'S ADMISSION INTO THE UNION          
+ 273  27311 DEFINITE, AND TO TAKE AWAY THE DISCRETIONARY POWER OF THE         
+ 273  27312 PRESIDENT TO HAVE TEXAS ADMITTED BY TREATY IF AGREED TO,          
+ 273  27313 BUT IF TO BE ADMITTED BY RESOLUTION, TO REPORT IT BACK TO         
+ 273  27314 CONGRESS. (GLOBE VERSION).  (P. 362)                              
+ 274  274 1 G 14-1-362C   J 28-2-219A    HJR46     FEB. 27, 1845              
+ 274  274 2 S282061       Y=16 N=33                FOSTER, TENN.              
+ 274  274 3 TO AMEND THE AMENDMENT TO H.J.R.46 TO STIPULATE THAT A            
+ 274  274 4 CERTAIN AREA OF THE TERRITORY OF TEXAS SHALL OR SHALL NOT         
+ 274  274 5 HAVE SLAVERY AS THE PEOPLE OF THAT TERRITORY DECIDE. ALSO         
+ 274  274 6 TO PREVENT THE PUBLIC DEBT OF TEXAS FROM BEING CHARGED TO         
+ 274  274 7 THE UNITED STATES.                                                
+ 275  275 1 G 14-1-362D   J 28-2-219B    HJR46     FEB. 27, 1845              
+ 275  275 2 S282062       Y=25 N=27                ARCHER, VA.                
+ 275  275 3 TO AMEND H.J.R.46 IN THE FORM OF A SUBSTITUTE, WHICH              
+ 275  275 4 REQUESTS THE PRESIDENT TO NEGOTIATE WITH TEXAS FOR TRANSFER       
+ 275  275 5 TO THE UNITED STATES OF THE TERRITORY, WITH ALL RIGHTS,           
+ 275  275 6 THERETO, THEREBY INCORPORATING THE STATE INTO THE UNION           
+ 275  275 7 UNDER A TREATY.  (P. 362)                                         
+ 276  276 1 G 14-1-362E   J 28-2-220A    HJR46     FEB. 27, 1845              
+ 276  276 2 S282063       Y=11 N=33                MILLER, N.J.               
+ 276  276 3 TO AMEND H.J.R. 46, BY AUTHORIZING THE                            
+ 276  276 4 PRESIDENT TO NEGOTIATE WITH MEXICO AND TEXAS FOR ADJUSTING        
+ 276  276 5 BOUNDARIES AND TO ANNEX TEXAS ON EQUAL FOOTING WITH THE           
+ 276  276 6 ORIGINAL STATES, AND TO DIVIDE IT EQUALLY AMONG                   
+ 276  276 7 SLAVE-HOLDERS AND NON-SLAVE-HOLDERS; OTHER DETAILS TO COME        
+ 276  276 8 WITHIN THE SCOPE OF HIS POWER.  (P. 362-3)                        
+ 277  277 1 G 14-1-362F   J 28-2-220B    HJR46     FEB. 27, 1845              
+ 277  277 2 S282064       Y=27 N=25                ASHLEY, ARK.               
+ 277  277 3 TO ORDER ENGROSSMENT AND THIRD READING OF H.J.R.46.               
+ 277  277 4 (P. 362)                                                          
+ 278  278 1 G 14-1-365A   J 28-2-223A    S87       FEB. 28, 1845              
+ 278  278 2 S282065       Y=18 N=15                WALKER, MISS.              
+ 278  278 3 TO PASS THE BILL S. 87, ENABLING THE CHICKASAW                    
+ 278  278 4 NATION OF INDIANS TO TRY THE VALIDITY OF THEIR CLAIMS IN          
+ 278  278 5 THE COURTS OF THE UNITED STATES.  (P. 365)                        
+ 279  279 1 G 14-1-365C   J 28-2-223B    S84       FEB. 28, 1845              
+ 279  279 2 S282066       Y=22 N=18                EVANS, ME.                 
+ 279  279 3 TO PASS THE BILL S. 84, FOR THE RELIEF OF THE STATE               
+ 279  279 4 OF MICHIGAN AND CERTAIN RAILROAD COMPANIES, EXTENDING THE         
+ 279  279 5 TIME ORIGINALLY ALLOWED TO TRANSPORT CERTAIN RAILROAD IRON,       
+ 279  279 6 WHICH THEY WERE HERETOFORE AUTHORIZED TO INPORT DUTY FREE.        
+ 279  279 7 (P. 365)                                                          
+ 280  280 1 G 14-1-366    J 28-2-224     HR497     FEB. 28, 1845              
+ 280  280 2 S282067       Y=23 N=26                ALLEN, OHIO                
+ 280  280 3 TO POSTPONE THE ORDER OF THE DAY, MADE DURING DEBATE ON THE       
+ 280  280 4 BILL H.R. 497, (APP. 3/3/1845, C-76-5 STAT. 789)                  
+ 280  280 5 (C-48-5 STAT. 742) PROVIDING FOR THE ADMISSION OF THE             
+ 280  280 6 STATES OF IOWA AND FLORIDA INTO THE UNION.  (P. 366)              
+ 281  281 1 G 14-1-368    J 28-2-225     HR497     FEB. 28, 1845              
+ 281  281 2 S282068       Y=20 N=24                BENTON, MO.                
+ 281  281 3 TO CONCUR IN THE AMENDMENT TO THE BILL H.R. 498                   
+ 281  281 4 (APP. 3/3/1845), MAKING APPROPRIATIONS FOR THE CIVIL AND          
+ 281  281 5 DIPLOMATIC GOVERNMENT EXPENSES FOR FISCAL 1846, WHICH WOULD       
+ 281  281 6 PROVIDE FOR THE ADJUSTMENT AND SETTLEMENT OF THE APRIL AND        
+ 281  281 7 JULY INSTALLMENTS OF THE MEXICAN INDEMNITIES IN THE SUM OF        
+ 281  281 8 $275,000.  (P. 368)                                               
+ 282  282 1 G 14-1-369    J 28-2-226     HR498     FEB. 28, 1845              
+ 282  282 2 S282069       Y=23 N=18                BENTON, MO.                
+ 282  282 3 TO CONCUR, UPON RECONSIDERATION, IN THE AMENDMENT APPROVED        
+ 282  282 4 IN THE COMMITTEE OF THE WHOLE, TO THE BILL H.R. 498,              
+ 282  282 5 (APP. 3/3/1845) WHICH MAKES APPROPRIATIONS FOR THE CIVIL AND      
+ 282  282 6 DIPLOMATIC EXPENSES OF THE GOVERNMENT FOR FISCAL 1846, SAID       
+ 282  282 7 AMENDMENT TO AUTHORIZE THE PAYMENT OF THE APR. AND JULY           
+ 282  282 8 INSTALLMENTS OF THE MEXICAN INDEMNITIES DUE 1844, BY              
+ 282  282 9 APPROPRIATING $275,000 FOR THE PAYMENT THEREOF, IT APPEARING      
+ 282  28210 THAT THIS SUM HAD BEEN DULY PAID TO AN AUTHORIZED AGENT OF        
+ 282  28211 THE U.S. GOVERNMENT.  (P. 368)                                    
+ 283  283 1 G 14-1-376    J 28-2-229A    S46       MAR. 1, 1845               
+ 283  283 2 S282070       Y=35 N=7                 MERRICK, MD.               
+ 283  283 3 TO CONCUR IN AMENDMENTS OF THE HOUSE TO S. 46 WHICH               
+ 283  283 4 CONFIRMS THE RATE OF 5 CENTS POSTAGE FOR DISTANCES WITHIN         
+ 283  283 5 300 MILES AND INCREASING THE RATE TO 10 CENTS FOR GREATER         
+ 283  283 6 DISTANCES.  (P. 376)                                              
+ 284  284 1 G 14-1-376    J 28-2-229B    S46       MAR. 1, 1845               
+ 284  284 2 S282071       Y=25 N=18                BENTON, MO.                
+ 284  284 3 TO AGREE TO THE AMENDMENT TO S.46, AS MODIFIED, TO PERMIT         
+ 284  284 4 THE FRANKING PRIVILEGE, IN RECEIVING AS WELL AS SENDING           
+ 284  284 5 LETTERS, TO THE SENATORS AND WOULD EXTEND THIS PRIVILEGE TO       
+ 284  284 6 THE VICE-PRESIDENT.  (P. 376)                                     
+ 285  285 1 G 14-1-376    J 28-2-229C    S46       MAR. 1, 1845               
+ 285  285 2 S282072       Y=20 N=26                SIMMONS, R.I.              
+ 285  285 3 TO RECONSIDER THE VOTE CONCURRING IN THE TWO AMENDMENTS TO        
+ 285  285 4 S.46 FOR THE PURPOSE OF HAVING THE SENATE VOTE AGAIN ON           
+ 285  285 5 AMENDMENTS WHICH POSTPONE ALL NEW RATES UNTIL JULY 1ST NEXT       
+ 285  285 6 AND FIXES A RATE OF 5 CENTS FOR 300 MILES AND 10 CENTS FOR        
+ 285  285 7 ALL GREATER DISTANCES.  (P. 376)                                  
+ 286  286 1 G 14-1-377    J 28-2-230A    HJR71     MAR. 1, 1845               
+ 286  286 2 S282073       Y=18 N=26                HANNEGAN, IND.             
+ 286  286 3 TO TABLE THE RESOLUTION H.J.R.71, (APP. 3/3/1845, 5 STAT. L.      
+ 286  286 4 801) TO DIRECT THE SECRETARY OF THE TREASURY TO RETAIN ANY        
+ 286  286 5 FUNDS TO THOSE STATES WHICH HAVE DEFAULTED IN THEIR INTEREST      
+ 286  286 6 OR PRINCIPAL ON INVESTMENTS IN THE STOCKS OR BONDS HELD BY        
+ 286  286 7 THE UNITED STATES IN TRUST.  (P. 377)                             
+ 287  287 1 G 14-1-377A   J 28-2-230B    HJR71     MAR. 1, 1845               
+ 287  287 2 S282074       Y=18 N=28                DICKINSON, N.Y.            
+ 287  287 3 TO TABLE H.J.R.71.  (P. 377)                                      
+ 288  288 1 G 14-1-377B   J 28-2-230C    HJR71     MAR. 1, 1845               
+ 288  288 2 S282075       Y=29 N=18                EVANS, ME.                 
+ 288  288 3 TO ORDER ENGROSSMENT AND THIRD READING OF H.J.R.71.               
+ 288  288 4 (P. 377)                                                          
+ 289  289 1 G 14-1-383A   J 28-2-233A    HR497     MAR. 1, 1845               
+ 289  289 2 S282076       Y=12 N=35                EVANS, ME.                 
+ 289  289 3 TO AMEND THE BILL H.R. 497, (APP. 3/3/1845, C 76-5 STAT. 789      
+ 289  289 4 C 48-5 STAT. 742) ADMITTING IOWA AND FLORIDA INTO THE UNION,      
+ 289  289 5 THE AMENDMENT BEING, TO ADD A PROVISO TO THE BILL, THAT AS        
+ 289  289 6 FAR AS RELATES TO FLORIDA, THIS ACT SHALL NOT BE EFFECTIVE        
+ 289  289 7 UNTIL THE FOLLOWING CLAUSES ARE ELIMINATED FROM THE               
+ 289  289 8 CONSTITUTION OF FLORIDA; THE FIRST SECTION: 1) THAT THE           
+ 289  289 9 GENERAL ASSEMBLY SHALL HAVE NO POWER TO PASS LAWS FOR             
+ 289  28910 EMANCIPATION OF SLAVES; AND THE THIRD SECTION 3) THAT THEY        
+ 289  28911 HAVE NOT POWER TO PASS LAWS TO PREVENT FREE NEGROES OR OTHER      
+ 289  28912 PERSONS OF COLOR, FROM IMIGRATING TO THIS STATE.  (P. 383)        
+ 290  290 1 G 14-1-383B   J 28-2-233B    HR497     MAR. 1, 1845               
+ 290  290 2 S282077       Y=36 N=9                 BERRIEN, GA.               
+ 290  290 3 TO PASS H.R. 497.  (P. 383)                                       
+ 291  291 1 G 14-1-388    J 28-2-238     HR439     MAR. 3, 1845               
+ 291  291 2 S282078       Y=21 N=23                ALLEN, OHIO                
+ 291  291 3 TO POSTPONE PREVIOUS ORDERS AND TAKE UP FOR CONSIDERATION,        
+ 291  291 4 THE BILL, H.R. 439, ORGANIZING A TERRITORIAL                      
+ 291  291 5 GOVERNMENT IN THE TERRITORY OF OREGON.  (P. 388)                  
+ 292  292 1 G 14-1-389A   J 28-2-241     HR491     MAR. 3, 1845               
+ 292  292 2 S282079       Y=20 N=21                EVANS, ME.                 
+ 292  292 3 TO AMEND THE AMENDMENT TO THE BILL H.R. 491,                      
+ 292  292 4 (APP. 3/3/1845, 5 STAT. 766), WHICH IS THE INDIAN                 
+ 292  292 5 APPROPRIATION BILL FOR FISCAL 1846. SAID AMENDMENT WOULD          
+ 292  292 6 PROVIDE FOR ONE YEAR, SUBSISTENCE TO THOSE INDIANS WHO HAVE       
+ 292  292 7 BEEN REMOVED TO RESERVATIONS.  (P. 389)                           
+ 293  293 1 G 14-1-389B   J 28-2-242     HR491     MAR. 3, 1845               
+ 293  293 2 S282080       Y=31 N=2                 EVANS, ME.                 
+ 293  293 3 TO AMEND THE BILL H.R. 491, (APP. 3/3/1845, 5 STAT. 766),         
+ 293  293 4 THE INDIAN APPROPRIATION BILL TO OUTLINE THE CONDITIONS AND       
+ 293  293 5 PROCEDURES FOR ISSUING MONEY TO THOSE INDIANS REMOVED TO          
+ 293  293 6 RESERVATIONS.  (P. 389)                                           
+ 294  294 1 G 14-1-389C   J 28-2-243     SRE       MAR. 3, 1845               
+ 294  294 2 S282081       Y=27 N=16                WHITE, IND.                
+ 294  294 3 TO ADOPT THE RESOLUTION DIRECTING PAYMENT OUT OF THE              
+ 294  294 4 CONTINGENT FUND OF THE USUAL EXTRA ALLOWANCES TO THE CLERKS       
+ 294  294 5 AND OFFICERS OF THE SENATE, THE SAME AMOUNTS RESPECTIVELY AS      
+ 294  294 6 WERE PAID THEM UNDER A SIMILAR RESOLUTION AT THE LAST             
+ 294  294 7 SESSION.  (P. 389)                                                
+ 295  295 1 G 14-1-389D   J 28-2-244A    SRE       MAR. 3, 1845               
+ 295  295 2 S282082       Y=22 N=23                WOODBURY, N.H.             
+ 295  295 3 TO TABLE THE MOTION TO PRINT 5000 EXTRA COPIES OF THE             
+ 295  295 4 REPORT OF THE COMMITTEE ON THE JUDICIARY CONCERNING THE           
+ 295  295 5 INVESTIGATION OF NATURALIZATION LAWS AND THE ABUSES OF THE        
+ 295  295 6 ELECTIVE FRANCHISE.  (P. 389)                                     
+ 296  296 1 G 14-1-390A   J 28-2-244B    SRE       MAR. 3, 1845               
+ 296  296 2 S282083       Y=24 N=22                ARCHER, VA.                
+ 296  296 3 TO MOVE TO PRINT 5,000 EXTRA COPIES OF THE REPORT FROM THE        
+ 296  296 4 COMMITTEE ON THE JUDICIARY CONCERNING THE INVESTIGATION INTO      
+ 296  296 5 THE ALLEGED VIOLATIONS OF THE NATURALIZATION AND ELECTION         
+ 296  296 6 LAWS.  (P. 390)                                                   
+ 297  297 1 G 14-1-390B   J 28-2-252     HR502     MAR. 3, 1845               
+ 297  297 2 S282084       Y=19 N=27                MCDUFFIE, S.C.             
+ 297  297 3 TO AMEND THE BILL H.R. 502 (APP. 3/3/1845, 5 STAT. 790),          
+ 297  297 4 MAKING APPROPRIATIONS FOR THE NAVAL SERVICE FOR FISCAL 1846,      
+ 297  297 5 TO PROVIDE COMPENSATION TO THE HEIRS OF ROBERT FULTON FOR         
+ 297  297 6 HIS CLAIM AGAINST THE UNITED STATES.  (P. 390)                    
+ 298  298 1 G 14-1-391A   J 28-2-253A    HR501     MAR. 3, 1845               
+ 298  298 2 S282085       Y=19 N=22                EVANS, ME.                 
+ 298  298 3 TO AMEND THE BILL H.R. 501 (APP. 3/3/1845, 5 STAT. 745),          
+ 298  298 4 MAKING APPROPRIATIONS FOR THE SUPPORT OF THE ARMY FOR             
+ 298  298 5 FISCAL 1846, WHICH AMENDMENT ELIMINATES THE SUM OF $20,000        
+ 298  298 6 TO BE EXPENDED UNDER THE DIRECTION OF THE SECRETARY OF WAR,       
+ 298  298 7 FOR AN ARMORY AT FORT MASSAC IN THE STATE OF ILL.  (P. 391)       
+ 299  299 1 G 14-1-391B   J 28-2-253B    HR501     MAR. 3, 1845               
+ 299  299 2 S282086       Y=9 N=35                 HANNEGAN, IND.             
+ 299  299 3 TO AMEND THE AMENDMENT TO H.R. 501, TO APPROPRIATE $225,000       
+ 299  299 4 FOR THE CONTINUATION OF THE CUMBERLAND ROAD IN THE STATES OF      
+ 299  299 5 OHIO, INDIANA, AND ILLINOIS, EACH STATE TO BEAR ITS               
+ 299  299 6 PROPORTION OF THE ABOVE MENTIONED AMOUNT.  (P. 391)               
+ 300  300 1 G 14-1-391C   J 28-2-254A    HR501     MAR. 3, 1845               
+ 300  300 2 S282087       Y=21 N=25                BARROW, LA.                
+ 300  300 3 TO AMEND H.R. 501 TO GRANT APPROPRIATIONS FOR THE                 
+ 300  300 4 IMPROVEMENT OF THE OHIO RIVER ABOVE THE FALLS AT LOUISVILLE,      
+ 300  300 5 PLUS AN ADDITIONAL SUM FOR THE IMPROVEMENT BELOW THE FALLS        
+ 300  300 6 AND FOR THE IMPROVEMENT OF THE MISSISSIPPI, MISSOURI AND          
+ 300  300 7 ARKANSAS RIVERS.  (P. 391)                                        
+ 301  301 1 G 14-1-391D   J 28-2-254B    HR501     MAR. 3, 1845               
+ 301  301 2 S282088       Y=27 N=17                EVANS, ME.                 
+ 301  301 3 TO AMEND H.R. 501 TO ELIMINATE AN APPROPRIATION FOR AN            
+ 301  301 4 ARMORY AT FORT MASSAC.  (P. 391)                                  
+ 302  302 1 G 14-1-391A   J 28-2-257A    S66       MAR. 3, 1845               
+ 302  302 2 S282089       Y=41 N=1                 HUNTINGTON, CONN.          
+ 302  302 3 TO PASS, OVER VETO, THE BILL S. 66 (APP. 3/3/1845, 5 STAT.        
+ 302  302 4 L. 795), RELATING TO REVENUE CUTTERS AND STEAMERS TOGETHER        
+ 302  302 5 WITH VETO MESSAGE FROM THE PRESIDENT.  (P. 391)                   
+ 303  303 1 G 14-1-391B   J 28-2-257B    HR541     MAR. 3, 1845               
+ 303  303 2 S282090       Y=11 N=26                EVANS, ME.                 
+ 303  303 3 TO AMEND THE BILL H.R. 541, TO MAKE APPROPRIATIONS FOR            
+ 303  303 4 IMPROVEMENTS OF CERTAIN RIVERS AND HARBORS, THE AMENDMENT         
+ 303  303 5 APPROPRIATING A SUM FOR IMPROVEMENTS AT SHEBOYGAN, WIS.;          
+ 303  303 6 DETROIT, MICH., NORWICH, CONN., KENNEBECH RIVER, ME.,             
+ 303  303 7 PASS CHRISTIAN, ME., AND THE MAIL ROUTE BETWEEN MOBILE AND        
+ 303  303 8 NEW ORLEANS.  (P. 391)                                            
+ 304  304 1 G 14-1-392    J 28-2-258A    HR541     MAR. 3, 1845               
+ 304  304 2 S282091       Y=10 N=34                MCDUFFIE, S.C.             
+ 304  304 3 TO TABLE H.R. 541.  (P. 392)                                      
+ 305  305 1 G 14-1-392    J 28-2-258B    HR541     MAR. 3, 1845               
+ 305  305 2 S282092       Y=27 N=11                HUNTINGTON, CONN.          
+ 305  305 3 TO PASS H.R. 541.  (P. 393)                                       

@@ -1,0 +1,1126 @@
+   1    1 1                              SRE18     JAN 14, 1955               
+   1    1 2 S841001       Y=84 N=0                                            
+   1    1 3 S.RES. 18.  COMMUNIST SUBVERSION.  RESOLUTION FAVORING            
+   1    1 4 CONTINUED EXPOSURE OF THE COMMUNIST CONSPIRACY AGAINST THE        
+   1    1 5 U. S. ADOPTED.                                                    
+   2    2 1                              HJRE159   JAN. 28, 1955              
+   2    2 2 S841002       Y=3 N=83                 LANGER, N.D.               
+   2    2 3 H.J.RES. 159.  FORMOSA POLICY.  AUTHORIZE THE PRESIDENT           
+   2    2 4 TO EMPLOY U. S. ARMED FORCES FOR THE PROTECTION OF FORMOSA        
+   2    2 5 AND RELATED TERRITORIES.  LANGER AMENDMENT TO PROHIBIT            
+   2    2 6 USE OF THE ARMED FORCES ON THE CHINESE MAINLAND.  REJECTED.       
+   3    3 1                              HJRE159   JAN. 28, 1955              
+   3    3 2 S841003       Y=11 N=75                KEFAUVER, TENN.            
+   3    3 3 H.J.RES. 159.  FORMOSA POLICY.  KEFAUVER AMENDMENT, IN THE        
+   3    3 4 NATURE OF A SUBSTITUTE, TO PROVIDE FOR THE DEFENSE OF             
+   3    3 5 FORMOSA AND THE PESCADORES CONSISTENT WITH INTERNATIONAL          
+   3    3 6 LAW AND THE U.N. CHARTER. REJECTED.                               
+   4    4 1                              HJRE159   JAN. 28, 1955              
+   4    4 2 S841004       Y=13 N=74                LEHMAN, N.Y.               
+   4    4 3 H.J.RES. 159.  FORMOSA POLICY.  LEHMAN AMENDMENT TO               
+   4    4 4 ELIMINATE PRESIDENTIAL AUTHORITY FOR THE SECURITY OF              
+   4    4 5 TERRITORIES.  REJECTED.                                           
+   5    5 1                              HJRE159   JAN. 28, 1955              
+   5    5 2 S841005       Y=85 N=3                                            
+   5    5 3 H.J.RES. 159.  FORMOSA POLICY.  PASSED.                           
+   6    6 1                              SRE       FEB. 01, 1955              
+   6    6 2 S841006       Y=82 N=1                                            
+   6    6 3 EXEC K, 83RD CONGRESS, 2D SESSION.  SOUTHEAST ASIA                
+   6    6 4 COLLECTIVE DEFENSE TREATY.  PROVIDE FOR MUTUAL DEFENSE            
+   6    6 5 AMONG EIGHT NATIONS AGAINST COMMUNIST ATTACK AND                  
+   6    6 6 INTERNAL SUBVERSION.  TWO-THIRDS MAJORITY REQUIRED.               
+   6    6 7 RATIFIED.                                                         
+   7    7 1                              SRE       FEB. 09, 1955              
+   7    7 2 S841007       Y=11 N=57                MORSE, ORE.                
+   7    7 3 EXEC A, 84TH CONGRESS, 1ST SESSION.  CHINA MUTUAL                 
+   7    7 4 DEFENSE TREATY.  PROVIDE FOR MUTUAL DEFENSE BETWEEN U.S. AND      
+   7    7 5 REPUBLIC OF CHINA.  MORSE AMENDMENT THAT TREATY NOT AFFECT        
+   7    7 6 LEGAL STATUS OR SOVEREIGNTY OF TERRITORIES TO                     
+   7    7 7 WHICH IT APPLIES.  REJECTED.                                      
+   8    8 1                              SRE       FEB. 09, 1955              
+   8    8 2 S841008       Y=10 N=60                MORSE, ORE.                
+   8    8 3 EXEC A, 84TH CONGRESS, 1ST SESSION.  CHINA MUTUAL                 
+   8    8 4 DEFENSE TREATY.  MORSE AMENDMENT TO ELIMINATE TREATY              
+   8    8 5 PROVISION THAT WOULD ALLOW EXPANSION OF TERRITORY COVERED         
+   8    8 6 IN TREATY.  REJECTED.                                             
+   9    9 1                              SRE       FEB. 09, 1955              
+   9    9 2 S841009       Y=65 N=6                                            
+   9    9 3 EXEC A, 84TH CONGRESS, 1ST SESSION.  CHINA MUTUAL                 
+   9    9 4 DEFENSE TREATY.  TWO-THIRDS MAJORITY REQUIRED.  RATIFIED.         
+  10   10 1                              S462      FEB. 23, 1955              
+  10   10 2 S841010       Y=3 N=80                 BUSH, CT.                  
+  10   10 3 S. 462.  PAY RAISE FOR THE CONGRESS, SPEAKER OF THE               
+  10   10 4 HOUSE, VICE-PRESIDENT, CHIEF JUSTICE OF THE SUPREME COURT,        
+  10   10 5 AND FEDERAL JUDGES.  BUSH AMENDMENT TO ELIMINATE PROVISIONS       
+  10   10 6 FOR CONGRESSMEN, VICE-PRESIDENT, AND SPEAKER OF THE HOUSE.        
+  10   10 7 REJECTED.                                                         
+  11   11 1                              S462      FEB. 23, 1955              
+  11   11 2 S841011       Y=15 N=71                WILLIAMS, DEL.             
+  11   11 3 S. 462.  CONGRESSIONAL, JUDICIAL PAY RAISE.  WILLIAMS             
+  11   11 4 AMENDMENT TO SET DATE OF INCREASES FOLLOWING THE BALANCING        
+  11   11 5 OF THE FEDERAL BUDGET.  REJECTED.                                 
+  12   12 1                              HR3828    FEB. 23, 1955              
+  12   12 2 S841012       Y=62 N=24                                           
+  12   12 3 HR. 3828.  CONGRESSIONAL, JUDICIAL PAY RAISE.                     
+  12   12 4 HR. 3828 PASSED AFTER PROVISIONS OF S. 462 SUBSTITUTED FOR        
+  12   12 5 HOUSE LANGUAGE.  (SEE CQ 16.)                                     
+  13   13 1                              SRE       FEB. 25, 1955              
+  13   13 2 S841013       Y=72 N=0                                            
+  13   13 3 EXEC D, 83RD CONGRESS, 2D SESSION.  TAX CONVENTION WITH           
+  13   13 4 JAPAN.  AVOID DOUBLE TAXATION OR EVASION OF INCOME                
+  13   13 5 TAXES BY U.S. NATIONALS IN JAPAN AND JAPANESE NATIONALS           
+  13   13 6 IN U.S.  TWO-THIRDS MAJORITY REQUIRED.  RATIFIED.                 
+  14   14 1                              SRE       FEB. 25, 1955              
+  14   14 2 S841014       Y=71 N=0                                            
+  14   14 3 EXEC E, 83RD CONGRESS, 2D SESSION.  TAX CONVENTION WITH           
+  14   14 4 JAPAN.  AVOID DOUBLE TAXATION OR EVASION OF TAXES ON              
+  14   14 5 ESTATES, INHERITANCES, AND GIFTS.  TWO-THIRDS MAJORITY            
+  14   14 6 REQUIRED.  RATIFIED.                                              
+  15   15 1                              SRE       FEB. 25, 1955              
+  15   15 2 S841015       Y=74 N=0                                            
+  15   15 3 EXEC G, 83RD CONGRESS, 2D SESSION.  TAX CONVENTION WITH           
+  15   15 4 BELGIUM.  AVOID DOUBLE TAXATION OR EVASION OF TAXES ON            
+  15   15 5 ESTATES OR SUCCESSIONS.  TWO-THIRDS MAJORITY REQUIRED.            
+  15   15 6 RATIFIED.                                                         
+  16   16 1                              HR3828    FEB. 25, 1955              
+  16   16 2 S841016       Y=62 N=7                 WILLIAMS, DEL.             
+  16   16 3 HR. 3828.  CONGRESSIONAL, JUDICIAL PAY RAISE.  (CQ 10, WITH       
+  16   16 4 THE ADDITION OF CERTAIN OFFICIALS OF THE JUSTICE                  
+  16   16 5 DEPARTMENT).  CONFERENCE STAGE.  WILLIAMS MOTION TO               
+  16   16 6 INSTRUCT CONFEREES TO ELIMINATE EXPENSE ALLOWANCE FOR             
+  16   16 7 MEMBERS OF CONGRESS.  ADOPTED.                                    
+  17   17 1                              HR4259    MAR. 15, 1955              
+  17   17 2 S841017       Y=44 N=50                JOHNSON, TEX.              
+  17   17 3 HR. 4259.  TAX REDUCTION.  PROVIDE ONE YEAR EXTENSION OF          
+  17   17 4 EXISTING CORPORATE AND EXCISE TAXES AND A $20 INCOME              
+  17   17 5 TAX CREDIT FOR EACH PERSONAL EXEMPTION.  JOHNSON                  
+  17   17 6 AMENDMENT TO EXTEND CORPORATE AND EXCISE TAXES FOR                
+  17   17 7 27 MONTHS AND PROVIDE A $20 TAX CREDIT FOR HEADS OF FAMILIES      
+  17   17 8 AND $10 TAX CUT FOR EACH DEPENDENT.  REJECTED.                    
+  18   18 1                              HR4259    MAR. 15, 1955              
+  18   18 2 S841018       Y=61 N=32                                           
+  18   18 3 HR. 4259.  TAX REDUCTION.  COMMITTEE AMENDMENT TO ELIMINATE       
+  18   18 4 $20 TAX CREDIT.  ADOPTED.                                         
+  19   19 1                              SRE       MAR. 16, 1955              
+  19   19 2 S841019       Y=71 N=11                                           
+  19   19 3 NOMINATION OF JOHN MARSHALL HARLAN AS ASSOCIATE                   
+  19   19 4 JUSTICE OF THE SUPREME COURT.  CONFIRMED.                         
+  20   20 1                              HRE78     MAR. 23, 1955              
+  20   20 2 S841020       Y=39 N=48                                           
+  20   20 3 H.RES. 78, 79.  RUBBER FACILITIES.  DISAPPROVE                    
+  20   20 4 SALE OF THREE SYNTHETIC RUBBER PLANT FACILITIES TO SHELL          
+  20   20 5 CHEMICAL CORPORATION.  BOTH RESOLUTIONS REJECTED.                 
+  21   21 1                              SRE76     MAR. 23, 1955              
+  21   21 2 S841021       Y=31 N=56                                           
+  21   21 3 S.RES. 76.  EXPRESS SENATE DISAPPROVAL OF REPORT OF               
+  21   21 4 RUBBER PRODUCING FACILITIES DISPOSAL COMMISSION.  REJECTED.       
+  22   22 1                              HR3952    MAR. 24, 1955              
+  22   22 2 S841022       Y=51 N=39                STENNIS, MISS.             
+  22   22 3 HR. 3952.  COTTON ACREAGE.  PROVIDE INCREASE IN 1955              
+  22   22 4 COTTON ACREAGE ALLOTMENTS.  STENNIS AMENDMENT TO INCREASE         
+  22   22 5 EACH STATE'S ALLOTMENT 1.5 PERCENT.  ADOPTED.                     
+  23   23 1                              HR3952    MAR. 24, 1955              
+  23   23 2 S841023       Y=47 N=43                                           
+  23   23 3 HR. 3952.  COTTON ACREAGE.  CASE AMENDMENT TO INCREASE            
+  23   23 4 1955 WHEAT ACREAGE ALLOTMENTS BY 1.5 PERCENT.  ADOPTED.           
+  24   24 1                              HR3952    MAR. 24, 1955              
+  24   24 2 S841024       Y=39 N=51                                           
+  24   24 3 HR. 3952.  COTTON ACREAGE BILL.  REJECTED.                        
+  25   25 1                              S1        MAR. 25, 1955              
+  25   25 2 S841025       Y=52 N=41                JOHNSON, TEX.              
+  25   25 3 S. 1.  POSTAL PAY RAISE.  JOHNSON MOTION TO TABLE CARLSON         
+  25   25 4 AMENDMENT SETTING UP CLASSIFICATION SCHEDULE.  ADOPTED.           
+  26   26 1                              S1        MAR. 25, 1955              
+  26   26 2 S841026       Y=72 N=21                                           
+  26   26 3 S. 1.  POSTAL PAY RAISE AS AMENDED TO PROVIDE 10 PERCENT          
+  26   26 4 INCREASES.  PASSED.  (SEE 36, 39, 42.)                            
+  27   27 1                              SRE       APR. 01, 1955              
+  27   27 2 S841027       Y=76 N=2                                            
+  27   27 3 TWO GERMAN TREATIES.  EXEC L, 83RD CONGRESS, 2D SESSION,          
+  27   27 4 TO END OCCUPATION OF GERMANY.  EXEC M, 83RD CONGRESS, 2D          
+  27   27 5 SESSION, TO PROVIDE ACCESSION OF FEDERAL REPUBLIC OF              
+  27   27 6 GERMANY TO NATO.  TWO-THIRDS MAJORITY REQUIRED.  BOTH             
+  27   27 7 RATIFIED.  (SINGLE ROLL CALL WAS TAKEN, BUT RESULTS RECORDED      
+  27   27 8 SEPARATELY ON BOTH TREATIES.                                      
+  28   28 1                              SRE       APR. 01, 1955              
+  28   28 2 S841028       Y=74 N=1                                            
+  28   28 3 EXEC R, 83RD CONGRESS, 1ST SESSION.  RENEW INTERNATIONAL          
+  28   28 4 TELECOMMUNICATIONS AGREEMENT.  TWO-THIRDS MAJORITY                
+  28   28 5 REQUIRED.  RATIFIED.                                              
+  29   29 1                              S500      APR. 20, 1955              
+  29   29 2 S841029       Y=30 N=52                NEUBERGER, ORE.            
+  29   29 3 S. 500.  AUTHORIZATION FOR COLORADO RIVER STORAGE PROJECT.        
+  29   29 4 NEUBERGER AMENDMENT TO ELIMINATE ECHO DAM AUTHORIZATION.          
+  29   29 5 REJECTED.                                                         
+  30   30 1                              S500      APR. 20, 1955              
+  30   30 2 S841030       Y=58 N=23                                           
+  30   30 3 S. 500.  AUTHORIZATION FOR COLORADO RIVER STORAGE PROJECT.        
+  30   30 4 PASSED.                                                           
+  31   31 1                              HR5239    APR. 26, 1955              
+  31   31 2 S841031       Y=5 N=76                                            
+  31   31 3 HR 5239.  FISCAL 1956 APPROPRIATIONS FOR DEPARTMENT               
+  31   31 4 OF AGRICULTURE AND FARM CREDIT ADMINISTRATION.                    
+  31   31 5 AMENDMENT TO REDUCE SOIL CONSERVATION FUNDS.  REJECTED.           
+  32   32 1                              HR1       MAY 04, 1955               
+  32   32 2 S841032       Y=9 N=82                 DOUGLAS, ILL.              
+  32   32 3 HR 1. RECIPROCAL TRADE EXTENSION.  EXTEND AUTHORITY OF THE        
+  32   32 4 PRESIDENT TO ENTER INTO TRADE AGREEMENTS.  DOUGLAS                
+  32   32 5 AMENDMENT TO REPEAL PERIL POINT SECTION OF EXISTING LAW.          
+  32   32 6 REJECTED.                                                         
+  33   33 1                              HR1       MAY 04, 1955               
+  33   33 2 S841033       Y=13 N=73                MORSE, ORE.                
+  33   33 3 HR. 1.  RECIPROCAL TRADE EXTENSION.  MORSE AMENDMENT TO           
+  33   33 4 PROVIDE THAT NO TRADE AGREEMENT TAKE EFFECT IF CONGRESS HAS       
+  33   33 5 NOT SAT CONTINUOUSLY FOR 90 DAYS AFTER AGREEMENT NEGOTIATED,      
+  33   33 6 OR IF DISAPPROVED BY CONGRESS WITHIN 90 DAYS.  REJECTED           
+  34   34 1                              HR1       MAY 04, 1955               
+  34   34 2 S841034       Y=21 N=67                DOUGLAS, ILL.              
+  34   34 3 HR. 1.  RECIPROCAL TRADE EXTENSION.  DOUGLAS AMENDMENT TO         
+  34   34 4 ELIMINATE PROVISIONS REQUIRING PUBLICATION OF TARIFF              
+  34   34 5 COMMISSION FINDINGS, THE 'ESCAPE CLAUSE', AND THE SEEKING         
+  34   34 6 OF PROTECTION AGAINST INJURY FROM IMPORTS BY AN                   
+  34   34 7 INDUSTRY.  REJECTED.                                              
+  35   35 1                              HR1       MAY 04, 1955               
+  35   35 2 S841035       Y=75 N=13                                           
+  35   35 3 HR. 1.  RECIPROCAL TRADE EXTENSION.  PASSED.                      
+  36   36 1                              S1        MAY 11, 1955               
+  36   36 2 S841036       Y=66 N=11                                           
+  36   36 3 S. 1.  POSTAL PAY RAISE.  CONFERENCE REPORT PROVIDING             
+  36   36 4 AVERAGE INCREASE OF 9.59 PERCENT.  ADOPTED.                       
+  37   37 1                              HR1573    MAY 17, 1955               
+  37   37 2 S841037       Y=35 N=49                HOLLAND, FLA.              
+  37   37 3 HR. 1573.  AGRICULTURAL ADJUSTMENT ACT.  REPEAL SECTION           
+  37   37 4 OF AGRICULTURAL ADJUSTMENT ACT ON AGRICULTURAL CONSERVATION       
+  37   37 5 PAYMENTS RESTRICTIONS.  HOLLAND AMENDMENT MAKING THOSE            
+  37   37 6 KNOWINGLY HARVESTING BASIC COMMODITIES IN EXCESS OF               
+  37   37 7 ACREAGE ALLOTMENT INELIGIBLE FOR SOIL CONSERVATION                
+  37   37 8 PAYMENTS.  REJECTED.                                              
+  38   38 1                              SJRE8     MAY 19, 1955               
+  38   38 2 S841038       Y=76 N=3                                            
+  38   38 3 S.J.RES. 8.  HOUSE EMERGENCY APPOINTMENTS. AMEND CONSTITU-        
+  38   38 4 TION TO ALLOW STATE GOVERNORS TO FILL TEMPORARY VACANCIES         
+  38   38 5 IN THE HOUSE OF REPRESENTATIVES.  TWO-THIRDS MAJORITY             
+  38   38 6 REQUIRED.  PASSED.                                                
+  39   39 1                              S1        MAY 24, 1955               
+  39   39 2 S841039       Y=54 N=39                                           
+  39   39 3 S. 1.  POSTAL PAY RAISE.  FAILED TO PASS OVER PRESIDENTIAL        
+  39   39 4 VETO.  TWO-THIRDS MAJORITY REQUIRED.                              
+  40   40 1                              S1048     MAY 25, 1955               
+  40   40 2 S841040       Y=31 N=60                                           
+  40   40 3 S. 1048.  HIGHWAY CONSTRUCTION.  AMEND AND SUPPLEMENT             
+  40   40 4 FEDERAL-AID ROAD ACT BY AUTHORIZING FUNDS FOR HIGHWAY             
+  40   40 5 CONSTRUCTION.  MARTIN SUBSTITUTE.  REJECTED.                      
+  41   41 1                              S1048     MAY 25, 1955               
+  41   41 2 S841041       Y=39 N=50                BUSH, CT.                  
+  41   41 3 S. 1048.  HIGHWAY CONSTRUCTION.  BUSH MOTION TO RECOMMIT          
+  41   41 4 FOR FURTHER STUDY.  REJECTED.                                     
+  42   42 1                              S2061     JUNE 01, 1955              
+  42   42 2 S841042       Y=78 N=0                                            
+  42   42 3 S. 2061.  SECOND POSTAL PAY INCREASE.  RAISE COMPENSATION         
+  42   42 4 OF OFFICERS AND EMPLOYEES IN POSTAL FIELD SERVICE AN              
+  42   42 5 AVERAGE OF 8.0 PERCENT. PASSED.                                   
+  43   43 1                              SRE       JUNE 01, 1955              
+  43   43 2 S841043       Y=79 N=0                                            
+  43   43 3 EXEC B, 84TH CONGRESS, 1ST SESSION.  RENEW GREAT LAKES            
+  43   43 4 FISHERIES CONVENTION WITH CANADA.  TWO-THIRDS MAJORITY            
+  43   43 5 REQUIRED.  RATIFIED.                                              
+  44   44 1                              S2090     JUNE 02, 1955              
+  44   44 2 S841044       Y=33 N=50                KNOWLAND, CALIF.           
+  44   44 3 S.  2090.  MUTUAL SECURITY ACT OF 1955.  AUTHORIZE FUNDS          
+  44   44 4 FOR MILITARY AND ECONOMIC ASSISTANCE TO FRIENDLY                  
+  44   44 5 NATIONS.  KNOWLAND AMENDMENT TO POTTER AMENDMENT (CQ 45)          
+  44   44 6 TO PROVIDE THAT 50 PERCENT OF ECONOMIC DEVELOPMENT FUNDS BE       
+  44   44 7 AVAILABLE ON LOAN.  REJECTED.                                     
+  45   45 1                              S2090     JUNE 02, 1955              
+  45   45 2 S841045       Y=29 N=52                POTTER, MICH.              
+  45   45 3 S. 2090.  MUTUAL SECURITY ACT OF 1955.  POTTER AMENDMENT          
+  45   45 4 TO PROVIDE THAT 75 PERCENT OF ECONOMIC DEVELOPMENT FUNDS          
+  45   45 5 BE AVAILABLE ON LOAN.  REJECTED.                                  
+  46   46 1                              S2090     JUNE 02, 1955              
+  46   46 2 S841046       Y=27 N=56                ELLENDER, LA.              
+  46   46 3 S. 2090.  MUTUAL SECURITY ACT OF 1955.  ELLENDER AMENDMENT        
+  46   46 4 REJECTED.                                                         
+  47   47 1                              S2090     JUNE 02, 1955              
+  47   47 2 S841047       Y=16 N=62                JENNER, IND.               
+  47   47 3 S. 2090.  MUTUAL SECURITY ACT OF 1955.  JENNER AMENDMENT TO       
+  47   47 4 RECOMMIT TO ARMED SERVICES AND FOREIGN RELATIONS COMMITTEE        
+  47   47 5 WITH INSTRUCTIONS TO REPORT TWO BILLS ONE FOR MILITARY AID        
+  47   47 6 AND ONE FOR THE BALANCE OF THE AUTHORIZATION.  REJECTED.          
+  48   48 1                              S2090     JUNE 02, 1955              
+  48   48 2 S841048       Y=27 N=53                LONG, LA.                  
+  48   48 3 S. 2090.  MUTUAL SECURITY ACT OF 1955.  LONG AMENDMENT TO         
+  48   48 4 REDUCE OVERALL AUTHORIZATION.  REJECTED.                          
+  49   49 1                              S2090     JUNE 02, 1955              
+  49   49 2 S841049       Y=18 N=60                MCCARTHY, WISC.            
+  49   49 3 S. 2090.  MUTUAL SECURITY ACT OF 1955.  MCCARTHY AMENDMENT        
+  49   49 4 THAT NO FUNDS BE MADE AVAILABLE TO ANY COUNTRY EXPORTING          
+  49   49 5 GOODS TO RED CHINA WHILE THE LATTER HOLDS U.S. PRISONERS.         
+  49   49 6 REJECTED.                                                         
+  50   50 1                              S2090     JUNE 02, 1955              
+  50   50 2 S801050       Y=17 N=63                ELLENDER, LA.              
+  50   50 3 S. 2090.  MUTUAL SECURITY ACT OF 1955.  ELLENDER AMENDMENT        
+  50   50 4 TO ELIMINATE $200 MILLION PRESIDENT'S FUND FOR ASIAN              
+  50   50 5 ECONOMIC DEVELOPMENT.  REJECTED.                                  
+  51   51 1                              S2090     JUNE 02, 1955              
+  51   51 2 S841051       Y=40 N=40                CAPEHART, IND.             
+  51   51 3 S. 2090.  MUTUAL SECURITY ACT OF 1955.  CAPEHART AMENDMENT        
+  51   51 4 TO AUTHORIZE WAIVER OF CIVIL SERVICE LAWS FOR TERMINATION OF      
+  51   51 5 FOA EMPLOYEES ABOVE GRADE GS-9.  REJECTED.                        
+  52   52 1                              S2090     JUNE 02, 1955              
+  52   52 2 S841052       Y=59 N=18                                           
+  52   52 3 S. 2090.  MUTUAL SECURITY ACT OF 1955.  PASSED.                   
+  52   52 4 (SEE CQ 71.)                                                      
+  53   53 1                              S2126     JUNE 07, 1955              
+  53   53 2 S841053       Y=38 N=44                CAPEHART, IND.             
+  53   53 3 S. 2126.  HOUSING ACT OF 1955.  OMNIBUS MEASURE TO AID            
+  53   53 4 IN HOUSING DEVELOPMENT, SLUM CLEARANCE, AND URBAN RENEWAL.        
+  53   53 5 CAPEHART AMENDMENT PROVIDING FOR CONSTRUCTION OF PUBLIC           
+  53   53 6 HOUSING UNITS.  REJECTED.                                         
+  54   54 1                              S2126     JUNE 07, 1955              
+  54   54 2 S841054       Y=60 N=25                                           
+  54   54 3 S. 2126.  HOUSING ACT OF 1955.  PASSED.                           
+  55   55 1                              HR6367    JUNE 16, 1955              
+  55   55 2 S841055       Y=51 N=24                                           
+  55   55 3 HR. 6367.  FISCAL 1956 APPROPRIATIONS FOR DEPARTMENT              
+  55   55 4 OF COMMERCE.  COMMITTEE AMENDMENT TO INCREASE SUBSIDY PAY-        
+  55   55 5 MENTS TO AIRLINES BY $15 MILLION OVER HOUS APPROPRIATION.         
+  55   55 6 ADOPTED.                                                          
+  56   56 1                              HR6367    JUNE 16, 1955              
+  56   56 2 S841056       Y=53 N=20                                           
+  56   56 3 HR. 6367.  FISCAL 1956 DEPARTMENT OF COMMERCE APPROPRI-           
+  56   56 4 ATIONS.  COMMITTEE AMENDMENT TO INCREASE FUNDS FOR                
+  56   56 5 SHIPBUILDING BY $38 MILLION OVER HOUS APPROPRIATION.              
+  56   56 6 ADOPTED.                                                          
+  57   57 1                              SRE       JUNE 17, 1955              
+  57   57 2 S841057       Y=63 N=3                                            
+  57   57 3 EXEC G, 84TH CONGRESS, 1ST SESSION.  AUSTRIAN STATE               
+  57   57 4 TREATY.  PROVIDE FOR RE-ESTABLISHMENT OF AN INDEPENDENT           
+  57   57 5 AND DEMOCRATIC AUSTRIA.  TWO-THIRDS MAJORITY REQUIRED.            
+  57   57 6 RATIFIED.                                                         
+  58   58 1                              HR6042    JUNE 20, 1955              
+  58   58 2 S841058       Y=40 N=39                SYMINGTON, MO.             
+  58   58 3 HR. 6042.  FISCAL 1956 DEFENSE APPROPRIATIONS.  THREE             
+  58   58 4 SYMINGTON AMENDMENTS TO INCREASE MARINE CORPS FUNDS               
+  58   58 5 BY $46 MILLION.  CONSIDERED EN BLOC.  PASSED.                     
+  59   59 1                              HR6042    JUNE 20, 1955              
+  59   59 2 S841059       Y=33 N=48                MUNDT, S.D.                
+  59   59 3 HR. 6042.  DEFENSE APPROPRIATIONS.  MUNDT AMENDMENT               
+  59   59 4 BARRING USE OF FUNDS FOR DISPOSAL OR TRANSFER BY CONTRACT         
+  59   59 5 OF CIVILIAN PERSONNEL WORK FOR 25 YEARS.  REJECTED.               
+  60   60 1                              HR6042    JUNE 20, 1955              
+  60   60 2 S841060       Y=80 N=0                                            
+  60   60 3 HR. 6042.  FISCAL 1956 DEFENSE APPROPRIATIONS.  PASSED.           
+  61   61 1                              SRE116    JUNE 22, 1955              
+  61   61 2 S841061       Y=4 N=77                                            
+  61   61 3 S. RES. 116.  COMMUNIST CONTROLLED NATIONS.  EXPRESS              
+  61   61 4 SENATE VIEW THAT SECRETARY OF STATE SHOULD SECURE AGREEMENT       
+  61   61 5 IN CONFERENCE WITH THE USSR, THE UNITED KINGDOM,                  
+  61   61 6 AND FRENCH HEADS OF STATE ON STATUS OF COMMUNIST CONTROLLED       
+  61   61 7 NATIONS.  REJECTED.                                               
+  62   62 1                              S256      JUNE 23, 1955              
+  62   62 2 S841062       Y=53 N=21                                           
+  62   62 3 S. 256.  NATIONAL BANK ASSOCIATIONS.  ELIMINATE                   
+  62   62 4 CUMULATIVE VOTING OF STOCK IN ELECTION OF ASSOCIATION             
+  62   62 5 DIRECTORS.  PASSED.                                               
+  63   63 1                              HR6795    JUNE 28, 1955              
+  63   63 2 S841063       Y=41 N=42                HICKENLOOPE, IOWA          
+  63   63 3 HR. 6795.  ATOMIC ENERGY COMMISSION CONSTRUCTION.                 
+  63   63 4 AUTHORIZE FUNDS FOR ACQUISITION OF PROPERTY AND FOR PLANT OR      
+  63   63 5 FACILITY EXPANSION.  HICKENLOOPER AMENDMENT TO INCREASE           
+  63   63 6 APPROPRIATION FOR DEVELOPMENT OF ATOMIC-POWERED MERCHANT          
+  63   63 7 VESSEL.  REJECTED.                                                
+  64   64 1                              S669      JUNE 29, 1955              
+  64   64 2 S841064       Y=59 N=15                                           
+  64   64 3 S. 669.  D. C. HOME RULE.  PROVIDE FOR ELECTED MAYOR, CITY        
+  64   64 4 COUNCIL, SCHOOL BOARD, AND NON-VOTING HOUSE OF REPRESENTA-        
+  64   64 5 TIVES DELEGATE FOR D.C. PASSED.                                   
+  65   65 1                              SRE       JULY 06, 1955              
+  65   65 2 S841065       Y=77 N=0                                            
+  65   65 3 EXECS D, E, F, AND G, 82ND CONGRESS, 1ST SESSION.                 
+  65   65 4 FOUR CONVENTIONS ON WAR VICTIMS.  REVISION OF CONVENTIONS         
+  65   65 5 ON ARMED FORCES SICK AND WOUNDED, PRISONERS OF WAR AND            
+  65   65 6 TREATMENT OF CIVILIANS.  RATIFIED EN BLOC.                        
+  66   66 1                              SRE127    JULY 14, 1955              
+  66   66 2 S841066       Y=89 N=0                                            
+  66   66 3 S. RES. 127.  RIGHTS OF SELF-GOVERNMENT.  EXPRESS SENATE          
+  66   66 4 BELIEF THAT ENSLAVED PEOPLES OF EUROPE AND ASIA SHOULD            
+  66   66 5 BE RESTORED TO SELF-GOVERNMENT.  ADOPTED.                         
+  67   67 1                              HCRE149   JULY 14, 1955              
+  67   67 2 S841067       Y=88 N=0                                            
+  67   67 3 H.CON.RES. 149.  EXPRESS U.S. OPPOSITION TO                       
+  67   67 4 COLONIALISM AND COMMUNIST IMPERIALISM.  ADOPTED.                  
+  68   68 1                              HR7000    JULY 14, 1955              
+  68   68 2 S841068       Y=14 N=70                JENNER, IND.               
+  68   68 3 HR. 7000.  PROVIDE FOR THE STRENGTHENING OF RESERVE               
+  68   68 4 FORCES.  JENNER AMENDMENT BARRING SERVICE OF ARMED FORCES,        
+  68   68 5 INCLUDING RESERVES, IN COUNTRIES WHICH HAVE TREATY WITH U.S.      
+  68   68 6 AUTHORIZING CRIMINAL JURISDICTION OF THE COUNTRY OVER SUCH        
+  68   68 7 PERSONNEL.  REJECTED.                                             
+  69   69 1                              HR7000    JULY 14, 1955              
+  69   69 2 S841069       Y=80 N=1                                            
+  69   69 3 HR. 7000.  RESERVE FORCES.  PASSAGE.                              
+  70   70 1                              S2391     JULY 19, 1955              
+  70   70 2 S841070       Y=46 N=45                CAPEHART, IND.             
+  70   70 3 S. 2391.  EXTEND DEFENSE PRODUCTION ACT OF 1950 FOR TWO           
+  70   70 4 YEARS.  CAPEHART AMENDMENT LIMITING NON-COMPENSATED               
+  70   70 5 PERSONNEL TO ADVISORY FUNCTIONS.  AGREED TO.                      
+  71   71 1                              HR7224    JULY 22, 1955              
+  71   71 2 S841071       Y=50 N=38                                           
+  71   71 3 HR. 7224.  MUTUAL SECURITY APPROPRIATIONS FOR FISCAL 1956.        
+  71   71 4 COMMITTEE AMENDMENT TO INCREASE MILITARY ASSISTANCE               
+  71   71 5 FUNDS BY $420 MILLION.  ADOPTED.                                  
+  72   72 1                              HR7224    JULY 22, 1955              
+  72   72 2 S841072       Y=22 N=63                ELLENDER, LA.              
+  72   72 3 HR. 7224.  MUTUAL SECURITY APPROPRIATIONS FOR FISCAL              
+  72   72 4 1956.  ELLENDER AMENDMENT TO REDUCE BY $21 MILLION FUNDS          
+  72   72 5 FOR ASIAN DEFENSE SUPPORT.  REJECTED.                             
+  73   73 1                              HR7224    JULY 22, 1955              
+  73   73 2 S841073       Y=24 N=60                ELLENDER, LA.              
+  73   73 3 HR. 7224.  MUTUAL SECURITY APPROPRIATIONS FOR FISCAL 1956.        
+  73   73 4 ELLENDER AMENDMENT TO REDUCE BY $207 MILLION FUNDS                
+  73   73 5 FOR ASIAN DEFENSE SUPPORT.  REJECTED.                             
+  74   74 1                              HR7224    JULY 22, 1955              
+  74   74 2 S841074       Y=68 N=16                ELLENDER, LA.              
+  74   74 3 HR. 7224.  MUTUAL SECURITY APPROPRIATIONS FOR FISCAL 1956.        
+  74   74 4 COMMITTEE AMENDMENT TO REDUCE BY $10 MILLION FUNDS FOR            
+  74   74 5 DEVELOPMENT ASSISTANCE FOR INDIA.  ADOPTED.                       
+  75   75 1                              HR7224    JULY 22, 1955              
+  75   75 2 S841075       Y=46 N=38                                           
+  75   75 3 HR. 7224.  MUTUAL SECURITY APPROPRIATIONS FOR FISCAL 1956.        
+  75   75 4 COMMITTEE AMENDMENT TO INCREASE BY $50 MILLION ASIAN              
+  75   75 5 ECONOMIC DEVELOPMENT FUNDS.  ADOPTED.                             
+  76   76 1                              HR7224    JULY 22, 1955              
+  76   76 2 S841076       Y=62 N=22                                           
+  76   76 3 HR. 7224.  MUTUAL SECURITY APPROPRIATIONS FOR FISCAL              
+  76   76 4 1956.  PASSED.                                                    
+  77   77 1                              SRE       JULY 27, 1955              
+  77   77 2 S841077       Y=83 N=0                                            
+  77   77 3 EXEC E, 84TH CONGRESS, 1ST SESSION.  TREATY OF                    
+  77   77 4 FRIENDHIP, COMMERCE, AND NAVIGATION WITH WEST GERMANY.            
+  77   77 5 TWO-THIRDS MAJORITY REQUIRED.  RATIFIED.                          
+  78   78 1                              HR4744    JULY 28, 1955              
+  78   78 2 S841078       Y=24 N=66                SMITH, N.J.                
+  78   78 3 HR. 4744.  RAILROAD RETIREMENT ACT.  AMEND RAILROAD               
+  78   78 4 RETIREMENT ACT AND RAILROAD UNEMPLOYMENT ACT REGARDING            
+  78   78 5 ANNUITIES.  SMITH AMENDMENT TO DELETE REQUIREMENT THAT            
+  78   78 6 ALL POSITIONS IN RAILROAD RETIREMENT BOARD BE UNDER               
+  78   78 7 COMPETITIVE CIVIL SERVICE.  REJECTED.                             
+  79   79 1                              HR4744    JULY 28, 1955              
+  79   79 2 S841079       Y=91 N=0                                            
+  79   79 3 HR. 4744.  RAILROAD RETIREMENT ACT. PASSED.                       
+  80   80 1                              HR6373    JULY 29, 1955              
+  80   80 2 S841080       Y=54 N=34                                           
+  80   80 3 HR. 6373.  DOMESTIC MINERALS.  ENCOURAGE PRODUCTION OF            
+  80   80 4 DOMESTIC MINERALS FOR STOCKPILING.  PASSED.                       
+  81   81 1                              SRE       JULY 29, 1955              
+  81   81 2 S841081       Y=72 N=14                                           
+  81   81 3 EXEC F, 84TH CONGRESS, 1ST SESSION.  PANAMA MUTUAL                
+  81   81 4 UNDERSTANDING TREATY.  PROMOTE UNDERSTANDING AND MODIFY           
+  81   81 5 COMMERCIAL AND FINANCIAL PRIVILEGES BETWEEN U. S. AND             
+  81   81 6 PANAMA.  TWO-THIRDS MAJORITY REQUIRED.  AGREED TO.                
+  82   82 1                              SRE       JULY 29, 1955              
+  82   82 2 841082        Y=86 N=0                                            
+  82   82 3 EXECS I, 83RD CONGRESS, 2D SESSION, EXEC D, D, I,                 
+  82   82 4 84TH CONGRESS, 1ST SESSION.  TAX TREATIES WITH NETHERLANDS        
+  82   82 5 AND ITALY.  EXTEND CONVENTIONS FOR AVOIDING DOUBLE                
+  82   82 6 TAXATION AND TAX EVASION.  TWO-THIRDS MAJORITY REQUIRED.          
+  82   82 7 RATIFIED.                                                         
+  83   83 1                              SRE       JULY 29, 1955              
+  83   83 2 S841083       Y=43 N=41                                           
+  83   83 3 NOMINATION OF JOHN A. HALL TO BE DIRECTOR OF LOCOMOTIVE           
+  83   83 4 INSPECTION, INTERSTATE COMMERCE COMMISSION.  CONFIRMED.           
+  84   84 1                              HR5168    JULY 30, 1955              
+  84   84 2 S841084       Y=9 N=80                 WILLIAMS, DEL.             
+  84   84 3 HR. 5168.  FARM CREDIT.  PROVIDE FOR RETIREMENT OF                
+  84   84 4 CAPITAL IN INSTITUTIONS UNDER FARM CREDIT ADMINISTRATION.         
+  84   84 5 WILLIAMS AMENDMENT FOR RETURN OF SURPLUS ON LIQUIDATION OF        
+  84   84 6 BANKS TO GOVERNMENT.  REJECTED.                                   
+  85   85 1                              HR4048    AUG. 01, 1955              
+  85   85 2 S841085       Y=22 N=56                MORSE, ORE.                
+  85   85 3 HR. 4048.  ARMED SERVICES VOTING.  ASSIST SERVICEMEN AND          
+  85   85 4 FEDERAL EMPLOYEES OVERSEAS TO VOTE.  MORSE MOTION TO              
+  85   85 5 RECOMMIT CONFERENCE REPORT WITH INSTRUCTIONS TO RETAIN            
+  85   85 6 PROVISION EXEMPTING SERVICEMEN DURING WARTIME FROM PAYING         
+  85   85 7 POLL TAX.  REJECTED.                                              
+  86   86 1                              S2391     AUG. 01, 1955              
+  86   86 2 841086        Y=36 N=34                CAPEHART, IND.             
+  86   86 3 S. 2391.  EXTENSION OF DEFENSE PRODUCTION ACT OF                  
+  86   86 4 1950.  CAPEHART AMENDMENT TO RECOMMIT CONFERENCE REPORT WITH      
+  86   86 5 INSTRUCTIONS TO DELETE PROVISION REQUIRING FINANCIAL              
+  86   86 6 STATEMENTS FROM NON-COMPENSATED GOVERNMENT WORKERS.  AGREED       
+  86   86 7 TO.                                                               
+  87   87 1                              SRE       AUG. 02, 1955              
+  87   87 2 S841087       Y=49 N=29                                           
+  87   87 3 NOMINATION OF HAROLD C. PATTERSON TO SECURITIES EXCHANGE          
+  87   87 4 COMMISSION.  CONFIRMED.                                           
+  88   88 1                              SRE       JAN. 25, 1956              
+  88   88 2 S842001       Y=84 N=0                                            
+  88   88 3 EXEC F, 83RD CONGRESS, 2ND SESSION, AND EXEC P, 82ND CONG-        
+  88   88 4 RESS, 2ND SESSION.  (F) CONVENTION ON SLAVERY.  TRANSFER TO       
+  88   88 5 UNITED NATIONS AND INTERNATIONAL COURT OF JUSTICE FUNCTIONS       
+  88   88 6 FORMERLY ASSIGNED TO THE LEAGUE OF NATIONS AND PERMANENT          
+  88   88 7 COURT OF INTERNATIONAL JUSTICE.  (P) TARIFF PUBLICATION           
+  88   88 8 CONVENTION.  INCREASE U. S. CONTRIBUTION TO THE INTER-            
+  88   88 9 NATIONAL BUREAU FOR THE PUBLICATION OF CUSTOMS TARIFFS.           
+  88   8810 TWO-THIRDS MAJORITY REQUIRED.  RATIFIED.                          
+  89   89 1                              S1853     FEB. 06, 1956              
+  89   89 2 S842002       Y=30 N=64                                           
+  89   89 3 S. 1853.  NATURAL GAS. **MISSING DESCRIPTION**                    
+  89   89 4 PRODUCERS FROM FEDERAL UTILITY RATE CONTROL.  MOTION TO           
+  89   89 5 RECOMMIT.  REJECTED                                               
+  90   90 1                              S1853     FEB. 06, 1956              
+  90   90 2 S842003       Y=40 N=53                PASTORE, R.I.              
+  90   90 3 S. 1853.  NATURAL GAS.  PASTORE AMENDMENT TO REQUIRE FEDERAL      
+  90   90 4 POWER COMMISSION TO CONSIDER INTEREST OF CONSUMER IN              
+  90   90 5 DETERMINING MARKET PRICE OF NATURAL GAS.  REJECTED.               
+  91   91 1                              S1853     FEB. 06, 1956              
+  91   91 2 S842004       Y=33 N=59                POTTER, MICH.              
+  91   91 3 S. 1853.  NATURAL GAS.  POTTER AMENDMENTS TO SUBSTITUTE           
+  91   91 4 'FAIR AND EQUITABLE PRICE' FOR 'REASONABLE MARKET PRICE'          
+  91   91 5 AS CRITERION FOR PRICE OF NATURAL GAS.  REJECTED EN BLOC.         
+  92   92 1                              S1853     FEB. 06, 1956              
+  92   92 2 S842005       Y=33 N=59                HUMPHREY, MINN.            
+  92   92 3 S. 1853.  NATURAL GAS.  HUMPHREY AMENDMENT TO DECLARE             
+  92   92 4 ESCALATION CLAUSES IN CONTRACTS FOR PURCHASE OF NATURAL           
+  92   92 5 GAS CONTARARY TO PUBLIC INTEREST AND UNENFORCEABLE IN COURT.      
+  92   92 6 REJECTED.                                                         
+  93   93 1                              S1853     FEB. 06, 1956              
+  93   93 2 S842006       Y=35 N=58                DOUGLAS, ILL.              
+  93   93 3 S. 1853.  NATURAL GAS.  DOUGLAS AMENDMENT TO EXEMPT               
+  93   93 4 ONLY 'SMALL', INDEPENDENT, NATURAL GAS PRODUCERS FROM CON-        
+  93   93 5 TROL BY FEDERAL POWER COMMISSION.  REJECTED.                      
+  94   94 1                              HR6645    FEB. 06, 1956              
+  94   94 2 S842007       Y=53 N=38                                           
+  94   94 3 HR. 6645.  NATURAL GAS.  PASSED AFTER SUBSTITUTING TEXT           
+  94   94 4 AND NUMBER OF HOUSE BILL FOR SENATE BILL (S 1853).                
+  95   95 1                              SRE205    FEB. 07, 1956              
+  95   95 2 S842008       Y=90 N=0                                            
+  95   95 3 S. RES. 205.  RESOLUTION TO CREATE A SELECT COMMITTEE             
+  95   95 4 TO INVESTIGATE CAMPAIGN CONTRIBUTIONS OFFERED TO                  
+  95   95 5 SENATOR CASE.  ADOPTED.                                           
+  96   96 1                              HR7030    FEB. 08, 1956              
+  96   96 2 S842009       Y=30 N=56                                           
+  96   96 3 HR. 7030.  AMEND AND EXTEND SUGAR ACT OF 1948.                    
+  96   96 4 AMENDMENT TO ESTABLISH DIFFERENT PRO RATA IMPORT QUOTAS AS        
+  96   96 5 TO FUTURE U. S. SUGAR CONSUMPTION INCREASES.  REJECTED.           
+  97   97 1                              SRE       FEB. 22, 1956              
+  97   97 2 S842010       Y=76 N=0                                            
+  97   97 3 EXEC Q, 83RD CONGRESS, 1ST SESSION.  TREATY ON                    
+  97   97 4 IMPORTING TRAD SAMPLES.  RELAX RULES ON IMPORTATION OF            
+  97   97 5 SAMPLE GOODS.  TWO-THIRDS MAJORITY REQUIRED.  RATIFIED.           
+  98   98 1                              SRE219    FEB. 22, 1956              
+  98   98 2 S842011       Y=79 N=1                                            
+  98   98 3 S. RES. 219.  CORRUPT PRACTICES PROBE.  ESTABLISH SPECIAL         
+  98   98 4 COMMITTEE TO INVESTIGATE CAMPAIGN CONTRIBUTIONS,                  
+  98   98 5 LOBBYING, ETC.  ADOPTED.                                          
+  99   99 1                              S3183     MAR. 08, 1956              
+  99   99 2 S842012       Y=54 N=41                ANDERSON, N.M.             
+  99   99 3 S. 3183.  FARM PROGRAM.  AGRICULTURAL ACT OF 1956.                
+  99   99 4 ANDERSON AMENDMENT TO DELETE PROVISION FOR 90 PERCENT OF          
+  99   99 5 PARITY PRICE SUPPORTS.  AGREED TO.                                
+ 100  100 1                              S3183     MAR. 08, 1956              
+ 100  100 2 S842013       Y=44 N=46                HUMPHREY, MINN.            
+ 100  100 3 S. 3183.  FARM PROGRAM  HUMPHREY AMENDMENT TO ESTABLISH           
+ 100  100 4 MINIMUM NATIONAL ACREAGE ALLOTMENT FOR CORN AT 50                 
+ 100  100 5 MILLION ACRES.  REJECTED.                                         
+ 101  101 1                              S3183     MAR. 08, 1956              
+ 101  101 2 S842014       Y=47 N=44                                           
+ 101  101 3 S. 3183.  FARM PROGRAM.  MOTION TO TABLE MOTION TO                
+ 101  101 4 RECONSIDER HUMPHREY AMENDMENT, CQ 13.  AGREED TO.                 
+ 102  102 1                              S3183     MAR. 09, 1956              
+ 102  102 2 S842015       Y=41 N=53                HUMPHREY, MINN.            
+ 102  102 3 S. 3183.  FARM PROGRAM.  HUMPHREY AMENDMENT (TO KERR              
+ 102  102 4 AMENDMENT, CQ 16) PROVIDING INCENTIVE PAYMENTS FOR                
+ 102  102 5 PRODUCERS MARKETING CATTLE AND HOGS AT LIGHTER THAN               
+ 102  102 6 NORMAL WEIGHTS. REJECTED.                                         
+ 103  103 1                              S3183     MAR. 09, 1956              
+ 103  103 2 S842016       Y=32 N=61                KERR, OKLA.                
+ 103  103 3 S. 3183.  FARM PROGRAM.  KERR AMENDMENT TO PROVIDE PRICE          
+ 103  103 4 SUPPORTS ON HOGS AND BEEF AT 75 PERCENT OR AT LEVEL OF            
+ 103  103 5 CORN SUPPORTS, WHICHEVER IS HIGHER.  REJECTED.                    
+ 104  104 1                              S3183     MAR. 09, 1956              
+ 104  104 2 S842017       Y=45 N=45                AIKEN, VT.                 
+ 104  104 3 S. 3183.  FARM PROGRAM.  AIKEN AMENDMENT TO ELIMINATE PRICE       
+ 104  104 4 SUPPORTS FOR MILLABLE WHEAT.  ADOPTED AFTER VICE-PRESIDENT        
+ 104  104 5 NIXON CAST TIE-BREAKING VOTE.                                     
+ 105  105 1                              S3183     MAR. 09, 1956              
+ 105  105 2 S8420186      Y=46 N=41                                           
+ 105  105 3 S. 3183.  FARM PROGRAM.  MOTION TO TABLE A MOTION TO              
+ 105  105 4 RECONSIDER AIKEN AMENDMENT (CQ 17).  ADOPTED.                     
+ 106  106 1                              S3183     MAR. 12, 1956              
+ 106  106 2 S842019       Y=36 N=56                HUMPHREY, MINN.            
+ 106  106 3 S. 3183.  FARM PROGRAM.  HUMPHREY AMENDMENT (TO WILLIAMS          
+ 106  106 4 AMENDMENT, CQ 21) TO PROVIDE 90 PERCENT PRICE                     
+ 106  106 5 SUPPORTS TO FARMERS WHO HAVE NOT RECEIVED MORE THAN $5,000        
+ 106  106 6 IN LOANS FROM COMMODITY CREDIT CORPORATION, AND TO LIMIT          
+ 106  106 7 PRICE SUPPORT LOANS TO ALL PRODUCERS.  REJECTED.                  
+ 107  107 1                              S3183     MAR. 12, 1956              
+ 107  107 2 S842020       Y=84 N=9                 JENNER, IND.               
+ 107  107 3 S. 3183.  FARM PROGRAM.  JENNER AMENDMENT (TO WILLIAMS            
+ 107  107 4 AMENDMENT, CQ 21) TO LIMIT TO $25,000 PAYMENTS TO                 
+ 107  107 5 PRODUCERS WHO PARTICIPATE IN ACREAGE RESERVE PROGRAM.             
+ 107  107 6 ADOPTED.                                                          
+ 108  108 1                              S3183     MAR. 12, 1956              
+ 108  108 2 S842021       Y=78 N=11                WILLIAMS, DEL.             
+ 108  108 3 S. 3183.  FARM PROGRAM.  WILLIAMS AMENDMENT (AS AMENDED           
+ 108  108 4 BY JENNER AMENDMENT, CQ 20, AND RUSSELL AMENDMENT,                
+ 108  108 5 VOICE VOTE) TO LIMIT PRICE SUPPORT LOANS TO PRODUCERS.            
+ 108  108 6 ADOPTED.  (SEE CQ 23.)                                            
+ 109  109 1                              SRE       MAR. 12, 1956              
+ 109  109 2 S842022       Y=92 N=0                                            
+ 109  109 3 NOMINATIONS OF WILLIAM E. DOWLING AND JAMES WELDON JONES          
+ 109  109 4 AS MEMBERS OF TARIFF COMMISSION.  CONFIRMED.                      
+ 110  110 1                              S3183     MAR. 13, 1956              
+ 110  110 2 S842023       Y=54 N=39                CARLSON, KAN.              
+ 110  110 3 S. 3183.      FARM PROGRAM.  CARLSON AMENDMENT TO PROVIDE         
+ 110  110 4 DOMESTIC PARITY FOR WHEAT, AND APPORTIONMENT OF DOMESTIC          
+ 110  110 5 FOOD QUOTA FOR WHEAT ON BASIS OF PRECEDING TEN YEARS'             
+ 110  110 6 PRODUCTION.  ADOPTED.                                             
+ 111  111 1                              S3183     MAR. 13, 1956              
+ 111  111 2 S842024       Y=33 N=57                RUSSELL, GA.               
+ 111  111 3 S. 3183.  FARM PROGRAM.  RUSSELL AMENDMENT TO PROVIDE             
+ 111  111 4 DOMESTIC PARITY FOR COTTON AND IMPORT QUOTAS ON PROCESSED         
+ 111  111 5 COTTON.  REJECTED.                                                
+ 112  112 1                              S3183     MAR. 14, 1956              
+ 112  112 2 S842025       Y=42 N=47                GEORGE, GA.                
+ 112  112 3 S. 3183.  FARM PROGRAM.  GEORGE AMENDMENT TO ELIMINATE            
+ 112  112 4 LANGUAGE ESTABLISHING AVERAGE LENGTH OF COTTON AS                 
+ 112  112 5 STANDARD FOR RECEIVING PRICE SUPPORTS.  REJECTED.                 
+ 113  113 1                              S3183     MAR. 14, 1956              
+ 113  113 2 S842026       Y=89 N=0                 HUMPHREY, MINN.            
+ 113  113 3 S. 3183.  FARM PROGRAM.  HUMPHREY AMENDMENT TO PERMIT             
+ 113  113 4 USE OF CCC FUNDS FOR EXTENSION OF SCHOOL-MILK AND                 
+ 113  113 5 BRUCELLOSIS-CONTROL PROGRAMS.  ADOPTED.                           
+ 114  114 1                              S3183     MAR. 14, 1956              
+ 114  114 2 S842027       Y=29 N=58                PAYNE, ME.                 
+ 114  114 3 S. 3183.  FARM PROGRAM.  PAYNE AMENDMENT TO INCLUDE IN            
+ 114  114 4 THE ACREAGE RESERVE PROGRAM ALL COMMODITIES IN SURPLUS            
+ 114  114 5 SUPPLY.  REJECTED.                                                
+ 115  115 1                              S3183     MAR. 15, 1956              
+ 115  115 2 S842028       Y=44 N=45                AIKEN, VT.                 
+ 115  115 3 S. 3183.  FARM PROGRAM.  AIKEN AMENDMENT TO ELIMINATE DUAL        
+ 115  115 4 PARITY PROVISION.  REJECTED.                                      
+ 116  116 1                              S3183     MAR. 15, 1956              
+ 116  116 2 S842029       Y=49 N=42                                           
+ 116  116 3 S. 3183.  FARM PROGRAM.  MOTION TO TABLE A MOTION TO              
+ 116  116 4 TO RECONSIDER AIKEN AMENDMENT.  AGREED TO.  (SEE CQ 31.)          
+ 117  117 1                              HR833     MAR. 15, 1956              
+ 117  117 2 S842030       Y=46 N=48                                           
+ 117  117 3 HR. 8320.  SCHOOL-MILK AND BRUCELLOSIS-ERADICATION                
+ 117  117 4 PROGRAMS.  EXTEND PROGRAMS FOR 90 DAYS.  MOTION TO                
+ 117  117 5 RECOMMIT CONFERENCE REPORT.  REJECTED.                            
+ 118  118 1                              S3183     MAR. 15, 1956              
+ 118  118 2 S842031       Y=24 N=63                KERR, OKLA.                
+ 118  118 3 S. 3183.  FARM PROGRAM.  KERR AMENDMENT TO INCREASE FUNDS         
+ 118  118 4 TO PERMIT CATTLE PRODUCERS TO PLACE GRAZING LANDS IN RE-          
+ 118  118 5 SERVE. REJECTED.                                                  
+ 119  119 1                              S3183     MAR. 15, 1956              
+ 119  119 2 S842032       Y=42 N=43                MORSE, ORE.                
+ 119  119 3 S. 3183.  FARM PROGRAM.  MORSE AMENDMENT TO ELIMINATE             
+ 119  119 4 REQUIREMENT FOR STATE CONTRIBUTION TO COST OF COMMODITIES         
+ 119  119 5 FURNISHED FOR DISASTER RELIEF.  REJECTED.  (SUBSEQUENTLY          
+ 119  119 6 AGREED TO.  SEE CQ 40.                                            
+ 120  120 1                              S3183     MAR. 16, 1956              
+ 120  120 2 S842033       Y=46 N=43                ANDERSON, N.M.             
+ 120  120 3 S. 3183.  FARM PROGRAM.  AGRICULTURAL ACT OF 1956.  ANDERSON      
+ 120  120 4 AMENDMENT TO ELIMINATE PROVISION REALLOCATING ACREAGE             
+ 120  120 5 AMONG COTTON-PRODUCING STATES ACCORDING TO NUMBER                 
+ 120  120 6 OF SMALL COTTON FARMER PER STATE.  ADOPTED.                       
+ 121  121 1                              S3183     MAR. 16, 1956              
+ 121  121 2 S842034       Y=43 N=47                YOUNG, N.D.                
+ 121  121 3 S. 3183.  FARM PROGRAM.  YOUNG AMENDMENT TO LIMIT IMPORTS         
+ 121  121 4 OF SURPLUS CROPS TO ANNUAL AVERAGE OF PRECEDING THREE             
+ 121  121 5 YEARS.  REJECTED.                                                 
+ 122  122 1                              S3183     MAR. 16, 1956              
+ 122  122 2 S842035       Y=63 N=28                WELKER, IDA.               
+ 122  122 3 S. 3183.  FARM PROGRAM.  WELKER AMENDMENT TO PROHIBIT             
+ 122  122 4 CROP LOANS AND PRICE SUPPORTS FOR SURPLUS CROPS RAISED ON         
+ 122  122 5 NEWLY RECLAIMED LAND IN FEDERAL PROJECTS.  ADOPTED.               
+ 123  123 1                              S3183     MAR. 16, 1956              
+ 123  123 2 S842036       Y=57 N=23                MAGNUSON, WASH.            
+ 123  123 3 S. 3183.  FARM PROGRAM.  MAGNUSON AMENDMENT TO RETAIN 50-50       
+ 123  123 4 CARGO PREFERENCE REQUIREMENT ON FARM COMMODITIES SOLD             
+ 123  123 5 TO FOREIGN COUNTRIES.  ADOPTED.                                   
+ 124  124 1                              S3183     MAR. 19, 1956              
+ 124  124 2 S842037       Y=49 N=44                KERR, OKLA.                
+ 124  124 3 S. 3183.  FARM PROGRAM.  KERR AMENDMENT REQUIRING                 
+ 124  124 4 CERTIFICATION BY PROCESSORS THAT PRICE PAID PRODUCERS WAS         
+ 124  124 5 NOT LESS THAN SUPPORT OR FAIR PRICE.  ADOPTED.                    
+ 125  125 1                              S3183     MAR. 19, 1956              
+ 125  125 2 S842038       Y=52 N=42                KERR, OKLA.                
+ 125  125 3 S. 3183.  FARM PROGRAM.  MOTION TO TABLE A MOTION TO              
+ 125  125 4 RECONSIDER KERR AMENDMENT (CQ 37).  ADOPTED.                      
+ 126  126 1                              S3183     MAR. 19, 1956              
+ 126  126 2 S842039       Y=48 N=46                HOLLAND, FLA.              
+ 126  126 3 S. 3183.  FARM PROGRAM.  HOLLAND AMENDMENT REQUIRING FARMERS      
+ 126  126 4 TO ALLOCATE A CERTAIN PORTION OF LAND TO THE SOIL BANK            
+ 126  126 5 IN ORDER TO RECEIVE PRICE SUPPORTS, TUNG NUT PRODUCERS            
+ 126  126 6 EXCLUDED.  ADOPTED.                                               
+ 127  127 1                              S3183     MAR. 19, 1956              
+ 127  127 2 S842040       Y=47 N=45                MURRAY, MONT.              
+ 127  127 3 S. 3183.  FARM PROGRAM.  MURRAY MOTION TO RECONSIDER              
+ 127  127 4 AMENDMENT BY MORSE (CQ 32) PREVIOUSLY REJECTED.  ADOPTED.         
+ 128  128 1                              S3183     MAR. 19, 1956              
+ 128  128 2 S842041       Y=47 N=45                MORSE, ORE.                
+ 128  128 3 S. 3183.  FARM PROGRAM.  RECONSIDERATION OF MORSE AMENDMENT       
+ 128  128 4 (CQ 32) TO ELIMINATE REQUIREMENT FOR STATE CONTRIBUTION FOR       
+ 128  128 5 DISASTER RELIEF COMMODITIES.  ADOPTED.                            
+ 129  129 1                              S3183     MAR. 19, 1956              
+ 129  129 2 S842042       Y=50 N=44                HUMPHREY, MINN.            
+ 129  129 3 S. 3183.  FARM PROGRAM.  HUMPHREY AMENDMENT TO MAKE MANDA-        
+ 129  129 4 TORY SET-ASIDES FOR CORN, COTTON, AND WHEAT, AND TO               
+ 129  129 5 INCREASE SET-ASIDES FOR LATTER TWO.  ADOPTED.                     
+ 130  130 1                              HR12      MAR. 19, 1956              
+ 130  130 2 S842043       h=93 N=2                                            
+ 130  130 3 HR. 12.  AGRICULTURAL ACT OF 1956.  WITH THE                      
+ 130  130 4 SUBSTITUTION OF THE TEXT OF S. 3183 FOR THE TEXT OF HR. 12.       
+ 130  130 5 PASSED.  (SEE CQ 49, 61.)                                         
+ 131  131 1                              SJRE31    MAR. 27, 1956              
+ 131  131 2 S842044       Y=13 N=69                                           
+ 131  131 3 S.J.RES. 31.  ELECTORAL REFORM.  PROPOSAL TO NOMINATE             
+ 131  131 4 PRESIDENTIAL AND VICE PRESIDENTIAL CANDIDATES BY DIRECT           
+ 131  131 5 VOTE IN NATIONAL PRIMARY AND TO ELECT THE PRESIDENT               
+ 131  131 6 AND VICE-PRESIDENT BY DIRECT POPULAR VOTE.  REJECTED.             
+ 132  132 1                              SJRE31    MAR. 27, 1956              
+ 132  132 2 S842045       Y=17 N=66                                           
+ 132  132 3 S.J.RES. 31.  ELECTORAL REFORM.  SUBSTITUTE PROPOSAL              
+ 132  132 4 TO ABOLISH ELECTORAL COLLEGE AND ELECT PRESIDENT AND              
+ 132  132 5 VICE-PRESIDENT BY DIRECT POPULAR VOTE.  REJECTED.                 
+ 133  133 1                              SJRE31    MAR. 27, 1956              
+ 133  133 2 S842046       Y=20 N=66                                           
+ 133  133 3 S.J. RES. 31.  ELECTORAL REFORM.  SUBSTITUTE PROPOSAL             
+ 133  133 4 TO MAKE ELECTORAL VOTE IN EACH STATE DEPEND ON PERCENTAGE         
+ 133  133 5 OF ELIGIBLE VOTERS BALLOTING.  REJECTED.                          
+ 134  134 1                              SJRE31    MAR. 27, 1956              
+ 134  134 2 S842047       Y=48 N=37                                           
+ 134  134 3 S.J.RES. 31.  ELECTORAL REFORM.  SUBSTITUTE PROPOSAL              
+ 134  134 4 OFFERING STATES A CHOICE BETWEEN DIVIDING ELECTORAL VOTES         
+ 134  134 5 IN PROPORTION TO POPULAR VOTE, AND PROVIDING FOR ELECTORS         
+ 134  134 6 ON A CONGRESSIONAL DISTRICT BASIS.  ADOPTED, BUT FELL             
+ 134  134 7 SHORT OF TWO-THIRDS MAJORITY VOTE NECESSARY FOR PASSAGE OF A      
+ 134  134 8 CONSTITUTIONAL AMENDMENT.                                         
+ 135  135 1                              SCRE2     APR. 11, 1956              
+ 135  135 2 S842048       Y=27 N=59                                           
+ 135  135 3 S.CON.RES. 2.  ESTABLISH JOINT COMMITTEE TO SUPERVICE             
+ 135  135 4 ACTIVITIES OF CENTRAL INTELLIGENCE AGENCY.  REJECTED.             
+ 136  136 1                              HR12      APR. 11, 1956              
+ 136  136 2 S842046       Y=50 N=35                                           
+ 136  136 3 HR. 12.  FARM PROGRAM.  AGRICULTURAL ACT OF 1956.                 
+ 136  136 4 ADOPTION OF CONFERENCE REPORT PROVIDING FOR 90 PERCENT            
+ 136  136 5 MANDATORY PRICE SUPPORTS ON BASIC CORPS FOR ONE YEAR, AND         
+ 136  136 6 FOR SOIL BANK FEATURES.                                           
+ 137  137 1                              SRE       APR. 19, 1956              
+ 137  137 2 S842050       Y=81 N=0                                            
+ 137  137 3 EXEC F, 84TH CONGRESS, 2ND SESSION AND EXECS A AND B,             
+ 137  137 4 84TH CONGRESS, 2ND SESSION.  (F) CIVIL AVIATION.  PROVIDE         
+ 137  137 5 FOR MEETING OF INTERNATIONAL CIVIL AVIATION ORGANIZATION          
+ 137  137 6 EVERY THREE YEARS INSTEAD OF EVERY YEAR.  (A AND B) TRAVEL        
+ 137  137 7 CONVENTIONS.  SIMPLIFY AND STANDARDIZE CUSTOMS PROCEDURES.        
+ 137  137 8 TWO-THIRDS MAJORITY REQUIRED.  RATIFIED EN BLOC.                  
+ 138  138 1                              SJRE97    APR. 19, 1956              
+ 138  138 2 S842051       Y=43 N=40                                           
+ 138  138 3 S.J.RES. 97.  AMEND LAWS PROVIDING FOR U.S. MEMBERSHIP            
+ 138  138 4 IN FOOD AND AGRICULTURE ORGANIZATION AND INTERNATIONAL            
+ 138  138 5 LABOR ORGANIZATION.  AMENDMENT LIMITING FUNDS APPROPRIATED        
+ 138  138 6 IF ANY COMMUNIST NATION WERE TO BE PERMITTED TO                   
+ 138  138 7 VOTE IN ANY ILO CONFERENCE THAT YEAR.  AGREED TO.                 
+ 139  139 1                              S2577     APR. 24, 1956              
+ 139  139 2 S842052       Y=58 N=18                                           
+ 139  139 3 S. 2577.  BANK HOLDING COMPANIES.  DEFINE BANK HOLDING            
+ 139  139 4 COMPANIES, CONTROL THEIR EXPANSION AND REQUIRE DIVESTMENT OF      
+ 139  139 5 THEIR NON-BANKING INTERESTS.  AMENDMENT TO BAR BANK HOLDING       
+ 139  139 6 COMPANIES FOR ACQUIRING ASSETS OF A BANK IN ANOTHER STATE.        
+ 139  139 7 ADOPTED.                                                          
+ 140  140 1                              S2577     APR. 25, 1956              
+ 140  140 2 S842053       Y=13 N=68                CAPEHART, IND.             
+ 140  140 3 S. 2577.  BANK HOLDING COMPANIES.  CAPEHART AMENDMENT TO          
+ 140  140 4 PERMIT BANK HOLDING COMPANIES TO RETAIN NON-BANKING ASSETS.       
+ 140  140 5 REJECTED.                                                         
+ 141  141 1                              S2577     APR. 25, 1956              
+ 141  141 2 S842054       Y=28 N=51                MORSE, ORE.                
+ 141  141 3 S. 2577.  BANK HOLDING COMPANIES.  MORSE AMENDMENT TO             
+ 141  141 4 EXPAND DEFINITION OF BANK HOLDING COMPANIES TO INCLUDE            
+ 141  141 5 COMPANIES CONTROLLING ONLY ONE BANK, INSTEAD OF TWO.              
+ 141  141 6 REJECTED.                                                         
+ 142  142 1                              S3073     MAY 09, 1956               
+ 142  142 2 S842055       Y=32 N=42                                           
+ 142  142 3 S. 3073.  CREATE PUBLIC CORPORATION TO PROVIDE TRANSPORTA-        
+ 142  142 4 TION SYSTEM FOR DISTRICT OF COLUMBIA FOR INTERIM PERIOD           
+ 142  142 5 OF THREE YEARS.  AMENDMENT TO MAKE CORPORATION A                  
+ 142  142 6 FEDERAL AGENCY, THUS PROHIBITING STRIKES.  REJECTED.              
+ 143  143 1                              S3073     MAY 09, 1956               
+ 143  143 2 S842056       Y=41 N=31                                           
+ 143  143 3 S. 3073.  CREATE PUBLIC CORPORATION TO PROVIDE TRANSPORTA-        
+ 143  143 4 TION SYSTEM FOR DISTRICT OF COLUMBIA FOR INTERIM PERIOD           
+ 143  143 5 OF THREE YEARS.  PASSED.                                          
+ 144  144 1                              S3732     MAY 10, 1956               
+ 144  144 2 S842057       Y=39 N=31                                           
+ 144  144 3 S. 3732.  AUTHORIZE $3 BILLION FLOOD DISASTER INSURANCE           
+ 144  144 4 PROGRAM.  AMENDMENT REQUIRING STATES TO PAY PART OF COST          
+ 144  144 5 AFTER JUNE 1959.  ADOPTED.                                        
+ 145  145 1                              S3732     MAY 10, 1956               
+ 145  145 2 S842058       Y=61 N=7                                            
+ 145  145 3 S. 3732.  AUTHORIZE $3 BILLION FLOOD DISASTER INSURANCE           
+ 145  145 4 PROGRAM.  PASSED.                                                 
+ 146  146 1                              S1823     MAY 16, 1956               
+ 146  146 2 S842059       Y=38 N=48                                           
+ 146  146 3 S. 1823.  AUTHORIZE NEW YORK STATE DEVELOPMENT OF                 
+ 146  146 4 NIAGARA RIVER FOR POWER.  MOTION TO RECOMMIT.  REJECTED.          
+ 147  147 1                              S1823     MAY 16, 1956               
+ 147  147 2 S842060       Y=48 N=39                                           
+ 147  147 3 S. 1823.  AUTHORIZE NEW YORK STATE DEVELOPMENT OF                 
+ 147  147 4 RIVER FOR POWER.  PASSED.                                         
+ 148  148 1                              HR10975   MAY 18, 1956               
+ 148  148 2 S842061       Y=49 N=31                                           
+ 148  148 3 HR. 10875.  REVISED FARM BILL.  AGRICULTURAL ACT OF               
+ 148  148 4 1956.  AMENDMENT TO PERMIT SALE OF SURPLUS GOVERNMENT             
+ 148  148 5 WHEAT AS LIVESTOCK FEED.  ADOPTED.                                
+ 149  149 1                              HR10875   MAY 18, 1956               
+ 149  149 2 S842062       Y=39 N=44                                           
+ 149  149 3 HR. 10875.  REVISED FARM BILL.  AMENDMENT TO ELIMINATE PRICE      
+ 149  149 4 SUPPORTS FOR FEED GRAINS.  REJECTED.                              
+ 150  150 1                              HR10875   MAY 18, 1956               
+ 150  150 2 S842063       Y=73 N=14                                           
+ 150  150 3 HR. 10875.  REVISED FARM BILL.  AMENDMENT TO REMOVE NON-          
+ 150  150 4 COMMERCIAL CORN AND SMALL FEEDS FROM ACREAGE RESERVE AND          
+ 150  150 5 ALTER THE PRICE SUPPORTS ON THEM.  ADOPTED.                       
+ 151  151 1                              HR10875   MAY 18, 1956               
+ 151  151 2 S842064       Y=13 N=71                SMITH, N.J.                
+ 151  151 3 HR. 10875.  REVISED FARM BILL.  SMITH AMENDMENT TO                
+ 151  151 4 ELIMINATE SECTION DIRECTING SALE OF GOVERNMENT-HELD COTTON        
+ 151  151 5 AT COMPETITIVE WORLD PRICES.  REJECTED.                           
+ 152  152 1                              HR10875   MAY 18, 1956               
+ 152  152 2 S842065       Y=44 N=29                WILLIAMS, DEL.             
+ 152  152 3 HR. 10875.  REVISED FARM BILL.  WILLIAMS AMENDMENT TO             
+ 152  152 4 SET MAXIMUM LIMIT ON SOIL BANK PAYMENT TO A PRODUCER IN           
+ 152  152 5 ANY ONE STATE.  ADOPTED.                                          
+ 153  153 1                              HR10875   MAY 18, 1956               
+ 153  153 2 S842066       Y=49 N=22                                           
+ 153  153 3 HR. 10875.  REVISED FARM BILL.  MOTION TO RECONSIDER CQ 65.       
+ 153  153 4 ADOPTED.                                                          
+ 154  154 1                              HR10875   MAY 18, 1956               
+ 154  154 2 S842067       Y=28 N=43                WILLIAMS, DEL.             
+ 154  154 3 HR. 10875.  REVISED FARM BILL.  RECONSIDERATION OF                
+ 154  154 4 WILLIAMS AMENDMENT, CQ 65.  REJECTED.                             
+ 155  155 1                              S2875     MAY 23, 1956               
+ 155  155 2 S842068       Y=36 N=46                                           
+ 155  155 3 S. 2875.  CIVIL SERVICE RETIREMENT ACT.  AMENDMENT TO             
+ 155  155 4 DELETE PROVISION PERMITTING FEDERAL CIVIL SERVICE EMPLOYEES       
+ 155  155 5 TO RETIRE AFTER 30 YEARS SERVICE REGARDLESS OF AGE.               
+ 155  155 6 REJECTED.                                                         
+ 156  156 1                              S2875     MAY 23, 1956               
+ 156  156 2 S842069       Y=16 N=65                                           
+ 156  156 3 S. 2875.  CIVIL SERVICE RETIREMENT ACT.  AMENDMENT TO             
+ 156  156 4 DELETE PROVISION TO GIVE RETIREES AUTOMATIC SURVIVOR              
+ 156  156 5 RIGHTS ON FIRST $2400 OF ANNUITIES.  REJECTED.                    
+ 157  157 1                              S3855     MAY 24, 1956               
+ 157  157 2 S842070       Y=40 N=41                                           
+ 157  157 3 S9 3855.  HOUSING ACT AMENDMENTS OF 1956.  EXTEND AND             
+ 157  157 4 AMEND LAWS PROVIDING HOUSING, SLUM CLEARANCE, AND URBAN           
+ 157  157 5 RENEWAL.  AMENDMENT TO RAISE INTEREST RATE ON GOVERNMENT          
+ 157  157 6 LOANS IN COLLEGE HOUSING PROGRAM.  REJECTED.                      
+ 158  158 1                              S3855     MAY 24, 1956               
+ 158  158 2 S842071       Y=41 N=39                                           
+ 158  158 3 S. 3855.  HOUSING ACT AMENDMENTS.  MOTION TO TABLE MOTION TO      
+ 158  158 4 RECONSIDER VOTE ON CQ 70.  ADOPTED.                               
+ 159  159 1                              S3855     MAY 24, 1956               
+ 159  159 2 S842072       Y=38 N=41                                           
+ 159  159 3 S. 3855.  HOUSING ACT AMENDMENTS.  AMENDMENT TO PROVIDE           
+ 159  159 4 35,000 UNITS OF PUBLIC HOUSING PER YEAR FOR EACH                  
+ 159  159 5 OF THE NEXT TWO YEARS,  INSTEAD OF 135,000 A YEAR FOR THE         
+ 159  159 6 NEXT FOUR YEARS.  REJECTED.                                       
+ 160  160 1                              S3855     MAY 24, 1956               
+ 160  160 2 S842073       Y=32 N=44                                           
+ 160  160 3 S. 3855.  HOUSING ACT AMENDMENTS.  AMENDMENT TO                   
+ 160  160 4 REQUIRE CITIES TO HAVE A 'WORKABLE PROGRAM' FOR SLUM              
+ 160  160 5 CLEARANCE BEFORE THEY CAN GET PUBLIC HOUSING SUBSIDIES.           
+ 160  160 6 REJECTED.                                                         
+ 161  161 1                              HR10660   MAY 29, 1956               
+ 161  161 2 S842074       Y=39 N=39                                           
+ 161  161 3 HR. 10660.  HIGHWAY CONSTRUCTION ACT.  AMEND FEDERAL-             
+ 161  161 4 AID ROAD ACT BY AUTHORIZING FUNDS FOR HIGHWAY CONSTRUCTION,       
+ 161  161 5 AND AMEND INTERNAL REVENUE CODE TO PROVIDE ADDITIONAL             
+ 161  161 6 REVENUE FOR HIGHWAYS.  AMENDMENT TO PROVIDE THAT LOCALLY          
+ 161  161 7 PREVAILING WAGE RATE AS DETERMINED BY STATES BE PAID IN           
+ 161  161 8 INTERSTATE HIGHWAY CONSTRUCTION.  TENTATIVELY ADOPTED AFTER       
+ 161  161 9 VICE-PRESIDENT CAST TIE-BREAKING VOTE IN FAVOR.                   
+ 162  162 1                              HR10660   MAY 29, 1956               
+ 162  162 2 S842075       Y=41 N=39                                           
+ 162  162 3 HR. 10660.  HIGHWAY CONSTRUCTION ACT.  MOTION TO TABLE            
+ 162  162 4 MOVE TO RECONSIDER CQ 74.  ADOPTED.                               
+ 163  163 1                              HR10660   MAY 29, 1956               
+ 163  163 2 S842076       Y=37 N=41                                           
+ 163  163 3 HR. 10660.  HIGHWAY CONSTRUCTION ACT.  MOTION                     
+ 163  163 4 TO TABLE CQ 77, AN AMENDMENT PROVIDING FOR PAYMENT OF PRE-        
+ 163  163 5 VAILING WAGES DETERMINED BY SECRETARY OF LABOR.  REJECTED.        
+ 164  164 1                              HR10660   MAY 29, 1956               
+ 164  164 2 S842077       Y=42 N=37                                           
+ 164  164 3 HR. 10660.  HIGHWAY CONSTRUCTION ACT.  AMENDMENT TO PROVIDE       
+ 164  164 4 THAT LOCALLY PREVAILING WAGES, AS DETERMINED BY THE               
+ 164  164 5 SECRETARY OF LABOR, BE PAID IN INTERSTATE HIGHWAY                 
+ 164  164 6 CONSTRUCTION.  ADOPTED.                                           
+ 165  165 1                              HR10660   MAY 29, 1956               
+ 165  165 2 S842078       Y=27 N=55                                           
+ 165  165 3 HR. 10660.  HIGHWAY CONSTRUCTION ACT.  AMENDMENT TO PROVDE        
+ 165  165 4 FORMULA FOR APPORTIONING APPROPRIATIONS AMONG STATES              
+ 165  165 5 ON BASIS OF COST ESTIMATES.  REJECTED.                            
+ 166  166 1                              HR10660   MAY 29, 1956               
+ 166  166 2 S842079       Y=36 N=33                                           
+ 166  166 3 HR. 10660.  HIGHWAY CONSTRUCTION ACT.  MOTION TO TABLE            
+ 166  166 4 RECONSIDERATION OF PROVISION PROVIDING FOR REVIEW AND             
+ 166  166 5 APPEAL OF WAGE DETERMINATIONS MADE BY SECRETARY OF LABOR.         
+ 166  166 6 ADOPTED.  (SEE CQ 84.)                                            
+ 167  167 1                              S3982     JUNE 18, 1956              
+ 167  167 2 S842080       Y=22 N=32                                           
+ 167  167 3 S. 3982.  STRATEGIC MINERALS.  PROVIDE FOR MAINTENANCE OF         
+ 167  167 4 PRODUCTION OF TUNGSTEN, ASBESTOS, FLUORSPAR,                      
+ 167  167 5 AND COLUMBIUM-TANTALUM IN U. S., ITS TERRITORIES, AND             
+ 167  167 6 PROSSESSIONS.  AMENDMENT TO LIMIT GSA PURCHASE OF TUNGSTEN        
+ 167  167 7 FROM ANY ONE PRODUCER.  REJECTED.                                 
+ 168  168 1                              S3879     JUNE 19, 1956              
+ 168  168 2 S842081       Y=75 N=1                                            
+ 168  168 3 S. 3879.  AUTO DEALER FRANCHISES.  ENABLE AUTO DEALERS TO         
+ 168  168 4 SUE MANUFACTURERS IN CONNECTION WITH TERMINATION OF               
+ 168  168 5 FRANCHISES.  PASSED.                                              
+ 169  169 1                              HR9852    JUNE 22, 1956              
+ 169  169 2 S842082       Y=20 N=50                                           
+ 169  169 3 HR. 9852.  DEFENSE PRODUCTION ACT OF 1950.  EXTEND THE            
+ 169  169 4 ACT UNTIL 1958.  MOTION TO TABLE AMENDMENT (CQ 83) DECLARING      
+ 169  169 5 CONGRESSIONAL POLICY TO BE DECENTRALIZATION OF U.S.               
+ 169  169 6 INDUSTRY IN THE INTEREST OF NATIONAL DEFENSE.  REJECTED.          
+ 170  170 1                              HR9852    JUNE 22, 1956              
+ 170  170 2 S842083       Y=48 N=13                                           
+ 170  170 3 HR. 9852.  DEFENSE PRODUCTION ACT OF 1950.  AMENDMENT             
+ 170  170 4 DECLARING CONGRESSIONAL POLICY TO BE DECENTRALIZATION OF          
+ 170  170 5 U. S. INDUSTRY.  AGREED TO.                                       
+ 171  171 1                              HR10660   JUNE 22, 1956              
+ 171  171 2 S842084       Y=89 N=1                                            
+ 171  171 3 HR. 10660.  HIGHWAY CONSTRUCTION ACT.  CONFERENCE REPORT          
+ 171  171 4 ON FEDERAL HIGHWAY AND HIGHWAY REVENUE ACTS. ADOPTED.             
+ 172  172 1                              HR10986   JUNE 26, 1956              
+ 172  172 2 S842085       Y=42 N=47                                           
+ 172  172 3 HR. 10986.  DEFENSE APPROPRIATIONS FOR FISCAL 1957.  AMEND-       
+ 172  172 4 MENT REDUCING FUNDS FOR AIRCRAFT AND AIR FORCE OPERATIONS.        
+ 172  172 5 REJECTED.                                                         
+ 173  173 1                              HR10986   JUNE 26, 1956              
+ 173  173 2 S842086       Y=48 N=40                                           
+ 173  173 3 HR. 10986.  DEFENSE APPROPRIATIONS.  AMENDMENT INCREASING         
+ 173  173 4 FUNDS FOR AIRCRAFT AND RELATED PROCUREMENT.  ADOPTED.             
+ 174  174 1                              HR10986   JUNE 26, 1956              
+ 174  174 2 S842087       Y=88 N=0                                            
+ 174  174 3 HR. 10986.  DEFENSE APPROPRIATIONS FOR FISCAL 1957.  PASSED.      
+ 175  175 1                              HR11356   JUNE 26, 1956              
+ 175  175 2 S842088       Y=43 N=45                                           
+ 175  175 3 HR. 11356.  AUTHORIZATION OF FISCAL 1957 FUNDS FOR MUTUAL         
+ 175  175 4 SECURITY PROGRAM.  AMENDMENT TO LIMIT IMPORTS OF AGRICULTU-       
+ 175  175 5 RAL COMMODITIES OR DERIVATIVE PRODUCTS DECLARED SURPLUS IN        
+ 175  175 6 U. S. REJECTED.                                                   
+ 176  176 1                              HR11356   JUNE 28, 1956              
+ 176  176 2 S842089       Y=52 N=36                                           
+ 176  176 3 HR. 11356.  FOREIGN AID.  AMENDMENT MAKING CONTINUED AID          
+ 176  176 4 TO YUGOSLAVIA CONDITIONAL ON THE PRESIDENT'S FINDING THAT         
+ 176  176 5 THAT NATION IS NOT PART OF COMMUNIST WORLD CONSPIRACY,            
+ 176  176 6 AND HIS REPORTING REASONS FOR CONTINUED AID TO CONGRESS.          
+ 176  176 7 ADOPTED.                                                          
+ 177  177 1                              HR11356   JUNE 28, 1956              
+ 177  177 2 S842090       Y=38 N=50                                           
+ 177  177 3 HR. 11356.  FOREIGN AID.  AMENDMENT TO CUT OFF ALL AID TO         
+ 177  177 4 YUGOSLAVIA.  REJECTED.                                            
+ 178  178 1                              HR11356   JUNE 28, 1956              
+ 178  178 2 S842091       Y=27 N=58                                           
+ 178  178 3 HR. 11356.  FOREIGN AID.  AMENDMENT TO REDUCE TOTAL AUTHORI-      
+ 178  178 4 ZATION.  REJECTED.                                                
+ 179  179 1                              HR11356   JUNE 28, 1956              
+ 179  179 2 S842092       Y=36 N=52                                           
+ 179  179 3 HR. 11356.  FOREIGN AID.  AMENDMENT TO LIMIT IMPORTS OF           
+ 179  179 4 COTTON AND DERIVATIVES WHEN U. S. HAS SURPLUS.  REJECTED.         
+ 180  180 1                              HR11356   JUNE 28, 1956              
+ 180  180 2 S842093       Y=41 N=45                                           
+ 180  180 3 HR. 11356.  FOREIGN AID.  AMENDMENT TO ESTABLISH COMMISSION       
+ 180  180 4 TO INVESTIGATE FOREING AID PROGRAMS.  REJECTED.                   
+ 181  181 1                              HR11356   JUNE 28, 1956              
+ 181  181 2 S842094       Y=23 N=60                                           
+ 181  181 3 HR. 11356.  FOREIGN AID.  AMENDMENT TO SUSPEND AID TO             
+ 181  181 4 COUNTRIES SHIPPING FOODS EMBARGOED BY U.S. TO SOVIET BLOC.        
+ 181  181 5 REJECTED.                                                         
+ 182  182 1                              HR11356   JUNE 29, 1956              
+ 182  182 2 S842095       Y=23 N=58                                           
+ 182  182 3 HR. 11356.  FOREIGN AID.  AMENDMENT TO DIRECT EXECUTIVE           
+ 182  182 4 BRANCH TO FURNISH ANY INFORMATION ON THE MUTUAL SECURITY          
+ 182  182 5 PROGRAM REQUESTED BY CONGRESS.  REJECTED.                         
+ 183  183 1                              HR11356   JUNE 29, 1956              
+ 183  183 2 S842096       Y=23 N=56                                           
+ 183  183 3 HR. 11356.  FOREIGN AID.  AMENDMENT TO REDUCE DEVELOPMENT         
+ 183  183 4 ASSISTANCE AND TECHNICAL COOPERATION FUNDS TO INDIA.              
+ 183  183 5 REJECTED.                                                         
+ 184  184 1                              HR11356   JUNE 29, 1956              
+ 184  184 2 S842097       Y=54 N=25                                           
+ 184  184 3 HR. 11356.  FOREIGN AID.  PASSED.  (SEE CQ 116).                  
+ 185  185 1                              S3449     JULY 09, 1956              
+ 185  185 2 S842098       Y=22 N=62                                           
+ 185  185 3 S. 3449.  INCREASE AIRLINE SUBSIDIES BY PROVIDING THAT            
+ 185  185 4 CERTAIN CAPITAL GAINS FROM SALE OF FLIGHT EQUIPMENT               
+ 185  185 5 IF REINVESTED IN NEW EQUIPMENT, WILL NOT BE COUNTED AS            
+ 185  185 6 REVENUE IN DETERMINING SUBSIDIES.  MOTION TO RECOMMIT.            
+ 185  185 7 REJECTED.                                                         
+ 186  186 1                              S3449     JULY 09, 1956              
+ 186  186 2 S842099       Y=37 N=46                                           
+ 186  186 3 S. 3449.  PROVIDE THAT CERTAIN AIRLINE CAPITAL GAINS NOT BE       
+ 186  186 4 COUNTED AS REVENUE IN DETERMINING AIR SUBSIDIES.  AMENDMENT       
+ 186  186 5 TO DEDUCT CAPITAL GAINS REINVESTED IN NEW EQUIPMENT               
+ 186  186 6 FROM THE DEPRECIATION BASE OF NEW EQUIPMENT FOR DETERMINING       
+ 186  186 7 SUBSIDIES, AND PROVIDE FOR RECOVERY BY TREASURY OF BALANCE        
+ 186  186 8 OF CAPITAL GAINS IF AIRLINE GOES OFF SUBSIDY.                     
+ 186  186 9 REJECTED.                                                         
+ 187  187 1                              S3449     JULY 09, 1956              
+ 187  187 2 S842100       Y=32 N=43                                           
+ 187  187 3 S. 3449.  PROVIDE THAT CERTAIN AIRLINE CAPITAL GAINS NOT BE       
+ 187  187 4 COUNTED AS REVENUE IN DETERMINING AIR SUBSIDIES.  AMENDMENT       
+ 187  187 5 TO RESTRICT APPLICATION OF BILL TO AIRLINES WITH ANNUAL           
+ 187  187 6 GROSS INCOME LESS THAN $50 MILLION.  REJECTED.                    
+ 188  188 1                              S3449     JULY 09, 1956              
+ 188  188 2 S842101       Y=53 N=22                                           
+ 188  188 3 S. 3449.  PROVIDE THAT CERTAIN AIRLINE CAPITAL GAINS NOT BE       
+ 188  188 4 COUNTED AS REVENUE IN DETERMINING AIR SUBSIDIES.                  
+ 188  188 5 PASSED.                                                           
+ 189  189 1                              SRE       JULY 11, 1956              
+ 189  189 2 S842102       Y=85 N=2                                            
+ 189  189 3 EXEC I, 84TH CONGRESS, 2D SESSION.  PROVIDE FOR                   
+ 189  189 4 PARTICIPATION OF U.S. IN INTERNATIONAL WHEAT AGREEMENT,           
+ 190  190 1                              SRE       JULY 11, 1956              
+ 190  190 2 S842103       Y=88 N=0                                            
+ 190  190 3 EXECS E, G, AND H, 84TH CONGRESS, 2ND SESSION.  FRIENDSHIP        
+ 190  190 4 AND COMMERCE AND TREATIES WITH IRAN, NICARAGUA, AND THE           
+ 190  190 5 NETHERLANDS.  TWO-THIRDS MAJORITY REQUIRED.  RATIFIED             
+ 190  190 6 EN BLOC.                                                          
+ 191  191 1                              S4146     JULY 12, 1956              
+ 191  191 2 S842104       Y=49 N=40                                           
+ 191  191 3 S. 4146.  PROVIDE FOR CIVILIAN ATOMIC POWER ACCELERATION          
+ 191  191 4 PROGRAM.  PASSED.                                                 
+ 192  192 1                              SRE       JULY 16, 1956              
+ 192  192 2 S842105       Y=20 N=63                                           
+ 192  192 3 NOMINATION OF SIMON E. SOBELOFF TO U.S. COURT OF APPEALS,         
+ 192  192 4 FOURTH CIRCUIT.  MOTION TO RECOMMIT.  REJECTED.                   
+ 193  193 1                              SRE       JULY 16, 1956              
+ 193  193 2 S842106       Y=64 N=19                                           
+ 193  193 3 CONFIRMATION OF NOMINATION OF SIMON E. SOBELOFF TO                
+ 193  193 4 U.S. COURT OF APPEALS, FOURTH CIRCUIT.                            
+ 194  194 1                              HR7225    JULY 16, 1956              
+ 194  194 2 S842107       Y=62 N=21                                           
+ 194  194 3 HR. 7225.  AMEND SOCIAL SECURITY ACT TO EXTEND OLD AGE            
+ 194  194 4 AND SURVIVORS' INSURANCE COVERAGE.  AMENDMENT TO EXTEND           
+ 194  194 5 OLD AGE AND SURVIVORS' INSURANCE COVERAGE.  AMENDMENT TO          
+ 194  194 6 EXTEND 1952 MATCHING FORMULA AND INCREASE FEDERAL SHARE           
+ 194  194 7 OF AID TO BLIND AND DISABLED AND FEDERAL SHARE OF OLD AGE         
+ 194  194 8 ASSISTANCE.  AGREED TO.                                           
+ 195  195 1                              HR7225    JULY 17, 1956              
+ 195  195 2 S842108       Y=47 N=45                                           
+ 195  195 3 HR. 7225.  AMEND SOCIAL SECURITY ACT TO EXTEND OASI               
+ 195  195 4 COVERAGE.  AMENDMENT TO PAY OASI BENEFITS TO DISABLED             
+ 195  195 5 WORKERS AT AGE 50, SET UP SEPARATE TRUST FUND FOR                 
+ 195  195 6 DISABILITY PAYMENTS, AND INCREASE OASI TAXES. AGREED TO.          
+ 196  196 1                              HR7225    JULY 17, 1956              
+ 196  196 2 S842109       Y=49 N=43                                           
+ 196  196 3 HR. 7225.  AMEND SOCIAL SECURITY ACT TO EXTEND OASI               
+ 196  196 4 COVERAGE.  MOTION TO LAY ON THE TABLE A MOTION TO RECONSIDER      
+ 196  196 5 CQ 108.  AGREED TO.                                               
+ 197  197 1                              HR7225    JULY 17, 1956              
+ 197  197 2 S842110       Y=86 N=7                                            
+ 197  197 3 COVERAGE.  AMENDMENT TO MAKE OASI PAYMENTS AVAILABLE TO           
+ 197  197 4 WOMEN AT AGE 62.  AGREED TO.                                      
+ 198  198 1                              HR7225    JULY 17, 1956              
+ 198  198 2 S842111       Y=56 N=34                                           
+ 198  198 3 HR. 7225.  AMEND SOCIAL SECURITY ACT TO EXTEND OASI               
+ 198  198 4 COVERAGE.  AMENDMENT TO PERMIT STATES TO DISREGARD FIRST          
+ 198  198 5 $50 OF MONTHLY INCOME IN DETERMINING NEED OF OASI                 
+ 198  198 6 RECIPIENTS.  AGREED TO.                                           
+ 199  199 1                              HR7225    JULY, 17, 1956             
+ 199  199 2 S842112       Y=90 N=0                                            
+ 199  199 3 HR. 7225.  AMEND SOCIAL SECURITY ACT TO EXTEND OASI               
+ 199  199 4 COVERAGE.  PASSED.                                                
+ 200  200 1                              S1333     JULY 19, 1956              
+ 200  200 2 S842113       Y=41 N=51                                           
+ 200  200 3 S. 1333.  AUTHORIZE CONSTRUCTION, OPERATION, AND                  
+ 200  200 4 MAINTENANCE OF HELLS CANYON DAM.  REJECTED.                       
+ 201  201 1                              SRE       JULY 19, 1956              
+ 201  201 2 S842114       Y=87 N=0                                            
+ 201  201 3 EXECS J AND K, 84TH CONGRESS, 2ND SESSION.  TAX CONVENTIONS       
+ 201  201 4 WITH FRANCE AND HONDURAS TO AVOID DOUBLE TAXATION.  TWO-          
+ 201  201 5 THIRDS MAJORITY REQUIRED.  RATIFIED EN BLOC.                      
+ 202  202 1                              SRE       JULY 20, 1956              
+ 202  202 2 S842115       Y=64 N=22                                           
+ 202  202 3 CONFIRMATION OF NOMINATION OF PAUL G. HOFFMAN TO BE               
+ 202  202 4 U.S. REPRESENTATIVE TO GENERAL ASSEMBLY OF U.N.                   
+ 203  203 1                              HR12130   JULY 20, 1956              
+ 203  203 2 S842116       Y=42 N=46                                           
+ 203  203 3 HR. 12130.                                                        
+ 203  203 4 FOREIGN AID APPROPRIATIONS FOR FISCAL 1957.  AMENDMENT            
+ 203  203 5 REDUCING MILITARY ASSISTANCE TO $1.7 BILLION.  REJECTED.          
+ 204  204 1                              HR12130   JULY 20, 1956              
+ 204  204 2 S842117       Y=37 N=44                                           
+ 204  204 3 HR. 12130.  FOREIGN AID APPROPRIATIONS.  AMENDMENT                
+ 204  204 4 REDUCING MILITARY ASSISTANCE TO $2 BILLION.  REJECTED.            
+ 205  205 1                              HR12130   JULY 20, 1956              
+ 205  205 2 S842118       Y=42 N=44                                           
+ 205  205 3 HR 12130.  FOREIGN AID APPROPRIATIONS.  AMENDMENT REDUCING        
+ 205  205 4 MILITARY ASSISTANCE TO $2.1 BILLION.  REJECTED.                   
+ 206  206 1                              HR12130   JULY 20, 1956              
+ 206  206 2 S842119       Y=50 N=39                                           
+ 206  206 3 HR. 12130.  FOREIGN AID APPROPRIATIONS.  COMMITTEE                
+ 206  206 4 AMENDMENT TO INCREASE MILITARY ASSISTANCE FROM $1.7 TO $2.3       
+ 206  206 5 BILLION.  AGREED TO.                                              
+ 207  207 1                              HR12130   JULY 24, 1956              
+ 207  207 2 S842120       Y=36 N=54                                           
+ 207  207 3 HR. 12130.  FOREIGN AID APPROPRIATIONS.  FOUR AMENDMENTS          
+ 207  207 4 TO REDUCE DEFENSE SUPPORT FUNDS FOR EUROPE, THE NEAR EAST,        
+ 207  207 5 AFRICA, AND ASIA, AND TO REDUCE DEVELOPMENT ASSISTANCE            
+ 207  207 6 FUNDS.  REJECTED EN BLOC.                                         
+ 208  208 1                              HR12130   JULY 24, 1956              
+ 208  208 2 S842121       Y=57 N=33                                           
+ 208  208 3 HR. 12130.  FOREIGN AID APPROPRIATIONS.  COMMITTEE AMEND-         
+ 208  208 4 MENTS INCREASING DEFENSE SUPPORT AND DEVELOPMENT ASSISTANCE       
+ 208  208 5 FUNDS.  AGREED TO.                                                
+ 209  209 1                              HR12130   JULY 24, 1956              
+ 209  209 2 S842122       Y=59 N=33                                           
+ 209  209 3 HR. 12130.  FOREIGN AID APPROPRIATIONS.  MOTION TO SUSPEND        
+ 209  209 4 SENATE RULE TO PERMIT AN AMENDMENT OF A LEGISLATIVE NATURE        
+ 209  209 5 TO AN APPROPRIATION BILL.  TWO-THIRDS MAJORITY REQUIRED.          
+ 209  209 6 REJECTED.                                                         
+ 210  210 1                              HR12130   JULY 24, 1956              
+ 210  210 2 S842123       Y=50 N=42                                           
+ 210  210 3 HR. 12130.  FOREIGN AID APPROPRIATIONS, FISCAL 1957.              
+ 210  210 4 AMENDMENT TO BAR USE OF FUNDS FOR MILITARY EQUIPMENT              
+ 210  210 5 TO YUGOSLAVIA EXCEPT TO MAINTAIN EQUIPMENT PREVIOUSLY             
+ 210  210 6 FURNISHED.  AGREED TO.                                            
+ 211  211 1                              HR12130   JULY 24, 1956              
+ 211  211 2 S842124       Y=60 N=30                                           
+ 211  211 3 HR. 12130.  FISCAL 1957 FOREIGN AID APPROPRIATIONS.  PASSED.      
+ 212  212 1                              HCRE265   JULY 23, 1956              
+ 212  212 2 S842125       Y=86 N=0                                            
+ 212  212 3 H.CON.RES. 265.  EXPRESS SENSE OF CONGRESS AGINST ADMITTING       
+ 212  212 4 RED CHINA AS THE REPRESENTATIVE OF CHINA TO THE U.N.              
+ 212  212 5 ADOPTED.                                                          
+ 213  213 1                              PROC      JULY 24, 1956              
+ 213  213 2 S842126       Y=6 N=76                                            
+ 213  213 3 MOTION TO ADJOURN FOR FIVE MINUTES.  PARLIAMENTARY MOVE           
+ 213  213 4 TO BRING CIVIL RIGHTS BILL TO FLOOR.  REJECTED.                   
+ 214  214 1                              HR12350   JULY 25, 1956              
+ 214  214 2 S842127       Y=32 N=56                                           
+ 214  214 3 HR. 12350.  SECOND SUPPLEMENTAL APPROPRIATION FOR                 
+ 214  214 4 FISCAL 1957.  AMENDMENT TO PROVIDE FUNDS FOR ADDITIONAL D.C.      
+ 214  214 5 AIRPORT.  REJECTED.                                               
+ 215  215 1                              S2663     JULY 25, 1956              
+ 215  215 2 S842128       Y=43 N=43                                           
+ 215  215 3 S. 2663.  DEPRESSED AREAS.  AMENDMENT TO PLACE PROPOSED AREA      
+ 215  215 4 REDEVELOPMENT ADMINISTRATION WITHIN DEPARTMENT OF                 
+ 215  215 5 COMMERCE.  REJECTED.                                              
+ 216  216 1                              S2663     JULY 26, 1956              
+ 216  216 2 S842129       Y=60 N=30                                           
+ 216  216 3 S9 2663.  DEPRESSED AREAS.  BILL TO ESTABLISH PROGRAM             
+ 216  216 4 TO ALLEVIATE CONDITIONS OF EXCESSIVE UNEMPLOYMENT IN CERTAIN      
+ 216  216 5 DEPRESSED AREAS.  PASSED.                                         
+ 217  217 1                              HR3210    JULY 27, 1956              
+ 217  217 2 S842130       Y=43 N=33                                           
+ 217  217 3 HR. 3210.  LAKE MICHIGAN WATER.  PERMIT TEST OF THE EFFECT        
+ 217  217 4 OF INCREASING THE AMOUNT OF WATER DIVERTED FROM LAKE              
+ 217  217 5 MICHIGAN INTO ILLINOIS WATERWAY.  PASSED.                         

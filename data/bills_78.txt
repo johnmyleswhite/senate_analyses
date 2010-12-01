@@ -1,0 +1,1276 @@
+   1    1 1 CR-89-1-144                  SRE47     JAN. 14, 1943              
+   1    1 2 S781001       Y=29 N=43                MCNARY, ORE.               
+   1    1 3 TO AMEND S.RES. 47, ELECTION OF PRESIDENT PRO TEMPORE, BY         
+   1    1 4 PROVIDING THAT SENATOR VANDENBERG'S NAME BE SUBSTITUTED           
+   1    1 5 FOR SENATOR GLASS IN THE ELECTION OF A SENATE PRESIDENT PRO       
+   1    1 6 TEMPORE.                                                          
+   2    2 1 CR-89-1-354                  S158      JAN. 25, 1943              
+   2    2 2 S781002       Y=29 N=49                TAFT, OHIO                 
+   2    2 3 TO AMEND S. 158, A BILL TO PERMIT CONSOLIDATIONS AND MERGERS      
+   2    2 4 OF DOMESTIC TELEGRAPH CARRIERS, BY REDUCING FROM 5 YEARS          
+   2    2 5 TO 2 YEARS THE PERIOD WHICH COMPANIES CONSOLIDATING UNDER         
+   2    2 6 THIS LEGISLATION MUST RETAIN EMPLOYEES AFTER THE DATE OF          
+   2    2 7 MERGER.                                                           
+   3    3 1 CR-89-1-354                  S158      JAN. 25, 1943              
+   3    3 2 S781003       Y=70 N=10                                           
+   3    3 3 TO PASS S. 158, A BILL TO PERMIT CONSOLIDATIONS AND MERGERS       
+   3    3 4 OF DOMESTIC TELEGRAPH CARRIERS.                                   
+   4    4 1 CR-89-1-463                            FEB. 1, 1943               
+   4    4 2 S781004       Y=46 N=31                                           
+   4    4 3 NOMINATION OF JOSH LEE TO BE A MEMBER OF THE CIVIL AERO-          
+   4    4 4 NAUTICS BOARD.                                                    
+   5    5 1 CR-89-1-608                  S607      FEB. 4, 1943               
+   5    5 2 S781005       Y=39 N=28                REYNOLDS, N.C.             
+   5    5 3 TO REFER S. 607, OFFICE OF WAR MOBILIZATION BILL TO THE           
+   5    5 4 COMMITTEE ON MILITARY AFFAIRS.                                    
+   6    6 1 CR-89-1-1196                 S158      FEB. 22, 1943              
+   6    6 2 S781006       Y=42 N=17                MCFARLAND, ARIZ.           
+   6    6 3 CONFERENCE REPORT ON S. 158, A BILL TO PERMIT CONSILIDATION       
+   6    6 4 AND MERGER OF DOMESTIC TELEGRAPH CARRIERS.                        
+   7    7 1 CR-89-1-1308                 S660      FEB. 25, 1943              
+   7    7 2 S781007       Y=78 N=2                 BANKHEAD, ALA.             
+   7    7 3 TO PASS S. 660, A BILL TO PREVENT CERTAIN DEDUCTIONS IN           
+   7    7 4 DETERMINING PARITY OR COMPARABLE PRICES OF AGRICULTURAL           
+   7    7 5 COMMODITIES.                                                      
+   8    8 1 CR-89-1-1317                 HJR82     FEB. 25, 1943              
+   8    8 2 S781008       Y=56 N=7                 MCKELLAR, TENN.            
+   8    8 3 TO AMEND H.J.RES. 82, A BILL TO MAKE URGENT DEFICIENCY            
+   8    8 4 APPROPRIATIONS, BY CUTTING THE APPROPRIATION FOR THE              
+   8    8 5 OFFICE OF THE TREASURER OF THE U.S. FROM $1 MILLION TO            
+   8    8 6 $750,000.                                                         
+   9    9 1 CR-89-1-1322                           FEB. 25, 1943              
+   9    9 2 S781009       Y=46 N=20                                           
+   9    9 3 ON THE NOMINATION OF HARRY H. SCHWARTZ TO BE A MEMBER OF THE      
+   9    9 4 NATIONAL MEDIATION BOARD.                                         
+  10   10 1 CR-89-1-1405                 S17       MAR. 1, 1943               
+  10   10 2 S781010       Y=40 N=31                BURTON, OHIO               
+  10   10 3 TO AMEND S. 17, A BILL TO INCREASE PAY OF POLICEMEN AND           
+  10   10 4 FIREMEN IN THE DISTRICT OF COLUMBIA.                              
+  11   11 1 CR-89-1-1406                 S18       MAR. 1, 1943               
+  11   11 2 S781011       Y=38 N=34                BURTON, OHIO               
+  11   11 3 TO AMEND S. 18, TEMPORARY ADJUSTMENT OF SALARIES FOR              
+  11   11 4 TEACHERS IN THE D. OF C., BY REDUCING                             
+  11   11 5 INCREASE PROPOSED FOR THE PAY OF TEACHERS.                        
+  12   12 1 CR-89-2-1466                 S163      MAR. 2, 1943               
+  12   12 2 S781012       Y=54 N=7                                            
+  12   12 3 TO PASS S. 163, A BILL TO AMEND SECTION 511 OF THE                
+  12   12 4 MERCHANT MARINE ACT, 1936, AS AMENDED, RELATING TO SHIP-          
+  12   12 5 CONSTRUCTION RESERVE FUNDS, AND FOR OTHER PURPOSES.               
+  13   13 1 CR-89-2-1842                 S729      MAR. 11, 1943              
+  13   13 2 S781013       Y=32 N=49                O'MAHONEY, WYO.            
+  13   13 3 TO AMEND S. 729, A BILL TO PROVIDE DEFEREMENT FROM MILITARY       
+  13   13 4 SERVICE OF PERSONS ENGAGED IN AGRICULTURE, BY RESTRICTING         
+  13   13 5 TO SOME EXTENT THE NUMBER OF PERSONS DEFERRED.                    
+  14   14 1 CR-89-2-1853                 HR1501    MAR. 11, 1943              
+  14   14 2 S781014       Y=82 N=0                                            
+  14   14 3 TO PASS H.R. 1501, A BILL TO EXTEND THE LEND-LEASE ACT            
+  14   14 4 FOR 1 YEAR.                                                       
+  15   15 1 CR-89-2-2127                 S729      MAR. 17, 1943              
+  15   15 2 S781015       Y=9 N=65                 PEPPER, FLA.               
+  15   15 3 TO AMEND S. 729, SO THAT, INSTEAD OF GRANTING OUTRIGHT            
+  15   15 4 DEFERMENTS TO FARM WORKERS THE AMENDMENT WOULD SET UP             
+  15   15 5 A "BOARD OF WAR MOBILIZATION" WHOSE DUTY IT WAS TO MAKE           
+  15   15 6 RECOMMENDATIONS AS TO MANPOWER MOBILIZATION.                      
+  16   16 1 CR-89-2-2128                 S729      MAR. 17, 1943              
+  16   16 2 S781016       Y=23 N=51                PEPPER, FLA.               
+  16   16 3 TO RECOMMIT S. 729 TO THE COMMITTEE ON MILITARY AFFAIRS           
+  16   16 4 FOR FURTHER CONSIDERATION.                                        
+  17   17 1 CR-89-2-2128                 S729      MAR. 17, 1943              
+  17   17 2 S781017       Y=51 N=23                JOHNSON, COLO.             
+  17   17 3 TO AMEND S. 729, TO PROVIDE MORE LIBERAL DEFERMENTS FOR           
+  17   17 4 PERSONS ENGAGED IN AGRICULTURE.                                   
+  18   18 1 CR-89-2-2129                 S729      MAR. 17, 1943              
+  18   18 2 S781018       Y=50 N=24                                           
+  18   18 3 TO PASS S. 729.                                                   
+  19   19 1 CR-89-2-2347                 HR1780    MAR. 23, 1943              
+  19   19 2 S781019       Y=74 N=3                 GEORGE, GA.                
+  19   19 3 TO AMEND H.R. 1780, A BILL TO PROVIDE AN INCREASE IN THE          
+  19   19 4 PUBLIC DEBT LIMIT--LIMITATION OF SALARIES, BY ELIMINATING         
+  19   19 5 THE FOLLOWING PROVISO:  "PROVIDED, THAT THE PRESIDENT MAY,        
+  19   19 6 WITHOUT REGARD TO THE LIMITATION CONTAINED IN CLAUSE (2),         
+  19   19 7 ADJUST WAGES OR SALARIES TO THE EXTENT THAT HE FINDS              
+  19   19 8 NECESSARY IN ANY CASE TO CORRECT GROSS INEQUITIES AND             
+  19   19 9 ALSO AID IN THE EFFECTIVE PROSECUTION OF THE WAR."                
+  20   20 1 CR-89-2-2722                           MAR. 30, 1943              
+  20   20 2 S781020       Y=70 N=5                                            
+  20   20 3 NOMINATION OF REAR ADMIRAL EMORY S. LAND TO BE A MEMBER OF        
+  20   20 4 THE MARITIME COMMISSION.                                          
+  21   21 1 CR-89-3-3054                 S660      APR. 7, 1943               
+  21   21 2 S781021       Y=62 N=23                BANKHEAD, ALA.             
+  21   21 3 MOTION TO REFER BILL AND VETO MESSAGE TO REFER S. 660, A          
+  21   21 4 BILL FOR PREVENTION OF CERTAIN DEDUCTIONS, AND VETO MESSAGE       
+  21   21 5 OF THAT BILL TO THE COMMITTEE ON AGRICULTURE AND FORESTRY.        
+  22   22 1 CR-89-3-3467                 HJR96     APR. 16, 1943              
+  22   22 2 S781022       Y=39 N=18                                           
+  22   22 3 CONFERENCE REPORT ON H.J.RES. 96, A BILL MAKING APPROPRIA-        
+  22   22 4 TIONS TO ASSIST IN PROVIDING A SUPPLY AND DISTRIBUTION            
+  22   22 5 OF FARM LABOR FOR THE CALENDAR YEAR 1943.                         
+  23   23 1 CR-89-3-3755                 HJR14     APR. 26, 1943              
+  23   23 2 S781023       Y=37 N=19                CONNALLY, TEX.             
+  23   23 3 TO PASS H.J.RES. 14, AUTHORIZING THE EXECUTION OF                 
+  23   23 4 CERTAIN TREATY OBLIGATIONS TO PANAMA.                             
+  24   24 1 CR-89-3-3897                 S796      MAY 4, 1943                
+  24   24 2 S781024       Y=41 N=34                DANAHER, CT.               
+  24   24 3 TO AMEND S. 796, STRIKES IN DEFENSE INDUSTRIES, BY                
+  24   24 4 RESTRICTING THE PRESIDENT'S ABILITY TO TAKE OVER                  
+  24   24 5 INDUSTRIES INVOLVED IN LABOR DISTURBANCES.                        
+  25   25 1 CR-89-3-3983                 S796      MAY 5, 1943                
+  25   25 2 S781025       Y=27 N=52                WHEELER, MONT.             
+  25   25 3 TO RECOMMIT S. 796 TO THE COMMITTEE ON THE JUDICIARY, WITH        
+  25   25 4 INSTRUCTIONS THAT THE COMMITTEE REPORT THE BILL BACK,             
+  25   25 5 EITHER FAVORABLY OR UNFAVORABLY, ON OR BEFORE THE 20TH DAY        
+  25   25 6 OF MAY.                                                           
+  26   26 1 CR-89-3-3984                 S796      MAY 5, 1943                
+  26   26 2 S781026       Y=34 N=45                TAFT, OHIO                 
+  26   26 3 TO AMEND S. 796, BY STRENGTHENING THE POWERS OF THE               
+  26   26 4 NATIONAL WAR LABOR BOARD IN DEALING WITH STRIKES.  THE            
+  26   26 5 PURPOSE OF THE AMENDMENT WAS TO PROVIDE A METHOD OF               
+  26   26 6 DEALING WITH STRIKES IN INDUSTRIES BEFORE THE NECESSITY           
+  26   26 7 OF THE GOVERNMENT'S TAKING OVER THE INDUSTRY BECAME               
+  26   26 8 NECESSARY.                                                        
+  27   27 1 CR-89-3-3993                 S796      MAY 5, 1943                
+  27   27 2 S781027       Y=63 N=16                                           
+  27   27 3 TO PASS S. 796, A BILL RELATING TO THE USE AND OPERATION          
+  27   27 4 BY THE U.S. OF CERTAIN PLANTS IN THE INTEREST OF THE              
+  27   27 5 NATIONAL DEFENSE.                                                 
+  28   28 1 CR-89-3-4138                 S885      MAY 10, 1943               
+  28   28 2 S781028       Y=44 N=29                MALONEY, CT.               
+  28   28 3 TO AMEND S. 885, A BILL TO ESTABLISH A CIVILIAN                   
+  28   28 4 SUPPLY ADMINISTRATION.                                            
+  29   29 1 CR-89-3-4148                           MAY 10, 1943               
+  29   29 2 S781029       Y=37 N=28                                           
+  29   29 3 NOMINATION OF STEPHEN S. CHANDLER, JR., TO BE U. S. DISTRICT      
+  29   29 4 JUDGE FOR THE WESTERN DISTRICT OF OKLAHOMA.                       
+  30   30 1 CR089-4-4395                 HR2570    MAY 14, 1943               
+  30   30 2 S781030       Y=21 N=57                ELLENDER, LA.              
+  30   30 3 TO AMEND H.R. 2570, CURRENT PAYMENT OF INDIVIDUAL INCOME          
+  30   30 4 TAX, BY PROVIDING FOR A FIVE YEAR PERIOD OF WITHHOLDING           
+  30   30 5 FOR THE 1942 TAXES PLUS THE NORMAL CURRENT TAXES.                 
+  31   31 1 CR-89-4-4421                 HR2570    MAY 14, 1943               
+  31   31 2 S781031       Y=32 N=50                GEORGE, GA.                
+  31   31 3 TO AMEND H.R. 2570, BY PROVIDING A METHOD BY WHICH 25             
+  31   31 4 PERCENT OF 1942 TAXES WOULD BE RECOUPED RATHER THAN THE           
+  31   31 5 13 PERCENT CONTEMPLATED IN THE COMMITTEE AMENDMENT.               
+  32   32 1 CR-89-4-4440                 HR2570    MAY 14, 1943               
+  32   32 2 S781032       Y=29 N=48                O'DANIEL, TEX.             
+  32   32 3 TO AMEND H.R. 2570, BY ALLOWING THE INCOME-TAX SYSTEM TO          
+  32   32 4 REMAIN IN STATUS QUO.  THE ONLY CHANGE THE AMENDMENT WOULD        
+  32   32 5 MAKE WOULD BE TO SET UP A COLLECTION SYSTEM COVERING INCOME       
+  32   32 6 TAX ON WAGES AND SALARIES.                                        
+  33   33 1 CR-89-4-4442                 HR2570    MAY 14, 1943               
+  33   33 2 S781033       Y=29 N=50                CONNALLY, TEX.             
+  33   33 3 TO AMEND H.R. 2570, BY SUBSTITUTING THE HOUSE WAYS AND            
+  33   33 4 MEANS COMMITTEE VERSION OF THE BILL.                              
+  34   34 1 CR-89-4-4447                 HR2570    MAY 14, 1943               
+  34   34 2 S781034       Y=27 N=52                BANKHEAD, ALA.             
+  34   34 3 TO AMEND H.R. 2570, BY ADOPTING THE HOUSE VERSION OF THE          
+  34   34 4 BILL AS PASSED BY THE BODY AND INCORPORATING INTO                 
+  34   34 5 THAT BILL THE AMENDMENTS PASSED BY THE SENATE.                    
+  35   35 1 CR-88-4-4447                 HR2570    MAY 14, 1943               
+  35   35 2 S781035       Y=48 N=31                                           
+  35   35 3 THE COMMITTEE AMENDMENT CHANGED THE HOUSE BILL IN TWO WAYS:       
+  35   35 4 BY PROVIDING RELIEF FROM DOUBLED PAYMENTS AND BY PROVIDING        
+  35   35 5 FOR CURRENT PAYMENT FOR BASIC TAXES NOT PAID AT THE               
+  35   35 6 SOURCE.                                                           
+  36   36 1 CR-88-4-4448                 HR2570    MAY 14, 1943               
+  36   36 2 S781036       Y=49 N=30                                           
+  36   36 3 TO PASS H.R. 2570.                                                
+  37   37 1 CR-89-4-4965                 HR1762    MAY 27, 1943               
+  37   37 2 S781037       Y=31 N=43                MCKELLAR, TENN.            
+  37   37 3 TO AMEND H.R. 1762, INDEPENDENT OFFICES APPROPRIATIONS, BY        
+  37   37 4 RESTORING THE $534,000 APPROPRIATION FOR THE NATIONAL RE-         
+  37   37 5 SOURCES PLANNING BOARD.                                           
+  38   38 1 CR-89-4-4966                 HR1762    MAY 27, 1943               
+  38   38 2 S781038       Y=44 N=31                MCKELLAR, TENN.            
+  38   38 3 TO AMEND H.R. 1762, BY MAKING A $200,000 APPROPRIATION FOR        
+  38   38 4 THE NATIONAL RESOURCES PLANNING BOARD.                            
+  39   39 1 CR-89-4-5109                 HJR111    JUNE 1, 1943               
+  39   39 2 S781039       Y=33 N=51                                           
+  39   39 3 TO AMEND H.J. RES. 111, EXTENSION OF RECIPROCAL TRADE             
+  39   39 4 AGREEMENTS ACT, BY ADDING THE FOLLOWING PROVISO--                 
+  39   39 5 "PROVIDED, THAT EVERY FOREIGN-TRADE AGREEMENT CONCLUDED           
+  39   39 6 IN ACCORDANCE WITH THE PROVISIONS OF SAID ACT, AS AMENDED,        
+  39   39 7 SHALL BE SUBJECT TO TERMINATION 6 MONTHS AFTER THE CESSATION      
+  39   39 8 OF HOSTILITIES IN THE PRESENT WAR AS FIXED BY PROCLAMATION        
+  39   39 9 OF THE PRESIDENT, PURSUANT TO JOINT RESOLUTION OF THE             
+  39   3910 CONGRESS OR BY THE PRESIDENT."                                    
+  40   40 1 CR-89-4-5122                 HJR111    JUNE 1, 1943               
+  40   40 2 S781040       Y=31 N=50                O'MAHONEY, WYO.            
+  40   40 3 TO AMEND H.J. RES. 111, BY ADDING THE FOLLOWING-- "NO FOR-        
+  40   40 4 EIGN TRADE AGREEMENT HEREAFTER ENTERED INTO UNDER THE AU-         
+  40   40 5 THORITY DELEGATED TO THE PRESIDENT BY SUCH SECTION 350, AS        
+  40   40 6 AMENDED, NO AMENDATORY OR SUPPLEMENTARY AGREEMENT HEREAFTER       
+  40   40 7 ENTERED INTO UNDER SUCH SECTION, AND NO DUTIES AND OTHER          
+  40   40 8 IMPORT RESTRICTIONS SPECIFIED IN A PROCLAMATION ISSUED BY         
+  40   40 9 THE PRES. TO CARRY OUT ANY SUCH FOREIGN TRADE AGREEMENT OR        
+  40   4010 ANY SUCH AMENDATORY OR SUPPLEMENTARY AGREEMENT, SHALL TAKE        
+  40   4011 EFFECT UNTIL THE CONGRESS BY LAW HAS SPECIFICALLY APPROVED        
+  40   4012 SUCH AGREEMENT AND THE DUTIES AND OTHER IMPORT RESTRICTIONS       
+  40   4013 SO SPECIFIED TO CARRY OUT SUCH AGREEMENT."                        
+  41   41 1 CR-89-4-5193                 HJR111    JUNE 2, 1943               
+  41   41 2 S781041       Y=33 N=44                MALONEY, CT.               
+  41   41 3 TO AMEND H.J. RES. 111, BY ADDING THE FOLLOWING NEW SEC-          
+  41   41 4 TION:  "EFFECTIVE ON THE DATE OF ENACTMENT OF THIS ACT,           
+  41   41 5 SECTION 2 OF SUCH ACT OF JUNE 12, 1943, IS AMENDED BY ADDING      
+  41   41 6 AT THE END THEREOF THE FOLLOWING NEW SUBSECTION:  (D) NO          
+  41   41 7 FOREIGN TRADE AGREEMENT HEREAFTER ENTERED INTO UNDER THE          
+  41   41 8 FIRST SECTION OF THIS ACT SHALL TAKE EFFECT UNTIL THE             
+  41   41 9 SENATE OF THE UNITED STATES SHALL HAVE ADVISED AND CONSENTED      
+  41   4110 TO ITS RATIFICATION, TWO-THIRDS OF THE SENATORS PRESENT           
+  41   4111 CONCURRING."                                                      
+  42   42 1 CR-89-4-5195                 HJR111    JUNE 2, 1943               
+  42   42 2 S781042       Y=28 N=49                REED, KAN.                 
+  42   42 3 TO AMEND H.J. RES. 111, BY ADDING THE FOLLOWING:  "NO FOR-        
+  42   42 4 EIGN TRADE AGREEMENT HEREAFTER ENTERED INTO UNDER THE AU-         
+  42   42 5 THORITY DELEGATED TO THE PRESIDENT BY SUCH SECTION 350, AS        
+  42   42 6 AMENDED, NO AMENDATORY OR SUPPLEMENTARY AGREEMENT HEREAFTER       
+  42   42 7 ENTERED INTO UNDER SUCH SECTION, AND NO DUTIES AND OTHER          
+  42   42 8 IMPORT RESTRICTIONS SPECIFIED IN A PROCLAMATION ISSUED BY         
+  42   42 9 THE PRES. TO CARRY OUT ANY SUCH FOREIGN TRADE AGREEMENT OR        
+  42   4210 ANY SUCH AMENDATORY OR SUPPLEMENTARY AGREEMENT, SHALL TAKE        
+  42   4211 EFFECT IF THE CONGRESS BY CONCURRENT RESOLUTION HAS SPECIFI-      
+  42   4212 CALLY DISAPPROVED SUCH AGREEMENT AND THE DUTIES AND OTHER         
+  42   4213 IMPORT RESTRICTIONS SO SPECIFIED TO CARRY OUT SUCH AGREEMENT      
+  42   4214 WITHIN 60 DAYS AFTER SUCH AGREEMENT HAS BEEN LAID BEFORE THE      
+  42   4215 CONGRESS."                                                        
+  43   43 1 CR-89-4-5202                 HJR111    JUNE 2, 1943               
+  43   43 2 S781043       Y=32 N=47                MCCARRAN, NEV.             
+  43   43 3 TO AMEND H.J. RES. 111, CONTAINING THE FOLLOWING PROVISO:         
+  43   43 4 "PROVIDED, THAT NO COMMODITY OR ARTICLE SHALL BE INCLUDED IN      
+  43   43 5 ANY FOREIGN TRADE AGREEMENT ENTERED INTO WHICH PERMITS THE        
+  43   43 6 ENTRY INTO AMERICAN MARKETS OF PRODUCTS OF WORKERS, FARMERS,      
+  43   43 7 OR MINERS OF FOREIGN COUNTRIES AT TOTAL LANDED COSTS, ALL         
+  43   43 8 TARIFF DUTIES PAID, WHICH TOTAL COSTS ARE LESS THAN THE COST      
+  43   43 9 OF PRODUCTION OR WHOLESALE SELLING PRICE OF COMPETITIVE           
+  43   4310 PRODUCTS OF AMERICAN WORKERS, MINERS, OR FARMERS WHERE SUCH       
+  43   4311 AMERICAN PRODUCTS ARE COMMERCIALLY AVAILABLE."                    
+  44   44 1 CR-89-4-5203                 HJR111    JUNE 2, 1943               
+  44   44 2 S781044       Y=59 N=23                                           
+  44   44 3 TO PASS H.J. RES. 111, EXTENDING THE AUTHORITY OF THE PRESI-      
+  44   44 4 DENT UNDER SECTION 350 OF THE TARIFF ACT OF 1930, AS              
+  44   44 5 AMENDED.                                                          
+  45   45 1 CR-89-4-5211                 HR2570    JUNE 2, 1943               
+  45   45 2 S781045       Y=62 N=19                                           
+  45   45 3 CONFERENCE REPORT ON H.R. 2570, CURRENT PAYMENT OF INDIVI-        
+  45   45 4 DUAL INCOME-TAX CONFERENCE REPORT, ON THE DISAGREEING VOTES       
+  45   45 5 OF THE TWO HOUSES ON AN AMENDMENT OF THE SENATE.                  
+  46   46 1 CR-89-4-5417                 S575      JUNE 7, 1943               
+  46   46 2 S781046       Y=43 N=22                MCKELLAR, TENN.            
+  46   46 3 TO AMEND S. 575, CONFIRMATION BY THE SENATE OF CERTAIN GOV-       
+  46   46 4 ERNMENTAL EMPLOYEES, BY PROVIDING THAT ALL GOVERNMENT OFFI-       
+  46   46 5 CIALS WITH A SALARY OVER $4,500 MUST BE CONFIRMED BY THE          
+  46   46 6 SENATE.                                                           
+  47   47 1 CR-89-4-5474                 HR2481    JUNE 8, 1940               
+  47   47 2 S781047       Y=49 N=20                                           
+  47   47 3 TO AMEND H.R. 2481, AGRICULTURAL APPROPRIATIONS, BY INCREAS-      
+  47   47 4 ING THE APPROPRIATIONS FOR AGRICULTURAL PURPOSES BY               
+  47   47 5 $100,000,0009                                                     
+  48   48 1 CR-89-4-5558                 HR2481    JUNE 9, 1943               
+  48   48 2 S781048       Y=23 N=54                BYRD, VA.                  
+  48   48 3 TO DECIDE A POINT OF ORDER ON H.R. 2481.  THE POINT OF ORDER      
+  48   48 4 RAISED WAS THAT A PROPOSED AMENDMENT CONTAINED NEW LEGISLA-       
+  48   48 5 TION AND WAS THEREFORE, UNDER THE RULES OF THE SENATE, IN         
+  48   48 6 VIOLATION OF PARAGRAPH 2, RULE XVI.                               
+  49   49 1 CR-89-4-5606                 HR2714    JUNE 10, 1943              
+  49   49 2 S781049       Y=69 N=0                 MCKELLAR, TENN.            
+  49   49 3 CONFERENCE REPORT ON H.R. 2714, URGENT DEFICIENCY APPROPRIA-      
+  49   49 4 TIONS, ON A MOTION THAT THE SENATE FURTHER INSIST ON ITS          
+  49   49 5 AMENDMENT NO. 60 TO H.R. 2714.                                    
+  50   50 1 CR-89-4-5641                 HR2481    JUNE 10, 1943              
+  50   50 2 S781050       Y=25 N=53                BYRD, VA.                  
+  50   50 3 TO AMEND COMMITTEE AMENDMENT, H.R. 2481, BY ADDING THE FOL-       
+  50   50 4 LOWING STIPULATION-- "THAT NO PART OF THE APPROPRIATION AU-       
+  50   50 5 THORIZED UNDER THIS ITEM SHALL BE USED EXCEPT FOR THE             
+  50   50 6 COMPLETE LIQUIDATION OF THE RESETTLEMENT PROJECTS WHICH           
+  50   50 7 SHALL BE ACCOMPLISHED BY DECEMBER 31, 1943."                      
+  51   51 1 CR-89-4-5641                 HR2481    JUNE 10, 1943              
+  51   51 2 S781051       Y=66 N=12                RUSSELL, GA.               
+  51   51 3 TO AMEND H.R. 2481, CONCERNING RURAL REHABILITATION APPRO-        
+  51   51 4 PRIATIONS AND OTHER AUTHORIZED BORROWING FROM THE RECON-          
+  51   51 5 STRUCTION FINANCE CORPORATION TO FINANCE THE RURAL ELECTRI-       
+  51   51 6 FICATION ADMINISTRATION.                                          
+  52   52 1 CR-89-5-5647                 HR2481    JUNE 10, 1943              
+  52   52 2 S781052       Y=14 N=62                CLARK, MO.                 
+  52   52 3 TO RECESS UNTIL 11 O'CLOCK JUNE 11, 1943, A MOTION MADE DUR-      
+  52   52 4 ING DEBATE ON H.R. 2481.                                          
+  53   53 1 CR-89-4-5700                 HR2481    JUNE 11, 1943              
+  53   53 2 S781053       Y=41 N=31                                           
+  53   53 3 TO AMEND H.R. 2481, BY STRIKING FROM THE BILL A LIMITATION        
+  53   53 4 IMPOSED BY THE HOUSE, WHICH WOULD HAVE HAD THE EFFECT OF          
+  53   53 5 ELIMINATING AND PROHIBITING ANY LOANS MADE BY THE REGIONAL        
+  53   53 6 AGRICULTURAL CREDIT CORPORATION.                                  
+  54   54 1 CR-89-4-5718                 HR2481    JUNE 11, 1943              
+  54   54 2 S781054       Y=36 N=37                BANKHEAD, ALA.             
+  54   54 3 TO SUSPEND THE RULES SO THAT AN AMENDMENT WHICH INCLUDED          
+  54   54 4 LEGISLATION COULD BE OFFERED TO H.R. 2481.                        
+  55   55 1 CR-89-4-5795                 S796      JUNE 12, 1943              
+  55   55 2 S781055       Y=55 N=22                                           
+  55   55 3 CONFERENCE REPORT ON S. 796, PREVENTION OF STRIKES IN DE-         
+  55   55 4 FENSE INDUSTRIES, ON THE DISAGREEING VOTES OF THE TWO HOUSES      
+  55   55 5 ON THE AMENDMENT OF THE HOUSE.                                    
+  56   56 1 CR-89-4-5817                 S575      JUNE 14, 1943              
+  56   56 2 S781056       Y=15 N=58                HILL, ALA.                 
+  56   56 3 TO AMEND S. 575, CONFIRMATION BY THE SENATE OF CERTAIN GOV-       
+  56   56 4 ERNMENTAL EMPLOYEES, BY ADDING THE FOLLOWING PROVISO:  "THE       
+  56   56 5 PROVISIONS OF THE ACT SHALL NOT BE APPLICABLE IN THE CASE OF      
+  56   56 6 ANY OFFICE OR POSITION IN THE TENNESSEE VALLEY AUTHORITY          
+  56   56 7 EXCEPT MEMBERS OF THE BOARD OF DIRECTORS."                        
+  57   57 1 CR-89-4-5817                 S575      JUNE 14, 1943              
+  57   57 2 S781057       Y=32 N=42                O'MAHONEY, WYO.            
+  57   57 3 TO AMEND S. 575, BY OFFERING A SUBSTITUTE WHICH DIFFERS FROM      
+  57   57 4 THE COMMITTEE BILL IN THAT THE COMMITTEE BILL USED A SALARY       
+  57   57 5 AS THE STANDARD TO DETERMINE WHICH EMPLOYEES SHOULD BE CON-       
+  57   57 6 FIRMED BY THE SENATE-- THE SUBSTITUTE USES A DEFINITION OF        
+  57   57 7 WHAT CONSTITUTES A POLICY-MAKING OFFICER OF THE GOVERNMENT.       
+  58   58 1 CR-89-4-5825                 S575      JUNE 14, 1943              
+  58   58 2 S781058       Y=22 N=47                MEAD, N.Y.                 
+  58   58 3 TO REFER S. 575 TO THE COMMITTEE ON CIVIL SERVICE.                
+  59   59 1 CR-89-4-5826                 S575      JUNE 14, 1943              
+  59   59 2 S781059       Y=42 N=29                                           
+  59   59 3 TO PASS S. 575, A BILL TO PROVIDE THAT CERTAIN CIVILIAN OF-       
+  59   59 4 FICERS IN THE EXECUTIVE BRANCH OF THE GOVERNMENT WHO ARE          
+  59   59 5 APPOINTED WITHOUT REGARD TO THE CIVIL-SERVICE LAWS SHALL BE       
+  59   59 6 APPOINTED BY THE PRESIDENT, BY AND WITH THE ADVICE AND CON-       
+  59   59 7 SENT OF THE SENATE.                                               
+  60   60 1 CR-89-5-6416                 HR2714    JUNE 24, 1943              
+  60   60 2 S781060       Y=17 N=52                MCKELLAR, TENN.            
+  60   60 3 CONFERENCE REPORT ON H.R. 2714, URGENT DEFICIENCY APPROPRIA-      
+  60   60 4 TIONS, ON THE DISAGREEING VOTES OF THE TWO HOUSES ON AN           
+  60   60 5 AMENDMENT OF THE SENATE.                                          
+  61   61 1 CR-89-5-6489                 S796      JUNE 25, 1943              
+  61   61 2 S781061       Y=56 N=25                                           
+  61   61 3 TO OVERRIDE VETO ON S. 796, PREVENTION OF STRIKES IN DEFENSE      
+  61   61 4 INDUSTRIES.                                                       
+  62   62 1 CR-89-5-6559                 S110      JUNE 26, 1943              
+  62   62 2 S781062       Y=39 N=37                CLARK, MO.                 
+  62   62 3 TO AMEND S. 1108, CONTINUATION OF COMMODITY CREDIT, BY NE-        
+  62   62 4 GATING THE CLAIM OF THE LOAN ADMINISTRATOR AND THE OFFICE         
+  62   62 5 OF PRICE ADMINISTRATION THAT SECTION 2 (E) OF THE STABILIZA-      
+  62   62 6 TION ACT GAVE THEM AUTHORITY FOR THE ROLL-BACK POLICY THEY        
+  62   62 7 WERE PURSUING.  THE AMENDMENT ALSO PROVIDED THAT WHATEVER         
+  62   62 8 WAS ACCOMPLISHED IN THE WAY OF SUBSIDIES SHOULD BE SPECIF-        
+  62   62 9 ICALLY AUTHORIZED BY AN ACT OF CONGRESS.                          
+  63   63 1 CR-89-5-6560                 S110      JUNE 26, 1943              
+  63   63 2 S781063       Y=46 N=29                AIKEN, VT.                 
+  63   63 3 TO AMEND S. 1108, BY PROVIDING A GENERAL SUBSTITUTE FOR THE       
+  63   63 4 SUBSIDY PROGRAM INCLUDED IN THE ORIGINAL LEGISLATION.             
+  64   64 1 CR-89-5-6637                 HR2935    JUNE 28, 1943              
+  64   64 2 S781064       Y=41 N=37                TRUMAN, MO.                
+  64   64 3 TO AMEND H.R. 2935, APPROPRIATIONS FOR THE LABOR DEPARTMENT       
+  64   64 4 AND FEDERAL SECUIRTY AGENCY, BY CALLING FOR THE APPROPRIA-        
+  64   64 5 TION OF $48,800,000 TO CONTINUE THE NATIONAL YOUTH PROGRAM.       
+  65   65 1 CR-89-506638                 HR2935    JUNE 28, 1943              
+  65   65 2 S781065       Y=41 N=37                TRUMAN, MO.                
+  65   65 3 TO TABLE MOTION TO RECONSIDER THE VOTE BY WHICH AN AMEND-         
+  65   65 4 MENT TO H.R. 2935, OFFERED BY SENATOR TRUMAN WAS AGREED TO;       
+  65   65 5 SEE REF. #0073.                                                   
+  66   66 1 CR-89-5-6642                 HR2481    JUNE 28, 1943              
+  66   66 2 S781066       Y=69 N=2                 RUSSELL, GA.               
+  66   66 3 CONFERENCE REPORT ON H.R. 2481,  APPROPRIATIONS FOR THE DE-       
+  66   66 4 PARTMENT OF AGRICULTURE, ON A MOTION THAT THE SENATE INSIST       
+  66   66 5 UPON ITS AMENDMENT NUMBERED 87.                                   
+  67   67 1 CR-89-5-6645                 HR2481    JUNE 28, 1943              
+  67   67 2 S781067       Y=51 N=10                RUSSELL, GA.               
+  67   67 3 CONFERENCE REPORT ON H.R. 2481, ON A MOTION THAT THE SENATE       
+  67   67 4 INSIST UPON ITS AMENDMENT 98 AND 99.                              
+  68   68 1 CR-89-5-6694                 HR2714    JUNE 29, 1943              
+  68   68 2 S781068       Y=31 N=43                MCKELLAR, TENN.            
+  68   68 3 CONFERENCE REPORT ON H.R. 2714, URGENT DEFICIENCY APPROPRIA-      
+  68   68 4 TIONS, ON THE DISAGREEING VOTES OF THE TWO HOUSES ON CERTAIN      
+  68   68 5 AMENDMENTS OF THE SENATE.                                         
+  69   69 1 CR-89-5-6737                 HR2714    JUNE 29, 1943              
+  69   69 2 S781069       Y=32 N=35                MCKELLAR, TENN.            
+  69   69 3 CONFERENCE REPORT ON H.R. 2714, URGENT DEFICIENCY APPROPRIA-      
+  69   69 4 TIONS, ON THE DISAGREEING VOTES OF THE TWO HOUSES ON CERTAIN      
+  69   69 5 AMENDMENTS OF THE SENATE.                                         
+  70   70 1 CR-89-5-6821                 HR2869    JUNE 30, 1943              
+  70   70 2 S781070       Y=62 N=13                BANKHEAD, ALA.             
+  70   70 3 CONFERENCE REPORT ON H.R. 2869,  CONTINUATION OF COMMODITY        
+  70   70 4 CREDIT CORPORATION, ON THE DISAGREEING VOTES OF THE TWO           
+  70   70 5 HOUSES ON THE AMENDMENT OF THE SENATE.                            
+  71   71 1 CR-89-5-6828                 HR2938    JUNE 30, 1943              
+  71   71 2 S781071       Y=34 N=40                O'MAHONEY, WYO.            
+  71   71 3 TO AMEND H.R. 2938,  APPROPRIATIONS FOR WAR AGENCIES IN THE       
+  71   71 4 EXECUTIVE OFFICE, BY INCREASING THE APPROPRIATIONS FOR THE        
+  71   71 5 MOTION PICTURE BUREAU, THE BOOK AND MAGAZINE DIVISIONS, THE       
+  71   71 6 FIELD SERVICE, AND THE BUREAU OF GRAPHICS AND PRINTING.           
+  72   72 1 CR-89-5-6831                 HR2968    JUNE 30, 1943              
+  72   72 2 S781072       Y=26 N=38                THOMAS, OKLA.              
+  72   72 3 TO AMEND H.R. 2968,  APPROPRIATIONS FOR WAR AGENCIES IN THE       
+  72   72 4 EXECUTIVE OFFICE OF THE PRESIDENT, BY INCREASING THE APPRO-       
+  72   72 5 PRIATION FOR CIVIL DEFENSE FROM $4,000,000 TO $5,000,000.         
+  73   73 1 CR-89-5-6927                 HR2481    JULY 1, 1943               
+  73   73 2 S781073       Y=21 N=53                RUSSELL, GA.               
+  73   73 3 CONFERENCE REPORT ON H.R. 2481,  APPROPRIATIONS FOR THE DE-       
+  73   73 4 PARTMENT OF AGRICULTURE, THAT THE SENATE RECEDE FROM ITS          
+  73   73 5 AMENDMENTS NUMBERED 98 AND 99.                                    
+  74   74 1 CR-89-5-7014                 HR2714    JULY 2, 1943               
+  74   74 2 S781074       Y=48 N=32                                           
+  74   74 3 CONFERENCE REPORT ON H.R. 2714, URGENT DEFICIENCY APPROPRIA-      
+  74   74 4 TIONS, ON THE DISAGREEING VOTES OF THE TWO HOUSES ON CERTAIN      
+  74   74 5 AMENDMENTS OF THE SENATE.                                         
+  75   75 1 CR-89-5-7028                 HR2935    JULY 2, 1943               
+  75   75 2 S781075       Y=42 N=32                                           
+  75   75 3 CONFERENCE REPORT ON H.R. 2935, DEPARTMENT OF LABOR AND           
+  75   75 4 FEDERAL SECURITY AGENCY APPROPRIATIONS, ON THE DISAGREEING        
+  75   75 5 VOTES OF THE TWO HOUSES ON CERTAIN AMENDMENTS OF THE SENATE.      
+  76   76 1 CR-89-5-7034                 HR2935    JULY 2, 1943               
+  76   76 2 S781076       Y=40 N=25                MCCARRAN, NEV.             
+  76   76 3 CONFERENCE REPORT ON H.R. 2935, ON A MOTION THAT THE SENATE       
+  76   76 4 CONCUR IN THE AMENDMENT OF THE HOUSE TO SENATE AMENDMENT          
+  76   76 5 NUMBERED 19.  THE HOUSE AMENDMENT PROVIDED THAT "NO PART          
+  76   76 6 OF THE FUNDS APPROPRIATED IN THIS TITLE SHALL BE USED IN ANY      
+  76   76 7 WAY IN CONNECTION WITH A COMPLAINT CASE ARISING OVER AN           
+  76   76 8 AGREEMENT BETWEEN MANAGEMENT AND LABOR WHICH HAS BEEN IN EX-      
+  76   76 9 ISTENCE 3 MONTHS OR LONGER WITHOUT COMPLAINT BEING FILED."        
+  77   77 1 CR-89-5-7035                 HR2935    JULY 2, 1943               
+  77   77 2 S781077       Y=19 N=39                MCCARRAN, NEV.             
+  77   77 3 CONFERENCE REPORT ON H.R. 2935, THAT THE SENATE RECEDE FROM       
+  77   77 4 SENATE AMENDMENT PROVIDING THAT ALL APPOINTMENTS INVOLVING        
+  77   77 5 SALARIES OF $4,500 OR MORE MADE BY THE PRESIDENT UNDER THE        
+  77   77 6 APPROPRIATION BILL SHOULD BE CONFIRMED BY THE SENATE.             
+  78   78 1 CR-89-5-7089                 HR2935    JULY 3, 1943               
+  78   78 2 S781078       Y=39 N=33                MCCARRAN, NEV.             
+  78   78 3 CONFERENCE REPORT ON H.R. 2935, THAT THE SENATE RECEDE FROM       
+  78   78 4 AN AMENDMENT MAKING APPROPRIATION TO CONTINUE THE NATIONAL        
+  78   78 5 YOUTH ADMINISTRATION.                                             
+  79   79 1 CR-89-5-7165                 HR2481    JULY 5, 1943               
+  79   79 2 S781079       Y=44 N=23                RUSSELL, GA.               
+  79   79 3 CONFERENCE REPORT ON H.R. 2481, THAT THE SENATE RECEDE FROM       
+  79   79 4 AMENDMENTS NOS. 98 AND 99, RELATING TO THE FEDERAL CROP           
+  79   79 5 INSURANCE AND TO THE AGRICULTURAL APPROPRIATIONS UNDER            
+  79   79 6 H.R. 2481.                                                        
+  80   80 1 CR-89-5-7250                 HJR147    JULY 6, 1943               
+  80   80 2 S781080       Y=32 N=31                                           
+  80   80 3 TO AMEND H.J. RES. 147, CONTINUATION OF COMMODITY CREDIT          
+  80   80 4 CORPORATION, DEALING WITH PAYMENT OF SUBSIDIES ON AGRICUL-        
+  80   80 5 TURAL PRODUCE.                                                    
+  81   81 1 CR-89-5-7267                 HJR147    JULY 6, 1943               
+  81   81 2 S781081       Y=33 N=32                SHIPSTEAD, MINN.           
+  81   81 3 TO RECONSIDER SENATOR TAFT'S AMENDMENT TO A COMMITTEE AMEND-      
+  81   81 4 MENT TO H.J. RES. 147.  THE AMENDMENT CONTAINED PROVISIONS        
+  81   81 5 AGAINST GRADE LABELING AND THE ELIMINATION OF TRADE NAMES.        
+  82   82 1 CR-89-5-7267                 HJR147    JULY 6, 1943               
+  82   82 2 S781082       Y=31 N=33                                           
+  82   82 3 THIS VOTE IS THE RECONSIDERATION OF A COMMITTEE AMENDMENT TO      
+  82   82 4 H.J. RES. 147.  THE AMENDMENT DEALS WITH PAYMENT OF SUB-          
+  82   82 5 SIDIES BEING RECONSIDERED.                                        
+  83   83 1 CR-89-5-7268                 HJR147    JULY 6, 1943               
+  83   83 2 S781083       Y=29 N=36                                           
+  83   83 3 TO PASS H.J. RES. 147, CONTINUATION OF THE COMMODITY CREDIT       
+  83   83 4 CORPORATION AS AN AGENCY OF THE UNITED STATES.                    
+  84   84 1 CR-89-5-7269                 HJR147    JULY 6, 1943               
+  84   84 2 S781084       Y=32 N=33                TAFT, OHIO                 
+  84   84 3 TO RECONSIDER THE VOTE BY WHICH H.J. RES. 147 WAS REJECTED.       
+  85   85 1 CR-89-5-7278                 HJR147    JULY 6, 1943               
+  85   85 2 S781085       Y=8 N=55                 O'MAHONEY, WYO.            
+  85   85 3 TO RECOMMIT H.J. RES. 147 TO THE COMMITTEE ON BANKING AND         
+  85   85 4 CURRENCY WITH INSTRUCTIONS TO REPORT BACK NOT LATER THAN 12       
+  85   85 5 O'CLOCK NOON JULY 7, 1943.                                        
+  86   86 1 CR-89-5-7279                 HJR147    JULY 6, 1943               
+  86   86 2 S781086       Y=36 N=28                DANAHER, CT.               
+  86   86 3 TO AMEND H.J. RES. 147, BY PROVIDING FOR AN APPROPRIATION         
+  86   86 4 FOR THE COMMODITY CREDIT CORPORATION BY RESTRICTING THE           
+  86   86 5 SUBSIDY PAYMENTS UNDER THE APPROPRIATION TO THOSE SPECIFI-        
+  86   86 6 CALLY PROVIDED IN THE STATUTE.                                    
+  87   87 1 CR-89-6-7316                 HR2936    JULY 7, 1943               
+  87   87 2 S781087       Y=63 N=4                                            
+  87   87 3 TO PASS H.R. 2936, A BILL TO AUTHORIZE THE APPROPRIATION OF       
+  87   87 4 AN ADDITIONAL $200,000,000 TO CARRY OUT THE PROVISIONS OF         
+  87   87 5 TITLE II OF THE ACT ENTITLED "AN ACT TO EXPEDITE THE              
+  87   87 6 PROVISION OF HOUSING IN CONNECTION WITH NATIONAL DEFENSE,         
+  87   87 7 AND FOR OTHER PURPOSES,"APPROVED OCT. 14, 1940, AS AMENDED.       
+  88   88 1 CR-89-6-7433                 HJR147    JULY 8, 1943               
+  88   88 2 S781088       Y=34 N=33                MALONEY, CT.               
+  88   88 3 CONFERENCE INSTRUCTIONS, ON H.J. RES. 147, THAT THE SENATE        
+  88   88 4 CONFEREES BE INSTRUCTED TO RECEDE FROM SENATE AMENDMENT           
+  88   88 5 NUMBERED 3.                                                       
+  89   89 1 CR-89-6-7601                 HR1203    SEPT. 17, 1943             
+  89   89 2 S781089       Y=18 N=39                REVERCOMB, W.VA.           
+  89   89 3 TO AMEND H.R. 1203, ELIMINATION OF PRIVATE SUITS ARISING OUT      
+  89   89 4 OF FRAUDS AGAINST THE UNITED STATES, BY PERMITTING AN INFOR-      
+  89   89 5 MER OR PERSON HAVING KNOWLEDGE OF FRAUD IN THE CASE OF A          
+  89   89 6 GOVERNMENT CONTRACT TO FIRST GO TO THE ATTORNEY GENERAL WITH      
+  89   89 7 THE INFORMATION, AND IF THE ATTORNEY GENERAL FAILS TO BRING       
+  89   89 8 SUIT WITHIN 6 MONTHS, THE INFORMER CAN BRING SUIT ON BEHALF       
+  89   89 9 OF HIMSELF AND THE UNITED STATES GOVERNMENT AGAINST THE           
+  89   8910 OFFENDING PARTY.                                                  
+  90   90 1 CR-89-6-7607                 HR1203    SEPT. 17, 1943             
+  90   90 2 S781090       Y=12 N=48                LANGER, N.D.               
+  90   90 3 TO RECOMMIT H.R. 1203 TO THE COMMITTEE ON THE JUDICIARY.          
+  91   91 1 CR-89-6-7615                 HR1203    SEPT. 17, 1943             
+  91   91 2 S781091       Y=24 N=30                CLARK, MO.                 
+  91   91 3 TO RECOMMIT H.R. 1203 TO THE COMMITTEE ON THE JUDICIARY WITH      
+  91   91 4 INSTRUCTIONS TO HOLD HEARINGS ON IT AND TO REPORT IT BACK         
+  91   91 5 TO THE SENATE NOT LATER THAN DECEMBER 1, 1943.                    
+  92   92 1 CR-89-6-7617                 HR1203    SEPT. 17, 1943             
+  92   92 2 S781092       Y=16 N=37                CLARK, MO.                 
+  92   92 3 TO AMEND H.R. 1203, BY ELIMINATING THE RETROACTIVE FEATURE        
+  92   92 4 OF THE COMMITTEE AMENDMENT BY PERMITTING A STAY AT THE IN-        
+  92   92 5 SISTENCE OF THE GOVERNMENT.                                       
+  93   93 1 CR-89-6-8129                 S763      OCT. 6, 1943               
+  93   93 2 S781093       Y=78 N=1                 JOHNSON, COLO.             
+  93   93 3 TO AMEND S. 763, DEFERMENT OF FATHERS FROM THE DRAFT, BY IN-      
+  93   93 4 CREASING FAMILY ALLOTMENTS OF SERVICEMEN.                         
+  94   94 1 CR-89-6-8154                 S763      OCT. 6, 1943               
+  94   94 2 S781094       Y=31 N=45                TAFT, OHIO                 
+  94   94 3 TO AMEND S. 763, BY PROVIDING THAT SUBSTANTIALLY ALL SINGLE       
+  94   94 4 MEN MUST BE CALLED BEFORE ANY MARRIED MEN ARE CALLED.  IT         
+  94   94 5 FURTHER PROVIDES THAT SUBSTANTIALLY ALL MARRIED MEN WHO ARE       
+  94   94 6 NOT FATHERS MUST BE CALLED BEFORE FATHERS ARE CALLED.             
+  94   94 7 IT GOES ON TO PROVIDE THAT THE YOUNGER FATHERS MUST BE            
+  94   94 8 CALLED FIRST IN THE GROUP FROM 18 TO 25, AND AFTER THAT FROM      
+  94   94 9 25 TO 30, AND FINALLY FROM 30 TO 38.                              
+  95   95 1 CR-89-6-8154                 S763      OCT. 6, 1943               
+  95   95 2 S781095       Y=26 N=48                WHEELER, MONT.             
+  95   95 3 TO AMEND S. 763 BY THE FOLLOWING PROVISO:  "THAT FATHERS BE       
+  95   95 4 DEFERRED UNTIL SUCH TIME AS THE SELECTIVE SERVICE HAS DETER-      
+  95   95 5 MINED AND INDUCTED INTO THE ARMED SERVICES THE NUMBER OF MEN      
+  95   95 6 NOW DEFERRED IN GOVERNMENT AND INDUSTRY THAT WILL BE              
+  95   95 7 AVAILABLE FOR CALL UNDER THE PROVISIONS OF THIS ACT AND THE       
+  95   95 8 NUMBER OF MEN IN THE IV-F CLASSIFICATION WHO CAN BE INDUCTED      
+  95   95 9 INTO THE ARMED SERVICES BY A REVIEW OF THE PHYSICAL STAND-        
+  95   9510 ARDS AS MAY BE RECOMMENDED BY THE COMMISSION ESTABLISHED BY       
+  95   9511 THE PRESIDENT FOR THE PURPOSE OF EXAMINING THE PHYSICAL           
+  95   9512 QUALIFICATION REQUIREMENTS FOR ADMISSION INTO THE ARMED           
+  95   9513 SERVICES OF THE UNITED STATES AS PROVIDED BY THIS ACT."           
+  96   96 1 CR-89-6-8155                 S763      OCT. 6, 1943               
+  96   96 2 S781096       Y=69 N=0                                            
+  96   96 3 TO PASS S. 763, A DEFERMENT OF FATHERS FROM THE DRAFT.            
+  97   97 1 CR-89-6-8565                 S637      OCT. 20, 1943              
+  97   97 2 S781097       Y=40 N=37                LANGER, N.D.               
+  97   97 3 TO AMEND S. 637, FEDERAL AID TO PUBLIC EDUCATION, BY ADDING       
+  97   97 4 THE FOLLOWING PROVISO:  "PROVIDED, THAT THERE SHALL BE NO         
+  97   97 5 DISCRIMINATION IN THE ADMINISTRATION OF BENEFITS AND              
+  97   97 6 APPROPRIATIONS MADE UNDER THE RESPECTIVE PROVISIONS OF THIS       
+  97   97 7 ACT, OR IN THE STATES FUNDS SUPPLEMENTED THEREBY ON ACCOUNT       
+  97   97 8 OF RACE, CREED, OR COLOR."                                        
+  98   98 1 CR-89-6-8570                 S637      OCT. 20, 1943              
+  98   98 2 S781098       Y=53 N=26                TAFT, OHIO                 
+  98   98 3 TO RECOMMIT S. 637 TO THE COMMITTEE ON EDUCATION AND LABOR.       
+  99   99 1 CR-89-6-9109                 SRE192    NOV. 4, 1943               
+  99   99 2 S781099       Y=15 N=70                DANAHER, CT.               
+  99   99 3 TO AMEND S. RES. 192, COLLABORATION FOR POST-WAR PEACE, BY        
+  99   99 4 STATING THE MINIMUM TERMS TO BE INCLUDED IN ANY AGREEMENT         
+  99   99 5 FOR PEACE FOR THE GUIDANCE OF THE PRESIDENT.                      
+ 100  100 1 CR-89-6-9115                 SRE192    NOV. 4, 1943               
+ 100  100 2 S781100       Y=28 N=54                REVERCOMB, W.VA.           
+ 100  100 3 TO AMEND S. RES. 192, BY DECLARING THAT THE UNITED STATES         
+ 100  100 4 PARTICIPATION IN ANY INTERNATIONAL ORGANIZATION SHOULD BE         
+ 100  100 5 BY TREATY ONLY.                                                   
+ 101  101 1 CR-89-7-922                  SRE192    NOV. 5, 1943               
+ 101  101 2 S781101       Y=85 N=5                                            
+ 101  101 3 TO PASS S. RES. 192, WHICH DECLARES WAR AND PEACE AIMS OF         
+ 101  101 4 THE UNITED STATES.                                                
+ 102  102 1 CR-89-7-9571                 S1457     NOV. 16, 1943              
+ 102  102 2 S781102       Y=21 N=54                LANGER, N.D.               
+ 102  102 3 TO AMEND S. 1457, PROMOTION OF GOVERNMENT BOND SALES BY           
+ 102  102 4 NEWSPAPER ADVERTISING, BY REQUIRING THAT $5,000,000 OF THE        
+ 102  102 5 APPROPRIATION BE SPENT FOR ADVERTISING BY SMALL RADIO             
+ 102  102 6 STATIONS.                                                         
+ 103  103 1 CR-89-7-9580                 S1457     NOV. 16, 1943              
+ 103  103 2 S781103       Y=34 N=38                OVERTON, LA.               
+ 103  103 3 TO AMEND S. 1457, BY STRIKING FROM THE LEGISLATION THE RE-        
+ 103  103 4 QUIREMENT THAT THE AUTHORIZED APPROPRIATION BE SPENT.             
+ 104  104 1 CR-89-7-9584                 S1457     NOV. 16, 1943              
+ 104  104 2 S781104       Y=40 N=35                                           
+ 104  104 3 TO PASS S. 1457, A BILL TO AID IN THE STABILIZATION PROGRAM       
+ 104  104 4 AND THE WAR EFFORT BY PAID NEWSPAPER ADVERTISING IN CONNEC-       
+ 104  104 5 TION WITH THE SALE OF UNITED STATES BONDS, AND FOR OTHER          
+ 104  104 6 PURPOSES.                                                         
+ 105  105 1 CR-89-7-9675                 S514      NOV. 18, 1943              
+ 105  105 2 S781105       Y=65 N=4                 MCKELLAR, TENN.            
+ 105  105 3 TO OVERRIDE VETO OF S. 514, A BILL PROVIDING FOR THE RELIEF       
+ 105  105 4 OF BLANCHE H. KARSCH, ADMINISTRATRIX OF THE ESTATE OF             
+ 105  105 5 KATE E. HAMILTON.                                                 
+ 106  106 1 CR-89-8-10080                S1285     NOV. 23, 1943              
+ 106  106 2 S781106       Y=33 N=33                BRIDGES, N.H.              
+ 106  106 3 TO AMEND S. 1285, WARTIME METHOD OF VOTING BY ARMED FORCES,       
+ 106  106 4 BY CHANGING THE WAY IN WHICH THE BALLOT COMMISSION PROVIDED       
+ 106  106 5 UNDER THE LEGISLATION SHOULD BE CREATED.  IT PROVIDES THAT        
+ 106  106 6 THE RESPECTIVE NATIONAL COMMITTEES SHALL SUBMIT NO LESS THAN      
+ 106  106 7 SIX NOMINEES FROM WHOM TWO WOULD BE SELECTED TO SERVE.            
+ 106  106 8 UNDER THE ORIGINAL LEGISLATION, THE PRESIDENT WOULD APPOINT       
+ 106  106 9 MEMBERS OF THE COMMISSION WITH THE APPROVAL OF THE                
+ 106  10610 SENATE.                                                           
+ 107  107 1 CR-89-8-10083                          NOV. 29, 1943              
+ 107  107 2 S781107       Y=43 N=29                BARKLEY, KY.               
+ 107  107 3 MOTION THAT THE SENATE PROCEED TO THE CONSIDERATION OF            
+ 107  107 4 EXECUTIVE BUSINESS.                                               
+ 108  108 1 CR-89-8-10120                S1285     NOV. 30, 1943              
+ 108  108 2 S781108       Y=40 N=38                WILLIS, IND.               
+ 108  108 3 TO RECONSIDER SENATOR BRIDGES' AMENDMENT TO S. 1285.  THE         
+ 108  108 4 AMENDMENT PROVIDED A NEW METHOD BY WHICH TO CHOOSE THE MEM-       
+ 108  108 5 BERS OF A BALLOT COMMISSION WHICH WAS CREATED.                    
+ 109  109 1 CR-89-8-10121                S1285     NOV. 30, 1943              
+ 109  109 2 S781109       Y=40 N=39                BRIDGES, N.H.              
+ 109  109 3 RECONSIDERATION OF THE BRIDGES AMENDMENT TO S. 1285.              
+ 109  109 4 SEE REF. #0115.                                                   
+ 110  110 1 CR-89-8-10121                S1285     NOV. 30, 1943              
+ 110  110 2 S781110       Y=42 N=38                TOBEY, N.H.                
+ 110  110 3 TO TABLE A MOTION TO RECONSIDER THE VOTE BY WHICH AN AMEND-       
+ 110  110 4 MENT TO S. 1285 CHANGING THE METHOD OF CHOOSING A BALLOT          
+ 110  110 5 COMMISSION UNDER THIS LEGISLATION WAS ACCEPTED.                   
+ 111  111 1 CR-89-8-10133                S1285     NOV. 30, 1943              
+ 111  111 2 S781111       Y=40 N=35                PEPPER, FLA.               
+ 111  111 3 TO AMEND S. 1285 BY PROVIDING THAT THE MEMBERS OF THE MER-        
+ 111  111 4 CHANT MARINE WOULD REMAIN WITHIN THE PROVISIONS OF THE            
+ 111  111 5 MEASURE, AND WOULD BE ENTITLED TO VOTE, BUT ELIMINATING           
+ 111  111 6 CERTAIN CIVILIANS IN THE MERCHANT MARINE ORIGINALLY COVERED       
+ 111  111 7 IN THE LEGISLATION.                                               
+ 112  112 1 CR-89-8-10178                S1285     DEC. 1, 1943               
+ 112  112 2 S781112       Y=52 N=21                AIKEN, VT.                 
+ 112  112 3 TO AMEND S. 1285, BY PROVIDING FOR THE INCLUSION OF THE FOL-      
+ 112  112 4 LOWING UNDER THE TERMS OF THE ACT:  THE AMERICAN RED CROSS,       
+ 112  112 5 THE SOCIETY OF FRIENDS, THE WOMEN'S AUXILIARY FERRY SERVICE,      
+ 112  112 6 THE WOMEN'S AIR FORCE SERVICE PILOTS, AND THE UNITED STATES       
+ 112  112 7 SERVICE ORGANIZATIONS OUTSIDE THE UNITED STATES WHO ARE           
+ 112  112 8 ATTACHED TO AND SERVING WITH THE ARMED FORCES OF THE              
+ 112  112 9 UNITED STATES.                                                    
+ 113  113 1 CR-89-8-10214                S1285     DEC. 02, 1943              
+ 113  113 2 S781113       Y=36 N=39                LUCAS, ILL.                
+ 113  113 3 THE AMENDMENT WOULD HAVE PLACED THE RESPONSIBILITY FOR            
+ 113  113 4 DETERMINING THE TYPE OF POLITICAL LITERATURE SUPPLIED TO          
+ 113  113 5 SERVICEMENT OVERSEAS TO THE WAR DEPARTMENT AND THE NAVY           
+ 113  113 6 DEPARTMENT.                                                       
+ 114  114 1 CR-89-8-10218                S1285     DEC. 2, 1943               
+ 114  114 2 S781114       Y=42 N=35                TAFT, OHIO                 
+ 114  114 3 TO AMEND S. 1285 BY ATTEMPTING TO PREVENT THE DISTRIBUTION        
+ 114  114 4 OF PARTISAN PROPAGANDA TO SERVICEMENT OVERSEAS BY ALLOWING        
+ 114  114 5 THE BI-PARTISAN BALLOT COMMISSION CREATED UNDER THE ACT TO        
+ 114  114 6 ACT AS A SCREENING AGENT.                                         
+ 115  115 1 CR-89-8-10275                S1285     DEC. 3, 1943               
+ 115  115 2 S781115       Y=30 N=50                DANAHER, CT.               
+ 115  115 3 TO AMEND S. 1285, BY CHANGING THE MECHANISM FOR VOTING UNDER      
+ 115  115 4 THE ACT.  IT WOULD AUTHORIZE THE ABSENTEE VOTER TO DESIG-         
+ 115  115 5 NATE, THROUGH POWER OF ATTORNEY, TO HIS FATHER, MOTHER,           
+ 115  115 6 RELATIVE, OR TRUSTED FRIEND, THE AUTHORITY TO VOTE IN             
+ 115  115 7 BEHALF OF THE ABSENTEE VOTER AND IN ACCORDANCE WITH THE           
+ 115  115 8 LATTER'S INSTRUCTIONS, PRECISELY AS THOUGH HE WERE PRESENT        
+ 115  115 9 IN PERSON WITHIN THE APPROPRIATE VOTING PRECINCT OF HIS           
+ 115  11510 INDIVIDUAL STATE.                                                 
+ 116  116 1 CR-89-8-10290                S1285     DEC. 3, 1943               
+ 116  116 2 S781116       Y=42 N=37                EASTLAND, MISS.            
+ 116  116 3 TO AMEND S. 1285, BY REQUIRING THAT THE METHOD FOR ABSENTEE       
+ 116  116 4 VOTING MUST BE PROVIDED AND REGULATED BY THE STATES RATHER        
+ 116  116 5 THAN THE FEDERAL GOVERNMENT.                                      
+ 117  117 1 CR-89-8-10357                HR3598    DEC. 7, 1943               
+ 117  117 2 S781117       Y=55 N=16                MCKELLAR, TENN.            
+ 117  117 3 TO AMEND H.R. 3598, FIRST SUPPLEMENTAL NATIONAL DEFENSE AP-       
+ 117  117 4 PROPRIATIONS, BY ADDING THE FOLLOWING-- "THE AMOUNT THAT          
+ 117  117 5 MAY BE USED FOR ADMINISTRATIVE EXPENSES IN THE FISCAL YEAR        
+ 117  117 6 1944 UNDER THE HEAD "WAR SHIPPING ADMINISTRATION, REVOLVING       
+ 117  117 7 FUND" IS HEREBY INCREASED FROM $9,650,000 TO $12,000,000.         
+ 118  118 1 CR-89-8-10411                HR3598    DEC. 8, 1943               
+ 118  118 2 S781118       Y=62 N=10                MCKELLAR, TENN.            
+ 118  118 3 TO SUSPEND SENATE RULES TO ALLOW AN AMENDMENT MAKING LEGIS-       
+ 118  118 4 LATION IN AN APPROPRIATION BILL.  THE PROPOSED AMENDMENT TO       
+ 118  118 5 H.R. 3598 WOULD HAVE SEVERELY RESTRICTED THE TRANSFER OF          
+ 118  118 6 SURPLUS FUNDS THAT MIGHT HAVE ACCRUED WITHIN THE WAR              
+ 118  118 7 DEPARTMENT.                                                       
+ 119  119 1 CR-89-8-10417                HR3598    DEC. 8, 1943               
+ 119  119 2 S781119       Y=28 N=42                MCKELLAR, TENN.            
+ 119  119 3 TO AMEND H.R. 3598, BY PROVIDING THAT THE SECRETARY OF WAR        
+ 119  119 4 MAY TRANSFER UP TO 10 PER CENT OF ANY OR ALL OF THE APPRO-        
+ 119  119 5 PRIATIONS FOR THE MILITARY ESTABLISHMENT FOR THE FISCAL           
+ 119  119 6 YEAR 1944 TO ANY OTHER SUCH APPROPRIATION, BUT NO OTHER           
+ 119  119 7 APPROPRIATION SHOULD BE INCREASED MORE THAN 10 PER CENT           
+ 119  119 8 THEREBY.                                                          
+ 120  120 1 CR-89-8-10419                HR3598    DEC. 8, 1943               
+ 120  120 2 S781120       Y=19 N=55                LODGE, MASS.               
+ 120  120 3 TO AMEND H.R. 3598, BY PROVIDING THAT IF A SURPLUS DEVELOPS       
+ 120  120 4 IN ANY PARTICULAR ACTIVITY OF THE WAR DEPARTMENT, SUCH SUR-       
+ 120  120 5 PLUS SHOUD BE IMPOUNDED BY THE SECRETARY OF WAR, AND THAT         
+ 120  120 6 IT COULD BE EXPENDED THEREAFTER ONLY FOR THE PURPOSE FOR          
+ 120  120 7 WHICH IT WAS ORIGINALLY APPROPRIATED.  THE AMENDMENT ALSO         
+ 120  120 8 ALLOWS A TEN PER CENT VARIATION IN THE TRANSFER OF                
+ 120  120 9 APPROPRIATIONS.                                                   
+ 121  121 1 CR-89-8-10432                HR3598    DEC. 8, 1943               
+ 121  121 2 S781121       Y=43 N=20                RUSSELL, GA.               
+ 121  121 3 TO SUSPEND SENATE RULES SO AS TO ALLOW AN AMENDMENT MAKING        
+ 121  121 4 LEGISLATION IN AN APPROPRIATION BILL.  THE PROPOSED AMEND-        
+ 121  121 5 MENT TO H.R. 3598 WOULD HAVE ADDED AN APPROPRIATION FOR           
+ 121  121 6 THE PUBLIC HEALTH SERVICE IN AN ATTEMPT TO REMEDY THE             
+ 121  121 7 SERIOUS SHORTAGE OF DENTISTS AND PHYSICIANS.                      
+ 122  122 1 CR-89-8-10526                SJR91     DEC. 9, 1943               
+ 122  122 2 S781122       Y=74 N=4                                            
+ 122  122 3 TO PASS H.J. RES. 91, PAY OF NONOPERATING RAILWAY EMPLOYEES.      
+ 123  123 1 CR-90-1-50                   HR3687    JAN. 11, 1944              
+ 123  123 2 S782001       Y=49 N=16                GEORGE, GA.                
+ 123  123 3 TO AMEND H.R. 3687, THE REVENUE ACT, BY PROVIDING THAT            
+ 123  123 4 ONE YEAR FROM JANUARY 1, 1944, PAY-ROLL TAXES FOR OLD-AGE         
+ 123  123 5 AND SURVIVORS' BENEFITS BE FROZEN AT EXISTING RATES OF 1          
+ 123  123 6 PERCENT UPON EMPLOYERS AND 1 PERCENT UPON EMPLOYEES, INSTEAD      
+ 123  123 7 BEING INCREASED TO 2 PERCENT ON EMPLOYERS AND EMPLOYEES AS        
+ 123  123 8 WOULD OTHERWISE BE REQUIRED BY THE EXISTING SOCIAL                
+ 123  123 9 SECURITY LAW.                                                     
+ 124  124 1 CR-90-1-233                  HR3687    JAN. 15, 1944              
+ 124  124 2 S782002       Y=37 N=26                GEORGE, GA.                
+ 124  124 3 TO AMEND H.R. 3687, BY PROVIDING THAT IN THE YEAR IN              
+ 124  124 4 WHICH A TAX LOSS IS CLAIMED BY AN INDIVIDUAL FROM THE             
+ 124  124 5 OPERATION OF A 'COLLATERAL VENTURE', THE COMMISSIONER             
+ 124  124 6 OF INTERNAL REVENUE WOULD BE AUTHORIZED TO COMPUTE                
+ 124  124 7 THE INCOME OF THE PARTICULAR INDIVIDUAL FOR EACH OF               
+ 124  124 8 5 YEARS.  IF IN THE 5 PRECEDING YEARS THERE HAD BEEN AN           
+ 124  124 9 ANNUAL LOSS IN EXCESS OF $20,000 THIS AMENDMENT WOULD             
+ 124  12410 PROPOSE THAT IT BE PRESUMED THAT THE INDIVIDUAL DID NOT           
+ 124  12411 ENGAGE IN THAT PARTICULAR VENTURE FOR PROFIT.                     
+ 125  125 1 CR-90-1-274                  HR3687    JAN. 17, 1944              
+ 125  125 2 S782003       Y=23 N=55                MAYBANK, S.C.              
+ 125  125 3 TO AMEND H.R. 3687, BY SUSPENDING FOR THE DURATION OF THE         
+ 125  125 4 WAR THE 10 CENTS PER POUND TAX ON COLORED OLEOMARGARINE.          
+ 126  126 1 CR-90-1-305                  HR3687    JAN. 18, 1944              
+ 126  126 2 S782004       Y=34 N=38                THOMAS, OKLA.              
+ 126  126 3 TO AMEND. H.R. 3687, BY STRIKING FROM THE BILL A MEASURE          
+ 126  126 4 WHICH WOULD HAVE DEPRIVED A NUMBER OF METALS AND MINERAL          
+ 126  126 5 OF THE DEPLETION ALLOWANCE AFTER THE CLOSE OF THE WAR.            
+ 127  127 1 CR-90-1-305                  HR3687    JAN. 18, 1944              
+ 127  127 2 S782005       Y=37 N=34                GEORGE, GA.                
+ 127  127 3 TO TABLE A MOTION TO AMEND H.R. 3687, WHICH STRIKES FROM THE      
+ 127  127 4 BILL A MEASURE DEPRIVING A NUMBER OF METALS AND MINERALS          
+ 127  127 5 OF THE DEPLETION ALLOWANCE AFTER THE CLOSE OF THE WAR.            
+ 128  128 1 CR-90-1-322                  HR3687    JAN. 18, 1944              
+ 128  128 2 S782006       Y=27 N=50                VANDENBERG                 
+ 128  128 3 TO AMEND H.R. 3687, BY REQUIREING THAT THE BENEFICIARIES OF       
+ 128  128 4 TAX EXEMPTION PRIVILEGES, SUCH AS FARM COOPERATIVES OR LABOR      
+ 128  128 5 UNION, FILE A TAX RETURN FOR THE YEAR 1943 TO PROVE THE           
+ 128  128 6 EXEMPTION JUSTIFIABLE.                                            
+ 129  129 1 CR-90-1-323                  HR3687    JAN. 18, 1944              
+ 129  129 2 S782007       Y=34 N=43                CLARK, MO.                 
+ 129  129 3 TO AMEND H.R. 3687, BY STRIKING FROM THE BILL A PROVISION         
+ 129  129 4 WHICH REQUIRES INCOME-TAX RETURNS FROM CERTAIN ORGANIZATIONS      
+ 129  129 5 WHICH ARE EXEMPT UNDER LAW FROM PAYING INCOME TAXES, SUCH         
+ 129  129 6 AS FARM COOPERATIVES AND LABOR UNIONS.                            
+ 130  130 1 CR-90-1-382                  HR3687    JAN. 19, 1944              
+ 130  130 2 S782008       Y=26 N=44                AIKEN, VT.                 
+ 130  130 3 TO AMEND H.R. 3687, BY STRIKING FROM THE BILL CERTAIN PRO-        
+ 130  130 4 VISIONS RELATING TO THE FILING OF INCOME-TAX RETURNS BY           
+ 130  130 5 CERTAIN FARM COOPERATIVES.                                        
+ 131  131 1 CR-90-1-528                  HR3687    JAN. 21, 1944              
+ 131  131 2 S782009       Y=25 N=48                DANAHER, CT.               
+ 131  131 3 TO AMEND H.R. 3687, BY ADDING THE FOLLOWING:  "IN                 
+ 131  131 4 DETERMINING EXCESSIVE PROFITS UNDER THE RENEGOTIATION ACT,        
+ 131  131 5 FOR FISCAL YEARS ENDING PRIOR TO JULY 1, 1943, AMOUNTS            
+ 131  131 6 PAID PRIOR TO SUCH DETERMINATION WITH RESPECT TO TAXES            
+ 131  131 7 IMPOSED BY ANY STATE, TERRITORY, OR POLITICAL SUBDIVISION         
+ 131  131 8 THEREOF, WHICH ARE MEASURED BY INCOME, SHALL TO                   
+ 131  131 9 THE EXTENT SO PAID BE ALLOWED AS ITEMS OF COST."                  
+ 132  132 1 CR-90-1-600                  HR3477    JAN. 24, 1944              
+ 132  132 2 S782010       Y=33 N=38                TAFT, OHIO                 
+ 132  132 3 TO CONSIDER H.R. 3477, A BILL PROVIDING FOR CONTINUATION          
+ 132  132 4 OF THE COMMODITY CREDIT CORPORATION.                              
+ 133  133 1 CR-90-1-1043                 S1612     FEB. 2, 1944               
+ 133  133 2 S782011       Y=23 N=68                OVERTON, LA.               
+ 133  133 3 TO AMEND S. 1612, A BILL TO AMEND THE ACT OF SEPT 1942,           
+ 133  133 4 WHICH PROVIDED A WARTIME METHOD OF VOTING BY THE MEMBERS          
+ 133  133 5 OF THE ARMED FORCES, BY REQUIRING THAT ANY VOTING                 
+ 133  133 6 PROVISION FOR MEMBER OF THE AMNED FORCES BE "IN ACCORDANCE        
+ 133  133 7 WITH STATE LAW."                                                  
+ 134  134 1 CR-90-1-1044                 S1612     FEB. 2, 1944               
+ 134  134 2 S782012       Y=16 N=69                OVERTON, LA.               
+ 134  134 3 TO AMEND S. 1612, BY ADDING THE FOLLOWING:  "QUALIFICATIONS       
+ 134  134 4 OF THE VOTERS SHALL BE DETERMINED BY LAW."                        
+ 135  135 1 CR-90-1-1163                 S1612     FEB. 3, 1944               
+ 135  135 2 S782013       Y=72 N=19                DANAHER, CT.               
+ 135  135 3 TO AMEND S. 1612, BY PROVIDING FOR A FEDERAL BALLOT ONLY IN       
+ 135  135 4 THOSE CASES WHERE THE STATES THEMSELVES FAILED TO PROVIDE         
+ 135  135 5 A PRACTICAL MEANS FOR A SOLDIER TO VOTE.  THIS WOULD              
+ 135  135 6 APPLY ONLY TO SOLDIERS SERVING WITHIN THE UNITED STATES.          
+ 136  136 1 CR-90-1-1252                 S1612     FEB. 4, 1944               
+ 136  136 2 S782014       Y=42 N=46                TAFT, OHIO                 
+ 136  136 3 TO AMEND S. 1612, BY PROVIDING THAT SOLDIERS WHO ARE              
+ 136  136 4 ABROAD SHOULD HAVE THEIR STATE BALLOTS AND THAT THEY              
+ 136  136 5 SHOULD NOT HAVE FEDERAL BALLOTS UNLESS THE STATE FROM             
+ 136  136 6 WHICH THEY COME FAILS TO PROVIDE AN ABSENTEE VOTERS' LAW.         
+ 137  137 1 CR-90-1-1258                 S1612     FEB. 4, 1944               
+ 137  137 2 S782015       Y=19 N=67                MCCLELLAN, ARK.            
+ 137  137 3 TO AMEND S. 1612, BY ALLOWING ALL SOLDIERS TO VOTE                
+ 137  137 4 IRRESPECTIVE OF AGE.                                              
+ 138  138 1 CR-90-1-1263                 S1612     FEB. 4, 1944               
+ 138  138 2 S782016       Y=39 N=45                FERGUSON, MICH.            
+ 138  138 3 TO AMEND S. 1612, BY REQUIRING THE VOTER USING THE FEDERAL        
+ 138  138 4 BALLOT TO INSERT THE NAME OF THE CANDIDATE INSTEAD OF MERELY      
+ 138  138 5 WRITING IN THE NAME OF THE PARTY.                                 
+ 139  139 1 CR-90-1-1266                 S1285     FEB. 4, 1944               
+ 139  139 2 S782017       Y=42 N=42                OVERTON, LA.               
+ 139  139 3 TO  CONSIDER A HOUSE MESSAGE ON S. 1285, A BILL TO PROVIDE A      
+ 139  139 4 WARTIME METHOD OF VOTING BY THE MEMBERS OF THE ARMED FORCES.      
+ 140  140 1 CR-90-1-1281                 S1285     FEB. 7, 1944               
+ 140  140 2 S782018       Y=42 N=44                OVERTON, LA.               
+ 140  140 3 TO CONSIDER HOUSE MESSAGE ON S. 1285.                             
+ 141  141 1 CR-90-1-1287                 S1612     FEB. 7, 1944               
+ 141  141 2 S782019       Y=34 N=49                BUSHFIELD, S.D.            
+ 141  141 3 TO AMEND S. 1612, BY DOING AWAY WITH ONE ENTIRE MAILING OF        
+ 141  141 4 THE BALLOT PROCEDURE AND WOULD ALSO DO AWAY WITH BURDENING        
+ 141  141 5 THE ARMY AND NAVY WITH THE TRANSPORTATION OF BALLOTS, AND         
+ 141  141 6 WOULD PLACE THAT BURDEN LARGELY ON THE POST OFFICE                
+ 141  141 7 DEPARTMENT.                                                       
+ 142  142 1 CR-90-1-1292                 S1285     FEB. 7, 1944               
+ 142  142 2 S782020       Y=50 N=38                OVERTON, LA.               
+ 142  142 3 TO CONSIDER HOUSE AMENDMENTS TO S. 1285.                          
+ 143  143 1 CR-90-1-1387                 S1285     FEB. 8, 1944               
+ 143  143 2 S782021       Y=62 N=20                FERGUSON, MICH.            
+ 143  143 3 TO AMEND S. 1285, BY PROVIDING THAT IF FOR ANY REASON AN          
+ 143  143 4 INDIVIDUAL OVERSEAS WERE UNABLE TO VOTE ON A STATE                
+ 143  143 5 BALLOT HE COULD THEN VOTE ON THE FEDERAL BALLOT.                  
+ 144  144 1 CR-90-1-1397                 S1285     FEB. 8, 1944               
+ 144  144 2 S782022       Y=41 N=45                TAFT, OHIO                 
+ 144  144 3 TO AMEND S. 1285 BY PROVIDING A SUBSTITUTE A METHOD OF            
+ 144  144 4 ABSENTEE VOTING FOR THAT PROVIDED IN THE PROPOSED SENATE          
+ 144  144 5 AMENDMENT TO THE BILL AS PASSED BY THE HOUSE.                     
+ 145  145 1 CR-90-1-1397                 S1285     FEB. 8, 1944               
+ 145  145 2 S782023       Y=46 N=40                BARKLEY, KY.               
+ 145  145 3 TO AMEND S. 1285, BY PROVIDING FOR A FEDERAL BALLOT IN THOSE      
+ 145  145 4 CASES WHERE THE STATES FAIL TO PROVIDE AN ABSENTEE VOTING         
+ 145  145 5 LAW.                                                              
+ 146  146 1 CR-90-1-1404                 S1285     FEB. 8, 1944               
+ 146  146 2 S782024       Y=41 N=45                TAFT, OHIO                 
+ 146  146 3 TO AMEND S. 1285, BY PROVIDING A SUBSTITUTE METHOD OF             
+ 146  146 4 ABSENTEE VOTING FOR THAT PROVIDED IN THE BARKLEY AMENDMENT        
+ 146  146 5 TO THE BILL AS PASSED BY THE HOUSE.                               
+ 147  147 1 CR-90-1-1406                 S1612     FEB. 8, 1944               
+ 147  147 2 S782025       Y=47 N=38                                           
+ 147  147 3 TO PASS S. 1612, A BILL TO AMEND THE ACT OF SEPT. 16, 1942,       
+ 147  147 4 WHICH PROVIDED A METHOD OF WARTIME VOTING BY MEMBERS              
+ 147  147 5 OF THE ARMED FORCES.                                              
+ 148  148 1 CR-90-2-1483                 HR3477    FEB. 9, 1944               
+ 148  148 2 S782026       Y=26 N=49                MALONEY, CT.               
+ 148  148 3 TO AMEND H.R. 3477, A BILL FOR CONTINUATION OF THE                
+ 148  148 4 COMMODITY CREDIT CORPORATION, BY PROVIDING FOR A SERIES OF        
+ 148  148 5 AGRICULTURAL SUBSIDIES UP TO $1.5 BILLION FOR THE PURPOSE OF      
+ 148  148 6 OBTAINING NEEDED PRODUCTION OR DISTRIBUTION OF A COMMODITY        
+ 148  148 7 CONSISTENTLY WITH THE OBJECTIVES OF THE EMERGENCY PRICE           
+ 148  148 8 CONTROL ACT OF 1942 AND THE STABLIZATION ACT.                     
+ 149  149 1 CR-90-2-1537                 HR3477    FEB. 10, 1944              
+ 149  149 2 S782027       Y=16 N=64                TAFT, OHIO                 
+ 149  149 3 TO AMEND H.R. 3477, BY CHANGING THE PROGRAM FROM A SO-CALLED      
+ 149  149 4 'CONSUMER SUBSIDY' TO A PRICE SUPPORT PROGRAM AND WOULD           
+ 149  149 5 REDUCE THE AUTHORIZATION FROM $1.5 BILLION TO $950 MILLION.       
+ 150  150 1 CR-90-2-1613                 HR3477    FEB. 11, 1944              
+ 150  150 2 S782028       Y=29 N=46                AIKEN, VT.                 
+ 150  150 3 TO AMEND H.R. 3477, BY PROVIDING FOR REIMBURSING FARMERS          
+ 150  150 4 FOR ANY LOSS WHICH THEY MIGHT SUSTAIN BY REASON OF THE            
+ 150  150 5 ABOLITION OF SUBSIDIES AND PERMIT THEM TO CONTINUE IN             
+ 150  150 6 PRODUCTION.                                                       
+ 151  151 1 CR-90-2-1620                 HR3477    FEB. 11, 1944              
+ 151  151 2 S782029       Y=12 N=57                PEPPER, FLA.               
+ 151  151 3 TO AMEND H.R. 3477, BY ADDING THE FOLLOWING:  "IN THE             
+ 151  151 4 ADMINISTRATION OF THE STABILIZATION ACT, APPROVED OCTOBER         
+ 151  151 5 2, 1942, THE PRESIDENT SHALL ISSUE A GENERAL ORDER WITH           
+ 151  151 6 RESPECT TO WAGES AND SALARIES, PERMITTING ANY INCREASE IN         
+ 151  151 7 STRAIGHT-TIME HOURLY EARNINGS WHICH DOES NOT RESULT               
+ 151  151 8 IN INCREASING SUCH EARNINGS TO A POINT MORE THAN 18 PERCENT       
+ 151  151 9 ABOVE THE LEVEL OF JAN. 1, 1941.  "THE PROVISIONS OF THIS         
+ 151  15110 SECTION SHALL APPLY WITH RESPECT TO INCREASES IN WAGES            
+ 151  15111 OR SALARIES OCCURRING ON OR AFTER JULY 1, 1944, THE DATE AS       
+ 151  15112 OF WHICH THE PROHIBITION IN SECTION 3 OF THIS ACT AGAINST         
+ 151  15113 THE MAKING OF CERTAIN PAYMENTS TO AID IN REDUCING OR              
+ 151  15114 PREVENTING INCREASES IN MAXIMUM PRICES BECOME EFFECTIVE."         
+ 152  152 1 CR-90-2-1622                 HR3477    FEB. 11, 1944              
+ 152  152 2 S782030       Y=17 N=53                CLARK, MO.                 
+ 152  152 3 TO AMEND H.R. 3477, BY ELIMINATING ALL SUBSIDIES--THE             
+ 152  152 4 SUPPOSEDLY "GOOD" ONES AS WELL AS THE "BAD" ONES.                 
+ 153  153 1 CR-90-2-1624                 HR3477    FEB. 11, 1944              
+ 153  153 2 S782031       Y=43 N=28                BANKHEAD, ALA.             
+ 153  153 3 TO PASS H.R. 3477.                                                
+ 154  154 1 CR-90-2-16                   HJR192    FEB. 17, 1944              
+ 154  154 2 S782032       Y=17 N=47                                           
+ 154  154 3 TO AMEND H.J.RES. 192, A BILL ALLOWING THE U.S. TO PARTICI-       
+ 154  154 4 PATE IN THE UNITED NATIONS RELIEF AND REHABILITATION              
+ 154  154 5 ADMINISTRATION BY PROVIDING THAT 50 PER CENT OF THE MONEY         
+ 154  154 6 AUTHORIZED FOR THIS UNITED NATIONS AGENCY SHOULD BE SPENT         
+ 154  154 7 FOR THE PURCHASE OF FARM PRODUCTS AND OTHER SUPPLIES IN THE       
+ 154  154 8 UNITED STATES.                                                    
+ 155  155 1 CR-90-2-1828                 HJR192    FEB. 17, 1944              
+ 155  155 2 S782033       Y=45 N=18                WILLIS, IND.               
+ 155  155 3 TO AMEND H.J.RES. 192, BY ADDING THE FOLLOWING PROVISO:           
+ 155  155 4 "NONE OF THE FUNDS APPRIPRIATED IN PURSUANCE OF THIS              
+ 155  155 5 AUTHORIZATION SHALL BE EXPENDED IN THE PROMOTION OF ANY EDU-      
+ 155  155 6 CATIONAL, RELIGIOUS, OR POLITICAL PROGRAM IN ANY COUNTRY IN       
+ 155  155 7 WHICH REHABILITATION IS CARRIED ON."                              
+ 156  156 1 CR-90-2-1829                 HJR192    FEB. 17, 1944              
+ 156  156 2 S782034       Y=47 N=14                                           
+ 156  156 3 TO PASS H.J.RES. 192.                                             
+ 157  157 1 CR-90-2-1919                 HR149     FEB. 21, 1944              
+ 157  157 2 S782035       Y=46 N=4                                            
+ 157  157 3 TO PASS H.R. 149, A BILL TO FIX A STANDARD OF IDENTITY            
+ 157  157 4 OF DRY MILK SOLIDS.                                               
+ 158  158 1 CR-90-2-2050                 HR3687    FEB. 25, 1944              
+ 158  158 2 S782036       Y=72 N=14                                           
+ 158  158 3 TO OVERIDE VETO OF H.R. 3687, THE REVENUE ACT.                    
+ 159  159 1 CR-90-2-2573                 S1285     MAR. 14, 1944              
+ 159  159 2 S782037       Y=47 N=31                                           
+ 159  159 3 CONFERENCE REPORT ON S. 1285, WARTIME METHOD OF VOTING BY         
+ 159  159 4 MEMBERS OF THE ARMED FORCES.                                      
+ 160  160 1 CR-90-2-2662                 HR4070    MAR. 16, 1944              
+ 160  160 2 S782038       Y=49 N=15                                           
+ 160  160 3 TO AMEND H.R. 4070, EXECUTIVE AND INDEPENDENT OFFICES APPRO-      
+ 160  160 4 PRIATIONS, BY ADDING THE FOLLOWING PROVISO:  "NO PART OF          
+ 160  160 5 THE APPROPRIATIONS HEREIN MADE TO THE CIVIL SERVICE COMMISS-      
+ 160  160 6 ION SHALL BE AVAILABLE FOR THE SALARIES AND EXPENSES OF           
+ 160  160 7 THE LEGAL EXAMINING UNIT IN THE EXAMINING AND PERSONNEL           
+ 160  160 8 UTILIZATION DIVISION OF THE COMMISSION, ESTABLISHED PURSUANT      
+ 160  160 9 TO EXECUTIVE ORDER NO. 9358 OF JULY 1, 1943."                     
+ 161  161 1 CR-90-2-2737                 HR4070    MAR. 20, 1944              
+ 161  161 2 S782039       Y=22 N=38                                           
+ 161  161 3 TO AMEND COMMITTEE AMENDMENT H.R. 4070, BY INCREASING THE         
+ 161  161 4 APPROPRIATION FOR THE FEDERAL COMMUNICATIONS COMMISSION           
+ 161  161 5 FROM $4,191,143 TO $6,146,000.                                    
+ 162  162 1 CR-90-2-2738                 HR4070    MAR. 20, 1944              
+ 162  162 2 S782040       Y=24 N=32                MEAD, N.Y.                 
+ 162  162 3 TO AMEND H.R. 4070, BY RESTORING AN $500,000 APPROPRIATION        
+ 162  162 4 FOR THE FOREIGN BROADCAST INTELLIGENCE SERVICE.  THIS AGENCY      
+ 162  162 5 PERFORMED THE WORK OF MONITORING FOREIGN BROADCASTS.              
+ 163  163 1 CR-90-2-2810                 HJR192    MAR. 21, 1944              
+ 163  163 2 S782041       Y=22 N=36                WILLIS, IND.               
+ 163  163 3 TO RECOMMIT H.J.RES. 192, UNITED NATIONS RELIEF AND               
+ 163  163 4 REHABILITATION ADMINISTRATION, TO CONFERENCE                      
+ 163  163 5 COMMITTEE.                                                        
+ 164  164 1 CR-90-2-2811                           MAR. 21, 1944              
+ 164  164 2 S782042       Y=47 N=9       HJR192    CONNALLY, TEX.             
+ 164  164 3 TO PASS                                                           
+ 164  164 4 CONFERENCE REPORT ON H.J. RES 192,  UNITED NATIONS RELIEF         
+ 164  164 5 AND REHABILITATION ADMINISTRATION.                                
+ 165  165 1 CR-90-3-3049                 HR4070    MAR. 24, 1944              
+ 165  165 2 S782043       Y=17 N=46                                           
+ 165  165 3 TO SUSTAIN A RULE OF THE CHAIR THAT A POINT OF ORDER RAISED       
+ 165  165 4 BY SENATOR TYDINGS THAT THE QUESTION OF GERMANENESS OF AN         
+ 165  165 5 AMENDMENT TO H.R. 4070, SHOULD BE SUBMITTED TO THE SENATE         
+ 165  165 6 WAS OUT OF ORDER AT THE TIME IT WAS MADE.                         
+ 166  166 1 CR-90-3-3057                 HR4070    MAR. 24, 1944              
+ 166  166 2 S782044       Y=39 N=26                                           
+ 166  166 3 TO AMEND H.R. 4070 BY REQUIRING THE TENNESSEE VALLEY              
+ 166  166 4 AUTHORITY TO TURN ALL ITS RECEIPTS QUARTERLY INTO THE             
+ 166  166 5 TREASURY, AFTER WHICH AN APPROPRIATION IS TO BE MADE TO           
+ 166  166 6 PORVIDE MONEY FOR THE TENNESSEE VALLEY AUTHORITY.                 
+ 167  167 1 CR-90-3-3058                 HR4070    MAR. 24, 1944              
+ 167  167 2 S782045       Y=39 N=26                                           
+ 167  167 3 TO AMEND H.R. 4070, BY CERTAIN PERFECTING AMENDMENTS              
+ 167  167 4 CORRECTIN THE WORDING OF THE MEASURE.                             
+ 168  168 1 CR-90-3-3062                 HR4070    MAR. 24, 1944              
+ 168  168 2 S782046       Y=36 N=22                BUCK, DEL.                 
+ 168  168 3 TO AMEND H.R. 4070, BY PROVIDING FOR THE RETENTION OF             
+ 168  168 4 THE FAIR EMPLOYMENT PRACTICE COMMITTEE.                           
+ 169  169 1 CR-90-3-3065                 HR4070    MAR. 24, 1944              
+ 169  169 2 S782047       Y=30 N=28                JOHNSON, COLO.             
+ 169  169 3 AN AMENDMENT TO H.R. 4070, PROVIDING FOR THE RETENTION OF         
+ 169  169 4 THE FAIR EMPLOYMENT PRACTICE COMMITTEE.                           
+ 170  170 1 CR-90-3-3065                 HR4070    MAR. 24, 1944              
+ 170  170 2 S782048       Y=26 N=33                BUCK, DEL.                 
+ 170  170 3 TO AMEND H.R. 4070, BY PROVIDING FOR THE RETENTION OF             
+ 170  170 4 THE FAIR EMPLOYMENT PRACTICE COMMITTEE.  (THIS AMENDMENT WAS      
+ 170  170 5 PREVIOUSLY AGREED TO, BUT A MOTION TO RECONSIDER WAS              
+ 170  170 6 SUCCESSFUL.  THIS ROLL CALL IS THE RECONSIDERATION OF THE         
+ 170  170 7 AMENDMENT.)                                                       
+ 171  171 1 CR-90-3-3070                 HR4070    MAR. 24, 1944              
+ 171  171 2 S782049       Y=31 N=23                MCKELLAR, TENN.            
+ 171  171 3 TO TABLE A MOTION TO RECONSIDER, H.R. 4070, AN AMENDMENT          
+ 171  171 4 ABOLISHING FROM CIVIL SERVICE REQUIREMENTS ALL POSITIONS          
+ 171  171 5 WITH SALARIES OF $4,500 OR MORE A YEAR.                           
+ 172  172 1 CR-90-3-3074                 HR4070    MAR. 24, 1944              
+ 172  172 2 S782050       Y=34 N=19                AIKEN, VT.                 
+ 172  172 3 TO SUSPEND SENATE RULE, H.R. 4070, IN ORDER TO OFFER AN           
+ 172  172 4 AMENDMENT TO HR 4070 WHICH WOULD BRING UNDER THE COMP-            
+ 172  172 5 TROLLER GENERAL'S OFFICE THOSE AGENCIES OF GOVERNMENT             
+ 172  172 6 WHICH WERE NOT REQUIRED TO MAKE TO THE CONGRESS PROPER            
+ 172  172 7 ACCOUNTING OF THEIR FUNDS.                                        
+ 173  173 1 CR-90-3-3081                 S1767     MAR. 24, 1944              
+ 173  173 2 S782051       Y=50 N=0                                            
+ 173  173 3 TO PASS S. 1767, A BILL TO PROVIDE FEDERAL AID FOR                
+ 173  173 4 READJUSTMENT OF WORLD WAR II VETERANS IN CIVIL LIFE.              
+ 174  174 1 CR-90-3-3656                 S469      APR. 24, 1944              
+ 174  174 2 S782052       Y=28 N=38                                           
+ 174  174 3 TO RECONSIDER THE VOTE BY WHICH S. 469, A BILL TO PROVIDE         
+ 174  174 4 FOR PROTECTION OF THE NAME "RED CROSS" WAS PASSED.                
+ 175  175 1 CR-90-3-3683                 HR4559    APR. 25, 1944              
+ 175  175 2 S782053       Y=61 N=0                                            
+ 175  175 3 TO PASS H.R. 4559, A BILL MAKING NAVAL APPROPRIATIONS.            
+ 176  176 1 CR-90-3-4106                 HR4254    APR. 25, 1944              
+ 176  176 2 S782054       Y=63 N=1                                            
+ 176  176 3 TO PASS H.R. 4254, A BILL TO EXTEND LEND-LEASE ACT.               
+ 177  177 1 CR-90-4-4470                 HR7       MAY 15, 1944               
+ 177  177 2 S782055       Y=36 N=44                                           
+ 177  177 3 TO END DEBATE ON H.R. 7, THE POLL TAX BILL.                       
+ 178  178 1 CR-90-4-4479                 HR3176    MAY 15, 1944               
+ 178  178 2 S782056       Y=41 N=35                CLARK, MO.                 
+ 178  178 3 TO CONSIDER H.R. 3176, REGULATIONS AFFECTING THE FURNISHING       
+ 178  178 4 OF ARTIFICIAL LIMBS TO RETIRED OFFICERS AND ENLISTED MEN.         
+ 179  179 1 CR-90-4-4489                 S683      MAY 15, 1944               
+ 179  179 2 S782057       Y=28 N=32                BYRD, VA.                  
+ 179  179 3 TO AMEND S. 683, RECOGNITION OF SERVICES OF CIVILIAN              
+ 179  179 4 EMPLOYEES IN CONNECTION WITH THE CONSTRUCTION OF THE PANAMA       
+ 179  179 5 CANAL, BY LIMITING COMPENSATION TO THOSE SUFFERING FROM           
+ 179  179 6 DISABILITY RESULTING FROM PERSONAL INJURIES SUSTAINED OR          
+ 179  179 7 ILLNESS CONTRACTED DURING THE CONSTRUCTION OF THE CANAL.          
+ 180  180 1 CR-90-4-4592                 HR4204    MAY 17, 1944               
+ 180  180 2 S782058       Y=24 N=42                DANAHER, CT.               
+ 180  180 3 TO AMEND H.R. 4204, A BILL MAKING APPROPRIATIONS FOR              
+ 180  180 4 DEPARTMENTS OF STATE, JUSTICE, AND COMMERCE BY ADDING             
+ 180  180 5 "PROVIDED FURTHER, THAT NO PART OF THE FUNDS APPROPRIATED         
+ 180  180 6 OR MADE AVAILABLE TO THE AGRICULTURAL ADJUSTMENT AGENCY           
+ 180  180 7 OR TO ANY OTHER BUREAU OR AGENCY OF THE DEPARTMENT OF             
+ 180  180 8 AGRICULTURE SHALL BE USED TO PAY THE SALARY OF ANY FULL-          
+ 180  180 9 TIME EMPLOYEE UNLESS SUCH EMPLOYEE SHALL CERTIFY THAT             
+ 180  18010 HE HAS NOT ENGAGED IN ANY POLITICAL ACTIVITY INCLUDING            
+ 180  18011 BUT NOT LIMITED TO MAKING OR SOLICITING CONTRIBUTIONS TO          
+ 180  18012 CAMPAIGN FUNDS OF POLITICAL PARTIES OR TO ANY ORGANIZATION,       
+ 180  18013 ASSOCIATION, CORPORATION, OR INDIVIDUAL FOR THE PURPOSE           
+ 180  18014 OF AIDING OR INFLUENCING THE ELECTION OR DEFEAT OF ANY            
+ 180  18015 CANDIDATE FOR POLITICAL OFFICE; DISTRIBUTION OF, OR               
+ 180  18016 SOLICITATION OF SUBSCRIPTIONS TO, OR CONTRIBUTIONS FOR,           
+ 180  18017 THE DISTRIBUTION OF PUBLICATIONS AND OTHER LITERATURE             
+ 180  18018 DESIGNED TO INFLUENCE OR AID IN THE ELECTION OR DEFEAT OF         
+ 180  18019 ANY CANDIDATE FOR PUBLIC OFFICE."                                 
+ 181  181 1 CR-90-4-5092                 HR2928    MAY 29, 1944               
+ 181  181 2 S782059       Y=44 N=12                                           
+ 181  181 3 CONFERENCE REPORT ON H.R. 2928, HOURS OF DUTY OF POSTAL           
+ 181  181 4 EMPLOYEES.                                                        
+ 182  182 1 CR-90-4-5132                 HR3931    MAY 31, 1944               
+ 182  182 2 S782060       Y=21 N=45                OVERTON, LA.               
+ 182  182 3 TO CONSIDER H.R. 3931, A BILL AUTHORIZING THE CONSTRUCTION,       
+ 182  182 4 REPAIR, AND PRESERVATION OF CERTAIN PUBLIC WORKS ON RIVERS        
+ 182  182 5 AND HARBORS, AND FOR OTHER PURPOSES.                              
+ 183  183 1 CR-90-4-5300                 S1764     JUNE 5, 1944               
+ 183  183 2 S782061       Y=50 N=22                                           
+ 183  183 3 TO AMEND S. 1764, EXTENSION OF EMERGENCY PRICE CONTROL AND        
+ 183  183 4 STABILIZATION ACTS, BY ADDING THE FOLLOWING PROVISO:  "AFTER      
+ 183  183 5 JUNE 30, 1945, NEITHER THE PRICE ADMINISTRATOR NOR THE RFC        
+ 183  183 6 NOR ANY OTHER GOVERNMENT CORPORATION SHALL MAKE ANY SUBSIDY       
+ 183  183 7 PAYMENTS, OR BUY ANY COMMODITIES FOR THE PURPOSE OF DIRECTLY      
+ 183  183 8 OR INDIRECTLY THE SALE OF COMMODITIES, UNLESS THE MONEY           
+ 183  183 9 REQUIRED FOR SUCH SUBSIDIES, OR SALE AT A LOSS, HAS BEEN          
+ 183  18310 APPROPRIATED BY CONGRESS FOR SUCH PURPOSE."                       
+ 184  184 1 CR-90-4-5369                 S1764     JUNE 6, 1944               
+ 184  184 2 S782062       Y=30 N=40                DANAHER, CT.               
+ 184  184 3 TO AMEND COMMITTEE AMENDMENT S. 1764, EXTENSION OF EMERGENCY      
+ 184  184 4 PRICE CONTROL AND STABILIZATION ACTS, BY INCREASING THE           
+ 184  184 5 PERIOD IN WHICH A PERSON COULD FILE A PROTEST AGAINST THE         
+ 184  184 6 ORDERS AND REGULATIONS TO 60 DAYS.                                
+ 185  185 1 CR-90-4-5375                 S1764     JUNE 6, 1944               
+ 185  185 2 S782063       Y=48 N=26                WHERRY, NEB.               
+ 185  185 3 TO AMEND S. 1764, BY EXTENDING TO CIVIL SUITS AND INJUNCTION      
+ 185  185 4 PROCEEDINGS THE DEFENSES AND PROTECTIONS WHICH SECTION 107        
+ 185  185 5 OF THE ACT PROVIDES IN CRIMINAL PROCEEDINGS.                      
+ 186  186 1 CR-90-4-5451                 S1764     JUNE 7, 1944               
+ 186  186 2 78S2064       Y=47 N=27                CHANDLER, KY.              
+ 186  186 3 TO AMEND S. 1764, BY ADDING THE FOLLOWING:  "IT SHALL BE AN       
+ 186  186 4 ADEQUATE DEFENSE TO ANY SUIT OR ACTION BROUGHT UNDER              
+ 186  186 5 SUBSECTIONS (B), (E), OR (F) (2) OF THIS SECTION IF THE           
+ 186  186 6 DEFENDANT PROVES THAT THE VIOLATION OF THE REGULATION,            
+ 186  186 7 ORDER OR PRICE SCHEDULE PRESCRIBING A MAXIMUM PRICE OR            
+ 186  186 8 MAXIMUM PRICES WAS NEITHER WILLFUL NOR THE RESULT OF              
+ 186  186 9 FAILURE TO TAKE PRACTICABLE PRECAUTIONS AGAINST THE               
+ 186  18610 CONCURRENCE OF THE VIOLATION.  (I) NOTHING IN THIS SECTION        
+ 186  18611 SHALL BE CONSTRUED TO DEPRIVE THE COURTS OF THE POWER TO          
+ 186  18612 ASSESS AGAINST THE DEFENDANT THE AMOUNT OF THE OVERCHARGE."       
+ 187  187 1 CR-90-4-5618                 S1764     JUNE 9, 1944               
+ 187  187 2 S782065       Y=24 N=51                MALONEY, CT.               
+ 187  187 3 TO AMEND S. 1764, BY STRENGTHENING THE POWERS OF THE WAR          
+ 187  187 4 PRODUCTION BOARD, ESPECIALLY IN RELATION TO COTTON GOODS.         
+ 188  188 1 CR-90-4-5619                 S1764     JUNE 9, 1944               
+ 188  188 2 S782066       Y=39 N=35                                           
+ 188  188 3 TO AMEND S. 1764 BY LIMITING POWERS OF THE WAR PRODUCTION         
+ 188  188 4 BOARD TO CONTROL PRICES.  THIS AMENDMENT ESPECIALLY               
+ 188  188 5 RELATED TO COTTON GOODS.                                          
+ 189  189 1 CR-90-4-5637                 S1764     JUNE 9, 1944               
+ 189  189 2 S782067       Y=25 N=42                THOMAS, OKLA.              
+ 189  189 3 TO AMEND S. 1764 BY PROVIDING A FORMULA FOR INCREASING THE        
+ 189  189 4 PARITY PRICE OF OIL.                                              
+ 190  190 1 CR-90-4-5764                 HR4204    JUNE 12, 1944              
+ 190  190 2 S782068       Y=63 N=0                                            
+ 190  190 3 A BILL MAKING APPROPRIATIONS FOR THE STATE, TO MOVE THAT          
+ 190  190 4 SENATE INSIST ON AMENDMENT TO H.R. 4204.  THE                     
+ 190  190 5 AMENDMENT RELATES TO THE TAKING OF AN AGRICULTURAL CENSUS         
+ 190  190 6 EVERY FIVE YEARS.                                                 
+ 191  191 1 CR-90-5-5962                 HR4879    JUNE 15, 1944              
+ 191  191 2 S782069       Y=45 N=19                WILEY, WISC.               
+ 191  191 3 TO AMEND H.R. 4879 A BILL MAKING APPROPRIATIONS FOR               
+ 191  191 4 DEPARTMENT OF LABOR, FEDERAL SECURITY AGENCY, AND                 
+ 191  191 5 RELATED INDEPENDENT AGENCIES, BY INCREASING THE                   
+ 191  191 6 APPROPRIATION FOR STATE UNEMPLOYMENT AGENCIES FROM                
+ 191  191 7 $25,000,000 TO $31,000,000.                                       
+ 192  192 1 CR-90-5-6264                 HR4879    JUNE 20, 1944              
+ 192  192 2 S782070       Y=21 N=39                RUSSELL, GA.               
+ 192  192 3 TO AMEND, H.R. 4879, A BILL MAKING APPROPRIATIONS FOR WAR         
+ 192  192 4 AGENCIES, BY STRIKING FROM THE BILL THE PARAGRAPH                 
+ 192  192 5 RELATING TO THE COMMITTEE ON FAIR EMPLOYMENT PRACTICE.            
+ 193  193 1 CR-90-5-6268                 HR4879    JUNE 20, 1944              
+ 193  193 2 S782071       Y=27 N=25                RUSSELL, GA.               
+ 193  193 3 TO AMEND H.R. 4879, BY ADDING THE FOLLOWING PROVISO:  "PRO-       
+ 193  193 4 VIDED, THAT NO PART OF THE FUNDS HEREIN APPROPRIATED SHALL        
+ 193  193 5 BE USED TO PAY THE COMPENSATION OF ANY PERSON TO INITIATE,        
+ 193  193 6 INVESTIGATE, OR PROSECUTE ANY COMPLAINT AGAINST ANY               
+ 193  193 7 DEFENDANT WHERE SUCH DEFENDANT DOES NOT HAVE THE SAME RIGHT       
+ 193  193 8 TO APPEAL AN ADVERSE DECISION OF THE COMMITTEE ON FAIR            
+ 193  193 9 EMPLOYMENT PRACTICE TO THE PRESIDENT OF THE UNITED STATES,        
+ 193  19310 OR TO REFER SAID COMPLAINT TO THE PRESIDENT OF THE                
+ 193  19311 UNITED STATES FOR FINAL DISPOSITION, AS IS ASSERTED               
+ 193  19312 BY OR ALLOWED THE SAID COMMITTEE ON FAIR EMPLOYMENT               
+ 193  19313 PRACTICE IN CASES WHERE PERSONS COMPLAINED AGAINST REFUSE         
+ 193  19314 TO ABIDE BY ITS ORDERS."                                          
+ 194  194 1 CR-90-5-6271                 HR4879    JUNE 20, 1944              
+ 194  194 2 S782072       Y=22 N=31                RUSSELL, GA.               
+ 194  194 3 TO AMEND H.R. 4879 BY ADDING THE FOLLOWING PROVISO:               
+ 194  194 4 "PROVIDED FURTHER, THAT NO PART OF THE FUNDS HEREIN               
+ 194  194 5 APPROPRIATED SHALL BE USED TO PAY THE COMPENSATION OF ANY         
+ 194  194 6 PERSON EMPLOYED BY SAID COMMITTEE ON FIAR EMPLOYMENT              
+ 194  194 7 PRACTICE WHO ISSUES OR ATTEMPTS TO ENFORCE ANY RULE,              
+ 194  194 8 REGULATION, OR ORDER WHICH REPEALS, AMENDS, OR MODIFIES ANY       
+ 194  194 9 LAW ENACTED BY CONGRESS."                                         
+ 195  195 1 CR-90-5-6272                 HR4879    JUNE 20, 1944              
+ 195  195 2 S782073       Y=15 N=37                RUSSELL, GA.               
+ 195  195 3 TO AMEND H.R. 4879, BY ADDING THE FOLLOWING PROVIS0:              
+ 195  195 4 "PROVIDED THAT NOT MORE THAN 25 PER CENT OF THE PART OF           
+ 195  195 5 THIS APPROPRIATION WHICH IS USED FOR THE PAYMENT OF COMPEN-       
+ 195  195 6 SATION FOR PERSONAL SERVICES SHALL BE USED FOR THE                
+ 195  195 7 PAYMENT OF COMPENSATION OF PERSONS WHO ARE MEMBERS OF             
+ 195  195 8 ANY RACE COMPRISING LESS THAN 15 PER CENT OF THE TOTAL            
+ 195  195 9 POPULATION OF THE U.S., ACCORDING TO THE 1940 CENSUS."            
+ 196  196 1 CR-90-5-6272                 HR4879    JUNE 20, 1944              
+ 196  196 2 S782074       Y=17 N=34                MAYBANK, S.C.              
+ 196  196 3 TO AMEND H.R. 4879, BY ADDING THE FOLLOWING PROVISO:              
+ 196  196 4 "PROVIDED THAT THE COMMITTEE ON FAIR EMPLOYMENT PRACTICE          
+ 196  196 5 SHALL MAKE A STUDY OF WAGES PAYABLE IN PLANTS OWNED OR            
+ 196  196 6 OPERATED BY ANY AGENCY OR DEPARTMENT OF THE GOVERNMENT, AND       
+ 196  196 7 IN THE EVENT IT FINDS THERE IS ANY DISCRIMINATION IN WAGES        
+ 196  196 8 PAID IN SUCH PLANTS AS BETWEEN DIFFERENT SECTIONS OR              
+ 196  196 9 AREAS OF THE COUNTRY, THE COMMITTEE SHALL SO ADVISE               
+ 196  19610 THE DEPARTMENTS OR AGENCIES CONCERNED AND IT SHALL THEREUPON      
+ 196  19611 BE THE DUTY OF SUCH DEPARTMENTS OR AGENCIES TO REMOVE SUCH        
+ 196  19612 DISCRIMINATION AGAINST ANY SECTION OR AREA."                      
+ 197  197 1 CR-90-5-6901                 S2051     AUG. 11, 1944              
+ 197  197 2 S782075       Y=14 N=61                MALONEY, CT.               
+ 197  197 3 TO RECOMMIT S. 2051, EXTENSION OF UMEMPLOYMENT COMPENSATION.      
+ 198  198 1 CR-90-5-6904                 S2051     AUG. 11, 1944              
+ 198  198 2 S782076       Y=49 N=25                GEORGE, GA.                
+ 198  198 3 TO AMEND S2051, EXTENSION OF UNEMPLOYMENT COMPENSATION, BY        
+ 198  198 4 PROVIDING THAT NOTHING IN THE SECTION SHALL TO ANY                
+ 198  198 5 EXTENT AFFECT, AMEND, OR MODIFY THE POWERS NOW VESTED             
+ 198  198 6 IN THE VETERANS' ADMINISTRATION OR THE ADMINISTRATOR OF           
+ 198  198 7 VETERANS' AFFAIRS.                                                
+ 199  199 1 CR-90-5-6917                 S2051     AUG. 11, 1944              
+ 199  199 2 S782077       Y=55 N=19                                           
+ 199  199 3 TO PASS S. 2051, A BILL PROVIDING FOR EXTENSION OF                
+ 199  199 4 UNEMPLOYMENT COMPENSATION.                                        
+ 200  200 1 CR-90-6-7307                 S2065     AUG. 25, 1944              
+ 200  200 2 S782078       Y=18 N=31                MCKELLAR, TENN.            
+ 200  200 3 TO AMEND S. 2065, DISPOSAL OF SURPLUS GOVERNMENT                  
+ 200  200 4 PROPERTY, BY PROVIDING FOR A LIMITATION OF PROFITS ON             
+ 200  200 5 THE RESALE OF SURPLUS GOODS THAT ARE OBTAINED FROM THE            
+ 200  200 6 GOVERNMENT.                                                       
+ 201  201 1 CR-90-6-7684                 S2105     SEPT. 12, 1944             
+ 201  201 2 S782079       Y=35 N=18                HAYDEN, ARIZ.              
+ 201  201 3 TO CONSIDER S. 2105, A BILL TO PROVIDE FEDERAL AID FOR            
+ 201  201 4 POST-WAR HIGHWAY CONSTRUCTION.                                    
+ 202  202 1 CR-90-6-7803                 S2105     SEPT. 15, 1944             
+ 202  202 2 S782080       Y=30 N=28                                           
+ 202  202 3 TO AMEND S. 2105, BY STRIKING A PROVISION STIPULATING THAT        
+ 202  202 4 THE COMMISSIONER OF PUBLIC ROADS "IS HEREBY DIRECTED TO           
+ 202  202 5 CONCUR ONLY IN SUCH INSTALLATIONS AS WILL PROMOTE THE SAFE        
+ 202  202 6 AND EFFICIENT UTILIZATION OF THE HIGHWAYS."  THIS MATTER          
+ 202  202 7 RELATES TO THE PROVISION FOR A 50-50 MATCHING OF FUNDS            
+ 202  202 8 BETWEEN THE FEDERAL AND STATE GOVERNMENTS.                        
+ 203  203 1 CR-90-6-7806                 S2105     SEPT. 15, 1944             
+ 203  203 2 S782081       Y=8 N=47                 VANDENBERG, MICH.          
+ 203  203 3 TO AMEND S. 2105, WHICH ELIMINATES THE COST OF RIGHTS-OF-WAY      
+ 203  203 4 FROM THE URBAN PROGRAM WHICH IS CONTEMPLATED UNDER THE            
+ 203  203 5 PENDING BILL.                                                     
+ 204  204 1 CR-90-6-8369                 HR4485    NOV. 24, 1944              
+ 204  204 2 S782082       Y=27 N=42                                           
+ 204  204 3 TO AMEND H.R. 4485, BY PLACING SEVERAL RESTRICTIONS               
+ 204  204 4 ON THE SALE AND DISTRIBUTION OF PUBLICLY GENERATED                
+ 204  204 5 ELECTRICITY.                                                      
+ 205  205 1 CR-90-6-8478                           NOV. 28, 1944              
+ 205  205 2 S782083       Y=39 N=20                                           
+ 205  205 3 CONFIRMATION OF NOMINATING OF GUY MASON AS COMMISSIONER           
+ 205  205 4 OF THE D. OF C.                                                   
+ 206  206 1 CR-90-7-8614                           NOV. 30, 1944              
+ 206  206 2 S782084       Y=68 N=1                                            
+ 206  206 3 CONFIRMATION OF NOMINATION OF EDWARD R. STETINIUS, JR. AS         
+ 206  206 4 SECRETARY OF STATE.                                               
+ 207  207 1 CR-90-7-8741                 HR3961    DEC. 4, 1944               
+ 207  207 2 S782085       Y=31 N=37                                           
+ 207  207 3 TO AMEND H.R. 3961, RIVER AND HARBOR IMPROVEMENTS, BY             
+ 207  207 4 AUTHORIZING THE "WATERWAY CONNECTING THE TOMBIGBEE                
+ 207  207 5 AND TENNESSEE RIVERS; IN ACCORDANCE WITH THE                      
+ 207  207 6 RECOMMENDATION OF THE BOARD OF ENGINEERS FOR RIVERS               
+ 207  207 7 AND HARBORS IN THE REPORT SUBMITTED IN HOUSE DOCUMENT             
+ 207  207 8 NO. 269,  SEVENTY-SIXTH CONGRESS."                                
+ 208  208 1 CR-90-7-8874                 HR3961    DEC. 6, 1944               
+ 208  208 2 S782086       Y=16 N=52                                           
+ 208  208 3 TO AMEND H.R. 3961, RIVER AND HARBOR IMPROVEMENTS,                
+ 208  208 4 BY AUTHORIZING THE WATERWAY CONNECTING THE BEAVER AND             
+ 208  208 5 MAHONING RIVERS, PA. OHIO; FROM THE OHIO RIVER TO                 
+ 208  208 6 STRUTHERS IN ACCORDANCE WITH THE RECOMMENDATIONS OF               
+ 208  208 7 THE CHIEF OF ENGINEERS FOR THIS SECTION OF WATERWAYS,             
+ 208  208 8 IN THE REPORT SUBMITTED IN HOUSE DOCUMENT NO. 178,                
+ 208  208 9 SEVENTY-SIXTH CONGRESS; PROVIDED, THAT COMPLIANCE WITH THE        
+ 208  20810 CONDITIONS OF LOCAL COOPERATION SHALL BE LIMITED TO THOSE         
+ 208  20811 FEATURES THAT ARE USABLE IN THIS SECTION OF THE                   
+ 208  20812 WATERWAY."                                                        
+ 209  209 1 CR-90-7-8908                           DEC. 6, 1944               
+ 209  209 2 S782087       Y=37 N=27                O'MAHONEY, WYO.            
+ 209  209 3 CONSIDERATION OF NOMINATIONS OF JOSEPH C. CREW,                   
+ 209  209 4 W.L. CLAYTON, NELSON A. ROCKEFELLER, AND ARCHIBALD MACLEISH       
+ 209  209 5 TO THE COMMITTEE ON FOREIGN RELATIONS FOR FURTHER CONSIDERA-      
+ 209  209 6 TION AND FOR THE PRESENTATION OF TESTIMONY BY THESE               
+ 209  209 7 FOUR PERSONS.                                                     
+ 210  210 1 CR-90-7-9054                 HR5564    DEC. 8, 1944               
+ 210  210 2 S782088       Y=47 N=19                                           
+ 210  210 3 TO PASS H.R. 5564, FREEZING OF PAY-ROLL TAXES AT 1                
+ 210  210 4 PER CENT, A BILL TO FIX THE RATE OF TAX UNDER THE                 
+ 210  210 5 FEDERAL INSURANCE CONTRIBUTIONS ACT ON EMPLOYER AND               
+ 210  210 6 EMPLOYEES FOR THE CALENDAR YEAR 1945.                             
+ 211  211 1 CR-90-7-9243                 HR3961    DEC. 12, 1944              
+ 211  211 2 S782089       Y=25 N=56                AIKEN, VT.                 
+ 211  211 3 TO AMEND H.R. 3961, RIVER AND HARBOR IMPROVEMENTS, BY             
+ 211  211 4 AUTHORIZING UNITED STATES PARTICIPATION IN THE                    
+ 211  211 5 ST. LAWRENCE SEAWAY PROJECT.                                      
+ 212  212 1 CR-90-7-9421                 HR4911    DEC. 14, 1944              
+ 212  212 2 S782090       Y=25 N=45                MAYBANK, S.C.              
+ 212  212 3 TO AMEND H.R. 4911, CROP INSURANCE, BY ADDING THE FOLLOWING       
+ 212  212 4 PROVISO:  "THE FIRST SENTENCE OF THE TWELFTH PARAGRAPH            
+ 212  212 5 OF SECTION 19 OF THE FEDERAL RESERVE ACT, AS AMENDED              
+ 212  212 6 (RELATING TO THE PAYMENT OF INTEREST BY MEMBERS BANKS ON          
+ 212  212 7 DEMAND DEPOSITS), IS AMENDED BY INSERTING BEFORE THE PERIOD       
+ 212  212 8 AT THE END THEREOF A COLON AND THE FOLLOWING:  "PROVIDED          
+ 212  212 9 FURTHER, THAT THIS PARAGRAPH SHALL NOT BE DEEMED TO               
+ 212  21210 PROHIBIT THE ABSORPTION OF EXCHANGE OR COLLECTION                 
+ 212  21211 CHARGES BY MEMBER BANKS."  THIS AMENDMENT WAS DESIGNED TO         
+ 212  21212 UNDERMINE A RULING BY THE BOARD OF GOVERNORS OF                   
+ 212  21213 THE FEDERAL RESERVE SYSTEM WHICH OUTLAWED THE ABSORPTION          
+ 212  21214 OF EXCHANGE UNDER THE GUISE OF AN INTEREST RATE REGULATION.       
+ 212  21215 IT WAS DESIGNED TO AID SMALL BANKS PARTICULARILY IN RURAL         
+ 212  21216 AREAS.                                                            
+ 213  213 1 CR-90-7-9596                           DEC. 16, 1944              
+ 213  213 2 S782091       Y=41 N=28                                           
+ 213  213 3 CONSIDERATION OF NOMINATION OF ROBERT A. HURLEY, OF CONN.,        
+ 213  213 4 TO BE A MEMBER OF THE SURPLUS PROPERTY BOARD.                     
+ 214  214 1 CR-90-7-9596                           DEC. 16, 1944              
+ 214  214 2 S782092       Y=43 N=26                                           
+ 214  214 3 CONSIDERATION OF NOMINATION OF EDWARD HELLER, OF                  
+ 214  214 4 CALIFORNIA, TO BE A MEMBER OF THE SURPLUS PROPERTY BOARD.         
+ 215  215 1 CR-90-7-9716                           DEC. 19, 1944              
+ 215  215 2 S782093       Y=66 N=7                 CONNALLY, TEX.             
+ 215  215 3 CONSIDERATION OF NOMINATION OF JOSEPH C. CREW TO BE UNDER         
+ 215  215 4 SECRETARY OF STATE.                                               
+ 216  216 1 CR-90-7-9717                           DEC. 19, 1944              
+ 216  216 2 S782094       Y=62 N=10                CONNALLY, TEX.             
+ 216  216 3 CONSIDERATION OF NOMINATION OF NELSON A. ROCKEFELLER,             
+ 216  216 4 OF NEW YORK, TO BE ASSISTANT SECRETARY OF STATE.                  
+ 217  217 1 CR-90-7-9737                           DEC. 19, 1944              
+ 217  217 2 S782095       Y=52 N=19                                           
+ 217  217 3 CONSIDERATION OF NOMINATION OF W.L. CLAYTON TO BE ASSISTANT       
+ 217  217 4 SECRETARY OF STATE.                                               
+ 218  218 1 CR-90-7-9742                           DEC. 19, 1944              
+ 218  218 2 S782096       Y=62 N=10                CONNALLY, TEX.             
+ 218  218 3 CONSIDERATION OF NOMINATION OF JAMES C. DUNN TO BE ASSISTANT      
+ 218  218 4 SECRETARY OF STATE.                                               
+ 219  219 1 CR-90-7-9743                           DEC. 19, 1944              
+ 219  219 2 S782097       Y=61 N=9                 CONNALLY, TEX.             
+ 219  219 3 CONSIDERATION OF NOMINATION OF BRIG. GEN. JULIUS C. HOLMES,       
+ 219  219 4 OF KANSAS, TO BE ASSISTANT SECRETARY OF STATE.                    
+ 220  220 1 CR-90-7-9743                           DEC. 19, 1944              
+ 220  220 2 S782098       Y=43 N=25                CONNALLY, TEX.             
+ 220  220 3 CONSIDERATION OF NOMINATION OF ARCHIBALD MACLEISH TO BE           
+ 220  220 4 ASSISTANT SECRETARY OF STATE.                                     

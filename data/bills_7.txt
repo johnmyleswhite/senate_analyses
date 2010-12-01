@@ -1,0 +1,507 @@
+   1   23 1 EX J 1-392                             MAR. 4, 1801               
+   1   23 2 S070001       Y=13 N=10                                           
+   1   23 3 TO ADMIT MR. TRACY OF CONN. TO TAKE THE OATH REQUIRED BY THE      
+   1   23 4 CONSTITUTION.                                                     
+   2    1 1 EX J 1-398A                  SRE       DEC. 19, 1801              
+   2    1 2 E071002       Y=22 N=4                                            
+   2    1 3 TO AGREE TO THE FIRST PART OF THE REPORT AS AMENDED,              
+   2    1 4 CONCERNING THE CONVENTION BETWEEN THE U.S. AND THE FRENCH         
+   2    1 5 REPUBLIC.                                                         
+   3    2 1 EX J 1-398B                  SRE       DEC. 19, 1801              
+   3    2 2 E071003       Y=14 N=12                                           
+   3    2 3 TO AGREE TO THE SECOND PART OF A REPORT, AS AMENDED,              
+   3    2 4 CONCERNING THE CONVENTION BETWEEN THE U.S. AND THE FRENCH         
+   3    2 5 REPUBLIC.                                                         
+   4   24 1 A-11- -22A    J 7-1-165A               JAN. 5, 1802               
+   4   24 2 S071001       Y=17 N=9                                            
+   4   24 3 TO RECONSIDER THE RESOLUTION THAT ANY STENOGRAPHER DESIROUS       
+   4   24 4 TO TAKE THE DEBATES OF THE SENATE ON LEGISLATIVE BUSINESS,        
+   4   24 5 MAY BE ADMITTED FOR THAT PURPOSE AT SUCH PLACE, WITHIN THE        
+   4   24 6 AREA OF THE SENATE CHAMBER AS THE PRESIDENT MAY ALLOT.            
+   5   25 1 A-11- -22B    J 7-1-165B     SRE       JAN. 5, 1802               
+   5   25 2 S071002       Y=10 N=18                                           
+   5   25 3 TO AMEND THE RESOLUTION ADMITTING STENOGRAPHERS IN THE            
+   5   25 4 SENATE BY PROVIDING THAT THEY GIVE A BOND FOR THEIR GOOD          
+   5   25 5 CONDUCT.                                                          
+   6   26 1 A-11- -22C    J 7-1-166      SRE       JAN. 5, 1802               
+   6   26 2 S071003       Y=16 N=12                                           
+   6   26 3 TO ADOPT THE RESOLUTION AS AMENDED, ADMITTING STENOGRAPHERS       
+   6   26 4 INTO THE SENATE.                                                  
+   7   27 1 A-11- -46     J 7-1-166      HR        JAN. 11, 1802              
+   7   27 2 S071004       Y=23 N=5                 LOGAN, PA.                 
+   7   27 3 TO PASS THE H.R. BILL (APP. 1-14-1802, 2 STAT. 128), FIXING       
+   7   27 4 THE RATIO OF REPRESENTATION IN THE HOUSE AT ONE MEMBER FOR        
+   7   27 5 EVERY 33,000 PERSONS IN EACH STATE.                               
+   8   28 1 A-11- -145    J 7-1-170      SRE       JAN. 19, 1802              
+   8   28 2 S071005A      Y=13 N=15                DAYTON, N.J.               
+   8   28 3 TO AMEND THE RESOLUTION REGARDING REPEAL OF AN ACT OF             
+   8   28 4 CONGRESS OF 2-13-01, ENTITLED:  "AN ACT TO PROVIDE FOR THE        
+   8   28 5 MORE CONVENIENT ORGANIZATION OF THE COURT OF THE                  
+   8   28 6 UNITED STATES", SAID AMENDMENT TO STRIKE OUT THE WORD             
+   8   28 7 "REPEALED", AND TO INSERT THE WORDS "REVISED AND AMENDED."        
+   9   29 1 A-11- -55     J 7-1-170      SRE       JAN. 19, 1802              
+   9   29 2 S071005B      Y=15 N=13                                           
+   9   29 3 TO ADOPT THE RESOLUTION THAT THE ACT OF CONGRESS                  
+   9   29 4 (APP. 2-13-01), ENTITLED "AN ACT TO PROVIDE FOR THE MORE          
+   9   29 5 CONVENIENT ORGANIZATION OF THE COURTS OF THE UNITED STATES,"      
+   9   29 6 OUGHT TO BE REPEALED.                                             
+  10   30 1 A-11- -146A   J 7-1-171A     S         JAN. 22, 1802              
+  10   30 2 S071006       Y=4 N=21                 ANDERSON, TENN.            
+  10   30 3 TO EXPUNGE FROM THE BILL (APP. 2-3-02, 6 STAT. L. 45),            
+  10   30 4 AUTHORIZING THE DISCHARGE OF LAWRENCE ERB FROM HIS                
+  10   30 5 CONFINEMENT  THE LAST PROVISO, THAT THE SAID JUDGEMENT SHALL      
+  10   30 6 REMAIN IN FORCE AGAINST ANY ESTATE, REAL OR PERSONAL, WHICH       
+  10   30 7 THE SAID ERB MAY HEREAFTER ACQUIRE, AND THAT PROCESS MAY AT       
+  10   30 8 ANY TIME BE ISSUED AGAINST THE SAME.                              
+  11   31 1 A-11- -146B   J 7-1-171B     S         JAN. 22, 1802              
+  11   31 2 S071007       Y=19 N=4                 ANDERSON, TENN.            
+  11   31 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL,               
+  11   31 4 (APP. 2-5-02, 6 STAT. L. 45), AUTHORIZING THE DISCHARGE OF        
+  11   31 5 LAWRENCE ERB FROM HIS CONFINEMENT.                                
+  12    3 1 EX J 1-405                   SRE       JAN. 26, 1802              
+  12    3 2 E071004       Y=16 N=14                                           
+  12    3 3 TO CONSENT TO THE NOMINATION OF JAMES LYNN OF N.J. AS             
+  12    3 4 SUPERVISOR FOR THE DISTRICT OF N.J.                               
+  13   32 1 A-11- -147A   J 7-1-172A     S         JAN. 26, 1802              
+  13   32 2 S071008       Y=14 N=16                DAYTON, N.J.               
+  13   32 3 TO REFER TO A SELECT COMMITTEE THE BILL (APP. 3-8-02,             
+  13   32 4 2 STAT. L. 132), REPEALING CERTAIN ACTS RESPECTING THE            
+  13   32 5 ORGANIZATION OF U.S. COURTS; WITH INSTRUCTIONS TO CONSIDER        
+  13   32 6 AND REPORT THE ALTERATIONS WHICH MAY BE PROPER IN THE             
+  13   32 7 JUDICIARY SYSTEM AND THE PROVISION TO BE MADE RESPECTING THE      
+  13   32 8 JUDGES OF THE CIRCUIT COURTS, ESTABLISHED BY THE ACT OF           
+  13   32 9 2-13-01, IN CASE THE SAID ACT SHALL BE REPEALED.                  
+  14   33 1 A-11- -147B   J 7-1-172B     S         JAN. 26, 1802              
+  14   33 2 S071009       Y=15 N=15                ANDERSON, TENN.            
+  14   33 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE FEDERAL             
+  14   33 4 JUDICIARY SYSTEM BILL.                                            
+  15   34 1 A-11-1-150    J 7-1-173      S         JAN. 27, 1802              
+  15   34 2 S071010       Y=15 N=15                DAYTON, N.J.               
+  15   34 3 TO REFER TO A SELECT COMMITTEE THE "FEDERAL JUDICIARY             
+  15   34 4 SYSTEM" WITH INSTRUCTIONS THAT SAID COMMITTEE CONSIDER            
+  15   34 5 AND REPORT THE ALTERATIONS WHICH MAY BE PROPER IN THE             
+  15   34 6 JUDICIARY SYSTEM.                                                 
+  16   35 1 A-11-1-160A   J 7-1-177A     S         FEB. 2, 1802               
+  16   35 2 S071011       Y=16 N=14                BRECKENRIDGE, KY.          
+  16   35 3 TO DISCHARGE THE SELECT COMMITTEE FROM CONSIDERATION OF THE       
+  16   35 4 FEDERAL JUDICIARY SYSTEM BILL.                                    
+  17   36 1 A-11-1-183    J 7-1-177C     S         FEB. 3, 1802               
+  17   36 2 S071012       Y=16 N=15                ANDERSON, TENN.            
+  17   36 3 TO PASS THE FEDERAL JUDICIARY SYSTEM BILL.                        
+  18   37 1 A-11-1-185    J 7-1-179      S         FEB. 8, 1802               
+  18   37 2 S071013       Y=14 N=14                TRACY, CONN.               
+  18   37 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL,               
+  18   37 4 (APP. 4-14-02, 2 STAT. L. 152), AUTHORIZING THE SETTLEMENT        
+  18   37 5 OF THE ACCOUNT OF SAMUEL DEXTER, FOR HIS EXPENSES IN              
+  18   37 6 DEFENDING AGAINST THE SUIT OF JOSEPH HODGSON.                     
+  19   38 1 A-11-1-187    J 7-1-181      HR        FEB. 12, 1802              
+  19   38 2 S071014       Y=16 N=8                 BRADLEY, VT.               
+  19   38 3 TO PASS H.R. BILL (APP. 3-6-02, 6 STAT. L. 45), PROVIDING         
+  19   38 4 FOR THE RELIEF OF LYON LEHMAN.                                    
+  20   39 1 A-11-1-160B   J 7-1-179B     S         FEB. 3, 1802               
+  20   39 2 S071015       Y=14 N=16                ROSS, PA.                  
+  20   39 3 TO AMEND THE FIRST SECTION OF THE FEDERAL JUDICIARY SYSTEM        
+  20   39 4 BILL, BY ADDING "EXCEPTING SO MUCH THEREOF AS RELATES TO THE      
+  20   39 5 COURTS THEREBY ESTABLISHED IN THE THIRD DISTRICT."                
+  21   40 1 A-11-1-195A   J 7-1-188A     HR        MAR. 4, 1802               
+  21   40 2 S071016       Y=2 N=21                 TRACY, CONN.               
+  21   40 3 TO ORDER A THIRD READING OF THE BILL TO ALLOW A DRAWBACK OF       
+  21   40 4 DUTIES ON GOODS EXPORTED TO NEW ORLEANS, AND TO AMEND THE         
+  21   40 5 ACT TO REGULATE THE COLLECTION OF DUTIES ON IMPORTS AND           
+  21   40 6 TONNAGE.                                                          
+  22   41 1 A-11-1-195B   J 7-1-188B     HR        MAR. 4, 1802               
+  22   41 2 S071017       Y=15 N=10                JACKSON, GA.               
+  22   41 3 TO PASS, AS AMENDED, THE BILL (APP. 3-16-02, 2 STAT. L. 132)      
+  22   41 4 FIXING THE MILITARY PEACE ESTABLISHMENT OF THE U.S.               
+  23   42 1 A-11-1-201A   J 7-1-198      SRE       MAR. 18, 1802              
+  23   42 2 S071018       Y=22 N=0                                            
+  23   42 3 TO APPOINT A COMMITTEE TO INQUIRE WHETHER ANY, AND WHAT           
+  23   42 4 AMENDMENTS ARE NECESSARY TO BE MADE IN THE ACT                    
+  23   42 5 (APP. 4-30-02, 2 STAT. L. 150), ESTABLISHING THE JUDICIAL         
+  23   42 6 COURTS OF THE U.S. AND TO REPORT BY BILL OR OTHERWISE.            
+  24   43 1 A-11-1-201B   J 7-1-194      HR        MAR. 19, 1802              
+  24   43 2 S071019       Y=12 N=8                 ANDERSON, TENN.            
+  24   43 3 TO AMEND THE BILL (APP. 3-30-02, 2 STAT. L. 139), TO              
+  24   43 4 REGULATE TRADE AND INTERCOURSE WITH THE INDIAN TRIBES AND TO      
+  24   43 5 PRESERVE PEACE ON THE FRONTIERS, BY INSERTING IN THE 16TH         
+  24   43 6 SECTION THE WORDS:  "UNLESS UPON SPECIAL CAUSE TO BE              
+  24   43 7 CERTIFIED BY THE COMMANDING OFFICERS."                            
+  25   44 1 A-11-1-205    J 7-1-197      HR        MAR. 27, 1802              
+  25   44 2 S071020       Y=8 N=17                 BALDWIN, GA.               
+  25   44 3 TO ADOPT THE COMMITTEE'S REPORT CONCERNING THE BILL,              
+  25   44 4 (APP. 4-6-02, 2 STAT. L. 148), REPEALING THE INTERNAL TAXES,      
+  25   44 5 SAID REPORT TO ELIMINATE THE EIGHTH SECTION PROVIDING REBATE      
+  25   44 6 ON TAXES PAID ON BLANKS, VELLUM, PARCHMENT OR PAPER,              
+  25   44 7 DEDUCTING THE TAX OF 17 1/2 % NOW DUE PROVIDED SUCH CLAIM IS      
+  25   44 8 PRESENTED BEFORE OCT. 31, 1802.                                   
+  26   45 1 A-11-1-207    J 7-1-198B     HR        MAR. 29, 1802              
+  26   45 2 S071021       Y=24 N=2                 TRACY, CONN.               
+  26   45 3 TO PASS THE HOUSE BILL, FOR THE BETTER SECURITY OF                
+  26   45 4 PUBLIC MONEYS AND PROPERTY IN THE HANDS OF PUBLIC OFFICERS        
+  26   45 5 AND AGENTS.                                                       
+  27   46 1 A-11-1-206    J 7-1-198A     HR        MAR. 27, 1802              
+  27   46 2 S071022       Y=21 N=2                 BALDWIN, GA.               
+  27   46 3 TO AMEND THE BILL RELATING TO "INTERNAL TAXES", BY MAKING         
+  27   46 4 THE DEDUCTION ON THE REFUND OF STAMPS SUBJECT TO A DEDUCTION      
+  27   46 5 OF ONLY 7 1/2% INSTEAD OF 17 1/2% AS PROVIDED.                    
+  28   47 1 A-11-1-250    J 7-1-200      HR        MAR. 31, 1802              
+  28   47 2 S071023       Y=15 N=11                BALDWIN, GA.               
+  28   47 3 TO PASS THE INTERNAL TAXES, BILL.                                 
+  29   48 1 A-11-1-252    J 7-1-202      HR        APR. 3, 1802               
+  29   48 2 S071024       Y=18 N=8                 CLINTON, N.Y.              
+  29   48 3 TO PASS THE H.R. BILL (APP. 4-14-02, 2 STAT. L. 155), TO          
+  29   48 4 REVISE AND AMEND THE NATURALIZATION LAW, AS AMENDED.              
+  30   49 1 A-11-1-255    J -1-206       HR        APR. 7, 1802               
+  30   49 2 S071025       Y=9 N=16                 FOSTER, R.I.               
+  30   49 3 TO AMEND THE HOUSE BILL (APP. 4-14-02, 2 STAT. L. 152),           
+  30   49 4 REVIVING AND CONTINUING IN FORCE AN ACT ENTITLED, "AN ACT TO      
+  30   49 5 AUGMENT THE SALARIES OF THE OFFICERS THEREIN MENTIONED"           
+  30   49 6 (APP. 3-2-1799), SAID AMENDMENT TO PROVIDE A NEW SCHEDULE OF      
+  30   49 7 SALARIES FOR HIGH RANKING APPOINTED GOVERNMENT OFFICERS.          
+  31   50 1 A-11-1-256A   J 7-1-206                APR. 8, 1802               
+  31   50 2 S071026       Y=22 N=2                                            
+  31   50 3 TO ADOPT A MOTION TO APPOINT A COMMITTEE TO EXAMINE AND           
+  31   50 4 REPORT WHAT REGULATIONS OUGHT TO BE ADOPTED RESPECTING THE        
+  31   50 5 LANDS CLAIMED BY THE UNITED STATES WITHIN THE STATE OF            
+  31   50 6 TENNESSEE.                                                        
+  32   51 1 A-11-1-256B   J 7-1-207      S         APR. 8, 1802               
+  32   51 2 S071027       Y=11 N=15                ANDERSON, TENN.            
+  32   51 3 TO AMEND THE S. BILL (APP. 4-29-02, 2 STAT, L. 156),              
+  32   51 4 PROVIDING FOR THE MORE CONVENIENT ORGANIZATION OF THE U.S.        
+  32   51 5 COURTS, SAID AMENDMENT TO ELIMINATE THE ELEVENTH SECTION          
+  32   51 6 PROPOSING THAT THERE BE APPOINTED BY THE PRESIDENT FROM TIME      
+  32   51 7 TO TIME, AS MANY GENERAL COMMISSIONERS OF BANKRUPTCY IN EACH      
+  32   51 8 DISTRICT OF THE UNITED STATES AS HE MAY DEEM NECESSARY.           
+  33   52 1 A-7-1-257A    J 7-1-207      S         APR. 8, 1802               
+  33   52 2 S071028       Y=16 N=10                ANDERSON, TENN.            
+  33   52 3 TO PASS THE BILL (APP. 4-29-05, 2 STAT. L. 156), PROVIDING        
+  33   52 4 FOR THE MORE CONVENIENT ORGANIZATION OF THE UNITED STATES         
+  33   52 5 COURTS.                                                           
+  34   53 1 A-11-1-257B   J 7-1-207      HR        APR. 8, 1802               
+  34   53 2 S071029       Y=23 N=2                 FOSTER, R.I.               
+  34   53 3 TO PASS THE HOUSE BILL (APP. 4-14-02, 2 STAT. 6. 152),            
+  34   53 4 REVIVING AND CONTINUING IN FORCE AN ACT TO AUGMENT THE            
+  34   53 5 SALARIES OF OFFICERS THEREIN MENTIONED.                           
+  35    4 1 EX J 1-420                   SRE       APR. 12, 1802              
+  35    4 2 E071005       Y=17 N=5                                            
+  35    4 3 TO CONSENT TO THE APPOINTMENT OF CONELIUS LYMAN AS A              
+  35    4 4 CAPTAIN OF INFANTRY.                                              
+  36   54 1 A-11-1-263A   J 7-1-212      SRE       APR. 15, 1802              
+  36   54 2 S071030       Y=5 N=20                                            
+  36   54 3 TO AMEND THE S. RESOLUTION REGARDING LANDS CLAIMED BY THE         
+  36   54 4 UNITED STATES WITHIN THE STATE OF TENNESSEE, SAID AMENDMENT       
+  36   54 5 TO ADD IN DESIGNATION OF THE LANDS CLAIMED BY THE U.S.            
+  36   54 6 WITHIN TENNESSEE, THOSE TO WHICH THE INDIAN CLAIMS ARE            
+  36   54 7 EXTINGISHED AND WHICH ARE NOT COVERED BY LEGAL TITLES UNDER       
+  36   54 8 THE STATE OF NORTH CAROLINA.                                      
+  37   55 1 A-11-1-263B   J 7-1-213      SRE       APR. 15, 1802              
+  37   55 2 S071031       Y=23 N=2                 BROWN, KY.                 
+  37   55 3 TO ADOPT THE RESOLUTION REQUESTING THE PRESIDENT TO DIRECT        
+  37   55 4 THE ATTORNEY GENERAL TO HAVE BEFORE CONGRESS AT THE NEXT          
+  37   55 5 SESSION, ALL DOCUMENTS RELATIVE TO LAND CLAIMS IN TENNESSEE       
+  37   55 6 UNDER A DEED OF CESSION IN DECEMBER 1789, AND THE PROBABLE        
+  37   55 7 QUANTITY OF LAND WHICH MAY BE AT THE DISPOSITION OF THE U.S.      
+  37   55 8 WITH EXISTING INDIAN TRIBE TREATIES.                              
+  38   56 1 A-11-1-267    J 7-1-216      HR        APR. 20, 1802              
+  38   56 2 S071032       Y=7 N=17                 JACKSON, GA.               
+  38   56 3 TO AMEND A HOUSE BILL (APP. 5-3-02, 2 STAT. L. 189), TO           
+  38   56 4 FURTHER ALTER AND ESTABLISH CERTAIN POST ROADS, SAID AMEND-       
+  38   56 5 MENT TO MAKE IT AN OFFENSE TO REFUSE THE RIGHT OF WAY WHEN        
+  38   56 6 POSSIBLE TO VEHICLES CARRYING MAIL, AND TO MAKE IT                
+  38   56 7 PUNISHABLE BY A FINE OF NOT MORE THAN $30. FOR EACH OFFENSE.      
+  39   57 1 A-11-1-271A   J 7-1-217A     HR        APR. 21, 1802              
+  39   57 2 S071033       Y=8 N=18                                            
+  39   57 3 TO AMEND THE HOUSE BILL (APP. 4-29-02, 2 STAT. L. 167), PRO-      
+  39   57 4 VIDING FOR THE REDEMPTION OF THE PUBLIC DEBT, BY ELIMINATING      
+  39   57 5 FROM SECTION ONE, "AND ALSO FUTURE LOANS WHICH MAY BE MADE        
+  39   57 6 REIMBURSING OR REDEEMING ANY INSTALLMENT OR PARTS OF THE          
+  39   57 7 PRINCIPAL OF THE SAID DEBTS."                                     
+  40   58 1 A-11-1-272    J 7-1-217B     HR        APR. 21, 1802              
+  40   58 2 S071034       Y=9 N=17                                            
+  40   58 3 TO AMEND THE REDEMPTION OF THE PUBLIC DEBT BILL, SAID AMEND-      
+  40   58 4 MENT TO STRIKE OUT THE FIFTH SECTION THE WORDS, "OR ANY           
+  40   58 5 INDIVIDUAL OR INDIVIDUALS."                                       
+  41   59 1 A-11-1-273    J 7-1-218      S         APR. 22, 1802              
+  41   59 2 S071035       Y=13 N=13                MASON, VA.                 
+  41   59 3 TO ORDER A THIRD READING OF THE BILL, TO ESTABLISH THE            
+  41   59 4 GOVERNMENT OF THE DISTRICT OF COLUMBIA.                           
+  42   60 1 A-11-1-281    J 7-1-220A     HR        APR. 24, 1802              
+  42   60 2 S071036       Y=10 N=16                MORRIS, N.Y.               
+  42   60 3 TO AMEND THE REDEMPTION OF THE PUBLIC DEBT BILL BY APPROP-        
+  42   60 4 RIATING TO THE SINKING FUND YEARLY, SO MUCH OF THE DUTIES         
+  42   60 5 ON MERCHANDISE AND TONNAGE, AS WILL AMOUNT, WITH THE MONEY        
+  42   60 6 ALREADY PROVIDED FOR THE SINKING FUND, TO $7,300,000.             
+  43   61 1 A-11-1-291    J 7-1-220B     HR        APR. 24, 1802              
+  43   61 2 S071037       Y=17 N=10                BALDWIN, GA.               
+  43   61 3 TO PASS THE REDEMPTION OF THE PUBLIC DEBT BILL.                   
+  44    5 1 EX J 1-421                   SRE       APR. 26, 1802              
+  44    5 2 E071006       Y=19 N=2                                            
+  44    5 3 TO AGREE TO THE RATIFICATION OF THE CONVENTION BETWEEN THE        
+  44    5 4 U.S. AND GREAT BRITAIN.                                           
+  45   62 1 A-11-1-292A   J 7-1-222A     HR        APR. 26, 1802              
+  45   62 2 S071038       Y=16 N=8                                            
+  45   62 3 TO AMEND THE HOUSE BILL (APP. 4-29-02, 2 STAT. L. 170), FOR       
+  45   62 4 THE RELIEF OF WIDOWS AND ORPHANS OF CERTAIN PERSONS DECEASED      
+  45   62 5 OR WHO MAY HEREAFTER DIE IN THE NAVAL SERVICE, SAID               
+  45   62 6 AMENDMENT TO STRIKE OUT THE SECOND SECTION WHICH PROVIDES         
+  45   62 7 FOR HALF PAY TO SURVIVORS OF ANY WARRANT OR COMMISSIONED          
+  45   62 8 OFFICER OF THE NAVY OR MARINES KILLED OR DROWNED WHILE IN         
+  45   62 9 SERVICE.                                                          
+  46   63 1 A-11-1-292B   J 7-1-222B     HR        APR. 26, 1802              
+  46   63 2 S071039       Y=14 N=10                MASON, MASS.               
+  46   63 3 TO PASS THE HOUSE BILL (APP. 4-29-02, 2 STAT. L. 471), FOR        
+  46   63 4 THE RELIEF OF THEODOSUIS FOWLER.                                  
+  47   64 1 A-11-1-294A   J 7-1-223      HR        APR. 27, 1802              
+  47   64 2 S071040       Y=12 N=14                FRANKLIN, N.C.             
+  47   64 3 TO AMEND THE HOUSE BILL (APP. 4-30-02, 2 STAT. L. 173),           
+  47   64 4 ENABLING THE PEOPLE OF THE EASTERN DIVISION OF THE TERRITORY      
+  47   64 5 NORTHWEST OF THE OHIO RIVER, TO FORM A CONSTITUTION AND           
+  47   64 6 STATE GOVERNMENT; SAID AMENDMENT TO STRIKE OUT CERTAIN PARTS      
+  47   64 7 OF THE SIXTH SECTION PROVIDING THAT THE CONVENTION OF SAID        
+  47   64 8 STATE SHALL ASSENT THAT ALL LAND SOLD BY CONGRESS FROM AND        
+  47   64 9 AFTER JUNE 30, NEXT, REMAIN TAX FREE OF ANY TAXES, FOR A          
+  47   6410 TERM OF 5 YEARS FROM THE DATE OF SALE.                            
+  48   65 1 A-11-1-294B   J 7-1-224A     HR        APR. 27, 1802              
+  48   65 2 S071041       Y=12 N=14                FRANKLIN, N.C.             
+  48   65 3 TO AMEND THE NORTHWEST TERRITORY BILL, BY ELIMINATING FROM        
+  48   65 4 SECTION SIX, THAT 1/20 OF THE NET PROCEEDS OF LANDS LYING         
+  48   65 5 WITHIN SAID STATES, SOLD BY CONGRESS FROM JUNE 13, NEXT, ON,      
+  48   65 6 SHALL BE APPLIED FOR CONSTRUCTING PUBLIC ROADS.                   
+  49   66 1 A-11-1-295    J 7-1-224B     HR        APR. 27, 1802              
+  49   66 2 S071042       Y=8 N=18                 FRANKLIN, N.C.             
+  49   66 3 TO AMEND THE NORTHWEST TERRITORY BILL, BY ELIMINATING FROM        
+  49   66 4 SECTION SIX THE PROVISION THAT SIX MILES RESERVATION              
+  49   66 5 INCLUDING THE SCIOTO SALT SPRINGS, AND IN THE MILITARY TRACT      
+  49   66 6 WITH SECTIONS OF LAND INCLUSIVE, SHALL BE GRANTED TO SAID         
+  49   66 7 STATE FOR PUBLIC USE, UNDER TERMS, CONDITIONS AND REGULATION      
+  49   66 8 OF STATE LEGISLATURE, PROVIDING IT SHALL NEVER BE SOLD OR         
+  49   66 9 LEASED FOR A TERM OF MORE THAN TEN YEARS.                         
+  50   67 1 A-11-1-296A   J 7-1-225      HR        APR. 28, 1802              
+  50   67 2 S071043       Y=6 N=14                                            
+  50   67 3 TO AMEND THE NORTHWEST TERRITORY BILL BY PREVENTING THE           
+  50   67 4 PROPOSED NEW STATE WHEN FORMED, FROM EVER DERIVING REVENUE        
+  50   67 5 FROM LEASING CERTAIN TRACKS OF LAND CONTAINING SALT SPRINGS,      
+  50   67 6 THUS KEEPING SAID SALT SPRINGS FOR THE FREE USE OF THE            
+  50   67 7 PEOPLE.                                                           
+  51   68 1 A-11-1-296B   J 7-1-226A     HR        APR. 28, 1802              
+  51   68 2 S071044       Y=8 N=14                                            
+  51   68 3 TO AMEND THE NORTHWEST TERRITORY BILL BY STRIKING OUT FROM        
+  51   68 4 THE 6TH SECTION THE WORD, "SOLD", AND INSERTING "GRANTED",        
+  51   68 5 SO THAT EVERY TRACT OF LAND GRANTED BY CONGRESS, FROM AND         
+  51   68 6 AFTER JUNE 30TH, NEXT, SHALL BE AND REMAIN TAX EXEMPT FOR         
+  51   68 7 FIVE YEARS.                                                       
+  52   69 1 A-11-1-296C   J 7-1-226B     HR        APR. 28, 1802              
+  52   69 2 S071045       Y=16 N=6                 FRANKLIN, N.C.             
+  52   69 3 TO PASS THE NORTHWESTERN TERRITORY  BILL AS AMENDED.              
+  53    6 1 EX J 1-423                   SRE       APR. 29, 1802              
+  53    6 2 E071007       Y=15 N=6                                            
+  53    6 3 TO AMEND THE TREATY BETWEEN THE U.S. AND THE CHICKASAW            
+  53    6 4 INDIANS MADE AT CHICKASAW BLUFFS ON 10-24-01, BY ELIMINATING      
+  53    6 5 THEREFROM THE WORDS - "TO ASSIST THE CHICKASAWS TO PRESERVE       
+  53    6 6 ENTIRE, ALL THEIR RIGHTS AGAINST THE ENCROACHMENTS OF             
+  53    6 7 UNJUST NEIGHBORS, OF WHICH HE SHALL BE THE JUDGE".                
+  54    7 1 EX J 1-424A                  SRE       APR. 29, 1802              
+  54    7 2 E071008       Y=20 N=0                                            
+  54    7 3 TO ADOPT THE RESOLUTION THAT THE SENATE ADVISE AND CONSENT        
+  54    7 4 THAT THE PRESIDENT DO RATIFY THE TREATY OF RECIPROCAL             
+  54    7 5 ADVANTAGE AND MUTUAL CONVENIENCE BETWEEN THE U.S. AND THE         
+  54    7 6 CHICKASAW NATION OF INDIANS.                                      
+  55    8 1 EX J 1-424B                  SRE       APR. 29, 1802              
+  55    8 2 E071009       Y=21 N=0                                            
+  55    8 3 TO ADOPT THE RESOLUTION THAT THE SENATE ADVISE AND CONSENT        
+  55    8 4 TO HAVE THE PRESIDENT RATIFY THE TREATY OF FRIENDSHIP,            
+  55    8 5 LIMITS AND ACCOMODATIONS, BETWEEN THE UNITED STATES AND THE       
+  55    8 6 CHOCTAW NATION OF INDIANS.                                        
+  56   70 1 A-11-1-297    J 7-1-226C     HR        APR. 29, 1802              
+  56   70 2 S071046       Y=15 N=6                 ELLERY, R.I.               
+  56   70 3 TO AMEND THE HOUSE BILL (APP. 5-1-02, 2 STAT. L. 178),            
+  56   70 4 MAKING APPROPRIATIONS FOR THE SUPPORT OF THE U.S. NAVY FOR        
+  56   70 5 1802, SAID AMENDMENT TO ADD A NEW SECTION AUTHORIZING THE         
+  56   70 6 PRESIDENT TO DISMISS AS MANY OF THE OFFICERS OF THE MARINE        
+  56   70 7 CORPS AS WILL REDUCE THEIR NUMBER AND GRADES IN LEGAL PRO-        
+  56   70 8 PORTION TO THE NUMBER OF MARINES RETAINED IN SERVICE.             
+  57   71 1 A-11-1-301    J 7-1-228      HR        APR. 30, 1802              
+  57   71 2 S071047       Y=12 N=11                ELLERY, R.I.               
+  57   71 3 TO PASS HOUSE BILL (APP. 5-1-02, 2 STAT. L. 178), MAKING          
+  57   71 4 APPROPRIATIONS FOR THE SUPPORT OF THE NAVY FOR 1802.              
+  58   72 1 A-11-1-302    J 7-1-232      SRE       MAY 1, 1802                
+  58   72 2 S071048       Y=11 N=12                OGDEN, N.J.                
+  58   72 3 TO ADOPT THE RESOLUTION TO APPOINT A COMMITTEE TO BRING IN A      
+  58   72 4 BILL REPEALING SO MUCH OF ANY EXISTING LAW AUTHORIZING A          
+  58   72 5 CERTAIN PROVISIONARY AGREEMENT, MADY BY COMMISSIONERS OF THE      
+  58   72 6 UNITED STATES AND THE STATE OF GEORGIA AND DATED                  
+  58   72 7 APR. 24, 1802, AND WHICH MAY BE BINDING AND CONCLUSIVE ON         
+  58   72 8 THE UNITED STATES.                                                
+  59   73 1 A-11-1-303A   J 7-1-232      HR        MAY 3, 1802                
+  59   73 2 S071049       Y=15 N=5                 MASON, VA.                 
+  59   73 3 TO PASS THE HOUSE BILL (APP. 5-3-02, 2 STAT. L. 195), TO          
+  59   73 4 INCORPORATE THE INHABITANTS OF THE CITY OF WASHINGTON IN          
+  59   73 5 THE DISTRICT OF COLUMBIA.                                         
+  60   74 1 A-11-1-303B   J 7-1-232      HR        MAY 3, 1802                
+  60   74 2 S071050       Y=15 N=5                 BALDWIN, GA.               
+  60   74 3 TO PASS THE HOUSE BILL (APP. 5-3-02, 2 STAT. L. 192), FOR         
+  60   74 4 THE RELIEF OF SICK AND DISABLED SEAMEN.                           
+  61   75 1 A-11-1-304    J 7-1-234      HRE       MAY 3, 1802                
+  61   75 2 S071051       Y=15 N=8                 BRADLEY, VT.               
+  61   75 3 TO CONCUR IN THE HOUSE RESOLUTION PROPOSING TWO AMENDMENTS        
+  61   75 4 TO THE CONSTITUTION RELATING TO THE ELECTION OF PRESIDENT         
+  61   75 5 AND VICE PRESIDENT, BY AEVING THE VOTERS DESIGNATE THE            
+  61   75 6 PERSONS VOTED FOR AS PRESIDENT AND AS VICE PRESIDENT.             
+  62    9 1 EX J 1-428A                  SRE       DEC. 31, 1802              
+  62    9 2 E072001       Y=20 N=0                                            
+  62    9 3 TO CONSENT TO THE RATIFICATION OF TREATY MADE AT                  
+  62    9 4 ALBANY, N.Y., AUG. 20, 1802, BETWEEN THE STATE OF N.Y., AND       
+  62    9 5 THE SENECA TRIBE OF INDIANS.                                      
+  63   10 1 EX J 1-428B                  SRE       DEC. 31, 1802              
+  63   10 2 E072002       Y=20 N=0                                            
+  63   10 3 TO CONSENT TO THE RATIFICATION OF THE TREATY, MADE UNDER THE      
+  63   10 4 AUTHORITY OF THE U.S., BETWEEN THE STATE OF N.Y., AND THE         
+  63   10 5 ONEIDA NATION OF INDIANS ON 6-4-02.                               
+  64   11 1 EX J 1-429                   SRE       JAN. 4, 1803               
+  64   11 2 E072003       Y=19 N=0                                            
+  64   11 3 TO CONSENT TO THE RATIFICATION OF THE TREATY OF LIMITS            
+  64   11 4 BETWEEN THE U.S. AND THE CREEK NATION OF INDIANS, MADE ON         
+  64   11 5 6-16-02.                                                          
+  65   76 1 A-12- -21A    J 7-2-251      S         JAN. 7, 1803               
+  65   76 2 S072001       Y=9 N=17                                            
+  65   76 3 TO POSTPONE TO THE FIRST MONDAY IN DEC. CONSIDERATION OF THE      
+  65   76 4 BILL TO CARRY INTO EFFECT VARIOUS CONGRESSIONAL RESOLUTIONS       
+  65   76 5 FOR THE ERECTION OF MONUMENTS TO THE MEMORY OF                    
+  65   76 6 GENERALS WOOSTER, HERKIMER, DAVIDSON, AND SCRIVIN.                
+  66   77 1 A-12- -21B    J 7-2-251      S         JAN. 7, 1803               
+  66   77 2 S072002       Y=18 N=8                 TRACY, CONN.               
+  66   77 3 TO PASS THE BILL TO CARRY INTO EFFECT THE VARIOUS   **************
+  66   77 4 CONGRESSIONAL RESOLUTIONS TO ERECT MONUMENTS TO THE MEMORY        
+  66   77 5 OF GENERALS WOOSTER, HERKIMER, DAVIDSON, AND SCRIVIN.             
+  67   12 1 EX J 1-431                   SRE       JAN. 10, 1803              
+  67   12 2 E072004       Y=21 N=1                                            
+  67   12 3 TO CONSENT TO THE RATIFICATION OF THE TREATY MADE UNDER THE       
+  67   12 4 AUTHORITY OF THE U.S., BETWEEN THE SENECA NATION OF INDIANS       
+  67   12 5 AND WILHEM WILLINK AND OTHERS, OF THE REPUBLIC OF BATAWIA;        
+  67   12 6 DATED JUNE 30, 1802.                                              
+  68   13 1 EX J 1-435                   SRE       JAN. 12, 1803              
+  68   13 2 E072005       Y=25 N=0                                            
+  68   13 3 TO CONSENT TO THE RATIFICATION OF THE CONVENTION BETWEEN THE      
+  68   13 4 U.S. AND THE CHOCTAW NATION OF INDIANS, MADE ON                   
+  68   13 5 OCT. 17, 1802.                                                    
+  69   14 1 EX J 1-436                   SRE       JAN. 12, 1803              
+  69   14 2 E072006       Y=15 N=12                                           
+  69   14 3 TO CONSENT TO THE APPOINTMENT OF JAMES MONROE TO BE MINISTER      
+  69   14 4 EXTRAORDINARY AND PLENIPOTENTIARY, TO ENTER INTO TREATY ON        
+  69   14 5 CONVENTION WITH THE FIRST CONSUL OF FRANCE, FOR ENLARGING         
+  69   14 6 AND MORE EFFECTUALLY SECURING OUR RIGHTS AND INTERESTS IN         
+  69   14 7 THE MISSISSIPPI RIVER.                                            
+  70   15 1 EX J 1-437                   SRE       JAN. 18, 1803              
+  70   15 2 E072007       Y=18 N=1                                            
+  70   15 3 TO CONSENT TO THE RATIFICATION OF THE CONVENTION BETWEEN THE      
+  70   15 4 UNITED STATES AND SPAIN.                                          
+  71   16 1 EX J 1-442                   SRE       JAN. 4, 1803               
+  71   16 2 E072008       Y=23 N=0                                            
+  71   16 3 TO CONSENT TO THE RATIFICATION OF THE TREATY BETWEEN THE          
+  71   16 4 SENECA INDIANS AND OLIVER PHELPS AND OTHERS, MADE ON              
+  71   16 5 6-30-02.                                                          
+  72   17 1 EX J 1-444A                  S         JAN. 21, 1803              
+  72   17 2 E072009       Y=11 N=15                                           
+  72   17 3 TO AMEND THE BILL MAKING FURTHER PROVISIONS FOR THE               
+  72   17 4 EXPENSES ATTENDING THE INTERCOURSE BETWEEN THE UNITED STATES      
+  72   17 5 AND FOREIGN NATIONS, SAID AMENDMENT TO ELIMINATE THE WORDS:       
+  72   17 6 "OF DEFRAYING ANY EXTRAORDINARY EXPENSES WHICH MAY BE             
+  72   17 7 INCURRED IN THE INTERCOURSE BETWEEN THE U.S. AND FOREIGN          
+  72   17 8 NATIONS," AND INSERT THE WORDS:  "OF MAKING SUCH PAYMENT FOR      
+  72   17 9 THE CESSION OF THE ISLAND OF NEW ORLEANS, OR OTHER                
+  72   1710 TERRITORIES, TO THE UNITED STATES, AS MAY BE STIPULATED BY        
+  72   1711 THE PRESIDENT BY TREATY WITH FOREIGN NATIONS CLAIMING THE         
+  72   1712 JURISDICTION AND SOVEREIGNTY THEREOF."                            
+  73   18 1 EX J 1-444B                  S         JAN. 21, 1803              
+  73   18 2 E072010       Y=14 N=11                                           
+  73   18 3 TO ORDER A THIRD READING OF THE BILL PROVIDING FOR EXPENSES       
+  73   18 4 ATTENDING THE INTERCOURSE BETWEEN THE UNITED STATES AND           
+  73   18 5 FOREIGN NATIONS.                                                  
+  74   19 1 EX J 1-444C                  S         JAN. 22, 1803              
+  74   19 2 E072011       Y=14 N=12                                           
+  74   19 3 TO PASS THE BILL PROVIDING FOR EXPENSES ATTENDING THE             
+  74   19 4 INTERCOURSE BETWEEN THE U.S. AND FOREIGN NATIONS.                 
+  75   78 1 A-12- -50     J 7-2-258      SRE       JAN. 31, 1803              
+  75   78 2 S072003       Y=13 N=15                HOWARD, MD.                
+  75   78 3 TO ADOPT THE RESOLUTION DIRECTING THE SECRETARY OF THE            
+  75   78 4 SENATE TO GIVE TO WILLIAM MARBURY, ROBERT T. HOOE, AND            
+  75   78 5 DEVIS RAMSAY AN ATTESTED COPY OF THE PROCEEDINGS OF               
+  75   78 6 MAR. 2 AND 3, 1801, RELATIVE TO THEIR APPOINTMENT AS              
+  75   78 7 JUSTICES OF THE PEACE IN WASHINGTON AND ALEXANDRIA IN THE         
+  75   78 8 DISTRICT OF COLUMBIA.                                             
+  76   79 1 A-12- -78     J 7-2-260      SRE       FEB. 3, 1803               
+  76   79 2 S072004       Y=13 N=15                MORRIS, N.Y.               
+  76   79 3 TO ADOPT THE RESOLUTION REQUESTING THE PRESIDENT TO CAUSE A       
+  76   79 4 "QUO WARRANTO" PROCEEDING TO BE FILED BY THE                      
+  76   79 5 ATTORNEY GENERAL AGAINST RICHARD BASSET FOR THE PURPOSE OF        
+  76   79 6 TESTING THE VALIDITY OF THE ACT OF MAR. 8, 1802, REPEALING        
+  76   79 7 THE ACT OF FEB. 13, 1801, ESTABLISHING CERTAIN INFERIOR           
+  76   79 8 COURTS.                                                           
+  77   80 1 A-12- -255A   J 7-2-273      SRE       FEB. 25, 1803              
+  77   80 2 S072008       Y=15 N=11                BRECKENRIDGE, KY.          
+  77   80 3 TO AMEND THE RESOLUTION ASSERTING THE RIGHT OF THE U.S. TO        
+  77   80 4 FREE NAVIGATION OF THE MISSISSIPPI RIVER, AND TO A PLACE OF       
+  77   80 5 DEPOSIT FOR THEIR PRODUCTS IN THE ISLAND OF NEW ORLEANS,          
+  77   80 6 THAT THE LATE INFRACTION OF THAT RIGHT (BY SPAIN) IS A            
+  77   80 7 HOSTILE AGGRESSION, AND AUTHORIZING THE PRESIDENT TO SEIZE        
+  77   80 8 SUCH PLACES AS HE MAY DEEM CONVENIENT AND TO SUSTAIN THEIR        
+  77   80 9 RIGHTS BY THE MILITIA, FOR WHICH AN APPROPRIATION IS MADE;        
+  77   8010 SAID AMENDMENT TO STRIKE OUT THE FIRST SECTION ASSERTING          
+  77   8011 THEIR RIGHTS AND CHARACTERIZING THE INFRACTION AS A HOSTILE       
+  77   8012 AGGRESSION.                                                       
+  78   81 1 A-12- -255B   J 7-2-274A     SRE       FEB. 25, 1803              
+  78   81 2 S072009       Y=15 N=11                BRECKENRIDGE, KY.          
+  78   81 3 TO AMEND THE MISSISSIPPI RIVER RESOLUTION, ELIMINATING THE        
+  78   81 4 SECOND SECTION AUTHORIZING THE PRESIDENT TO USE THE ARMED         
+  78   81 5 FORCES OF THE U.S. TO TAKE POSSESSION OF THE ISLAND OF            
+  78   81 6 NEW ORLEANS.                                                      
+  79   82 1 A-12- -255B   J 7-2-274B     SRE       FEB. 25, 1803              
+  79   82 2 S072010       Y=25 N=0                 BRECKENRIDGE, KY.          
+  79   82 3 TO AMEND THE MISSISSIPPI RIVER RESOLUTION BY AUTHORIZING THE      
+  79   82 4 PRESIDENT TO REQUIRE THE EXECUTIVES OF THE SEVERAL STATES TO      
+  79   82 5 ARM AND EQUIP 80,000 MILITIA, PROVIDING FOR ONE OR MORE           
+  79   82 6 ARSENALS ON THE WESTERN WATERS AND MAKING AN APPROPRIATION        
+  79   82 7 THEREFOR.                                                         
+  80   83 1 A-12- -262    J 7-2-278      HR        FEB. 28, 1803              
+  80   83 2 S072011       Y=10 N=12                NICHOLAS, VA.              
+  80   83 3 TO PASS THE AMENDED BILL TO INCORPORATE AN INSURANCE              
+  80   83 4 COMPANY IN THE CITY OF WASHINGTON.                                
+  81   20 1 EX J 1-445                   SRE       MAR. 1, 1803               
+  81   20 2 E072012       Y=21 N=0                                            
+  81   20 3 TO CONSENT TO THE RATIFICATION OF THE TREATY BETWEEN THE          
+  81   20 4 UNITED STATES AND THE TUSCARORA NATION OF INDIANS, MADE ON        
+  81   20 5 DEC. 4, 1802.                                                     
+  82   84 1 A-12- -266A   J 7-2-282      S         MAR. 2, 1803               
+  82   84 2 S072012       Y=14 N=10                                           
+  82   84 3 TO POSTPONE TO MARCH 4, NEXT,  CONSIDERATION OF THE BILL TO       
+  82   84 4 REDUCE THE MARINE CORPS.                                          
+  83   85 1 A-12- -266B   J 7-2-283A     S         MAR. 2, 1803               
+  83   85 2 S072013       Y=8 N=13                                            
+  83   85 3 TO POSTPONE CONSIDERATION OF THE BILL (APP. 3-3-03, 2 STAT.       
+  83   85 4 L. 215), TO PROVIDE MORE EFFECTUALLY FOR THE ORGANIZATION         
+  83   85 5 OF THE MILITIA OF THE DISTRICT OF COLUMBIA.                       
+  84   86 1 A-12- -266C   J 7-2-283B     S         MAR. 2, 1803               
+  84   86 2 S072014       Y=16 N=7                                            
+  84   86 3 TO PASS THE BILL (APP. 3-3-03, 2 STAT. L. 215), TO PROVIDE        
+  84   86 4 MORE EFFECTUALLY FOR THE ORGANIZATION OF THE MILITIA OF THE       
+  84   86 5 DISTRICT OF COLUMBIA.                                             
+  85   21 1 EX J 1-447                   SRE       MAR. 3, 1803               
+  85   21 2 E072013       Y=13 N=9                                            
+  85   21 3 TO CONSENT TO THE RATIFICATION OF THE CONVENTION BETWEEN THE      
+  85   21 4 U.S. AND SPAIN CONCLUDED AT MADRID ON AUG. 11, 1802.              
+  86   22 1 EX J 1-448                   SRE       MAR. 3, 1803               
+  86   22 2 E072014       Y=14 N=8                                            
+  86   22 3 TO POSTPONE CONSIDERATION OF THE CONVENTION BETWEEN THE           
+  86   22 4 UNITED STATES AND SPAIN CONCLUDED AT MADRID ON                    
+  86   22 5 AUG. 11, 1802.                                                    
+  87   87 1 A-12- -268    J 7-2-284      S         MAR. 3, 1803               
+  87   87 2 S072015       Y=12 N=6                 WRIGHT, MD.                
+  87   87 3 TO PASS THE BILL (APP. 3-3-03, 6 STAT. L. 50), FOR                
+  87   87 4 JOSHIA HARVEY AND OTHERS, ASKING RELIEF FROM BONDS AS             
+  87   87 5 PRINCIPLE AND SECURITIES FOR THE PAYMENT OF DUTIES, HAVING        
+  87   87 6 BEEN DISCHARGED FROM BANKRUPTCY.                                  
+  88   88 1 A-12- -269    J 7-2-286      SRE       MAR. 3, 1803               
+  88   88 2 S072016       Y=15 N=7                                            
+  88   88 3 TO POSTPONE TO MARCH 4, NEXT, CONSIDERATION OF THE                
+  88   88 4 RESOLUTION FOR THE ELECTION OF THE SECRETARY OF THE SENATE        
+  88   88 5 AND OTHER OFFICERS.                                               

@@ -1,0 +1,982 @@
+   1    1 1               EX J 3-351A    SRE       DEC. 22, 1823              
+   1    1 2 E181001       Y=0 N=36                 BENTON, MO.                
+   1    1 3 TO ADVISE AND CONSENT TO THE TENTH ARTICLE OF THE TREATY          
+   1    1 4 MADE AND CONCLUDED BETWEEN THE U.S. AND THE SEMINOLE              
+   1    1 5 INDIANS 9-18-23, AT MOULTRIE CREEK.                               
+   2    2 1               EX J 3-351B    SRE       DEC. 22, 1823              
+   2    2 2 E181002       Y=0 N=35                 BENTON, MO.                
+   2    2 3 TO AMEND THE RESOLUTION REGARDING THE TREATY WITH THE             
+   2    2 4 SEMINOLE INDIANS IN FLORIDA, WHEREBY A CESSION OF TERRITORY       
+   2    2 5 IS MADE TO THE U.S., BY ELIMINATING THE TENTH ARTICLE OF THE      
+   2    2 6 TREATY.                                                           
+   3    3 1               EX J 3-152A    SRE       DEC. 23, 1823              
+   3    3 2 E181003       Y=0 N=31                 BENTON, MO.                
+   3    3 3 TO DECIDE TO ELIMINATE THE WORDS "SEMINOLE TRIBE" FROM THE        
+   3    3 4 RESOLUTION.                                                       
+   4    4 1               EX J 3-352B    SRE       DEC. 23, 1823              
+   4    4 2 E181004       Y=32 N=0                 BENTON, MO.                
+   4    4 3 TO AMEND THE RESOLUTION BY SUBSTITUTING THE WORDS                 
+   4    4 4 "FLORIDA TRIBES", INSTEAD OF "SEMINOLE TRIBES."                   
+   5    5 1               EX J 3-352C    SRE       DEC. 23, 1823              
+   5    5 2 E181005       Y=34 N=0                 BENTON, MO.                
+   5    5 3 TO ADOPT THE RESOLUTION.                                          
+   6   30 1 A-41- -76     J 18-1-65      S         DEC. 30, 1823              
+   6   30 2 S181001       Y=12 N=26                MACON, N.C.                
+   6   30 3 TO AMEND S. 2, (APP. 1-7-24), A BILL REVIVING AND CONTINUING      
+   6   30 4 IN FORCE CERTAIN ACTS RELATIVE TO DISCRIMINATING DUTIES ON        
+   6   30 5 IMPORTS AND TONNAGE, BY APPLYING THIS ACT TO NATIONS WHOSE        
+   6   30 6 INDEPENDENCE THE U.S. HAS RECOGNIZED.  (P. 76)                    
+   7   31 1               J 18-1-83      S         JAN9 7, 1824               
+   7   31 2 S181002       Y=2 N=37                 HAYNE, S.C.                
+   7   31 3 TO AMEND THE SENATE BILL, PROVIDING FOR CORRECTION OF             
+   7   31 4 CERTAIN ERRORS ALLEGED TO HAVE BEEN COMMITTED IN THE              
+   7   31 5 SETTLEMENT OF ACCOUNTS OF COL. JOHN LAURENS, BY INCREASING        
+   7   31 6 FROM $23,500 TO $26,700 THE COMPENSATION DUE.  (P. 47)            
+   8   32 1 A-41- -123    J 18-1-110     S         JAN. 16, 1824              
+   8   32 2 S181003       Y=11 N=32                JOHNSON, LA.               
+   8   32 3 TO AMEND THE REPORT OF COMMITTEE ON PUBLIC LANDS UNFAVORABLE      
+   8   32 4 TO THE PETITION OF COL. ALEXANDER A. WHITE WHO ASKED              
+   8   32 5 CONGRESS TO GRANT HIM A RIGHT OF PREEMPTION TO A CERTAIN          
+   8   32 6 TRACT OF PUBLIC LAND, BY GRANTING THE PETITION.  (P. 123)         
+   9   33 1 A-41- -137    J 18-1-127     HR        JAN. 23, 1824              
+   9   33 2 S181004       Y=29 N=8                 BROWN, OHIO                
+   9   33 3 TO PASS H.R. 29, A BILL AUTHORIZING A ROAD FROM MEMPHIS,          
+   9   33 4 TENNESSEE TO LITTLE ROCK, IN THE TERRITORY OF ARKANSAS.           
+   9   33 5 (P. 137-1)                                                        
+  10   34 1 A-41- -152    J 18-1-138     S         JAN. 28, 1824              
+  10   34 2 S181005       Y=21 N=14                BARTON, MO.                
+  10   34 3 TO PASS S. 18, A BILL FOR THE FINAL ADJUSTMENT OF LAND            
+  10   34 4 CLAIMS IN MISSOURI AND THE TERRITORY OF ARKANSAS DERIVED          
+  10   34 5 FROM THE GOVERNMENTS OF FRANCE AND SPAIN.  (P. 152)               
+  11   35 1 A-41- -160    J 18-1-143     SRE       JAN. 30, 1824              
+  11   35 2 S181006       Y=36 N=3                 BENTON, MO.                
+  11   35 3 TO ADOPT A RESOLUTION PROPOSING AN AMENDMENT TO THE U.S.          
+  11   35 4 CONSTITUTION, SO AS TO PROVIDE THAT "NO PERSON HAVING BEEN        
+  11   35 5 TWICE ELECTED TO THE OFFICE OF PRESIDENT SHALL AGAIN BE           
+  11   35 6 ELIGIBLE TO THAT OFFICE".  (P. 159)                               
+  12    6 1               EX J 3-361A    SRE       FEB. 9, 1824               
+  12    6 2 E181006       Y=30 N=7                 DICKERSON, N.J.            
+  12    6 3 TO ADVISE AND CONSENT TO THE APPOINTMENT OF JOHN WHITEHEAD        
+  12    6 4 AS COLLECTOR FOR KEY WEST, THOMPSON ISLAND.                       
+  13    7 1               EX J 3-361B    SRE       FEB. 9, 1824               
+  13    7 2 E181007       Y=22 N=20                DICKERSON, N.J.            
+  13    7 3 TO ADVISE AND CONSENT TO THE APPOINTMENT OF                       
+  13    7 4 ALEXANDER W. HAMILTON AS COLLECTOR OF THE PORT OF PENSACOLA.      
+  14   36 1 A-41- -232    J 18-1-160     S         FEB. 98 1824               
+  14   36 2 S181007       Y=24 N=13                BARBOUR, VA.               
+  14   36 3 TO AMEND S. 16, A BILL AUTHORIZING THE BUILDING OF AN             
+  14   36 4 ADDITIONAL NUMBER OF SLOOPS OF WAR FOR THE U.S. NAVAL             
+  14   36 5 SERVICE, BY SPLITING THE APPROPRIATION OVER A PERIOD OF FOUR      
+  14   36 6 YEARS, VIZ - $250,000 FOR THE PRESENT YEAR AND $200,000 A         
+  14   36 7 YEAR FOR THE THREE SUCCEEDING YEARS.                              
+  15   37 1 A-41- -294    J 18-1-184     HR        FEB. 20, 1824              
+  15   37 2 S181008       Y=28 N=8                 BROWN, OHIO                
+  15   37 3 TO ORDER A THIRD READING OF H.R.830, (4 STAT. 5, 2-28-24),        
+  15   37 4 A BILL AUTHORIZING THE LAYING OUT AND OPENING OF CERTAIN          
+  15   37 5 PUBLIC ROADS IN THE TERRITORY OF FLORIDA AND APPROPRIATING        
+  15   37 6 MONEYS THEREFORE.                                                 
+  16   38 1 A-41- -308    J 18-1-200     SRE       FEB. 26, 1824              
+  16   38 2 S181009       Y=20 N=22                MILLS, MASS.               
+  16   38 3 TO AMEND THE REPORT OF THE COMMITTEE ON THE JUDICIARY             
+  16   38 4 ADVERSE TO THE PETITION OF EBENEZER OLIVER AND OTHERS OF          
+  16   38 5 BOSTON, DIRECTORS OF THE NEW ENGLAND - MISSISSIPPI LAND           
+  16   38 6 COMPANY, BY ALTERING THE EFFECT OF THE REPORT SO THAT IT IS       
+  16   38 7 NOW FAVORABLE TO THE PETITIONERS.  (P. 308)                       
+  17   39 1 A-41- -316    J 18-1-209     HR        MAR. 3, 1824               
+  17   39 2 S181010       Y=16 N=26                MACON, N.C.                
+  17   39 3 TO AMEND H.R. 78, (4 STAT. 8, 3-8-24), A BILL MAKING              
+  17   39 4 MILITARY SERVICE APPROPRIATIONS FOR 1824, BY ELIMINATING          
+  17   39 5 APPROPRIATIONS FOR PURCHASE OF A FARM AND TAVERN IN VICINITY      
+  17   39 6 OF WEST POINT MILITARY ACADEMY.  (P. 316)                         
+  18   40 1 A-41- -326    J 18-1-219     SRE       MAR. 8, 1824               
+  18   40 2 S181011       Y=14 N=25                LLOYD, MD.                 
+  18   40 3 TO AMEND A REPORT UNFAVORABLE TO THE PETITION OF                  
+  18   40 4 SARAH EASTON AND DORTHY STORER, DAUGHTERS OF                      
+  18   40 5 COL. ROBERT H. HARRISON, AIDE-DE-CAMP TO GENERAL WASHINGTON       
+  18   40 6 FOR COMMUTATION OF HALF PAY AND BOUNTY LAND WHICH THEY STATE      
+  18   40 7 HAVE BEEN DUE THEIR LATE FATHER, BY ALLOWING THE CLAIM OF         
+  18   40 8 THE PETITIONERS.  (P. 326)                                        
+  19   41 1 A-41- -333A   J 18-1-223     S         MAR. 9, 1824               
+  19   41 2 S181012       Y=18 N=23                CHANDLER, ME.              
+  19   41 3 TO POSTPONE FOR A WEEK CONSIDERATION OF S. 31, (4 STAT. 22,       
+  19   41 4 4-29-24), A BILL FOR THE GRADUAL SUPPLY OF CANNON, BOMBS          
+  19   41 5 AND HOWITZ FOR FORTIFICATIONS.                                    
+  20   42 1 A-41          J 18-1-224A    S         MAR. 9, 1824               
+  20   42 2 S181013       Y=19 N=22                DICKERSON, N.J.            
+  20   42 3 TO RECONSIDER THE MOTION TO STRIKE OUT "EIGHT" AND INSERT         
+  20   42 4 "FOUR" IN LINE 6, FIRST SECTION OF S. 31.                         
+  21   43 1 A-41- -333C   J 18-1-224B    S         MAR. 9, 1824               
+  21   43 2 S181014       Y=31 N=10                JACKSON, TENN.             
+  21   43 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 31.  (P. 333)        
+  22   44 1 A-41- -336    J 18-1-227     S         MAR. 10, 1824              
+  22   44 2 S181015       Y=15 N=16                RUGGLES, OHIO              
+  22   44 3 TO ADOPT NEW SECTION PROPOSED BY COMMITTEE ON CLAIMS TO           
+  22   44 4 S. 24, (6 STAT. 298, 5-5-24), A BILL FOR RELIEF OF THE            
+  22   44 5 CLAIM OF AMASA STETSON, WHICH NEW SECTION INCREASES               
+  22   44 6 ALLOWANCES OF STETSON'S CLAIM TO ABOUT $8,000.  (P. 336)          
+  23   45 1 A-41- -338    J 18-1-230     S         MAR. 11, 1824              
+  23   45 2 S181016       Y=21 N=16                NOBLE, IND.                
+  23   45 3 TO ORDER ENGROSSMENT AND THIRD READING S. 46, (6 STAT. 315,       
+  23   45 4 5-21-24), A BILL INCREASING THE PENSION OF DEAN WEYMOUTH          
+  23   45 5 FROM $8 TO $15 MONTHLY FOR INJURIES SUFFERED IN ACTUAL            
+  23   45 6 SERVICE.  (P. 338)                                                
+  24   46 1 A-41- -417    J 18-1-244     SRE       MAR. 22, 1824              
+  24   46 2 S181017       Y=30 N=13                MILLS, MASS.               
+  24   46 3 TO INDEFINITELY POSTPONE THE CONSIDERATION OF THE RESOLUTION      
+  24   46 4 PROPOSING AMENDMENTS TO THE CONSTITUTION RELATIVE TO              
+  24   46 5 ELECTION OF PRESIDENT AND VICE PRESIDENT.  (P. 402)               
+  25   47 1 A-41- -426    J 18-1-252     HR        MAR. 25, 1824              
+  25   47 2 S181018       Y=25 N=13                KING, N.Y.                 
+  25   47 3 TO AMEND THE AMENDMENT TO H.R. 77, (4 STAT. 11, 4-2-24), A        
+  25   47 4 BILL MAKING APPROPRIATIONS FOR SUPPORT OF THE GOVERNMENT FOR      
+  25   47 5 1824; WHICH ORIGINAL AMENDMENT APPROPRIATES $2,500, PLUS          
+  25   47 6 BALANCE OF LAST YEAR'S APPROPRIATION, FOR PAYMENT OF              
+  25   47 7 SALARIES OF COMMISSIONER AND ARBITRATOR UNDER THE FIRST           
+  25   47 8 ARTICLE OF THE TREATY OF GHENT:  WHICH AMENDMENT TO THE           
+  25   47 9 AMENDMENT PROVIDES FOR A "PUBLIC AGENT" TO TAKE CARE OF           
+  25   4710 CLAIMS BEFORE THE COMMISSION.  (P. 423,424)                       
+  26   48 1 A-41- -483    J 18-1-274     S         APR. 5, 1824               
+  26   48 2 S181019       Y=28 N=11                TALBOT, KY.                
+  26   48 3 TO AMEND S. 9, (4 STAT. 19, 4-22-24), A BILL ABOLISHING           
+  26   48 4 IMPRISONMENT FOR DEBT, BY ADDING A PROVISO "THAT NO PERSON        
+  26   48 5 SHALL BE HELD TO BAIL ON MESNE PROCESS, EXCEPT IN THE STATE       
+  26   48 6 WHERE PARTIES RESIDE OR IN WHICH THE DEBT WAS CONTRACTED,         
+  26   48 7 UNLESS THE DEBTOR HAS ABSCONDED FROM THE STATE IN WHICH HE        
+  26   48 8 RESIDED".                                                         
+  27   49 1 A-41- -498    J 18-1-276     S         APR. 6, 1824               
+  27   49 2 S181020       Y=19 N=20                NOBLE, IND.                
+  27   49 3 TO POSTPONE INDIFINETILY CONSIDERATION OF S. 9.                   
+  28   50 1 A-41- -503A   J 18-1-279     S         APR. 8, 1824               
+  28   50 2 S181021       Y=23 N=18                THOMAS, ILL.               
+  28   50 3 TO RECONSIDER VOTE BY WHICH S. 9, WAS RECOMMITTED TO THE          
+  28   50 4 COMMITTEE ON THE JUDICIARY WITH INSTRUCTIONS.  (P. 503A)          
+  29   51 1 A-41- -503B   J 18-1-280     S         APR. 8, 1824               
+  29   51 2 S181022A      Y=18 N=21                HAYNE, S.C.                
+  29   51 3 TO POSTPONE INDEFINETELY CONSIDERATION OF S. 9.  (P. 503B)        
+  30   52 1 A-41- -504    J 18-1-282     S         APR. 9, 1824               
+  30   52 2 S181022B      Y=24 N=19                JOHNSON, KY.               
+  30   52 3 TO PASS S. 9.                                                     
+  31   53 1 A-41- -507    J 18-1-281     S         APR. 9, 1824               
+  31   53 2 S181023       Y=30 N=12                LOWRIE, PA.                
+  31   53 3 TO AMEND THE SENATE BILL DIRECTING THE PRESIDENT TO CARRY         
+  31   53 4 INTO THE EFFECT THE TREATY MADE AT GHENT, 12-24-14,               
+  31   53 5 EXCLUDING FOREIGNERS FROM TRADE AND INTERCOURSE WITH U.S.         
+  31   53 6 INDIANS AND PRESERVIVING THE FUR TRADE WITHIN THE U.S. TO         
+  31   53 7 ITS CITIZENS, BY ELIMINATING $13,000 APPROPRIATION FOR A          
+  31   53 8 MILITARY FORCE TO BE STATIONED ON THE UPPER MISSOURI RIVER.       
+  31   53 9 (P. 507)                                                          
+  32   54 1 A-41- -515    J 18-1-290     SRE       APR. 13, 1824              
+  32   54 2 S181024       Y=16 N=24                NOBLE, IND.                
+  32   54 3 TO TABLE THE RESOLUTION FIXING NEXT MAY 4TH AS THE DATE FOR       
+  32   54 4 ADJOURNMENT OF CONGRESS.  (P. 515)                                
+  33   55 1 A-41- -514    J 18-1-292     S         APR. 13, 1824              
+  33   55 2 S181025       Y=26 N=14                EATON, TENN.               
+  33   55 3 TO ORDER THIRD READING OF S. 80, (6 STAT. 314, 5-25-24), A        
+  33   55 4 BILL PAYING HEZIKIAH LANGLEY AND BENJAMIN M. BELL FOR             
+  33   55 5 CERTAIN FIXTURES IN THE CIRCUIT COURT ROOMS IN                    
+  33   55 6 WASHINGTON, D.C.  (P. 514)                                        
+  34   56 1 A-41          J 18-1-294     S         APR. 14, 1824              
+  34   56 2 S181026       Y=5 N=31                 BARBOUR, VA.               
+  34   56 3 TO AMEND S. 63, A BILL IN ADDITION TO THE ACT RELATIVE TO         
+  34   56 4 ELECTION OF A PRESIDENT AND VICE PRESIDENT, BY PROVIDING          
+  34   56 5 THAT A JURY, AND NOT THE COURT, SHALL DECIDE ON THE PUNISH-       
+  34   56 6 MENT FOR SUPPRESSING OR DELAYING THE COPIES SHOWING THE           
+  34   56 7 VOTES FOR PRESIDENT AND VICE PRESIDENT, AND SENT TO THE           
+  34   56 8 SEAT OF THE GOVERNMENT.                                           
+  35    8 1               EX J 3-371     SRE       APR. 19, 1824              
+  35    8 2 E181008       Y=17 N=26                DICKERSON, N.J.            
+  35    8 3 TO CONSENT TO THE APPOINTMENT OF BARNABAS BATES AS COLLECTOR      
+  35    8 4 FOR THE DISTRICT OF BRISTOL AND WARREN, RHODE ISLAND.             
+  36   57 1 A-41- -527A   J 18-1-302     SRE       APR. 19, 1824              
+  36   57 2 S181027       Y=21 N=24                DICKERSON, N.J.            
+  36   57 3 TO POSTPONE UNTIL NEXT MONDAY CONSIDERATION OF THE                
+  36   57 4 RESOLUTION FIXING THE DATE FOR FINAL ADJOURNMENT OF               
+  36   57 5 CONGRESS.  (P. 527)                                               
+  37   58 1 A-41- -527B   J 18-1-303A    SRE       APR. 19, 1824              
+  37   58 2 S181028       Y=22 N=24                RUGGLES, OHIO              
+  37   58 3 TO TABLE THE ADJOURNMENT RESOLUTION.  (P. 527B)                   
+  38   59 1 A-41- -528    J 18-1-303B    SRE       APR. 19, 1824              
+  38   59 2 S181029       Y=25 N=21                TALBOT, KY.                
+  38   59 3 TO AMEND THE ADJOURNMENT RESOLUTION BY FILLING THE BLANK          
+  38   59 4 ADJOURNMENT DATE WITH MAY 15, 1824.  (P. 528)                     
+  39   60 1 A-41- -530531AJ 18-1-30      HR        APR. 20, 1824              
+  39   60 2 S181030       Y=22 N=23                LLOYD, MD.                 
+  39   60 3 TO REFER TO THE COMMITTEE ON FINANCE H.R. 47, (4 STAT. 25,        
+  39   60 4 5-21-24), A BILL AMENDING THE SEVERAL ACTS FOR IMPOSING           
+  39   60 5 DUTIES ON IMPORTS.  (P. 530,531A)                                 
+  40   61 1 A-41- -531B   J 18-1-309     S         APR. 20, 1824              
+  40   61 2 S181031       Y=16 N=19                VANBUREN, N.Y.             
+  40   61 3 TO INDEFINITELY POSTPONE, THE CONSIDERATION OF THE                
+  40   61 4 SENATE BILL, PROVIDING FOR THE SETTLEMENT OF CERTAIN              
+  40   61 5 PECUNIARY CLAIMS AGAINST THE U.S.  (P. 531)                       
+  41   62 1 A-41- -532    J 18-1-310     S         APR. 20, 1824              
+  41   62 2 S181032       Y=20 N=19                                           
+  41   62 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL         
+  41   62 4 PROVIDING FOR THE SETTLEMENT OF CERTAIN PECUNIARY CLAIMS          
+  41   62 5 AGAINST THE U.S.  (P. 532)                                        
+  42   63 1               J 18-1-312     S         APR. 21, 1824              
+  42   63 2 S181033       Y=27 N=8                 JOHNSON, KY.               
+  42   63 3 TO PASS S. 76, (4 STAT. 298, 5-13-24), A BILL FOR THE             
+  42   63 4 RELIEF OF COL. WILLIAM DUANE, GRANTING TO HIM RENUMERATION        
+  42   63 5 FOR MONEY EXPENDED, SERVICES RENDERED, AND FOR LOSSES             
+  42   63 6 SUFFERED IN THE SERVICE OF THE GOVERNMENT.  (P. 529,534)          
+  43   64 1 A-41- -558&565J 18-1-313     HR        APR. 22, 1824              
+  43   64 2 S181034       Y=21 N=21                BENTON, MO.                
+  43   64 3 TO AMEND H.R. 5, (4 STAT. 22, 4-30-24), A BILL PROCURING THE      
+  43   64 4 NECESSARY SURVEYS AND ESTIMATES FOR ROADS AND CANALS; WHICH       
+  43   64 5 AMENDMENT IS IN THE NATURE OF A SUBSTITUTE FOR THE BILL,          
+  43   64 6 MAKING IT MORE SPECIFIC, RETAINING THE $30,000 APPROPRIATION      
+  43   64 7 BUT DEFINING THE USES TO WHICH IT SHALL BE PUT.                   
+  43   64 8 (P. 534, 558, 565)                                                
+  44   65 1 A-41- -567A   J 18-1-315     HR        APR. 23, 1824              
+  44   65 2 S181035       Y=15 N=28                VANDYKE, DEL.              
+  44   65 3 TO AMEND THE AMENDMENT H.R. 5, BY ADDING A PROVISO THAT THE       
+  44   65 4 PRESIDENT MUST FIRST OBTAIN CONSENT OF THE STATE IN WHICH         
+  44   65 5 SURVEY IS TO BE MADE TO THE AMENDMENT PROVIDING THAT NOTHING      
+  44   65 6 IN THIS ACT ADMITS OR AFFIRMS THE POWER OF CONGRESS, ON ITS       
+  44   65 7 OWN AUTHORITY, TO BUILD ROADS OR CANALS.  (P. 567A)               
+  45   66 1 A-41- -567B   J 18-1-316A    HR        APR. 23, 1824              
+  45   66 2 S181036       Y=10 N=36                CHANDLER, MAINE            
+  45   66 3 TO AMEND AN AMENDMENT TO H.R. 5, BY CHANGING THE WORD             
+  45   66 4 "ADMIT" TO "DENY" IN THE PROVISO PROVIDING THAT NOTHING           
+  45   66 5 CONTAINED IN THIS ACT SHALL BE TAKEN TO AFFIRM OR DENY THE        
+  45   66 6 POWER OF CONGRESS, ON ITS OWN AUTHORITY, TO MAKE ROADS AND        
+  45   66 7 CANALS IN ANY STATE.  (P. 567B)                                   
+  46   67 1 A-41- -567C   J 18-1-316B    HR        APR. 23, 1824              
+  46   67 2 S181037       Y=21 N=25                SMITH, MD.                 
+  46   67 3 TO AMEND H.R. 5, BY PROVIDING THAT NOTHING IN THIS ACT SHALL      
+  46   67 4 BE CONSTRUED TO AFFIRM OR ADMIT A POWER IN CONGRESS, ON ITS       
+  46   67 5 OWN AUTHORITY, TO MAKE ROADS OR CANALS WITHIN ANY OF THE          
+  46   67 6 STATES.  (P. 567C)                                                
+  47   68 1 A-41- -568A   J 18-1-317     HR        APR. 23, 1824              
+  47   68 2 S181038       Y=19 N=27                HOLMES, MAINE              
+  47   68 3 TO AMEND H.R. 5, BY PLEDGING THE FAITH OF THE U.S. THAT           
+  47   68 4 NO MONEY SHALL BE SPENT FOR ROADS OR CANALS, EXCEPT IT BE         
+  47   68 5 AMONG THE SEVERAL STATES, AND IN THE SAME PROPORTION AS           
+  47   68 6 DIRECT TAXES ARE LAID AND ASSESSED, UNDER THE PROVISIONS OF       
+  47   68 7 THE CONSTITUTION.  (P. 568A)                                      
+  48   69 1 A-41- -568B   J 18-1-318     HR        APR. 23, 1824              
+  48   69 2 S181039       Y=25 N=21                BROWN, OHIO                
+  48   69 3 TO ORDER A THIRD READING OF H.R. 5.  (P. 568B)                    
+  49   70 1 A-41- -570A   J 18-1-321A    S         APR. 24, 1824              
+  49   70 2 S181040       Y=19 N=25                VANBUREN, N.Y.             
+  49   70 3 TO PASS THE SENATE BILL, PROVIDING FOR THE SETTLEMENT OF          
+  49   70 4 CERTAIN PECUNIARY CLAIMS AGAINST THE U.S.                         
+  50   71 1               J 18-1-321B    HR        APR. 24, 1824              
+  50   71 2 S181041       Y=24 N=18                BROWN, OHIO                
+  50   71 3 TO PASS H.R. 5.  (P. 558, 570B)                                   
+  51   72 1 A-41- -580    J 18-1-328     HR        APR. 27, 1824              
+  51   72 2 S181042       Y=4 N=34                 CHANDLER, MAINE            
+  51   72 3 TO AMEND H.R. 88, (4 STAT. 22, 4-29-24), A BILL FOR U.S.          
+  51   72 4 FORTIFICATIONS FOR 1824, BY ELIMINATING FROM THE BILL THE         
+  51   72 5 APPROPRIATION FOR THE FORTIFICATION OF N.Y.  (P. 580)             
+  52   73 1 A-41- -591    J 18-1-333     HR        APR. 28, 1824              
+  52   73 2 S181043       Y=24 N=23                MILLS, MASS.               
+  52   73 3 TO AMEND H.R. 47, (4 STAT. 25, 5-22-24), A BILL AMENDING THE      
+  52   73 4 SEVERAL ACTS FOR IMPOSING DUTIES ON IMPORTS, BY ELIMINATING       
+  52   73 5 THE DUTY OF 90 CENTS PER 112 POUNDS ON IRON BARS OR BOLTS,        
+  52   73 6 NOT MANUFACTURED BY ROLLING.  (P. 584)                            
+  53   74 1 A-41- -615    J 18-1-337     HR        APR. 29, 1824              
+  53   74 2 S181044       Y=24 N=23                LLOYD, MASS.               
+  53   74 3 TO AMEND H.R. 47, BY ELIMINATING THE DUTY OF 2 CENTS PER          
+  53   74 4 POUND ON HEMP.                                                    
+  54   75 1 A-41- -655    J 18-1-344     HR        MAY 1, 1824                
+  54   75 2 S181045       Y=23 N=24                LLOYD, MD.                 
+  54   75 3 TO AMEND AN AMENDMENT TO H.R. 47, BY ADDING BURLAPS,              
+  54   75 4 TICKLENBURGS AND OSNABURGS, TO THE ITEMS OF RUSSIAN,              
+  54   75 5 HOLLANDS, RAVENS DUCK AND RUSSIA SHEETINGS, ON WHICH THE          
+  54   75 6 PRESENT DUTIES ARE TO BE RETAINED.                                
+  55   76 1 A-41- -662    J 18-1-347     HR        MAY 3, 1824                
+  55   76 2 S181046       Y=21 N=26                HOLMES, MAINE              
+  55   76 3 TO AMEND H.R. 47, BY RETAINING THE PRESENT DUTY ON RUSSIAN,       
+  55   76 4 HOLLAND, RAVENS DUCK AND RUSSIA SHEETINGS.  (P. 658)              
+  56   77 1 A-41- -702A   J 18-1-353     HR        MAY 5, 1824                
+  56   77 2 S181047       Y=23 N=24                ELLIOTT, GA.               
+  56   77 3 TO AMEND H.R. 47, BY ELIMINATING THAT PART OF THE BILL WHICH      
+  56   77 4 ESTABLISHES THE MINIMUM FOR THE CALCULATION OF THE DUTIES         
+  56   77 5 ON COTTON CLOTHS, COTTON TWIST, YARN OR THREAD.  (P. 702)         
+  57   78 1 A-41- -702B   J 18-1-354     HR        MAY 5, 1824                
+  57   78 2 S181048A      Y=28 N=18                HOLMES, MAINE              
+  57   78 3 TO AMEND H.R. 47, BY ELIMINATING THE 15% AD VALOREM DUTY          
+  57   78 4 PROPOSED IN ADDITION TO THE DUTIES ALREADY IMPOSED ON             
+  57   78 5 FOREIGN DISTILLED SPIRITS.  (P. 702)                              
+  58   79 1               J 18-1-354B    PROC      MAY 5, 1824                
+  58   79 2 S181048B      Y=28 N=18                                           
+  58   79 3 TO ADJOURN DURING CONSIDERATION OF H.R. 47.                       
+  59   80 1 A-41- -705A   J 18-1-356     HR        MAY 6, 1824                
+  59   80 2 S181049       Y=21 N=26                MILLS, MASS.               
+  59   80 3 TO AMEND H.R. 47, BY LIMITING THE DUTY ON UNMANUFACTURED          
+  59   80 4 WOOL TO 25% AD VALOREM.  (P. 705A)                                
+  60   81 1 A-41- -705B   J 18-1-357     HR        MAY 6, 1824                
+  60   81 2 S181050       Y=25 N=22                MILLS, MASS.               
+  60   81 3 TO AMEND H.R. 47, BY LIMITING THE DUTY ON UNMANUFACTURED          
+  60   81 4 WOOL TO 30% AD VALOREM.  (P. 705B)                                
+  61   82 1 A-41- -706A   J 18-1-358A    HR        MAY 6, 1824                
+  61   82 2 S181051       Y=18 N=29                LLOYD, MD.                 
+  61   82 3 TO AMEND H.R. 47, BY LIMITING DUTY ON UNMANUFACTURED WOOL TO      
+  61   82 4 15% AD VALOREM, WHEN THE WOOL AT PLACE WHENCE IMPORTED SHALL      
+  61   82 5 NOT BE WORTH MORE THAN 10 CENTS PER POUND.  (P. 706A)             
+  62   83 1 A-41- -706B   J 18-1-358B    HR        MAY 6, 1824                
+  62   83 2 S181052       Y=12 N=35                SMITH, MD.                 
+  62   83 3 TO AMEND H.R. 47, BY IMPOSING 25% AD VALOREM DUTY ON ALL          
+  62   83 4 ARTICLES OF SILK, OR OF WHICH SILK IS A COMPONENT PART,           
+  62   83 5 MANUFACTURED IN INDIA OR ANY OTHER COUNTRY BEYOND THE             
+  62   83 6 CAPE OF GOOD HOPE.  (P. 706B)                                     
+  63   84 1 A-41- -707A   J 18-1-359     HR        MAY 6, 1824                
+  63   84 2 S181053A      Y=28 N=18                KING, N.Y.                 
+  63   84 3 TO AMEND H.R. 47, BY LEAVING DUTY ON WOOLEN MANUFACTURED          
+  63   84 4 GOODS AT 30% AD VALOREM UNTIL 6-30-25, AND AT 33 1/3 %            
+  63   84 5 THEREAFTER.  (P. 707)                                             
+  64   85 1 A-41- -707A   J 18-1-360A    HR        MAY 6, 1824                
+  64   85 2 S181053B      Y=15 N=31                CHANDLER, MAINE            
+  64   85 3 TO AMEND H.R. 47, (4 STAT. 25, 5-22-24), BY ELIMINATING THE       
+  64   85 4 AD VALOREM DUTY AND PROVIDING FOR A SPECIFIC DUTY ON              
+  64   85 5 RUSSIAN, RAVEN, AND HOLLAND DUCK.                                 
+  65   86 1 A-41- -708A   J 18-1-360B    HR        MAY 6, 1824                
+  65   86 2 S181054       Y=22 N=25                HAYNE, S.C.                
+  65   86 3 TO AMEND H.R. 47, BY ELIMINATING DUTY OF 25% AD VALOREM ON        
+  65   86 4 FABRICS MANUFACTURED OF FLAX OR HEMP, THUS LEAVING ONLY THE       
+  65   86 5 PRESENT DUTY.                                                     
+  66   87 1 A-41- -708B   J 18-1-361     HR        MAY 6, 1824                
+  66   87 2 S181055       Y=23 N=24                MACON, N.C.                
+  66   87 3 TO AMEND H.R. 47, BY ELIMINATING THE DUTY OF 4 1/2 CENTS PER      
+  66   87 4 SQUARE YARD ON COTTON BAGGING.  (P. 708B)                         
+  67   88 1 A-41- -710    J 18-1-364A    HR        MAY 7, 1824                
+  67   88 2 S181056       Y=20 N=26                SMITH, MD.                 
+  67   88 3 TO AMEND H.R. 47, BY EXCEPTING WORSTED STUFF GOODS FROM THE       
+  67   88 4 PROPOSED DUTY OF 30% AD VALOREM.  (P. 710)                        
+  68   89 1 A-41- -711A   J 18-1-364B    HR        MAY 7, 1824                
+  68   89 2 S181057       Y=22 N=25                HOLMES, MAINE              
+  68   89 3 TO AMEND H.R. 47, BY ELIMINATING JUNE 30 NEXT AS BEING THE        
+  68   89 4 DATE THIS ACT GOES INTO EFFECT.  (P. 711A)                        
+  69   90 1 A-41- -711B   J 18-1-365     HR        MAY 7, 1824                
+  69   90 2 S181058       Y=27 N=20                KING, N.Y.                 
+  69   90 3 TO AMEND H.R. 47, BY SUBJECTING WORSTED STUFF GOODS TO A          
+  69   90 4 DUTY OF 25% AD VALOREM; AND ALL MANUFACTURES OF WOOL A DUTY       
+  69   90 5 OF 30% AD VALOREM UNTIL JUNE 30, 1825, AND AFTER THAT TIME,       
+  69   90 6 A DUTY OF 33 1/3 % AD VALOREM.  (P. 711B)                         
+  70   91 1 A-41- -711C   J 18-1-366A    HR        MAY 7, 1824                
+  70   91 2 S181059       Y=24 N=23                HAYNE, S.C.                
+  70   91 3 TO AMEND H.R. 47, BY SUBJECTING BLANKETS TO A DUTY OF 25%         
+  70   91 4 AD VALOREM.  (P. 712)                                             
+  71   92 1 A-41- -712A   J 18-1-366B    HR        MAY 7, 1824                
+  71   92 2 S181060       Y=23 N=24                HOLMES, MAINE              
+  71   92 3 TO AMEND H.R. 47, BY PROVIDING THAT PRESENT DUTIES SHALL BE       
+  71   92 4 CHARGED ON CARGOES THAT LEAVE FOREIGN PORTS BEFORE PASSAGE        
+  71   92 5 OF THIS ACT.  (P. 712A)                                           
+  72   93 1 A-41- -712B   J 18-1-367     HR        MAY 7, 1824                
+  72   93 2 S181061       Y=29 N=18                BRANCH, N.C.               
+  72   93 3 TO AMEND H.R. 47, BY EXEMPTING FRYING PANS FROM A PROPOSED        
+  72   93 4 DUTY OF 4 CENTS A POUND.  (P. 712B)                               
+  73   94 1 A-41- -714B   J 18-1-368B    HR        MAY 7, 1824                
+  73   94 2 S181062       Y=20 N=27                JACKSON, TENN.             
+  73   94 3 TO AMEND H.R. 47, BY PLACING THE UNSPECIFIED AD VALOREM DUTY      
+  73   94 4 AT 20% ON SUCH FABRICS AS RUSSIAN, HOLLAND AND RAVENS DUCK,       
+  73   94 5 OANABURGS, BURLAPS AND TICKLENBURGS.                              
+  74   95 1 A-41- -713A   J 18-1-368A    HR        MAY 7, 1824                
+  74   95 2 S181063       Y=30 N=17                HOLMES, MAINE              
+  74   95 3 TO AMEND H.R. 47, BY PLACING ON THE UNSPECIFIED AD VALOREM        
+  74   95 4 DUTY LIST SUCH FABRICS AS RUSSIA, HOLLAND, RAVENS DUCK,           
+  74   95 5 OSNABURGS, TICKLENBURGS AND BURLAPS.  (P. 713A)                   
+  75   96 1 A-41- -713B   J 18-1-369     HR        MAY 7, 1824                
+  75   96 2 S181064       Y=31 N=16                HOLMES, MAINE              
+  75   96 3 TO AMEND H.R. 47, BY LEVING A DUTY OF 15% AD VALOREM ON           
+  75   96 4 RUSSIA, HOLLAND, RAVENS DUCK, OSNABURGS, BURLAPS AND              
+  75   96 5 TICKLENBURGS.  (P. 713B)                                          
+  76   97 1 A-41- -713C   J 18-1-370A    HR        MAY 7, 1824                
+  76   97 2 S181065       Y=24 N=22                LLOYD, MD.                 
+  76   97 3 TO AMEND H.R. 47, BY LIMITING TO A DUTY OF 25% AD VALOREM         
+  76   97 4 ON WOOLEN GOODS THE VALUE OF WHICH, AT PORT OF IMPORTATION;       
+  76   97 5 DOES NOT EXCEED 33 1/3 CENST A SQUARE YARD.  (P. 713C)            
+  77   98 1 A-41- -714A   J 18-1-370B    HR        MAY 7, 1824                
+  77   98 2 S181066       Y=12 N=35                SMITH, MD.                 
+  77   98 3 TO AMEND H.R. 47, BY FIXING A DUTY OF 2 CENTS PER POUND ON        
+  77   98 4 COPPER IN PLATES OR SHEETS.  (P. 714A)                            
+  78   99 1 A-41- -714B   J 18-1-371     HR        MAY 7, 1824                
+  78   99 2 S181067       Y=23 N=24                HOLMES, MAINE              
+  78   99 3 TO AMEND H.R. 47, BY AMENDING THE MOTION TO ELIMINATE THE         
+  78   99 4 DUTY OF 3 CENTS PER POUND ON IRON, CABLES OR CHAINS, OR           
+  78   99 5 PARTS THEREOF AND THAT NO DRAWBACKS SHALL BE ALLOWED ON THE       
+  78   99 6 EXPORTATION OF IRON CABLES OR PARTS THEREOF, BY CHANGING THE      
+  78   99 7 THE DUTY FROM 3 CENTS TO 2 CENTS PER POUND.                       
+  79  100 1 A-41- -714C   J 18-1-372     HR        MAY 7, 1824                
+  79  100 2 S181068       Y=21 N=26                LLOYD, MASS.               
+  79  100 3 TO AMEND H.R. 47, BY EXEMPTING IRON CABLES OR CHAINS AND          
+  79  100 4 PARTS THEREOF FROM DUTY OF THREE CENTS PER POUND, AND             
+  79  100 5 STIPULATING THAT NO DRAWBACK WILL BE ALLOWED ON THE               
+  79  100 6 EXPORTATION OF IRON CABLES OR PARTS THEREOF.  (P. 714C)           
+  80    9 1               EX J 3-375     SRE       MAY 8, 1824                
+  80    9 2 E181009       Y=15 N=20                BARTON, MO.                
+  80    9 3 TO ADVISE AND CONSENT TO THE APPOINTMENT OF TUNSTALL QUARLES      
+  80    9 4 AS RECEIVER OF PUBLIC MONEYS FOR THE DISTRICT OF CAPE             
+  80    9 5 GIRARDEAU FROM APR. 6, 1824.                                      
+  81  101 1 A-41- -718A   J 18-1-375     HR        MAY 8, 1824                
+  81  101 2 S181069       Y=31 N=16                BRANCH, N.C.               
+  81  101 3 TO AMEND H.R. 47, BY FIXING A DUTY OF 30% AD VALOREM ON           
+  81  101 4 KNIVES, SCYTHES, SICKLES AND REAPING HOOKS, SPADES AND            
+  81  101 5 SHOVELS OF IRON AND STEEL, INSTEAD OF PLACING A SPECIFIC          
+  81  101 6 DUTY ON THESE ARTICLES.  (P. 718A)                                
+  82  102 1 A-41- -718B   J 18-1-376A    HR        MAY 8, 1824                
+  82  102 2 S181070       Y=25 N=21                LLOYD, MASS.               
+  82  102 3 TO AMEND H.R. 47, BY FIXING A DUTY OF 30% AD VALOREM,             
+  82  102 4 INSTEAD OF A SPECIFIC DUTY, ON IRON SCREWS AND WOOL SCREWS.       
+  82  102 5 (P. 718)                                                          
+  83  103 1 A-41- -719    J 18-1-376B    HR        MAY 8, 1824                
+  83  103 2 S181071       Y=22 N=25                DICKERSON, N.J.            
+  83  103 3 TO AMEND H.R. 478 BY INCREASING DUTY FROM 4 CENTS TO 18 1/2       
+  83  103 4 CENTS PER POUND ON BOOKS, BOUND, AND 16 1/2 CENTS PER POUND       
+  83  103 5 WHEN IN SHEETS OR BOARDS ON ALL BOOKS PRINTED IN GREEK AND        
+  83  103 6 LATIN.  (P. 719)                                                  
+  84  104 1 A-41- -720A   J 18-1-377     HR        MAY 8, 1824                
+  84  104 2 S181072       Y=25 N=22                HAYNE, S.C.                
+  84  104 3 TO AMEND H.R. 478 BY LEVYING AN ADVALOREM DUTY, INSTEAD OF        
+  84  104 4 BY WEIGHT, ON BOOKS.  (P. 719)                                    
+  85  105 1 A-41- -720B   J 18-1-378     HR        MAY 8, 1824                
+  85  105 2 S181073       Y=24 N=23                SEYMOUR, VT.               
+  85  105 3 TO AMEND H.R. 47, BY IMPOSING A DUTY OF 25% AD VALOREM ON         
+  85  105 4 ALL BOOKS.  (P. 720B)                                             
+  86  106 1 A-41- -723    J 18-1-386     S         MAY 10, 1824               
+  86  106 2 S181074       Y=5 N=33                 CHANDLER, ME.              
+  86  106 3 TO AMEND S. 96, (6 STAT. 314, 5-25-24), A BILL PAYING THE         
+  86  106 4 CLAIM OF ALEXANDER MC NAIR, BY STRIKING OUT THE PART OF THE       
+  86  106 5 BILL WHICH PROVIDES FOR PAYMENT OF INTEREST ON MONEY              
+  86  106 6 BORROWED FOR THE USE OF THE GOVERNMENT AND FOR THE SERVICE        
+  86  106 7 RENDERED THE GOVERNMENT.                                          
+  87  107 1 A-41- -724    J 18-1-381     HR        MAY 10, 1824               
+  87  107 2 S181075       Y=26 N=21                DICKERSON, N.J.            
+  87  107 3 TO AMEND H.R. 47, BY STRIKING OUT FOURTH SECTION ALLOWING         
+  87  107 4 A DRAWBACK ON THE EXPORTATION OF CERTAIN IMPORTED SILKS AND       
+  87  107 5 NANKEENS.  (P. 774)                                               
+  88  108 1 A-41- -725A   J 18-1-382A    HR        MAY 10, 1824               
+  88  108 2 S18107L       Y=29 N=18                HOLMES, ME.                
+  88  108 3 TO AMEND H.R. 478 BY FIXING A DUTY OF 25% AD VALOREM ON           
+  88  108 4 FABRICS MANUFACTURED OF SILK IMPORTED FROM INDIA AND A DUTY       
+  88  108 5 OF 20% ON SILK FABRICS IMPORTED FROM FRANCE.  (P. 725A)           
+  89  109 1 A-41- -725B   J 18-1-382B    HR        MAY 10, 1824               
+  89  109 2 S181077       Y=19 N=28                TAYLOR, VA.                
+  89  109 3 TO AMEND H.R. 47, BY STRIKING OUT THE PROPOSED DUTY OF 25         
+  89  109 4 CENTS PER BUSHEL ON WHEAT, AND 50 CENTS PER HUNDREDWEIGHT ON      
+  89  109 5 WHEAT FLOUR.  (P. 725B)                                           
+  90  110 1 A-41- -725C   J 18-1-383     HR        MAY 10, 1824               
+  90  110 2 S181078       Y=15 N=32                TAYLOR, VA.                
+  90  110 3 TO AMEND H.R. 47, BY STRIKING PROPOSED DUTY OF 10 CENTS PER       
+  90  110 4 BUSHEL ON POTATOES.  (P. 725C)                                    
+  91  111 1 A-41- -727    J 18-1-388A    HR        MAY 11, 1824               
+  91  111 2 S181079       Y=23 N=24                RUGGLES, OHIO              
+  91  111 3 TO AMEND H.R. 47, BY INCREASING THE AD VALOREM DUTY ON            
+  91  111 4 BLANKETS FROM 25% TO 30%.                                         
+  92  112 1 A-41- -728A   J 18-1-388B    HR        MAY 11, 1824               
+  92  112 2 S181080       Y=8 N=38                 LLOYD, MASS.               
+  92  112 3 TO AMEND H.R. 47, BY SUBJECTING ALL SILK FABRICS TO A DUTY        
+  92  112 4 OF 20% AD VALOREM, REGARDLESS OF COUNTRY OF ORIGIN.               
+  92  112 5 (P. 728A)                                                         
+  93  113 1 A-41- -728B   J 18-1-389     HR        MAY 11, 1824               
+  93  113 2 S181081       Y=24 N=22                HOLMES, ME.                
+  93  113 3 TO AMEND A PROVISO TO H.R. 47, BY MAKING JAN. 1 THE DATE          
+  93  113 4 FROM WHICH THIS ACT TAKES EFFECT ON IMPORTATION OF GOODS          
+  93  113 5 EAST OF THE CAPE OF GOOD HOPE OR BEYOND CAPE HORN.                
+  94  114 1 A-41- -       J 18-1-390A    HR        MAY 11, 1824               
+  94  114 2 S181082       Y=24 N=22                MILLS, MASS.               
+  94  114 3 TO CONCUR IN AMENDMENT AGREED TO IN COMMITTEE OF THE WHOLE        
+  94  114 4 TO H.R. 47; WHICH AMENDMENT ELIMINATES A PROGRESSIVE DUTY         
+  94  114 5 ON UNMANUFACTURED WOOL FROM 30% TO 50% AD VALOREM, LEAVING        
+  94  114 6 THE DUTY AT 30% AD VALOREM.                                       
+  95  115 1 A-41- -729    J 18-1-390B    HR        MAY 11, 1824               
+  95  115 2 S181083       Y=30 N=16                CHANDLER, ME.              
+  95  115 3 TO AMEND H.R. 47, BY ELIMINATING THE SPECIFIC DUTY OF 2           
+  95  115 4 CENTS PER POUND ON HEMP.  (P. 729)                                
+  96  116 1 A-41- -730A   J 18-1-391     HR        MAY 11, 1824               
+  96  116 2 S181084       Y=6 N=40                 LLOYD, MD.                 
+  96  116 3 TO AMEND H.R. 47, BY FIXING THE DUTY OF $45 PER TON ON HEMP.      
+  96  116 4 (P. 730A)                                                         
+  97  117 1 A-41- -730B   J 18-1-392A    HR        MAY 11, 1824               
+  97  117 2 S181085       Y=20 N=27                TALBOT, KY.                
+  97  117 3 TO AMEND H.R. 47, BY FIXING DUTY OF $37 PER TON ON HEMP.          
+  97  117 4 (P. 730B)                                                         
+  98  118 1 A-41- -730C   J 18-1-392B    HR        MAY 11, 1824               
+  98  118 2 S181086       Y=28 N=19                CHANDLER, ME.              
+  98  118 3 TO AMEND H.R. 47, BY FIXING A DUTY OF $35 PER TON ON HEMP.        
+  98  118 4 (P. 730C)                                                         
+  99  119 1 A-41- -731    J 18-1-393A    HR        MAY 11, 1824               
+  99  119 2 S181087       Y=21 N=26                MILLS, MASS.               
+  99  119 3 TO CONCUR IN AMENDMENT, AGREED TO IN COMMITTEE OF THE             
+  99  119 4 WHOLE, TO H.R. 47; WHICH AMENDMENT ELIMINATES THE SECTION         
+  99  119 5 FIXING DUTY OF 90 CENTS PER 112 POUNDS ON IRON, IN BARS OR        
+  99  119 6 BOLTS, NOT MANUFACTURED BY ROLLING; THUS LEAVING PRESENT          
+  99  119 7 DUTY IN EFFECT.  (P. 731)                                         
+ 100  120 1 A-41- -732    J 18-1-393B    HR        MAY 11, 1824               
+ 100  120 2 S181088       Y=30 N=17                HOLMES, ME.                
+ 100  120 3 TO CONCUR IN AMENDMENT, AGREED TO IN COMMITTEE OF THE WHOLE,      
+ 100  120 4 TO H.R. 47, WHICH AMENDMENT ELIMINATES CLAUSE PLACING DUTY        
+ 100  120 5 OF 15% AD VALOREM, IN ADDITION TO PRESENT DUTIES, ON ALL          
+ 100  120 6 IMPORTED FOREIGN DISTILLED SPIRITS.  (P. 732)                     
+ 101  121 1 A-41- -733A   J 18-1-394     HR        MAY 11, 1824               
+ 101  121 2 S181089       Y=11 N=35                TALBOT, KY.                
+ 101  121 3 TO AMEND H.R. 47, BY ELIMINATING CLAUSE FIXING A DUTY OF 15%      
+ 101  121 4 AD VALOREM ON ALL WOOL, THE ACTUAL VALUE OF WHICH AT PLACE        
+ 101  121 5 WHENCE IMPORTED DOES NOT EXCEED 10 CENTS PER POUND.               
+ 101  121 6 (P. 733A)                                                         
+ 102  122 1 A-41- -733B   J 18-1-395     HR        MAY 11, 1824               
+ 102  122 2 S181090       Y=25 N=22                MACON, N.C.                
+ 102  122 3 TO AMEND H.R. 47, BY ELIMINATING DUTY OF 4 1/2 CENTS PER          
+ 102  122 4 SQUARE YARD ON COTTON BAGGING.  (P. 733B)                         
+ 103  123 1 A-41- -736    J 18-1-396     HR        MAY 12, 1824               
+ 103  123 2 S181091       Y=22 N=25                LLOYD, MASS.               
+ 103  123 3 TO AMEND H.R. 47, BY INSERTING ON MADERIA WINE -- CENTS PER       
+ 103  123 4 GALLON" AND "ON LISBON AND OPPORTO WINES -- CENTS PER             
+ 103  123 5 GALLON", WITH THE EXPECTATION OF REDUCING THE DUTIES ON           
+ 103  123 6 WINES FROM PORTUGAL.  (P. 735,736)                                
+ 104  124 1 A-41- -736    J 18-1-397     HR        MAY 12, 1824               
+ 104  124 2 S181092       Y=25 N=22                DICKERSON, N.J.            
+ 104  124 3 TO ORDER ENGROSSMENT AND THIRD READING OF H.R. 47.                
+ 104  124 4 (P. 736)                                                          
+ 105   10 1               EX J 3-376     SRE       MAY 13, 1823               
+ 105   10 2 E181010       Y=40 N=0                 BENTON, MO.                
+ 105   10 3 TO ADOPT A RESOLUTION (7 STAT. 228, 5-17-24), PROVIDING THAT      
+ 105   10 4 THE SENATE ADVISE AND CONSENT TO THE RATIFICATION OF THE          
+ 105   10 5 TREATY MADE AND CONCLUDED AT THE GARRISON OF TELLICO, ON          
+ 105   10 6 CHEROKEE GROUND, 10-24-04, BETWEEN THE U.S. AND THE               
+ 105   10 7 CHEROKEE INDIANS.                                                 
+ 106  125 1 A-41- -738    J 18-1-399     S         MAY 13, 1824               
+ 106  125 2 S181093A      Y=20 N=23                LOWRIE, PA.                
+ 106  125 3 TO AMEND AN AMENDMENT TO THE SENATE BILL RESERVING THE FUR        
+ 106  125 4 TRADE WITHIN THE U.S. TO AMERICAN CITIZENS AND EXCLUDING          
+ 106  125 5 FOREIGNERS FROM TRADE AND INTERCOURSE WITH INDIAN TRIBES          
+ 106  125 6 WITHIN THE U.S.; WHICH ORIGINAL AMENDMENT APPROPRIATES            
+ 106  125 7 $13,000 TO ENABLE THE PRESIDENT TO SEND A MILITARY EXPEDIT-       
+ 106  125 8 ION AGAINST HOSTILE INDIANS OF THE UPPER MISSOURI; WHICH          
+ 106  125 9 AMENDED AMENDMENT ELIMINATES ALL AFTER THE WORD "PRESIDENT"       
+ 106  12510 AND INSERTS "IF, IN HIS OPINION, IT SHOULD BE DEEMED              
+ 106  12511 NECESSARY TO SEND A MILITARY FORCE TO SUSTAIN AND PROTECT         
+ 106  12512 THE COMMISSIONERS WHO MAY BE SENT TO HOLD TREATIES WITH           
+ 106  12513 INDIAN TRIBES ON THE UPPER MISSOURI RIVER."                       
+ 107  126 1 A-41- -743744 J 18-1-4       HR        MAY 13, 1824               
+ 107  126 2 S181093B      Y=25 N=21                DICKERSON, N.J.            
+ 107  126 3 TO PASS H.R. 47.  (P. 773,774)                                    
+ 108  127 1 A-41- -745    J 18-1-408     HR        MAY 14, 1824               
+ 108  127 2 S181094       Y=18 N=10                NOBLE, IND.                
+ 108  127 3 TO INDEFINITELY POSTPONE CONSIDERATION OF H.R. 37, A BILL         
+ 108  127 4 FOR PENSIONING MARY JAMES.  (P. 745)                              
+ 109  128 1 A-41- -755    J 18-1-424     HR        MAY 17, 1824               
+ 109  128 2 S18109K       Y=23 N=23                BARBOUR, VA.               
+ 109  128 3 TO INSIST ON SENATE AMENDMENT (WHICH WAS REJECTED BY THE          
+ 109  128 4 HOUSE) TO H.R. 47; WHICH AMENDMENT PROVIDES THAT ON ALL           
+ 109  128 5 MANUFACTURES OF WOOL, THE ACTUAL VALUE OF WHICH DOES NOT          
+ 109  128 6 EXCEED 33 1/3 CENTS PER SQUARE YARD AT PLACE WHENCE               
+ 109  128 7 IMPORTED, A DUTY OF 25% AD VALOREM SHALL BE CHARGED.              
+ 109  128 8 (P. 755)                                                          
+ 110  129 1 A-41- -756    J 18-1-425     HR        MAY 17, 1824               
+ 110  129 2 S181096       Y=21 N=25                DICKERSON, N.J.            
+ 110  129 3 TO RECEDE FROM THE AMENDMENT TO H.R. 47, STRIKING OUT THE         
+ 110  129 4 DUTY OF 4 1/2 CENTS PER SQUARE YARD ON COTTON BAGGING.            
+ 110  129 5 (P. 756)                                                          
+ 111  130 1               J 18-1-426     HR        MAY 17, 1824               
+ 111  130 2 S181098       Y=25 N=21                DICKERSON, N.J.            
+ 111  130 3 TO RECEDE FROM SO MUCH OF ITS 48TH AMENDMENT AS IS                
+ 111  130 4 DISAGREED TO BY THE HOUSE; TO H.R. 47 WHICH AMENDMENT             
+ 111  130 5 ELIMINATES THE DRAWBACK ON NANKEEN CLOTHS IMPORTED IN             
+ 111  130 6 AMERICAN SHIPS.  (P. 380, JP. 426)                                
+ 112  131 1 A-41- -757    J 18-1-427     S         MAY 17, 1824               
+ 112  131 2 S181099       Y=36 N=8                 LLOYD, MASS.               
+ 112  131 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE SENATE BILL         
+ 112  131 4 PROVIDING PUNISHMENT FOR CERTAIN CRIMES AGAINST THE U.S.          
+ 112  131 5 (P. 757)                                                          
+ 113  132 1               J 18-1-432     S         MAY 17, 1824               
+ 113  132 2 S181100       Y=24 N=17                BENTON, MO.                
+ 113  132 3 TO AMEND THE SENATE BILL (4 STAT. 35, 5-25-24), ENABLING          
+ 113  132 4 THE PRESIDENT TO CARRY INTO EFFECT THE TREATY OF GHENT,           
+ 113  132 5 12-24-14, EXCLUDING FOREIGNERS FROM TRADE AND INTERCOURSE         
+ 113  132 6 WITH AMERICAN INDIAN TRIBES, AND PRESERVING THE FUR TRADE         
+ 113  132 7 IN THE U.S. TO ITS CITIZENS, BY APPROPRIATING $10,000 FOR         
+ 113  132 8 ENABLING THE PRESIDENT, IN HIS DISCRETION, TO FURNISH A           
+ 113  132 9 MILITARY ESCORT TO THE COMMISSIONERS AUTHORIZED BY THIS ACT.      
+ 114  133 1 A-41- -760    J 18-1-437     HR        MAY 18, 1824               
+ 114  133 2 S181101       Y=12 N=28                LANMAN, CONN.              
+ 114  133 3 TO AMEND H.R. 48, (6 STAT. 314, 5-24-24), A BILL FOR THE          
+ 114  133 4 RELIEF OF THE ASSIGNEES AND LEGAL REPRESENTATIVES OF              
+ 114  133 5 JOHN H. PIATT, BY REDUCING THE ALLOWNACE GRANTED IN ABOVE         
+ 114  133 6 BILL FROM $63,000 TO $42,000.  (P. 760)                           
+ 115  134 1 A-41- -765    J 18-1-441     HR        MAY 19, 1824               
+ 115  134 2 S181102       Y=25 N=20                BROWN, OHIO                
+ 115  134 3 TO ORDER A THIRD READING OF H.R. 139, (4 STAT. 32, 5-24-24),      
+ 115  134 4 A BILL APPROPRIATING $75,000 FOR REMOVING OBSTRUCTIONS FROM       
+ 115  134 5 THE CHANNELS OF THE MISSISSIPPI AND OHIO RIVERS.                  
+ 115  134 6 (P. 765)                                                          
+ 116  135 1 A-41- -761    J 18-1-442     HR        MAY 19, 1824               
+ 116  135 2 S181103       Y=32 N=13                SMITH, MD.                 
+ 116  135 3 TO PASS H.R. 98, A BILL AUTHORIZING THE ISSUANCE OF A             
+ 116  135 4 REGISTER TO THE BRIG "WILLIAM" OF N.Y.                            
+ 117   11 1               EX J 3-383     SRE       MAY 21, 1824               
+ 117   11 2 E181011       Y=36 N=2                 BARBOUR, VA.               
+ 117   11 3 TO AGREE TO THE AMENDMENT AS MODIFIED, MADE IN COMMITTEE OF       
+ 117   11 4 THE WHOLE RELATIVE TO THE CONVENTION BETWEEN THE U.S. AND         
+ 117   11 5 THE KING OF GREAT BRITAIN, RESPECTING SUPPRESSION OF THE          
+ 117   11 6 AFRICAN SLAVE TRADE, SIGNED AT LONDON, 3-13-24, WHICH             
+ 117   11 7 AMENDMENT, PROVIDES THAT AN ADDITIONAL ARTICLE BE ADDED,          
+ 117   11 8 GRANTING TO EACH NATION THE PRIVILEGE TO RENOUNCE THE SAID        
+ 117   11 9 CONVENTION AT ANY TIME BY GIVING SIX MONTHS PRIOR NOTICE.         
+ 118   12 1               EX J 3-384     SRE       MAY 21, 1824               
+ 118   12 2 E181012       Y=34 N=2                 BARBOUR, VA.               
+ 118   12 3 TO CONCUR AS IN COMMITTEE OF THE WHOLE TO THE AMENDMENT AS        
+ 118   12 4 MODIFIED TO THE RESOLUTION; WHICH AMENDMENT PROVIDES THAT AN      
+ 118   12 5 ARTICLE BE ADDED GIVING EACH NATION THE RIGHT TO RENOUNCE         
+ 118   12 6 THE CONVENTION AT ANY TIME BY GIVING SIX MONTHS PRIOR             
+ 118   12 7 NOTICE.                                                           
+ 119  136 1 A/41- -768    J 18-1-447     HR        MAY 21, 1824               
+ 119  136 2 S181105       Y=25 N=15                VANBUREN, N.Y.             
+ 119  136 3 TO ORDER A THIRD READING OF H.R. 48, (6 STAT. 314, 5-24-24),      
+ 119  136 4 A BILL FOR THE RELIEF OF THE ASSIGNEES AND LEGAL REPRESEN-        
+ 119  136 5 TATIVES OF JOHN H. PIATT.                                         
+ 120  137 1 A-41- -769    J 18-1-450     HR        MAY 21, 1824               
+ 120  137 2 S181106       Y=31 N=4                 SMITH, MD.                 
+ 120  137 3 TO PASS THE HOUSE BILL (4 STAT. 33, 5-24-24), AUTHORIZING         
+ 120  137 4 THE CREATION OF A STOCK NOT EXCEEDING $5,000,000 TO PROVIDE       
+ 120  137 5 FOR THE AWARDS OF THE COMMISSIONERS UNDER THE TREATY WITH         
+ 120  137 6 SPAIN OF 2-22-19.  (P. 769)                                       
+ 121   13 1               EX J 3-385A    SRE       MAY 22, 1824               
+ 121   13 2 E181013       Y=16 N=26                MACON, N.C.                
+ 121   13 3 TO POSTPONE UNTIL 12-1-24, FURTHER CONSIDERATION OF THE           
+ 121   13 4 CONVENTION, TOGETHER WITH A PROVISO TO SAME, THAT AN              
+ 121   13 5 ARTICLE BE ADDED GIVING EACH NATION THE RIGHT TO RENOUNCE         
+ 121   13 6 THE CONVENTION AT ANY TIME BY GIVING SIX MONTHS NOTICE.           
+ 122   14 1               EX J 3-385B    SRE       MAY 22, 1824               
+ 122   14 2 E181014       Y=23 N=20                JOHNSTON, LA.              
+ 122   14 3 TO DECIDE THE QUESTION RAISED ON MOTION TO ELIMINATE THE          
+ 122   14 4 WORDS "OF AMERICA" FROM THE FIRST ARTICLE OF THE CONVENTION,      
+ 122   14 5 THE QUESTION BEING SHALL THESE WORDS STAND AS PART OF SAID        
+ 122   14 6 ARTICLE.                                                          
+ 123   15 1               EX J 3-385C    SRE       MAY 22, 1824               
+ 123   15 2 E181015       Y=29 N=14                JOHNSTON, LA.              
+ 123   15 3 TO DECIDE THE QUESTION RAISED ON MOTION TO ELIMINATE              
+ 123   15 4 "THE WEST INDIES" FROM ARTICLE ONE OF THE CONVENTION, THE         
+ 123   15 5 QUESTION BEING, SHALL THE WORDS STAND.                            
+ 124   16 1               EX J 3-386A    SRE       MAY 22, 1824               
+ 124   16 2 E181016       Y=27 N=16                JOHNSTON, LA.              
+ 124   16 3 TO DECIDE THE QUESTION RAISED ON THE MOTION TO ELIMINATE          
+ 124   16 4 THE ENTIRE SECOND ARTICLE OF THE CONVENTION WHICH ARTICLE         
+ 124   16 5 PROVIDES FOR THE ABOLITION OF DUTIES IMPOSED ON GOODS             
+ 124   16 6 EXPORTED TO THE U.S. FROM GREAT BRITAINS' EUROPEAN DOMINIONS      
+ 124   16 7 OR OF RESERVING TO THE U.S. A RIGHT TO COUNTERACT THE SAME,       
+ 124   16 8 AND OF PLACING THE VESSELS OF BOTH PARTIES ON THE SAME            
+ 124   16 9 FOOTING IN RESPECT TO THE AMOUNT OF DRAWBACKS; ON THE             
+ 124   1610 QUESTION, WILL THE SENATE CONSENT TO THE RATIFICATION OF          
+ 124   1611 THE ARTICLE MOVED TO BE ELIMINATED.                               
+ 125   17 1               EX J 3-386B    SRE       MAY 22, 1824               
+ 125   17 2 E181017       Y=22 N=21                JOHNSON, LA.               
+ 125   17 3 TO DECIDE THE QUESTION RAISED ON THE MOTION TO ELIMINATE A        
+ 125   17 4 PROVISION IN THE SEVENTH ARTICLE OF THE CONVENTION OF WHICH       
+ 125   17 5 PROVISION REGARDING THE DEFRAYING OF EXPENSES OF WITNESSES        
+ 125   17 6 APPEARING AGAINST ANY INDIVIDUAL SEIZED WHILE ENGAGED IN          
+ 125   17 7 SLAVE TRADING OR PIRACY; ON THE QUESTION, SHALL THE               
+ 125   17 8 PROVISION STAND.                                                  
+ 126   18 1               EX J 3-386C    SRE       MAY 22, 1824               
+ 126   18 2 E181018       Y=29 N=13                BARBOUR, VA.               
+ 126   18 3 TO RATIFY THE CONVENTION.                                         
+ 127   19 1               EX J 3-389     SRE       MAY 2L, 1824               
+ 127   19 2 E181019       Y=8 N=23                 VANBUREN, N.Y.             
+ 127   19 3 TO ADVISE AND CONSENT TO THE APPOINTMENT OF BENJAMIN AMES         
+ 127   19 4 AS U.S. MARSHALL FOR THE DISTRICT OF MAINE.                       
+ 128  138 1 A-41- -783    J 18-1-480     HR        MAY 25, 1824               
+ 128  138 2 S181107       Y=24 N=4                 SMITH, MD.                 
+ 128  138 3 TO ORDER A THIRD READING OF H.R. 215, (6 STAT. 319,               
+ 128  138 4 5-26-24), A BILL MAKING AN APPROPRIATION FOR THE PAYMENT OF       
+ 128  138 5 CLAIMS OF DANIEL D. TOMPKINS, FORMER N.Y. GOVERNOR, AGAINST       
+ 128  138 6 THE U.S.  (P. 783)                                                
+ 129  139 1 A-41- -784    J 18-1-482     HR        MAY 25, 1824               
+ 129  139 2 S181108       Y=14 N=15                VANBUREN, N.Y.             
+ 129  139 3 TO ORDER A THIRD READING OF H.R. 128, A BILL AUTHORIZING THE      
+ 129  139 4 LEGAL REPRESENTATIVES OF MARQUIS DE MAISON TO BEGIN ACTION        
+ 129  139 5 IN U.S. COURTS TO TRY THE VALIDITY OF HIS TITLE, DISPUTED BY      
+ 129  139 6 THE U.S. TO LANDS.                                                
+ 130  140 1 A-41- -786    J 18-1-483     HR        MAY 25, 1824               
+ 130  140 2 S181109       Y=20 N=8                 BROWN, OHIO                
+ 130  140 3 TO ORDER A THIRD READING OF H.R. 112, (4 STAT. 71, 5-26-24),      
+ 130  140 4 A BILL AUTHORIZING THE SURVEYING AND MAKING OF A ROAD FROM        
+ 130  140 5 A POINT IN THE NORTHWESTERN BOUNDARY OF OHIO, TO DETROIT,         
+ 130  140 6 TERRITORY OF MICHIGAN.                                            
+ 131  141 1 RD-1- -33     J 18-2-47      HR        DEC. 21, 1824              
+ 131  141 2 S182001       Y=37 N=7                 HAYNE, S.C.                
+ 131  141 3 TO PASS H.R. 243, (6 STAT. 320, 12-28-24), A BILL MAKING          
+ 131  141 4 PROVISION FOR GENERAL LAFAYETTE.  (P. 33)                         
+ 132  142 1 RD-1- -112    J 18-2-64      S         JAN. 3, 1825               
+ 132  142 2 S182002       Y=21 N=21                COBB, GA.                  
+ 132  142 3 TO AMEND THE BILL ABOLISHING IMPRISONMENT FOR DEBT, BY            
+ 132  142 4 ELIMINATING A CLAUSE READING "BUT AFTER THE RETURN THEREOF,       
+ 132  142 5 THE DEPENDANTS MAY CONTEST THE ALLEGATION OF THE SAID OATHS       
+ 132  142 6 OR AFFIRMATIONS BEFORE THE COURT IN WHICH SAID SUIT IS            
+ 132  142 7 INSTITUTED; AND IF, IN THE OPINION OF THE COURT, ALLEGATIONS      
+ 132  142 8 ARE NOT WELL FOUNDED, IT MAY MAKE AN ORDER TO BE ENTERED ON       
+ 132  142 9 THE RECORD, DISCHARGING SAID BAIL OR SECURITY FROM HIS OR         
+ 132  14210 THEIR SURETYSHIP".  (P. 112)                                      
+ 133  143 1 RD-1- -126    J 18-2-67      S         JAN. 4, 1825               
+ 133  143 2 S182003A      Y=22 N=22                TAZEWELL, VA.              
+ 133  143 3 TO AMEND THE BILL ABOLISHING IMPRISONMENT FOR DEBT, BY            
+ 133  143 4 ELIMINATING A PROVISION THAT OATH BE MADE AFFIRMING THERE         
+ 133  143 5 IS REASON TO BELIEVE THAT THE DEFENDANT INTENDS TO MOVE FROM      
+ 133  143 6 THE STATE OR TERRITORY OR INTENDS TO LEAVE THE U.S.               
+ 133  143 7 (P. 126-2)                                                        
+ 134   20 1               EX J 3-403     SRE       JAN. 5, 1825               
+ 134   20 2 E182001       Y=41 N=1                 BARBOUR, VA.               
+ 134   20 3 TO ADOPT A RESOLUTION (8 STAT. 302, 1-11-25), PROVIDING FOR       
+ 134   20 4 THE RATIFICATION OF THE CONVENTION CONCLUDED APR. 5, (17),        
+ 134   20 5 1824, AT ST. PETERSBURG BETWEEN THE U.S. AND THE                  
+ 134   20 6 RUSSIAN EMPEROR.                                                  
+ 135  144 1 RD-1- -230    J 18-2-71      S         JAN. 6, 1825               
+ 135  144 2 S182003B      Y=24 N=12                RUGGLES, OHIO              
+ 135  144 3 TO PASS S. 12, (6 STAT. 327, 3-3-25), A BILL FOR THE RELIEF       
+ 135  144 4 OF THOMAS L. OGDEN AND OTHERS OF NEW YORK, REAL ESTATE            
+ 135  144 5 OWNERS AT SACKETT HARBOR.                                         
+ 136   21 1               EX J 3-405     SRE       JAN. 13, 1825              
+ 136   21 2 E182002       Y=45 N=0                 BARBOUR, VA.               
+ 136   21 3 TO ADOPT A RESOLUTION (8 STAT. 298, 1-21-25), PROVIDING THAT      
+ 136   21 4 THE SENATE ADVISE AND CONSENT TO THE RATIFICATION OF THE          
+ 136   21 5 CONVENTION CONCLUDED FEB. 21, 1824, BETWEEN THE U.S. AND THE      
+ 136   21 6 BAY OF TUNIS.                                                     
+ 137   22 1               EX J 3-406A    SRE       JAN. 13, 1825              
+ 137   22 2 E182003       Y=47 N=0                 BENTON, MO.                
+ 137   22 3 TO ADOPT A RESOLUTION (7 STAT. 231, 1-18-25), PROVIDING THAT      
+ 137   22 4 THE SENATE ADVISE AND CONSENT TO THE RATIFICATION OF THE          
+ 137   22 5 TREATY BETWEEN THE U.S. AND THE IOWAY INDIANS, MADE AND           
+ 137   22 6 CONCLUDED 8-4-24.                                                 
+ 138   23 1               EX J 3-406B    SRE       JAN. 13, 1825              
+ 138   23 2 E182004       Y=45 N=0                 BENTON, MO.                
+ 138   23 3 TO ADOPT A RESOLUTION ( 7 STAT. 229, 1-18-25), PROVIDING          
+ 138   23 4 THAT THE SENATE ADVISE AND CONSENT TO THE RATIFICATION OF         
+ 138   23 5 THE TREATY BETWEEN THE U.S. AND THE SAC AND FOX INDIANS,          
+ 138   23 6 MADE AND CONCLUDED ON 8-4-24.                                     
+ 139   24 1               EX J 3-407     SRE       JAN. 3, 1825               
+ 139   24 2 E182005       Y=35 N=10                LLOYD, MASS.               
+ 139   24 3 TO CONSENT TO THE NOMINATION AND APPOINTMENT OF A GROUP OF        
+ 139   24 4 MIDSHIPMEN TO BE PROMOTED TO THE RANK OF LIEUTENANT IN THE        
+ 139   24 5 U.S. NAVY.                                                        
+ 140  145 1 RD-1- -230    J 18-2-93      S         JAN. 17, 1825              
+ 140  145 2 S182004       Y=20 N=23                VANBUREN, N.Y.             
+ 140  145 3 TO PASS THE BILL ABOLISHING IMPRISONMENT FOR DEBT.                
+ 140  145 4 (P. 126-2)                                                        
+ 141  146 1 RD-1- -342    J 18-1-108     S         JAN. 25, 1825              
+ 141  146 2 S182005A      Y=18 N=25                RUGGLES, OHIO              
+ 141  146 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL ALLOWING       
+ 141  146 4 A DRAWBACK ON EXPORTATION OF CORDAGE MANUFACTURED IN THE          
+ 141  146 5 U.S. FROM FOREIGN HEMP.                                           
+ 142  147 1 RD-1- -342    J 18-2-111     S         JAN. 25, 1825              
+ 142  147 2 S182005B      Y=30 N=12                BENTON, MO.                
+ 142  147 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 23, (4 STAT.         
+ 142  147 4 100,3-3-25), A BILL AUTHORIZING THE PRESIDENT TO CAUSE A          
+ 142  147 5 ROAD TO BE MARKED OUT FROM MISSOURI TO N.M.  (JP. 111)            
+ 143  148 1 RD-1- -407    J 18-2-125     S         FEB. 1, 1825               
+ 143  148 2 S182007       Y=37 N=10                BARBOUR, VA.               
+ 143  148 3 TO AMEND S. 19, (4 STAT. 131, 3-3-25), A BILL FOR                 
+ 143  148 4 SUPPRESSING PIRACY IN THE WEST INDIES, BY ELIMINATING THE         
+ 143  148 5 SECTION AUTHORIZING THE BLOCKADE OF CUBAN PORTS IF PIRATES        
+ 143  148 6 ARE KNOWN TO SEEK REFUGE THEREIN.  (P. 407-2)                     
+ 144  149 1 RD-1- -435    J 18-2-132     S         FEB. 3, 1825               
+ 144  149 2 S182008       Y=15 N=27                SMITH, MD.                 
+ 144  149 3 TO AMEND S. 19, BY MAKING AN ALLOWANCE OF $50.00 TO AID EACH      
+ 144  149 4 MERCHANTMAN TO ARM FOR THE SUPPRESSION OF PIRACY IN THE           
+ 144  149 5 WEST INDIES.  (P. 434)                                            
+ 145  150 1 RD-1- -461    J 18-2-139     S         FEB. 4, 1825               
+ 145  150 2 S182009       Y=21 N=22                TALBOT, KY.                
+ 145  150 3 TO AMEND S. 19, BY REGARDING DISTRIBUTION OF SALVAGE FROM         
+ 145  150 4 PIRATE SHIPS; THE PROPERTY OF CAPTURED PIRACTICAL VESSELS         
+ 145  150 5 REQUIRING BOND OF ARMED MERCHANT VESSELS FOR LAWFUL               
+ 145  150 6 CONDUCT; AND A FUND FOR SAILORS DISABLED IN ACTION WITH           
+ 145  150 7 PIRATES.  (P. 461)                                                
+ 146  151 1 RD-1- -462    J 18-2-140A    S         FEB. 4, 1825               
+ 146  151 2 S182010       Y=16 N=28                LOWRIE, PA.                
+ 146  151 3 TO AMEND S. 19, BY ELIMINATING THE SECTION AUTHORIZING THE        
+ 146  151 4 COMMANDER AND CREW OF ANY AUTHORIZED ARMED VESSEL TO LAND         
+ 146  151 5 ANYWHERE IN CUBA WHEN IN PURSUIT OF PIRATES AND TO DELIVER        
+ 146  151 6 THEM, ON CAPTURE, TO CUBA AUTHORITIES, OR TO RETURN THEM TO       
+ 146  151 7 THE UNITED STATES FOR TRIAL.  (P. 461-2)                          
+ 147  152 1 RD-1- -463    J 18-2-140B    S         FEB. 4, 1825               
+ 147  152 2 S182012A      Y=23 N=21                HOLMES, ME.                
+ 147  152 3 TO AMEND S. 19, BY ADDING A PROVISION THAT NO ARMED U.S.          
+ 147  152 4 VESSEL AUTHORIZED AND EMPLOYED TO SUPPRESS PIRACY CAN BE          
+ 147  152 5 USED TO TRANSPORT SPECIE OR ANY FREIGHT.  (P. 463)                
+ 148  153 1               J 18-2-145     S         FEB. 8, 1825               
+ 148  153 2 S182012B      Y=21 N=20                MILLS, MASS.               
+ 148  153 3 TO AMEND THE BILL FOR THE RELIEF OF ELENZER OLIVER AND            
+ 148  153 4 OTHERS, DIRECTORS OF AN ASSOCIATION CALLED THE NEW ENGLAND        
+ 148  153 5 MISSISSIPPI LAND COMPANY, BY ELIMINATING FROM THE BILL THE        
+ 148  153 6 WORD "NOT", THEREBY PROVIDING THAT THE CLAIM OF                   
+ 148  153 7 ELENZER OLIVER AND OTHERS BE GRANTED.  (JP. 145)                  
+ 149  154 1 RD-1- -558    J 18-2-155     HR        FEB. 11, 1825              
+ 149  154 2 S182013       Y=19 N=21                SMITH, MD.                 
+ 149  154 3 TO AMEND H.R. 277, (4 STAT. 82, 2-21-25), A BILL MAKING           
+ 149  154 4 APPROPRIATIONS FOR THE MILITARY SERVICE FOR 1825, BY              
+ 149  154 5 ELIMINATING THE CLAUSE APPROPRIATING $28,567 FOR MAKING           
+ 149  154 6 SURVEYS AND FOR OPERATING THE BOARD OF ENGINEERS,                 
+ 149  154 7 RELATIVE TO INTERNAL IMPROVEMENTS.  (P. 548)                      
+ 150  155 1 RD-1- -589    J 18-2-162     S         FEB. 15, 1825              
+ 150  155 2 S182014       Y=16 N=28                TAZEWELL, VA.              
+ 150  155 3 TO POSTPONE INDEFINITELY CONSIDERATION OF THE BILL AMENDING       
+ 150  155 4 THE UNITED STATES JUDICIAL SYSTEM AND PROVIDING FOR THE           
+ 150  155 5 ADDITIONAL CIRCUIT COURTS.  (P. 582)                              
+ 151   25 1               EX J 3-414A    SRE       FEB. 16, 1825              
+ 151   25 2 E182006       Y=31 N=3                 BENTON, MO.                
+ 151   25 3 TO ADOPT A RESOLUTION (7 STAT. 232, 11-15-24), PROVIDING          
+ 151   25 4 THAT THE SENATE ADVISE AND CONSENT TO THE RATIFICATION OF         
+ 151   25 5 THE TREATY BETWEEN THE U.S. AND THE QUOPAW INDIANS, MADE AND      
+ 151   25 6 CONCLUDED ON 11-15-24, AT HARRINGTONS' IN THE TERRITORY OF        
+ 151   25 7 ARKANSAS.                                                         
+ 152   26 1               EX J 3-414B    SRE       FEB. 16, 1825              
+ 152   26 2 E182007       Y=30 N=6                 BENTON, MO.                
+ 152   26 3 TO ADOPT A RESOLUTION (7 STAT. 234, 2-19-25), PROVIDING THAT      
+ 152   26 4 THE SENATE ADVISE AND CONSENT TO RATIFICATION OF THE TREATY       
+ 152   26 5 BETWEEN THE U.S. AND THE CHOCTAW INDIANS, MADE AND CONCLUDED      
+ 152   26 6 AT WASHINGTON CITY ON JAN. 1825.                                  
+ 153   27 1               EX J 3-417     SRE       FEB. 16, 1825              
+ 153   27 2 E182008       Y=37 N=5                 VANBUREN, N.Y.             
+ 153   27 3 TO ADOPT A RESOLUTION PROVIDING APPOINTMENT OF A.B. WOODWARD      
+ 153   27 4 OF FLORIDA TO BE A JUDGE OF THE U.S. FOR THE PART OF THE          
+ 153   27 5 TERRITORY OF FLORIDA SITUATED BETWEEN THE APPALACHICOLA AND       
+ 153   27 6 SWANNEE RIVERS.                                                   
+ 154  156 1 RD-1- -605    J 18-2-165     S         FEB. 16, 1825              
+ 154  156 2 S182015       Y=23 N=23                BARBOUR, VA.               
+ 154  156 3 TO RECOMMIT THE JUDICIARY ACT TO THE COMMITTEE ON THE             
+ 154  156 4 JUDICIARY, WITH INSTRUCTIONS TO AMEND THE BILL BY EXEMPTING       
+ 154  156 5 SUPREME COURT JUDGES FROM PERFORMING CIRCUIT DUTIES AND           
+ 154  156 6 INCREASING THE NUMBER OF CIRCUIT COURTS AND JUDGES.               
+ 154  156 7 (P. 605)                                                          
+ 155  157 1 RD-1- -619A   J 18-2-167     S         FEB. 17, 1825              
+ 155  157 2 S182016       Y=19 N=27                KING, N.Y.                 
+ 155  157 3 TO INDEFINITELY POSTPONE CONSIDERATION OF THE JUDICIARY ACT.      
+ 155  157 4 (P. 619)                                                          
+ 156  158 1 RD-1- -619B   J 18-2-168     S         FEB. 17, 1825              
+ 156  158 2 S182017       Y=21 N=25                MILLS, MASS.               
+ 156  158 3 TO RECOMMIT THE JUDICIARY ACT TO THE COMMITTEE ON THE             
+ 156  158 4 JUDICIARY WITH INSTRUCTIONS THAT THEY CONSIDER VARIOUS            
+ 156  158 5 PROPOSED PLANS AND TO REPORT ONE LIKELY TO BE FAVORED BY A        
+ 156  158 6 MAJORITY OF THE SENATE.  (P. 618)                                 
+ 157  159 1 RD-1-619C     J 18-2-169A    S         FEB. 17, 1825              
+ 157  159 2 S182018       Y=6 N=40                 TAZEWELL, VA.              
+ 157  159 3 TO AMEND THE JUDICIARY ACT BY INCLUDING A PROVISION THAT          
+ 157  159 4 THREE ADDITIONAL CIRCUIT JUDGES SHALL NOT BE SUPREME COURT        
+ 157  159 5 JUSTICES AND THAT THEY SHALL PERFORM ONLY THE DUTIES OF           
+ 157  159 6 CIRCUIT JUDGES.  (P. 619)                                         
+ 158  160 1 RD-1- -620    J 18-2-169B    S         FEB. 17, 1825              
+ 158  160 2 S182019       Y=28 N=17                VANBUREN, N.Y.             
+ 158  160 3 TO AMEND THE JUDICIARY ACT BY REDUCING TO TWO, THE NUMBER         
+ 158  160 4 OF CIRCUIT JUDGES PROVIDED FOR BY THE BILL.  (P. 620)             
+ 159  161 1 RD-1- -624    J 18-2-174A    SJR       FEB. 18, 1825              
+ 159  161 2 S182020       Y=13 N=29                VANBUREN, N.Y.             
+ 159  161 3 TO ORDER ENGROSSMENT OF THE JOINT RESOLUTION DIRECTING THE        
+ 159  161 4 PURCHASE AND DISTRIBUTION OF 630 COPIES OF 4 VOLUMES EACH         
+ 159  161 5 OF WAY AND GIDEON'S EDITION OF THE JOURNALS OF THE CONGRESS       
+ 159  161 6 OF THE CONFEDERATION.  (P. 624)                                   
+ 160  162 1 RD-1- -625    J 18-2-174B    S         FEB. 18, 1825              
+ 160  162 2 S182021       Y=20 N=22                HAYNE, S.C.                
+ 160  162 3 TO AMEND S. 29, A BILL AUTHORIZING THE PURCHASE OF THE            
+ 160  162 4 EQUESTRIAN PORTRAIT OF WASHINGTON BY REMBRANDT PEALE, BY          
+ 160  162 5 APPROPRIATING $5,000 FOR THE PURCHASE OF SAID PORTRAIT.           
+ 160  162 6 (P. 625)                                                          
+ 161  164 1 RD-1- -637A   J 18-2-181A    S         FEB. 22, 1825              
+ 161  164 2 S182024       Y=19 N=19                LOWRIE, PA.                
+ 161  164 3 TO AMEND THE BILL SUPPLEMENTARY TO AN ACT ENTITLED "AN ACT        
+ 161  164 4 ENABLING THE CLAIMANTS TO LANDS WITHIN THE STATE OF               
+ 161  164 5 MISSOURI AND THE TERRITORY OF ARKANSAS TO INSTITUTE PROCEED-      
+ 161  164 6 INGS TO TRY THE VALIDITY OF THEIR CLAIMS", APPROVED 5-26-24,      
+ 161  164 7 AND TO REPEAL A PART THEREOF, BY ELIMINATING THE SECTION          
+ 161  164 8 PROVIDING THAT A CLAIMANT EXCEEDING 1 SQUARE LEAGUE OF LAND       
+ 161  164 9 SHALL PROVE SAME BY SETTLEMENT IN THE DISTRICT COURT OF SAID      
+ 161  16410 STATE, AND ADDING A CLAUSE PROVIDING THAT NO CLAIMS SHALL         
+ 161  16411 EXTEND TO A LARGER THAN ONE LEAGUE SQUARE OF LAND.  (P. 637)      
+ 162  165 1 RD-1- -637B   J 18-2-181B    S         FEB. 22, 1825              
+ 162  165 2 S182025       Y=20 N=22                BARTON, MO.                
+ 162  165 3 TO ORDER ENGROSSMENT AND THIRD READING OF THE BILL                
+ 162  165 4 SUPPLEMENTARY TO AN ACT ENTITLED "AN ACT ENABLING THE             
+ 162  165 5 CLAIMANTS TO LAND WITHING MISSOURI AND THE TERRITORY OF           
+ 162  165 6 ARKANSAS TO INSTITUTE PROCEEDINGS TO TRY THE VALIDITY OF          
+ 162  165 7 THEIR CLAIMS," APPROVED 5-26-24, AND TO REPEAL A PART             
+ 162  165 8 THEREOF.  (P. 637)                                                
+ 163  166 1 RD-1-639      J 18-2-183     S         FEB. 22, 1825              
+ 163  166 2 S182026       Y=21 N=20                MILLS, MASS.               
+ 163  166 3 TO ORDER ENGROSSMENT AND THIRD READING OF S. 29, A BILL           
+ 163  166 4 AUTHORIZING THE PURCHASE OF THE EQUESTRIAN PORTRAIT OF            
+ 163  166 5 WASHINGTON BY REMBRANDT PEALE.  (P. 639)                          
+ 164  167 1 RD-1- -646    J 18-2-187     S         FEB. 23, 1825              
+ 164  167 2 S182027       Y=23 N=18                MILLS, MASS.               
+ 164  167 3 TO PASS S. 29, A BILL AUTHORIZING THE PURCHASE OF THE             
+ 164  167 4 EQUESTRIAN PORTRAIT OF WASHINGTON BY REMBRANDT PEALE.             
+ 164  167 5 (P. 646)                                                          
+ 165  168 1 RD-1-666      J 18-2-189     HR        FEB. 23, 1825              
+ 165  168 2 S182028       Y=19 N=25                COBB, GA.                  
+ 165  168 3 TO POSTPONE INDEFINETELY CONSIDERATION OF H.R. 14,                
+ 165  168 4 (4 STAT. 128, 3-3-25), A BILL APPROPRIATING $150,000 FOR          
+ 165  168 5 EXTENSION OF THE CUMBERLAND ROAD FROM CANTON, OHIO, TO            
+ 165  168 6 ZANESVILLE.  (P. 667)                                             
+ 166  163 1 RD-1-         J 18-2-177     HR        FEB. 24, 1825              
+ 166  163 2 S182023       Y=29 N=11                SMITH, MD.                 
+ 166  163 3 TO AMEND H.R. 280, (4 STAT. 92, 3-2-25), A BILL MAKING            
+ 166  163 4 APPROPRIATIONS FOR CERTAIN FORTIFICATIONS FOR 1825, BY            
+ 166  163 5 APPROPRIATING $30,000 FOR A FORT AT BEAUPORT, N.C., AND           
+ 166  163 6 $50,000 FOR FORTS AT CAPE FEAR.                                   
+ 167  169 1 RD-1-671A     J 18-2-192A    HR        FEB. 24, 1825              
+ 167  169 2 S182029       Y=12 N=33                HOLMES, ME.                
+ 167  169 3 TO AMEND H.R. 14, BY ELIMINATING ILLINOIS AND MISSOURI FROM       
+ 167  169 4 THE BILL, THEREBY CONFINING IT TO THE FUND EMANATING FROM         
+ 167  169 5 THE COMPACTS WITH OHIO AND INDIANA ONLY.  (P. 671)                
+ 168  170 1 RD-1- -671B   J 18-2-192B    HR        FEB. 24, 1825              
+ 168  170 2 S182030       Y=28 N=16                BROWN, LA.                 
+ 168  170 3 TO ORDER ENGROSSMENT AND THIRD READING OF H.R. 14.                
+ 169  171 1 RD-1- -678    J 18-2-194A    HR        FEB. 24, 1825              
+ 169  171 2 S182031       Y=10 N=31                TAZEWELL, VA.              
+ 169  171 3 TO AMEND H.R. 115, (4 STAT. 124, 3-3-25), A BILL AUTHORIZING      
+ 169  171 4 THE SUBSCRIPTION OF STOCK IN THE CHESAPEAKE AND DELAWARE          
+ 169  171 5 CANAL COMPANY, BY ADDING A PROVISO AUTHORIZING AND                
+ 169  171 6 DIRECTING THE SECRETARY OF TREASURY TO PURCHASE FOR THE U.S.      
+ 169  171 7 400 SHARES OF CAPITAL STOCK OF THE DISMAL SWAMP CANAL COM-        
+ 169  171 8 PANY.  (P. 672)                                                   
+ 170  172 1 RD-1- -681    J 18-2-194B    HR        FEB. 24, 1825              
+ 170  172 2 S182032       Y=24 N=18                BROWN, LA.                 
+ 170  172 3 TO ORDER THIRD READING OF H.R. 115, (4 STAT. 124, 3-3-25), A      
+ 170  172 4 BILL AUTHORIZING THE SUBSCRIPTION OF STOCK IN THE CHESAPEAKE      
+ 170  172 5 AND DELAWARE CANAL COMPANY.  (P. 681)                             
+ 171  173 1 RD-1- -713A   J 18-1-222     HR        MAR. 1, 1825               
+ 171  173 2 S182033A      Y=25 N=14                LOWRIE, PA.                
+ 171  173 3 TO TABLE H.R. 67, A BILL AUTHORIZING THE OCCUPATION OF THE        
+ 171  173 4 OREGON RIVER.                                                     
+ 172  174 1 RD-1- -713A   J 18-2-225A    HR        MAR. 1, 1825               
+ 172  174 2 S182033B      Y=7 N=30                 DICKERSON, N.J.            
+ 172  174 3 TO AMEND H.R. 86, (4 STAT. 115, 3-3-25), A BILL PROVIDING         
+ 172  174 4 MORE EFFECTUALLY FOR THE PUNISHMENT OF CERTAIN CRIMES             
+ 172  174 5 AGAINST THE U.S. AND FOR OTHER PURPOSES, BY ELIMINATING THE       
+ 172  174 6 PROVISION THAT IF A CRIME IS COMMITTED IN ANY OF THE              
+ 172  174 7 AFORESAID PLACES, PUNISHMENT FOR WHICH IS NOT PROVIDED BY         
+ 172  174 8 LAW, THE PUNISHMENT SHALL BE THE SAME AS PRESCRIBED BY THE        
+ 172  174 9 LAWS OF THE STATE IN WHICH SUCH FORT, DOCK, YARD, NAVY YARD,      
+ 172  17410 ARSENAL, ARMORY OR MAGAZINE IS SITUATED.  (JP. 225)               
+ 173  175 1 RD-1- -713B   J 18-2-225B    HR        MAR. 1, 1825               
+ 173  175 2 S182034       Y=31 N=6                 VANBUREN, N.Y.             
+ 173  175 3 TO ORDER ENGROSSMENT AND THIRD READING OF H.R. 86,                
+ 173  175 4 (4 STAT. 115, 3-3-25), A BILL PROVIDING MORE EFFECTUALLY FOR      
+ 173  175 5 PUNISHMENT OF CERTAIN CRIMES AGAINST THE U.S., AND FOR            
+ 173  175 6 OTHER PURPOSES.  (P. 713)                                         
+ 174  176 1 RD-1-         J 18-2-228     HR        MAR. 1, 1825               
+ 174  176 2 S182035       Y=20 N=7                 BARBOUR, VA.               
+ 174  176 3 TO ORDER THIRD READING OF H.R. 252, (4 STAT. 132, 3-3-25), A      
+ 174  176 4 BILL AUTHORIZING THE PAYMENT OF INTEREST DUE TO VIRGINIA.         
+ 175  177 1 RD-1          J 18-2-238     S         MAR. 2, 1825               
+ 175  177 2 S182036       Y=11 N=25                NOBLE, IND.                
+ 175  177 3 TO DISAGREE TO THE HOUSE AMENDMENT TO S. 60, (4 STAT. 125,        
+ 175  177 4 3-3-25), AN ACT FOR THE RELIEF OF JOHN JOHNSON OF INDIANA.        
+ 175  177 5 (JP. 238)                                                         
+ 176  178 1 RD-1          J 18-2-239     HR        MAR. 2, 1825               
+ 176  178 2 S182037       Y=22 N=11                DICKERSON, N.J.            
+ 176  178 3 TO ORDER THIRD READING OF H.R. 334, (4 STAT. 74, 3-3-25), A       
+ 176  178 4 BILL DECLARING THE ASSENT OF CONGRESS TO "AN ACT OF THE           
+ 176  178 5 GENERAL ASSEMBLY OF VIRGINIA, THEREING MENTIONED."                
+ 176  178 6 (JP. 239)                                                         
+ 177   28 1               EX J 3-424A    SRE       MAR. 3, 1825               
+ 177   28 2 E182009       Y=32 N=0                 BARBOUR, VA.               
+ 177   28 3 TO ADOPT A RESOLUTION (8 STAT. 306, 5-3-25), PROVIDING THAT       
+ 177   28 4 THE SENATE ADVISE AND CONSENT TO THE RATIFICATION OF A            
+ 177   28 5 GENERAL CONVENTION OF PEACE, AMITY, NAVIGATION AND COMMERCE       
+ 177   28 6 BETWEEN THE U.S. AND THE REPUBLIC OF COLUMBIA, CONCLUDED          
+ 177   28 7 OCT. 3, 1824, AT BOGOTA.                                          
+ 178   29 1               EX J 3-424B    SRE       MAR. 3, 1825               
+ 178   29 2 E182010       Y=38 N=4                 BENTON, MO.                
+ 178   29 3 TO ADOPT A RESOLUTION (7 STAT. 237, 3-7-25), PROVIDING THAT       
+ 178   29 4 THE SENATE ADVISE AND CONSENT TO THE RATIFICATION OF THE          
+ 178   29 5 CONVENTION BETWEEN THE U.S. AND THE CREEK INDIANS, MADE AND       
+ 178   29 6 CONCLUDED ON 2-12-25, AT INDIAN SPRINGS.                          

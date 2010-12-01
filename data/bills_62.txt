@@ -1,0 +1,2457 @@
+   1   26 1 CR-47-2-1075  J 62-1-55      HJR39     MAY 8, 1911                
+   1   26 2 S621001       Y=66 N=5                 BORAH, IDAHO               
+   1   26 3 TO PROCEED TO CONSIDERATION OF H.R. RES. 39, (3( STAT. 646,       
+   1   26 4 5-15-12), PROPOSING AN AMENDMENT TO THE CONSTITUTION PROVID-      
+   1   26 5 ING THAT SENATORS SHALL BE ELECTED BY THE PEOPLE OF THE           
+   1   26 6 SEVERAL STATES.  (P. 1075-1)                                      
+   2   27 1 CR-47-2-1183A J 62-1-61A     ELEC      MAY 11, 1911               
+   2   27 2 S621002       B=35 G=32                                           
+   2   27 3 TO ELECT A PRESIDENT PRO-TEMPORE VOTES FOR A.O. BACON (D)         
+   2   27 4 ARE CODED 1, FOR J.H. GALLINGER (R) ARE CODED 2, AND VOTES        
+   2   27 5 FOR OTHERS ARE CODED 8.                                           
+   3   28 1 CR-47-2-1183B J 62-1-61B     ELEC      MAY 11, 1911               
+   3   28 2 S621003       B=35 G=32                                           
+   3   28 3 TO ELECT A PRESIDENT PRO-TEMPORE.                                 
+   4   29 1 CR-47-2-1184  J 62-1-61C     ELEC      MAY 11, 1911               
+   4   29 2 S621004       B=35 G=32                                           
+   4   29 3 TO ELECT A PRESIDENT PRO-TEMPORE.                                 
+   5   30 1 CR-47-2-1186  J 62-1-61D     ELEC      MAY 11, 1911               
+   5   30 2 S621005       B=35 G=32                                           
+   5   30 3 TO ELECT A PRESIDENT PRO-TEMPORE.                                 
+   6   31 1 CR-47-2-1187A J 62-1-61E     PROC      MAY 11, 1911               
+   6   31 2 S621006       Y=35 N=42                CULLOM, ILL.               
+   6   31 3 THAT WHEN THE SENATE ADJOURN TODAY IT DO SO UNTIL MONDAY          
+   6   31 4 NEXT.  (P. 1187-1)                                                
+   7   32 1 CR-47-2-1187B J 62-1-62A     ELEC      MAY 11, 1911               
+   7   32 2 S621007       B=35 G=32                                           
+   7   32 3 TO ELECT A PRESIDENT PRO-TEMPORE.                                 
+   8   33 1 CR-47-2-1189A J 62-1-62B     ELEC      MAY 11, 1911               
+   8   33 2 S621008       B=35 G=32                                           
+   8   33 3 TO ELECT A PRESIDENT PRO-TEMPORE.                                 
+   9   34 1 CR-47-2-1189B J 62-1-62C     ELEC      MAY 11, 1911               
+   9   34 2 S621009       B=34 G=31                                           
+   9   34 3 TO ELECT A PRESIDENT PRO-TEMPORE.                                 
+  10   35 1 CR-47-2-1204  J 62-1-65A     ELEC      MAY 15, 1911               
+  10   35 2 S621010       B=33 G=33                                           
+  10   35 3 TO ELECT A PRESIDENT PRO-TEMPORE.                                 
+  11   36 1               J 62-1-65B     ELEC      MAY 15, 1911               
+  11   36 2 S621011       B=33 G=33                                           
+  11   36 3 TO ELECT A PRESIDENT PRO-TEMPORE.                                 
+  12   37 1 CR-47-2-1223  J 62-1-67A     ELEC      MAY 16, 1911               
+  12   37 2 S621012       B=30 G=29                                           
+  12   37 3 TO ELECT A PRESIDENT PRO-TEMPORE.                                 
+  13   38 1 CR-47-2-1224  J 62-1-67B     ELEC      MAY 16, 1911               
+  13   38 2 S621013       B=31 G=29                                           
+  13   38 3 TO ELECT A PRESIDENT PRO-TEMPORE.                                 
+  14   39 1 CR-47-2-1269  J 62-1-70A     ELEC      MAY 17, 1911               
+  14   39 2 S621014       B=32 G=30                                           
+  14   39 3 TO ELECT A PRESIDENT PRO-TEMPORE.                                 
+  15   40 1 CR-47-2-1270  J 62-1-70B     ELEC      MAY 17, 1911               
+  15   40 2 S621015       B=32 G=29                                           
+  15   40 3 TO ELECT A PRESIDENT PRO-TEMPORE.                                 
+  16   41 1 CR-47-2-1642  J 62-1-82A     PROC      MAY 29, 1911               
+  16   41 2 S621016       Y=19 N=52                LAFOLLETTE, WISC.          
+  16   41 3 TO ADJOURN, MOTION MADE DURING DEBATE ON S. RES. 6,               
+  16   41 4 (SUBSTITUTED BY S. RES. 51), APPOINTING A SPECIAL COMMITTEE       
+  16   41 5 TO INVESTIGATE CERTAIN CHARGES RELATIVE TO THE ELECTION OF        
+  16   41 6 WILLIAM LORIMER, SENATOR FROM ILLINOIS.  (P. 1642-2)              
+  17   42 1 CR-47-2-1645  J 62-1-82B     SRE6      MAY 29, 1911               
+  17   42 2 S621017       Y=11 N=55                HITCHCOCK, NEB.            
+  17   42 3 TO AMEND A SUBSTITUTE FOR S. 6, SO THAT A SPECIAL COMMITTEE       
+  17   42 4 FROM THE COMMITTEE ON PRIVILEGES AND ELECTIONS BE APPOINTED,      
+  17   42 5 SAID COMMITTEE WILL BE AUTHORIZED TO HOLD HEARINGS ON             
+  17   42 6 CONTESTED ELECTION OF SENATOR LORIMER.  (P. 1641-2)               
+  18   43 1 CR-47-2-1646  J 62-1-82C     PROC      MAY 29, 1911               
+  18   43 2 S621018       Y=50 N=17                MARTIN, VA.                
+  18   43 3 TO ADJOURN A MOTION MADE DURING DEBATE ON S. RES. 6.              
+  19   44 1 CR-47-2-1682A J 62-1-85A     SRE6      JUNE 1, 1911               
+  19   44 2 S621019       Y=48 N=20                MARTIN, VA.                
+  19   44 3 TO AGREE TO THE SUBSTITUTE FOR S. RES. 6, WHICH SUBSTITUTE        
+  19   44 4 PROPOSES THAT THE MATTER BE REFERRED TO THE COMMITTEE ON          
+  19   44 5 PRIVILEGES AND ELECTIONS.  (P. 1658-1)                            
+  20   45 1 CR-47-2-1682B J 62-1-85B     PROC      JUNE 1, 1911               
+  20   45 2 S621020       Y=43 N=24                LODGE, MASS.               
+  20   45 3 THAT WHEN THE SENATE ADJOURN, IT DO SO UNTIL MONDAY NEXT AT       
+  20   45 4 12 O'CLOCK.  (P. 1682-1)                                          
+  21   46 1 CR-47-2-1692C J 62-1-85E     PROC      JUNE 5, 1911               
+  21   46 2 S621021       Y=40 N=28                CULLOM, ILL.               
+  21   46 3 TO ADJOURN, A MOTION MADE DURING DEBATE ON THE ELECTION  OF       
+  21   46 4 AN ACTING PRESIDENT PRO-TEMPORE.  (P. 1692-2)                     
+  22   47 1 CR-47-2-1692A J 62-1-85C     ELEC      JUNE 5, 1911               
+  22   47 2 S621022       B=25 G=27                CULLOM, ILL.               
+  22   47 3 TO ELECT A PRESIDENT PRO-TEMPORE.  (P. 1692-1)                    
+  23   48 1 CR-47-2-1692B J 62-1-85D     ELEC      JUNE 5, 1911               
+  23   48 2 S621023       B=26 G=27                CULLOM, ILL.               
+  23   48 3 TO ELECT A PRESIDENT PRO-TEMPORE.  (P. 1692-2)                    
+  24   49 1 CR-47-2-1923  J 62-1-94A     HJR39     JUNE 12, 1911              
+  24   49 2 S621024       Y=44 N=44                BRISTOW, KAN.              
+  24   49 3 TO AMEND H.J.RES. 39, (37 STAT. 646, 5-15-12), PROPOSING AN       
+  24   49 4 AMENDMENT TO THE CONSTITUTION PROVIDING THAT SENATORS SHALL       
+  24   49 5 BE ELECTED BY THE PEOPLE OF THE SEVERAL STATES, SAID              
+  24   49 6 AMENDMENT, IN NATURE OF SUBSTITUTE, PROVIDING TO CHANGE THE       
+  24   49 7 PRESENT METHOD OF ELECTING THE SENATORS BY STRIKING OUT IN        
+  24   49 8 SEC. 3 THE WORDS "CHOSEN BY THE LEGISLATURE THERE-OF" AND         
+  24   49 9 SUBSTITUTE THE WORDS "ELECTED BY THE PEOPLE THEREOF".             
+  24   4910 (THE CHAIR VOTED IN THE AFFIRMATIVE)  (P. 1905-1,1906-1)          
+  25   50 1 CR-47-2-1924B J 62-1-94B     HJR39     JUNE 12, 1911              
+  25   50 2 S621026       Y=43 N=46                BACON, GA.                 
+  25   50 3 TO AMEND A SUBSTITUTE FOR H.J.RES. 39, BY LIMITING THE POWER      
+  25   50 4 OF CONGRESS OVER ELECTIONS TO SUCH CASES WHERE THE STATE          
+  25   50 5 LEGISLATURES NEGLECT, REFUSE, OR ARE INCAPABLE OF MAKING          
+  25   50 6 REGULATIONS.  (P. 1924-2)                                         
+  26   51 1 CR-47-2-1925  J 62-1-95      HJR39     JUNE 12, 1911              
+  26   51 2 S621027       Y=64 N=24                DILLINGHAM, VT.            
+  26   51 3 TO PASS H.J.RES. 39.                                              
+  27   52 1 CR-47-2-1966  J 62-1-96      HJR39     JUNE 13, 1911              
+  27   52 2 S621028       Y=33 N=33                REED, MO.                  
+  27   52 3 TO RECONSIDER THE VOTE ON PASSAGE AND ASK THE RETURN FROM         
+  27   52 4 THE HOUSE OF H.J.RES. 39 (37 STAT. 646-5-5-12).  (P. 1965-2)      
+  28   53 1 CR-47-3-2311  J 62-1-103     HR2958    JUNE 20, 1911              
+  28   53 2 S621029       Y=42 N=11                CULBERSON, TEXAS           
+  28   53 3 TO PROCEED TO CONSIDERATION OF H.R. 2958, (3( STAT. 25,           
+  28   53 4 8-19-11), A BILL AMENDING AN ACT ENTITLED, "AN ACT PROVIDING      
+  28   53 5 FOR THE PUBLICITY OF CONTRIBUTIONS MADE FOR THE PURPOSE OF        
+  28   53 6 INFLUENCING ELECTIONS AT WHICH REPRESENTATIVES IN CONGRESS        
+  28   53 7 ARE ELECTED."  (P. 2310-1)                                        
+  29   54 1 CR-47-3-2395  J 62-1-106A    PROC      JUNE 21, 1911              
+  29   54 2 S621030       Y=21 N=35                GALLINGER, N.H.            
+  29   54 3 TO ADJOURN, A MOTION MADE DURING DEBATE ON H.R. 11019, A          
+  29   54 4 BILL REDUCING THE DUTIES ON WOOL AND MANUFACTURE OF WOOL.         
+  29   54 5 (P. 2394-2)                                                       
+  30   55 1 CR-47-3-2403  J 62-1-106B    HR11019   JUNE 21, 1911              
+  30   55 2 S621031       Y=39 N=18                GORE, OKLA.                
+  30   55 3 TO REFER H.R. 11019, A BILL REDUCING THE DUTIES ON WOOL AND       
+  30   55 4 MANUFACTURES OF WOOL, TO THE COMMITTEE ON FINANCE, WITH           
+  30   55 5 INSTRUCTIONS THAT IT BE REPORTED BACK NOT LATER THAN THE          
+  30   55 6 10TH DAY OF JULY NEXT.  (P. 2403-1)                               
+  31   56 1 CR-47-3-2744  J 62-1-118     HR4412    JULY 8, 1911               
+  31   56 2 S621032       Y=14 N=32                CUMMINS, IOWA              
+  31   56 3 TO AMEND H.R. 4412, (3( STAT. 4, 7-26-11), PROMOTING              
+  31   56 4 RECIPROCAL TRADE RELATIONS WITHE CANADA, BY PLACING ON THE        
+  31   56 5 FREE LIST FRESH BEEF, VEAL, MUTTON, LAMB PORK AND ALL OTHER       
+  31   56 6 FRESH AND REFRIGERATED MEATS, EXCEPT GAME; BACON AND HAM NOT      
+  31   56 7 IN TINS AND JARS; MEATS OF ALL KINDS, DRIED, SMOKED, SALTED,      
+  31   56 8 IN BRINE OR PERSERVED IN, ANY MANNER, NOT OTHERWISE               
+  31   56 9 PROVIDED FOR; CANNED MEATS AND CANNED POULTRY; EXTRACT OF         
+  31   5610 MEAT, FLUID OR NOT; LARD AND ITS COMPOUNDS; COTTOLENE AND         
+  31   5611 COTTON STERINE; TALLOW; EGG YOLK; EGG ALBUMEN, AND BLOOD          
+  31   5612 ALBUMEN.  (P. 2742-2)                                             
+  32   57 1 CR-47-3-2781  J 62-1-119A    HR4412    JULY 10, 1911              
+  32   57 2 S621033       Y=14 N=52                CUMMINS, IOWA              
+  32   57 3 TO AMEND H.R. 4412, BY TRANSFERRING FROM THE RECIPROCAL           
+  32   57 4 DUTIABLE LIST TO THE FREE LIST TOMATOES AND OTHER                 
+  32   57 5 VEGETABLES, INCLUDING CORN IN CANS OR OTHER AIRTIGHT              
+  32   57 6 PACKAGES; WHEAT FLOUR AND SEMOLINA, AND RYE FLOUR; OATMEAL        
+  32   57 7 AND ROLLED OATS; CORN MEAL; BARLEY MALT:  POT, PEARLED OR         
+  32   57 8 PATENT; BUCKWHEAT FLOUR OR MEAL; DRIED SPLIT PEAS; PREPARED       
+  32   57 9 CEREALS NOT OTHERWISE PROVIDED FOR HEREIN; BRAN, MIDDLINGS        
+  32   5710 AND OTHER GRAIN OFFALS USED FOR ANIMAL FOODS; MACARONI AND        
+  32   5711 VERMICELLI; BISCUITS, CAKES, WAFERS WHEN SWEETENED OR             
+  32   5712 COMPOSED OF FLOUR, MEAL, COMBINED WITH CHOCOLATE, NUTS,           
+  32   5713 FRUITS AND CONFECTIONERY; CANDIED PEEL, POPCORN, NUTS FRUITS      
+  32   5714 SUGAR CANDY AND CONFECTIONERY OF ALL KINDS, MAPLE SUGAR AND       
+  32   5715 SYRUP; PICKLES, INCLUDING PICKLED NUTS; SAUSAGES OF ALL           
+  32   5716 KINDS; FISH PASTE AND SAUCE; CHERRY JUICE, PRUNE JUICE OR         
+  32   5717 PRUNE WINE, AND OTHER NON-ALCOHOLIC FRUIT JUICES AND FRUIT        
+  32   5718 SYRUPS.  (P. 2745-1)                                              
+  33   58 1 CR-47-3-2783  J 62-1-119B    HR4412    JULY 10, 1911              
+  33   58 2 S621034       Y=12 N=52                CUMMINS, IOWA              
+  33   58 3 TO AMEND H.R. 4412, BY TRANSFERRING FROM THE RECIPROCAL           
+  33   58 4 DUTIABLE LIST TO THE FREE LIST AGRICULTURAL IMPLEMENT OF          
+  33   58 5 ALL KINDS INCLUDING PORTABLE ENGINES WITH BOILERS IN              
+  33   58 6 COMBINATION AND HORSEPOWER OR TRACTION ENGINES FOR FARM           
+  33   58 7 PURPOSES.  (P. 2782-1)                                            
+  34   59 1 CR-47-3-2783  J 62-1-120A    HR4412    JULY 10, 1911              
+  34   59 2 S621035       Y=12 N=52                CUMMINS, IOWA              
+  34   59 3 TO AMEND H.R. 4412, BY REMOVING LUMBER FROM THE DUTIABLE          
+  34   59 4 LIST AND PLACING IT ON FREE LIST.  (P. 2783-1)                    
+  35   60 1 CR-47-3-2789A J 62-1-120B    HR4412    JULY 10, 1911              
+  35   60 2 S621036       Y=19 N=38                CUMMINS, IOWA              
+  35   60 3 TO AMEND H.R. 4412, BY GRANTING POWER TO THE PRESIDENT OF         
+  35   60 4 THE UNITED STATES TO REMOVE FROM THE CANADIAN TARIFF FREE         
+  35   60 5 LIST ARTICLES SPECIFIED IN PROCLAMATION.  (P. 2789-1)             
+  36   61 1 CR-47-3-2789B J 62-1-120C    HR4412    JULY 10, 1911              
+  36   61 2 S621037       Y=12 N=46                CUMMINS, IOWA              
+  36   61 3 TO AMEND H.R. 4412, BY ELIMINATING THE PROVISION GIVING THE       
+  36   61 4 PRESIDENT THE RIGHT TO ADMIT, FREE OF DUTY, CERTAIN               
+  36   61 5 ENUMERATED ARTICLES FROM CANADA, BY PROCLAMATION, UPON            
+  36   61 6 EVEDENCE THAT CANADA ADMITS FREE OF DUTY CERTAIN ARTICLES         
+  36   61 7 FROM THE U.S. AND TO REVOKE SUCH PROCLAMATION UPON PROOF          
+  36   61 8 THAT SUCH ADMISSION NO LONGER PREVAIL IN CANADA.  (P. 2784-2      
+  36   61 9 2785-1)                                                           
+  37   62 1 CR-47-3-2898  J 62-1-123     SRE74     JULY 13, 1911              
+  37   62 2 S621038       Y=37 N=18                WILLIAMS, MISS.            
+  37   62 3 TO AMEND S. RES. 74, ABOLISHING THE SENATE OFFICES OF SUPT.       
+  37   62 4 OF STATIONERY ROOM; ASST. POSTMASTER AND MAIL CARRIER;            
+  37   62 5 BY RETAINING JIM JONES ON THE PAYROLL AT AN ANNUAL SALARY         
+  37   62 6 OF $720.00, NOW AN UMEMPLOYED LABORER, (FORMERLY A LABORER        
+  37   62 7 ON THE PAYROLL AT AN ANNUAL SALARY OF $720.00, AN UNEMPLOYED      
+  37   62 8 LABORER, (FORMERLY A LABORER IN THE STATIONERY ROOM.)             
+  37   62 9 (P. 2897-1,2892-1)                                                
+  38   63 1 CR-47-3-2908  J 62-1-124     PROC      JULY 13, 1911              
+  38   63 2 S621039       Y=7 N=42                 NELSON, MINN.              
+  38   63 3 TO ADJOURN, A MOTION MADE DURING CONSIDERATION OF H.R. 4412.      
+  38   63 4 (P. 2907-2)                                                       
+  39   64 1 CR-47-3-2939  J 62-1-125     HR4412    JULY 14, 1911              
+  39   64 2 S621040       Y=8 N=39                 BRISTOW, KAN.              
+  39   64 3 TO AMEND H.R. 4412, BY REDUCING DUTY ON SUGAR, AND SUGAR          
+  39   64 4 PRODUCTS, IMPORTED INTO THE U.S. OR ITS POSSESSIONS,              
+  39   64 5 EXCEPT THE PHILLIPINE ISLANDS, GUAM, AND TUTUILA, FROM ANY        
+  39   64 6 FOREIGN COUNTRY.  (P. 2938-2)                                     
+  40   65 1 CR-47-3-3017  J 62-1-127     HR2958    JULY 17, 1911              
+  40   65 2 S621041       Y=50 N=7                 DILLINGHAM, VT.            
+  40   65 3 TO AGREE TO THE AMENDED AMENDMENT TO H.R. 2958,                   
+  40   65 4 "AN ACT PROVIDING FOR PUBLICITY OF CONTRIBUTIONS MADE FOR         
+  40   65 5 THE PURPOSE OF INFLUENCING ELECTIONS AT WHICH                     
+  40   65 6 REPRESENTATIVES IN CONGRESS ARE ELECTED, WHICH AMENDMENT          
+  40   65 7 REQUIRING EVERY CANDIDATE TO MAKE SWORN STATEMENTS OF EVERY       
+  40   65 8 PROMISE OR PLEDGE MADE BY HIM.  (P. 3016-2)                       
+  41   66 1 CR-47-3-3029  J 62-1-128A    PROC      JULY 18, 1911              
+  41   66 2 S621042       Y=24 N=27                SMOOT, UTAH                
+  41   66 3 TO ADJOURN, A MOTION MADE DURING CONSIDERATION OF H.R. 4412.      
+  42   67 1 CR-47-3-3031  J 62-1-128B    HR4412    JULY 18, 1911              
+  42   67 2 S621043       Y=26 N=25                LODGE, MASS.               
+  42   67 3 TO ADJOURN, A MOTION MADE DURING DEBATE ON H.R. 4412.             
+  42   67 4 (P. 3031-1)                                                       
+  43   68 1 CR-47-4-3168A J 62-1-132A    HR4412    JULY 22, 1911              
+  43   68 2 S621044       Y=16 N=64                MCCUMBER, N.D.             
+  43   68 3 TO AMEND H.R. 4412, BY REDUCING DUTIES ON ARTICLES USED BY        
+  43   68 4 FARMERS.  (P. 3167-2)                                             
+  44   69 1 CR-47-4-3168B J 62-1-132B    HR4412    JULY 22, 1911              
+  44   69 2 S621045       Y=23 N=58                NELSON, MINN.              
+  44   69 3 TO AMEND H.R. 4412, BY IMPOSING A PROTECTIVE DUTY ON FARM         
+  44   69 4 PRODUCTS AND LIVESTOCK TO HELP THE AMERICAN FARMERS.              
+  44   69 5 (P. 3168-2)                                                       
+  45   70 1 CR-47-4-3169A J 62-1-133A    HR4412    JULY 22, 1911              
+  45   70 2 S621046       Y=16 N=14                SIMMONS, N.C.              
+  45   70 3 TO AMEND H.R. 4412, BY PLACING ON THE FREE LIST MEATS AND         
+  45   70 4 POULTRY, AND MEAT BY-PRODUCTS IN ORDER TO GIVE CONSUMERS THE      
+  45   70 5 BENEFIT OF REDUCTIONS MADE ON FARM AND MANUFACTURED               
+  45   70 6 PRODUCTS.  (P. 3169-1)                                            
+  46   71 1 CR-47-4-3169B J 62-1-133B    HR4412    JULY 22, 1911              
+  46   71 2 S621047       Y=17 N=63                SIMMONS, N.C.              
+  46   71 3 TO AMEND H.R. 4412, BY PLACING ON THE FREE LIST FLOUR AND         
+  46   71 4 CEREALS OF ALL KINDS AND MANUFACTURED CEREAL PRODUCTS, IN         
+  46   71 5 ORDER TO GIVE CONSUMERS THE BENEFIT OF REDUCTIONS MADE ON         
+  46   71 6 FARM AND MANUFACTURED PRODUCTS.  (P. 3169-2)                      
+  47   72 1 CR-47-4-3170  J 62-1-133C    HR4412    JULY 22, 1911              
+  47   72 2 S621048       Y=17 N=64                CUMMINS, IOWA              
+  47   72 3 TO AMEND H.R. 4412, BY REDUCING DUTIES ON STEEL FORTY PER         
+  47   72 4 CENT.  (P. 3169-2)                                                
+  48   73 1 CR-47-4-3171  J 62-1-134     HR4412    JULY 22, 1911              
+  48   73 2 S621049       Y=16 N=64                LAFOLLETTE, WISC.          
+  48   73 3 TO AMEND H.R. 4412, BY REDUCING DUTIES ON WOOL MANUFACTURES       
+  48   73 4 FORTY-SEVEN PER CENT, IN ORDER TO PROVIDE RELIEF FROM THE         
+  48   73 5 EXCESSIVE DUTIES IMPOSED BY THE PAYNE ALDRICH TARIFF LAW.         
+  48   73 6 (P. 3170-2)                                                       
+  49   74 1 CR-47-4-3172A J 62-1-135     HR4412    JULY 22, 1911              
+  49   74 2 S621050       Y=15 N=63                LAFOLLETTE, WISC.          
+  49   74 3 TO AMEND H.R. 4412, BY REDUCING DUTIES ON COTTON MANUFACTURE      
+  49   74 4 FORTY-SEVEN PER CENT IN ORDER TO PROVIDE RELIEF FROM THE          
+  49   74 5 EXCESSIVE DUTIES IMPOSED BY THE PAYNE ALDRICH TARIFF LAW.         
+  49   74 6 (P. 3171-1,2)                                                     
+  50   75 1 CR-47-4-3172A J 62-1-136A    HR4412    JULY 22, 1911              
+  50   75 2 S621051       Y=11 N=67                LAFOLLETTE, WISC.          
+  50   75 3 TO AMEND H.R. 4412, BY EXEMPTING FROM DUTY, AFTER JAN. 1ST,       
+  50   75 4 1912, WHEN IMPORTED INTO THE U.S. OR ANY POSSESSION EXCEPT        
+  50   75 5 THE PHILIPPINE ISLANDS, GUAM, AND TUTUILA WOOD PULP, NEWS-        
+  50   75 6 PRINT PAPER, OTHER PAPER AND PAPER BOARD, VALUED AT NOT MORE      
+  50   75 7 THAN FOUR CENTS PER POUND, NOT INCLUDING PRINTED OR               
+  50   75 8 DECORATED WALLPAPER.  (P. 3171-1)                                 
+  51   76 1 CR-47-4-3172B J 62-1-136B    HR4412    JULY 22, 1911              
+  51   76 2 S621052       Y=15 N=63                BAILEY, TEX.               
+  51   76 3 TO AMEND H.R. 4412, BY EXEMPTING FROM DUTY AGRICULTURAL           
+  51   76 4 IMPLEMENTS, BAGGING FOR COTTON, HOOP IRON, BALING WIRE,           
+  51   76 5 LEATHER PRODUCTS, HARNESS AND SADDLERY, BARB WIRE, TIMBER,        
+  51   76 6 SERVING MACHINES AND SALT, IN ORDER TO BENEFIT AMERICAN           
+  51   76 7 FARMERS.  (P. 3172-2)                                             
+  52   77 1 CR-47-4-3173A J 62-1-136C    HR4412    JULY 22, 1911              
+  52   77 2 S621053       Y=15 N=64                MCCUMBER, N.D.             
+  52   77 3 TO AMEND H.R. 4412, BY BRINGING WITHIN THOSE ARTICLES             
+  52   77 4 RECIPROCALLY FREE HARNESS, SADDLES, SADDLERY IN SETS OR IN        
+  52   77 5 PART FINISHED OR UNFINISHED.  (P. 3172-2)                         
+  53   78 1 CR-47-4-3173B J 62-1-136D    HR4412    JULY 22, 1911              
+  53   78 2 S621054       Y=21 N=54                MCCUMBER, N.D.             
+  53   78 3 TO AMEND H.R. 4412, BY SUBJECTING TO DUTY ALL IMPORTATIONS        
+  53   78 4 NOW UNDER BOND OR IN BONDED WAREHOUSES IN THE U.S. AT TIME        
+  53   78 5 ACT BECOMES EFFECTIVE IN ORDER TO PREVENT THE FREE ADMISSION      
+  53   78 6 INTO THIS COUNTRY OF SOME 500,000 BUSHELS OF BARLEY FREE OF       
+  53   78 7 TARIFF.  (P. 3173-1)                                              
+  54   79 1 CR-47-4-3173C J 62-1-136E    HR4412    JULY 22, 1911              
+  54   79 2 S621055       Y=16 N=61                BRISTOW, KAN.              
+  54   79 3 TO AMEND H.R. 4412, BY LEVYING A FIFTEEN PER CENT AD VALOREM      
+  54   79 4 DUTY ON NEW TYPE AND ONE AND ONE HALF CENTS PER POUND ON          
+  54   79 5 TYPE METAL IMPORTED INTO THE U.S. OR ITS POSSESSIONS              
+  54   79 6 EXCEPT THE PHILIPPINES, GUAM AND TUTUILA.  (P. 3173-1)            
+  55   80 1 CR-47-4-3175A J 62-1-137A    HR4412    JULY 22, 1911              
+  55   80 2 S621056       Y=17 N=62                BAILEY, TEX.               
+  55   80 3 TO AMEND H.R. 4412, BY EXEMPTING FROM DUTY ALL MATERIALS          
+  55   80 4 USED FOR BAGGING COTTON, BURLAP BAGS OR SACKS;  HOOP OR BAND      
+  55   80 5 IRON USED FOR BAILING COTTON AND WIRE FOR BAILING HAY, STRAW      
+  55   80 6 AND OTHER AGRICULTURAL PRODUCTS.  (P. 3174-2)                     
+  56   81 1 CR-47-4-3175B J 62-1-137B    HR4412    JULY 22, 1911              
+  56   81 2 S621057       Y=53 N=27                                           
+  56   81 3 TO PASS H.R. 4412.  (P. 3175-1)                                   
+  57   82 1 CR-47-4-3277  J 62-1-147     HR11019   JULY 27, 1911              
+  57   82 2 S621058       Y=14 N=66                LAFOLLETTE, WISC.          
+  57   82 3 TO AMEND H.R. 11019, A BILL REDUCING THE DUTIES ON WOOL, AND      
+  57   82 4 MANUFACTURES OF WOOL, BY ELIMINATING SCHEDULE "K" THEREOF         
+  57   82 5 AND SUBSTITUTING THEREFORE A REVISED SCHEDULE CLASSIFYING         
+  57   82 6 WOOL, HAIR OF THE CAMEL, GOAT, ALPACA AND LIKE ANIMALS INTO       
+  57   82 7 TWO CLASSES, THE DUTY ON CLASS ONE TO BE 40% AD VALOREM, AND      
+  57   82 8 ON CLASS 2 TO BE 10% AD VALOREM.  (P. 3276-1,2, 3277-1)           
+  58   83 1 CR-47-4-3278A J 62-1-148A    HR11019   JULY 27, 1911              
+  58   83 2 S621059       Y=36 N=44                PENROSE, PA.               
+  58   83 3 TO PASS H.R. 11019.  (P. 3277-2)                                  
+  59   84 1 CR-47-4-3278B J 62-1-148B    HR11019   JULY 27, 1911              
+  59   84 2 S621060       Y=49 N=31                LAFOLLETTE, WISC.          
+  59   84 3 TO RECONSIDER VOTE PASSING H.R. 11019.                            
+  60   85 1 CR-47-4-3279  J 62-1-149A    HR11019   JULY 27, 1911              
+  60   85 2 S621061       Y=48 N=32                LAFOLLETTE, WISC.          
+  60   85 3 TO AMEND H.R. 11019, IN THE NATURE OF A SUBSTITUTE, BY            
+  60   85 4 ELIMINATING ALL OF SCHEDULE "K" IMPOSING A 40% TAX ON WOOL        
+  60   85 5 AND SUBSTITUTING THEREFORE A 35% DUTY THEREON, TO ENCOURAGE       
+  60   85 6 U.S. INDUSTRIES.  (P. 3278-2)                                     
+  61   86 1 CR-47-4-3280  J 62-1-149B    HR11019   JULY 27, 1911              
+  61   86 2 S621062       Y=48 N=32                LAFOLLETTE, WISC.          
+  61   86 3 TO PASS H.R. 11019.                                               
+  62   87 1 CR-47-4-3300  J 62-1-151     SRE118    JULY 28, 1911              
+  62   87 2 S621063       Y=18 N=33                PAYNTER, KY.               
+  62   87 3 TO AMEND S. RES. 118, AUTHORIZING THE EMPLOYMENT OF               
+  62   87 4 MESSENGERS BY CERTAIN COMMITTEES, BY APPOINTING A MESSENGER       
+  62   87 5 AT A SALARY OF $1,200 PER ANNUM TO EACH OF THE COMMITTEES,        
+  62   87 6 THE CHAIRMANSHIP OF WHICH HAS BEEN ASSIGNED TO THE MINORITY.      
+  62   87 7 (P. 3300-1)                                                       
+  63   88 1 CR-47-4-3431A J 62-1-153A    HR4413    AUG. 1, 1911               
+  63   88 2 S621064       Y=24 N=52                GRONNA, N.D.               
+  63   88 3 TO AMEND H.R. 4413, A BILL PLACING ON THE FREE LIST AGRICUL-      
+  63   88 4 TURAL IMPLEMENTS, COTTON BAGGING, COTTON TIES, LEATHER BOOTS      
+  63   88 5 AND SHOES, FENCE WIRE, MEATS, CEREALS, FLOUR, BREAD, TIMBER,      
+  63   88 6 LUMBER, SEWING MACHINES, SALT AND OTHER ARTICLES, BY ADDING       
+  63   88 7 TO THE FREE LIST COAL AND COKE OF ALL KINDS, INCLUDING COAL       
+  63   88 8 BLACK AND COMPOSITIONS USED FOR FUEL IN WHICH COAL OR COAL        
+  63   88 9 DUST IS THE COMPONENT MATERIAL OF CHIEF VALUE.  (P. 3430-2)       
+  64   89 1 CR-47-4-3431B J 62-1-153B    HR4413    AUG. 1, 1911               
+  64   89 2 S621065       Y=14 N=63                BAILEY, TEX.               
+  64   89 3 TO AMEND H.R. 4413, BY ELIMINATING FROM THE FREE LIST, BEEF,      
+  64   89 4 VEAL, MUTTON, LAMB, PORK AND MEATS OF ALL KINDS, FRESH,           
+  64   89 5 SALTED, PICKLED, DRIED, SMOKED, DRESSED OR UNDRESSED,             
+  64   89 6 PREPARED OR PRESERVED IN ANY MANNER, BACON, HAMS, SHOULDERS,      
+  64   89 7 LARD, LARD COMPOUNDS AND SUBSTITUTES, SAUSAGE AND SAUSAGE         
+  64   89 8 MEATS.  (P. 3431-1)                                               
+  65   90 1 CR-47-4-3431C J 62-1-153C    HR4413    AUG. 1, 1911               
+  65   90 2 S621066       Y=15 N=59                BAILEY, TEX.               
+  65   90 3 TO AMEND H.R. 4413, BY INCLUDING LEMONS ON THE FREE LIST.         
+  65   90 4 (P. 3431-2)                                                       
+  66   91 1 CR-47-4-3432A J 12-1-153D    HR4413    AUG. 1, 1911               
+  66   91 2 S621067       Y=6 N=72                 JONES, WASH.               
+  66   91 3 TO AMEND H.R. 1143, BY REMOVING FROM THE FREE LIST, TIMBER,       
+  66   91 4 HEWN, SIDED, OR SQUARED, ROUND TIMBER USED FOR SPARS OR IN        
+  66   91 5 BUILDING WHARVES, SHINGLES, LATHS, FENCING POSTS, SAWED           
+  66   91 6 BOARDS, PLANKS, DEALS AND OTHER LUMBER, ROUGH OR DRESSED,         
+  66   91 7 EXCEPT BOARDS, PLANKS, DEALS AND OTHER LUMBER, OF LIGNUM-         
+  66   91 8 VITAL, LANCERWOOD, EBONY, BOX, GRANADILLA, MAHOGANY, ROSE-        
+  66   91 9 WOOD, SATINWOOD, AND ALL OTHER CABINET WOODS.  (P. 3432-1E        
+  67   92 1 CR-47-4-3432B J 62-1-153E    HR4413    AUG. 1, 1911               
+  67   92 2 S621068       Y=39 N=39                                           
+  67   92 3 TO PASS H.R. 4413.  (P. 3432-2)                                   
+  68   93 1 CR-47-4-3433A J 62-1-154A    HR4413    AUG. 1, 1911               
+  68   93 2 S621069       Y=49 N=29                KERN, IND.                 
+  68   93 3 TO AMEND H.R. 4413, BY ADMITTING FREE OF DUTY, MEATS OF ALL       
+  68   93 4 KINDS, DRESSED OR UNDRESSED, FRESH OR PRESERVED IN ANY            
+  68   93 5 MANNER ALSO FLOUR, BRAN, MIDDLINGS AND OTHER OFFALS OF            
+  68   93 6 GRAINS; PREPARED CEREALS, DISCUITS, BREAD, WAFERS AND             
+  68   93 7 SIMILIAR ARTICLES NOT SWEETENED COMING FROM ANY FOREIGN           
+  68   93 8 COUNTRY WITH WHICH THE U.S. HAS A RECIPROCAL TRADE AGREEMENT      
+  68   93 9 PROVIDING THIS FOREIGN COUNTRY ADMITS FROM THE U.S. COTTON        
+  68   9310 CORN, WHEAT, OATS, HORSES, CATTLE AND HOGS, FREE OF DUTY.         
+  68   9311 (P. 3433-1)                                                       
+  69   94 1 CR-47-4-3433B J 62-1-154B    HR4413    AUG. 1, 1911               
+  69   94 2 S621070       Y=25 N=53                GORE, OKLA.                
+  69   94 3 TO AMEND H.R. 4413, BY PLACING ON THE FREE LIST WOOD PULP,        
+  69   94 4 NEWSPRINT AND OTHER PAPER, PAPER BOARD, NOT INCLUDING WALL        
+  69   94 5 PAPER.  (P. 3433-2)                                               
+  70   95 1 CR-47-4-3434  J 62-1-154C    HR4413    AUG. 1, 1911               
+  70   95 2 S621071       Y=30 N=45                LODGE, MASS.               
+  70   95 3 TO AMEND H.R. 4413, BY INCLUDING IN THE FREE LIST, RICE,          
+  70   95 4 CLEANED; UNCLEANED OR FREE OF THE OUTER HULL AND STILL            
+  70   95 5 HAVING THE INNER CUTICLE ON; RICE FLOUR, RICE MEAL, AND           
+  70   95 6 BROKEN RICE; PADDY OR RICE HAVING THE OUTER HULL ON.              
+  70   95 7 (P. 3434-2)                                                       
+  71   96 1 CR-47-4-3435  J 62-1-154D    HR4413    AUG. 1, 1911               
+  71   96 2 S621072       Y=48 N=30                                           
+  71   96 3 TO PASS H.R. 4413.                                                
+  72   97 1 CR-47-4-3556A J 62-1-157A    HR2983    AUG. 3, 1911               
+  72   97 2 S621073       Y=39 N=28                BURTON, OHIO               
+  72   97 3 TO AMEND H.R. 2983, (C-5-37 STAT-13, 8-8-11), A BILL              
+  72   97 4 APPORTIONING REPRESENTATIVES IN CONGRESS AMONG THE SEVERAL        
+  72   97 5 STATES UNDER THE THIRTEENTH CENSUS, BY PROVIDING THAT IN          
+  72   97 6 CASE OF AN INCREASE IN THE NUMBER OF REPRESENTATIVES IN ANY       
+  72   97 7 STATE, UNDER THE APPORTIONMENT SUCH ADDITIONAL REPRESENTAT-       
+  72   97 8 IVES SHALL BE ELECTED BY THE STATE AT LARGE UNTIL SUCH STATE      
+  72   97 9 SHALL BE REDISTRICTED AS PROVIDED BY LAW AND IN ACCORDANCE        
+  72   9710 WITH THE RULES ENUMERATED IN SEC. 3 OF THIS ACT.                  
+  72   9711 (P. 3555-2)                                                       
+  73   98 1 CR-47-4-3556B J 62-1-157B    HR2983    AUG. 3, 1911               
+  73   98 2 S621074       Y=29 N=38                REED, MO.                  
+  73   98 3 TO AMEND H.R. 2983, BY AUTHORIZING ELECTION OF SUCH               
+  73   98 4 ADDITIONAL REPRESENTATION AS MAY BE APPORTIONED TO ANY STATE      
+  73   98 5 BY THE STATE AT LARGE AND THE ELECTION OF OTHER REPRESEN-         
+  73   98 6 TATIVES BY THE DISTRICT NOW PRESCRIBED BY LAW UNTIL THE           
+  73   98 7 LEGISLATURE OR THE PEOPLE SHALL REDISTRICT THE STATE.             
+  73   98 8 (P. 3556-1)                                                       
+  74   99 1 CR-47-4-3557A J 62-1-157C    HR2983    AUG. 3, 1911               
+  74   99 2 S621075       Y=23 N=46                ROOT, N.Y.                 
+  74   99 3 TO AMEND H.R. 2983, BY PROVIDING THAT HOUSE MEMBERSHIP SHALL      
+  74   99 4 BE 391 MEMBERS.  (P. 3556-2)                                      
+  75  100 1 CR-47-4-3557B J 62-1-157D    HR2983    AUG. 3, 1911               
+  75  100 2 S621076       Y=22 N=47                MCCUMBER, N.D.             
+  75  100 3 TO AMEND H.R. 2983, BY PROVIDING THAT AFTER MAR. 3, 1913,         
+  75  100 4 THE HOUSE OF REPRESENTATIVES SHALL BE COMPOSED OF 405             
+  75  100 5 MEMBERS ALLOTTED AMONG THE STATES.  (P. 3557-2)                   
+  76  101 1 CR-47-4-3592  J 62-1-158A    HR12812   AUG. 4, 1911               
+  76  101 2 S621077       Y=12 N=51                OVERMAN, N.C.              
+  76  101 3 TO AMEND A MOTION TO REFER TO THE COMMITTEE ON FINANCE,           
+  76  101 4 H.R. 12812, A BILL REDUCING DUTIES ON MANUFACTURE OF COTTON,      
+  76  101 5 BY CHANGING, FROM THE 10TH OF AUGUST, TO THE 15TH OF AUGUST,      
+  76  101 6 THE DAY ON WHICH IT SHALL REPORT THE BILL BACK, IN ORDER TO       
+  76  101 7 ALLOW MORE TIME FOR COTTON-MILL OWNERS TO PRESENT THEIR CASE      
+  76  101 8 BEFORE THE COMMITTEE.  (P. 3592-2)                                
+  77  102 1 CR-47-4-3593  J 62-1-158B    HR12812   AUG. 4, 1911               
+  77  102 2 S621078       Y=38 N=26                MARTIN, VA.                
+  77  102 3 TO REFER TO THE COMMITTEE ON FINANCE, H.R. 12812, A BILL          
+  77  102 4 REDUCING THE DUTIES ON THE MANUFACTURE OF COTTON, WITH            
+  77  102 5 INSTRUCTIONS TO MAKE A CLERICAL CORRECTION THEREIN AND RE-        
+  77  102 6 TURN THE BILL TO SENATE WITHIN SIX DAYS.  (P. 3591-1)             
+  78  103 1 CR-47-4-3595  J 62-1-159     SRE       AUG. 4, 1911               
+  78  103 2 S621079       Y=49 N=0                 BAILEY, TEX.               
+  78  103 3 TO EXCLUDE FROM THE CONGRESSIONAL RECORDS A COMMUNICATION         
+  78  103 4 FROM DUNCAN WALKER, SON OF SENATOR ROBERT J. WALKER.              
+  78  103 5 (P. 3593-2)                                                       
+  79  104 1 CR-47-4-3742A J 62-1-163A    HJR14     AUG. 8, 1911               
+  79  104 2 S621080       Y=26 N=43                NELSON, MINN.              
+  79  104 3 TO AGREE TO AN AMENDMENT AS AMENDED TO H.J.RES. 14,               
+  79  104 4 (3( STAT. 39, 8-21-11), ADMITTING THE TERRITORIES OF              
+  79  104 5 NEW MEXICO AND ARIZONA AS STATES INTO THE UNION UPON AN           
+  79  104 6 EQUAL FOOTING WITH THE ORIGINAL STATES, WHICH AMENDMENT           
+  79  104 7 PROVIDES THAT IMMEDIATELY AFTER PASSAGE OF THIS RESOLUTION        
+  79  104 8 AND APPROVAL BY THE PRESIDENT, HE SHALL CERTIFY THAT FACT TO      
+  79  104 9 THE GOVERNORS OF NEW MEXICO AND ARIZONA WHO SHALL WITHIN 30       
+  79  10410 DAYS AFTER PROCLAMATION PROVIDE FOR AN ELECTION BY THE            
+  79  10411 QUALIFIED VOTERS OF ARIZONA, TO BE HELD NOT EARLIER THAN 60       
+  79  10412 DAYS NOR LATER THAN 90 DAYS THEREAFTER.  (P. 3695-2)              
+  80  105 1 CR-47-4-3742  J 62-1-163B    HJR14     AUG. 8, 1911               
+  80  105 2 S621081       Y=53 N=18                                           
+  80  105 3 TO PASS H.J.RES. 14, (NO. 8-37-STAT. 39, 8-251-11),               
+  80  105 4 ADMITTING THE TERRITORIES OF NEW MEXICO AND ARIZONA AS            
+  80  105 5 STATES INTO THE UNION UPON AN EQUAL FOOTING WITH THE              
+  80  105 6 ORIGINAL STATES.  (P. 3742-1)                                     
+  81  106 1 CR-47-4-3792  J 62-1-165     S854      AUG. 10, 1911              
+  81  106 2 S621082       Y=41 N=11                CUMMINS, IOWA              
+  81  106 3 TO PROCEED TO CONSIDERATION OF S. 854, (37 STAT. 30,              
+  81  106 4 8-22-11), A BILL TO MAKE FINAL REPORT ON OR BEFORE DEC. 4,        
+  81  106 5 1911, AND TO REPEAL SECTIONS 17, 18 AND 19, OF THE ACT            
+  81  106 6 ENTITLED "AN ACT TO AMEND THE NATIONAL BANKING LAWS",             
+  81  106 7 APPROVED MAY 30, 1908, THE REPEAL TO TAKE EFFECT                  
+  81  106 8 DEC. 5, 1911.  (P. 3792-1)                                        
+  82  107 1 CR-47-4-3827  J 62-1-167     HR12812   AUG. 11, 1911              
+  82  107 2 S621083       Y=16 N=24                SMOOT, UTAH                
+  82  107 3 TO CONSIDER H.R. 12812, A BILL REDUCING THE DUTIES ON             
+  82  107 4 MANUFACTURES OF COTTON.  (P. 3876-2)                              
+  83  108 1 CR-47-4-3895A J 62-1-172A    S854      AUG. 14, 1911              
+  83  108 2 S621084       Y=25 N=36                NEWLANDS, NEV.             
+  83  108 3 TO AMEND AN AMENDMENT TO S. 854, BY INSTRUCTING THE               
+  83  108 4 COMMISSION TO DRAFT AND REPORT FOR CONSIDERATION OF CONGRESS      
+  83  108 5 SUCH AMENDMENTS TO THE NATIONAL BANKING ACT AS MAY BE NECES-      
+  83  108 6 SARY AND ADVISABLE TO STRENGHTEN THE INDIVIDUAL NATIONAL AND      
+  83  108 7 STATE BANKS.  (P. 3894-1,2)                                       
+  84  109 1 CR-47-4-3895B J 62-1-172B    S854      AUG. 14, 1911              
+  84  109 2 S621085       Y=32 N=30                HEYBURN, IDAHO.            
+  84  109 3 TO AMEND AN AMENDMENT S. 854, BY REQUIRING THE COMMISSION TO      
+  84  109 4 MAKE FINAL REPORT ON OR BEFORE JAN. 8, 1912, INSTEAD OF           
+  84  109 5 MAY 1ST.  (P. 3895-1)                                             
+  85  110 1 CR-47-4-3896  J 62-1-173     S854      AUG. 14, 1911              
+  85  110 2 S621086       Y=56 N=6                 BURTON, OHIO               
+  85  110 3 TO AMEND AN AMENDMENT S. 854, BY PROHIBITING ANY SALARIED         
+  85  110 4 GOVERNMENT EMPLOYEE OF THE U.S. FROM RECEIVING ANY SALARY         
+  85  110 5 EMOLUMENT AS A MEMBER OR EMPLOYEE OF THE NATIONAL MONETARY        
+  85  110 6 COMMISSION.  (P. 3884-1)                                          
+  86  111 1 CR-47-4-3963  J 62-1-176     HR11019   AUG. 15, 1911              
+  86  111 2 S621087       Y=38 N=28                                           
+  86  111 3 TO AGREE TO THE REPORT OF CONFERENCE COMMITTEE TO H.R. 11019      
+  86  111 4 A BILL REDUCING THE DUTIES ON WOOL AND MANUFACTURES OF WOOL.      
+  86  111 5 (P. 3962-2)                                                       
+  87  112 1 CR-47-4-4049  J 62-1-179A    HR12812   AUG. 17, 1911              
+  87  112 2 S621088       Y=28 N=25                BACON, GA.                 
+  87  112 3 TO AMEND H.R. 12812, A BILL REDUCING THE DUTIES ON                
+  87  112 4 MANUFACTURES OF COTTON, BY REDUCING THE DUTIES ON CERTAIN         
+  87  112 5 ARTICLES MANUFACTURED OF STEEL OR IRON AND TO REDUCE TO 60%       
+  87  112 6 AND TO 70% PRESENT DUTY ON CERTAIN ARTICLES WHEN IMPORTED         
+  87  112 7 FROM FOREIGN COUNTRIES OR INTO U.S. POSSESSIONS, EXCEPT           
+  87  112 8 PHILLIPINE ISLANDS AND ISLANDS OF GUAM AND TUTUILA,               
+  87  112 9 PROVIDED THAT SUCH REDUCTION SHALL NOT APPLY SHOULD THIS          
+  87  11210 CONGRESS PLACE SUCH ARTICLES ON THE FREE LIST.  (P. 4048-1)       
+  88  113 1 CR-47-4-4050  J 62-1-179B    HR12812   AUG. 17, 1911              
+  88  113 2 S621089       Y=36 N=22                SIMMONS, N.C.              
+  88  113 3 TO AMEND H.R. 12812, BY LEVYING A DUTY OF 30% AD VALOREM ON       
+  88  113 4 ALL MACHINES AND PARTS, USED FOR CORDING, DRAWING, SLUBBING,      
+  88  113 5 ROVING, SPINNING, DOUBLING, WEAVING AND KNITTING COTTON, AND      
+  88  113 6 ALL OTHER MACHINES AND PARTS USED IN THE MANUFACTURE OF           
+  88  113 7 COTTON GOODS.  (P. 4049-2)                                        
+  89  114 1 CR-47-4-4053  J 62-1-181     HR12812   AUG. 17, 1911              
+  89  114 2 S621090       Y=27 N=22                OVERMAN, N.C.              
+  89  114 3 TO AMEND H.R. 12812, BY REDUCING DUTY ON CHEMICALS USED IN        
+  89  114 4 DYEING, TWENTY-FIVE PER CENT BELOW THEIR PRESENT AD VALOREM       
+  89  114 5 DUTY.  (P. 4050-1,2)                                              
+  90  115 1 CR-47-4-4057  J 62-1-182     HR12812   AUG. 17, 1911              
+  90  115 2 S621091       Y=24 N=33                JONES, WASH.               
+  90  115 3 TO AMEND H.R. 12812, BY REDUCING ALSO THE DUTIES ON SUGAR         
+  90  115 4 AND SUGAR PRODUCTS.  (P. 4054-1,2)                                
+  91  116 1 CR-47-4-4064  J 62-1-183A    HR12812   AUG. 17, 1911              
+  91  116 2 S621092       Y=10 N=51                LAFOLLETTE, WISC.          
+  91  116 3 TO AMEND H.R. 12812, IN THE NATURE OF A SUBSTITUTE, BY            
+  91  116 4 REDUCING THE DUTY ON COTTON TEXTILES AND COTTON PRODUCTS.         
+  91  116 5 (P. 4057-284058-1)                                                
+  92  117 1 CR-47-4-4066  J 62-1-183C    HR12812   AUG. 17, 1911              
+  92  117 2 S621093       Y=36 N=15                OLIVER, PA.                
+  92  117 3 TO DECIDE WHETHER GEORGE T. OLIVER BE EXCUSED FROM VOTING ON      
+  92  117 4 H.R. 12812.  (P. 4066-1)                                          
+  93  118 1 CR-47-4-4067  J 62-1-183B    HR12812   AUG. 17, 1911              
+  93  118 2 S621094       Y=29 N=24                                           
+  93  118 3 TO PASS H.R. 12812.  (P. 4067-1)                                  
+  94  119 1 CR-47- -4141  J 62-1-185     SJR57     AUG. 18, 1911              
+  94  119 2 S621094B      Y=53 N=9                 HEYBURN, IDAHO             
+  94  119 3 TO PASS S.J.RES. 57, ENABLING THE PEOPLE OF NEW MEXICO TO         
+  94  119 4 FORM A CONSTITUTION AND STATE GOVERNMENT AND BE ADMITTED          
+  94  119 5 INTO THE UNION ON AN EQUAL FOOTING WITH ORIGINAL STATES; AND      
+  94  119 6 ENABLING THE PEOPLE OF ARIZONA TO FORM A CONSTITUTION AND         
+  94  119 7 A STATE GOVERNMENT AND TO BE ADMITTED INTO THE UNION ON AN        
+  94  119 8 EQUAL FOOTING WITH THE ORIGINAL STATE.                            
+  95  121 1 CR-48-1-507   J 62-2-43      HJR166    DEC. 16, 1911              
+  95  121 2 S622002       Y=72 N=0                 LODGE, MASS.               
+  95  121 3 TO CONCUR IN AN AMENDMENT TO H.J.RES. 166, (37 STAT. 627,         
+  95  121 4 12-21-11), A RESOLUTION TO TERMINATE THE TREATY OF 1832 BE-       
+  95  121 5 TWEEN U.S. AND RUSSIA;  SAID AMENDMENT PROVIDING THAT THE         
+  95  121 6 TREATY BETWEEN U.S. AND RUSSIA BE TERMINATED UPON ITS EXPI-       
+  95  121 7 RATION ON 1-1-13, AND THAT EFFORTS BE RENEWED TO NEGOTIATE        
+  95  121 8 A MODERN TREATY OF FRIENDSHIP, COMMERCE AND NAVIGATION MORE       
+  95  121 9 PERFECTLY RESPONSIVE TO THE INTEREST OF BOTH GOVERNMENTS.         
+  96  120 1 CR- -1-506    J 62-2-42      HJR166    DEC. 19, 1911              
+  96  120 2 S622001       Y=16 N=54                HITCHCOCK, NEB.            
+  96  120 3 TO AMEND AN AMENDMENT TO H.J.RES. 166, (3( STAT. 627,             
+  96  120 4 12-21-11), PROVIDING FOR THE TERMINATION OF THE TREATY OF         
+  96  120 5 1832 BETWEEN THE U.S. AND RUSSIA, BY PROVIDING THAT THE           
+  96  120 6 PEOPLE OF THE U.S. ASSERT AS A FUNDAMENTAL PRINCIPLE THAT         
+  96  120 7 THE RIGHTS OF ITS CITIZENS SHALL NOT BE IMPAIRED AT HOME          
+  96  120 8 OR ABROAD BECAUSE OF RELIGION; THAT THE U.S. CONCLUDES ITS        
+  96  120 9 TREATY FOR EQUAL PROTECTION OF ALL CLASSES OF ITS CITIZENS        
+  96  12010 BECAUSE OF DISCRIMINATION BY RUSSIA, AND SAID TREATY WILL         
+  96  12011 HAVE NO FUTURE FORCE AND EFFECT FROM THE EXPIRATION OF ONE        
+  96  12012 YEAR FOLLOWING JANUARY 1ST. AFTER DATE OF NOTIFICATION BY         
+  96  12013 THE PRESIDENT TO THE GOVERNMENT OF RUSSIA.  (P. 504-2,            
+  96  12014 505-1)                                                            
+  97  122 1 CR-48-2-1057  J 62-2-90      SRE       JAN. 18, 1912              
+  97  122 2 S622003       Y=67 N=3                 FLETCHER, FLA.             
+  97  122 3 TO POINT IN THE RECORD THE PETITION OF SAMUEL GOMPERS THAT        
+  97  122 4 THE "HAND ROLLER" PROCESS IN THE MANUFACTURE OF CURRENCY,         
+  97  122 5 ETC.,BE NOT DISCONTINUED BY THE GOVERNMENT.                       
+  98  123 1 CR-48-2-1218  J 62-2-100     S4239     JAN. 23, 1912              
+  98  123 2 S622004       Y=21 N=34                SMOOT, UTAH                
+  98  123 3 TO PROCEED TO THE CONSIDERATION OF S. 4239, A BILL PROPOSING      
+  98  123 4 TO AMEND, REVISE, AND CODIFY THE LAWS RELATING TO PUBLIC          
+  98  123 5 PRINTING AND BINDING AND DISTRIBUTION OF GOVERNMENT               
+  98  123 6 PUBLICATIONS.  (P. 1217-2)                                        
+  99  124 1 CR-48-2-1483  J 62-2-110     S109      JAN. 29, 1912              
+  99  124 2 S622005       Y=17 N=30                GAMBLE, S.D.               
+  99  124 3 TO PASS S. 109, A BILL AUTHORIZING THE SALE AND DISPOSITION       
+  99  124 4 OF THE SURPLUS AND UNALLOTTED LANDS IN THE STANDING ROCK          
+  99  124 5 INDIAN RESERVATION, IN THE STATES OF SOUTH DAKOTA AND             
+  99  124 6 NORTH DAKOTA, AND MAKING APPROPRIATION AND PROVISION TO           
+  99  124 7 CARRY THE SAME INTO EFFECT.  (P. 1475-1)                          
+ 100  125 1 CR- -2-1565   J 62-2-113A    S252      JAN. 30, 1912              
+ 100  125 2 S622006       Y=30 N=46                OVERMAN, N.C.              
+ 100  125 3 TO AMEND S. 252, (37 STAT. 79, 4-9-12), A BILL ESTABLISHING       
+ 100  125 4 A CHILDRENS' BUREAU IN THE DEPARTMENT OF COMMERCE AND LABOR,      
+ 100  125 5 BY PROVIDING THAT THE BUREAU OF EDUCATION CAN COLLATE ALL         
+ 100  125 6 THE FACTS THAT ARE GIVEN IN THE CENSUS IN THE LABOR               
+ 100  125 7 BUREAU AND ELSEWHERE, AND GIVE THE INFORMATION ALL COLLATED       
+ 100  125 8 THAT IS DESIRED IN THE WELFARE OF CHILD LIFE.  (P. 1564-1)        
+ 101  126 1 CR-48-2-1575  J 62-2-113B    S252      JAN. 30, 1912              
+ 101  126 2 S622007       Y=30 N=42                THORNTON, LA.              
+ 101  126 3 TO AMEND S. 252, BY PROHIBITING ANY REPRESENTATIVE OF THE         
+ 101  126 4 BUREAU FROM ENTERING OR REMAINING IN A PRIVATE DWELLING,          
+ 101  126 5 IN ANY STATE, WITHOUT KNOWLEDGE OR CONSENT OF THE OCCUPANT.       
+ 101  126 6 (P. 1575-1)                                                       
+ 102  127 1 CR-48-2-1576  J 62-2-113C    S252      JAN. 30, 1912              
+ 102  127 2 S622008       Y=36 N=37                CULBERSON, TEX.            
+ 102  127 3 TO AMEND S. 252, BY PREVENTING ANY OFFICIAL OF THE CHILDRENS      
+ 102  127 4 BUREAU FROM ENTERING ANY RESIDENCE OVER THE OBJECTION OF THE      
+ 102  127 5 HEAD OF FAMILY UNDER PROVISION OF THIS ACT.  (P. 1575-2)          
+ 103  128 1 CR-48-2-1578  J 62-2-114     S252      JAN. 30, 1912              
+ 103  128 2 S622009       Y=39 N=34                CULBERSON, TEX.            
+ 103  128 3 TO AMEND S. 252, BY PREVENTING ANY OFFICIAL OF THE CHILDRENS      
+ 103  128 4 BUREAU FROM ENTERING ANY HOUSE USED EXCLUSIVELY AS A FAMILY       
+ 103  128 5 RESIDENCE OVER THE OBJECTION OF THE HEAD OF THE FAMILY.           
+ 103  128 6 (P. 1576-2)                                                       
+ 104  129 1 CR-48-2-1579  J 62-2-114B    S252      JAN. 30, 1912              
+ 104  129 2 S622010       Y=54 N=20                BORAH, IDA.                
+ 104  129 3 TO PASS S. 252.  (P. 188-1)                                       
+ 105  130 1 CR- -3-2502   J 62-2-172     SRE       FEB. 27, 1912              
+ 105  130 2 S622011       Y=24 N=37                GALLINGER, N.H.            
+ 105  130 3 TO TABLE THE RESOLUTION REQUESTING THE SECRETARY OF COMMERCE      
+ 105  130 4 AND LABOR TO INQUIRE FULLY INTO AND REPORT TO THE SENATE ON       
+ 105  130 5 THE CONDITION OF MILL WORKERS IN LAWRENCE MASSACHUSETTS.          
+ 105  130 6 (P. 2502-1)                                                       
+ 106    1 1 CR-48-3-2953A EX J 44-       SRE       MAR. 7, 1912               
+ 106    1 2 E622001       Y=42 N=40                CULLOM, ILL.               
+ 106    1 3 TO AMEND THE TREATIES OF ARBITRATION BETWEEN                      
+ 106    1 4 GREAT BRITAIN AND FRANCE AND THE U.S., WHICH AMENDMENT            
+ 106    1 5 ELIMINATES A PARAGRAPH AGREEING TO SUBMIT TO THE JOINT            
+ 106    1 6 HIGH COMMISSION OF INQUIRY ANY CASES OF DISAGREEMENT BY THE       
+ 106    1 7 PARTIES AS TO WHETHER OR NOT A DIFFERENCE IS SUBJECT TO           
+ 106    1 8 ARBITRATION BY THE COURT OF ARBITRATION AT THE HAGUE, AND         
+ 106    1 9 REFERRING ALL SUCH CASES FOR ARBITRATION IF ALL, OR ALL BUT       
+ 106    110 ONE, OF THE COMMISSIONERS AGREE THAT THAT QUESTION IS             
+ 106    111 WITHIN THE SCOPE OF ARTICLE I (DEFINING, TYPES OF QUESTIONS       
+ 106    112 TO BE SETTLED BY ARBITRATION UNDER THE HAGUE CONSTITUTION)        
+ 107    2 1 CR-48-3-2953B EX J 44-204A   SRE       MAR. 7, 1912               
+ 107    2 2 E622013       Y=37 N=45                CULBERSON, TEX.            
+ 107    2 3 TO AMEND THE TREATY, BY EXCEPTING FROM ARBITRATION BY THE         
+ 107    2 4 HAGUE COURT ANY QUESTIONS WHICH AFFECT THE VITAL INTEREST,        
+ 107    2 5 THE INDEPENDENCE, OR THE HONOR OF EITHER OF THE TWO               
+ 107    2 6 CONTRACTING PARTIES, OR ANY QUESTION CONCERNING THE               
+ 107    2 7 INTEREST OF THIRD PARTIES.  (P. 2953-1)                           
+ 108    3 1 CR-48-3-2954B EX J 44-204B   SRE       MAR. 7, 1912               
+ 108    3 2 E622014       Y=41 N=41                BACON, GA.                 
+ 108    3 3 TO AMEND THE TREATIES, BY EXCLUDING FROM ARBITRATION BY THE       
+ 108    3 4 HAGUE COURT ANY QUESTIONS AFFECTING THE ADMISSION OF ALIENS       
+ 108    3 5 INTO THE U.S., OR THEIR ADMISSION TO SCHOOLS HERE; OR THE         
+ 108    3 6 TERRITORIAL INTEGRITY OF THE SEVERAL STATES, OR QUESTIONS OF      
+ 108    3 7 ANY STATES' FINANCIAL OBLIGATIONS, OR ANYTHING CONCERNING         
+ 108    3 8 THE MONROE DOCTRINE.  (P. 2954-1)                                 
+ 109    4 1 CR-48-3-2954B EX J 44-205    SRE       MAR. 7, 1912               
+ 109    4 2 E622015       Y=41 N=38                CHAMBERLAIN, ORE.          
+ 109    4 3 TO AMEND THE TREATIES, BY EXCLUDING FROM ARBITRATION BY THE       
+ 109    4 4 HAGUE COURT OF ANY QUESTION AFFECTING THE ADMISSION OF            
+ 109    4 5 ALIENS INTO THE U.S., OR TO THEIR ADMISSION TO SCHOOLS.           
+ 109    4 6 (P. 2954-2)                                                       
+ 110    5 1 CR-48-3-2955A EX J 44-20     SRE       MAR. 7, 1912               
+ 110    5 2 E622016       Y=46 N=36                BACON, GA.                 
+ 110    5 3 TO AMEND THE TREATIES BY OFFERING A SUBSTITUTE EXCLUDING          
+ 110    5 4 FROM ARBITRATION BY THE HAGUE COURT AN QUESTION AFFECTING         
+ 110    5 5 THE ADMISSION OF ALIENS, OR THE TERRITORIAL INTEGRITY OF THE      
+ 110    5 6 STATES, OR CONCERNING THE INDEBTEDNESS OF ANY STATE, OR           
+ 110    5 7 INVOLVING MAINTENANCE OF MONROE DOCTRINE.  (P. 2924-2)            
+ 111    6 1 CR-48-3-2955B EX J 44-207    SRE       MAR. 7, 1912               
+ 111    6 2 E622017       Y=76 N=3                 BACON, GA.                 
+ 111    6 3 TO PASS THE AMENDED RESOLUTION PROVIDING THAT THE SENATE          
+ 111    6 4 ADVISE AND CONSENT TO THE RATIFICATION OF THE TREATY              
+ 111    6 5 BETWEEN THE U.S. AND GREAT BRITAIN WITH THE UNDERSTANDING         
+ 111    6 6 THAT THE TREATY DOES NOT AUTHORIZE SUBMISSION TO ANY ARBI-        
+ 111    6 7 TRATION OF QUESTION WHICH AFFECTS THE ADMISSION OF ALIENS         
+ 111    6 8 INTO THE U. S., SUCH PROVISO TO BECOME PART OF THE                
+ 111    6 9 RATIFICATION.  (P. 2954-2)                                        
+ 112  131 1 CR-48-4-3137  J 62-2-201A    S4623     MAR. 11, 1912              
+ 112  131 2 S622018       Y=12 N=47                SMITH, GA.                 
+ 112  131 3 TO AMEND S. 4623, (37 STAT. 1048, 5-9-12), A BILL GRANTING        
+ 112  131 4 PENSIONS TO CERTAIN SOLDIERS AND SAILORS OF THE CIVIL WAR         
+ 112  131 5 AND CERTAIN WIDOWS AND DEPENDENT RELATIVES OF SUCH SOLDIERS       
+ 112  131 6 AND SAILORS, BY PROHIBITING PAYMENTS OF SPECIAL PENSIONS          
+ 112  131 7 CONTAINED IN BILL TO CLAIMANTS UNTIL THE PENSION BUREAU           
+ 112  131 8 INVESTIGATES AND FINDS THAT SAID CLAIMANT DID NOT ENTER THE       
+ 112  131 9 SERVICE FOR A BOUNTY OR OTHER CONSIDERATION.  (P. 3136-1)         
+ 113  132 1 CR-48-4-3140  J 62-2-201B    S4623     MAR. 11, 1912              
+ 113  132 2 S622019       Y=4 N=50                 BRYAN, FLA.                
+ 113  132 3 TO AMEND S. 4623, (37 STAT. 1048, 5-9-12), A BILL GRANTING        
+ 113  132 4 PENSIONS AND INCREASE OF PENSIONS TO CERTAIN SOLDIERS AND         
+ 113  132 5 SAILORS OF THE CIVIL WAR AND CERTAIN WIDOWS AND DEPENDENT         
+ 113  132 6 RELATIVES OF SUCH SOLDIERS AND SAILORS BY ELIMINATING THE         
+ 113  132 7 NAME OF FRANCIS M. COX, LATE OF CO. B- 44TH REGIMENT              
+ 113  132 8 INDIANA VOLUNTEER INFANTRY, FROM THE PENSION LIST.                
+ 113  132 9 (P. 3137-2)                                                       
+ 114  133 1 CR-48-4-3604  J 62-2-218A    HR17681   MAR. 19, 1912              
+ 114  133 2 S622020       Y=36 N=13                GALLINGER, N.H.            
+ 114  133 3 TO AGREE TO THE AMENDMENT TO H.R. 17681, (37 STAT. 139,           
+ 114  133 4 6-26-12), A BILL MAKING APPROPRIATIONS FOR THE EXPENSES OF        
+ 114  133 5 THE GOVERNMENT OF THE DISTRICT OF COLUMBIA THE YEAR ENDING        
+ 114  133 6 JUNE 30, 1913, WHICH AMENDMENT INCREASES THE SALARIES OF THE      
+ 114  133 7 TWO COMMISSIONERS FROM $5,000 TO $6,000 PER ANNUM EACH.           
+ 114  133 8 (P. 3600-2,3602-2,3603-1)                                         
+ 115  134 1 CR-48-4-3606  J 62-2-218B    HR17681   MAR. 19, 1912              
+ 115  134 2 S622021       Y=35 N=13                GALLINGER, N.H.            
+ 115  134 3 TO AGREE TO THE AMENDMENT TO H.R. 17681, (37 STAT. 739,           
+ 115  134 4 (6-26-12), A BILL MAKING APPROPRIATIONS FOR THE EXPENSES OF       
+ 115  134 5 THE GOVERNEMNT OF THE DISTRICT OF COLUMBIA YEAR ENDING            
+ 115  134 6 JUNE 30, 1913, WHICH AMENDMENT ELIMINATES THE CLAUSE WHICH        
+ 115  134 7 PROVIDES THAT ONE-HALF OF THE FEES COLLECTED ON ACCOUNT OF        
+ 115  134 8 PERMITS, CERTIFICATES, AND TRANSCRIPTS OF RECORDS ISSUED BY       
+ 115  134 9 THE INSPECTOR OF BUILDINGS OF THE DISTRICT OF COLUMBIA SHALL      
+ 115  13410 BE PAID TO THE CREDIT OF THE U.S. THEREBY PERMITTING THE          
+ 115  13411 DISTRICT OF COLUMBIA TO RETAIN SAID INCOME.  (P. 365-1)           
+ 116  135 1 CR-48-4-3678  J 62-2-221     S5045     MAR. 20, 1912              
+ 116  135 2 S622022       Y=6 N=39                 SMITH, GA.                 
+ 116  135 3 TO AMEND THE BILL (S. 5045) (APP 5/19/1912) (37 STAT 7026)        
+ 116  135 4 GRANTING PENSIONS AND INCREASE OF PENSIONS TO CERTAIN             
+ 116  135 5 SOLDIERS AND SAILORS OF THE CIVIL WAR AND CERTAIN WIDOWS          
+ 116  135 6 AND DEPENDENT RELATIVES OF SUCH SOLDIERS AND SAILORS,             
+ 116  135 7 BY REMOVING THE NAME OF ABNER CLEMENT FROM PENSION LIST           
+ 116  135 8 WHICH WOULD INCREASE PENSION FROM $12.00 TO $24.00 PER            
+ 116  135 9 MONTH.  (P 3676-1                                                 
+ 117  136 1 CR-48-4-3830  J 62-2-232     PROC      MAR. 26, 1912              
+ 117  136 2 S622023       Y=17 N=36                CULBERSON, TEX.            
+ 117  136 3 TO RECESS UNTIL 11 O'CLOCK TOMORROW MORNING A MOTION MADE         
+ 117  136 4 DURING DEBATE ON S. RES. 223, INVESTIGATING CERTAIN CHARGES       
+ 117  136 5 AGAINST ISAAC STEPHENSON, A SENATOR FROM THE STATE OF WISC.       
+ 117  136 6 (P. 3829-2)                                                       
+ 118  137 1 CR-48-4-3831  J 62-2-233A    SRE223    MAR. 26, 1912              
+ 118  137 2 S622024       Y=27 N=29                JONES, WASH.               
+ 118  137 3 TO PASS THE RESOLUTION IN THE NATURE OF A SUBSTITUTE FOR          
+ 118  137 4 S. RES. 223, WHICH SUBSTITUTE DECLARES THAT ISAAC STEPHENSON      
+ 118  137 5 WAS NOT DULY AND LEGALLY ELECTED TO A SEAT IN THE U.S.            
+ 118  137 6 SENATE BY THE LEGISLATURE OF THE STATE OF WISC.  (P. 3830-2)      
+ 119  138 1 CR-48-4-3896  J 62-2-233B    SRE223    MAR. 27, 1912              
+ 119  138 2 S622025       Y=40 N=34                HEYBURN, IDAHO             
+ 119  138 3 TO PASS THE REPORT OF A COMMITTEE ON PRIVILEGES AND               
+ 119  138 4 ELECTIONS, ON S. RES. 223, WHICH REPORT STATES THAT               
+ 119  138 5 MR. STEPHENSON IS ENTITLED TO A SEAT AS SENATOR FROM WISC.,       
+ 119  138 6 IN THE UNITED STATES SENATE.  (P. 3875-1)                         
+ 120  139 1 CR-48-4-4003  J 62-2-241A    HR1       MAR. 29, 1812              
+ 120  139 2 S622026       Y=22 N=44                HEYBURN, IDAHO             
+ 120  139 3 TO AMEND H.R. 1, (3( STAT. L. 112, 5-12-12), A BILL GRANTING      
+ 120  139 4 SERVICE PENSIONS TO CERTAIN DEFINED VETERANS OF THE CIVIL         
+ 120  139 5 WAR AND THE WAR WITH MEXICO, BY PROVIDING THAT ANY PERSON         
+ 120  139 6 WHO ENLISTED IN THE MILITARY OR NAVAL SERVICE OF THE U.S.,        
+ 120  139 7 DURING THE CIVIL WAR, WHO HAS BEEN HONORABLY DISCHARGED,          
+ 120  139 8 SHALL BE ENTITLED TO A PENSION WITHOUT ANY LIMITATION             
+ 120  139 9 AS TO TIME OF SERVICE.  (P. 4002-2)                               
+ 121  140 1 CR-48-4-4004A J 62-2-241B    HR1       MAR. 29, 1912              
+ 121  140 2 S622027       Y=34 N=29                BROWN, NEB.                
+ 121  140 3 TO AMEND H.R. 1, BY PAYING A PENSION OF $30. A MONTH TO ANY       
+ 121  140 4 HONORABLY DISCHARGED CIVIL WAR VETERAN, ARMY OR NAVAL             
+ 121  140 5 SERVICE, WOUNDED IN SERVICE BY REASON THEREOF AND UNFIT FOR       
+ 121  140 6 MANUAL LABOR, REGARDLESS OF AGE OR LENGTH OF SERVICE              
+ 121  140 7 ENLISTED.  (P. 4003-2)                                            
+ 122  141 1 CR-48-4-4004B J 62-2-241C    HR1       MAR. 29, 1912              
+ 122  141 2 S622028       Y=25 N=41                CURTIS, KAN.               
+ 122  141 3 TO AMEND AN AMENDMENT TO H.R. 1, BY SETTING UP A PENSION          
+ 122  141 4 SCHEDULE REGULATING THE AMOUNT TO BE PAID IN ACCORDANCE WITH      
+ 122  141 5 LENGTH OF SERVICE, THE MAXIMUM PENSION TO BE $30. PER MONTH.      
+ 122  141 6 (P. 4004-1)                                                       
+ 123  142 1 CR-48-4-4005  J 62-2-241D    HR1       MAR. 29, 1912              
+ 123  142 2 S622029       Y=25 N=41                JONES, WASH.               
+ 123  142 3 TO AMEND H.R. 1, BY GIVING A PENSION OF $24.00 PER MONTH TO       
+ 123  142 4 WIDOWS VETERANS OF THE WAR TO BEGIN FROM THE DATE OF FILING       
+ 123  142 5 OF APPLICATIONS.  (P. 4005-1)                                     
+ 124  143 1 CR-48-4-4010  J 62-2-242A    HR1       MAR. 29, 1912              
+ 124  143 2 S622030       Y=29 N=36                BURNHAM, N.H.              
+ 124  143 3 TO AMEND H.R. 1, BY SETTING UP A GRADUATED SCHEDULE OF            
+ 124  143 4 PENSIONS BEGINNING AT AGE 62 YEARS, PROVIDING THAT                
+ 124  143 5 APPLICANTS WHO HAVE SERVED 90 DAYS OR MORE ARE TO BE GIVEN        
+ 124  143 6 $12 PER MONTH, AND PROVIDING FOR AN INCREASE OF $1.50 FOR         
+ 124  143 7 EACH SIX MONTHS' ADDITIONAL SERVICE, UNTIL REACHING THE           
+ 124  143 8 MANIMUM OF $30 PER MONTH.  (P. 4006-1)                            
+ 125  144 1 CR-48-4-4011  J 62-2-242B    HR1       MAR. 29, 1912              
+ 125  144 2 S622031       Y=30 N=36                WILLIAMS, MISS.            
+ 125  144 3 TO AMEND H.R. 1, BY DENYING A PENSION TO ANYONE WHO HAS AN        
+ 125  144 4 INCOME OF $1.200 A YEAR OR OVER.  (P. 4010-2)                     
+ 126  145 1 CR-48-4-4012  J 62-2-242D    HR1       MAR. 29, 1912              
+ 126  145 2 S622032       Y=34 N=32                LEA, TENN.                 
+ 126  145 3 TO AMEND H.R. 1, BY INSERTING THAT NO PERSON WITH AN INCOME       
+ 126  145 4 OF $2,400, PER YEAR SHALL RECEIVE A PENSION UNDER THIS ACT.       
+ 126  145 5 (P. 4012-2)                                                       
+ 127  146 1 CR-48-4-4012  J 62-2-242C    HR1       MAR. 29, 1912              
+ 127  146 2 S622033       Y=26 N=36                WILLIAMS, MISS.            
+ 127  146 3 TO AMEND H.R. 1, BY PROVIDING THAT THE COMMISSIONER OF PEN-       
+ 127  146 4 SIONS SHALL CAUSE TO BE PUBLISHED IN AT LEAST ONE NEWSPAPER       
+ 127  146 5 AT THE CAPITAL OF EACH STATE A COMPLETE LIST OF THE PERSONS       
+ 127  146 6 DRAWING PENSIONS IN THAT STATE, WITH THEIR POST OFFICE            
+ 127  146 7 ADDRESSES AND AMOUNT OF PENSION, WHETHER PENSIONER IS A           
+ 127  146 8 SOLDIER, SOLDIER'S WIDOW, OR CHILD OF A SOLDIER AND THAT          
+ 127  146 9 A SUM NOT TO EXCEED $50,000 PER ANNUM BE APPROPRIATED FOR         
+ 127  14610 SUCH PUBLICATION.  (P. 4011-1)                                    
+ 128  147 1 CR- -4-4013   J 62-2-243A    HR1       MAR. 29, 1912              
+ 128  147 2 S622034       Y=44 N=21                MCCUMBER, N.D.             
+ 128  147 3 TO AGREE TO THE AMENDMENT AS AMENDED, IN THE NATURE OF A          
+ 128  147 4 SUBSTITUTE, FOR H.R. 1, WHICH SUBSTITUTE GRANTS PENSION           
+ 128  147 5 ACCORDING TO AGE AND LENGTH OF SERVICE.  (P. 3141-1,2)            
+ 129  148 1 CR-48-4-4015  J 62-2-243B    HR1       MAR. 29, 1912              
+ 129  148 2 S622035       Y=51 N=16                MCCUMBER, N.D.             
+ 129  148 3 TO PASS H.R. 1.                                                   
+ 130  149 1               J 62-2-256     S290      APR. 4, 1912               
+ 130  149 2 S622036       Y=36 N=18                BRISTOW, KAN.              
+ 130  149 3 TO AMEND S. 290, A BILL AUTHORIZING THE APPOINTMENT OF            
+ 130  149 4 DENTAL SURGEONS IN THE U.S. NAVY, BY INCREASING THE               
+ 130  149 5 RETIREMENT AGE OF DENTAL SURGEONS FROM 62 TO 70 YEARS.            
+ 130  149 6 (P. 4279-1)                                                       
+ 131  150 1 CR-48-5-4586  J 62-2-268     HR18956   APR. 11, 1912              
+ 131  150 2 S622037       Y=47 N=6                 DUPONT, DEL.               
+ 131  150 3 TO AMEND H.R. 18956, A BILL MAKING APPROPRIATIONS FOR THE         
+ 131  150 4 SUPPORT OF THE ARMY FOR YEAR ENDING JUNE 30, 1913, BY             
+ 131  150 5 ELIMINATING CLAUSE REDUCING THE CAVALRY OF THE U.S. ARMY.         
+ 131  150 6 (P. 4585-2)                                                       
+ 132  151 1 CR-48-5-4864  J 62-2-279A    S2234     APR. 16, 1912              
+ 132  151 2 S622038       Y=32 N=14                BRISTOW, KAN.              
+ 132  151 3 TO CONSIDER S. 2234, A BILL PROVIDING FOR A PRIMARY ELECTION      
+ 132  151 4 IN THE DISTRICT OF COLUMBIA, AT WHICH QUALIFIED ELECTORS MAY      
+ 132  151 5 VOTE FOR THEIR FIRST AND SECOND CHOICE IN THEIR RESPECTIVE        
+ 132  151 6 PARTIES FOR PRESIDENT AND VICE-PRESIDENT OF THE U.S., ELECT       
+ 132  151 7 DELEGATES TO THE NATIONAL CONVENTION, AND ELECT NATIONAL          
+ 132  151 8 COMMITTEEMEN; NO QUORUM VOTING.  (P. 4864-1)                      
+ 133  152 1 CR-48-5-4865A J 62-2-279B    PROC      APR. 16, 1912              
+ 133  152 2 S622039       Y=10 N=34                SMOOT, UTAH                
+ 133  152 3 TO ADJOURN, A MOTION MADE DURING DEBATE ON S. 2234.               
+ 133  152 4 NO QUORUM VOTING.  (P. 4865-2)                                    
+ 134  153 1 CR-48-5-4865B J 62-2-279C    S2234     APR. 16, 1912              
+ 134  153 2 S622040       Y=30 N=4                 BRISTOW, KAN.              
+ 134  153 3 TO CONSIDER S. 2234, NO QUORUM VOTING.  (P. 4865-2)               
+ 135  154 1 CR-48-5-4866  J 62-2-279     PROC      APR. 16, 1912              
+ 135  154 2 S622041       Y=8 N=28                 SMOOT, UTAH                
+ 135  154 3 TO ADJOURN, A MOTION MADE DURING DEBATE ON S. 2234.               
+ 135  154 4 (P. 4866-2)                                                       
+ 136  155 1 CR-48-5-5023  J 62-2-286     S3175     APR. 19, 1912              
+ 136  155 2 S622042       Y=9 N=56                 SIMMONS, N.C.              
+ 136  155 3 TO AMEND S. 3175, A BILL REGULATING THE IMMIGRATION OF            
+ 136  155 4 ALIENS TO AND RESIDENCE OF ALIENS IN THE U.S., BY EXCLUDING       
+ 136  155 5 ALL ALIENS OVER 16 YEARS OF AGE WHO CANNOT READ OR WRITE          
+ 136  155 6 ENGLISH, AS IN CONFORMITY WITH THE LITERACY TEST.                 
+ 136  155 7 (P. 5022-2)                                                       
+ 137  156 1 CR-48-5-5027  J 62-2-287A    S3175     APR. 19, 1912              
+ 137  156 2 S622043       Y=26 N=32                OVERMAN, N.C.              
+ 137  156 3 TO AMEND S. 3175, BY IMPOSING A "HEAD TAX" OF $10.00 FOR          
+ 137  156 4 EVERY IMMIGRANT AND NOT $4.00 AS PROVIDED FOR IN BILL.            
+ 137  156 5 (P. 5023-1)                                                       
+ 138  157 1 CR-48-5-5028  J 62-2-287B    S3175     APR. 19, 1912              
+ 138  157 2 S622044       Y=27 N=32                WATSON, W.VA.              
+ 138  157 3 TO AMEND S. 3175, BY TAXING EVERY ALIEN ADMITTED TO THE U.S.      
+ 138  157 4 $7.00, INCLUDING ALIEN SEAMEN REGULARLY ADMITTED.                 
+ 138  157 5 (P. 5028-2)                                                       
+ 139  158 1 CR-48-5-5032  J 62-2-287C    S3175     APR. 19, 1912              
+ 139  158 2 S622045       Y=25 N=28                WILLIAMS, MISS.            
+ 139  158 3 TO AMEND S. 3175, BY EXCLUDING PERSONS OF AFRICAN DESCENT         
+ 139  158 4 FROM ADMITTANCE TO THE U.S. WHETHER FROM AFRICA OR THE            
+ 139  158 5 WEST INDIES, EXCEPT PUERTO RICO.  (P. 5029-1)                     
+ 140  159 1 CR-48-5-5110  J 62-2-291     S2234     APR. 22, 1912              
+ 140  159 2 S622046       Y=25 N=31                BRISTOW, KAN.              
+ 140  159 3 TO PROCEED TO CONSIDERATION OF S. 2234, A BILL PROVIDING FOR      
+ 140  159 4 PRIMARY ELECTION IN THE DISTRICT OF COLUMBIA, AT WHICH            
+ 140  159 5 QUALIFIED ELECTORS MAY VOTE FOR THEIR FIRST AND SECOND            
+ 140  159 6 CHOICE IN THEIR RESPECTIVE PARTIES FOR PRESIDENT AND VICE-        
+ 140  159 7 PRESIDENT OF THE U.S., ELECT DELEGATES TO THE NATIONAL            
+ 140  159 8 CONVENTION AND ELECT NATIONAL COMMITTEEMEN.  (P. 5109-2)          
+ 141  160 1 CR-48-5-5112  J 62-2-292     SRE162    APR. 22, 1912              
+ 141  160 2 S622047       Y=32 N=21                OVERMAN, N.C.              
+ 141  160 3 TO CONSIDER S. RES. 162, DIRECTING THE SECRETARY OF THE           
+ 141  160 4 TREASURY TO FURNISH INFORMATION RELATIVE TO SALES OF COTTON       
+ 141  160 5 TO THE CONFEDERATE STATES GOVERNMENT.  (P. 5112-1)                
+ 142  161 1 CR-48-5-5172  J 62-2-294     HJR39     APR. 23, 1912              
+ 142  161 2 S622048       Y=42 N=36                CLARK, WYO.                
+ 142  161 3 TO INSIST ON THEIR AMENDMENT TO H.J.RES. 39, (3( STAT. 646,       
+ 142  161 4 APP. 5-15-1912), PROVIDING FOR THE DIRECT ELECTION OF             
+ 142  161 5 SENATORS BY THE PEOPLE, AND THAT A NOTICE BE GIVEN TO THE         
+ 142  161 6 H. OF REP., OF SUCH INSISTENCE ON SAID AMENDMENT, WHICH           
+ 142  161 7 PROVIDES FOR THE ELECTION OF SENATORS BY THE PEOPLE, LEAVING      
+ 142  161 8 THE SUPERVISORY AUTHORITY OF CONGRESS AS IT NOW EXISTS.           
+ 142  161 9 (P. 5169-1)                                                       
+ 143  162 1 CR-48-6-5393A J 62-2-303A    S5461     APR. 26, 1912              
+ 143  162 2 S622049       Y=39 N=2                 WORKS, CALIF.              
+ 143  162 3 TO PASS S. 5461, A BILL GOVERNING THE REGULATING OF LICENSES      
+ 143  162 4 FOR BARROOMS IN THE DISTRICT OF COLUMBIA, AND REGULATING THE      
+ 143  162 5 TRAFFIC IN INTOXICATING LIQUORS IN THE D. OF C.                   
+ 143  162 6 (P. 5392-1)                                                       
+ 144  163 1 CR-48-6-5393B J 62-2-30B     S2234     APR. 26, 1912              
+ 144  163 2 S622050       Y=23 N=18                BRISTOW, KAN.              
+ 144  163 3 TO PROCEED TO CONSIDERATION OF S. 2234, A BILL TO PROVIDE         
+ 144  163 4 PRIMARY ELECTIONS IN THE DISTRICT OF COLUMBIA, AT WHICH           
+ 144  163 5 QUALIFIED ELECTORS MAY VOTE FOR THEIR FIRST AND SECOND            
+ 144  163 6 CHOICE IN THEIR RESPECTIVE PARTIES FOR PRESIDENT AND VICE-        
+ 144  163 7 PRESIDENT OF THE U.S., AND ELECT DELEGATES TO THE NATIONAL        
+ 144  163 8 CONVENTION AND ELECT NATIONAL COMMITTEEMEN; NO QUORUM             
+ 144  163 9 VOTING.  (P. 5393-1)                                              
+ 145  164 1 CR-48-6-5668  J 62-2-312     HR17029   MAY 1, 1912                
+ 145  164 2 S622051       Y=27 N=28                LEA, TENN.                 
+ 145  164 3 TO CONSIDER H.R. 17029, (37 STAT. 119, 5-29-12), A BILL           
+ 145  164 4 AUTHORIZING THE SECRETARY OF WAR TO CONVERT THE REGIMENTAL        
+ 145  164 5 ARMY POST AT FORT OGLETHORPE INTO A BRIGADE POST.                 
+ 145  164 6 (P. 5667-2)                                                       
+ 146  165 1 CR-48-6-5748  J 62-2-316A    PROC      MAY 2, 1912                
+ 146  165 2 S622052       Y=25 N=44                SMITH, GA.                 
+ 146  165 3 TO RECESS UNTIL 12 O'CLOCK TOMORROW, A MOTION MADE DURING         
+ 146  165 4 DEBATE ON S. 5382, A BILL PROVIDING AN EXCLUSIVE REMEDY AND       
+ 146  165 5 COMPENSATION FOR ACCIDENTAL INJURIES RESULTING IN DISABILITY      
+ 146  165 6 OR DEATH TO EMPLOYEES OF COMMON CARRIERS BY RAILROADS             
+ 146  165 7 ENGAGED IN INTERSTATE OR FOREIGN COMMERCE OR IN THE               
+ 146  165 8 DISTRICT OF COLUMBIA.  (P. 5748-1)                                
+ 147  166 1 CR-48-6-5802  J 62-2-316B    PROC      MAY 3, 1912                
+ 147  166 2 S622053       Y=17 N=49                SMITH, GA.                 
+ 147  166 3 TO RECESS UNTIL 2:15 P.M., A MOTION MADE DURING DEBATE ON         
+ 147  166 4 S. 5382.  (P. 5802-1)                                             
+ 148  167 1 CR-48-6-5820  J 62-2-316C    S5382     MAY 38 1912                
+ 148  167 2 S622054       Y=25 N=34                CULBERSON, TEX.            
+ 148  167 3 TO AMEND AN AMENDMENT TO S. 5382, BY INCREASING THE AGE           
+ 148  167 4 LIMIT FROM 16 YEAR TO 18 YEARS OF CHILDREN ENTITLED TO            
+ 148  167 5 COMPENSATION AS THE RESULT OF THE DEATH OF FATHER, AND            
+ 148  167 6 WHEREVER AGE LIMIT IS REFERRED TO IN BILL.  (P. 5819-2,           
+ 148  167 7 5820-1)                                                           
+ 149  168 1 CR-48-6-5865  J 62-2-317     PROC      MAY 4, 1912                
+ 149  168 2 S622055       Y=26 N=39                REED, MO.                  
+ 149  168 3 TO RECESS UNTIL A QUARTER AFTER TWO TODAY, A MOTION MADE          
+ 149  168 4 DURING DEBATE ON S. 5382.  (P. 8864-2)                            
+ 150  169 1 CR-48-6-5951  J 62-2-318A    S5382     MAY 6, 1912                
+ 150  169 2 S622056       Y=26 N=52                CULBERSON, TEX.            
+ 150  169 3 TO AMEND S. 5382, BY ELIMINATING THE WORD "EXCLUSIVE" IN THE      
+ 150  169 4 TITLE AND SUBSTITUTING THE WORD "OPTIONAL" AND BY ELIMINAT-       
+ 150  169 5 ING THE THIRD SECTION WHICH EXCLUDES AN EMPLOYER FROM BEING       
+ 150  169 6 LIABLE FOR ANY PERSONAL INJURY OR DEATH OF ANY                    
+ 150  169 7 SUCH EMPLOYEE RESULTING FROM AN ACCIDENT EXCEPT AS PROVIDED       
+ 150  169 8 FOR IN BILL.  (P. 5950-2)                                         
+ 151  170 1 CR-48-6-5952A J 62-2-318B    S5382     MAY 6, 1912                
+ 151  170 2 S622057       Y=25 N=53                REED, MO.                  
+ 151  170 3 TO AMEND S. 5382, BY ELIMINATING CLAUSE GIVING EITHER PARTY       
+ 151  170 4 THE RIGHT TO FILE EXCEPTIONS AND CALL FOR A TRIAL BY JURY         
+ 151  170 5 UPON FIVE DAYS WRITTEN NOTICE OF INTENT.  (P. 5951-2)             
+ 152  171 1 CR-48-6-5952B J 62-2-318C    S5382     MAY 6, 1912                
+ 152  171 2 S622058       Y=28 N=51                BACON, GA.                 
+ 152  171 3 TO AMEND S. 5382, BY INSERTING A CLAUSE THAT EMPLOYER AND         
+ 152  171 4 EMPLOYEE MAY STIPULATE AND AGREE IN WRITING THAT THE              
+ 152  171 5 LIABILITY OF THE EMPLOYER TO THE EMPLOYEE FOR ANY PERSONAL        
+ 152  171 6 INJURY OR DEATH OR SUCH EMPLOYEE SHALL BE AS PRESCRIBED           
+ 152  171 7 IN THE ACT APPROVED APR. 22, 1908, ENTITLED "AN ACT RELATING      
+ 152  171 8 TO THE LIABILITY OF COMMON CARRIERS BY RAILROAD TO THEIR          
+ 152  171 9 EMPLOYEES."  (P. 5952-1)                                          
+ 153  172 1 CR-48-6-5952C J 62-2-318D    S5382     MAY 6, 1912                
+ 153  172 2 S622059       Y=23 N=52                OVERMAN, N.C.              
+ 153  172 3 TO AMEND S. 5382, BY ADDING A NEW SECTION TO BILL TO ASSURE       
+ 153  172 4 ANY STATE COURT JURISDICTION OF ALL COMMON LAW AND STATUTORY      
+ 153  172 5 REMEDIES HERETOFORE EXISTING FOR ALL CASES OF NEGLIGENCE ON       
+ 153  172 6 THE PART OF ANY RAILROAD NOT WITHSTANDING THAT SAID RAILROAD      
+ 153  172 7 IS ENGAGED IN INTERSTATE COMMERCE.  (P. 5952-2)                   
+ 154  173 1 CR-48-6-5952D J 62-2-319A    S5382     MAY 6, 1912                
+ 154  173 2 S622060       Y=27 N=50                CULBERSON, TEX.            
+ 154  173 3 TO AMEND S. 5382, BY CHANGING THE EMPLOYEES MINIMUM AND           
+ 154  173 4 MAXIMUM WAGES FROM $100 TO $150, MAXIMUM AND FROM $50 TO $75      
+ 154  173 5 MINIMUM, FOR THE PURPOSE OF LIMITING COMPENSATION IN EVENT        
+ 154  173 6 OF INJURY.  (P. 5952-2)                                           
+ 155  174 1 CR-48-6-5953A J 62-2-319C    S5382     MAY 6, 1912                
+ 155  174 2 S622061       Y=29 N=45                POMERENE, OHIO             
+ 155  174 3 TO AMEND S. 5382, BY REMOVING ANY DISCRIMINATIONS IN ACT          
+ 155  174 4 BETWEEN RESIDENT AND NONRESIDENT DEPENDENTS.  (P. 5953-2)         
+ 156  175 1 CR-48-6-5953B J 62-2-319D    S5382     MAY 6, 1912                
+ 156  175 2 S622062       Y=29 N=44                POMERENE, OHIO             
+ 156  175 3 TO AMEND S. 5382, BY ADDING A PROVISION GIVING NONRESIDENT        
+ 156  175 4 DEPENDENTS LIVING IN FOREIGN COUNTRIES NOT CONTIGUOUS TO THE      
+ 156  175 5 U.S. THE SAME RIGHTS AS RESIDENT DEPENDENTS, IF THOSE             
+ 156  175 6 COUNTRIES ACCORD TO THE NONRESIDENT DEPENDENTS OF THEIR           
+ 156  175 7 EMPLOYEES THE SAME RIGHTS AS THEY GIVE TO RESIDENTS.              
+ 156  175 8 (P. 5953-2)                                                       
+ 157  176 1 CR-48-6-5953C J 62-2-319B    S5382     MAY 6, 1912                
+ 157  176 2 S622063       Y=26 N=51                REED, MO.                  
+ 157  176 3 TO AMEND S. 5382, BY CHANGING THE EMPLOYEES MINIMUM WAGE          
+ 157  176 4 FROM $50 TO $75 PER MONTH AND MAXIMUM FOR $100 TO $125            
+ 157  176 5 FOR THE PURPOSE OF LIMITING RATE OF COMPENSATION WHICH            
+ 157  176 6 WOULD BE DUE IN EVENT OF INJURY.  (P. 5953-1)                     
+ 158  177 1 CR-48-6-5954A J 62-2-319E    S5382     MAY 68,1912                
+ 158  177 2 S622064       Y=30 N=47                HITCHCOCK, NEB.            
+ 158  177 3 TO AMEND S. 5382, BY PROVIDING THAT ANY FEMALE CHILD MAY          
+ 158  177 4 RECEIVE HER SHARE OF COMPENSATION UNTIL SHE REACHES THE AGE       
+ 158  177 5 OF 20 YEARS, UNLESS SOONER MARRIED.  (P. 5953-2)                  
+ 159  178 1 CR-48-6-5954B J 62-2-320A    S5382     MAY 6, 1912                
+ 159  178 2 S622065       Y=29 N=49                KERN, IND.                 
+ 159  178 3 TO AMEND S. 5382, BY PROVIDING THAT IF A DECEASED EMPLOYEE        
+ 159  178 4 SHALL LEAVE MORE THAN FOUR CHILDREN UNDER A SPECIFIED AGE         
+ 159  178 5 SAID PAYMENT SHALL BE INCREASED 10 PER CENT FOR                   
+ 159  178 6 EACH ADDITIONAL CHILD, PAYMENT NOT TO EXCEED                      
+ 159  178 7 80 PER CENT OF TOTAL MONTHLY WAGES.  (P. 5954-2)                  
+ 160  179 1 CR-48-6-5954C J 62-2-319F    S5382     MAY 6, 1912                
+ 160  179 2 S622066       Y=28 N=50                KERN, IND.                 
+ 160  179 3 TO AMEND S. 5382, BY INCREASING THE MONTHLY CONPENSATION          
+ 160  179 4 PAYMENTS TO A WIDOW WITHOUT DEPENDENTS FROM 40 TO 50 PER          
+ 160  179 5 CENT OF THE MONTHLY WAGE OF THE DECEASED.  (P. 5954-1)            
+ 161  180 1 CR-48-6-5955A J 62-2-320B    S5382     MAY 6, 1912                
+ 161  180 2 S622067       Y=25 N=50                KERN, IND.                 
+ 161  180 3 TO AMEND S. 5382, BY PROVIDING FOR MOTHERLESS CHILDREN OF         
+ 161  180 4 DECEASED EMPLOYEES AS FOLLOWS; ONE THIRD OF MONTHLY WAGE TO       
+ 161  180 5 ONE CHILD; IF MORE THAN ONE, 10% ADDITIONAL FOR EACH CHILD,       
+ 161  180 6 NOT EXCEEDING 80% OF MONTHLY WAGES OF DECEASED EMPLOYEES.         
+ 161  180 7 (P. 5954-2)                                                       
+ 162  181 1 CR-48-6-5955B J 62-2-320C    S5382     MAY 6, 1912                
+ 162  181 2 S622069       Y=28 N=49                KERN, IND.                 
+ 162  181 3 TO AMEND S. 5382, BY INCREASING THE COMPENSATION PAYMENTS         
+ 162  181 4 FROM "72 MONTHS" TO "96 MONTHS" FOR THE PERMANENT LOSS OF         
+ 162  181 5 HEARING IN BOTH EARS.  (P. 5955-1)                                
+ 163  182 1 CR-48-6-5955C J 62-2-320D    S5382     MAY 6, 1912                
+ 163  182 2 S622070       Y=27 N=49                REED, MO.                  
+ 163  182 3 TO AMEND S. 5382, BY DEFINING A "DEPENDENT CHILD" AS ONE          
+ 163  182 4 THAT IS WHOLLY OR IN PART DEPENDENT FOR ITS LIVELIHOOD OR         
+ 163  182 5 EDUCATION UPON THE FINANCIAL ASSISTANCE OF THE PERSON             
+ 163  182 6 INJURED.  (P. 5955-2)                                             
+ 164  183 1 CR-48-6-5956A J 62-2-320E    S5382     MAY 6, 1912                
+ 164  183 2 S622071       Y=23 N=49                SMITH, GA.                 
+ 164  183 3 TO AMEND S. 5382, BY ADDING A CLAUSE, THAT IF THE EMPLOYER,       
+ 164  183 4 THROUGH ITS OFFICERS AND AGENTS, HAD RECEIVED KNOWLEDGE OF        
+ 164  183 5 THE ACCIDENT WITHIN THIRTY DAYS AFTER THE HAPPENING THEREOF,      
+ 164  183 6 NO NOTICE WHATEVER SHALL BE REQUIRED TO BE GIVEN OF THE           
+ 164  183 7 ACTION BY THE EMPLOYEE TO THE EMPLOYER.  (P. 5956-1)              
+ 165  184 1 CR-48-6-5956B J 62-2-321A    S5382     MAY 6, 1912                
+ 165  184 2 S622072       Y=24 N=48                SMITH, GA.                 
+ 165  184 3 TO AMEND S. 5382, BY GIVING EMPLOYEES THE PRIVILEGE OF            
+ 165  184 4 ENFORCING THEIR RIGHTS UNDER THIS ACT BEFORE AN ADJUSTER OR       
+ 165  184 5 ANY STATE COURT HAVING JURISDICTION THEREOF - BUT PROVIDING       
+ 165  184 6 NO REMOVAL SHALL BE PERMITTED TO A FEDERAL COURT.                 
+ 165  184 7 (P. 5956-2)                                                       
+ 166  185 1 CR-48-6-5957  J 62-2-321B    S5382     MAY 6, 1912                
+ 166  185 2 S622073       Y=22 N=49                SMITH, GA.                 
+ 166  185 3 TO AMEND S. 5382, BY CHANGING THE DEATH BENEFITS ALLOWED          
+ 166  185 4 FROM EIGHT YEARS TO THE LIFE EXPECTENCY OF DECEASED, WITH         
+ 166  185 5 CERTAIN EXCEPTIONS.  (P. 5957-1)                                  
+ 167  186 1 CR-48-6-5958  J 62-2-321C    S5382     MAY 6, 1912                
+ 167  186 2 S622074       Y=29 N=46                REED. MO.                  
+ 167  186 3 TO AMEND S. 5382, BY GIVING CLAIMANTS AN ADDITIONAL 25 %          
+ 167  186 4 WHEN IT IS PROVEN THAT THE EMPLOYER FAILED TO COMPLY WITH A       
+ 167  186 5 PUBLIC LAW.  (P. 5958-2)                                          
+ 168  187 1 CR-48-6-5959A J 62-2-321D    S5382     MAY 6, 1912                
+ 168  187 2 S622075       Y=24 N=55                OVERMAN, N.C.              
+ 168  187 3 TO POSTPONE UNTIL MONDAY, MAY 27, CONSIDERATION OF S. 5382.       
+ 168  187 4 (P. 5958-2)                                                       
+ 169  188 1 CR-48-6-5959B J 62-2-321E    S5382     MAY 6, 1912                
+ 169  188 2 S622076       Y=64 N=15                SUTHERLAND, UTAH           
+ 169  188 3 TO PASS S. 5382.                                                  
+ 170  189 1 CR-48-6-6209  J 62-2-336     S4762     MAY 10, 1912               
+ 170  189 2 S622077       Y=45 N=10                HEYBURN, IDA.              
+ 170  189 3 TO PASS S. 4762, A BILL TO PROVIDE FOR MORE EFFICIENT ADMIN-      
+ 170  189 4 ISTRATION OF CIVIL GOVERNMENT IN THE PHILIPPINE ISLANDS.          
+ 170  189 5 (P. 6209-1)                                                       
+ 171  190 1 CR-48-7-6793  J 62-2-353     S6864     MAY 20, 1912               
+ 171  190 2 S622078       Y=31 N=23                BRISTOW, KAN.              
+ 171  190 3 TO RECONSIDER ACTION REFERRING S. 6864, A BILL PROVIDING          
+ 171  190 4 FOR THE CONSTRUCTION AND OPERATION OF A RAILROAD IN ALASKA,       
+ 171  190 5 TO THE COMMITTEE ON PUBLIC LANDS.                                 
+ 172  191 1 CR-48-7-6941  J 62-2-359     HR9061    MAY 22, 1912               
+ 172  191 2 S622079       Y=14 N=35                LODGE, MASS.               
+ 172  191 3 TO AMEND H.R. 9061, (37 STAT. 137, 6-19-12), A BILL LIMITING      
+ 172  191 4 THE HOURS OF LABORERS AND MECHANICS EMPLOYED BY THE               
+ 172  191 5 U.S. OR ANY OF ITS TERRITORIES, OR THE DISTRICT OF COLUMBIA,      
+ 172  191 6 BY PROVIDING FOR A 48 HOUR WEEK INSTEAD OF AN 8 HOUR DAY.         
+ 172  191 7 (P. 6935-2)                                                       
+ 173  192 1 CR-48- -7153  J 62-2-366A    PROC      MAY 25, 1912               
+ 173  192 2 S622080       Y=18 N=25                HEYBURN, IDAHO             
+ 173  192 3 TO ADJOURN, A MOTION MADE DURING CONSIDERATION OF                 
+ 173  192 4 H.R. 18642, A BILL AMENDING AN ACT PROVIDING REVENUE,             
+ 173  192 5 EQUALIZING DUTIES AND REDUCING DUTIES ON IRON AND STEEL,          
+ 173  192 6 APPROVED AUG. 5, 1890; NO QUORUM VOTING.                          
+ 174  193 1 CR-48-7-7154  J 62-2-366B    PROC      MAY 25, 1912               
+ 174  193 2 S622081       Y=23 N=23                GALLINGER, N.H.            
+ 174  193 3 TO ADJOURN, A MOTION MADE DURING DEBATE ON H.R. 18642.            
+ 174  193 4 (P. 7454-1)                                                       
+ 175  194 1 CR-48-7-7156  J 62-2-367     PROC      MAY 25, 1912               
+ 175  194 2 S622082       Y=24 N=22                GALLINGER, N.H.            
+ 175  194 3 TO ADJOURN UNTIL THE FOLLOWING MONDAY, A MOTION MADE DURING       
+ 175  194 4 DEBATE ON H.R. 18642.  (P. 7155-2)                                
+ 176  195 1 CR-48-8-7320  J 62-2-377     HR18642   MAY 25, 1912               
+ 176  195 2 S622082B      Y=12 N=60                CUMMINS, IOWA              
+ 176  195 3 TO AGREE TO THE SUBSTITUTE FOR H.R. 18642, WHICH SUBSTITUTE       
+ 176  195 4 PROVIDES THAT ON STEEL CIRCULAR SAW PLATES THERE SHALL BE         
+ 176  195 5 PAID $3 PER TON IN ADDITION TO THE RATES PROVIDED HEREIN FOR      
+ 176  195 6 STEEL SAW PLATES.                                                 
+ 177  196 1 CR-48-8-7365  J 62-2-380A    HR18642   MAY 29, 1912               
+ 177  196 2 S622083       Y=33 N=34                SMITH, GA.                 
+ 177  196 3 TO AMEND H.R. 18642, BY ADDING TO THE FREE LIST, FARM TOOLS,      
+ 177  196 4 MACHINERY AND PARTS.  (P. 7365-1)                                 
+ 178  197 1 CR-48-8-7370  J 62-2-380B    HR18642   MAY 29, 1912               
+ 178  197 2 S622084       Y=27 N=37                LODGE, MASS.               
+ 178  197 3 TO AMEND AN AMENDMENT TO H.R. 18642, BY INCREASING THE DUTY       
+ 178  197 4 FROM 20 TO 30 PER CENT AD VALOREM ON ALL MACHINE TOOLS.           
+ 178  197 5 (P. 7367-1)                                                       
+ 179  198 1 CR-48-8-7371  J 62-2-380C    HR18642   MAY 29, 1912               
+ 179  198 2 S622085       Y=17 N=43                BURTON, OHIO               
+ 179  198 3 TO AMEND AN AMENDMENT TO H.R. 18642, BY INCREASING THE DUTY       
+ 179  198 4 TO 25 % AD VALOREM (IMPORT DUTY) ON ALL MACHINE TOOLS.            
+ 179  198 5 (P. 7370-2)                                                       
+ 180  199 1 CR-48-8-7371  J 62-2-380D    HR18642   MAY 29, 1912               
+ 180  199 2 S622086       Y=27 N=33                POMERENE, OHIO             
+ 180  199 3 TO AMEND H.R. 18642, BY INSERTING AN AD VALOREM DUTY OF 20%       
+ 180  199 4 ON MACHINE TOOLS.  (P. 7322-2)                                    
+ 181  200 1 CR-48-8-7378  J 62-2-381A    HR18642   MAY 29, 1912               
+ 181  200 2 S622087       Y=37 N=27                GALLINGER, N.H.            
+ 181  200 3 TO AMEND H.R. 18642, BY REPEALING AN ACT ADMITTING FREE OF        
+ 181  200 4 DUTY PAPER MANUFACTURED OR ORIGINATING IN CANADA SO AS TO         
+ 181  200 5 FIX A TAX OF $200 PER TON AND REDUCING THE DUTIES FROM $3.75      
+ 181  200 6 PER TON TO $2.00 (ON PAPER) FROM ALL OTHER SOURCES.               
+ 181  200 7 (P. 7376-2)                                                       
+ 182  201 1 CR-48-8-7379  J 62-2-381B    HR18642   MAY 29, 1912               
+ 182  201 2 S622088       Y=36 N=20                HITCHCOCK, NEB.            
+ 182  201 3 TO AMEND H.R. 18642, BY REDUCING THE IMPORT DUTY FROM EIGHT       
+ 182  201 4 TO SIX PER CENT AD VALOREM ON PIG IRON, WROUGHT IRON, AND         
+ 182  201 5 SCRAP STEEL.  (P. 7378-2)                                         
+ 183  202 1 CR-48-8-7387  J 62-2-381C    PROC      MAY 29, 1912               
+ 183  202 2 S622089       Y=22 N=30                CURTIS, KAN.               
+ 183  202 3 TO ADJOURN TO 11 O'CLOCK ON FRIDAY NEXT, A MOTION DURING          
+ 183  202 4 DEBATE ON H.R. 18642.  (P. 7386-1)                                
+ 184  203 1 CR-48-8-7426  J 62-2-384     HR18642   MAY 30, 1912               
+ 184  203 2 S622090       Y=35 N=22                PENROSE, PA.               
+ 184  203 3 TO PASS H.R. 18642.                                               
+ 185  204 1 CR-48-8-7451  J 62-2-387     HR18960   MAY 31, 1912               
+ 185  204 2 S622091       Y=27 N=36                BURNHAM, N.H.              
+ 185  204 3 TO AGREE TO THE CONFERENCE REPORT ON H.R. 18960,                  
+ 185  204 4 (37 STAT. 269, 8-10-12), A BILL MAKING APPROPRIATIONS FOR         
+ 185  204 5 THE DEPARTMENT OF AGRICULTURE FOR FISCAL 1913, RELATING TO        
+ 185  204 6 GAME RESERVE AND AGRICULTURAL INTEREST.  (P. 7450-1,2)            
+ 186  205 1 CR-48-8-7455  J 62-2-388     HR9061    MAY 31, 1912               
+ 186  205 2 S622092       Y=45 N=11                BORAH, IDAHO               
+ 186  205 3 TO PASS H.R. 9061, (37 STAT. 137, 6-19-12), A BILL LIMITING       
+ 186  205 4 THE HOURS OF DAILY SERVICE OF LABORERS AND MECHANICS              
+ 186  205 5 EMPLOYED BY THE U.S. TO EIGHT HOURS.  (P. 7454-2)                 
+ 187  206 1 CR-48-8-7537  J 62-2-391     S4568     JUNE 3, 1912               
+ 187  206 2 S622093       Y=11 N=41                MCCUMBER, N.D.             
+ 187  206 3 TO AGREE TO THE AMENDMENT TO S. 4568, (37 STAT. 1288,             
+ 187  206 4 8-14-12), A BILL GRANTING AN INCREASE OF PENSION TO               
+ 187  206 5 ANNIE R. SCHLEY, THE WIDOW OF REAR ADMIRAL SCHLEY OF THE          
+ 187  206 6 U.S. NAVY, BY INCREASING PENSION FROM $50.00 TO $150.00 PER       
+ 187  206 7 MONTH.  (P. 7533-2)                                               
+ 188  207 1 CR-48-8-7616  J 62-2-394     HR24023   JUNE 4, 1912               
+ 188  207 2 S622094       Y=33 N=13                WARREN, WYO.               
+ 188  207 3 TO AGREE TO THE AMENDMENT TO H.R. 24023, A BILL MAKING            
+ 188  207 4 APPROPRIATIONS FOR LEGISLATIVE, EXECUTIVE, AND JUDICIAL           
+ 188  207 5 DEPARTMENTS, WHICH AMENDMENT INCREASES THE NUMBER OF              
+ 188  207 6 CAPITAL POLICEMEN FROM 33 TO 67.  (P. 7616-1)                     
+ 189  208 1 CR-48-8-7908  J 62-2-406     HR18956   JUNE 10, 1912              
+ 189  208 2 S622095       Y=27 N=24                DUPONT, DEL.               
+ 189  208 3 TO AGREE TO THE REPORT OF COMMITTEE ON CONFERENCE ON              
+ 189  208 4 H.R. 18956, A BILL MAKING APPROPRIATION FOR THE ARMY FOR THE      
+ 189  208 5 FISCAL YEAR ENDING JUNE 30, 1913, WHICH REPORT RECOMMENDS         
+ 189  208 6 THAT THE SENATE RECEDE FROM AN AMENDMENT TO WHICH                 
+ 189  208 7 HOUSE DISAGREED.  (P. 7203-1)                                     
+ 190  209 1 CR-48-8-7969  J 62-2-408     HR24023   JUNE 11, 1912              
+ 190  209 2 S622096       Y=24 N=36                WARREN, WYO.               
+ 190  209 3 TO AGREE TO THE AMENDMENT TO H.R. 24023, WHICH AMENDMENT          
+ 190  209 4 ABOLISHES THE COURT OF COMMERCE ON AND AFTER JULY 1, 1912;        
+ 190  209 5 AND ALL LAWS IN SO FAR AS THEY PROVIDE FOR THE ESTABLISHMENT      
+ 190  209 6 OF SAID COMMERCE COURT ARE REPEALED.  (P. 7952-1)                 
+ 191  210 1 CR-48-8-7986  J 62-2-411A    HR18956   JUNE 12, 1912              
+ 191  210 2 S622097       Y=28 N=29                MARTINE, N.J.              
+ 191  210 3 TO RECONSIDER THE VOTE BY WHICH THE CONFERENCE REPORT ON          
+ 191  210 4 H.R. 18956, THE ARMY APPROPRIATION BILL FOR FISCAL YEAR           
+ 191  210 5 ENDING JUNE 30, 1913, WAS AGREED TO.  (P. 7982-1)                 
+ 192  211 1 CR-48-8-7991  J 62-2-411B    HR18642   JUNE 12, 1912              
+ 192  211 2 S622098       Y=27 N=33                SIMMONS, N.C.              
+ 192  211 3 TO RECEDE FROM AN AMENDMENT TO H.R. 18642, A BILL AMENDING        
+ 192  211 4 AN ACT, PROVIDING REVENUE, EQUALIZING DUTIES AND ENCOURAGING      
+ 192  211 5 INDUSTRIES OF THE U.S., AND REDUCING DUTIES ON IRON AND           
+ 192  211 6 STEEL.  (P. 7987-1)                                               
+ 193  212 1 CR-48-8-7999  J 62-2-411C    HR24023   JUNE 12, 1912              
+ 193  212 2 S622099       Y=21 N=29                OVERMAN, N.C.              
+ 193  212 3 TO APPEAL FROM THE DECISION OF THE CHAIR, A MOTION MADE           
+ 193  212 4 DURING DEBATE ON H.R. 24023, WHICH DECISION HELD THAT A           
+ 193  212 5 PROPOSED AMENDMENT WAS NOT IN ORDER BECAUSE IT IS GENERAL         
+ 193  212 6 LEGISLATION WHICH CANNOT BE ATTACHED TO AN APPROPRIATION          
+ 193  212 7 BILL; NO QUORUM VOTING.  (P. 7998-2)                              
+ 194  213 1 CR-48-8-8056  J 62-2-414     HR24023   JUNE 13, 1912              
+ 194  213 2 S622101       Y=30 N=20                BURTON, OHIO               
+ 194  213 3 TO AMEND H.R. 24023, BY PROVIDING FOR THE APPOINTMENT OF A        
+ 194  213 4 CHIEF OF DIVISION OF COMPILATION IN BUREAU OF STATISTICS AT       
+ 194  213 5 $2,000 PER YEAR, SAID POSITION BEING IN EXISTENCE BUT NOT         
+ 194  213 6 FILLED.  (P. 8055-2)                                              
+ 195  214 1 CR-48-8-8068  J 62-2-415     SJR99     JUNE 13, 1912              
+ 195  214 2 S622102       Y=17 N=16                SWANSON, VA.               
+ 195  214 3 TO PROCEED TO CONSIDERATION OF S.J.RES. 99, AUTHORIZING THE       
+ 195  214 4 PRESIDENT TO RE-ASSEMBLE THE COURT MARTIAL WHICH ON               
+ 195  214 5 AUG. 16, 1911, TRIED FOUR CADETS OF THE U.S. MILITARY             
+ 195  214 6 ACADEMY AND SENTENCED THEM, (NO QUORUM VOTING.)  (P. 8068-1)      
+ 196  215 1 CR-48-8-8123     J 62-2-417  HR24023   JUNE 14, 1912              
+ 196  215 2 S622103       Y=32 N=17                CRAWFORD, S.D.             
+ 196  215 3 TO AMEND AN AMENDMENT TO H.R. 24023.  THE ORIGINAL AMENDMENT      
+ 196  215 4 PROVIDES THAT NO INTERLOCUTORY INJUNCTION SUSPENDING OR           
+ 196  215 5 RESTRAINING THE EXEC. OF ANY ORDER ENTERED BY ICC SHALL BE        
+ 196  215 6 GRANTED UNLESS FIRST PRESENTED TO A JUDGE OF THE FEDERAL          
+ 196  215 7 COURTS AND HEARD AND DETERMINED BY 3 JUDGES, ONE A SUPREME        
+ 196  215 8 COURT JUDGE.  THE AMENDMENT THERETO EXPAND THIS TO INCLUDE        
+ 196  215 9 ALL ADMINISTRATIVE BOARDS AND COMMISSIONS ACTING UNDER THE        
+ 196  21510 LAWS OF ANY STATE.  (P. 8122-1,2)                                 
+ 197  216 1 CR- -8-8125   J 62-2-418A    HR24023   JUNE 14, 1912              
+ 197  216 2 S622104       Y=23 N=25                MCCUMBER, N.D.             
+ 197  216 3 TO CONCUR IN AN AMENDMENT TO H.R. 24023, WHICH AMENDMENT          
+ 197  216 4 PROVIDES THAT THE FIVE ADDITIONAL CIRCUIT COURT JUDGES, WHO       
+ 197  216 5 WERE APPOINTED TO PRESIDE OVER THE COMMERCE COURT, RELEASED       
+ 197  216 6 FROM THAT PART OF THEIR DUTIES, TO BE ASSIGNED, FROM TIME TO      
+ 197  216 7 TIME, BY THE CHIEF JUSTICE OF THE U.S., TO SERVICE IN ANY         
+ 197  216 8 DISTRICT COURT, OR THE CIRCUIT COURT OF APPEALS OF ANY            
+ 197  216 9 CIRCUIT, INSTEAD OF ABOLISHING THESE FIVE JUDGESHIPS, AND         
+ 197  21610 INSTEAD ALSO, OF REPEALING THE AUTHORITY OF THE CONGRESS AND      
+ 197  21611 PRESIDENT TO APPROVE THESE JUDGES, ON THE GROUND IT IS NOT        
+ 197  21612 WITHIN THE POWER OF CONGRESS TO DESTROY THE TERM OF OFFICE        
+ 197  21613 OF ANY JUDGE APPOINTED TO ANY OF THOSE COURTS.                    
+ 197  21614 (P. 8124-1)                                                       
+ 198  217 1 CR-48-8-8126  J 62-2-418B    HR24023   JUNE 14, 1912              
+ 198  217 2 S622105       Y=28 N=26                SMITH, GA.                 
+ 198  217 3 TO CONCUR IN AN AMENDMENT TO H.R. 24023, WHICH AMENDMENT          
+ 198  217 4 ABOLISHES FIVE ADDITIONAL CIRCUIT COURT JUDGESHIPS PROVIDED       
+ 198  217 5 FOR BY THE ACT OF 6/18/1910, AND TO REPEALS THE AUTHORITY         
+ 198  217 6 GRANTED IN THAT ACT TO THE PRES. TO APPOINT FIVE ADDITIONAL       
+ 198  217 7 CIRCUIT JUDGES AND TO REDUCE THE NUMBER OF CIRCUIT COURT          
+ 198  217 8 JUDGES TO 29.  (P. 7992-1)                                        
+ 198  217 9 19                                                                
+ 199  218 1 CR-48-9-8577  J 62-2-441     HR20182   JULY 2, 1912               
+ 199  218 2 S622106       Y=35 N=0                 SIMMONS, N.C.              
+ 199  218 3 TO AMEND H.R. 20182, A BILL AMENDING AN ACT ENTITLED "AN ACT      
+ 199  218 4 TO PROVIDE REVENUE, EQUALIZE DUTIES, AND ENCOURAGE                
+ 199  218 5 INDUSTRIES OF THE U.S., BY WITHDRAWING A TEN PER CENT AD          
+ 199  218 6 VALOREM DUTY ON ALIZARIN, NATURAL OR ARTIFICIAL, AND DYES         
+ 199  218 7 DERIVED THEREFROM OR FROM ANTHARCENE; NO QUORUM VOTING.           
+ 199  218 8 (P. 8576-2)                                                       
+ 200  219 1 CR-48-9-8609  J 62-2-443A    HR20182   JULY 3, 1912               
+ 200  219 2 S622107       Y=58 N=0                 SIMMONS, N.C.              
+ 200  219 3 TO AMEND H.R. 20182, BY WITHDRAWING A TEN % AD VALOREM DUTY       
+ 200  219 4 ON ALIZARIN, NATURAL OR ARTIFICIAL, AND DYES DERIVED              
+ 200  219 5 THEREFROM OR FROM ANTHRACENE.  (P. 8608-2)                        
+ 201  220 1 CR-48-9-8610  J 62-2-443B    HR20182   JULY 3, 1912               
+ 201  220 2 S622108       Y=29 N=29                SIMMONS, N.C.              
+ 201  220 3 TO AMEND H.R. 20182, BY REDUCING THE DUTY FROM 25 % AD            
+ 201  220 4 VALOREM TO 15 % AD VALOREM ON VARNISHES, INCLUDING SO             
+ 201  220 5 CALLED GOLD SIZE OR JAPAN, AND ENAMEL PAINTS MADE WITH            
+ 201  220 6 VARNISH.  (P. 8609-2)                                             
+ 202  221 1 CR-48-9-8611  J 62-2-443C    HR20182   JULY 5, 1812               
+ 202  221 2 S622109       Y=27 N=32                PENROSE, PENN.             
+ 202  221 3 TO PASS H.R. 20182.  (P. 8610-2)                                  
+ 203  222 1 CR-48-9-8650  J 62-2-446     HR24565   JULY 5, 1912               
+ 203  222 2 S622110       Y=12 N=43                JOHNSTON, ALA.             
+ 203  222 3 TO AMEND H.R. 24565, (37 STAT. 328, 8-22-12), A BILL              
+ 203  222 4 PROVIDING NAVAL APPROPRIATIONS BILL FOR FISCAL YEAR 1913, BY      
+ 203  222 5 REDUCING FROM TWO TO ONE THE NUMBER OF BATTLESHIPS TO BE          
+ 203  222 6 BUILT FOR THE NAVY DEPARTMENT, AND TO APPROPRIATE A SUM NOT       
+ 203  222 7 TO EXCEED $7,425,000, EXCLUSIVE OF COST OF ARMOR AND              
+ 203  222 8 ARMAMENT, FOR THAT PURPOSE.  (P. 8650-1)                          
+ 204  223 1 CR-48-9-8987  J 62-2-450     SRE315    JULY 13, 1912              
+ 204  223 2 S622111       Y=55 N=28                LEA, TENN.                 
+ 204  223 3 TO PASS S. RES. 315, DECLARING THE ELECTION OF                    
+ 204  223 4 WILLIAM LORIMER TO THE SENATE OF THE U.S. FROM ILLINOIS           
+ 204  223 5 INVALID, AND THAT CORRUPT METHODS AND PRACTICES WERE              
+ 204  223 6 EMPLOYED IN THE ELECTION OF SAME.  (P. 8987-1)                    
+ 205  224 1 CR-48-9-8989  J 62-2-452     HR21969   JULY 13, 1912              
+ 205  224 2 S622112       Y=40 N=34                BRANDEGEE, CONN.           
+ 205  224 3 TO PROCEED TO CONSIDERATION OF H.R. 21969, (C 390-37 STAT.        
+ 205  224 4 L. 560-8-24-12), A BILL PROVIDING FOR THE OPENING, MAINTEN-       
+ 205  224 5 ANCE, PROTECTION, AND OPERATION OF PANAMA CANAL AND THE           
+ 205  224 6 SANITATION AND GOVERNMENT OF THE CANAL ZONE.  (P. 8989-2)         
+ 206  225 1 CR-48-9-9132  J 62-2-461     SRE357    JULY 16, 1912              
+ 206  225 2 S622113       Y=35 N=23                BAILEY, TEXAS              
+ 206  225 3 TO PASS THE MODIFIED S. RES. 357, DECLARING THAT ANY ATTEMPT      
+ 206  225 4 BY THE PRES. TO USE HIS INFLUENCE FOR THE PURPOSE OF              
+ 206  225 5 CONTROLLING THE VOTE OF A SENATOR UPON QUESTIONS INVOLVING        
+ 206  225 6 THE RIGHT TO A SEAT IN THE SENATE, OR ANY MATTER RELATING         
+ 206  225 7 TO THE DUTIES OF SENATORS, WOULD VIOLATE THE SPIRIT AND           
+ 206  225 8 LETTER OF THE CONSTITUTION AND INVADE THE RIGHTS OF THE           
+ 206  225 9 SENATE.  (P. 9125-2)                                              
+ 207  226 1 CR-48-9-9166  J 62-2-463     HR25069   JULY 17, 1912              
+ 207  226 2 S622114       Y=35 N=28                WARREN, WYO.               
+ 207  226 3 TO CONSIDER H.R. 25069, (37 STAT. 417, 8-24-12), A BILL           
+ 207  226 4 MAKING APPROPRIATIONS FOR SUNDRY CIVIL EXPENSES OF THE            
+ 207  226 5 GOVERNMENT FOR FISCAL 1913.  (P. 9165-1)                          
+ 208  227 1 CR-48-9-9214  J 62-2-469     HR25069   JULY 18, 1912              
+ 208  227 2 S622115       Y=37 N=27                WARREN, WYO.               
+ 208  227 3 TO CONSIDER H.R. 25069.  (P. 9214-1)                              
+ 209  228 1 CR-48-9-9291  J 62-2-471     HR25069   JULY 19, 1912              
+ 209  228 2 S622116       Y=28 N=25                WARREN, WYO.               
+ 209  228 3 TO AMEND H.R. 25069, BY APPROPRIATING $50,000 FOR THE             
+ 209  228 4 CONSTRUCTION AND EQUIPMENT OF A RAILROAD FROM CAMP OVERTON        
+ 209  228 5 TO CAMP KEITHLEY, MENDANAO, P.I., PROVIDING THAT TOTAL COST       
+ 209  228 6 SHALL NOT EXCEED $200,000.  (P. 9285-2)                           
+ 210  229 1 CR-48-9-9404  J 62-2-473     HR25069   JULY 22, 1912              
+ 210  229 2 S622117       Y=27 N=21                OVERMAN, N.C.              
+ 210  229 3 TO AMEND H.R. 25069, BY REDUCING THE APPROPRIATION FROM           
+ 210  229 4 $96,309.50 TO $70,000, TO PAY FOR SETS OF SUPREME COURT           
+ 210  229 5 REPORTS AND DIGESTS, AND TO PREVENT THEIR DISTRIBUTION TO         
+ 210  229 6 THE U.S. DISTRICT ATTORNEYS.  (P. 9403-2)                         
+ 211  230 1 CR-48-10-9487 J 62-2-474     HR25069   JULY 23, 1912              
+ 211  230 2 S622118       Y=21 N=31                BACON, GA.                 
+ 211  230 3 TO AMEND H.R. 25069, BY APPROPRIATING $100,000 FOR THE            
+ 211  230 4 PURPOSE OF EMPLOYING SUFFICIENT CLERICAL ASSISTANCE TO A          
+ 211  230 5 COMMISSION TO ADMINISTER THE CUSTOM LAWS IN IMPOSING DUTIES       
+ 211  230 6 ON IMPORTS, SAID COMMISSION TO BE SELECTED BY FINANCE             
+ 211  230 7 COMMITTEE OF SENATE COMPRISED OF FIVE SENATORS AND FIVE           
+ 211  230 8 REPRESENTATIVES.  (P. 9486-2)                                     
+ 212  231 1 CR-48-10-9488 J 62-2-475     HR25069   JULY 23, 1912              
+ 212  231 2 S622119       Y=34 N=20                WARREN, WYO.               
+ 212  231 3 TO AGREE TO AN AMENDMENT AS AMENDED TO H.R. 25069, WHICH          
+ 212  231 4 AMENDMENT APPROPRIATES $225,000 TO ENABLE THE PRESIDENT TO        
+ 212  231 5 OBTAIN INFORMATION CONCERNING COST OF PRODUCTION OF               
+ 212  231 6 COMMODITIES, INCLUDING THEIR COST OF MATERIAL AND                 
+ 212  231 7 FABRICATION.  (P. 9472-1)                                         
+ 213  232 1 CR-48-10-9523 J 62-2-477     HR25069   JULY 24, 1912              
+ 213  232 2 S622120       Y=28 N=28                JONES, WASH.               
+ 213  232 3 TO AMEND H.R. 25069, BY APPROPRIATING $70,000 FOR MEDICAL         
+ 213  232 4 RELIEF OF THE ESKIMOS, INDIANS, ALEUTS, AND OTHER NATIVES         
+ 213  232 5 OF ALASKA, FOR ERECTION, REPAIR AND EQUIPMENT OF HOSPITAL         
+ 213  232 6 BUILDINGS, FOR BOOKS, SURGICAL APPARATUS AND ALL NECESSARY        
+ 213  232 7 TRAVLING EXPENSES FOR THEIR NURSES, PHYSICIANS AND OTHER          
+ 213  232 8 MISCELLANEOUS EXPENSES.  (P. 9521-2)                              
+ 214  233 1 CR-48-10-9528 J 62-2-478A    HR25069   JULY 24, 1912              
+ 214  233 2 S622121       Y=34 N=19                WARREN, WYO.               
+ 214  233 3 TO CONCUR IN AN AMENDMENT TO H.R. 25069, WHICH AMENDMENT          
+ 214  233 4 APPROPRIATES $225,000 TO ENABLE THE PRESIDENT TO OBTAIN           
+ 214  233 5 INFORMATION CONCERNING COST OF PRODUCTION OF COMMODITIES,         
+ 214  233 6 INCLUDING THEIR COST OF MATERIAL AND FABRICATION.                 
+ 214  233 7 (P. 9527-2)                                                       
+ 215  234 1 CR-48-10-9529 J 62-2-478B    HR25069   JULY 24, 1912              
+ 215  234 2 S622122       Y=30 N=22                WARREN, WYO.               
+ 215  234 3 TO CONCUR IN AN AMENDMENT TO H.R. 25069, WHICH AMENDMENT          
+ 215  234 4 APPROPRIATES $5,000 FOR THE PURCHASE OF THE MOTOR BOAT            
+ 215  234 5 ALASKA FOR USE IN THE DISTRICT OF ALASKA FOR INVESTIGATING        
+ 215  234 6 AND INSPECTING THE CUTTING OF TIMBER.  (P. 9528-2)                
+ 216  235 1 CR-48-10-9532 J 62-2-478C    HR25069   JULY 24, 1912              
+ 216  235 2 S622122B      Y=27 N=25                                           
+ 216  235 3 TO CONCUR IN THE AMENDMENT TO H.R. 25069, WHICH PROVIDES          
+ 216  235 4 MORE MEN IN THE ARMY.                                             
+ 217  236 1 CR-48-10-9619 J 62-2-482     HR22195   JULY 25, 1912              
+ 217  236 2 S622123       Y=14 N=57                CUMMINS, IOWA              
+ 217  236 3 TO AMEND, IN THE NATURE OF A SUBSTITUTE, MADE IN THE              
+ 217  236 4 COMMITTEE OF THE WHOLE, FOR H.R. 22195, TARIFF DUTIES ON          
+ 217  236 5 WOOL, BY ELIMINATING ALL AFTER THE ENACTING CLAUSE AND SUB-       
+ 217  236 6 STITUTING THEREFORE A REVISED SCHEDULE INCREASING AND             
+ 217  236 7 REDUCING DUTIES ON WOOL.  (P. 9516-1)                             
+ 218  237 1 CR-48-10-9631 J 62-2-484     HR22195   JULY 25, 1912              
+ 218  237 2 S622124       Y=34 N=32                PENROSE, PA.               
+ 218  237 3 TO AMEND IN THE NATURE OF A SUBSTITUTE, MADE IN THE               
+ 218  237 4 COMMITTEE OF THE WHOLE FOR H.R. 22195, BY REDUCING DUTIES ON      
+ 218  237 5 ALL CLASSES OF WOOL.  (P. 9619-2)                                 
+ 219  238 1 CR-48-10-9632 J 62-2-485     HR22195   JULY 25, 1912              
+ 219  238 2 S622125       Y=40 N=26                CUMMINS, IOWA              
+ 219  238 3 TO AMEND H.R. 22195, BY CHANGING THE DATE FOR THE ORGANIZING      
+ 219  238 4 OF A TARIFF BOARD FROM JULY 1911 TO OCTOBER 1912.                 
+ 219  238 5 (P. 9632-1)                                                       
+ 220  239 1 CR-48-10-9635 J 62-2-486A    HR22195   JULY 25, 1912              
+ 220  239 2 S622126       Y=31 N=35                LODGE, MASS.               
+ 220  239 3 TO AMEND AN AMENDMENT TO H.R. 22195, BY DISCHARGING THE           
+ 220  239 4 PRESENT BOARD AND CREATING A NEW TARIFF BOARD OF FIVE             
+ 220  239 5 MEMBERS TO INVESTIGATE TARIFF.  (P. 9634-2)                       
+ 221  240 1 CR-48-10-9637 J 62-2-486B    HR22195   JULY 25, 1912              
+ 221  240 2 S622127       Y=30 N=36                MCCUMBER, N.D.             
+ 221  240 3 TO AMEND AN AMENDMENT TO H.R. 22195, BY REPEALING AN ACT          
+ 221  240 4 PROMOTING RECIPROCAL TRADE RELATIONS WITH CANADA, BY LEVYING      
+ 221  240 5 A DUTY OF $2.00 PER TON ON PAPERS IMPORTED FROM CANADA.           
+ 221  240 6 (P. 9636-1)                                                       
+ 222  241 1 CR-48-10-9638AJ 62-2-487     HR22195   JULY 25, 1912              
+ 222  241 2 S622128       Y=39 N=27                LAFOLLETTE, WISC.          
+ 222  241 3 TO AMEND IN THE NATURE OF A SUBSTITUTE FOR H.R. 22195, BY         
+ 222  241 4 REDUCING THE DUTY ON WOOL AND WOOL PRODUCTS, TEXTILES AND         
+ 222  241 5 TEXTILE RAW MATERIALS.  (P. 9634-2)                               
+ 223  242 1 CR-48-10-9638BJ 62-2-487     HR22195   JULY 25, 1812              
+ 223  242 2 S622129       Y=40 N=26                PENROSE, PA.               
+ 223  242 3 TO PASS H.R. 22195.  (P. 9638-2)                                  
+ 224  243 1 CR-48-10-9703 J 62-2-491A    HR21214   JULY 26, 1912              
+ 224  243 2 S622130       Y=38 N=29                CUMMINS, IOWA              
+ 224  243 3 TO AMEND H.R. 21214, A BILL EXTENDING THE SPECIAL EXCISE TAX      
+ 224  243 4 AND PROVIDING REVENUE FOR THE GOV'T., BY CREATING A TARIFF        
+ 224  243 5 BOARD TO SUPERCEDE THE BOARD NOW EXISTING.  (P. 9702-1)           
+ 225  244 1 CR-48-10-9706 J 62-2-491B    HR21214   JULY 26, 1912              
+ 225  244 2 S622131       Y=27 N=37                BACON, GA.                 
+ 225  244 3 TO AMEND AN AMENDMENT TO H.R. 21214, BY REPEALING THE ACT         
+ 225  244 4 PROMOTING RECIPROCAL TRADE RELATIONS WITH CANADA, BUT PRO-        
+ 225  244 5 VIDING TO RETAIN ITS PROVISIONS RELATIVE TO WOOD, WOOD PULP       
+ 225  244 6 PRINTING PAPER.  (P. 9703-2)                                      
+ 226  245 1 CR-48-10-9707 J 62-2-491C    HR21214   JULY 26, 1912              
+ 226  245 2 S622132       Y=37 N=26                GRONNA, N.D.               
+ 226  245 3 TO AMEND H.R. 21214, BY REPEALING RECIPROCAL TRADE RELATIONS      
+ 226  245 4 WITH CANADA, UNDER ACT OF JUNE 26, 1911, AND FIXING THE DUTY      
+ 226  245 5 ON WOOD PULP AND PRINTING PAPER.  (P. 9703-1)                     
+ 227  246 1 CR-48-10-9708 J 62-2-493A    HR21214   JULY 26, 1912              
+ 227  246 2 S622133       Y=23 N=32                BORAH, IDAHO               
+ 227  246 3 TO AMEND H.R. 21214, BY ELIMINATING ALL AFTER THE ENACTING        
+ 227  246 4 CLAUSE AND SUBSTITUTING THEREFOR A NEW SECTION, RELATING TO       
+ 227  246 5 INCOME TAXES AND PROPOSING TO GRADUATE SAME UPWARD FROM           
+ 227  246 6 $5,000., TO $100,000.  (P. 9680-1,2,9681-3)                       
+ 228  247 1 CR-48-10-9709 J 62-2-493B    HR21214   JULY 26, 1912              
+ 228  247 2 S622134       Y=37 N=18                PENROSE, PA.               
+ 228  247 3 TO PASS H.R. 21214.  (P. 9707-2)                                  
+ 229  248 1 CR-48-10-9755 J 62-2-495A    HR21213   JULY 27, 1912              
+ 229  248 2 S622135       Y=37 N=25                PENROSE, PA.               
+ 229  248 3 TO AGREE TO AN AMENDMENT AS AMENDED TO H.R. 21213, A BILL         
+ 229  248 4 TO AMEND AN ACT ENTITLED "AN ACT TO PROVIDE REVENUE,              
+ 229  248 5 EQUALIZE DUTIES AND ENCOURAGE THE INDUSTRIES OF THE U.S. AND      
+ 229  248 6 FOR OTHER PURPOSES," APPROVED AUG. 5, 1909, SAID AMENDMENT        
+ 229  248 7 LEVYING A DUTY ON SUGAR AND SUGAR PRODUCTS.  (P. 9735-1)          
+ 230  249 1 CR-49-10-9758 J 62-2-495B    HR21213   JULY 27, 1912              
+ 230  249 2 S622136       Y=24 N=36                SIMMONS, N.C.              
+ 230  249 3 TO AGREE TO THE AMENDMENT IN THE NATURE OF A SUBSTITUTE TO        
+ 230  249 4 H.R. 21213, WHICH AMENDMENT RELATES TO A DUTY ON SUGAR AND        
+ 230  249 5 SUGAR PRODUCTS.  (P. 9757-2                                       
+ 231  250 1 CR-48-10-9762AJ 62-2-496     HR21213   JULY 27, 1912              
+ 231  250 2 S622137       Y=21 N=34                BACON, GA.                 
+ 231  250 3 TO AMEND AN AMENDMENT TO H.R. 21213, BY REPEALING RECIPROCAL      
+ 231  250 4 TRADE RELATIONS WITH CANADA APPROVED UNDER ACT OF                 
+ 231  250 5 JUNE 26, 1911, BUT RETAINING ITS PROVISIONS RELATING TO WOOD      
+ 231  250 6 PULP WOOD AND PRINT PAPER.  (P. 9758-2)                           
+ 232  251 1 CR-48-10-9762BJ 62-2-496     HR21213   JULY 27, 1912              
+ 232  251 2 S622138       Y=24 N=31                MCCUMBER, N.D.             
+ 232  251 3 TO AMEND H.R. 21213, BY REPEALING THE ACT PROMOTING               
+ 232  251 4 RECIPROCAL TRADE RELATIONS WITH CANADA, AND BY FIXING THE         
+ 232  251 5 DUTY AT $2.00 PER TON ON PRINTING PAPER.  (P. 9758-2)             
+ 233  252 1 CR-48-10-9763 J 62-2-496     HR21213   JULY 27, 1912              
+ 233  252 2 S622139       Y=52 N=3                 PENROSE, PA.               
+ 233  252 3 TO PASS H.R. 21213.  (P. 9763-1)                                  
+ 234  253 1 CR-48-10-9938 J 62-2-500     S4862     JULY 31, 1912              
+ 234  253 2 S622140       Y=42 N=17                DIXON, MONT.               
+ 234  253 3 TO PASS OVER PRESIDENTS VETO, S. 4862, A BILL GRANTING            
+ 234  253 4 RELIEF TO CERTAIN PERSONS WHO SUPPLIED LABOR AND MATERIALS        
+ 234  253 5 FOR THE CONSTRUCTION OF THE CORBELT TUNNEL OF THE SHOSHONE        
+ 234  253 6 IRRIGATION PROJECT.  (P. 9938-1)                                  
+ 235  254 1 CR-48-10-10005J 62-2-503     HR21279   AUG. 1, 1912               
+ 235  254 2 S622141       Y=27 N=25                BOURNE, ORE.               
+ 235  254 3 TO AGREE TO THE AMENDMENT AS AMENDED TO H.R. 21279,               
+ 235  254 4 (37 STAT. 539, 8-24-12) A BILL MAKING APPROPRIATIONS FOR THE      
+ 235  254 5 SERVICE OF THE POST OFFICE DEPARTMENT FOR FISCAL 1913,            
+ 235  254 6 WHICH AMENDMENT PERMITS FRATERNAL SOCIETIES, UNIONS, AND          
+ 235  254 7 ORDERS TO MAIL THEIR PUBLICATIONS AS SECOND CLASS MATTER.         
+ 235  254 8 (P. 10001-2)                                                      
+ 236  255 1 CR-48-10-10046J 62-2-511     SJR371    AUG. 2, 1912               
+ 236  255 2 S622142       Y=51 N=4                 LODGE, MASS.               
+ 236  255 3 TO PASS S.J.RES. 371, A RESOLUTION DECLARING THAT THE GOV'T       
+ 236  255 4 CANNOT SEE WITHOUT GRAVE CONCERN THE OCCUPATION OF ANY            
+ 236  255 5 PLACE IN THE AMERICAN CONTINENT BY ANY CORP. OR ASSOCIATION       
+ 236  255 6 CONNECTED WITH ANY OTHER GOVERNMENT WHICH THREATENS THE           
+ 236  255 7 SAFETY OF THIS GOVERNMENT AND WHICH WOULD GIVE SUCH OTHER         
+ 236  255 8 GOVERNMENT PRACTICAL CONTROL OF SUCH PLACE FOR MILITARY           
+ 236  255 9 PURPOSES.  (P. 10045-1)                                           
+ 237    7 1 CR-48-10-10139J 62-2-640     IMP       AUG. 3, 1912               
+ 237    7 2 I622144       Y=44 N=19                GALLINGER, N.H.            
+ 237    7 3 TO ADOPT AN ORDER REGARDING INPEACHMENT OF ROBERT ARCHBALD,       
+ 237    7 4 FURNISHES THE SERGEANT OF ARMS WITH A LIST OF WITNESSES           
+ 237    7 5 WHO SHALL BE SUBPEONAED BY HIM TO APPEAR 12 O'CLOCK AND 30        
+ 237    7 6 MINUTES POST MERIDIAN ON DEC. 3, 1912, TO PROCEED WITH TRIAL      
+ 237    7 7 OF ABOVED NAMED.  (P. 10139-1)                                    
+ 238  256 1 CR-48-10-10125J 62-2-512     HR18642   AUG. 3, 1912               
+ 238  256 2 S622143       Y=33 N=28                SIMMONS, N.C.              
+ 238  256 3 TO RECEDE FROM AN AMENDMENT TO H.R. 18642, AN ACT AMENDING        
+ 238  256 4 AN ACT PROVIDING REVENUE, EQUALIZING DUTIES AND ENCOURAGING       
+ 238  256 5 THE INDUSTRIES OF THE U.S., SAID AMENDMENT REDUCING DUTIES        
+ 238  256 6 ON IRON AND STEEL.  (P. 10125-1)                                  
+ 239  257 1 CR-48-10-10200J 62-2-515     HR22195   AUG. 5, 1912               
+ 239  257 2 S622145       Y=35 N=28                                           
+ 239  257 3 TO AGREE TO THE REPORT OF COMMITTEE ON CONFERENCE TO              
+ 239  257 4 H.R. 22195, REDUCING THE DUTIES ON WOOL AND MANUFACTURES OF       
+ 239  257 5 WOOL, WHICH REPORT RECOMMENDS AN AMENDMENT FURTHER REDUCING       
+ 239  257 6 DUTY ON WOOL AND WOOL PRODUCTS.  (P. 10184-2)                     
+ 240  258 1 CR-48-10-10212J 62-2-515     HR18985   AUG. 5, 1912               
+ 240  258 2 S622146       Y=24 N=33                OVERMAN, N.C.              
+ 240  258 3 TO RECEDE FROM THE AMENDMENT TO H.R. 18985, (37 STAT. 311,        
+ 240  258 4 8-17-12), A BILL MAKING APPROPRIATIONS FOR THE PAYMENT OF         
+ 240  258 5 INVALID AND OTHER PENSIONS OF THE U.S. FOR FISCAL 1913,           
+ 240  258 6 WHICH AMENDMENT REDUCES FROM $164,500,000, TO $164,000,000,       
+ 240  258 7 AMOUNT APPROPRIATED FOR THE ARMY AND NAVY PENSIONS BY THE         
+ 240  258 8 SENATE.  (P. 7427-1,10211-2)                                      
+ 241  259 1 CR-48-10-10295J 62-2-518     HR21969   AUG. 6, 1912               
+ 241  259 2 S622147       Y=43 N=14                BRANDEGEE, CONN.           
+ 241  259 3 TO AMEND, IN THE NATURE OF A SUBSTITUTE  H.R. 21969,              
+ 241  259 4 (37 STAT. L. 560, 8-24-12), A BILL TO PROVIDE FOR THE             
+ 241  259 5 OPENING, MAINTENANCE, PROTECTION AND OPERATION OF THE             
+ 241  259 6 PANAMA CANAL AND THE SANITATION AND GOVERNMENT OF THE CANAL       
+ 241  259 7 ZONE, BY AUTHORIZING THE PRESIDENT TO EXECUTE ORDERS              
+ 241  259 8 DISCONTINUING THE ISTHMIAN CANAL COMMISSION AND TO APPOINT        
+ 241  259 9 A GOVERNOR OF THE PANAMA CANAL BY CONSENT OF THE SENATE, FOR      
+ 241  25910 FOUR YEARS AT A SALARY OF $10,000 PER ANNUM, (SUBJECT TO          
+ 241  25911 REMOVAL).  (P. 10294-2,10295-1)                                   
+ 242  260 1 CR-48-10-10335J 62-2-520     HR18985   AUG. 7, 1912               
+ 242  260 2 S622148       Y=28 N=27                SHIVELY, IND.              
+ 242  260 3 TO CONCUR IN HOUSE AMENDMENTS TO SENATE AMENDMENTS 2,3, AND       
+ 242  260 4 4, TO H.R. 18985, WHICH HOUSE AMENDMENTS PROPOSE TO POSTPONE      
+ 242  260 5 ABOLITION OF THE PENSION AGENCIES TO DEC. 31, 1912.               
+ 242  260 6 (P. 10335-1)                                                      
+ 243  261 1 CR-48-10-10336J 62-2-520     HR18985   AUG. 7, 1912               
+ 243  261 2 S622149       Y=29 N=26                MCCUMBER, N.D.             
+ 243  261 3 TO DISAGREE TO HOUSE AMENDMENTS TO SENATE AMENDMENTS 2-3-AND      
+ 243  261 4 4, TO H.R. 18985, WHICH HOUSE AMENDMENTS PROPOSE TO POSTPONE      
+ 243  261 5 ABOLITION OF PENSION AGENCIES TO DEC. 31, 1912.                   
+ 243  261 6 (P. 10336-1)                                                      
+ 244  262 1 CR-48-10-10334J 62-2-520     HR24023   AUG. 7, 1912               
+ 244  262 2 S622150       Y=30 N=19                                           
+ 244  262 3 TO AGREE TO THE REPORT OF COMMITTEE ON CONFERENCE TO              
+ 244  262 4 H.R. 24023, A BILL MAKING APPROPRIATIONS FOR THE LEGISLA-         
+ 244  262 5 TIVE, EXECUTIVE, AND JUDICIAL BRANCHES OF THE GOVERNMENT          
+ 244  262 6 FOR FISCAL 1913.  (P. 10055-1,10334-2)                            
+ 245  263 1 CR-48-10-10396J 62-2-521     HR21969   AUG. 7, 1912               
+ 245  263 2 S622152       Y=11 N=44                BURTON, OHIO               
+ 245  263 3 TO AMEND H.R. 21969, BY LEVYING A TOLL UPON VESSELS ENGAGED       
+ 245  263 4 EXCLUSIVELY IN THE COASTWISE TRADE OF THE U.S.                    
+ 245  263 5 (P. 10394-2)                                                      
+ 246  264 1 CR-48-10-10443J 62-2-523A    HR21969   AUG. 8, 1912               
+ 246  264 2 S622153       Y=34 N=24                WILLIAMS, MISS.            
+ 246  264 3 TO AMEND H.R. 21969, BY REPEALING ALL LEGAL PROHIBITIONS          
+ 246  264 4 ON AMERICAN REGISTRATION OF FOREIGN BUILT SHIPS, PROVIDED         
+ 246  264 5 THEY ARE EXCLUSIVELY OF AMERICAN OWNERSHIP.  (P. 10434-1)         
+ 247  265 1 CR-48-10-10448J 62-2-523     HR21969   AUG. 8, 1912               
+ 247  265 2 S622154       Y=37 N=23                BRANDEGEE, CONN.           
+ 247  265 3 TO AGREE TO AN AMENDMENT TO H.R. 21969, WHICH AMENDMENT           
+ 247  265 4 PROVIDES THAT NO TOLL SHALL BE LEVIED UPON AMERICAN VESSELS       
+ 247  265 5 ENGAGED IN FOREIGN TRADE IF OWNERS AGREE TO TURN SAME OVER        
+ 247  265 6 TO THE U.S. IN CASE OF WAR OR OTHER EMERGENCY, UPON PAYMENT       
+ 247  265 7 TO THE OWNERS OF THEIR ACTUAL VALUE TO BE DETERMINED BY           
+ 247  265 8 APPRAISAL.  (P. 10444-2)                                          
+ 248  266 1 CR-48-11-10584J 62-2-525     HR21969   AUG. 9, 1912               
+ 248  266 2 S622155       Y=49 N=18                SMITH, GA.                 
+ 248  266 3 TO AMEND H.R. 21969, BY LIMITING A PROVISION OF ACT MAKING        
+ 248  266 4 IT UNLAWFUL FOR ANY RAILROAD TO HAVE ANY INTEREST IN ANY          
+ 248  266 5 COMMON CARRIER BY WATER, TO THOSE CARRIERS OPERATING THROUGH      
+ 248  266 6 THE PANAMA CANAL.  (P. 10458-1)                                   
+ 249  267 1 CR-48-1110585AJ 62-2-52      HR21969   AUG. 9, 1912               
+ 249  267 2 S622156       Y=35 N=28                REED, MO.                  
+ 249  267 3 TO PASS AN AMENDMENT AS MODIFIED TO H.R. 21969, WHICH             
+ 249  267 4 AMENDMENT PROVIDES THAT NO COASTWISE TRADING SHIPS SHALL          
+ 249  267 5 BE PERMITTED TO USE THE PANAMA CANAL IF SAME IS CONTROLLED        
+ 249  267 6 BY OWNER DOING BUSINESS IN VIOLATION OF ANY U.S. ANTI-TRUST       
+ 249  267 7 LAWS.  (P. 10585-1)                                               
+ 250  268 1 CR-48-1110585BJ 62-2-52      HR21969   AUG. 9, 1912               
+ 250  268 2 S622157       Y=0 N=59                 FALL, N.M.                 
+ 250  268 3 TO AMEND H.R. 21969, BY PROPOSING THAT NO SHIPS CARRYING          
+ 250  268 4 MERCHANDISE, MANUFACTURED UNDER VIOLATION OF ANY PROVISIONS       
+ 250  268 5 OF EITHER ACTS OF CONGRESS REFERRED TO SHALL BE PERMITTED TO      
+ 250  268 6 USE THE CANAL UNTIL THEY HAVE BEEN EXAMINED BY PROPER             
+ 250  268 7 OFFICIALS AND A DECLARATION HAS BEEN MADE THAT OWNERS OF          
+ 250  268 8 SHIPS HAVE VIOLATED NO LAW.  (P. 10585-2)                         
+ 251  269 1 CR-48-11-10586J 62-2-526     HR21969   AUG. 9, 1912               
+ 251  269 2 S622158       Y=36 N=25                BOURNE, ORE.               
+ 251  269 3 TO AMEND H.R. 21969, BY EMPOWERING THE INTERSTATE COMMERCE        
+ 251  269 4 COMMISSION TO DIVEST OF OWNERSHIP ANY RAILROAD COMPANY            
+ 251  269 5 OPERATNG SHIPS IN AN ATTEMPT TO MONOPOLIZE TRANSPORTATION.        
+ 251  269 6 (P. 10586-1)                                                      
+ 252  270 1 CR-48-11-10588J 62-2-526     HR21969   AUG. 9, 1912               
+ 252  270 2 S622159       Y=33 N=29                BRANDEGEE, CONN.           
+ 252  270 3 TO CONCUR IN AN AMENDMENT TO H.R. 21969, WHICH AMENDMENT          
+ 252  270 4 PROVIDES THAT NO SHIPS, OWNED, CHARTERED, OPERATED OR             
+ 252  270 5 CONTROLLED BY PERSONS OR COMPANIES DOING BUSINESS IN              
+ 252  270 6 VIOLATION OF ACT OF CONGRESS APPROVED JULY 2, 1890, ENGAGED       
+ 252  270 7 IN OR PERMITTED BY TERMS OF THIS ACT ENGAGED IN COASTWISE         
+ 252  270 8 TRADE OF U.S. SHALL ENTER OR PASS THROUGH THE CANAL.              
+ 252  270 9 (P. 10588-2)                                                      
+ 253  271 1 CR-48-1110589AJ 62-2-52      HR21969   AUG. 9, 1912               
+ 253  271 2 S622160       Y=36 N=23                REED, MO.                  
+ 253  271 3 TO CONCUR IN THE AMENDMENT TO H.R. 21969, WHICH AMENDMENT         
+ 253  271 4 PROVIDES THAT NO SHIPS ENGAGED IN OR PERMITTED BY TERMS OF        
+ 253  271 5 THIS ACT TO ENGAGE IN COASTWISE TRADE OF U.S., SHALL BE           
+ 253  271 6 PERMITTED TO ENTER OR PASS THRU SAID CANAL IF SUCH  SHIP IS       
+ 253  271 7 OWNED, CHARTERED, OPERATED OR CONTROLLED BY PERSONS OR            
+ 253  271 8 COMPANY DOING BUSINESS IN VIOLATION OF ACT OF CONGRESS            
+ 253  271 9 APPROVED JULY 2, 1890, "AN ACT TO PROTECT TRADE AND COMMERCE      
+ 253  27110 AGAINST UNLAWFUL RESTRAINTS AND MONOPLIES, TO REDUCE TAXAT-       
+ 253  27111 ION AND PROVIDE REVENUE." (P. 10588-1)                            
+ 254  272 1 CR-48-1110589BJ 62-2-52      HR21969   AUG. 9, 1912               
+ 254  272 2 S622161       Y=18 N=45                BRANDEGEE, CONN.           
+ 254  272 3 TO AMEND H.R. 21969, BY ELIMINATING SECTION 11, MAKING IT         
+ 254  272 4 UNLAWFUL FOR ANY SHIP OWNED, CHARTERED, OPERATED OR               
+ 254  272 5 CONTROLLED BY A RAILROAD COMPANY DIRECT OR INDIRECT THROUGH       
+ 254  272 6 STOCK OWNERSHIP OR OTHERWISE TO PASS THRU PANAMA CANAL IF         
+ 254  272 7 ENGAGED IN COASTWISE TRADE BETWEEN PORTS OF THE U.S., AND BY      
+ 254  272 8 PRIMITTING ANY SHIP OF AMERICAN REGISTRY HOWEVER OWNED OR         
+ 254  272 9 CONTROLLED TO OPERATE THROUGH CANAL IN TRANSOCEANIC TRADE TO      
+ 254  27210 AND FROM ORIENTAL OR EUROPEAN COUNTRIES.  (P. 10555-2)            
+ 255  273 1 CR-48-11-10590J 62-2-528     HR21969   AUG. 9, 1912               
+ 255  273 2 S622162       Y=47 N=15                BRANDEGEE, CONN.           
+ 255  273 3 TO PASS H.R. 21969.  (P. 10589-2)                                 
+ 256  274 1 CR-48-1110648AJ 62-2-53      S3        AUG. 10, 1912              
+ 256  274 2 S622163       Y=33 N=13                PAGE, VT.                  
+ 256  274 3 TO PROCEED TO CONSIDERATION ON SATURDAY NEXT, OF S. 3, A          
+ 256  274 4 BILL RELATING TO VOCATIONAL EDUCATION; NO QUORUM VOTING.          
+ 256  274 5 (P. 10646-1)                                                      
+ 257  275 1 CR-48-1110648BJ 62-2-53      S3        AUG. 10, 1912              
+ 257  275 2 S622164       Y=33 N=13                PAGE, VT.                  
+ 257  275 3 TO PROCEED TO CONSIDERATION ON SATURDAY NEXT, OF S. 3, A          
+ 257  275 4 BILL RELATING TO VOCATIONAL EDUCATION; NO QUORUM VOTING.          
+ 257  275 5 (P. 10648-2)                                                      
+ 258  276 1 CR-48-11-10713J 62-2-534     HR21279   AUG. 12, 1912              
+ 258  276 2 S622165       Y=37 N=21                BOURNE, ORE.               
+ 258  276 3 TO AGREE TO AN AMENDMENT TO H.R. 21279, (37 STAT. 539,            
+ 258  276 4 8-24-12), A BILL MAKING APPROPRIATIONS FOR THE SERVICE OF         
+ 258  276 5 THE POST OFFICE DEPARTMENT FOR FISCAL 1913, WHICH AMENDMENT,      
+ 258  276 6 APPROPRIATES $5,000 FOR EXPENSES IN EMPLOYING CLERICAL HELP       
+ 258  276 7 AND CONDUCTING HEARINGS TO INQUIRE INTO SUBJECT OF FEDERAL        
+ 258  276 8 AID IN CONSTRUCTION OF HIGHWAYS, AND TO APPOINT A JOINT           
+ 258  276 9 COMMITTEE COMPOSED OF THREE MEMBERS EACH OF HOUSE AND SENATE      
+ 258  27610 FOR THIS PURPOSE.  (P. 10650-2)                                   
+ 259  277 1 CR-48-11-10792J 62-2-540     HR21279   AUG. 13, 1912              
+ 259  277 2 S622166       Y=20 N=31                JONES, WASH.               
+ 259  277 3 TO AMEND H.R. 21279, BY PROVIDING THAT MEMBERSHIP IN ANY          
+ 259  277 4 SOCIETY, ASSOCIATIONS, CLUB OR OTHER FORM OF ORGANIZATION OF      
+ 259  277 5 POSTAL EMPLOYEES NOT AFFILIATED WITH OUTSIDE ORGANIZATIONS        
+ 259  277 6 HAVING FOR ITS OBJECT, IMPROVEMENTS IN LABOR AND COMPENSAT-       
+ 259  277 7 ION THEREFORE, SHALL NOT CONSTITUTE OR BE CAUSE FOR REDUC-        
+ 259  277 8 TION IN RANK OR COMPENSATION OR REMOVAL FROM SAID SERVICE.        
+ 259  277 9 (P. 10790-2)                                                      
+ 260  278 1 CR-48-11-10804J 62-2-540     HR21279   AUG. 13, 1912              
+ 260  278 2 S622167       Y=49 N=7                 REED, MO.                  
+ 260  278 3 TO AMEND H.R. 21279, BY PERMITTING POSTAL EMPLOYEES TO            
+ 260  278 4 ORGANIZE AS THEY SEE FIT IN THEIR OWN WAY, PROVIDED, THAT         
+ 260  278 5 THEY SHALL NOT TIE THEMSELVES UP TO AN OUTSIDE ORGANIZATION       
+ 260  278 6 WHICH IMPOSES AN OBLIGATION OR DUTY TO STRIKE AND TO TIE UP       
+ 260  278 7 THE BUSINESS OF THE U.S.  (P. 10796-2)                            
+ 261  279 1 CR-48-11-10821J 62-2-540     HR21279   AUG. 13, 1912              
+ 261  279 2 S622168       Y=20 N=40                BRISTOW, KAN.              
+ 261  279 3 TO AMEND H.R. 21279, BY PROVIDING THAT IN CASE OF EMERGENCY,      
+ 261  279 4 OR IF NEEDS OF SERVICE REQUIRE, LETTER CARRIERS IN THE CITY       
+ 261  279 5 DELIVERY SERVICE AND CLERKS IN "1 AND 2" CLASS POST OFFICES       
+ 261  279 6 CAN BE REQUIRED TO WORK IN EXCESS OF EIGHT HOURS A DAY AND        
+ 261  279 7 THEY SHALL BE PAID EXTRA IN PROPORTION TO THEIR SALARIES.         
+ 261  279 8 (P. 10820-2)                                                      
+ 262  280 1 CR-  -11-10824J 62-2-540     HR21279   AUG. 13, 1912              
+ 262  280 2 S622169       Y=29 N=28                SMITH, S.C.                
+ 262  280 3 TO AMEND H.R. 21279, BY REGULATING THE RATES AND MODES OF         
+ 262  280 4 TRAVEL FOR THE MAIL ON RAILROAD ROUTES.  (P. 10822-1)             
+ 263  281 1 CR-48-11-10828J 62-2-541     HR21279   AUG. 13, 1912              
+ 263  281 2 S622170       Y=22 N=33                SMITH, GA.                 
+ 263  281 3 TO AMEND H.R. 21279, BY REDUCING THE RATES ON PARCEL POST         
+ 263  281 4 FROM THREE TO TWO CENTS FOR EACH ADDITIONAL OR PORTION OF A       
+ 263  281 5 POUND ABOVE THE FIRST POUND FOR DELIVERY WITHIN THE FIRST         
+ 263  281 6 ZONE.  (P. 10826-1)                                               
+ 264  282 1 CR-48-11-10830J 62-2-541     HR21279   AUG. 13, 1912              
+ 264  282 2 S622171       Y=54 N=2                 BOURNE, ORE.               
+ 264  282 3 TO CONCUR IN AN AMENDMENT TO H.R. 21279, WHICH AMENDMENT          
+ 264  282 4 PROVIDES THAT POSTMASTER GENERAL ESTABLISH AND PROMULGATE         
+ 264  282 5 RULES AND REGULATIONS FOR LETTING CONTRACTS FOR CARRYING          
+ 264  282 6 MAILS ON RURAL ROUTES UPON PLANS NOW PROVIDED, NO CONTRACTS       
+ 264  282 7 TO PROVIDE COMPENSATION IN EXCESS OF $1,200 PER ANNUM.            
+ 264  282 8 (P. 10825-1)                                                      
+ 265  283 1 CR-48-11-10831J 62-2-542     HR21279   AUG. 13, 1912              
+ 265  283 2 S622172       Y=22 N=29                MYERS, MONT.               
+ 265  283 3 TO RECONSIDER VOTE ON AN AMENDMENT OFFERED BY SENATOR BRYAN       
+ 265  283 4 TO H.R. 21279, WHICH AMENDMENT ALLOWS COMPENSATORY TIME TO        
+ 265  283 5 POSTAL EMPLOYEES FOR EXTRA SERVICE, OR ONE OF THE SIX DAYS        
+ 265  283 6 (SUNDAY EXCEPTED) FOLLOWING THE DAY ON WHICH THEY PERFORM         
+ 265  283 7 SUCH SERVICE.  (P. 10830-2)                                       
+ 266  284 1 CR-48-11-10901J 62-2-544     HR25034   AUG. 14, 1912              
+ 266  284 2 S622173       Y=14 N=46                LAFOLLETTE, WISC.          
+ 266  284 3 TO AMEND H.R. 25034, A BILL TO REDUCE DUTIES ON MANUFACTURES      
+ 266  284 4 OF COTTON, BY CHANGING FROM SPECIFIC TO AD VALOREM THE            
+ 266  284 5 DUTIES ON COTTON CLOTH BLEACHED, UNBLEACHED, DYED, COLORED        
+ 266  284 6 STAINED, PAINTED, PRINTED, MERCERIZED.  (P. 10897-1,2)            
+ 267  285 1 CR-48-11-10902J 62-2-544     HR25034   AUG. 14, 1912              
+ 267  285 2 S622174       Y=29 N=31                OLIVER, PA.                
+ 267  285 3 TO AMEND H.R. 25034, BY REPEALING ACT TO PROMOTE RECIPROCAL       
+ 267  285 4 TRADE RELATIONS WITH THE DOMINION OF CANADA, APPROVED             
+ 267  285 5 JULY 26, 1911.  (P. 10902-2)                                      
+ 268  286 1 CR-48-1110903AJ 62-2-54      HR25034   AUG. 14, 1912              
+ 268  286 2 S622175       Y=51 N=9                 KENYON, IOWA               
+ 268  286 3 TO AMEND H.R. 25034, BY REPEALING SECTIONS 1 AND 3 OF AN ACT      
+ 268  286 4 ENTITLED AN ACT PROMOTING RECIPROCAL TRADE RELATIONS WITH         
+ 268  286 5 THE DOMINION OF CANADA, APPROVED JULY 26, 1911.                   
+ 268  286 6 (P. 10896-2)                                                      
+ 269  287 1 CR-48-1110903BJ 62-2-54      HR25034   AUG. 14, 1912              
+ 269  287 2 S622176       Y=36 N=19                PENROSE, PA.               
+ 269  287 3 TO PASS H.R. 25034.  (P. 10903-2)                                 
+ 270  288 1 CR-48-1110991AJ 62-2-55      HR16571   AUG. 15, 1912              
+ 270  288 2 S622177       Y=27 N=32                DILLINGHAM, VT.            
+ 270  288 3 TO AMEND AN AMENDMENT TO H.R. 16571, (C 373-37 STAT. L. 499,      
+ 270  288 4 8-24-12), A BILL GIVING EFFECT TO THE CONVENTION BETWEEN THE      
+ 270  288 5 GOVERNMENTS OF U.S., GREAT BRITAIN, JAPAN AND RUSSIA, FOR         
+ 270  288 6 THE PRESERVATION AND PROTECTION OF THE FUR SEALS AND SEA          
+ 270  288 7 OTTER WHICH FREQUENT THE WATERS OF THE NORTH PACIFIC OCEAN        
+ 270  288 8 CONCLUDED AT WASHINGTON JULY 7, 1911, BY REDUCING PERIOD OF       
+ 270  288 9 SUSPENSION FOR THE KILLING OF MALE SEALS FROM 10 YEARS TO         
+ 270  28810 FIVE YEARS.  (P. 10990-2)                                         
+ 271  289 1 CR-48-1110991BJ 62-2-55      HR16571   AUG. 15, 1912              
+ 271  289 2 S622178       Y=42 N=18                CULLOM, ILL.               
+ 271  289 3 TO AGREE TO AN AMENDMENT TO H.R. 16571, (C 373-37 STAT. L.        
+ 271  289 4 499, 8-24-12), A BILL GIVING EFFECT TO THE CONVENTION             
+ 271  289 5 BETWEEN THE GOVERNMENTS OF THE U.S., GT. BRITAIN, JAPAN, AND      
+ 271  289 6 RUSSIA FOR THE PRESERVATION, AND PROTECTION OF THE FUR SEALS      
+ 271  289 7 AND SEA OTTER WHICH FREQUENT THE WATERS OF NORTH PACIFIC          
+ 271  289 8 OCEAN CONCLUDED AT WASHINGTON JULY 7, 1911, WHICH AMENDMENT       
+ 271  289 9 EMPOWERING THE SEC. OF COMMERCE AND LABOR TO AUTHORIZE THE        
+ 271  28910 KILLING OF FUR SEALS AND REMOVING THEM FROM ALASKA UNDER          
+ 271  28911 PRESCRIBED REGULATIONS.  (P. 10975-2,10976-1,2)                   
+ 272  290 1 CR-48-11-10992J 62-2-550     SJR78     AUG. 15, 1912              
+ 272  290 2 S622179       Y=41 N=17                CUMMINS, IOWA              
+ 272  290 3 TO CONSIDER S.J.RES. 78, RELATING TO AN AMENDMENT TO THE          
+ 272  290 4 CONSTITUTION, WHICH PROVIDES THAT THE PRESIDENT AND VICE          
+ 272  290 5 PRESIDENT OF THE U.S. SHALL HOLD OFFICE FOR A PERIOD OF 6         
+ 272  290 6 YEARS AND SHALL NOT BE ELIGIBLE TO A SECOND TERM.                 
+ 272  290 7 (P. 10991-2)                                                      
+ 273  291 1 CR-48-11-11065J 62-2-554     HR21969   AUG. 16, 1912              
+ 273  291 2 S622180       Y=48 N=18                BRANDEGEE, CONN.           
+ 273  291 3 TO AGREE TO THE CONFERENCE REPORT ON H.R. 21969, (C 390-37        
+ 273  291 4 STAT. L. 560-8-24-12), A BILL PROVIDING FOR THE OPENING,          
+ 273  291 5 MAINTENANCE, PROTECTION AND OPERATION OF THE PANAMA CANAL         
+ 273  291 6 AND THE SANITATION AND GOVERNMENT OF CAAL ZONE.                   
+ 273  291 7 (P. 11053-2)                                                      
+ 274  292 1 CR-48-11-11069J 62-2-555     HR18642   AUG. 16, 1912              
+ 274  292 2 S622181       Y=32 N=39                PENROSE, PA.               
+ 274  292 3 TO PASS OVER PRESIDENTS' VETO, H.R. 18642, A BILL AMENDING        
+ 274  292 4 AN ACT, PROVIDING REVENUE, EQUALIZING DUTIES, AND ENCOURAG-       
+ 274  292 5 ING THE INDUSTRIES OF THE U.S. (METAL SCHEDULE).                  
+ 274  292 6 (P. 11065-2)                                                      
+ 275  293 1 CR-48-11-11081J 62-2-557     HR22195   AUG. 16, 1912              
+ 275  293 2 S622182       Y=39 N=36                PENROSE, PA.               
+ 275  293 3 TO PASS OVER PRESIDENTS' VETO H.R. 22195, AN ACT REDUCING         
+ 275  293 4 THE DUTIES ON WOOL, MANUFACTURES OF WOOL.  (P. 11069-28           
+ 275  293 5 11081-1)                                                          
+ 276  294 1 CR-48-11-11255J 62-2-586     HR26321   AUG. 19, 1912              
+ 276  294 2 S622183       Y=35 N=23                OVERMAN, N.C.              
+ 276  294 3 TO AMEND AN AMENDMENT TO H.R. 26321, A BILL MAKING                
+ 276  294 4 APPROPRIATIONS FOR THE LEGISLATIVE, EXECUTIVE AND JUDICIAL        
+ 276  294 5 EXPENSES OF THE GOVERNMENT FOR FISCAL 1913, BY ABOLISHING         
+ 276  294 6 THE COMMERCE COURT AND APPROPRIATING THE SUM OF $62,000 FOR       
+ 276  294 7 EXPENSES OF CLERKS AND OFFICERS.  (P. 11240-1)                    
+ 277  295 1 CR-48-11-11458J 62-2-595     HR26321   AUG. 21, 1912              
+ 277  295 2 S622184       Y=34 N=27                WARREN, WYO.               
+ 277  295 3 TO PASS OVER PRESIDENTS' VETO H.R. 26321, A BILL MAKING           
+ 277  295 4 APPROPRIATIONS FOR THE LEGISLATIVE, EXECUTIVE AND JUDICIAL        
+ 277  295 5 EXPENSES OF THE GOVERNMENT FOR FISCAL 1913.  (P. 11443-2,         
+ 277  295 6 11457-2)                                                          
+ 278  296 1 CR-48-11-11469J 62-2-595     PROC      AUG. 21, 1912              
+ 278  296 2 S622185       Y=4 N=47                 HEYBURN, IDAHO             
+ 278  296 3 TO ADJOURN, A MOTION MADE DURING DEBATE ON S. 3315, A BILL        
+ 278  296 4 PROHIBITING CORPORATIONS FROM MAKING CONTRIBUTIONS IN             
+ 278  296 5 CONNECTION WITH POLITICAL ELECTIONS AND TO LIMIT THE              
+ 278  296 6 AMOUNT OF NET CONTRIBUTIONS BY INDIVIDUALS OR PERSONS.            
+ 278  296 7 (P. 11469-1)                                                      
+ 279  297 1 CR-48-11-11470J 62-2-595     S3315     AUG. 21, 1912              
+ 279  297 2 S622186       Y=38 N=9                 CULBERSON, TEX.            
+ 279  297 3 TO CONSIDER S. 3315; NO QUORUM VOTING.  (P. 11468-2)              
+ 280  298 1 CR-48-11-11471J 62-2-595     S3315     AUG. 21, 1912              
+ 280  298 2 S622187       Y=39 N=4                 CULBERSON, TEX.            
+ 280  298 3 TO CONSIDER S. 3315; NO QUORUM VOTING.  (P. 11470-2,11468-2)      
+ 281  299 1 CR-48-11-11471J 62-2-596     S3315     AUG. 21, 1912              
+ 281  299 2 S622188       Y=35 N=2                 CULBERSON, TEX.            
+ 281  299 3 TO PROCEED TO CONSIDERATION OF S. 3315; NO QUORUM VOTING.         
+ 281  299 4 (P. 11471-2)                                                      
+ 282  300 1 CR-48-11-11532J 62-2-610     HR25531   AUG. 22, 1912              
+ 282  300 2 S622189       Y=32 N=17                DUPONT, DEL.               
+ 282  300 3 TO PROCEED TO CONSIDERATION OF THE REPORT OF COMMITTEE ON         
+ 282  300 4 CONFERENCE REGARDING H.R. 25531, (37 STAT. 569, 8-24-12), A       
+ 282  300 5 BILL MAKING APPROPRIATIONS FOR SUPPORT OF THE ARMY FOR            
+ 282  300 6 FISCAL 1913.  (P. 11532-1,11527-2)                                
+ 283  301 1 CR-48-11-11794J 62-2-617     SRE       AUG. 24, 1912              
+ 283  301 2 S622190       Y=8 N=27                 SMOOT, UTAH                
+ 283  301 3 TO PROCEED TO CONSIDERATION OF UNOBJECTED BILLS ON THE            
+ 283  301 4 CALENDAR UNDER RULE EIGHT; NO QUORUM VOTING.  (P. 11792-2)        
+ 284  302 1 CR-48-11-11795J 62-2-617     SRE       AUG. 24, 1912              
+ 284  302 2 S622191       Y=6 N=30                 SMOOT, UTAH                
+ 284  302 3 TO PROCEED TO CONSIDERATION OF UNOBJECTED BILLS ON THE            
+ 284  302 4 CALENDAR UNDER RULE EIGHT, NO QUORUM VOTING.  (P. 11795-1,        
+ 284  302 5 11792-2)                                                          
+ 285  303 1 CR-48-11-11797J 62-2-618     SRE       AUG. 24, 1912              
+ 285  303 2 S622192       Y=7 N=28                 SMOOT, UTAH                
+ 285  303 3 TO PROCEED TO CONSIDERATION OF UNOBJECTED BILLS ON THE            
+ 285  303 4 CALENDAR UNDER RULE EIGHT; NO QUORUM VOTING.  (P. 11797-1)        
+ 286    8 1 CR-49-1-106   J 62-3-318A    IMP       DEC. 4, 1912               
+ 286    8 2 I623001       Y=3 N=57                 POINDEXTER, WASH.          
+ 286    8 3 TO DECIDE THE POINT OF ORDER THAT MR. WEBB'S OFFERING IN          
+ 286    8 4 EVIDENCE COPY OF AN ASSIGNMENT BY C.J. WILLIAMS TO                
+ 286    8 5 WILLIAM P. BALAND, OF TWO OPTIONS COVERING A BANK,                
+ 286    8 6 KNOWN AS THE KATYDID, EXECUTED SEPT. 5, A.D. 1911, BE             
+ 286    8 7 RECEIVED AND THE DECISIONS AS TO ITS ADMISSIBILITY BE             
+ 286    8 8 RESERVED.  (P. 106-1)                                             
+ 287    9 1 CR-49-1-107   J 62-3-318B    IMP       DEC. 4, 1912               
+ 287    9 2 I623002       Y=55 N=6                 CLARK, WYO.                
+ 287    9 3 TO DECIDE IF CERTAIN EVIDENCE MAY BE ADMITTED.  THE EVIDENCE      
+ 287    9 4 IS A CONTRACT MADE WITH JUDGE ARCHBALD AS SILENT PARTNER.         
+ 287    9 5 (P. 106-1)                                                        
+ 288   10 1 CR-49-1-578   J 62-3-321     IMP       DEC. 13, 1912              
+ 288   10 2 I623003       Y=29 N=25                                           
+ 288   10 3 TO DECIDE WHETHER THE EVIDENCE IN FORM OF QUESTION BY             
+ 288   10 4 MANAGER FLOYD TO MR. BALAND, ASKING HIM WHETHER OR NOT            
+ 288   10 5 DURING COURSE OF NEGOTIATIONS HE HAD ANY CONVERSATION WITH        
+ 288   10 6 MR. WATSON, RELATIVE TO JUDGE ARCHBALD'S INTEREST OR              
+ 288   10 7 PARTICIPATION IN THIS SETTLEMENT, PARTICULARLY AS TO WHETHER      
+ 288   10 8 HE WAS TO SHARE IN THE FEE OR RECEIVE ANY MONEY OR OTHER          
+ 288   10 9 CONSIDERATIONS, FOR HIS SERVICES IN ATTEMPTING TO MAKE THAT       
+ 288   1010 SETTLEMENT, SHALL BE ADMITTED; OVER OBJECTION OF                  
+ 288   1011 ALEXANDER SIMPSON JR; COUNSEL FOR DEFENSE.  (P. 368-1,            
+ 288   1012 578-2)                                                            
+ 289  304 1 CR-49-1-696   J 62-3-34      SRE       DEC. 16, 1612              
+ 289  304 2 S623004       Y=51 N=18                SMOOT, UTAH                
+ 289  304 3 TO PASS A RESOLUTION AUTHORIZING THE ELECTION OF 2 SENATORS       
+ 289  304 4 TO ACT AS PRESIDENT PROTEM OF SENATE - ALTERNATING AS             
+ 289  304 5 FOLLOWS, GALLINGER (R. N.H.) DECEMBER 16, 1912, TO                
+ 289  304 6 JAN 4, 1913; BACON (D. OF GA.) JAN 15, TO 18 1913;                
+ 289  304 7 GALLINGER (R. OF N.H.) JAN. 19, 1913 TO FEB. 1, 1913; BACON       
+ 289  304 8 (D. OF GA.) FEB. 2-15-1913; GALLINGER (R. N.H.) FEB. 16, TO       
+ 289  304 9 MARCH 3, 1913.  (P. 695-2)                                        
+ 290  305 1 CR-49-1-832   J 62-3-39      PROC      DEC. 18, 1912              
+ 290  305 2 S623005       Y=29 N=2                 CULLOM, ILL.               
+ 290  305 3 TO GO INTO EXECUTIVE SESSION FOR CONSIDERATION OF EXECUTIVE       
+ 290  305 4 BUSINESS; NO QUORUM.  (P. 832-1)                                  
+ 291  306 1 CR-49-1-883   J 62-3-45      PROC      DEC. 19, 1912              
+ 291  306 2 S623006       Y=49 N=0                 LODGE, MASS.               
+ 291  306 3 TO GO INTO EXECUTIVE SESSION.  (P. 882-2)                         
+ 292   11 1 CR-49-2-1386  J 62-3-325     IMP       JAN. 11, 1913              
+ 292   11 2 I623004       Y=40 N=31                MCCUMBER, N.D.             
+ 292   11 3 TO AMEND THE ORDER, PROVIDING THAT UPON THE FINAL VOTES IN        
+ 292   11 4 THE PENDING CASE EACH SENATOR, MAY, IN GIVING HIS VOTE,           
+ 292   11 5 STATE HIS REASONS THEREFOR AND MAY FILE HIS OPINION IN            
+ 292   11 6 WRITING WITHIN 2 DAYS, TO BE PUBLISHED IN PRINTED                 
+ 292   11 7 PROCEEDINGS OF CASE, BY ELIMINATING THE FIRST PART OF ORDER.      
+ 292   11 8 (P. 1386-1)                                                       
+ 293  307 1 CR-49-2-1387  J 62-3-63A     HR8768    JAN. 11, 1913              
+ 293  307 2 S623008       Y=40 N=14                CURTIS, KAN.               
+ 293  307 3 TO CONSIDER THE CONFERENCE REPORT ON H.R. 8768, (37 STAT.         
+ 293  307 4 657, 2-4-13), A BILL REGULATING THE BUSINESS OF LOANING           
+ 293  307 5 MONEY ON SECURITY OF ANY KIND BY PERSONS, FIRMS AND               
+ 293  307 6 CORPORATIONS OTHER THAN NATIONAL BANKS, LICENSED BANKERS,         
+ 293  307 7 TRUST COMPANIES, SAVING BANKS, BUILDING AND LOAN ASSOCIATION      
+ 293  307 8 AND REAL ESTATE BOOKERS IN DISTRICT OF COLUMBIA.                  
+ 293  307 9 (P. 1387-1)                                                       
+ 294  308 1 CR-49-2-1395  J 62-3-63B     S4043     JAN. 11, 1913              
+ 294  308 2 S623009       Y=40 N=17                SMOOT, UTAH                
+ 294  308 3 TO PROVIDE THAT THE UNANIMOUS CONSENT AGREEMENT ENTERED INTO      
+ 294  308 4 YESTERDAY TO VOTE ON S. 4043, (PASSED OVER VETO CHAP. 90, 37      
+ 294  308 5 STAT. L. 699, APP. 3-1-1913), A BILL TO PROHIBIT INTERSTATE       
+ 294  308 6 COMMERCE IN INTOXICATING LIQUORS IN CERTAIN CASES, BE             
+ 294  308 7 RESUBMITTED TO THE SENATE BECAUSE SEN. SMOOT WAS UNABLE TO        
+ 294  308 8 OBJECT TO SUCH UNANIMOUS CONSENT BY REASON OF THE CHAIR           
+ 294  308 9 HAVING RECOGNIZED ANOTHER SENATOR.  (P. 1324-281395-1)            
+ 295   12 1 CR-49-2-1439  J 62-3-326     IMP       JAN. 13, 1913              
+ 295   12 2 I623005       Y=68 N=5                                            
+ 295   12 3 TO DECIDE IF JUDGE ARCHBALD IS GUILTY OR NOT GUILTY, AS           
+ 295   12 4 CHARGED IN THE FIRST ARTICLE OF IMPEACHMENT, OF HIGH CRIMES       
+ 295   12 5 AND MISDEMEANOR IN USING HIS OFFICE TO INDUCE ERIE R. CO.         
+ 295   12 6 AND HILLSIDE COAL AND IRON CO., TO ENTER INTO A CONTRACT          
+ 295   12 7 WITH HIM AND E.J. WILLIAMS, FOR SALE OF CERTAIN PROPERTY          
+ 295   12 8 WITH PROFIT TO HIM AND HIS PARTNERS.                              
+ 295   12 9 (P. 1438-2)                                                       
+ 296   13 1 CR-49-2-1440A J 62-3-327A    IMP       JAN. 13, 1913              
+ 296   13 2 I623006       Y=46 N=25                                           
+ 296   13 3 TO DECIDE IF JUDGE ARCHBALD IS GUILTY OR NOT GUILTY AS            
+ 296   13 4 CHARGED IN ARTICLE 2, ESTABLISHING GUILT, IN INDUCING             
+ 296   13 5 DELAWARE L. AND W. RAILROAD CO., TO ENTER INTO AN AGREEMENT       
+ 296   13 6 WITH MR. WASTON, FOR SETTLEMENT OF A LITIGATION AND A SALE,       
+ 296   13 7 OF 2/3 STOCK OF MARION COAL CO., JUDGE ARCHBALD, ASSISTING        
+ 296   13 8 MR. WASTON IN BOTH TRANSACTIONS FOR A CONSIDERATION.              
+ 296   13 9 (P. 1439-2)                                                       
+ 297   14 1 CR-49-2-1440B J 62-3-328A    IMP       JAN. 13, 1913              
+ 297   14 2 I623007       Y=52 N=20                                           
+ 297   14 3 TO DECIDE IF JUDGE ARCHBALD IS GUILTY OR NOT GUILTY, AS           
+ 297   14 4 CHARGED IN ARTICLE 4, OF WRITING SECRETLY AND UNLAWFUL            
+ 297   14 5 LETTERS TO ATTORNEY OF LOUISVILLE AND NASHVILLE RAILROAD          
+ 297   14 6 CO., WHICH HAD LITIGATION IN HIS COURT DAMAGING TO INTERESTS      
+ 297   14 7 OF D.L. AND W. RAILROAD CO.  (P. 1440-2)                          
+ 298   15 1 CR-49-2-1440C J 62-3-327B    IMP       JAN. 13, 1913              
+ 298   15 2 I623007       Y=60 N=11                                           
+ 298   15 3 TO DECIDE IF JUDGE ARCHBALD IS GUILTY OR NOT GUILTY AS            
+ 298   15 4 CHARGED IN ARTICLE 3, OF INDUCING LEHIGH V. RAILROAD CO., TO      
+ 298   15 5 LEASE HIM AND ASSOCIATES PROPERTY CONTAINING 472,670 TONS OF      
+ 298   15 6 COAL WHILE RAILROAD WAS IN LITIGATION WITH INTERSTATE             
+ 298   15 7 COMMERCE COMMISSION IN HIS COURT.  (P. 1440-1)                    
+ 299   16 1 CR-49-2-1441A J 62-3-328B    IMP       JAN. 13, 1913              
+ 299   16 2 I623009       Y=66 N=6                                            
+ 299   16 3 TO DECIDE IF JUDGE ARCHBALD IS GUILTY OR NOT GUILTY AS            
+ 299   16 4 CHARGED, IN ARTICLE 5 OF IMPEACHMENT, FOR CORRUPTLY               
+ 299   16 5 ACCEPTING GIFT FROM FRED WARNKE, $500, IN CONSIDERATION OF        
+ 299   16 6 FAVORS SHOWN HIM BY THE JUDGE, IN SECURING AGREEMENT WITH         
+ 299   16 7 PHILADELPHIA AND READING RAILROAD CO. AND THEIR COAL AND          
+ 299   16 8 IRON CO. WHICH PREVIOUSLY THEY REFUSED TO GRANT.                  
+ 299   16 9 (P. 144-1)                                                        
+ 300   17 1 CR-49-2-1441B J 62-3-329A    IMP       JAN. 13, 1913              
+ 300   17 2 I623010       Y=24 N=45                                           
+ 300   17 3 TO DECIDE IF JUDGE ARCHBALD IS GUILTY OR NOT GUILTY AS            
+ 300   17 4 CHARGED; IN ARTICLE 6 OF IMPEACHMENT; OF CORRUPTLY                
+ 300   17 5 INFLUENCING AS JUDGE THE LEHIGH VALLEY COAL CO. AND               
+ 300   17 6 L.V. R.R. CO. TO BUY INTEREST IN TRACT OF COAL LAND OF            
+ 300   17 7 800 ACRES, BELONGING TO EVERHARTH HEIRS.  (P. 1441-2)             
+ 301   18 1 CR-49-2-1442  J 62-3-329B    IMP       JAN. 13, 1913              
+ 301   18 2 I623011       Y=29 N=36                                           
+ 301   18 3 TO DECIDE IF JUDGE ARCHBALD IS GUILTY OR NOT GUILTY AS            
+ 301   18 4 CHARGED IN ARTICLE 7 OF IMPEACHMENT; THAT IN A SUIT TRIED         
+ 301   18 5 BEFORE HIM, HE RENDERED DECISION IN FAVOR OF A DEFENDENT          
+ 301   18 6 FROM WHOM HE HAD ACCEPTED PROMISSORY NOTE FOR $2,500.             
+ 301   18 7 (P. 1442-1)                                                       
+ 302   19 1               J 62-3-329C    IMP       JAN. 13, 1913              
+ 302   19 2 I623012       Y=22 N=42                                           
+ 302   19 3 TO DECIDE IF JUDGE ARCHBALD IS GUILTY OR NOT GUILTY, AS           
+ 302   19 4 CHARGED IN ARTICLE 8 OF IMPEACHMENT; THAT WHILE SUIT WAS          
+ 302   19 5 PENDING AGAINST A COAL COMPANY, INVOLVING A LARGE SUM OF          
+ 302   19 6 MONEY, ARCHBALD DREW A NOTE PAYABLE TO HIMSELF FOR $500 TO        
+ 302   19 7 BE PRESENTED FOR DISCOUNT TO OWNERS OF COAL COMPANY.              
+ 302   19 8 (P. 1443-1)                                                       
+ 303   20 1 CR-49-2-1443B J 62-3-330A    IMP       JAN. 13, 1913              
+ 303   20 2 I623013       Y=23 N=39                                           
+ 303   20 3 TO DECIDE IF JUDGE ARCHBALD IS GUILTY OR NOT GUILTY AS            
+ 303   20 4 CHARGED IN ARTICLE 9 OF IMPEACHMENT; HAD JUDGE ARCHBALD           
+ 303   20 5 USED HIS INFLUENCE AS JUDGE TO HAVE A MR. VAN STORCH, A           
+ 303   20 6 DEFENDANT IN HIS COURT, DISCOUNT A NOTE FOR $500.                 
+ 303   20 7 IN SUIT IN ARCHBALD COURT, NOTE WAS NEVER PAID, JUDGE             
+ 303   20 8 ARCHBALD GUILTY OF GROSS MISDEMEANOR.  (P. 1443-2)                
+ 304   21 1 CR-49-2-1444A J 62-3-330B    IMP       JAN. 13, 1913              
+ 304   21 2 I623014       Y=1 N=65                                            
+ 304   21 3 TO DECIDE IF JUDGE ARCHBALD IS GUILTY OR NOT GUILTY AS            
+ 304   21 4 CHARGED IN ARTICLE 10 OF IMPEACHMENT, THAT HE UNLAWFULLY          
+ 304   21 5 ACCEPTED A LARGE SUM OF MONEY FROM HARRY W. CAMERON,              
+ 304   21 6 OFFICER AND DIRECTOR IN MANY RAILROADS, COAL MINING, TIMBER       
+ 304   21 7 LAND DEVELOPMENT COMPANIES, WHICH IN COURSE OF BUSINESS           
+ 304   21 8 WERE LIABLE TO BE INTERESTED IN LITIGATION COMING BEFORE          
+ 304   21 9 JUDGE ARCHBALD'S COURT, IN WHICH ARCHBALD WAS ACCUSED OF          
+ 304   2110 MISBEHAVIOR AND MISDEMEANOR.  (P. 1444-1)                         
+ 305   22 1 CR-49-2-1444B J 62-3-331A    IMP       JAN. 13, 1913              
+ 305   22 2 I623015       Y=11 N=51                                           
+ 305   22 3 TO DECIDE IF JUDGE ARCHBALD IS GUILTY OR NOT GUILTY AS            
+ 305   22 4 CHARGED IN ARTICLE 11 OF IMPEACHMENT, OF UNLAWFULLY               
+ 305   22 5 ACCEPTING MONEY IN EXCESS OF $500.00 FROM ATTORNEYS PRACTIC-      
+ 305   22 6 ING IN HIS COURT.  (P. 1444-2)                                    
+ 306   23 1 CR-49-2-1445  J 62-3-331B    IMP       JAN. 13, 1913              
+ 306   23 2 I623016       Y=19 N=46                                           
+ 306   23 3 TO DECIDE IF JUDGE ARCHBALD IS GUILTY OR NOT GUILTY AS            
+ 306   23 4 CHARGED IN ARTICLE 12 OF IMPEACHMENT, OF APPOINTING,              
+ 306   23 5 HIS JURY COMMISSIONER AS ATTORNEY OF LEHIGH VALLEY RAILROAD       
+ 306   23 6 CO.   (P. 1445-1)                                                 
+ 307   24 1 CR-49-2-1446  J 62-3-332A    IMP       JAN. 13, 1913              
+ 307   24 2 I62301        Y=42 N=20                                           
+ 307   24 3 TO DECIDE IF JUDGE ARCHBALD IS GUILTY OR NOT GUILTY AS            
+ 307   24 4 CHARGED IN ARTICLE 13 OF IMPEACHMENT, THAT HE USED HIS            
+ 307   24 5 INFLUENCE AS U.S. COMMERCE COURT AND U.S. DISTRICT JUDGE TO       
+ 307   24 6 INDUCE OFFICERS OF A NUMBER OF RAILROAD COMPANIES WHO WERE        
+ 307   24 7 INTERESTED IN SUITS PENDING IN HIS COURT, TO OBTAIN CREDITS       
+ 307   24 8 FOR HIS BUSINESS FOR SPECULATION AND PROFIT, IN BUYING COAL       
+ 307   24 9 PROPERTIES ETC. (P. 1146-2)                                       
+ 308   25 1 CR-49-2-1447  J 62-3-332B    IMP       JAN. 13, 1913              
+ 308   25 2 I623018       Y=39 N=35                O'GORMAN, N.Y.             
+ 308   25 3 TO PASS THE SECOND BRANCH OF AN ORDER DISBARRING FOREVER          
+ 308   25 4 JUDGE ARCHBALD FROM HOLDING PUBLIC OFFICE IN THE U.S.             
+ 308   25 5 (P. 1447-1,2)                                                     
+ 309  309 1 CR-49-2-1564  J 62-3-68A     HR26680   JAN. 15, 1913              
+ 309  309 2 S623024       Y=33 N=20                WARREN, WYO.               
+ 309  309 3 TO AMEND H.R. 26680, (37 STAT. 739, 3-4-13), A BILL               
+ 309  309 4 APPROPRIATING FOR THE LEGISLATIVE, EXECUTIVE, JUDICIAL            
+ 309  309 5 EXPENSES OF GOVERNMENT FOR FISCAL 1914, BY APPROPRIATING          
+ 309  309 6 $19,977.78, FOR MAINTENANCES OF COMMERCE COURT.  (P. 1559-`)      
+ 309  309 7 $19,977.78 FOR MAINTENANCES OF COMMERCE COURT.  (P. 1559-9)       
+ 310  310 1 CR-49-2-1568  J 62-3-68B     HR26680   JAN. 15, 1913              
+ 310  310 2 S623025       Y=17 N=14                CUMMINS, IOWA              
+ 310  310 3 TO DECIDE A POINT OF ORDER; WHETHER AN AMENDMENT TO               
+ 310  310 4 H.R. 26680 INCREASING THE SALARIES OF CERTAIN EMPLOYEES OF        
+ 310  310 5 THE HOUSE, IS IN ORDER UNDER RULE 16, PROHIBITING GENERAL         
+ 310  310 6 LEGISLATION FROM BEING ATTACHED TO AN APPROPRIATIONS BILL;        
+ 310  310 7 NO QUORUM VOTING.  (P. 1568-1)                                    
+ 311  311 1 CR-49-2-1611  J 62-3-70      HR26680   JAN. 16, 1913              
+ 311  311 2 S623026       Y=32 N=28                MARTIN, VA.                
+ 311  311 3 TO RECONSIDER VOTE BY WHICH AMENDMENT TO H.R. 26680 WAS           
+ 311  311 4 AGREED TO, WHICH AMENDMENT FIXES SALARY OF G.H. CARTER,           
+ 311  311 5 CLERK TO COMMITTEE ON PRINTING, AT $3,000.  (P. 1545,1612-1)      
+ 312  312 1 CR-49-2-1612  J 62-3-71      HR26680   JAN. 16, 1913              
+ 312  312 2 S623027       Y=31 N=30                WARREN, WYO.               
+ 312  312 3 TO CONCUR IN AN AMENDMENT TO H.R. 26680, WHICH AMENDMENT          
+ 312  312 4 FIXES THE SALARY OF G.H. CARTER, CLERK TO COMMITTEE ON            
+ 312  312 5 PRINTING, AT $3,000.  (P. 1545-1,1612-1)                          
+ 313  313 1 CR-49-2-1615  J 62-3-82      HR19115   JAN. 16, 1913              
+ 313  313 2 S623028       Y=21 N=41                LODGE, MASS.               
+ 313  313 3 TO AMEND AN AMENDMENT TO H.R. 19115, A BILL MAKING                
+ 313  313 4 APPROPRIATIONS FOR PAYMENT OF CERTAIN CLAIMS IN ACCORDANCE        
+ 313  313 5 WITH FINDING A COURT OF CLAIMS, BY APPROPRIATING 600,000 FOR      
+ 313  313 6 ACTUAL PROPERTY LOSSES TO PAY UNDER THE FINDING OF THE            
+ 313  313 7 COURT OF CLAIMS FOR SPOLIATIONS BY THE FRECNCH PRIOR TO           
+ 313  313 8 7-31-1801.  (P. 512-2,570-1,1207-1)                               
+ 314  314 1 CR-49-2-1783  J 62-3-97      PROC      JAN. 20, 1913              
+ 314  314 2 S623029       Y=26 N=30                SMOOT, UTAH.               
+ 314  314 3 TO GO INTO EXECUTIVE SESSION.  (P. 1782-2)                        
+ 315  315 1 CR-49-2-1832A J 62-3-101A    HR19115   JAN. 21, 1913              
+ 315  315 2 S623030       Y=19 N=28                NEWLANDS, NEV.             
+ 315  315 3 TO AMEND H.R. 19115, BY APPROPRIATING $92,000 FOR PAYMENT OF      
+ 315  315 4 SOME 80 CLAIMS FOR EXTRA PAY OF MECHANICS AND LABORERS ON         
+ 315  315 5 PUBLIC BUILDINGS IN SOME 25 STATES; NO QUORUM VOTING.             
+ 315  315 6 (P. 1826-1,1827-2)                                                
+ 316  316 1 CR-49-2-1832B J 62-3-101B    HR19115   JAN. 21, 1913              
+ 316  316 2 S623031       Y=20 N=29                NEWLANDS, NEV.             
+ 316  316 3 TO AMEND H.R. 19115, BY APPROPRIATING $92,000 FOR EXTRA PAY       
+ 316  316 4 OF MECHANICS AND LABORERS ON PUBLIC BUILDINGS IN SOME 25          
+ 316  316 5 STATES.  (P. 1826-181827-2)                                       
+ 317  317 1 CR-49-2-1877  J 62-3-103     PROC      JAN. 22, 1913              
+ 317  317 2 S623032       Y=36 N=27                SMOOT, UTAH                
+ 317  317 3 TO GO INTO EXECUTIVE SESSION.                                     
+ 317  317 4 (P. 1877-1)                                                       
+ 318  318 1 CR-49-2-1910  J 62-3-104     SJR143    JAN. 23, 1913              
+ 318  318 2 S623033       Y=45 N=22                CULBERSON, TEX.            
+ 318  318 3 TO PASS S.J.RES. 143, (37 STAT. 1025, 3-2-13), AUTHORIZING        
+ 318  318 4 SECTY. OF WAR TO LOAN CERTAIN TENTS FOR USE AT MEETING OF         
+ 318  318 5 IMPERIAL COUNCIL OF ANCIENT ARABIC ORDER OF THE MYSTIC            
+ 318  318 6 SHRINE, TO BE HELD AT DALLAS, TEXAS.  (P. 1908-2,1909-2)          
+ 319  319 1 CR-49-2-1954  J 62-3-108A    HR18787   JAN. 24, 1913              
+ 319  319 2 S623034       Y=31 N=31                SHIVELY, IND.              
+ 319  319 3 TO TABLE A MOTION TO RECONSIDER VOTE BY WHICH H.R. 18787,         
+ 319  319 4 (37 STAT. 776, APP. 3-3-13), A BILL LIMITING THE HOUR OF          
+ 319  319 5 DAILY SERVICE OF LABORERS AND MECHANICS EMPLOYED ON A PUBLIC      
+ 319  319 6 WORK OF U.S. AND OF D.C., AND ALL PERSONS EMPLOYED ON RIVERS      
+ 319  319 7 AND HARBORS OF U.S. AND D.C., WAS AMENDED.                        
+ 319  319 8 (P. 1780-1,1953-2)                                                
+ 320  320 1 CR-49-2-1955  J 62-3-108B    HR18787   JAN. 24, 1913              
+ 320  320 2 S623035       Y=27 N=37                MCCUMBER, N.D.             
+ 320  320 3 TO RECONSIDER VOTE BY WHICH H.R. 18787, (37 STAT. 776,            
+ 320  320 4 3-3-13), A BILL LIMITING THE HOUR OF DAILY SERVICE OF             
+ 320  320 5 LABORERS AND MECHANICS EMPLOYED ON A PUBLIC WORK OF U.S. AND      
+ 320  320 6 OF D.C., AND ALL PERSONS EMPLOYED ON RIVERS AND HARBORS OF        
+ 320  320 7 U.S. AND D.C., WAS PASSED.  (P. 1951-1)                           
+ 321  321 1 CR-49-3-2211  J 62-3-124A    PROC      JAN. 29, 1913              
+ 321  321 2 S623036       Y=31 N=31                CULLOM, ILL.               
+ 321  321 3 TO GO INTO EXECUTIVE SESSION.                                     
+ 322  322 1 CR-49-3-2215  J 62-3-124B    HR22871   JAN. 29, 1913              
+ 322  322 2 S623037       Y=12 N=44                SMITH, GA.                 
+ 322  322 3 TO AMEND A SUBSTITUTE AMENDMENT TO H.R. 22871, A BILL             
+ 322  322 4 SEEKING TO ESTABLISH AGRICULTURAL EXTENSION DEPARTMENTS AT        
+ 322  322 5 SUCH SCHOOLS AND COLLEGES AS ARE SUBSIDIZED UNDER ACT OF          
+ 322  322 6 JULY 2, 1862, AND SUPPLEMENTAL ACTS, BY DIVERTING THE             
+ 322  322 7 $3,000,000 APPROPRIATED TO SECONDARY SCHOOLS HAVING NO            
+ 322  322 8 DEPARTMENTS FOR INSTRUCTION OF AGRICULTURE, THE TRADES AND        
+ 322  322 9 INDUSTRIES AND HOME ECONOMICS, TO SCHOOLS OF SUCH GRADE THAT      
+ 322  32210 ARE EQUIPPED AND ESTABLISHED TO TEACH SUCH SUBJECTS.              
+ 322  32211 (P. 2212-1,2)                                                     
+ 323  323 1 CR-49-3-2225  J 62-3-125     HR22871   JAN. 29, 1913              
+ 323  323 2 S623038       Y=40 N=18                BRISTOW, KAN.              
+ 323  323 3 TO AMEND H.R. 22871, BY APPROPRIATING NOT MORE THAN $10,000       
+ 323  323 4 FROM THE GENERAL TREASURY FUND TO ENCOURAGE STATE                 
+ 323  323 5 APPROPRIATIONS FOR LIKE PURPOSES.  (P. 2224-2)                    
+ 324  324 1 CR-49-3-2228  J 62-3-129     HR22871   JAN. 29, 1913              
+ 324  324 2 S623039       Y=31 N=30                PAGE, VT.                  
+ 324  324 3 TO AMEND H.R. 22871, BY APPROPRIATING $15,000,000 FOR THE         
+ 324  324 4 FOLLOWING PURPOSES:  $3,000,000 TO SECONDARY AGRICULTURAL         
+ 324  324 5 SCHOOLS FOR INSTRUCTION IN THE INDUSTRIES, TRADES AND HOME        
+ 324  324 6 ECONOMICS; $3,000,000 TO SECONDARY SCHOOLS WHICH MAINTAIN         
+ 324  324 7 DISTRICT DEPARTMENTS IN WHICH THESE SUBJECTS ARE TAUGHT;          
+ 324  324 8 $3,000,000 FOR AGRICULTURAL HIGH SCHOOLS; $1,000,000 FOR          
+ 324  324 9 BRANCH EXPERIMENT STATIONS TO BE ESTABLISHED THRUOUT THE          
+ 324  32410 STATES; $1,000,000 TO AGRICULTURAL COLLEGES TO ESTABLISH          
+ 324  32411 DEPARTMENTS TO EDUCATE TEACHERS IN SAID SUBJECTS, $1000,000       
+ 324  32412 TO NORMAL SCHOOLS FOR THE SAME PURPOSES; ALL FOR THE PURPOSE      
+ 324  32413 OF ENCOURAGING AND MAINTAINING INSTRUCTION AND DEVELOPMENT        
+ 324  32414 OF FARM TRADES AND HOME ECONOMICS.  (P. 1955-1,2, 1664-6,7)       
+ 325  325 1 CR-49-3-2266  J 62-3-131A    SJR78     JAN. 30, 1913              
+ 325  325 2 S623040       Y=25 N=42                BACON, GA.                 
+ 325  325 3 TO AMEND AN AMENDMENT TO S.J.RES. 78, PROPOSING AN AMENDMENT      
+ 325  325 4 TO THE CONSTITUTION OF THE U.S. FIXING THE TERM OF OFFICE OF      
+ 325  325 5 PRESIDENT AT 4 INSTEAD OF 6 YEARS.  (P. 2258-2)                   
+ 326  326 1 CR-49-3-2274  J 62-3-131B    SJR78     JAN. 30, 1913              
+ 326  326 2 S623041       Y=10 N=58                BRISTOW, KAN.              
+ 326  326 3 TO AMEND AN AMENDMENT TO S.J.RES. 78, BY GIVING CONGRESS THE      
+ 326  326 4 POWER TO PROVIDE FOR THE RECALL OF THE PRESIDENT BY A             
+ 326  326 5 POPULAR VOTE AT ANY BIENNIAL ELECTION. (P. 2266-2)                
+ 327  327 1 CR-49-3-2354  J 62-3-132     SJR78     JAN. 31, 1913              
+ 327  327 2 S623042       Y=27 N=37                HITCHCOCK, NEB.            
+ 327  327 3 TO AMEND AN AMENDMENT TO S.J.RES. 78, BY INVESTING ALL            
+ 327  327 4 EXECUTIVE POWERS IN THE PRESIDENT FIXING HIS TERM OF OFFICE       
+ 327  327 5 AT 6 YEARS AND PROVIDING THAT NO PERSON WHO HAS HELD OFFICE       
+ 327  327 6 BY ELECTION AFTER MARCH 4, 1917, SHALL SUCCEED HIMSELF.           
+ 327  327 7 (P. 2345-1)                                                       
+ 328  328 1 CR-49-3-2360A J 62-3-133A    SJR78     JAN. 31, 1913              
+ 328  328 2 S623043       Y=3 N=61                 MCCUMBER, N.D.             
+ 328  328 3 TO AMEND AN AMENDMENT TO S.J.RES. 78, BY FIXING THE TERM OF       
+ 328  328 4 OFFICE OF THE PRES. FOR 4 YRS. AND PROVIDING THAT HE NOT BE       
+ 328  328 5 ELIGIBLE FOR MORE THAN TWO TERMS, AND FURTHER BARRING ANY         
+ 328  328 6 PERSON FROM HOLDING OFFICE FOR MORE THAN ONE FULL TERM AFTER      
+ 328  328 7 SERVING A MAJOR FRACTION OF ONE TERM.  (P. 2359-1)                
+ 329  329 1 CR-49-3-2360B J 62-3-133B    SJR78     JAN. 31, 1913              
+ 329  329 2 S623044       Y=30 N=36                PAYNTER, KY.               
+ 329  329 3 TO AMEND S.J.RES. 78, BY FIXING THE PRESIDENTS TERM OF            
+ 329  329 4 OFFICE AT 6 YEARS.  (P. 2360-1)                                   
+ 330  330 1 CR-49-3-2362  J 62-3-133C    SJR78     JAN. 31, 1913              
+ 330  330 2 S623045       Y=32 N=36                OWEN, OKLA.                
+ 330  330 3 TO AMEND AN AMENDMENT TO S.J.RES. 78, BY DOING AWAY WITH THE      
+ 330  330 4 ELECTORAL COLLEGE AND ELECTING PRESIDENT BY A POPULAR VOTE.       
+ 330  330 5 (P. 2361-1)                                                       
+ 331  331 1 CR-49-3-2363  J 62-3-133D    SJR78     JAN. 31, 1913              
+ 331  331 2 S623046       Y=13 N=53                OLIVER, PA.                
+ 331  331 3 TO AMEND AN AMENDMENT TO S.J.RES. 78, BY PROPOSING THAT THE       
+ 331  331 4 TERM OF OFFICE OF PRESIDENT OF U.S. ELECTED AFTER THE             
+ 331  331 5 RATIFICATION OF THE AMENDMENT, SHALL BE FOR SIX YEARS AND HE      
+ 331  331 6 CANNOT BE ELIGIBLE FOR OFFICE OF PRESIDENT AGAIN.                 
+ 331  331 7 (P. 2362-2)                                                       
+ 332  332 1 CR-49-3-2418  J 62-3-134A    SJR78     FEB. 1, 1913               
+ 332  332 2 S623047       Y=27 N=42                HITCHCOCK, NEB.            
+ 332  332 3 TO AMEND AN AMENDMENT TO S.J.RES. 78, BY ESTABLISHING A           
+ 332  332 4 PRINCIPLE THAT AS A RULE AND PART OF THE CONSTITUTION NO          
+ 332  332 5 MAN WHO HAS ONCE OCCUPIED THE OFFICE OF THE PRESIDENT OF THE      
+ 332  332 6 U.S. BY ELECTION SHALL BE ELIGIBLE TO REELECTION.                 
+ 332  332 7 (P. 2415-2)                                                       
+ 333  333 1 CR-49-3-2419A J 62-3-134B    SJR78     FEB. 1, 1913               
+ 333  333 2 S623048       Y=29 N=38                SUTHERLAND, UTAH           
+ 333  333 3 TO AMEND AN AMENDMENT TO S.J.RES. 78, BY LIMITING THE             
+ 333  333 4 TERM, OF OFFICE OF THE PRESIDENT OF THE U.S. TO 6                 
+ 333  333 5 YEARS.  (P. 2418-2)                                               
+ 334  334 1 CR-49-3-2419B J 62-3-134     SJR78     FEB. 1, 1913               
+ 334  334 2 S623049       Y=47 N=23                WORKS, CALIF.              
+ 334  334 3 TO PASS S.J.RES. 78.  (P. 2419-1,2)                               
+ 335  335 1 CR-49-3-2473A J 62-3-146A    PROC      FEB. 3, 1913               
+ 335  335 2 S623050       Y=37 N=37                SMOOT, UTAH                
+ 335  335 3 TO PROCEED TO CONSIDERATION OF EXECUTIVE BUSINESS.                
+ 335  335 4 (P. 2472-2)                                                       
+ 336  336 1 CR-49-3-2473B J 62-3-146B    S1        FEB. 3, 1913               
+ 336  336 2 S623051       Y=33 N=33                OWEN, OKLA.                
+ 336  336 3 TO CONSIDER S. 1, A BILL TO ESTABLISH A DEPARTMENT OF             
+ 336  336 4 HEALTH.  (P. 2471-1)                                              
+ 337  337 1 CR-49-3-2533  J 62-3-150     PROC      FEB. 4, 1913               
+ 337  337 2 S623052       Y=37 N=35                SMOOT, UTAH                
+ 337  337 3 TO GO INTO EXECUTIVE SESSION.  (P. 2533-1)                        
+ 338  338 1 CR-49-3-2637  J 62-3-155     PROC      FEB. 6, 1913               
+ 338  338 2 S623053       Y=36 N=34                LODGE, MASS.               
+ 338  338 3 TO GO INTO EXECUTIVE SESSION.  (P. 2637-1)                        
+ 339  339 1 CR-49-3-2922  J 62-3-167A    HR17593   FEB. 10, 1913              
+ 339  339 2 S623054       Y=61 N=23                CLARK, WYO.                
+ 339  339 3 TO AMEND H.R. 17593, A BILL CONCERNING INTERSTATE SHIPMENT        
+ 339  339 4 OF LIQUORS, BY PROVIDING THAT TRANSPORTATION INTO ANY STATE       
+ 339  339 5 OR TERRITORY OF FERMENTED, DISTILLED OR OTHER INTOXICATING        
+ 339  339 6 LIQUORS, REMAINING THEREIN BEFORE DELIVERY TO CONSIGNEE,          
+ 339  339 7 SHALL BE AMENABLE TO THE LAWS OF SUCH STATE AND SHALL NOT BE      
+ 339  339 8 EXEMPT BY REASON OF BEING INTRODUCED IN ORIGINAL PACKAGES OR      
+ 339  339 9 OTHERWISE.  (P. 2921-2)                                           
+ 340  340 1 CR-49-3-2923  J 62-3-167B    HR17593   FEB. 10, 1913              
+ 340  340 2 S623056       Y=41 N=41                CLARKE, ARK.               
+ 340  340 3 TO SUSTAIN POINT OF ORDER IN RESPECT TO AN AMENDMENT TO           
+ 340  340 4 H.R. 17593, WHICH AMENDMENT PROVIDED THAT NOTHING IN THIS         
+ 340  340 5 ACT BE CONSTRUED TO FORBID INTERSTATE SHIPMENT OF LIQUORS         
+ 340  340 6 INTENDED FOR SACRAMENTAL OR FOR PERSONAL PURPOSES; THE POINT      
+ 340  340 7 OF ORDER WAS THAT SAME IS NOT GERMANE TO THE BILL.                
+ 340  340 8 (P. 2922-2)                                                       
+ 341  341 1 CR-49-3-2924  J 62-3-167C    HR17593   FEB. 10, 1913              
+ 341  341 2 S623057       Y=31 N=50                O'GORMAN, N.Y.             
+ 341  341 3 TO AMEND H.R. 17593, BY PROVIDING THAT THIS ACT SHALL IN NO       
+ 341  341 4 WAY PROHIBIT THE SHIPMENT OF LIQUORS FOR SACREMANTAL USE.         
+ 341  341 5 (P. 2923-2)                                                       
+ 342  342 1 CR-49-4-3144  J 62-3-176     HR27941   FEB. 11, 1913              
+ 342  342 2 S623058       Y=35 N=21                GALLINGER, N.H.            
+ 342  342 3 TO TABLE AN AMENDMENT TO H.R. 27941, (37 STAT. 704,               
+ 342  342 4 3-2-13), A BILL MAKING APPROPRIATIONS FOR THE SUPPORT OF THE      
+ 342  342 5 ARMY FOR FISCAL 1914, WHICH AMENDMENT LIMITS EXPENDITURE OF       
+ 342  342 6 NAVY.  (P. 3144-1)                                                
+ 343  343 1 CR-49-4-3245  J 62-3-187A    HR28499   FEB. 11, 1913              
+ 343  343 2 S623059       Y=43 N=28                WARREN, WYO.               
+ 343  343 3 TO AMEND H.R. 28499, (37 STAT. 958, 3-4-13), A BILL MAKING        
+ 343  343 4 APPROPRIATIONS FOR THE EXPENSES OF THE GOVERNMENT OF THE          
+ 343  343 5 DISTRICT OF COLUMBIA FOR FISCAL 1914, BY INCREASING THE           
+ 343  343 6 SALARY OF THE CLERK IN THE EXECUTIVE OFFICE FROM $1300 TO         
+ 343  343 7 $1400.  (P. 3244-2)                                               
+ 344  344 1 CR-49-4-3266A J 62-3-187B    S8033     FEB. 11, 1913              
+ 344  344 2 S623060       Y=53 N=29                BANKHEAD, ALA.             
+ 344  344 3 TO AMEND S. 8033, A BILL TO AUTHORIZE THE CONNECTICUT RIVER       
+ 344  344 4 COMPANY TO RELOCATE AND CONSTRUCT A DAM ACROSS THE CONN.          
+ 344  344 5 RIVER ABOVE THE VILLAGE OF WINDSOR LOCKS, IN THE STATE OF         
+ 344  344 6 CONNECTICUT, BY ELIMINATING PROVISION GIVING SECTY. OF WAR        
+ 344  344 7 POWER TO FIX CHARGES TO BE PAID BY COMPANY.  (P. 3150-1)          
+ 345  345 1 CR-49-4-3266B J 62-3-187C    S8033     FEB. 11, 1913              
+ 345  345 2 S623061       Y=82 N=1                 BORAH, IDAHO               
+ 345  345 3 TO AMEND S. 8033, BY PROVIDING THAT THE PROVISIONS OF THE         
+ 345  345 4 ACT ENTITLED "AN ACT TO REGULATE COMMERCE PASSED AND              
+ 345  345 5 APPROVED FEB. 7, 1887, SHALL APPLY TO ANY CORPORATION OR ANY      
+ 345  345 6 PERSON OR PERSONS ENGAGED IN TRANSMITTING BY HYDROELECTRIC        
+ 345  345 7 POWER OR ELECTRICITY FROM ONE STATE, TERRITORY OR DISTRICT        
+ 345  345 8 OF THE U.S. OR FROM ONE PLACE IN A TERRITORY TO ANOTHER           
+ 345  345 9 PLACE IN THE SAME TERRITORY BUT SHALL NOT APPLY THOSE             
+ 345  34510 ENGAGED IN INTERSTATE SALE OF ELECTRICITY.  (P. 3266-2)           
+ 346  346 1 CR-49-4-3267  J 62-3-188A    S8033     FEB. 11, 1913              
+ 346  346 2 S623062       Y=55 N=27                CUMMINS, IOWA              
+ 346  346 3 TO AMEND S. 8033, BY ELIMINATING PROVISION DEFINING THE           
+ 346  346 4 RIGHTS OF PARTIES AFTER THE TERMINATION OF AUTHORITY, RIGHTS      
+ 346  346 5 AND PRIVILEGES, GRANTED HEREBY.  (P. 3267-2)                      
+ 347  347 1 CR-49-4-3268A J 62-3-188B    S8033     FEB. 11, 1913              
+ 347  347 2 S623063       Y=74 N=12                BRANDEGEE, CONN.           
+ 347  347 3 TO PASS S. 8033.  (P. 3267-2)                                     
+ 348  348 1 CR-49-4-3268  J 62-3-188C    S3175     FEB. 11, 1913              
+ 348  348 2 S623064       Y=75 N=9                 LODGE, MASS.               
+ 348  348 3 TO RECONSIDER VOTE BY WHICH S. 3175, A BILL TO REGULATE           
+ 348  348 4 IMMIGRATION OF ALIENS, WAS PASSED.  (P. 3268-1)                   
+ 349  349 1 CR-49-4-3271  J 62-3-188D    PROC      FEB. 11, 1913              
+ 349  349 2 S623065       Y=25 N=58                CLARKE, ARK.               
+ 349  349 3 TO ADJOURN, A MOTION MADE DURING CONSIDERATION OF S. 3175.        
+ 349  349 4 (P. 3271-1)                                                       
+ 350  350 1 CR-49-4-3318  J 62-3-189     S3175     FEB. 18, 1913              
+ 350  350 2 S623066       Y=72 N=18                DILLINGHAM, VT.            
+ 350  350 3 TO PASS S. 3175, OVER THE VETO OF THE PRESIDENT.                  
+ 351  351 1 CR-49-4-3334  J 62-3-194     HR28499   FEB. 18, 1913              
+ 351  351 2 S623067       Y=45 N=19                WARREN, WYO.               
+ 351  351 3 TO AMEND H.R. 28499, (37 STAT. 938, 3-4-13), A BILL MAKING        
+ 351  351 4 APPROPRIATIONS FOR THE EXPENSES OF THE DISTRICT OF COLUMBIA,      
+ 351  351 5 FOR FISCAL 1914, BY ELIMINATING THE REQUIREMENT OF                
+ 351  351 6 PARTICIPATION BY ADJACENT PROPERTY OWNERS IN ONE FOURTH OF        
+ 351  351 7 THE EXPENSE, AND ONE-HALF BY THE TREASURY IN CASE OF              
+ 351  351 8 IMPROVEMENT OF PROPERTY BY BUILDING NEW STREETS OR WIDENING       
+ 351  351 9 OLD ONE, IF STREET IS NOT OVER 20 FEET WIDE.                      
+ 351  35110 (P. 3329-2)                                                       
+ 352  352 1 CR-49-4-3376  J 62-3-196A    HR28499   FEB. 19, 1913              
+ 352  352 2 S623068       Y=42 N=26                WARREN, WYO.               
+ 352  352 3 TO AMEND H.R. 28499, BY APPROPRIATING $300,000 TOWARD THE         
+ 352  352 4 CONSTRUCTION OF A NEW CENTRAL HIGH SCHOOL ON THE SITE             
+ 352  352 5 PURCHASED FOR THAT PURPOSE AND TOWARD THE GRADING OF AN           
+ 352  352 6 ATHELETIC FIELD, THE CONSTRUCTION OF RETAINING WALLS AND THE      
+ 352  352 7 CONSTRUCTION OF AN ATHELETIC STADIUM, THE TOTAL CONSTRUCTION      
+ 352  352 8 NOT TO EXCEED $1,200,000 UNDER CONTRACTS.  (P. 3370-2)            
+ 353  353 1 CR-49-4-3382  J 62-3-196B    HR28499   FEB. 19, 1913              
+ 353  353 2 S623069       Y=40 N=15                WARREN, WYO.               
+ 353  353 3 TO AMEND H.R. 28499, BY APPROPRIATING $975,408, FOR INTEREST      
+ 353  353 4 AND SINKING FUND, AND SAME TO BE ACCOUNTED FOR IN ACCORDANCE      
+ 353  353 5 WITH THE ACTS OF CONGRESS.  (P. 3382-1)                           
+ 354  354 1 CR-49-4-3501  J 62-3-204     HR28180   FEB. 20, 1913              
+ 354  354 2 S623070       Y=10 N=54                JONES, WASH.               
+ 354  354 3 TO AMEND AN AMENDMENT TO RIVER AND HARBOR APPROPRIATION BILL      
+ 354  354 4 H.R. 28180, (37 STAT. L. 801, 3-4-13), BY ELIMINATING             
+ 354  354 5 PROVISO THAT 4% PER ANNUM INTEREST BE PAID TO THE U.S. ON         
+ 354  354 6 THE AMOUNT EXPENDED FOR IMPROVEMENTS IN WATER POWER IN THE        
+ 354  354 7 ST. PAUL AND MINNEAPOLIS, MINNESOTA DEVELOPMENT, FOR              
+ 354  354 8 CONSTRUCTION AND MAINTENANCE, OVER AND ABOVE ACTUAL               
+ 354  354 9 EXPENDITURES, EXCLUDING EXEMPTION OF COMPLETION CHARGES OF        
+ 354  35410 THAT PORTION OF THE PROJECT INTENDED FOR NAVIGATION PURPOSES      
+ 354  35411 ONLY.  (P. 3500-2)                                                
+ 355  355 1 CR-49-4-3501B J 62-3-205     HR28180   FEB. 20, 1913              
+ 355  355 2 S623073A      Y=46 N=16                NELSON, MINN.              
+ 355  355 3 TO AMEND H.R. 28180, BY APPROPRIATING $5,000,000 ANNUALLY         
+ 355  355 4 FROM JULY 1913, TO OPENING OF THE PANAMA CANAL TO REGULATE        
+ 355  355 5 THE CONTROL AND FLOW OF NAVIGABLE RIVERS IN AID OF INTER-         
+ 355  355 6 STATE COMMERCE BY STORING IN WATERSHEDS THE FLOOD WATERS OF       
+ 355  355 7 SUCH NAVIGABLE WATERS, AND THEREAFTER $50,000,000 ANNUALLY        
+ 355  355 8 FOR 10 YEARS FOLLOWING COMPLETION OF THE CANAL.  (P. 3498-1)      
+ 356  356 1 CR-49-4-3776  J 62-3-215A    HR28180   FEB. 24, 1913              
+ 356  356 2 S623072       Y=38 N=29                BRANDEGEE, CONN.           
+ 356  356 3 TO RAISE POINT OF ORDER REGARDING WHETHER THE AMENDMENT TO        
+ 356  356 4 H.R. 28180 IS GERMANE OR NOT, WHICH AMENDMENT CONCERNS THE        
+ 356  356 5 RELOCATION, MAINTENANCE AND OPERATION OF ENFIELD DAM,             
+ 356  356 6 CONNECTICUT RIVER.  (P. 3772-2)                                   
+ 357  357 1 CR-49-4-3781  J 62-3-215B    HR28180   FEB. 24, 1913              
+ 357  357 2 S623073B      Y=27 N=49                BURTON, OHIO               
+ 357  357 3 TO AMEND H.R. 28180, BY PROVIDING THAT THE CONNECTICUT RIVER      
+ 357  357 4 COMPANY SHALL RELOCATE ENFIELD DAM, ACROSS THE                    
+ 357  357 5 CONNECTICUT RIVER, MAINTAIN AND OPERATE IT WITH THE APPROVAL      
+ 357  357 6 OF THE SECRETARY OF WAR AND ACCORDING TO THE PLANS APPROVED       
+ 357  357 7 BY THE CHIEF OF ENGINEERS.  (P. 3772-2)                           
+ 358  358 1 CR-49-4-3782  J 62-3-216A    HR28180   FEB. 24, 1913              
+ 358  358 2 S623074       Y=37 N=35                MCLEAN, CONN.              
+ 358  358 3 TO AMEND H.R. 28180, BY GIVING THE ASSENT OF CONGRESS TO THE      
+ 358  358 4 CONNECTICUT RIVER COMPANY TO RELOCATE ITS "ENFIELD DAM" AND       
+ 358  358 5 TO CONSTRUCT, MAINTAIN AND OPERATE SAID DAM, WHICH SHALL          
+ 358  358 6 EXTEND ACROSS BOTH BRANCHES OF THE CONNECTICUT RIVER OPOSITE      
+ 358  358 7 KINGS ISLAND IN ACCORDANCE WITH ACTS REGULATING CONSTRUCTION      
+ 358  358 8 OF DAMS ACROSS NAVIGABLE WATERS.  (P. 3782-1)                     
+ 359  359 1 CR-49-4-3789  J 62-3-216B    HR28180   FEB. 24, 1913              
+ 359  359 2 S623075       Y=64 N=5                 OWEN, OKLA.                
+ 359  359 3 TO SUSTAIN THE DECISION OF THE CHAIR, A MOTION MADE DURING        
+ 359  359 4 CONSIDERATION OF H.R. 28180, WHICH DECISION PERTAINED TO          
+ 359  359 5 VETOING ITEMS UNDER THE ACT BY THE PRESIDENT PRIOR TO 10          
+ 359  359 6 DAYS AFTER THE NEXT ENSUING REGUALR SESSION.  (P. 3788-2)         
+ 360  360 1 CR-49-4-3792  J 62-3-217     HR28180   FEB. 24, 1913              
+ 360  360 2 S623076       Y=39 N=37                MARTIN, VA.                
+ 360  360 3 TO CONCUR IN THE AMENDMENT TO H.R. 28180, WHICH AMENDMENT         
+ 360  360 4 PROVIDES THAT CONSENT OF CONGRESS BE REQUIRED TO RELOCATE,        
+ 360  360 5 MAINTAIN AND OPERATE THE ENFIELD DAM, IN STATE OF CONN., TO       
+ 360  360 6 EXTEND THE SAME ACROSS BOTH BRANCHES OF CONN. RIVER BETWEEN       
+ 360  360 7 NORTHERLY AND SOUTHERLY POINTS OF KINGS ISLAND WITH APPROVAL      
+ 360  360 8 OF SECRETARY OF WAR.  (P. 3782-1)                                 
+ 361  361 1 CR-49-4-3882  J 62-3-220A    HR26874   FEB. 25, 1913              
+ 361  361 2 S623077       Y=34 N=37                LODGE, MASS.               
+ 361  361 3 TO RAISE A POINT OF ORDER, A MOTION MADE DURING                   
+ 361  361 4 CONSIDERATION OF H.R. 26874, A BILL MAKING APPROPRIATION FOR      
+ 361  361 5 CURENT AND CONTINGENT EXPENSES OF THE BUREAU OF INDIAN            
+ 361  361 6 AFFAIRS, FOR FULFILLING TREATY STIPULATIONS WITH VARIOUS          
+ 361  361 7 INDIAN TRIBES, AND FOR OTHER PURPOSES FOR FISCAL 1914, WHICH      
+ 361  361 8 AMENDMENT PROVIDING DISTRIBUTION OF MONEY BELONGING TO THE        
+ 361  361 9 MEMBERS OF THE CHOCTOWS AND CHICASAWS TRIBES, WHEN ROLLS ARE      
+ 361  36110 COMPLETED AND ALLOTMENTS MADE AND SURPLUS LANDS ARE SOLD,         
+ 361  36111 CONSTITUTES GENERAL LEGISLATION NOT GERMANE TO THE BILL.          
+ 361  36112 (P. 3880-1)                                                       
+ 362  362 1 CR-49-4-3910  J 62-3-220B    HR26874   FEB. 25, 1913              
+ 362  362 2 S623078       Y=68 N=5                 GAMBLE, S.D.               
+ 362  362 3 TO PASS H.R. 26874, A BILL MAKING APPROPRIATION FOR THE           
+ 362  362 4 CURRENT AND CONTINGENT EXPENSES OF THE BUREAU OF INDIAN           
+ 362  362 5 AFFAIRS, FOR FULFILLING TREATY STIPULATIONS WITH VARIOUS          
+ 362  362 6 INDIAN TRIBES, AND FOR OTHER PURPOSES FOR FISCAL 1914.            
+ 363  363 1 CR-49-4-3921  J 62-3-220C    HR27148   FEB. 25, 1913              
+ 363  363 2 S623079       Y=17 N=31                BOURNE, ORE.               
+ 363  363 3 TO AMEND H.R. 27148, A BILL MAKING APPROPRIATION FOR THE          
+ 363  363 4 SERVICE OF THE POST OFFICE DEPARTMENT FOR FISCAL 1914, BY         
+ 363  363 5 ELIMINATING A PROVISION THAT CLERKS IN CHARGE OF STATIONS         
+ 363  363 6 MAY NOT BE COMPENSATED OVER $800 ELIMINATING WORDS SO THAT        
+ 363  363 7 EACH CLERK AND CLERKS IN CHARGE OF STATIONS 2730, WILL            
+ 363  363 8 RECEIVE AT LEAST $800, OR OVER.                                   
+ 364  364 1 CR-49-4-3923  J 62-3-221A    HR22913   FEB. 25, 1913              
+ 364  364 2 S623080       Y=1 N=46                 GUGGENHEIM, COLO.          
+ 364  364 3 TO AMEND H.R. 22913, (37 STAT. 736, 3-4-13), A BILL TO            
+ 364  364 4 CREATE A DEPARTMENT OF LABO, BY ABOLISHING THE DEPARTMENT OF      
+ 364  364 5 COMMERCE AND TRANSFERRING A NUMBER OF DEPARTMENTS WHICH ARE       
+ 364  364 6 NOW UNDER THE DEPT. OF COMMERCE AND LABOR TO THE TREASURY         
+ 364  364 7 DEPARTMENT AND T0 LEAVE TO IT ALONE THE CREATION OF THE           
+ 364  364 8 DEPARTMENT OF LABOR; NO QUORUM VOTING.  (P. 3922-2)               
+ 365  365 1 CR-49-4-3923  J 62-3-221B    HR22913   FEB. 25, 1913              
+ 365  365 2 S623081       Y=0 N=44                 GUGGENHEIM, COLO.          
+ 365  365 3 TO AMEND H.R. 22913, BY ABOLISHING THE DEPARTMENT OF              
+ 365  365 4 COMMERCE AND TRANSFERRING A NUMBER OF DEPARTMENTS WHICH ARE       
+ 365  365 5 NOW UNDER THE DEPT. OF COMMERCE AND LABOR TO THE TREASURY         
+ 365  365 6 DEPARTMENT AND TO LEAVE TO IT ALONE THE CREATION OF THE           
+ 365  365 7 DEPARTMENT OF LABOR; NO QUORUM VOTING.  (P. 2922-2)               
+ 366  366 1 CR-49-4-3924  J 62-3-221C    HR22913   FEB. 25, 1913              
+ 366  366 2 S623082       Y=0 N=48                 GUGGENHEIM, COLO.          
+ 366  366 3 TO AMEND H.R. 22913, BY ABOLISHING THE DEPARTMENT OF              
+ 366  366 4 COMMERCE AND TRANSFERRING A NUMBER OF DEPARTMENTS WHICH ARE       
+ 366  366 5 NOW UNDER THE DEPT. OF COMMERCE AND LABOR TO THE TREASURY         
+ 366  366 6 DEPT. AND TO LEAVE TO IT ALONE, THE CREATION OF THE DEPT. OF      
+ 366  366 7 LABOR.  (P. 3922-2)                                               
+ 367  367 1 CR-49-4-4041  J 62-3-235A    HR28766   FEB. 26, 1913              
+ 367  367 2 S623083       Y=35 N=26                SWANSON, VA.               
+ 367  367 3 TO AMEND THE PUBLIC BUILDINGS BILL, H.R. 28766, (37 STAT.         
+ 367  367 4 866, 3-4-13), BY APPROPRIATING $1,750,000 FOR AN ARMORY IN        
+ 367  367 5 THE DISTRICT OF COLUMBIA, HALF OF WHICH IS TO BE CONSTRUCTED      
+ 367  367 6 BY THE DISTRICT.  (P. 4034-2)                                     
+ 368  368 1 CR-49-4-4043  J 62-3-235B    HR28766   FEB. 26, 1913              
+ 368  368 2 S62384        Y=40 N=24                WILLIAMS, MISS.            
+ 368  368 3 TO AMEND THE AMENDMENT TO H.R. 28766, BY APPROPRIATING            
+ 368  368 4 $700,000, FOR SITE AND MEMORIAL BUILDING OF MOMUMENTAL            
+ 368  368 5 DESIGN IN THE DISTRICT OF COLUMBIA TO COMMEMORATE THE             
+ 368  368 6 SERVICES AND SACRIFICES OF THE WOMEN DURING THE CIVIL WAR         
+ 368  368 7 AND TO SERVE AS A PERMANENT HEADQUARTERS FOR THE AMERICAN         
+ 368  368 8 RED CROSS.  (P. 4072-2)                                           
+ 369  369 1 CR-49-4-4053  J 62-3-236A    HR28766   FEB. 26, 1913              
+ 369  369 2 S623086       Y=24 N=30                O'GORMAN, N.Y.             
+ 369  369 3 TO TABLE THE AMENDMENT TO H.R. 28766, WHICH AMENDMENT             
+ 369  369 4 AUTHORIZES CONSTRUCTION OF BRIDGE ACROSS POTOMAC RIVER, AT A      
+ 369  369 5 COST OF $5,000,000.  (P. 4052-2)                                  
+ 370  370 1 CR-49-4-4053  J 62-3-236B    HR28766   FEB. 26, 1913              
+ 370  370 2 S623087       Y=17 N=40                STONE, MO.                 
+ 370  370 3 TO AMEND H.R. 28766, BY ELIMINATING THE PROVISION FOR THE         
+ 370  370 4 CONSTRUCTION OF A BRIDGE OVER THE POTOMAC RIVER.                  
+ 370  370 5 (P. 4050-2)                                                       
+ 371  371 1 CR-49-4-4054  J 62-3-236C    HR28766   FEB. 268 1913              
+ 371  371 2 S623088       Y=14 N=45                GORE, OKLA.                
+ 371  371 3 TO ADJOURN, A MOTION MADE DURING CONSIDERATION OF                 
+ 371  371 4 H.R. 28766.                                                       
+ 372  372 1 CR-49-4-4066  J 62-3-237A    HR28766   FEB. 26, 1913              
+ 372  372 2 S623089       Y=22 N=28                WILLIAMS, MISS.            
+ 372  372 3 TO AMEND THE AMENDMENT TO H.R. 28766, BY AUTHORIZING THE          
+ 372  372 4 ACQUISITION OF A SITE AND ERECTION OF A MEMORIAL BUILDING IN      
+ 372  372 5 THE DISTRICT OF COLUMBIA TO COMMEMORATE THE SERVICES AND          
+ 372  372 6 SACRIFICES OF THE LOYAL WOMEN OF THE U.S. DURING THE CIVIL        
+ 372  372 7 WAR, THE BUILDING TO BE USED AS A PERMENENT HEADQUARTERS OF       
+ 372  372 8 OF THE AMERICAN RED CROSS, THE COST TO BE NOT LESS THAN           
+ 372  372 9 $700,000, WHICH SAME THE U.S. SHALL CONTRIBUTE.  (P. 4066-1)      
+ 373  373 1 CR-49-4-4067  J 62-3-237C    HR28766   FEB. 26, 1913              
+ 373  373 2 S623090       Y=35 N=15                SWANSON, VA.               
+ 373  373 3 TO PASS H.R. 28766.                                               
+ 374  374 1 CR-49-4-4067  J 62-3-237B    HR28766   FEB. 26, 1913              
+ 374  374 2 S623091       Y=30 N=20                ROOT, N.Y.                 
+ 374  374 3 TO AMEND H.R. 28766, BY PROVIDING THAT THE MEMORIAL BUILDING      
+ 374  374 4 BE DEDICATED ONLY TO THE LOYAL WOMEN OF THE CIVIL WAR AND BE      
+ 374  374 5 SEPARATE AND APART FROM THE RED CROSS.  (P. 4066-2)               
+ 375  375 1 CR-49-5-4271  J 62-3-248     HR27475   FEB. 28, 1913              
+ 375  375 2 S623092       Y=19 N=29                BRYAN, FLA.                
+ 375  375 3 TO AMEND THE AMENDMENT TO H.R. 27475, (37 STAT. 1400,             
+ 375  375 4 3-3-13), A BILL GRANTING PENSIONS AND INCREASE OF PENSIONS        
+ 375  375 5 TO CERTAIN SOLDIERS AND SAILORS OF THE CIVIL WAR AND CERTAIN      
+ 375  375 6 WIDOWS AND DEPENDENT CHILDREN OF SOLDIERS AND SAILORS OF          
+ 375  375 7 SAID WAR, BY DENYING ONE CHARLES P. HARDER AN INCREASE IN         
+ 375  375 8 PENSION FROM $12 TO $24.00 PER MONTH.  (P. 4270-1,2)              
+ 376  376 1 CR-49-5-4285  J 62-3-249A    HR27475   FEB. 28, 1913              
+ 376  376 2 S623093       Y=33 N=33                BRISTOW, KAN.              
+ 376  376 3 TO RECONSIDER THE VOTE BY WHICH AMENDMENT TO PENSION BILL         
+ 376  376 4 H.R. 27475, (37 STAT. 1400, 3-3-13), WAS ADOPTED, WHICH           
+ 376  376 5 AMENDMENT RELATES TO THE COURTS MARTIAL OF CADETS                 
+ 376  376 6 RALPH I. SASSE, ELLIOTT H. FRELAND, TATTNAL D. SIMKINS AND        
+ 376  376 7 JAMES D. CHRISTIAN.  (P. 4282-1)                                  
+ 377  377 1 CR-49-5-4291  J 62-3-249B    HR26680   FEB. 28, 1913              
+ 377  377 2 S623094       Y=15 N=55                WARREN, WYO.               
+ 377  377 3 TO AGREE TO THE CONFERENCE REPORT ON H.R. 26680, (37 STAT.        
+ 377  377 4 739, 3-4-13), A BILL MAKING APPROPRIATIONS FOR LEGISLATIVE,       
+ 377  377 5 EXECUTIVE, AND JUDICIAL EXPENSES OF THE GOVERNMENT FOR            
+ 377  377 6 FISCAL 1914.                                                      
+ 378  378 1 CR-49-5-4299  J 62-3-251A    HR17593   FEB. 28, 1913              
+ 378  378 2 S623095       Y=10 N=71                KERN, IND.                 
+ 378  378 3 TO POSTPONE UNTIL TOMORROW CONSIDERATION OF THE PRESIDENT'S       
+ 378  378 4 VETO MESSAGE OF H.R. 17593, A BILL TO DIVEST INTOXICATING         
+ 378  378 5 LIQUORS OF THEIR INTERSTATE COMMERCE CHARACTER IN CERTAIN         
+ 378  378 6 CASES.  (P. 4298-2)                                               
+ 379  379 1 CR-49-5-4299  J 62-3-251B    HR17593   FEB. 28, 1913              
+ 379  379 2 S623096       Y=63 N=21                CLARK, WYO.                
+ 379  379 3 TO PASS OVER THE VETO OF THE PRESIDENT, H.R. 17593, A BILL        
+ 379  379 4 TO DIVEST INTOXICATING LIQUORS OF THEIR INTERSTATE COMMERCE       
+ 379  379 5 CHARACTER IN CERTAIN CASES.  (P. 4299-2)                          
+ 380  380 1 CR-49-5-4302  J 62-3-251C    HR22526   FEB. 28, 1913              
+ 380  380 2 S623097       Y=28 N=23                OLIVER, PA.                
+ 380  380 3 TO AGREE TO THE CONFERENCE REPORT ON H.R. 22526, (37 STAT.        
+ 380  380 4 732, 3-3-1913), A BILL AMENDING THE PURE FOOD AND DRUG ACT.       
+ 381  381 1 CR-49-5-4312  J 62-3-252A    HR28812   FEB. 28, 1913              
+ 381  381 2 S623098       Y=21 N=47                BRANDEGEE, CONN.           
+ 381  381 3 TO AMEND AN AMENDMENT TO H.R. 28812, (37 STAT. 891, 3-1-13),      
+ 381  381 4 A BILL MAKING APPROPRIATIONS FOR THE NAVAL SERVICE FOR            
+ 381  381 5 FISCAL 1914, BY APPROPRIATING $11,150,000, INSTEAD OF             
+ 381  381 6 $7,425,000 FOR THE CONSTRUCTION OF THREE INSTEAD OF TWO           
+ 381  381 7 FIRST CLASS BATTLESHIPS.  (P. 4311-1,2)                           
+ 382  382 1 CR-49-5-4312  J 62-3-252B    HR28812   FEB. 28, 1913              
+ 382  382 2 S623099       Y=56 N=16                PERKINS, CALIF.            
+ 382  382 3 TO AMEND H.R. 28812, BY APPROPRIATING $7,425,000 TO               
+ 382  382 4 CONSTRUCT 2 FIRST CLASS BATTLESHIPS INSTEAD OF ONE.               
+ 382  382 5 (P. 4311-1)                                                       
+ 383  383 1 CR-49-5-4316  J 62-3-252C    HR28812   FEB. 28, 1913              
+ 383  383 2 S623100       Y=28 N=30                OLIVER, PA.                
+ 383  383 3 TO AMEND AN AMENDMENT TO H.R. 28812, BY PROVIDING THAT ONE        
+ 383  383 4 OF THE BATTLESHIPS HEREIN AUTHORIZED SHALL BE BUILT IN A          
+ 383  383 5 GOVERNMENT NAVY YARD IF THE ESTIMATED COST THEREOF IS NOT         
+ 383  383 6 MORE THAN ONE HALF MILLION DOLLARS ABOVE THE PRICE FOR            
+ 383  383 7 WHICH IT CAN BE BUILT BY CONTRACT.  (P. 4313-1)                   
+ 384  384 1 CR-49-5-4411  J 62-3-264A    HR28180   MAR. 1, 1913               
+ 384  384 2 S623101       Y=26 N=37                NELSON, MINN.              
+ 384  384 3 TO PROCEED TO THE CONSIDERATION OF H.R. 28180, A MOTION MADE      
+ 384  384 4 DURING CONSIDERATION OF H.R. 28858, (37 STAT. 912, 3-4-13),       
+ 384  384 5 A BILL MAKING APPROPRIATIONS TO SUPPLY DIFICIENCIES FOR           
+ 384  384 6 FISCAL 1913.  (P. 4410-2)                                         
+ 385  385 1 CR-49-5-4428  J 62-3-264B    HR28180   MAR. 1, 1913               
+ 385  385 2 S623102       Y=45 N=16                                           
+ 385  385 3 TO AGREE TO THE CONFERENCE REPORT ON H.R. 28180.                  
+ 386  386 1 CR-49-5-4585  J 62-3-265     HR23673   MAR. 1, 1913               
+ 386  386 2 S623103       Y=24 N=37                LAFOLLETTE, WISC.          
+ 386  386 3 TO AMEND AN AMENDMENT TO H.R. 23673, CONCERNING SEAMEN IN         
+ 386  386 4 THE AMERICAN MERCHANT MARINE, BY PROVIDING THAT NO SEAMEN         
+ 386  386 5 SHALL BE REQUIRED TO DO ANY UNNECESSARY WORK ON THE HEREIN        
+ 386  386 6 TO WIT:  SUNDAYS, NEW YEARS DAY, WASHINGTONS' BIRTHDAY,           
+ 386  386 7 GOOD FRIDAY, JULY 4TH, LABOR DAY, THANKSGIVING DAY, ELECTION      
+ 386  386 8 DAY, AND CHRISTMAS, BUT THIS SECTION SHALL NOT APPLY TO           
+ 386  386 9 FISHING OR WHALING VESSELS OR YACHTS.  (P. 4584-2)                
+ 387  387 1 CR-49-5-4585  J 62-3-266A    HR23673   MAR. 1, 1913               
+ 387  387 2 S623104       Y=28 N=40                LAFOLLETTE, WISC.          
+ 387  387 3 TO AMEND THE SUBSTITUTE AMENDMENT TO H.R. 23673, BY               
+ 387  387 4 ELIMINATING THE CLAUSE WHICH PROVIDES THAT IT SHALL BE A          
+ 387  387 5 CRIMINAL OFFENSE TO DISSUADE OR ATTEMPT TO DISSUADE ANY           
+ 387  387 6 PERSON FROM TAKING EMPLOYMENT ON ANY VESSEL, OR FROM              
+ 387  387 7 REMAINING IN THE SERVICE OF ANY VESSEL, OR TO DISOBEY ANY         
+ 387  387 8 LAWFUL ORDER OF HIS SUPERIORS.                                    
+ 388  388 1 CR-49-5-4586  J 62-3-266C    HR23673   MAR. 1, 1913               
+ 388  388 2 S623105       Y=35 N=30                LAFOLLETTE, WISC.          
+ 388  388 3 TO AMEND AN AMENDMENT TO H.R. 23673, BY PROVIDING THAT A          
+ 388  388 4 SEAMEN 1 SHALL BE ENTITLED TO THE RATING OF EFFICIENT             
+ 388  388 5 LIFEBOAT HAND WHO HAS SHOWN BY PRACTICAL TEST TO THE              
+ 388  388 6 SATISFACTION OF THE BOARD OF LORD INSPECTORS THAT HE IS           
+ 388  388 7 QUALIFIED TO PERFORM ANY DUTY REFERRED IN THE LAUNCHING AND       
+ 388  388 8 HANDLING OF LIFEBOATS.  (P. 4586-2)                               
+ 389  389 1 CR-49-5-4586  J 62-3-266B    HR23673   MAR. 1, 1913               
+ 389  389 2 S623106       Y=47 N=16                LAFOLLETTE, WISC.          
+ 389  389 3 TO AMEND H.R. 23673, BY PROVIDING THAT THE ACT APPLY ONLY TO      
+ 389  389 4 VESSELS NAVIGATING RIVERS EXCLUSIVELY.  (P. 4586-1)               
+ 390  390 1 CR-49-5-4587  J 62-3-266D    HR23673   MAR. 1, 1913               
+ 390  390 2 S623107       Y=21 N=39                LAFOLLETTE, WISC.          
+ 390  390 3 TO AMEND A SUBSTITUTE AMENDMENT TO H.R. 23673, BY INCLUDING       
+ 390  390 4 IN THE REGULATIONS GOVERNING MERCHANT VESSELS OF THE U.S.,        
+ 390  390 5 VESSELS OF LESS THAN 300 GROSS TONS, AND VESSELS WHOSE            
+ 390  390 6 REGULAR SCHEDULE BETWEEN TERMINAL PORTS DOES NOT EXCEED           
+ 390  390 7 TWELVE HOURS.  (P. 4563-2)                                        
+ 391  391 1 CR-49-5-4588  J 62-3-266E    HR23673   MAR. 1, 1913               
+ 391  391 2 S623108       Y=21 N=37                BURTON, OHIO               
+ 391  391 3 TO AMEND AN AMENDMENT TO H.R. 23673, BY INCLUDING WITHIN THE      
+ 391  391 4 TERMS AND PROVISIONS OF THIS ACT VESSELS CARRYING PASSENGERS      
+ 391  391 5 FOR HIRE.  (P. 4588-1)                                            
+ 392  392 1 CR-49-5-4590  J 62-3-266F    PROC      MAR. 1, 1913               
+ 392  392 2 S623109       Y=10 N=52                JOHNSTON, ALA.             
+ 392  392 3 TO ADJOURN.                                                       
+ 393  393 1 CR-49-5-4674  J 62-3-287     S5382     MAR. 3, 1913               
+ 393  393 2 S623110       Y=44 N=10                SUTHERLAND, UTAH           
+ 393  393 3 TO CONSIDER S. 5382, WITH HOUSE AMENDMENTS, A BILL TO             
+ 393  393 4 PROVIDE AN EXCLUSIVE REMEDY AND COMPENSATION FOR ACCIDENTAL       
+ 393  393 5 INJURIES, RESULTING IN DISABILITY OR DEATH, TO EMPLOYEES OF       
+ 393  393 6 COMMON CARRIERS BY RAILROADS ENGAGED IN THE INTERSTATE OR         
+ 393  393 7 FOREIGN COMMERCE, OR IN THE DISTRICT OF COLUMBIA AND FOR          
+ 393  393 8 OTHER PURPOSES.  (P. 4674-1)                                      
+ 394  394 1 CR-49-5-4693  J 62-3-288     HR27148   MAR. 3, 1913               
+ 394  394 2 S623111       Y=47 N=12                                           
+ 394  394 3 TO AGREE TO THE CONFERENCE REPORT ON H.R. 27148, (37 STAT.        
+ 394  394 4 791, 3-4-13), A BILL MAKING APPROPRIATION FOR THE SERVICE OF      
+ 394  394 5 THE POST OFFICE DEPARTMENT FOR FISCAL 1914.  (P. 4693-1)          
+ 395  395 1 CR-49-5-4696  J 62-3-295     HR28766   MAR. 3, 1913               
+ 395  395 2 S623112       Y=17 N=46                O'GORMAN, N.Y.             
+ 395  395 3 TO TABLE THE REPORT OF THE CONFERENCE COMMITTEE ON                
+ 395  395 4 H.R. 28766, (37 STAT. 866, 3-4-13), A BILL TO LIMIT THE COST      
+ 395  395 5 OF CERTAIN BUILDING TO AUTHORIZE THE EMPLOYMENT, EXTENSION,       
+ 395  395 6 REMODELLING AND IMPROVEMENT OF CERTAIN PUBLIC BUILDINGS, TO       
+ 395  395 7 AUTHORIZE THE ERECTION AND COMPLETION OF PUBLIC BUILDINGS,        
+ 395  395 8 TO AUTHORIZE THE PURCHASE OF SITES FOR PUBLIC BUILDINGS, AND      
+ 395  395 9 FOR OTHER PURPOSES.  (P. 4695-2)                                  
+ 396  396 1 CR-49-5-4702  J 62-3-296     HR28766   MAR. 3, 1913               
+ 396  396 2 S623113       Y=44 N=16                                           
+ 396  396 3 TO AGREE TO THE CONFERENCE REPORT ON H.R. 28766, (37 STAT.        
+ 396  396 4 866, 3-4-13), A BILL TO INCREASE THE LIMIT COST OF CERTAIN        
+ 396  396 5 BUILDINGS; TO AUTHORIZE THE ENLARGEMENT, EXTENSION,               
+ 396  396 6 REMODELING, OR IMPROVEMENT OF CERTAIN PUBLIC BUILDINGS; TO        
+ 396  396 7 AUTHORIZE THE ERECTION AND COMPLETION OF PUBLIC BUILDINGS TO      
+ 396  396 8 AUTHORIZE THE PURCHASE OF SITES FOR PUBLIC BUILDINGS.             
+ 396  396 9 (P. 4701-2)                                                       
