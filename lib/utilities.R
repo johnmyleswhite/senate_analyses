@@ -1,8 +1,12 @@
 clean.variable.name <- function(variable.name)
 {
-  variable.name <- gsub('_', '.', variable.name, perl = TRUE)
-  variable.name <- gsub('-', '.', variable.name, perl = TRUE)
+  variable.name <- gsub('^[^a-zA-Z0-9]+', '', variable.name, perl = TRUE)
+  variable.name <- gsub('[^a-zA-Z0-9]+$', '', variable.name, perl = TRUE)
+  variable.name <- gsub('_+', '.', variable.name, perl = TRUE)
+  variable.name <- gsub('-+', '.', variable.name, perl = TRUE)
   variable.name <- gsub('\\s+', '.', variable.name, perl = TRUE)
+  variable.name <- gsub('\\.+', '.', variable.name, perl = TRUE)
+  variable.name <- make.names(variable.name)
   return(variable.name)
 }
 
@@ -58,7 +62,7 @@ generate.ideal.points <- function(congress, hardcoded.member, hardcoded.ideal.po
                        IdealPoint = estimated.a,
                        MinIdealPoint = a.min,
                        MaxIdealPoint = a.max),
-            file = file.path('cache', paste('senator_ideal_points', congress, '.csv', sep = '')),
+            file = file.path('cache', paste('senator_ideal_points_', congress, '.csv', sep = '')),
             row.names = FALSE)
 }
 
@@ -82,6 +86,7 @@ plot.ideal.points <- function(congress)
                       sep = '')),
       width = 600,
       height = 2400)
+  
   p <- ggplot(ideal.points, aes(x = reorder(Senator, IdealPoint), y = IdealPoint, color = Party)) + 
     geom_point() +
     geom_errorbar(uncertainty) +
@@ -89,7 +94,15 @@ plot.ideal.points <- function(congress)
     scale_color_manual(values = colors) +
     xlab('Senator') +
     ylab('Estimated Ideal Point') +
-    opts(title = 'Ideal Points for 110th Congress')
+    opts(title = paste('Ideal Points for Congress', congress, sep = ' '))
+  
   print(p)
+  
   dev.off()
+}
+
+determine.party <- function(name)
+{
+  library('stringr')
+  return(str_extract(str_extract(name, '\\(\\w+'), '\\w+'))
 }
